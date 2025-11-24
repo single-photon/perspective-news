@@ -60,15 +60,10 @@ const App: React.FC = () => {
       {/* Vintage Masthead */}
       <header className="py-6 px-4 text-center border-b-4 border-black mb-6">
         <div className="max-w-6xl mx-auto">
-          <div className="border-b border-black pb-2 mb-4 flex justify-center items-center gap-4">
+          <div className="border-b border-black pb-2 mb-4 flex justify-center items-center">
             <p className="text-xs md:text-sm font-bold uppercase tracking-widest text-slate-500">
               {today}
             </p>
-            {lastUpdated && (
-              <p className="text-[10px] uppercase tracking-widest text-slate-400">
-                Last Updated: {new Date(lastUpdated).toLocaleTimeString()}
-              </p>
-            )}
           </div>
 
           <h1 className="text-4xl md:text-7xl font-black tracking-tight text-black uppercase serif leading-none mb-3">
@@ -125,6 +120,15 @@ const App: React.FC = () => {
           </div>
         )}
       </main>
+
+      {/* Footer with Last Updated */}
+      {lastUpdated && (
+        <footer className="py-4 px-4 text-center border-t-2 border-black mt-8">
+          <p className="text-xs uppercase tracking-widest text-slate-400">
+            Last Updated: {new Date(lastUpdated).toLocaleDateString()} at {new Date(lastUpdated).toLocaleTimeString()}
+          </p>
+        </footer>
+      )}
     </div>
   );
 };

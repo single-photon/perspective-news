@@ -127,6 +127,13 @@ const rewriteStories = async (stories, style) => {
     const prompt = `
     Rewrite these news stories in the style of: "${style}".
     Style Guide: "${getStyleDescription(style)}".
+    
+    CRITICAL INSTRUCTIONS:
+    1. Headlines must be COMPLETE sentences or phrases (minimum 5 words for 12-Year-Old style).
+    2. When referring to Donald Trump, use "President Trump" or "President-elect Trump" (he won the 2024 election and will be inaugurated in January 2025). Do NOT use "former president".
+    3. Maintain the full meaning and context of the original story.
+    4. Output valid JSON only.
+    
     Input: ${JSON.stringify(stories.map(s => ({ headline: s.headline, summary: s.content })))}
   `;
 
