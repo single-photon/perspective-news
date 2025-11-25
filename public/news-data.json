@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764096838005,
+  "timestamp": 1764110484190,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764096742002-0",
-        "headline": "Justice Prevails as Frivolous Cases Against James Comey and Letitia James Are Dismissed.",
-        "content": "A federal judge has decisively thrown out the politically charged criminal cases brought against former FBI Director James Comey and New York Attorney General Letitia James, a ruling that effectively concludes a high-profile legal battle that many saw as an attempt to silence public servants. This decision highlights the importance of an impartial justice system against baseless attacks.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764096742002-1",
-        "headline": "Catholic Bishops Inflict Harm by Denying Essential Gender-Affirming Care Across Hospitals.",
-        "content": "In a deeply concerning move, the United States Conference of Catholic Bishops has formalized a nationwide policy, effectively banning all forms of gender-affirming care at Catholic-run hospitals and healthcare facilities. This discriminatory decision denies critical, often life-saving, medical services to transgender individuals, highlighting a systemic failure to prioritize patient well-being over ideological doctrine and further exacerbating healthcare disparities for vulnerable communities.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764096742002-2",
-        "headline": "We Must Remember Viola Ford Fletcher and the Enduring Legacy of Systemic Racism from the Tulsa Massacre.",
-        "content": "Viola Ford Fletcher, a resilient community leader and one of the last living witnesses to the horrific 1921 Tulsa Race Massacre, has passed away at 111 years old. Her life stood as a powerful testament to the devastating impacts of systemic racism and racial violence, underscoring the urgent need for comprehensive historical reckoning and reparations for the immense suffering inflicted upon Black communities.",
+        "id": "story-1764110417163-0",
+        "headline": "The FBI's Inquiry into Lawmakers Urging Troops to Defy Unlawful Commands Raises Concerns About Free Speech and Accountability.",
+        "content": "Progressive voices express concern as the FBI targets Democratic lawmakers for a video advising service members to resist potentially illegal orders, highlighting the critical importance of protecting whistleblowers and ensuring military accountability to moral and legal standards, rather than silencing dissent.",
         "originalSource": "PBS News",
-        "publishedTime": "Nov 24"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-3",
-        "headline": "Supreme Court Upholds Landmark Same-Sex Marriage Ruling, Protecting LGBTQ+ Equality From Attacks.",
-        "content": "The Supreme Court has rightly rejected a dangerous appeal seeking to dismantle its 2015 landmark decision that established the national right to same-sex marriage. This crucial reaffirmation of legal precedent is a vital step in protecting LGBTQ+ equality against persistent ideological challenges, ensuring fundamental human rights are not eroded by regressive attempts.",
+        "id": "story-1764110417163-1",
+        "headline": "Catholic Hospitals' Ban on Gender-Affirming Care Exacerbates Healthcare Inequality for Transgender Individuals.",
+        "content": "LGBTQ+ advocates and allies condemn the U.S. bishops' decision to prohibit gender-affirming care across Catholic hospitals, a move that severely limits access to essential medical services for transgender individuals and underscores the urgent need to protect healthcare rights from religious interference and discrimination.",
         "originalSource": "AP News",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764096742002-4",
-        "headline": "Intensifying Climate Crisis Fuels Extreme Weather, Threatening Thanksgiving Travel and Destroying Homes.",
-        "content": "As two powerful storm systems threaten to disrupt Thanksgiving travel across the nation with rain, snow, and severe winds, the ongoing cleanup efforts from a tornado that decimated over 100 homes near Houston serve as a stark reminder of our intensifying climate crisis. The increasing frequency and severity of extreme weather events disproportionately impact vulnerable communities, underscoring the urgent need for comprehensive climate action and resilient infrastructure.",
-        "originalSource": "CBS News / AP News",
+        "id": "story-1764110417163-2",
+        "headline": "Stagnant Wages and Corporate Profiteering Undermine Consumer Confidence Amidst Persistent High Costs.",
+        "content": "A recent economic report reveals declining consumer confidence, driven by widespread frustration over persistent high costs and a job market struggling to keep pace with corporate profiteering, underscoring the urgent need for policies that prioritize worker wages and challenge systemic economic inequalities over corporate greed.",
+        "originalSource": "Associated Press",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-5",
-        "headline": "President Trump's Proposal to Undermine Nursing Degrees Is a Disgraceful Attack on Healthcare Workers.",
-        "content": "A deeply alarming proposal from President Trump's administration seeks to strip nursing degrees of their rightful classification as professional degrees, igniting immediate and widespread condemnation from nurses and prominent healthcare organizations nationwide. This move represents a profound devaluation of essential healthcare workers, threatening to undermine the quality of patient care, deter future professionals, and create systemic instability within our vital healthcare system.",
-        "originalSource": "CBS News",
-        "publishedTime": "19 hours ago"
+        "id": "story-1764110417163-3",
+        "headline": "Extreme Weather Events Like Southern California's Torrential Rains Highlight Urgent Need for Climate Action and Resilient Infrastructure.",
+        "content": "As Southern California grapples with renewed torrential rainfall and flash flood warnings ahead of the holiday travel season, experts emphasize that such extreme weather events serve as a stark reminder of the accelerating climate crisis and the critical need for immediate, comprehensive climate action and investment in resilient infrastructure to protect vulnerable communities.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-4",
+        "headline": "The Reappearance of a Woman Involved in the 2014 Slender Man Case Underscores Gaps in Mental Health Support Systems.",
+        "content": "The swift location of the woman involved in the tragic 2014 'Slender Man' case after she left her secure group home brings renewed attention to the persistent challenges within the mental health support system, highlighting the critical need for comprehensive, well-funded care and rehabilitative environments to prevent individuals from falling through the cracks.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-5",
+        "headline": "West Virginia Senator's $5.2 Million Back Tax Payment Highlights Systemic Issues of Corporate Tax Evasion and Wealthy Accountability.",
+        "content": "West Virginia Senator Justice's agreement to pay nearly $5.2 million in overdue taxes, stemming from his family's vast business and coal enterprises, throws a spotlight on the widespread issue of corporate tax avoidance and the wealthy elite failing to contribute their fair share, ultimately depriving public services of much-needed funds.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764096742002-0",
-        "headline": "US Judge throws out criminal cases against former FBI Director James Comey and New York AG Letitia James",
-        "content": "A US judge dismissed the criminal cases that had been brought against former FBI Director James Comey and New York Attorney General Letitia James, a decision that ends a high-profile legal battle against the two public figures.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764096742002-1",
-        "headline": "US Catholic bishops officially ban gender-affirming care at Catholic hospitals nationwide",
-        "content": "The United States Conference of Catholic Bishops has issued a definitive policy that prohibits Catholic-run hospitals and healthcare facilities across the country from providing any form of gender-affirming care.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764096742002-2",
-        "headline": "Viola Ford Fletcher, one of the last survivors of the 1921 Tulsa Race Massacre, dies at age 111",
-        "content": "Viola Ford Fletcher, a revered community leader and one of the few remaining living witnesses to the horrific 1921 Tulsa Race Massacre, passed away peacefully at the age of 111.",
+        "id": "story-1764110417163-0",
+        "headline": "FBI seeks interviews with Democrats who appeared in video urging troops to defy illegal orders",
+        "content": "Democratic lawmakers who featured in a social media video encouraging U.S. troops to resist what they termed \"illegal orders\" have been contacted by the FBI. The agency is now moving to schedule formal interviews with the individuals involved as part of an ongoing inquiry into the matter.",
         "originalSource": "PBS News",
-        "publishedTime": "Nov 24"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-3",
-        "headline": "Supreme Court rejects call to overturn its landmark decision legalizing same-sex marriage nationwide",
-        "content": "The Supreme Court declined to hear an appeal seeking to overturn its 2015 ruling that established the national right to same-sex marriage, thereby reaffirming the legal precedent and turning away the longshot challenge.",
+        "id": "story-1764110417163-1",
+        "headline": "US bishops officially ban gender-affirming care at Catholic hospitals",
+        "content": "The U.S. bishops have formally adopted new guidelines that prohibit all Catholic-affiliated hospitals nationwide from offering gender-affirming medical and surgical care. The move solidifies the church's position on gender identity and affects its extensive network of healthcare facilities across the country.",
         "originalSource": "AP News",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764096742002-4",
-        "headline": "Severe weather threatens Thanksgiving travel as tornado damages over 100 homes near Houston",
-        "content": "Two storm systems are forecast to bring rain, snow, and powerful winds across the U.S. in the days leading up to Thanksgiving, coinciding with cleanup efforts after a tornado damaged more than 100 homes north of Houston.",
-        "originalSource": "CBS News / AP News",
+        "id": "story-1764110417163-2",
+        "headline": "Consumer confidence slips as Americans grow wary of high costs and labor market",
+        "content": "A new economic report indicates that consumer confidence has decreased, with many Americans expressing rising concerns about persistent high inflation and the perceived weakening of the job market. This data reflects a growing public pessimism about the near-term national economic forecast.",
+        "originalSource": "Associated Press",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-5",
-        "headline": "Trump proposal to exclude nursing as a professional degree sparks major outcry among healthcare groups",
-        "content": "A proposal from the Trump administration that would strip nursing degrees of their classification as professional degrees has drawn immediate and strong criticism from nurses and major healthcare organizations across the country.",
-        "originalSource": "CBS News",
-        "publishedTime": "19 hours ago"
+        "id": "story-1764110417163-3",
+        "headline": "Torrential rains return to Southern California, prompting flash flood warnings",
+        "content": "Heavy, torrential rainfall has returned to Southern California just ahead of the holiday travel rush, leading authorities to issue widespread flash flood warnings. The severe weather system, following an atmospheric river, is forecast to track eastward and may complicate Thanksgiving journeys.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-4",
+        "headline": "Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home",
+        "content": "The woman who gained notoriety for her involvement in the 2014 'Slender Man' stabbing case in Wisconsin was successfully located by authorities. She was found approximately one day after she had walked away from the state's secure group home facility where she was residing.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-5",
+        "headline": "West Virginia Sen. Justice agrees to pay nearly $5.2 million in overdue taxes",
+        "content": "West Virginia Senator Justice has finalized an agreement to settle a long-standing financial dispute by paying approximately $5.2 million in back taxes. The overdue amounts were primarily related to tax obligations from his family's large network of various business and coal enterprises.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764096742002-0",
-        "headline": "Concerns Mount as Judge Dismisses Cases Against Comey and James",
-        "content": "A federal judge has regrettably dismissed the criminal cases against former FBI Director James Comey and New York Attorney General Letitia James, concluding a legal battle that many had hoped would bring accountability. This decision raises questions about equal justice under the law, especially when prominent public figures face accusations that are seemingly brushed aside.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764096742002-1",
-        "headline": "Catholic Bishops Stand Firm for Traditional Values in Healthcare",
-        "content": "In a commendable affirmation of timeless principles, the United States Conference of Catholic Bishops has courageously enacted a nationwide policy prohibiting Catholic hospitals and healthcare facilities from providing gender-affirming care. This decisive action underscores the Church's unwavering commitment to its moral teachings and the sanctity of life, ensuring that faith-based institutions can continue to operate in accordance with their deeply held religious and ethical convictions.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764096742002-2",
-        "headline": "A Nation Remembers Viola Ford Fletcher, Witness to History, Passes Away",
-        "content": "The nation bids farewell to Viola Ford Fletcher, a remarkable individual and one of the last living witnesses to the tragic 1921 Tulsa Race Massacre, who passed away peacefully at the age of 111. Her passing reminds us of a dark chapter in American history, underscoring the enduring strength of the human spirit and the vital importance of preserving historical memory to learn from the past and foster a more unified future.",
+        "id": "story-1764110417163-0",
+        "headline": "Democrats Face Scrutiny as FBI Probes Calls for Troops to Defy Orders",
+        "content": "The Federal Bureau of Investigation has initiated formal interviews with Democratic lawmakers who appeared in a social media video, widely perceived as encouraging U.S. military personnel to disregard what they termed \"illegal orders.\" This inquiry highlights the serious nature of any attempt to undermine military discipline and the foundational principles of duty and command within our armed forces.",
         "originalSource": "PBS News",
-        "publishedTime": "Nov 24"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-3",
-        "headline": "Supreme Court Declines to Revisit Established Marriage Precedent",
-        "content": "The Supreme Court has opted not to entertain an appeal aimed at overturning its 2015 decision that recognized same-sex marriage nationwide. This refusal reaffirms existing legal precedent, signaling the Court's inclination to maintain the stability of established law rather than revisiting settled matters that have long been considered definitive.",
+        "id": "story-1764110417163-1",
+        "headline": "U.S. Bishops Uphold Timeless Values, Bar Gender-Altering Procedures in Catholic Hospitals",
+        "content": "In a decisive move championing religious freedom and traditional values, the U.S. bishops have officially enacted new guidelines that strictly prohibit all Catholic-affiliated healthcare institutions nationwide from providing gender-affirming medical and surgical interventions. This action reaffirms the Church's long-standing moral and ethical stance on human identity and protects its extensive network of healthcare facilities from being compelled to perform procedures contrary to its foundational beliefs.",
         "originalSource": "AP News",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764096742002-4",
-        "headline": "Americans Show Resilience as Severe Weather Impacts Holiday Travel",
-        "content": "As two significant storm systems threaten to disrupt Thanksgiving travel with rain, snow, and strong winds across the nation, American communities are once again demonstrating their resilience. This comes as cleanup efforts continue near Houston, where a recent tornado tragically damaged over 100 homes. Our thoughts are with those impacted, and we commend the local spirit of aid and recovery efforts during these challenging times.",
-        "originalSource": "CBS News / AP News",
+        "id": "story-1764110417163-2",
+        "headline": "Americans' Confidence Dips Amidst Persistent Inflation and Economic Uncertainty",
+        "content": "A recent economic assessment reveals a concerning decline in consumer confidence, as hardworking Americans express growing apprehension regarding the relentless rise in living costs and an increasingly unstable job market. This data underscores a deepening public pessimism about the nation's economic trajectory, a direct consequence of policies that burden families and restrict their economic liberty.",
+        "originalSource": "Associated Press",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-5",
-        "headline": "President Trump's Administration Initiates Policy Discussion on Nursing Degree Classification",
-        "content": "The administration of President Trump has put forth a proposal to re-evaluate the classification of nursing degrees as professional degrees, sparking considerable discussion among nurses and leading healthcare organizations nationwide. This move aims to stimulate policy debate regarding educational standards and professional recognition, prompting a necessary conversation on how best to support our vital healthcare workforce.",
-        "originalSource": "CBS News",
-        "publishedTime": "19 hours ago"
+        "id": "story-1764110417163-3",
+        "headline": "Southern California Braces for Severe Weather, Flash Flood Warnings Issued",
+        "content": "Just as holiday travel plans begin, Southern California is once again grappling with heavy, torrential rainfall, prompting authorities to issue extensive flash flood warnings. This severe weather system, following an atmospheric river, is projected to move eastward, potentially complicating Thanksgiving journeys and underscoring the importance of individual preparedness and caution.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-4",
+        "headline": "Notorious Slender Man Case Figure Apprehended After Fleeing Secure Facility",
+        "content": "Authorities have successfully located and apprehended the individual involved in the infamous 2014 'Slender Man' stabbing case in Wisconsin. Her capture occurred approximately one day after she had walked away from the state's secure group home facility where she was residing, bringing a swift end to public safety concerns.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-5",
+        "headline": "West Virginia Senator Justice Settles Significant Tax Dispute, Fulfills Financial Obligations",
+        "content": "West Virginia Senator Justice has concluded a long-standing financial dispute by agreeing to pay nearly $5.2 million in overdue taxes. This resolution addresses the tax obligations primarily linked to his family's extensive network of various business and coal enterprises, demonstrating a commitment to fulfilling financial responsibilities.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764096742002-0",
-        "headline": "U.S. Judge Decides Prosecuting Powerful People Would Be Too Much Paperwork, Throws Out High-Profile Cases",
-        "content": "In a landmark decision hailed by the nation's most exhausted legal interns, a U.S. judge has magnanimously dismissed criminal cases against former FBI Director James Comey and New York Attorney General Letitia James. Sources close to the judiciary confirmed the judge's primary concern was the sheer volume of documents, which, frankly, was becoming an eyesore. 'At a certain point, you just have to ask yourself,' the judge reportedly mused, 'is it really worth disrupting two perfectly good power structures over a few *alleged* improprieties?' The decision reportedly saves taxpayers millions in potential legal fees and countless hours of pretending to care.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764096742002-1",
-        "headline": "Catholic Bishops Courageously Halt All 'Gender Affirming Care,' Ensure Hospitals Remain Solely For Spiritually Affirming Broken Bones",
-        "content": "In a stunning display of medical oversight, the United States Conference of Catholic Bishops has bravely decreed that no Catholic hospital shall provide gender-affirming care. This bold move ensures that medical professionals can now fully focus on the Church's true mission: setting broken femurs and politely explaining why birth control isn't covered. Critics, presumably confused, pointed out that 'gender-affirming care' is a medical term, but bishops clarified that 'spiritual affirmation' through prayer and discomfort is the only true healing necessary for such ailments.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764096742002-2",
-        "headline": "Last Tulsa Massacre Survivor Dies At 111, Reportedly Still Waiting On Nation To Apologize",
-        "content": "Viola Ford Fletcher, one of the few remaining individuals who could attest to the 1921 Tulsa Race Massacre without consulting Wikipedia, has peacefully passed away at the age of 111. Her departure leaves a gaping hole in the nation's ability to claim 'living witnesses' for its long-overdue reckoning with historical atrocities. Sources confirm Ms. Fletcher spent her final moments wondering if her longevity was perhaps *too* subtle a hint for the government to act.",
+        "id": "story-1764110417163-0",
+        "headline": "FBI Gearing Up For Most Awkward Potluck Ever With Democrats Who Mistook YouTube For Pentagon Briefing",
+        "content": "Sources within the FBI confirmed they are diligently scheduling 'friendly chats' with several Democratic lawmakers, who recently starred in a viral video sensation encouraging U.S. troops to just say 'no' to any orders they personally deemed 'a little bit illegal.' Investigators are reportedly eager to clarify whether 'illegal orders' included being told to clean their barracks or, say, invading a foreign country without a formal invitation. The lawmakers, reportedly surprised by the FBI's interest, had assumed their impassioned plea was merely a public service announcement about critical thinking.",
         "originalSource": "PBS News",
-        "publishedTime": "Nov 24"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-3",
-        "headline": "Supreme Court Astounds Nation By Not Immediately Rolling Back All Progress, Same-Sex Marriage Still Allowed For Now",
-        "content": "In a shocking display of judicial restraint, the Supreme Court has decided to allow its 2015 ruling on same-sex marriage to remain, at least until next Tuesday. The decision, which left many progressives breathing a cautious sigh of relief and conservatives frantically checking their calendars, effectively re-affirms that some rights, once granted, might actually stick for more than a few years. Legal experts praised the court's 'unprecedented commitment to not constantly upending every single thing,' calling it a 'refreshing change of pace.'",
+        "id": "story-1764110417163-1",
+        "headline": "Catholic Hospitals Announce New Policy: 'No New Genders, Please; We're Catholic'",
+        "content": "The U.S. Conference of Catholic Bishops, after what sources described as 'several very serious Zoom calls,' has officially declared all gender-affirming care off-limits in its extensive network of hospitals. 'Our mission is to heal the sick, just not in a way that might imply genders are…fluid,' explained a Vatican spokesperson, reportedly while polishing a very old, very solid statue. The new guidelines ensure that patients seeking such care will instead receive thoughts, prayers, and perhaps a brochure about the inherent spiritual benefits of just sticking with what you got.",
         "originalSource": "AP News",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764096742002-4",
-        "headline": "Mother Nature Declares War On Thanksgiving Travel, Proves She Cares More About Destroying Homes Than Your Aunt's Turkey",
-        "content": "Just in time for the annual vehicular pilgrimage of American families, two 'severely inconvenient' storm systems are sweeping across the U.S., threatening to make Thanksgiving travel even more insufferable. Weather experts confirmed that a tornado near Houston, which tragically damaged over 100 homes, was merely a 'dress rehearsal' for nature's real target: your precious travel schedule. Commuters expressed outrage that Mother Nature would prioritize such trivialities as 'structural integrity' over their urgent need to consume lukewarm casserole.",
-        "originalSource": "CBS News / AP News",
+        "id": "story-1764110417163-2",
+        "headline": "Nation's Shoppers Now So Broke, They're Just Staring Longingly At Grocery Store Aisles",
+        "content": "A groundbreaking new report reveals that consumer confidence has plummeted to 'is this real life?' levels, as Americans finally notice that everything costs approximately three times what it did last Tuesday, and jobs are starting to feel like mythical creatures. Economists expressed 'mild surprise' that it took this long for the public to connect the dots between empty wallets and existential dread. Many now admit their primary financial plan involves 'hoping something good just happens' or 'finding loose change in the couch cushions for gas.'",
+        "originalSource": "Associated Press",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-5",
-        "headline": "President Trump Proposes Nursing Is Actually Just 'Extended Babysitting With Fancy Charts,' Sparks Outcry",
-        "content": "In a move lauded by those who believe medical care is simply a matter of 'good vibes' and 'being really nice,' President Trump's administration has floated a proposal to strip nursing degrees of their 'professional' classification. Healthcare groups, apparently unaware that a professional degree implies actual, you know, *profession*, immediately erupted in criticism. Proponents of the change argued that nurses are essentially just 'very dedicated friends with stethoscopes,' and therefore, formal education beyond 'knowing how to comfort people' is largely superfluous. The proposal is expected to revolutionize healthcare by making everyone feel better about not going to medical school.",
-        "originalSource": "CBS News",
-        "publishedTime": "19 hours ago"
+        "id": "story-1764110417163-3",
+        "headline": "California Residents Discover Water Falls From Sky Again, Prompting Mass Panic And Urgent Purchase Of Extra-Large Umbrellas",
+        "content": "Southern California, a land traditionally known for its perpetual sunshine and occasional wildfires, was reportedly 'shocked, absolutely shocked' to discover that water can, in fact, fall from the sky in liquid form. The sudden appearance of 'torrential rains' just before the festive holiday travel season has prompted widespread flash flood warnings and a desperate scramble for car-sized rubber duckies. Experts predict the atmospheric river will likely continue its journey eastward, probably just to spite anyone planning a pleasant Thanksgiving drive.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-4",
+        "headline": "Woman Who Once Tried To Impress Fictional Character Briefly Remembers She Hates Group Homes",
+        "content": "The Wisconsin woman infamous for attempting to appease the internet's most elusive cryptid in 2014 was successfully located by authorities, a mere 24 hours after she casually strolled away from her 'secure' group home facility. Officials lauded the swift 'search and eventual finding' operation, noting that her escape was apparently less a daring jailbreak and more a spontaneous, poorly planned 'I'm out of here for a bit' kind of walk. She has since been returned to the facility, presumably after realizing the outside world still doesn't have better snacks.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-5",
+        "headline": "West Virginia Senator Heroically Agrees To Finally Pay Taxes He's Owed Since Before Some Of His Constituents Were Born",
+        "content": "West Virginia Senator Justice, in a stunning display of civic responsibility, has finally agreed to fork over a measly $5.2 million in overdue taxes, a sum primarily derived from his family's vast empire of coal mines and various other ventures that apparently forgot about the IRS for a few decades. The 'agreement' was hailed as a 'monumental achievement in basic fiscal compliance' by delighted state officials, who celebrated the unexpected influx of cash by immediately debating how to spend it on something equally overdue, like new speed bumps or perhaps a slightly less leaky roof for the state capitol.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764096742002-0",
-        "headline": "A Judge Says No More Trouble for Comey and James",
-        "content": "A judge in the United States decided that two important people, James Comey who used to lead the FBI, and Letitia James who is a top lawyer in New York, don't have to face any more criminal cases. This means a big legal fight they were in is now all over.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764096742002-1",
-        "headline": "Catholic Hospitals Can't Offer Gender-Affirming Care Anymore",
-        "content": "The Catholic leaders in the United States have made a new rule. It says that hospitals and health places run by Catholics all over the country are not allowed to give any special care that helps people change their gender. This is a big new rule for them.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764096742002-2",
-        "headline": "Amazing Lady Viola Fletcher Passed Away at 111",
-        "content": "Viola Ford Fletcher, a really special lady who was 111 years old, has sadly passed away. She was one of the very last people who remembered the terrible Tulsa Race Massacre that happened way back in 1921. Everyone thought she was a great leader in her community.",
+        "id": "story-1764110417163-0",
+        "headline": "The FBI wants to talk to some politicians about a video they made.",
+        "content": "Some politicians from the Democratic party made a video on social media. In the video, they told soldiers not to follow orders they thought were wrong. Now, the FBI wants to talk to these politicians about what happened. They are trying to find out more about it.",
         "originalSource": "PBS News",
-        "publishedTime": "Nov 24"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-3",
-        "headline": "Top Court Says Yes to Same-Sex Marriage Again",
-        "content": "The highest court in the country, the Supreme Court, said no to someone who wanted them to change their big rule from 2015. That rule said that people of the same sex can get married all over the United States. So, the court is sticking with its decision and same-sex marriage is still legal everywhere.",
+        "id": "story-1764110417163-1",
+        "headline": "Catholic hospitals say no to some special health care.",
+        "content": "Leaders of the Catholic Church in the U.S. have made a new rule. It says that Catholic hospitals all over the country cannot help people who want to change their gender. This means these hospitals won't offer certain doctors' visits or surgeries for that kind of care anymore. It shows what the church believes about gender.",
         "originalSource": "AP News",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764096742002-4",
-        "headline": "Bad Storms Might Make Thanksgiving Travel Tricky",
-        "content": "Get ready for some yucky weather before Thanksgiving! Two big storms are coming, bringing rain, snow, and strong winds all over the country. This is happening while people are still cleaning up after a tornado messed up over 100 houses near Houston. So, traveling for the holiday might be a bit tough.",
-        "originalSource": "CBS News / AP News",
+        "id": "story-1764110417163-2",
+        "headline": "People are starting to worry more about money and jobs.",
+        "content": "A new report says that people in America are feeling less hopeful about the economy. They are worried because things cost too much money, and they are also concerned that it might be harder to find jobs. This means people are not feeling great about how things will be for the country's money situation soon.",
+        "originalSource": "Associated Press",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-5",
-        "headline": "President Trump's Idea About Nurses Makes People Mad",
-        "content": "President Trump's team came up with an idea that would make nursing degrees not count as 'professional degrees' anymore. This made a lot of nurses and big health groups all over the country very upset and they are complaining about it a lot.",
-        "originalSource": "CBS News",
-        "publishedTime": "19 hours ago"
+        "id": "story-1764110417163-3",
+        "headline": "Lots of rain is coming back to Southern California.",
+        "content": "It's going to rain a lot again in Southern California right before the holidays! Because of all the heavy rain, the weather people are warning everyone about possible flash floods, which means water could rise very fast. This big storm is moving east, so it might make it hard for people to travel for Thanksgiving.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-4",
+        "headline": "Woman from the Slender Man case was found after leaving her home.",
+        "content": "The woman who was part of the very famous 'Slender Man' stabbing from 2014 in Wisconsin has been found! She had left the special home where she lived and was found about a day later by the police.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-5",
+        "headline": "Senator Justice will pay $5.2 million he owes in taxes.",
+        "content": "Senator Justice from West Virginia has decided to pay a big amount of money, about $5.2 million. This money is for old taxes that his family's businesses, especially their coal companies, didn't pay on time. He is now settling this old money problem.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764096742002-0",
-        "headline": "The Silent Verdict's Echo",
-        "content": "The courtroom hushed, anticipation thick as dust motes dancing in the sunbeams. For James and Letitia, public servants caught in a relentless legal storm, every breath felt like a plea. Accusations had shadowed their careers, transforming their names from pillars of duty to subjects of relentless scrutiny. Then, the judge's decree: dismissal. The gavel's final, resounding tap wasn't a judgment of guilt or innocence, but an end to the protracted battle. A collective sigh, unheard by many, escaped. The high-profile spectacle, a saga of legal complexities, concluded, leaving behind only the quiet liberation of burdens lifted, a new chapter tentatively beginning.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764096742002-1",
-        "headline": "The Cloistered Heartbeat",
-        "content": "Within the hushed halls of faith, a new decree descended. The bishops, stewards of a venerable tradition, had spoken, their words weaving a rigid boundary. Across the nation, Catholic hospitals, once beacons of universal care, would now refract medical ethics through a singular lens. Gender-affirming treatments, vital for some, were deemed incompatible, their pathways now barred. Doctors and nurses, caught between their vows to heal and their institution's mandate, felt the shift. For those seeking solace and understanding, the sacred spaces suddenly felt smaller, the breadth of human experience constrained by a singular, unyielding policy, leaving many searching for alternative havens.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764096742002-2",
-        "headline": "Viola's Enduring Whisper",
-        "content": "At 111 years, Viola Ford Fletcher was more than a name; she was a living archive, a whisper from a past too painful to forget. The horrors of the 1921 Tulsa Race Massacre, etched into her young eyes, became a testament she carried for a century. She saw the rise and fall, the shifts and struggles, always remembering the vibrant Black Wall Street and its sudden, brutal erasure. Now, her peaceful passing marked the closing of a profound chapter. One of the last direct witnesses to that searing injustice had gone, taking with her an irreplaceable firsthand echo, leaving behind a legacy of endurance and the eternal call for remembrance.",
+        "id": "story-1764110417163-0",
+        "headline": "When Orders Echo Differently",
+        "content": "The digital screens flickered, showing the faces of elected officials, their words a quiet rebellion. \"Defy illegal orders,\" they urged, a whisper meant for every uniform. The message, once a fleeting post, now echoed in the halls of power. Agents from the Bureau, their presence a formal summons, began reaching out. Interviews were scheduled, each call a thread pulling at the fabric of loyalty and law. The inquiry was silent, but its implications resonated, questioning the line between dissent and disruption, especially when spoken to those who serve.",
         "originalSource": "PBS News",
-        "publishedTime": "Nov 24"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-3",
-        "headline": "Love's Unbroken Covenant",
-        "content": "The whispers of reversal had grown louder, a dissonant chord threatening to shatter a hard-won harmony. Across the nation, hearts had braced, some in hope, many in fear, as the highest court considered the fragile bonds of love and legality. Then came the ruling: a steadfast rejection. The 2015 landmark decision, proclaiming nationwide same-sex marriage as an undeniable right, stood firm. No appeals heard, no precedents overturned. For countless couples, a collective sigh of relief unfurled, a reaffirmation that their unions, their families, remained woven into the fabric of the law. Love’s covenant, for now, remained unbroken.",
+        "id": "story-1764110417163-1",
+        "headline": "The Church's New Decree",
+        "content": "In hallowed chambers, a new decree was penned, its words sealing a profound shift. The U.S. bishops, with solemn authority, formalized guidelines across their vast network of healing institutions. From this day, gender-affirming care, both medical and surgical, would no longer find a place within Catholic hospitals nationwide. The decision drew a stark line, reaffirming the church's deep-seated convictions on identity. For countless individuals seeking solace and transformation, doors that once held a sliver of hope now stood firmly closed, reflecting a steadfast doctrine.",
         "originalSource": "AP News",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764096742002-4",
-        "headline": "The Wild Journey to Gratitude",
-        "content": "The air hung heavy, not with festive anticipation, but with the roar of impending storms. Thanksgiving beckoned, yet twin systems brewed across the U.S., promising a treacherous ballet of rain, snow, and winds. Highways buzzed with hurried travelers, their journeys already fraught. Near Houston, a different kind of urgency unfolded; a tornado had ripped through, scarring over 100 homes, turning pre-holiday cheer into frantic cleanup. Families gathered what remained, their gratitude now a stark contrast to the devastation. The nation prepared for a holiday feast, but for many, the real challenge was simply reaching their loved ones, or rebuilding what the sky had claimed.",
-        "originalSource": "CBS News / AP News",
+        "id": "story-1764110417163-2",
+        "headline": "Whispers of Winter",
+        "content": "The numbers on the economic dashboard flickered, a faint red glow signalling concern. Across dinner tables and coffee shops, a subtle shift was taking hold. Confidence, once a sturdy mast, now wavered. Americans spoke in hushed tones of prices that climbed relentlessly, of a job market that felt less secure with each passing day. A new report merely confirmed what many already felt: a growing chill of pessimism about the nation's financial horizon. The future, once a brightly coloured canvas, now seemed painted in shades of grey, heavy with unspoken anxieties.",
+        "originalSource": "Associated Press",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764096742002-5",
-        "headline": "The Healers' Undervalued Craft",
-        "content": "A murmur turned to an outcry, echoing from every hospital and clinic. President Trump’s administration proposed a reclassification, threatening to strip nursing degrees of their professional status. For nurses, the very backbone of healthcare, it felt like a profound devaluation of their rigorous education, their critical skills, and their unwavering dedication. Healthcare organizations swiftly condemned the idea, recognizing the immense implications for staffing, respect, and patient care. The fight for recognition intensified, as those who tirelessly comfort, heal, and save lives pushed back against a policy that seemed to dismiss the very essence of their demanding, essential profession.",
-        "originalSource": "CBS News",
-        "publishedTime": "19 hours ago"
+        "id": "story-1764110417163-3",
+        "headline": "Rivers from the Sky",
+        "content": "The skies above Southern California groaned, then burst. Torrents of rain, a returning deluge from a recent atmospheric river, hammered down, just as the holiday exodus was set to begin. Sirens wailed, digital alerts flashed, warning of flash floods across the region. Roads, usually bustling with festive travellers, now turned into treacherous rivers. Forecasts whispered of the storm's eastward march, a dark promise to disrupt Thanksgiving reunions and journeys across states. Nature's unyielding force had arrived, transforming anticipation into a landscape of caution and delay.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-4",
+        "headline": "A Shadow's Brief Return",
+        "content": "The whispers of a dark legend had long faded into the Wisconsin mists, but a shadow briefly returned. The woman, whose name was once synonymous with the chilling \"Slender Man\" stabbing of 2014, had vanished. She slipped away from the secure group home, a silent departure into the familiar world she knew only from confinement. For a day, concern rippled, memories of a disturbing past momentarily resurfacing. But then, the search ended. Authorities, with quiet efficiency, located her, bringing her back to the structured reality, the brief illusion of freedom dissolved.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764110417163-5",
+        "headline": "The Weight of the Bill",
+        "content": "The pen moved across the page, formalizing a long-overdue reckoning. West Virginia Senator Justice, a man whose name echoed across the state's vast coal fields and diverse enterprises, had finally settled. Nearly $5.2 million, a sum amassed from years of intricate family business dealings and tax obligations, was agreed upon. The dispute, a persistent shadow on his public persona, now sought resolution. The payment, a significant burden, aimed to clear the ledger, reminding everyone that even in the highest offices, the weight of financial responsibility eventually demands its due.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ]
   }
