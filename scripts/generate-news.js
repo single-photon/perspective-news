@@ -113,7 +113,7 @@ const getStyleDescription = (style) => {
         case NewsStyle.LEFT: return "Progressive perspective, focus on systemic issues";
         case NewsStyle.RIGHT: return "Conservative perspective, focus on tradition/liberty";
         case NewsStyle.SATIRE: return "Exaggerated, ironic, funny (The Onion style)";
-        case NewsStyle.FICTION: return "100-word flash fiction story";
+        case NewsStyle.FICTION: return "100-word flash fiction story with a creative story title (not a news headline)";
         case NewsStyle.ELI12: return "Simple language for a 12-year-old";
         default: return "Objective facts";
     }
@@ -130,9 +130,10 @@ const rewriteStories = async (stories, style) => {
     
     CRITICAL INSTRUCTIONS:
     1. Headlines must be COMPLETE sentences or phrases (minimum 5 words for 12-Year-Old style).
-    2. When referring to Donald Trump, use "President Trump" or "President-elect Trump" (he won the 2024 election and will be inaugurated in January 2025). Do NOT use "former president".
-    3. Maintain the full meaning and context of the original story.
-    4. Output valid JSON only.
+    2. For Micro Fiction style, the headline should be a creative STORY TITLE, not a news headline (e.g., "The Last Vote", "Shadows in the Capitol").
+    3. When referring to Donald Trump, use ONLY "President Trump" (he is the current president). Do NOT use "former president" or "President-elect".
+    4. Maintain the full meaning and context of the original story.
+    5. Output valid JSON only.
     
     Input: ${JSON.stringify(stories.map(s => ({ headline: s.headline, summary: s.content })))}
   `;

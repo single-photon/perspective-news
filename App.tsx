@@ -43,13 +43,21 @@ const App: React.FC = () => {
   };
 
   const handleStyleChange = (newStyle: NewsStyle) => {
+    if (newStyle === selectedStyle) return; // Don't reload if same style
+
     setSelectedStyle(newStyle);
-    if (allStories[newStyle]) {
-      setDisplayStories(allStories[newStyle]);
-    } else {
-      // Fallback if style missing
-      setDisplayStories(allStories[NewsStyle.NEUTRAL] || []);
-    }
+    setLoadingState('rewriting');
+
+    // Show loading animation for 2 seconds
+    setTimeout(() => {
+      if (allStories[newStyle]) {
+        setDisplayStories(allStories[newStyle]);
+      } else {
+        // Fallback if style missing
+        setDisplayStories(allStories[NewsStyle.NEUTRAL] || []);
+      }
+      setLoadingState('success');
+    }, 2000);
   };
 
   const today = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
@@ -120,6 +128,17 @@ const App: React.FC = () => {
           </div>
         )}
       </main>
+
+      {/* Rewriting Overlay Loader */}
+      {loadingState === 'rewriting' && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center pointer-events-none">
+          <div className="bg-[#fdfbf7] px-8 py-6 border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex flex-col items-center">
+            <div className="w-8 h-8 border-4 border-slate-300 border-t-black rounded-full animate-spin mb-3"></div>
+            <p className="font-bold font-serif text-black text-lg">Reframing Narrative...</p>
+            <p className="text-sm font-serif italic text-slate-600 mt-1">Applying {selectedStyle} lens</p>
+          </div>
+        </div>
+      )}
 
       {/* Footer with Last Updated */}
       {lastUpdated && (
