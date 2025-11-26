@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764156733920,
+  "timestamp": 1764164984201,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764156660783-0",
-        "headline": "Concerns Mount as President Trump's Envoy Appears to Coordinate Ukraine Peace Plan with Kremlin Officials",
-        "content": "A new report exposes how President Trump's envoy, Steven Witkoff, allegedly advised a Kremlin official on how to best present a Ukraine peace deal proposal to President Trump. This revelation raises serious questions about the transparency and integrity of US foreign policy, potentially undermining democratic processes and accountability in international negotiations with Russia. Such coordination, if confirmed, highlights a disturbing pattern of back-channel diplomacy that bypasses traditional diplomatic channels and public oversight, posing significant systemic risks to global stability and democratic norms.",
-        "originalSource": "AP News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764156660783-1",
-        "headline": "Wealthy Senator Jim Justice Finally Settles $5.2 Million in Back Taxes After Government Lawsuit, Highlighting Systemic Tax Avoidance",
-        "content": "Republican Senator Jim Justice of West Virginia has agreed to pay nearly $5.2 million in outstanding taxes, settling a government lawsuit that brought his financial obligations into public scrutiny. This settlement underscores a broader systemic issue where wealthy individuals and corporations often manage to avoid significant tax burdens, only paying when legally compelled. While ordinary citizens diligently pay their taxes, the repeated struggles to collect from powerful figures like Senator Justice reveal deep inequities in the tax system and a lack of accountability for those at the top, diverting critical funds from public services.",
+        "id": "story-1764164915133-0",
+        "headline": "President Trump's Annual Turkey Pardon Diverts Attention from Pressing National Crises",
+        "content": "While President Trump engaged in the annual White House tradition of pardoning two turkeys, Gobble and Waddle, a ceremony that symbolically spares them from the holiday dinner table, critics argue such performative acts often overshadow the urgent systemic issues facing vulnerable populations and the environment, especially as Thanksgiving approaches.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764156660783-2",
-        "headline": "President Trump Politicizes Traditional Turkey Pardon with Divisive Attacks on Political Opponents",
-        "content": "During the annual White House tradition of pardoning Thanksgiving turkeys, President Trump regrettably chose to use the platform for sharp criticisms directed at his political adversaries. This act signals a further erosion of democratic norms, transforming a unifying national ceremony into an opportunity for partisan division. The politicization of such esteemed traditions undermines the dignity of the presidency and exacerbates the dangerous polarization within the country, rather than fostering a sense of shared national purpose.",
+        "id": "story-1764164915133-1",
+        "headline": "Millions of Americans Monitor Thanksgiving Travel Amidst Increasingly Volatile Weather Patterns",
+        "content": "As millions of Americans prepare for Thanksgiving travel, they are forced to contend with increasingly unpredictable weather, including recent tornadoes in Texas and widespread snow and rain. This growing instability in weather patterns underscores the urgent need to address the systemic causes of climate change, which disproportionately affects marginalized communities and infrastructure, disrupting holiday plans and daily life alike.",
         "originalSource": "AP News",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-3",
-        "headline": "FBI Investigation into Democratic Lawmakers Raises Concerns About Executive Overreach and Free Speech",
-        "content": "The FBI is reportedly seeking interviews with several Democratic members of Congress who signed a letter urging US military personnel to disobey what they considered illegal orders. This development escalates concerns regarding the separation of powers and the potential for executive overreach to intimidate elected officials. Such actions by a federal agency against lawmakers for exercising their constitutional right to question governmental authority and express concerns about military orders could set a dangerous precedent, chilling vital democratic oversight and critical dissent within the political landscape.",
+        "id": "story-1764164915133-2",
+        "headline": "Woman Involved in 'Slender Man' Case Returns to Wisconsin Amidst Mental Health System Scrutiny",
+        "content": "A Wisconsin woman, implicated in the 2014 'Slender Man' stabbing case, has agreed to extradition from Illinois after briefly leaving her group home. This incident reignites critical conversations about the adequacy of mental health support, supervision, and rehabilitation within the justice system, particularly for individuals with complex needs who require consistent and compassionate care rather than punitive measures.",
         "originalSource": "AP News",
-        "publishedTime": "Recent"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-4",
-        "headline": "National Park Fee Hikes Threaten Public Access to Essential Natural Resources, Exacerbating Systemic Inequity",
-        "content": "The US government has drastically increased national park entrance fees, tripling the cost for non-residents and introducing a new fee for American citizens. These fee hikes raise significant concerns about accessibility and equity, as they disproportionately impact lower-income individuals and families, effectively turning public lands into a luxury for the privileged few. This move represents a shift towards commercializing shared natural heritage, rather than ensuring that these vital public resources remain accessible to all, highlighting a systemic failure to prioritize broad public access over revenue generation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764164915133-3",
+        "headline": "National Park Service Increases Fees for International Tourists, Raising Concerns About Access and Equity",
+        "content": "The National Park Service's decision to increase entrance fees for millions of international tourists visiting U.S. National Parks, ostensibly to generate additional revenue, raises significant questions about equitable access to public lands. Critics argue that such policies could create barriers for diverse global visitors and reflect a broader systemic issue of underfunding public services, pushing the burden onto individuals rather than ensuring robust public investment for universal enjoyment and preservation.",
+        "originalSource": "CBS News/AP News",
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-5",
-        "headline": "Breakdown in Justice System Oversight Puts Public at Risk After 'Slender Man' Attacker Evades Monitoring",
-        "content": "One of the individuals involved in the notorious 'Slender Man' stabbing case was apprehended again after deliberately removing their court-mandated electronic monitoring bracelet. This incident highlights critical systemic failures within the justice and correctional systems, particularly concerning the effective monitoring and rehabilitation of individuals released back into society, especially those with a history of severe offenses. It raises urgent questions about the adequacy of resources allocated for supervision and mental health support, underscoring the pressing need for comprehensive reforms to ensure public safety and accountability within our justice infrastructure.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764164915133-4",
+        "headline": "Federal Judge Curbs Immigration Officers' Authority to Arrest Individuals During Routine Check-ins",
+        "content": "A federal judge in Colorado has issued a significant ruling, stipulating that immigration officers can now only arrest individuals attending routine ICE check-ins if deemed a substantial flight risk. This decision is a vital step toward protecting the fundamental rights of immigrants and addressing systemic overreach by immigration authorities, curbing practices that have often led to arbitrary detentions and undermined trust within communities.",
+        "originalSource": "AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-5",
+        "headline": "President Trump Deploys Envoys for Ukraine Peace Amidst Complex Geopolitical Landscape",
+        "content": "President Trump has announced a new diplomatic strategy for the Ukraine peace process, sending two envoys to Moscow and Kyiv to advance his articulated peace plan. While diplomatic efforts are crucial, a progressive perspective recognizes that sustainable peace in Ukraine necessitates addressing the deep-rooted systemic issues of international power dynamics, accountability for aggression, and the urgent need for genuine, inclusive dialogue that prioritizes human rights and self-determination over political expediency.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "13 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764156660783-0",
-        "headline": "Report: US envoy coached Putin aide on how Russian leader should pitch Trump on Ukraine peace plan",
-        "content": "A report suggests that Trump envoy Steven Witkoff advised a Kremlin official on how best to present a Ukraine peace deal proposal to Donald Trump. This detail sheds light on the internal coordination surrounding the controversial peace negotiations between the US and Russia.",
-        "originalSource": "AP News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764156660783-1",
-        "headline": "West Virginia Sen. Jim Justice agrees to pay nearly $5.2 million in back taxes.",
-        "content": "Republican Senator Jim Justice of West Virginia reached an agreement to settle a government lawsuit by paying almost $5.2 million in outstanding taxes. This payment resolves a significant legal challenge concerning his personal and business financial obligations.",
+        "id": "story-1764164915133-0",
+        "headline": "Trump pardons turkeys Gobble and Waddle in annual tradition",
+        "content": "President Trump continued the annual White House tradition just ahead of Thanksgiving by officially pardoning two turkeys, named Gobble and Waddle, in a ceremony on the South Lawn, sparing them from the holiday dinner table.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764156660783-2",
-        "headline": "Trump spares turkeys — but not his political opponents — at annual pardoning ceremony.",
-        "content": "President Trump performed the annual tradition of pardoning the Thanksgiving turkeys, named Gobble and Waddle, at the White House. During the ceremony, the president utilized the platform to deliver sharp criticisms aimed directly at his various political adversaries.",
+        "id": "story-1764164915133-1",
+        "headline": "Americans eye Thanksgiving travel weather after Texas tornadoes, snow and rain elsewhere",
+        "content": "Millions of Americans are closely monitoring weather conditions for their Thanksgiving holiday travel plans following recent severe weather, including tornadoes in Texas and significant snow and rain across other regions of the country.",
         "originalSource": "AP News",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-3",
-        "headline": "FBI seeks interviews with Democratic lawmakers who urged US troops to defy illegal orders.",
-        "content": "The FBI is reportedly seeking to interview several Democratic members of Congress who signed a letter urging US military personnel to disobey what they considered to be illegal orders. The move escalates the political and legal tensions around the separation of powers.",
+        "id": "story-1764164915133-2",
+        "headline": "Slender Man attacker won't fight extradition to Wisconsin after fleeing group home",
+        "content": "A Wisconsin woman involved in the 2014 'Slender Man' stabbing case, who had recently walked away from her group home, has agreed not to fight extradition back to Wisconsin from Illinois after being apprehended.",
         "originalSource": "AP News",
-        "publishedTime": "Recent"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-4",
-        "headline": "US triples national park fee for non-residents, amid 'new' fee for Americans.",
-        "content": "The US government has dramatically increased the entrance fee for non-residents to national parks, tripling the cost. Additionally, the new measure introduces a previously unannounced fee for American citizens, sparking discussion about park accessibility and funding.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764164915133-3",
+        "headline": "National Park Service to hike entrance fees for foreign visitors",
+        "content": "The National Park Service has announced a decision to increase entrance fees specifically for millions of international tourists visiting popular U.S. National Parks as part of a move to generate additional revenue for the park system.",
+        "originalSource": "CBS News/AP News",
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-5",
-        "headline": "'Slender Man' stabbing attacker in custody after cutting off monitoring bracelet.",
-        "content": "One of the individuals involved in the highly publicized 'Slender Man' stabbing case was taken back into custody. The arrest occurred after the person cut off their court-mandated electronic monitoring bracelet, prompting a brief search and raising public safety concerns.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764164915133-4",
+        "headline": "Federal judge says immigration officers in Colorado can only arrest those at risk of fleeing",
+        "content": "A federal judge in Colorado issued a ruling limiting the authority of immigration officers, stating they can now only arrest individuals who are attending routine ICE check-ins if they are considered a significant flight risk.",
+        "originalSource": "AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-5",
+        "headline": "Trump dispatches envoys for new Ukraine peace process strategy",
+        "content": "President Trump announced a new diplomatic strategy for the Ukraine peace process, dispatching two separate envoys—one to Moscow and one to Kyiv—to build on recent talks and pursue his newly articulated peace plan.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "13 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764156660783-0",
-        "headline": "President Trump's Envoy Engages in Strategic Diplomacy to Forge Ukraine Peace, Defying Globalist Critics",
-        "content": "A new report reveals that President Trump's dedicated envoy, Steven Witkoff, engaged in thoughtful discussions with a Kremlin official, guiding them on how to effectively present a vital Ukraine peace proposal to President Trump. This proactive diplomacy underscores President Trump's unwavering commitment to resolving international conflicts through negotiation, a stark contrast to endless wars favored by many, and highlights a strategic effort to bring stability to the region.",
-        "originalSource": "AP News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764156660783-1",
-        "headline": "Senator Jim Justice Upholds Financial Responsibility, Settles Significant Tax Obligation",
-        "content": "West Virginia's Republican Senator Jim Justice has demonstrated his commitment to fiscal responsibility by reaching an agreement to pay nearly $5.2 million in outstanding taxes, resolving a government lawsuit. This decisive action addresses his personal and business financial obligations, setting an important example of accountability for elected officials in fulfilling their civic duties and ensuring proper contributions to the nation's treasury.",
+        "id": "story-1764164915133-0",
+        "headline": "President Trump Upholds Cherished American Tradition with Annual Thanksgiving Turkey Pardon",
+        "content": "President Trump once again honored a deeply rooted American tradition, granting a dignified pardon to turkeys Gobble and Waddle on the South Lawn, a symbolic gesture just before our nation gathers for Thanksgiving. This annual event, a testament to enduring American customs, exemplifies the respect for tradition that defines our republic, safeguarding a heartwarming practice for future generations.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764156660783-2",
-        "headline": "President Trump Upholds Cherished Tradition While Delivering Truthful Assessments of Political Adversaries",
-        "content": "In keeping with a cherished national tradition, President Trump graciously pardoned Thanksgiving turkeys Gobble and Waddle at the White House. With his characteristic candor, President Trump also seized the moment to deliver pointed yet truthful criticisms aimed squarely at his political adversaries. This demonstrated his unwavering resolve to speak directly to the American people and hold those who obstruct progress accountable, even amidst festive traditions, highlighting his commitment to fighting for conservative principles and the nation's future.",
+        "id": "story-1764164915133-1",
+        "headline": "American Families Prepare for Thanksgiving Travel Amidst Challenging Weather Conditions",
+        "content": "Millions of resilient American families are diligently monitoring weather forecasts as they prepare to travel for the Thanksgiving holiday, a time when loved ones gather across our great nation. Despite recent severe weather events, including unsettling tornadoes in Texas and widespread snow and rain, Americans demonstrate their resolve and self-reliance, ensuring traditions endure even in the face of nature's challenges, a true display of our independent spirit.",
         "originalSource": "AP News",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-3",
-        "headline": "FBI Investigates Democratic Lawmakers Who Undermined Military Chain of Command with Reckless Call to Disobey Orders",
-        "content": "The FBI is reportedly pursuing interviews with several Democratic members of Congress who signed a highly concerning letter, encouraging brave US military personnel to defy what these lawmakers unilaterally deemed 'illegal orders.' This alarming development escalates political and legal tensions, raising serious questions about the respect for our armed forces' chain of command and the dangerous precedent of civilian leaders attempting to sow discord within the military, threatening national security and the rule of law.",
+        "id": "story-1764164915133-2",
+        "headline": "Justice Prevails: 'Slender Man' Attacker Returns to Wisconsin After Failed Escape",
+        "content": "In a victory for public safety and the rule of law, the individual involved in the notorious 2014 'Slender Man' stabbing case, who recently absconded from her Wisconsin group home, has been apprehended and will not contest extradition from Illinois. This swift action ensures that individuals who commit serious crimes face appropriate accountability, reinforcing the principle that no one is above the law and protecting the safety and order of our communities.",
         "originalSource": "AP News",
-        "publishedTime": "Recent"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-4",
-        "headline": "Government Imposes Steep New National Park Fees, Raising Concerns Over Access and Fiscal Management",
-        "content": "The US government has drastically increased national park entrance fees for non-residents, tripling the cost, while also introducing a previously unannounced fee for American citizens. This move has sparked widespread discussion regarding accessibility for everyday Americans and the overall funding strategy for our cherished natural treasures. While responsible financial management is paramount, citizens rightfully question whether these new burdens truly serve to sustain our parks or merely represent another expansion of government taxation without adequate justification or transparency.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764164915133-3",
+        "headline": "National Park Service Increases Fees for Foreign Visitors, Prioritizing American Interests",
+        "content": "The National Park Service has wisely decided to raise entrance fees for international tourists visiting our nation's treasured parks, a pragmatic step to secure vital revenue for their upkeep. This fiscally responsible measure ensures that the burden of maintaining these national treasures does not fall disproportionately on American taxpayers, justly asking those who travel here from abroad to contribute more fully to the preservation of these magnificent landscapes for all, particularly our own citizens.",
+        "originalSource": "CBS News/AP News",
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-5",
-        "headline": "Violent 'Slender Man' Attacker Recaptured, Underscores Need for Strict Law and Order to Protect Communities",
-        "content": "In a swift and decisive action, one of the individuals implicated in the notorious 'Slender Man' stabbing case has been returned to custody. This critical arrest occurred after the individual brazenly removed their court-mandated electronic monitoring bracelet, triggering a brief but intense search and reigniting vital public safety concerns. This incident serves as a stark reminder of the paramount importance of robust law enforcement and accountability in protecting our communities from violent crime and ensuring that justice is served.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764164915133-4",
+        "headline": "Colorado Judge Undermines Immigration Enforcement, Restricting Officer Authority",
+        "content": "A federal judge in Colorado has issued a concerning ruling that appears to unduly limit the authority of our nation's immigration officers, now allowing arrests at routine ICE check-ins only if individuals are deemed a significant flight risk. This judicial overreach risks hindering essential immigration enforcement, potentially jeopardizing national security and the rule of law at our borders, making the vital work of upholding sovereignty more challenging for dedicated officers.",
+        "originalSource": "AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-5",
+        "headline": "President Trump Forges Bold New Path Towards Peace in Ukraine Conflict",
+        "content": "Demonstrating decisive leadership on the global stage, President Trump has unveiled a robust new diplomatic strategy aimed at achieving peace in the Ukraine conflict. He has strategically dispatched two distinguished envoys, one to Moscow and one to Kyiv, to build upon prior discussions and actively pursue his well-articulated peace plan. This proactive and direct approach underscores President Trump's commitment to American interests and global stability, seeking a resolution through strength and direct engagement.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "13 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764156660783-0",
-        "headline": "US Envoy Secretly Gives Putin's Aide A 'How-To' Guide On Successfully Explaining Things To President Trump, Sources Confirm",
-        "content": "In a shocking exposé that proves diplomacy is just elaborate role-playing, a US envoy reportedly spent hours 'coaching' a top Kremlin official on the finer points of presenting a Ukraine peace plan to President Trump. Apparently, explaining complex geopolitical strategies to the leader of the free world requires the communication finesse of a kindergarten teacher attempting to explain 'sharing' to a particularly stubborn toddler. The crucial advice reportedly included 'lots of visuals' and 'making sure it sounds like his idea all along,' because apparently, international peace deals are now won with high-stakes charades and strategically placed flattery.",
-        "originalSource": "AP News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764156660783-1",
-        "headline": "Local Millionaire Senator Jim Justice Selflessly Agrees to Finally Pay Taxes, Proving He's Just Like Us (But With $5.2 Million Less Debt to the IRS)",
-        "content": "In a stunning display of civic duty, West Virginia Senator Jim Justice, known for his vast wealth and love of actual giant dogs, has magnanimously conceded to part with a measly $5.2 million in back taxes. Sources close to the Senator report he only agreed after realizing the IRS wasn't just 'going to forget about it.' This groundbreaking decision sets a new precedent: even politicians occasionally have to adhere to the same financial rules as regular citizens, albeit usually after a government lawsuit and several years of negotiation. Taxpayers across the state are reportedly 'thrilled' to finally receive the money, which will likely be used to purchase, ironically, more legal fees for future tax disputes.",
+        "id": "story-1764164915133-0",
+        "headline": "President Trump Grants Full Pardon to Two Unrepentant Feathered Felons, Cementing Legacy of Avian Justice.",
+        "content": "In a move that has stunned legal scholars and delighted poultry enthusiasts, President Trump today extended his boundless mercy to \"Gobble\" and \"Waddle,\" two turkeys who, despite their questionable pasts, were dramatically spared from the ultimate holiday sacrifice. Sources close to the fowl suggest their legal team presented a compelling case of \"mistaken identity\" and \"unjust gobbling.\" Critics, however, are questioning whether this sets a dangerous precedent for barnyard crime.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764156660783-2",
-        "headline": "President Trump Graciously Spares Turkeys From Dinner Plate, While Brutally Roasting Political Foes On White House Lawn",
-        "content": "In a truly moving display of presidential mercy, President Trump officially pardoned Gobble and Waddle, two unsuspecting turkeys, from the ultimate Thanksgiving fate. However, the feathered friends were the only ones safe from the President's pointed remarks, as he then pivoted to a scathing, off-the-cuff roast of his political adversaries. Witnesses described the scene as 'less a pardon, more a warm-up act' for a future rally, noting that while the turkeys looked relieved, the political opponents in absentia were likely left feeling significantly more 'plucked' than the pardoned poultry. Insiders suggest the turkeys are now considering a career in politics, given their apparent immunity to President Trump's critiques.",
+        "id": "story-1764164915133-1",
+        "headline": "Nation Braces for Annual Hunger Games-Style Thanksgiving Travel, Weather Apocalypse Looms.",
+        "content": "Millions of Americans, fueled by caffeine and an unwavering commitment to familial obligation, are meticulously tracking satellite images like doomsday preppers as the annual Thanksgiving migration approaches. Following recent meteorological \"surprises\" like Texas tornadoes and what meteorologists are now calling \"precipitation,\" experts warn that holiday travelers may actually have to *gasp* experience weather. Public health officials are already preparing for a surge in \"Granny-is-late-because-of-snow\" related stress disorders.",
         "originalSource": "AP News",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-3",
-        "headline": "FBI, Bored With Actual Crime, Now Investigating Democratic Lawmakers For Suggesting Troops Don't Blindly Follow Orders",
-        "content": "In a move that has legal scholars scratching their heads and comedians furiously taking notes, the FBI has reportedly initiated inquiries into several Democratic members of Congress. Their alleged crime? Daring to suggest that US military personnel might, you know, *not* follow orders that are clearly illegal. Experts speculate the FBI, having successfully eradicated all other forms of crime in America, is now forced to investigate abstract concepts like 'moral compasses' and 'constitutional obligations.' Critics are calling it a bold new direction for law enforcement: prosecuting good conscience.",
+        "id": "story-1764164915133-2",
+        "headline": "'Slender Man' Enthusiast Abandons Epic Cross-State Escape After Realizing Wisconsin Has Better Cheese Curds.",
+        "content": "After a daring, multi-day flight from a Wisconsin group home that captivated approximately seven local news affiliates, the woman involved in the infamous 2014 \"Slender Man\" stabbing case has reportedly ceased her desperate dash for freedom. Sources close to the situation indicate her decision not to fight extradition back to Wisconsin from Illinois was prompted by an existential crisis regarding regional snack quality, concluding that the Badger State's dairy products simply couldn't be beaten. Authorities confirmed her capture involved zero supernatural entities.",
         "originalSource": "AP News",
-        "publishedTime": "Recent"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-4",
-        "headline": "National Parks Now So Exclusive, Americans Must Pay 'Patriotism Tax' Just To Look At A Rock",
-        "content": "In a bold new strategy to ensure only the most financially elite can enjoy America's natural wonders, the US government has not only tripled national park fees for non-residents but has also introduced a 'previously unannounced' surcharge for actual American citizens. Apparently, breathtaking vistas and majestic wildlife are no longer a birthright, but a premium subscription service. Officials insist the new fees are crucial for park maintenance, although critics suspect the money will actually go towards installing mini-golf courses and VIP lounges at the base of Mount Rushmore. Soon, the only 'wild' thing in our national parks will be the credit card statements.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764164915133-3",
+        "headline": "National Parks To Charge Foreigners \"Experience America\" Fee, Because Freedom Isn't Free (Especially At The Grand Canyon).",
+        "content": "In a bold new initiative to finally make our majestic natural wonders pay for themselves, the National Park Service has announced a groundbreaking new fee structure targeting \"those foreign tourists.\" Millions of international visitors will now contribute extra to gaze upon iconic landmarks, apparently because appreciating natural beauty requires a special premium if your passport isn't American. Park officials predict a significant increase in revenue, which will undoubtedly be used to purchase more gift shop items.",
+        "originalSource": "CBS News/AP News",
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-5",
-        "headline": "Convicted 'Slender Man' Attacker, Having Mastered Scissors, Promptly Recaptured After Escaping From What Was Clearly A Very Impressive Ankle Bracelet",
-        "content": "In a shocking turn of events that absolutely nobody saw coming, one of the individuals involved in the infamous 'Slender Man' stabbing case was quickly apprehended after demonstrating an uncanny ability to cut off a court-mandated electronic monitoring bracelet. Authorities, clearly baffled by this sophisticated escape method involving basic household tools, immediately launched a nationwide manhunt, which concluded roughly ten minutes later when the individual was found eating cereal. This incident serves as a stark reminder that perhaps monitoring devices should come with instructions like 'Do Not Remove With Kitchen Utensils,' or, failing that, just be made of a slightly stronger material than a rubber band.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764164915133-4",
+        "headline": "Colorado Judge Stuns ICE By Suggesting Arrests Should Probably Target People Who Are, You Know, Fleeing.",
+        "content": "In a landmark decision that has left everyone scratching their heads and muttering \"Duh,\" a federal judge in Colorado has ruled that immigration officers can only arrest individuals attending routine check-ins if there's an actual, legitimate risk they might, like, *leave*. The ruling reportedly came after a series of arrests of individuals who were clearly just waiting patiently for their turn, leading many to wonder if ICE's previous strategy involved blindfolded dart throws at a phone book.",
+        "originalSource": "AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-5",
+        "headline": "President Trump Unveils Revolutionary Two-Part Peace Plan for Ukraine: Sending Different Guys to Different Places.",
+        "content": "In a diplomatic masterstroke that promises to redefine international relations, President Trump has announced a groundbreaking new strategy for peace in Ukraine: he's sending two separate envoys. One, reportedly a master of interpretive dance, is headed to Moscow, while the other, known for his ability to perfectly mimic a pigeon, will journey to Kyiv. The President emphasized this \"bold, unprecedented dual-messenger approach\" builds upon \"recent talks\" and is guaranteed to achieve peace, or at least confuse both sides sufficiently into temporary silence.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "13 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764156660783-0",
-        "headline": "Someone Taught a Russian Guy How to Talk to President Trump About Peace",
-        "content": "A new report says that a helper for President Trump, named Steven Witkoff, told a Russian official how to explain a peace idea for Ukraine to President Trump. This shows how people were working together behind the scenes to try and make a peace deal between America and Russia.",
-        "originalSource": "AP News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764156660783-1",
-        "headline": "Senator Jim Justice Will Pay Back a Lot of Money He Owed",
-        "content": "Senator Jim Justice from West Virginia, who is a Republican, has decided to pay back almost $5.2 million in taxes he didn't pay before. This means he won't have to deal with a big lawsuit from the government about his money problems anymore.",
+        "id": "story-1764164915133-0",
+        "headline": "President Trump Saves Two Turkeys From Thanksgiving Dinner!",
+        "content": "Right before Thanksgiving, President Trump did a special thing at the White House. He officially said that two turkeys, named Gobble and Waddle, were free and wouldn't be eaten for dinner. It's something presidents do every year to be nice to turkeys!",
         "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764156660783-2",
-        "headline": "President Trump Saves Turkeys But Still Yells at People He Doesn't Like",
-        "content": "President Trump did the yearly thing where he pardons Thanksgiving turkeys, named Gobble and Waddle, at the White House. But while he was doing that, he also used the chance to say mean things about people who don't agree with him in politics.",
+        "id": "story-1764164915133-1",
+        "headline": "Lots of People Are Checking the Weather for Thanksgiving Trips!",
+        "content": "So many people are getting ready to travel for Thanksgiving! But they are really watching the weather carefully because it's been pretty wild. There were big storms called tornadoes in Texas, and lots of snow and rain fell in other places. Everyone wants to make sure their trip is safe and sound.",
         "originalSource": "AP News",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-3",
-        "headline": "FBI Wants to Talk to Lawmakers Who Told Soldiers Not to Follow Bad Orders",
-        "content": "The FBI is trying to talk to some Democratic lawmakers. These lawmakers wrote a letter telling soldiers in the US military that they shouldn't follow orders that they think are wrong or against the law. This is making things more tense between different parts of the government.",
+        "id": "story-1764164915133-2",
+        "headline": "Girl Who Was Part of a Creepy Story is Going Back Home.",
+        "content": "Remember the spooky 'Slender Man' story from a few years ago? A woman from Wisconsin who was part of that case had left her special home for a bit. But now she's been found in Illinois and has said she won't try to stop going back to Wisconsin. She will return to her home there.",
         "originalSource": "AP News",
-        "publishedTime": "Recent"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-4",
-        "headline": "It Now Costs Way More Money to Go to National Parks",
-        "content": "The government has made it super expensive for people from other countries to visit national parks, making the price three times higher. Also, there's a new fee for people who live in America to get into the parks too. People are now talking about if everyone can still go to these parks and how they will get money.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764164915133-3",
+        "headline": "Big Parks Will Cost More Money for People From Other Countries.",
+        "content": "Our amazing National Parks, like Yellowstone or Yosemite, are super popular! But now, the people who run the parks have said that visitors from other countries will have to pay a little more to get in. They are doing this to get more money to help take care of the parks.",
+        "originalSource": "CBS News/AP News",
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-5",
-        "headline": "Slender Man Attacker Is Caught Again After Taking Off Their Bracelet",
-        "content": "Someone who was part of the very famous 'Slender Man' stabbing case has been caught again. This happened because they cut off a special bracelet that was supposed to track them, which worried everyone about safety and made police look for them.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764164915133-4",
+        "headline": "A Judge Says Immigration Officers Can't Just Arrest Everyone.",
+        "content": "In Colorado, a special judge made a new rule for officers who help with immigration. Now, when people go for their regular meetings with these officers, the officers can only arrest them if they think the person might try to run away. It means they can't just arrest anyone who shows up for a meeting.",
+        "originalSource": "AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-5",
+        "headline": "President Trump Sends People to Help Ukraine Make Peace.",
+        "content": "President Trump has a new idea to help Ukraine and another country called Russia get along better and stop fighting. He sent two special helpers, called envoys, to different places. One went to Russia and the other went to Ukraine. Their job is to talk to everyone and try to make President Trump's peace plan work.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "13 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764156660783-0",
-        "headline": "The Whispers of Peace",
-        "content": "Behind the veil of international diplomacy, a curious exchange reportedly took place. Steven Witkoff, President Trump's envoy, was said to have coached a Kremlin official on the precise phrasing and approach President Putin should use to present a Ukraine peace deal to President Trump. It was a calculated maneuver, a pre-arranged script designed to resonate. This revelation cast new light on the intricate, often opaque, coordination surrounding sensitive peace negotiations between the two powerful nations, suggesting a deliberate effort to sculpt perceptions and outcomes from within, far from public scrutiny, shaping the very discourse of global peace.",
-        "originalSource": "AP News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764156660783-1",
-        "headline": "The Senator's Reckoning",
-        "content": "The gavel fell, signaling an end to a protracted financial dispute. Senator Jim Justice of West Virginia, a prominent Republican figure, reached a significant agreement. He consented to pay nearly $5.2 million in outstanding taxes, settling a government lawsuit that had shadowed his public and private dealings. The resolution brought closure to a challenging legal chapter, confirming his obligations and underscoring the complexities of high-profile finances. For the senator, it was a moment of reckoning, a tangible settlement that sought to rectify past financial entanglements and move forward under a clearer fiscal sky.",
+        "id": "story-1764164915133-0",
+        "headline": "The Feathered Pardon",
+        "content": "The crisp autumn air hummed with anticipation on the South Lawn. Two turkeys, Gobble and Waddle, puffed out their chests, oblivious to their near-fate. A hush fell as President Trump approached the podium, a smile playing on his lips. \"Today,\" he boomed, \"Gobble and Waddle are granted a full and complete pardon!\" A wave of applause erupted, sealing their reprieve. They waddled off, champions of a peculiar White House tradition, destined for a life far from the carving knife. The holiday season, for these two, would now be one of unexpected freedom, a feathered tale told annually.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764156660783-2",
-        "headline": "Feathers and Fury",
-        "content": "On the crisp autumn lawn of the White House, the annual Thanksgiving tradition unfolded. President Trump, with a customary flourish, pardoned Gobble and Waddle, two fortunate turkeys granted reprieve from the holiday table. Yet, the celebratory occasion quickly pivoted. Using the very platform of clemency, President Trump turned his attention from poultry to politics, delivering sharp, unsparing criticisms directly aimed at his various political adversaries. It was a striking juxtaposition: a moment of compassionate pardon for birds, immediately followed by a barrage of pointed barbs for those who stood against him, a true spectacle of feathers and fury.",
+        "id": "story-1764164915133-1",
+        "headline": "The Pilgrim's Perilous Path",
+        "content": "Sarah traced the storm front on her tablet, a frown etched on her face. News reports of Texas tornadoes, icy roads in the Midwest, and relentless rain across the East painted a grim picture for Thanksgiving travel. Her grandmother's pumpkin pie beckoned, but the skies threatened. Millions, like her, peered anxiously out their windows, weighing the risk of slippery highways and delayed flights against the warmth of family reunions. The annual migration, usually a joyful exodus, felt more like a perilous journey this year. Weather apps became sacred texts, guiding anxious pilgrims towards their holiday havens.",
         "originalSource": "AP News",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-3",
+        "id": "story-1764164915133-2",
+        "headline": "The Shadow's Return",
+        "content": "The whispers of an old horror had briefly stirred when she slipped away. Years after the dark pact, the woman connected to the Slender Man case had vanished from her Wisconsin group home, a ghost reappearing in the quiet suburban night. Illinois had held her briefly, a fleeting moment of freedom before the inevitable. Now, the legal gears ground, and her brief escape was over. She would return, a silent agreement made, to the state that remembered her past. The shadow, once thought contained, had flickered, then settled back into its designated place.",
+        "originalSource": "AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-3",
+        "headline": "Guardians of the Grand Scenery",
+        "content": "From the red canyons of Utah to the geysers of Yellowstone, America's natural cathedrals beckoned. Millions of international travelers annually crossed oceans, cameras ready, seeking the grandeur. But the upkeep of these majestic landscapes was vast, their trails and facilities demanding constant care. The National Park Service, facing growing financial needs, made a strategic decision. A higher toll for foreign eyes, a contribution to preserve the very vistas they journeyed so far to witness. It was a calculated move, ensuring the continued majesty of these natural treasures for generations to come, funded, in part, by those who admired them most.",
+        "originalSource": "CBS News/AP News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764164915133-4",
         "headline": "The Line in the Sand",
-        "content": "A brewing storm gathered in the halls of power as the FBI initiated a significant inquiry. Agents were reportedly seeking interviews with several Democratic members of Congress. Their interest stemmed from a letter signed by these lawmakers, urging US military personnel to consider disobeying what they deemed 'illegal orders.' The move instantly escalated the intricate dance between legislative authority and executive command, pushing the boundaries of legal interpretation and political loyalty. It represented a palpable increase in tensions, drawing a stark line in the sand regarding the delicate balance of power and duty within the nation's framework.",
+        "content": "The waiting room at the ICE office always thrummed with quiet anxiety. Routine check-ins, once a precarious gamble, now held a new nuance in Colorado. A judge’s gavel had drawn a line in the legal sand. No longer could every attendee face immediate detention. Arrests were now confined to those deemed a \"significant flight risk.\" For many, this offered a sliver of fragile relief, a moment of breath within a system often perceived as relentless. It was a judicial pronouncement that reshaped the dance between authority and individual, a small but potent shift in the landscape of immigration enforcement.",
         "originalSource": "AP News",
-        "publishedTime": "Recent"
+        "publishedTime": "Now"
       },
       {
-        "id": "story-1764156660783-4",
-        "headline": "Gateway to the Wild",
-        "content": "Access to America's sprawling national parks just became a steeper climb, especially for those beyond its borders. The US government dramatically hiked entrance fees, tripling the cost for non-residents. But the financial adjustment didn't stop there; a new, previously unannounced fee was also introduced for American citizens. The changes immediately sparked widespread discussion and debate. Advocates for public lands questioned the implications for accessibility, fearing that the increased financial burden might deter visitors, transforming the natural gateways to the wild into exclusive, less attainable experiences for many.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764156660783-5",
-        "headline": "Shadows Recaptured",
-        "content": "The unsettling calm was shattered. One of the figures involved in the infamous 'Slender Man' stabbing case, whose dark history still resonated, was back in custody. The apprehension followed a desperate act: the individual had cut off their court-mandated electronic monitoring bracelet, vanishing into the shadows. The swift action of law enforcement, prompted by the breached security, brought an end to a brief but potent period of public anxiety. The recapture not only reinstated court supervision but also served as a stark reminder of the lingering shadows cast by past horrors and the constant vigilance required for public safety.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764164915133-5",
+        "headline": "The Bifurcated Path to Peace",
+        "content": "The global chessboard lay complex and contentious, especially concerning Ukraine. Seeking a breakthrough, President Trump unveiled a novel diplomatic gambit. Two envoys, each carrying a segment of his new peace strategy, were dispatched. One would navigate the Kremlin's corridors in Moscow, while the other would engage with Kyiv's leadership. This bifurcated approach aimed to build on prior discussions, pushing for a resolution to the protracted conflict. It was a high-stakes play, a presidential effort to weave together fractured narratives into a tapestry of lasting peace, hoping these separate threads would ultimately converge.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "13 hours ago"
       }
     ]
   }
