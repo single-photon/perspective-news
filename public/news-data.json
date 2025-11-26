@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764150221243,
+  "timestamp": 1764154174479,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764150144112-0",
-        "headline": "Systemic Issues Masked as Retail Sales Inch Up Amidst Economic Inequality and Government Dysfunction",
-        "content": "A government shutdown-delayed report indicates that sales at U.S. retailers and restaurants increased by a modest 0.2% in September. While these figures are presented to suggest consumer resilience, they largely fail to capture the pervasive economic precarity faced by countless working-class families. The supposed willingness to boost spending occurs despite persistent high prices and inflationary pressures, which disproportionately burden those with stagnant wages, highlighting a fundamental disconnect between a struggling populace and an economy driven by corporate interests and systemic imbalances.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-1",
-        "headline": "Wall Street Celebrates as Stock Market Soars, Further Widening the Wealth Gap for Elite Investors",
-        "content": "U.S. stock markets closed significantly higher, with the Dow Jones Industrial Average adding 663 points for a second consecutive day. This sharp rally, primarily driven by investor confidence in a potential Federal Reserve interest rate cut, underscores a troubling reality: record stock market highs predominantly benefit the wealthy elite and corporate shareholders. While Wall Street revels in speculative gains, everyday Americans continue to struggle with stagnant wages, a skyrocketing cost of living, and precarious employment, further exposing the vast and growing chasm of wealth inequality.",
-        "originalSource": "Investopedia",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-2",
-        "headline": "Defense Secretary Investigates Senator Mark Kelly's Stance on Upholding Law, Protecting Troops from Illegal Orders",
-        "content": "The Defense Secretary has initiated an investigation into Democratic Senator Mark Kelly's public remarks, where he allegedly urged members of the military to refuse to comply with 'illegal' orders. This inquiry raises serious questions about transparency and accountability within the military establishment. Senator Kelly's comments serve as a crucial reminder of the ethical obligations of service members to refuse unlawful commands, a bedrock principle designed to safeguard both personnel and the nation from abuses of power. The FBI is also reportedly seeking its own inquiry into the matter, potentially creating a chilling effect on ethical dissent.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764150144112-3",
-        "headline": "Despite Repeal Rhetoric, President Trump's Administration Quietly Moves to Stabilize Healthcare Through ACA Subsidies",
-        "content": "The President Trump administration has begun circulating an internal proposal aimed at extending the Affordable Care Act's (ACA) subsidies, signaling an effort to maintain stability in health insurance for millions. This action starkly contradicts President Trump's repeated public promises to completely replace the nation's current health care system. This move highlights the undeniable efficacy and critical role of government intervention in ensuring access to affordable healthcare, while simultaneously exposing the hypocrisy of an administration that publicly decries the very mechanisms it quietly relies upon to prevent a health insurance crisis.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-4",
-        "headline": "DOT's 'Civility Campaign' Ignores Systemic Issues Causing Travel Stress During Busiest Holiday Rush",
-        "content": "The U.S. Department of Transportation launched a new 'civility campaign' titled 'The Golden Age of Travel Starts with You,' urging travelers to demonstrate better manners during the upcoming Thanksgiving holiday season. This initiative, however, deflects attention from the root causes of travel frustration: systemic issues like chronic understaffing, crumbling infrastructure, and airline cost-cutting measures that lead to overpacked flights and chronic delays. Rather than addressing these fundamental problems, which genuinely contribute to traveler stress, the campaign places the burden of civility solely on individuals, masking the failures of a system that prioritizes corporate profits over passenger well-being.",
-        "originalSource": "CoStar News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-5",
-        "headline": "White House Ritual Distracts from Industrial Animal Cruelty as President Trump Pardons Turkeys",
-        "content": "President Trump upheld the time-honored White House tradition by officially pardoning two turkeys, 'Gobble' and 'Waddle,' just days before the Thanksgiving holiday. While this ceremonial act offers a symbolic reprieve to two individual birds, it serves as a stark distraction from the grim reality of industrial agricultural practices. Millions of other animals face inhumane conditions in factory farms, and the environmental impact of current food production systems continues largely unaddressed. A truly progressive approach would involve advocating for comprehensive animal welfare reforms and sustainable food policies, not just symbolic gestures.",
+        "id": "story-1764154102439-0",
+        "headline": "President Trump Participates in Annual Turkey Pardon Amidst Pressing National Concerns",
+        "content": "While President Trump observed the annual White House tradition of pardoning two turkeys, Gobble and Waddle, before Thanksgiving, many observers noted the stark contrast between this lighthearted event and the urgent systemic challenges facing the nation, from economic inequality to climate change, which demand serious attention and progressive policy solutions.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25, 2025"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-1",
+        "headline": "Senator Mark Kelly's Call for Troops to Refuse Illegal Orders Prompts DoD Investigation",
+        "content": "The Department of Defense has initiated an investigation into Democratic Senator Mark Kelly following his comments urging military personnel to refuse orders deemed 'illegal'. This probe, requested by a defense secretary, raises critical questions about the right to free speech for public officials, particularly those with military backgrounds, and underscores the importance of upholding ethical conduct within the armed forces to prevent potential abuses of power, rather than stifling dissent against potentially unlawful directives.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-2",
+        "headline": "National Park Fee Hikes Threaten Public Land Accessibility for All Visitors, Raising Equity Concerns",
+        "content": "The National Park Service's decision to significantly increase entrance fees for foreign visitors, tripling costs for non-residents, alongside a new fee structure for American citizens, has sparked widespread criticism. This move exacerbates existing systemic barriers to accessing public lands, threatening to price out low-income families and international guests, thereby undermining the principle that these natural treasures should be accessible and affordable for everyone, regardless of economic status or origin.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764154102439-3",
+        "headline": "Illegal Prosecutor Appointment Leads to Dismissal of High-Profile Cases Against James Comey and Letitia James",
+        "content": "A judge has dismissed the high-profile cases targeting former FBI Director James Comey and New York Attorney General Letitia James, a decision rooted in the critical finding that the prosecutor overseeing these proceedings was illegally appointed. This ruling brings to light serious systemic flaws within the legal system, underscoring the urgent need to ensure transparent and lawful appointments of legal officials to prevent the potential political weaponization of justice and uphold the integrity of due process for all citizens.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-4",
+        "headline": "President Trump Dispatches Envoys to Moscow, Shifting Strategy in Ukraine Peace Efforts",
+        "content": "President Trump has announced a strategic shift in the U.S.-backed international efforts to resolve the ongoing conflict in Ukraine, stepping back from direct involvement to dispatch two envoys to Moscow. This diplomatic maneuver aims to build on recent talks, signaling a new approach in seeking a peaceful resolution between Ukraine and Russia, highlighting the persistent and complex systemic challenges inherent in achieving lasting peace through international diplomacy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-5",
+        "headline": "Government Cutbacks and Soaring Costs Exacerbate Systemic Food Insecurity, Leaving Food Banks Overwhelmed",
+        "content": "Food banks nationwide are grappling with severe operational challenges, intensified by the dual crises of rising costs and significant government funding cutbacks, particularly as the Thanksgiving holiday approaches. This dire situation illuminates the devastating systemic failures in addressing food insecurity and economic inequality, revealing how austerity measures and a lack of robust social safety nets are failing vulnerable families and placing an untenable burden on charitable organizations to meet basic human needs.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764150144112-0",
-        "headline": "US Retail Sales Rise Slightly in September, According to Government Shutdown-Delayed Report",
-        "content": "Sales at U.S. retailers and restaurants increased by a modest 0.2% in September, a report delayed by the government shutdown revealed. The figures suggest that resilient American consumers remain willing and able to boost spending, a key driver of the economy, despite persistent high prices and inflationary pressures.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-1",
-        "headline": "Stock Indexes End Sharply Higher for Second Straight Day; Dow Surges Over 650 Points",
-        "content": "U.S. stock markets closed significantly higher, with the Dow Jones Industrial Average adding 663 points. The sharp rally was primarily driven by increasing investor confidence in a potential Federal Reserve interest rate cut next month, following the release of mixed but generally tame economic data on retail sales and wholesale prices.",
-        "originalSource": "Investopedia",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-2",
-        "headline": "Pentagon Orders Probe Into Senator Mark Kelly's Comments on Troops Refusing 'Illegal' Orders",
-        "content": "The Defense Secretary has ordered an investigation into Democratic Senator Mark Kelly's public remarks where he allegedly urged members of the military to refuse to comply with 'illegal' orders. House Democrats have also indicated that the FBI is actively seeking to launch its own inquiry into the matter.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764150144112-3",
-        "headline": "White House Circulates Plan to Extend Obamacare Subsidies as Trump Pledges Health Care Fix",
-        "content": "The Trump administration has begun circulating an internal proposal aimed at extending the Affordable Care Act's (ACA) subsidies, a move signaling an effort to maintain stability in health insurance. The action comes even as President Trump continues to publicly promise a complete replacement for the nation's current health care system.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-4",
-        "headline": "US DOT Launches 'Civility Campaign' Ahead of Busiest Thanksgiving Holiday Travel Rush",
-        "content": "The U.S. Department of Transportation initiated a new 'civility campaign' titled 'The Golden Age of Travel Starts with You,' urging travelers to demonstrate better manners during the busy holiday season. The campaign precedes what the FAA projects will be the busiest period for air travel in the last 15 years.",
-        "originalSource": "CoStar News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-5",
-        "headline": "President Trump Pardons Turkeys Gobble and Waddle in Annual White House Tradition",
-        "content": "President Donald Trump upheld the time-honored White House tradition by officially pardoning two turkeys, 'Gobble' and 'Waddle,' just days before the Thanksgiving holiday. The birds were saved from the dinner table during a ceremonial event on the South Lawn, ensuring their retirement.",
+        "id": "story-1764154102439-0",
+        "headline": "Trump Pardons Turkeys Gobble and Waddle for Thanksgiving",
+        "content": "President Trump continued the annual White House tradition by pardoning two turkeys, Gobble and Waddle, ahead of the Thanksgiving holiday. The event marks a lighthearted moment of American culture and presidential tradition before the national celebration of the holiday.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25, 2025"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-1",
+        "headline": "Pentagon investigating Arizona Sen. Mark Kelly for 'potentially unlawful comments'",
+        "content": "The Department of Defense is reportedly investigating Democratic Senator Mark Kelly of Arizona following a request from a defense secretary over comments. Kelly urged troops to refuse potentially 'illegal' orders. The probe has sparked significant debate over the limits of political speech for former military members in public office, especially regarding command authority.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-2",
+        "headline": "U.S. triples national park fee for non-residents, amid 'new' fee for Americans",
+        "content": "The National Park Service has announced a significant hike in entrance fees for foreign visitors, tripling the cost for non-residents entering U.S. parks. The new structure also includes a 'new' fee for American visitors, drawing criticism and concern over accessibility and affordability to public lands across the country for all visitors.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764154102439-3",
+        "headline": "Judge dismisses cases against James Comey, Letitia James after finding the prosecutor was illegally appointed",
+        "content": "A judge has dismissed the high-profile cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling was based on the finding that the prosecutor in charge of the cases was illegally appointed, raising serious questions about the legitimacy of the entire legal proceedings against the two prominent political figures.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-4",
+        "headline": "Trump steps back from Ukraine peace process, sends out envoys",
+        "content": "President Trump announced a shift in the Ukraine peace process, stating he is stepping back from direct involvement and instead dispatching two envoys to Moscow. This diplomatic move is intended to build on recent talks, signaling a new strategy in the U.S.-backed international effort to resolve the ongoing conflict between Ukraine and Russia.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-5",
+        "headline": "Rising prices and government cutbacks leave food banks struggling nationwide",
+        "content": "Food banks across the United States are facing severe challenges due to the dual pressures of rising operational costs and significant government funding cutbacks. This struggle comes just before the critical Thanksgiving holiday, highlighting urgent concerns about food insecurity and the ability to serve many families nationwide during the festive season.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764150144112-0",
-        "headline": "American Consumers Defy Inflation, Bolstering Economy Despite Government Delays.",
-        "content": "Despite the government's shutdown-induced reporting delays, September saw a modest 0.2% increase in U.S. retail and restaurant sales. This demonstrates the unwavering resilience and innate ability of American consumers to drive economic growth, even as families grapple with persistent high prices and inflationary pressures often exacerbated by unchecked government spending.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-1",
-        "headline": "Markets Soar as Investors Seek Stability, Anticipating Responsible Economic Adjustments.",
-        "content": "U.S. stock markets experienced a robust surge, with the Dow Jones Industrial Average climbing by an impressive 663 points. This rally reflects renewed investor confidence and the fundamental strength of American enterprise, as the market optimistically anticipates prudent adjustments from the Federal Reserve, aiming to foster sustained economic growth without undue government interference.",
-        "originalSource": "Investopedia",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-2",
-        "headline": "Senator Kelly's Disturbing Remarks on Military Orders Trigger Pentagon Investigation.",
-        "content": "The Defense Secretary has rightly launched an investigation into Democratic Senator Mark Kelly's alarming public statements, where he reportedly encouraged service members to disobey 'illegal' orders. Such rhetoric undermines the very foundation of military discipline and could jeopardize national security, warranting a swift and thorough inquiry not just from the Pentagon but also from the FBI, as House Democrats have suggested.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764150144112-3",
-        "headline": "President Trump Works to Stabilize Healthcare While Championing True Market Reform.",
-        "content": "The Trump administration is wisely circulating a pragmatic proposal to extend Affordable Care Act subsidies, a necessary temporary measure to prevent immediate market disruption. This demonstrates President Trump's commitment to ensuring stability for Americans even as he continues his steadfast promise to replace the government-centric Obamacare disaster with a superior, free-market healthcare system that empowers patients and upholds individual liberty.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-4",
-        "headline": "Government Reminds Travelers of Personal Responsibility Ahead of Holiday Rush.",
-        "content": "The U.S. Department of Transportation has launched a 'civility campaign,' aptly named 'The Golden Age of Travel Starts with You,' encouraging travelers to uphold traditional values of courtesy during the anticipated record-breaking Thanksgiving holiday season. While government shouldn't need to instruct on common decency, this timely reminder underscores the importance of individual responsibility and good manners as air travel prepares for its busiest period in fifteen years.",
-        "originalSource": "CoStar News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-5",
-        "headline": "President Trump Upholds Cherished White House Tradition with Annual Turkey Pardon.",
-        "content": "President Trump honored a treasured American tradition by officially pardoning 'Gobble' and 'Waddle,' two fortunate turkeys, during the annual ceremonial event on the White House South Lawn. This delightful act, just days before Thanksgiving, exemplifies the President's respect for enduring customs and the spirit of goodwill, ensuring the birds' peaceful retirement.",
+        "id": "story-1764154102439-0",
+        "headline": "President Trump Upholds Valued Tradition, Pardoning Thanksgiving Turkeys.",
+        "content": "President Trump once again honored a cherished American tradition at the White House, graciously pardoning two Thanksgiving turkeys, Gobble and Waddle. This heartwarming event serves as a poignant reminder of our nation's enduring customs and the spirit of gratitude that defines the Thanksgiving holiday, a moment of unity amidst these trying times.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25, 2025"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-1",
+        "headline": "Pentagon Probes Senator Kelly's Disturbing Call for Troops to Disobey Lawful Orders.",
+        "content": "The Department of Defense has reportedly launched an investigation into Arizona's Democratic Senator Mark Kelly, following concerns raised by a defense secretary. Senator Kelly stands accused of making potentially unlawful comments, specifically urging our brave troops to refuse what he deemed 'illegal' orders. Such rhetoric undermines the vital principle of military discipline and the integrity of our chain of command, jeopardizing national security and setting a dangerous precedent for those who have sworn an oath to uphold the Constitution, not partisan agendas.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-2",
+        "headline": "National Park Service Increases Fees, Burdening American Citizens and Foreign Visitors.",
+        "content": "The National Park Service has unveiled substantial fee increases, tripling the cost for non-resident foreign visitors to our precious national parks. Compounding this, a 'new' fee has been imposed upon American citizens who wish to enjoy their own public lands. This move raises serious concerns about government overreach and the affordability of accessing these national treasures, questioning whether these lands are being made less accessible to the very taxpayers who fund them, rather than prioritizing sound financial management and efficient use of existing resources.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764154102439-3",
+        "headline": "Judge Invalidates High-Profile Cases, Citing Illegally Appointed Prosecutor and Due Process Concerns.",
+        "content": "In a significant legal development, a judge has thrown out high-profile cases targeting former FBI Director James Comey and New York Attorney General Letitia James. The dismissals stem from a critical finding: the prosecutor overseeing these cases was illegally appointed. This stunning revelation casts a dark shadow over the entire legal process, highlighting profound questions about the legitimacy of politically charged investigations and the erosion of due process when government officials disregard the rule of law in their pursuit of targets.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-4",
+        "headline": "President Trump Deploys Envoys to Ukraine, Signaling Strategic Shift Towards Peace.",
+        "content": "President Trump has announced a calculated adjustment to the Ukraine peace process, stepping back from direct involvement and strategically deploying two envoys to Moscow. This astute diplomatic maneuver aims to build upon prior discussions, charting a new course in the U.S.-backed international efforts to bring a swift and just resolution to the protracted conflict between Ukraine and Russia, demonstrating a commitment to American interests and global stability through decisive leadership.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-5",
+        "headline": "Inflation and Reckless Government Spending Cripple Food Banks Nationwide, Hurting American Families.",
+        "content": "Food banks across the United States are grappling with severe difficulties, caught between the crushing weight of skyrocketing prices driven by inflationary policies and devastating government funding cutbacks. This crisis, unfolding just as the Thanksgiving holiday approaches, underscores urgent concerns about food insecurity and the alarming inability of these vital organizations to adequately serve struggling American families, a direct consequence of an overreaching government failing to manage the economy responsibly.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764150144112-0",
-        "headline": "Government Admits Economy Soaring Due to Americans Buying 0.2% More Toothpicks",
-        "content": "A long-awaited government report, finally released after officials remembered where they put it, confirmed today that U.S. retail and restaurant sales bravely climbed a breathtaking 0.2% in September. Economists are hailing this microscopic surge as irrefutable proof that the American consumer, fueled by pure, unadulterated grit and possibly the last remaining pocket lint, will continue to spend money on literally anything, even as prices demand a second mortgage for a gallon of milk. The slight uptick is expected to single-handedly save the economy, one discarded receipt at a time.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-1",
-        "headline": "Stock Market Leaps 663 Points After Traders Misinterpret Fed's Coffee Order",
-        "content": "Wall Street erupted in a spontaneous burst of optimism today, sending major indexes soaring by hundreds of points for the second consecutive day. The Dow Jones Industrial Average, in a fit of inexplicable joy, rocketed up 663 points after investors, in a complex series of whispered rumors and misinterpreted telepathy, became absolutely convinced the Federal Reserve is definitely, probably, maybe going to cut interest rates next month. Analysts confirmed the rally was entirely predicated on newly released economic data that was simultaneously 'mixed,' 'tame,' and 'utterly meaningless' to anyone outside the trading floor, proving once again that the market is a fragile ecosystem powered by vibes and hopeful speculation.",
-        "originalSource": "Investopedia",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-2",
-        "headline": "Pentagon Launches Massive Investigation To Determine If Troops Know Which Orders Are ‘Illegal’",
-        "content": "The Pentagon, demonstrating its unwavering commitment to bureaucratic redundancy, has initiated a sweeping probe into Senator Mark Kelly's recent remarks. The Senator's audacious suggestion that military personnel should, perhaps, maybe, consider refusing 'illegal' orders has apparently sent shockwaves through the highest levels of command. Defense Secretary officials, reportedly clutching their pearls, confirmed the investigation aims to ascertain if troops are aware they're not legally obligated to commit war crimes, a concept so revolutionary it warranted a full-scale inquiry. House Democrats, not to be outdone, announced the FBI is also eagerly preparing its own investigation, presumably to see if anyone was secretly *thinking* about following an illegal order.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764150144112-3",
-        "headline": "President Trump Unveils Bold New Healthcare Strategy: Keeping Obamacare While Promising Its Imminent Demise",
-        "content": "In a stunning display of political dexterity, President Trump's administration has begun circulating plans to extend the Affordable Care Act's subsidies, ensuring millions continue to receive health insurance assistance. This groundbreaking initiative, officials clarified, in no way contradicts President Trump's ongoing, unwavering, and completely sincere public promise to replace the entirety of the current health care system with something 'tremendous' any minute now. Insiders suggest the strategy allows the administration to simultaneously stabilize the healthcare market *and* promise to completely blow it up, satisfying both sides of an argument no one understands anymore.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-4",
-        "headline": "DOT Begs Nation's Travelers To Stop Clawing Each Other's Eyes Out For Overhead Bin Space",
-        "content": "The U.S. Department of Transportation, bracing for what is projected to be the most savage Thanksgiving travel season in 15 years, today unveiled a new 'civility campaign' titled 'The Golden Age of Travel Starts with You.' Officials, with a visible tremor in their voices, pleaded with citizens to briefly set aside their primal instincts for just a few days, urging them to refrain from fisticuffs over armrests, cutting in security lines with machetes, or engaging in ritualistic sacrifices at the baggage claim. The campaign hopes to achieve the ambitious goal of getting at least one person to politely offer their middle seat to a stranger, a feat previously thought impossible during holiday air travel.",
-        "originalSource": "CoStar News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-5",
-        "headline": "President Trump Grants Full Presidential Pardon To Turkeys Gobble and Waddle, Promptly Suggests They Seek Legal Counsel",
-        "content": "In a solemn ceremony on the White House South Lawn, President Trump today bestowed a full presidential pardon upon two lucky turkeys named 'Gobble' and 'Waddle,' saving them from the traditional Thanksgiving dinner table. Following the customary pardoning, President Trump reportedly leaned in and advised the bewildered birds to 'get a good lawyer, just in case,' adding that 'everyone needs a good lawyer these days, believe me.' The turkeys, now legally immune from being a side dish, are expected to enjoy a luxurious retirement, possibly followed by an extensive investigation into their past dealings.",
+        "id": "story-1764154102439-0",
+        "headline": "President Trump Declares Two Turkeys \"Too Important To Eat\" In Historic Act Of Poultry Emancipation",
+        "content": "In a stunning display of executive clemency, President Trump today saved Gobble and Waddle from a deliciously grim fate, declaring them \"the best, most beautiful turkeys\" the White House has ever seen. Sources close to the situation confirm the two birds are now expected to embark on lucrative speaking tours and potentially a reality TV show, while millions of less fortunate poultry will continue to face their pre-destined cranberry accompaniment.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25, 2025"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-1",
+        "headline": "Pentagon Launches Full-Scale Probe After Senator Kelly Suggests Troops Avoid Doing Crime",
+        "content": "Defense officials are reportedly in a panic after Senator Mark Kelly, a decorated former astronaut, dared to utter the incendiary phrase, \"Maybe don't do illegal things?\" to military personnel. The Department of Defense has reportedly assembled a crack team of investigators to determine if suggesting adherence to the law constitutes an act of insubordination or merely extreme common sense, which is, of course, highly irregular for Washington.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-2",
+        "headline": "National Parks Now Require Mortgage-Sized Entrance Fees, Effectively Turning Wilderness Into Exclusive VIP Lounges",
+        "content": "In a bold move to ensure only the most financially deserving can enjoy a tree, the National Park Service has tripled fees for international tourists, while introducing a \"new\" fee for Americans that experts say could buy you a small yacht. Critics worry that soon, the only way to experience nature will be through augmented reality apps, or by paying thousands to observe a squirrel from a velvet rope-protected viewing platform.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764154102439-3",
+        "headline": "Cases Against Prominent Figures Collapse After Judge Discovers Prosecutor Was Actually Three Squirrels In A Trench Coat",
+        "content": "In a shocking courtroom twist, a judge has thrown out high-profile cases against James Comey and Letitia James, ruling the prosecutor was, in fact, \"illegally appointed\" and likely operating without a valid parking permit. Legal experts are now scrambling to determine if all past convictions by said prosecutor are also invalid, or if justice can sometimes be served by someone who just \"really wanted to be a prosecutor today.\"",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-4",
+        "headline": "President Trump Delegates Ukraine Peace Process To Two Guys He Just Met, Expects Immediate Nobel Peace Prize",
+        "content": "Declaring himself \"too busy being unbelievably presidential,\" President Trump announced he's officially stepping back from the intricate Ukraine peace negotiations. Instead, he has deployed two \"very smart, very rich\" envoys to Moscow, reportedly chosen after a brief LinkedIn search, to \"figure it all out.\" The world waits with bated breath to see if peace can finally be achieved by delegates who may or may not have consulted Wikipedia on the flight over.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-5",
+        "headline": "Nation's Food Banks Brace For Thanksgiving Chaos As Most Donations Reportedly 'Reallocated' To Pet Influencers",
+        "content": "With Thanksgiving just around the corner, food banks nationwide are struggling to keep shelves stocked, blaming a perfect storm of soaring costs and \"reimagined\" government funding. Reports indicate that many traditional food donations are now being rerouted to support various artisanal pickle endeavors and the burgeoning pet influencer industry, leaving food bank organizers to wonder if hungry families can simply eat more thoughts and prayers this holiday season.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764150144112-0",
-        "headline": "People Are Still Buying Things Even When Prices Are High",
-        "content": "Even though a government report came out a little late, it showed that people bought a tiny bit more stuff from stores and restaurants in September. This means grown-ups are still spending their money, which helps our country's economy, even though things cost more money these days.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-1",
-        "headline": "The Stock Market Went Up a Whole Lot Again!",
-        "content": "The stock market had another really good day, with something called the Dow going up over 650 points! This happened because people who invest their money think a big bank might lower how much interest they charge next month. They felt better after seeing some new numbers about how much people are spending and how much things cost.",
-        "originalSource": "Investopedia",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-2",
-        "headline": "The Army is Looking Into What a Senator Said",
-        "content": "The boss of the country's defense department has started looking into what Senator Mark Kelly said. He supposedly told people in the army that they don't have to follow orders if those orders are not allowed by the law. Some other government people also said the FBI wants to look into it too.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764150144112-3",
-        "headline": "President Trump Wants to Help People Pay for Health Insurance",
-        "content": "The White House, where President Trump works, is thinking about a plan to keep helping people pay for their health insurance, which is part of something called Obamacare. This is to make sure health insurance stays steady for people. President Trump has also said he wants to replace the whole health care system, but for now, they are looking at helping with payments.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-4",
-        "headline": "Let's All Be Nicer When We Travel This Holiday!",
-        "content": "The people who deal with travel in the U.S. started a new plan called 'The Golden Age of Travel Starts with You.' They want everyone to be extra nice and polite when they travel for Thanksgiving because it's going to be super busy. Lots of people will be flying, more than in the last 15 years!",
-        "originalSource": "CoStar News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-5",
-        "headline": "President Trump Saved Two Turkeys From Becoming Dinner!",
-        "content": "Just before Thanksgiving, President Trump did a special old tradition at the White House. He \"pardoned\" two turkeys named 'Gobble' and 'Waddle'. This means he saved them from being eaten for dinner, and now they get to live happily ever after!",
+        "id": "story-1764154102439-0",
+        "headline": "President Trump Saves Two Turkeys from Becoming Dinner!",
+        "content": "President Trump did a really nice thing where he let two turkeys named Gobble and Waddle live free! This happens every year at the White House right before Thanksgiving, and it's a fun old tradition. It's like a special happy moment before everyone celebrates the holiday.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25, 2025"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-1",
+        "headline": "The Army is Looking Into What Senator Kelly Said!",
+        "content": "Senator Mark Kelly, who used to be in the military, is now being looked at by the people who run the army. Someone asked them to check because Senator Kelly told soldiers they should say \"no\" to orders that might not be allowed by the rules. This has made a lot of people talk about what former soldiers can say when they are in government, especially about telling other soldiers what to do.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-2",
+        "headline": "Going to National Parks Will Cost More Money Now!",
+        "content": "It's going to cost a lot more money for people from other countries to visit our amazing national parks, like three times as much! And even Americans might have to pay a new fee too. Some people are not happy because they think it will make it harder for everyone to visit these beautiful places in our country.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764154102439-3",
+        "headline": "A Judge Threw Out Big Cases Because Someone Was Hired Wrong!",
+        "content": "A judge said that some really important cases against James Comey and Letitia James were stopped. This happened because the judge found out that the person who was supposed to be the lawyer for these cases was not picked correctly. This makes everyone wonder if the whole trial was fair for these important people.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-4",
+        "headline": "President Trump Sends People to Help with Ukraine Peace!",
+        "content": "President Trump said he won't be directly involved in trying to make peace in Ukraine anymore. Instead, he is sending two special helpers to Moscow to talk things over. This is a new plan to try and stop the fight between Ukraine and Russia, which America is trying to help fix.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-5",
+        "headline": "Food Banks Are Having a Hard Time Helping People Now!",
+        "content": "Places that give out food to people who need it, called food banks, are having a really tough time all over the country. Everything costs more money, and the government is giving them less help. This is happening right before Thanksgiving, which is a big worry because many families need food during the holidays.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764150144112-0",
-        "headline": "The Consumer's Whisper",
-        "content": "The report, a forgotten relic of the shutdown, finally surfaced, whispering of September's spending. A meager 0.2% rise in retail and restaurant sales, yet it resonated like a cheer. Analysts nodded, seeing not just numbers, but the stubborn heart of the American consumer. Despite the gnawing teeth of inflation and the relentless march of high prices, they still reached for their wallets, fueling the great economic engine. A small ripple, yes, but enough to remind everyone that even in uncertainty, the desire to buy, to live, to simply be, persisted, a quiet defiance against the pressures of the times.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-1",
-        "headline": "The Market's Breath of Hope",
-        "content": "Wall Street exhaled, a collective sigh of relief that ballooned into a joyous roar. For a second day, the market soared, the Dow surging by 663 points, a dizzying climb. It wasn't just numbers; it was a whisper of an impending change, a belief that the Federal Reserve would soon loosen its grip, cutting interest rates. Mixed economic signals, retail sales, and wholesale prices had painted a complicated picture, but investors, ever optimists, saw only opportunity. The belief in a gentler monetary hand next month ignited a fire, propelling stocks skyward, painting the trading screens green with a new kind of hope.",
-        "originalSource": "Investopedia",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-2",
-        "headline": "Echoes in the Barracks",
-        "content": "The Pentagon’s halls buzzed with an unusual tension. Senator Mark Kelly’s words, a challenge to military obedience, had echoed too loudly. The Defense Secretary, stern-faced, ordered an inquiry, the whispers turning into official decree. Kelly, a Democrat, had allegedly urged troops to defy ‘illegal’ orders, a statement now under intense scrutiny. Beyond the Pentagon, the FBI, spurred by House Democrats, began its own quiet movements, a shadow inquiry. The integrity of the chain of command, a sacred trust, was now in question, shaken by a senator’s public pronouncements, demanding a swift and thorough examination of loyalty and duty.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764150144112-3",
-        "headline": "The Unfolding Blueprint",
-        "content": "In the quiet corridors of power, a blueprint emerged. The Trump administration, despite public pronouncements of radical change, had begun circulating a proposal: extend the Affordable Care Act's subsidies. It was a subtle acknowledgment, a strategic move to steady the ship of health insurance, ensuring a measure of stability for millions. Yet, outside, the rhetoric remained firm. President Trump continued to pledge a complete overhaul, a grand new vision for American healthcare. The internal action and external promise were two sides of a complex coin, a dance between practical governance and political aspiration, seeking to reshape a nation’s wellness.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-4",
-        "headline": "The Golden Rule of Flight",
-        "content": "The Department of Transportation, bracing for the coming storm of holiday travelers, launched its new campaign: \"The Golden Age of Travel Starts with You.\" It was a plea, a gentle reminder for civility amidst the projected chaos. Airports, once symbols of wonder, now often resembled battlegrounds of frayed nerves and forgotten courtesies. With the FAA forecasting the busiest air travel season in fifteen years, a surge of humanity was imminent. The campaign sought to conjure a bygone era of politeness, hoping that a simple smile, a patient wait, or a kind word might transform the stressful rush into something resembling a golden age once more.",
-        "originalSource": "CoStar News",
-        "publishedTime": "Nov 25, 2025"
-      },
-      {
-        "id": "story-1764150144112-5",
-        "headline": "The Turkeys' Great Escape",
-        "content": "On the verdant South Lawn, under the watchful gaze of the White House, a peculiar ceremony unfolded. Days before Thanksgiving, President Trump, upholding a beloved tradition, extended a presidential pardon. Not to a person, but to two feathered dignitaries: Gobble and Waddle. With a flourish, their fate was sealed. No longer destined for the holiday feast, they were granted a reprieve, a golden ticket to retirement. The cameras flashed, the crowd chuckled, and the turkeys, perhaps oblivious, were whisked away to a life of leisure, forever immortalized as the beneficiaries of a unique act of presidential clemency.",
+        "id": "story-1764154102439-0",
+        "headline": "A Brief Reprieve for Feathered Friends",
+        "content": "In the hallowed halls, President Trump graced Gobble and Waddle with an unexpected reprieve. Their feathered lives, once destined for the festive table, were now spared by presidential decree. A chuckle rippled through the gathered crowd as the two turkeys, oblivious to their good fortune, strutted with an air of bewildered importance. This annual spectacle, a peculiar blend of tradition and humor, offered a brief, lighthearted pause before the nation plunged into its Thanksgiving feast. It was a moment of levity, a symbolic gesture of peace before the holiday's joyous chaos.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25, 2025"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-1",
+        "headline": "The Senator's Challenge",
+        "content": "Senator Mark Kelly, a man forged in service, spoke words that echoed through the Pentagon's hallowed halls. He urged troops to discern, to question orders deemed 'illegal,' a sentiment that ignited a firestorm. A formal probe commenced, a ripple of dissent against the rigid structure of command. The senator now faced scrutiny for his speech, blurring the lines between civic duty and the unyielding tenets of military obedience. His voice, once a beacon of leadership, now challenged the very authority he once upheld, sparking a national debate on loyalty and law.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-2",
+        "headline": "The Price of Wilderness",
+        "content": "The wilderness whispered, but fewer could now hear its call. The National Park Service, once a gateway to nature's grandeur, now raised its drawbridge. Foreign visitors gasped at tripled fees, their dreams of Yosemite and Yellowstone suddenly distant mirages. Even Americans found a new barrier, a subtle toll on their birthright to breathtaking vistas. Whispers of exclusion turned to shouts of protest: 'Our parks, for whom?' The majestic landscapes remained, but the path to them became narrower, a gilded cage for nature's beauty, sparking concern over who truly owned America's wild heart.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764154102439-3",
+        "headline": "The Untethered Prosecutor",
+        "content": "The gavel fell, not with a verdict of guilt or innocence, but with a declaration of illegitimacy. High-profile cases against James Comey and Letitia James, once poised to reshape political narratives, crumbled. The fault lay not with the accused, but with the accuser: a prosecutor illegally appointed, a procedural error that invalidated months, perhaps years, of investigation. A collective gasp rippled through the legal community. If the very hand of justice was untethered from lawful bounds, what did that say for the system's integrity? The dismissal echoed, a stark reminder that even justice must follow its own rules.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-4",
+        "headline": "Moscow's Messengers",
+        "content": "The weight of peace, a burden President Trump chose to redistribute. No longer would he stand at the direct diplomatic forefront regarding Ukraine. Instead, two chosen envoys would carry his mandate to Moscow, their briefcases heavy with intentions. This strategic withdrawal, a calculated shift, aimed to build on recent, delicate talks. The international community watched, poised, as this new American approach unfolded, a silent gambit in the ongoing, brutal chess game between Ukraine and Russia. Hope, a fragile thing, now rested on the shoulders of these new messengers.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764154102439-5",
+        "headline": "Hunger's New Shadow",
+        "content": "The warmth of Thanksgiving approached, but a chill gripped the nation’s food banks. Shelves, once brimming with hope, now thinned under the weight of rising prices and sudden government cutbacks. Directors wrung their hands, watching operational costs soar while donations dwindled. The usual holiday surge of generosity felt inadequate against the tide of need. Families, already stretched thin, faced the daunting prospect of empty plates. A silent crisis deepened, casting a long shadow over the festive season, revealing the raw vulnerability of food insecurity just when community support was needed most.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
       }
     ]
   }
