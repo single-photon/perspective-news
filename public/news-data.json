@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764171707576,
+  "timestamp": 1764176140839,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764171620102-0",
-        "headline": "Systemic Failures Lead to Unjust Arrests and Deportation Threats for DACA Recipients",
-        "content": "Despite the established DACA program designed to offer protection, alarming reports reveal that 'Dreamers' are being unjustly targeted for arrest and potential deportation by US immigration authorities. This betrayal of trust highlights a deep-seated issue within the immigration system, where promises of safety for those legally contributing to our country are routinely undermined, exposing the urgent need for comprehensive immigration reform and an end to cruel enforcement actions.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-1",
-        "headline": "While Unemployment Filings Decrease, Underlying Economic Precarity for Workers Persists",
-        "content": "While recent government data indicates a slight dip in weekly unemployment insurance filings, suggesting a stable labor market on the surface, this narrow metric often masks the deeper systemic issues of underemployment, stagnant wages, and the gig economy's lack of worker protections. A truly thriving economy requires more than just low layoff rates; it demands living wages, robust benefits, and equitable opportunities for all, rather than celebrating mere stability amidst growing wealth inequality.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-2",
-        "headline": "Concerns Mount as President Trump's Associate Reportedly Aided Kremlin on Ukraine Peace Strategy",
-        "content": "Disturbing new revelations suggest that Steve Witkoff, a real estate developer and close associate of President Trump, allegedly offered strategic advice to a Kremlin aide regarding how Russia's leader should frame a Ukraine peace proposal to President Trump. This report raises serious ethical questions about potential back-channel influence, the integrity of US foreign policy, and the blurring lines between private business interests and national security, demanding full transparency and accountability.",
-        "originalSource": "The Guardian / Associated Press",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-3",
-        "headline": "Heroic Navy Sailor's Selfless Sacrifice Highlights Community's Deep Bonds and Resilience",
-        "content": "A US Navy service member tragically gave their life in an extraordinary act of selflessness, plunging into perilous high surf off Hawaii's coast to rescue children caught in powerful waves. This profound sacrifice underscores the deep commitment of individuals to community safety and the inherent human desire to protect the vulnerable, reminding us of the immense bravery often demonstrated in the face of natural dangers.",
+        "id": "story-1764176060994-0",
+        "headline": "Accountability for Election Interference Falters as Georgia Prosecutor Moves to Drop Charges Against President Trump",
+        "content": "The Georgia prosecutor in the high-profile election interference case has filed a motion to dismiss the charges against President Trump and his co-defendants. This significant legal development follows months of intense scrutiny and procedural disputes, and is widely seen as a major win for the defense team, raising serious questions about the efficacy of the justice system in holding powerful figures accountable for challenging democratic integrity in the ongoing 2020 election fallout.",
         "originalSource": "CBS News",
-        "publishedTime": "Today"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764171620102-4",
-        "headline": "Charges Filed in 2020 Killing, Underscoring Urgent Need for Justice in Native American Communities",
-        "content": "After a five-year delay and a recent surge in FBI resources, criminal charges have finally been filed in the 2020 homicide of a man within a Native American community. While this development offers a glimmer of hope for long-awaited justice, it starkly highlights the systemic under-resourcing and neglect that often plague investigations and victim support in Indigenous communities, demanding sustained commitment to equity and accountability for all.",
-        "originalSource": "AP News / CBS News",
-        "publishedTime": "Today"
+        "id": "story-1764176060994-1",
+        "headline": "Immigration Authorities Continue Systemic Harassment of DACA Recipients, Undermining Protections and Stability",
+        "content": "Despite the Deferred Action for Childhood Arrivals (DACA) program designed to shield 'Dreamers' from deportation and grant them the right to work, individuals protected by DACA are reportedly being arrested by immigration authorities. These arrests represent a direct challenge to the program’s core function, causing immense instability and trauma for beneficiaries and highlighting the systemic failures within the immigration system that betray promises made to vulnerable communities.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764171620102-5",
-        "headline": "Critical Legislative Battles Emerge as Congress Nears Year-End, Shaping Future for Working Families",
-        "content": "As Congress rushes to conclude its legislative agenda for the year, lawmakers face pivotal battles over critical spending and policy decisions that will profoundly impact working families and the nation's most vulnerable. Political analysts are closely watching three key areas where the outcome will determine whether progressive priorities, such as social safety nets, environmental protections, and equitable economic policies, will gain ground or be sidelined by corporate interests, setting the course for next year's governmental landscape.",
-        "originalSource": "PBS News",
+        "id": "story-1764176060994-2",
+        "headline": "Underfunded Infrastructure Strains as Millions Prepare for Congested Thanksgiving Travel Rush",
+        "content": "Millions of Americans are set to travel for the upcoming Thanksgiving holiday, with transportation forecasts predicting heavy congestion across air, road, and rail networks. This anticipated return to pre-pandemic travel levels will undoubtedly place immense strain on existing, often underfunded, public infrastructure, underscoring the urgent need for robust investment in modern, sustainable transportation solutions to serve the public effectively.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-3",
+        "headline": "Climate Crisis Opens Arctic, Fueling Geopolitical Tensions and Environmental Alarms as China Increases Presence",
+        "content": "The Department of Homeland Security has noted an 'unprecedented' presence of Chinese military and research vessels operating in the United States' Arctic region this year. This activity, made possible by melting ice caps due to the accelerating climate crisis, raises national security alarms and underscores China's growing strategic interest in an environmentally sensitive domain, highlighting the urgent need for international cooperation over militarization to protect this fragile ecosystem.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-4",
+        "headline": "While Unemployment Claims Dip, Systemic Wage Stagnation and Economic Precarity Persist for Many Workers",
+        "content": "New government figures show a favorable decrease in weekly unemployment insurance claims, indicating that the overall pace of layoffs remains subdued across the nation. While this trend suggests some resilience in the American labor market, it often masks deeper systemic issues of wage stagnation, underemployment, and the rising cost of living that continue to undermine true economic stability and security for countless working families despite low layoff numbers.",
+        "originalSource": "AP News",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764176060994-5",
+        "headline": "Escaped Slender Man Attacker's Return Highlights Systemic Failures in Mental Health Care and Rehabilitation",
+        "content": "The woman involved in the 2014 'Slender Man' stabbing case, who fled a Wisconsin group home, was found in Illinois and has agreed not to fight extradition. Her apprehension just one day after her escape and subsequent return to Wisconsin for legal action underscores the critical need for comprehensive mental health care and robust rehabilitative support systems, as the incident may point to systemic inadequacies in facilities designed to care for individuals with complex mental health needs.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764171620102-0",
-        "headline": "DACA recipients are being arrested despite deportation protection",
-        "content": "Reports indicate that individuals protected by the DACA program, commonly known as 'Dreamers,' are facing arrests and potential deportation from US immigration authorities. This raises legal challenges, as DACA was established to shield recipients from such enforcement actions, allowing them to legally work in the country.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-1",
-        "headline": "Weekly unemployment filings drop in a sign that layoffs continue to stay low",
-        "content": "The latest government data shows a decrease in new weekly unemployment insurance filings across the United States. This economic indicator suggests continued stability in the labor market, maintaining a low rate of layoffs nationwide as the country approaches the end of the year.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-2",
-        "headline": "Trump associate reportedly advised Kremlin official on Ukraine peace deal pitch",
-        "content": "A new report suggests that Steve Witkoff, a real estate developer and associate of Donald Trump, provided guidance to a Kremlin aide. The advice was allegedly on how Russia's leader should present a specific Ukraine peace plan to the former US President.",
-        "originalSource": "The Guardian / Associated Press",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-3",
-        "headline": "Navy sailor dies while rescuing children from high surf in Hawaii",
-        "content": "A US Navy service member tragically lost their life after entering dangerous high surf conditions off the coast of Hawaii. The sailor was attempting a rescue of several children who were caught in the powerful waves, acting heroically to save them.",
+        "id": "story-1764176060994-0",
+        "headline": "Georgia prosecutor moves to drop case against Trump and allies over 2020 election",
+        "content": "The Georgia prosecutor in the high-profile election interference case has filed a motion to dismiss the charges against former President Trump and his co-defendants. This significant legal development follows months of intense scrutiny and procedural disputes, and is widely seen as a major win for the defense team in the ongoing 2020 election fallout.",
         "originalSource": "CBS News",
-        "publishedTime": "Today"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764171620102-4",
-        "headline": "FBI surge leads to charges in 2020 killing in Native American community",
-        "content": "After a concentrated effort by the FBI, criminal charges have been filed in the 2020 homicide of a man in a Native American community, five years after the shooting. This development brings movement in a long-unsolved case that shocked the local region.",
-        "originalSource": "AP News / CBS News",
-        "publishedTime": "Today"
+        "id": "story-1764176060994-1",
+        "headline": "DACA recipients are being arrested despite deportation protection",
+        "content": "Individuals protected by the Deferred Action for Childhood Arrivals (DACA) program are reportedly being arrested by immigration authorities. DACA was established to shield these 'Dreamers' from deportation and grant them the right to work, making the recent arrests a direct challenge to the program’s core function and the stability of its beneficiaries.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764171620102-5",
-        "headline": "3 things to watch as Congress rounds out the year",
-        "content": "Lawmakers are pushing to conclude several critical legislative items before the end of the session. Political analysts are focusing on three major political and spending battles that Congress must resolve, setting the stage for next year's governmental priorities.",
-        "originalSource": "PBS News",
+        "id": "story-1764176060994-2",
+        "headline": "Thanksgiving travel forecasts point to typically busy airports, roads and trains",
+        "content": "Millions of Americans are set to travel for the upcoming Thanksgiving holiday, with transportation forecasts predicting heavy congestion across air, road, and rail networks. Authorities are advising travelers to prepare for significant delays and high volumes, as holiday travel is expected to return to pre-pandemic levels this year.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-3",
+        "headline": "China has \"unprecedented number\" of ships in U.S. Arctic waters, DHS says",
+        "content": "The Department of Homeland Security has noted an \"unprecedented\" presence of Chinese military and research vessels operating in the United States' Arctic region this year. This activity raises national security alarms and underscores China's growing strategic interest and assertiveness in the environmentally sensitive and increasingly important maritime domain.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-4",
+        "headline": "Weekly unemployment filings drop in a sign that layoffs continue to stay low",
+        "content": "New government figures show a favorable decrease in weekly unemployment insurance claims, indicating that the overall pace of layoffs remains subdued across the nation. This trend suggests continued resilience in the American labor market, providing a positive economic signal of stability despite broader financial uncertainties.",
+        "originalSource": "AP News",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764176060994-5",
+        "headline": "Slender Man attacker won't fight extradition to Wisconsin after fleeing group home",
+        "content": "The woman involved in the 2014 'Slender Man' stabbing case, who fled a Wisconsin group home, was found in Illinois and has agreed not to fight extradition. She was apprehended one day after her escape and is now expected to be returned to Wisconsin to face legal action for walking away from the residential facility.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764171620102-0",
-        "headline": "Immigration Authorities Reassert Rule of Law Amidst DACA Debates",
-        "content": "Reports indicate that individuals associated with the DACA program, often referred to as 'Dreamers,' are facing arrests and potential deportation from US immigration authorities. This development underscores the ongoing legal debate surrounding DACA, an executive action, and the fundamental principle that immigration laws must be consistently and fairly enforced to preserve national sovereignty and the integrity of our borders. The legal challenges highlight the importance of adhering to constitutional processes for immigration reform rather than relying on executive decrees.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-1",
-        "headline": "American Workers Drive Economic Strength as Unemployment Claims Decline",
-        "content": "The latest government data proudly reveals a decrease in new weekly unemployment insurance filings across the United States. This positive economic indicator suggests continued stability in the labor market, maintaining a low rate of layoffs nationwide as the country approaches the end of the year, a testament to the resilience and hard work of American individuals and the strength of a free-market economy.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-2",
-        "headline": "President Trump's Associate Explores Diplomatic Avenues for Ukraine Peace",
-        "content": "A new report suggests that Steve Witkoff, a respected real estate developer and associate of President Trump, provided guidance to a Kremlin aide on how Russia's leader might present a specific Ukraine peace plan to President Trump. This effort highlights the unwavering commitment of President Trump and his allies to exploring all diplomatic options for de-escalation and achieving a swift, just peace in the region, prioritizing American interests and global stability over endless conflict.",
-        "originalSource": "The Guardian / Associated Press",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-3",
-        "headline": "Heroic Navy Sailor Makes Ultimate Sacrifice Protecting Innocent Children",
-        "content": "A brave US Navy service member tragically lost their life after selflessly entering dangerous high surf conditions off the coast of Hawaii. This courageous sailor was attempting a rescue of several children who were caught in the powerful waves, acting with unparalleled heroism to save them, embodying the finest traditions of our armed forces and the American spirit of sacrifice and service to others.",
+        "id": "story-1764176060994-0",
+        "headline": "Justice Prevails as Frivolous Georgia Case Against President Trump Collapses",
+        "content": "In a victory for due process and the rule of law, the Georgia prosecutor has moved to dismiss charges against President Trump and his co-defendants in the politically motivated 2020 election interference case. This development follows extensive scrutiny and procedural challenges, exposing the weakness of an effort many saw as an attempt to weaponize the legal system against a leading political figure, and rightly brings an end to a divisive and unnecessary legal battle.",
         "originalSource": "CBS News",
-        "publishedTime": "Today"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764171620102-4",
-        "headline": "Diligent FBI Efforts Bring Justice in Long-Unsolved Native American Community Homicide",
-        "content": "Following a concentrated and dedicated effort by the FBI, criminal charges have finally been filed in the 2020 homicide of a man in a Native American community, five years after the shooting. This critical development ensures that the rule of law is upheld and justice is pursued for all, demonstrating the unwavering commitment of law enforcement to solving crimes and bringing closure to grieving communities.",
-        "originalSource": "AP News / CBS News",
-        "publishedTime": "Today"
+        "id": "story-1764176060994-1",
+        "headline": "Immigration Authorities Uphold Law Amidst DACA Program's Legal Ambiguity",
+        "content": "Reports indicate that individuals under the Deferred Action for Childhood Arrivals (DACA) program are being arrested by immigration authorities. While DACA was enacted via executive action to temporarily shield some from deportation and allow work permits, its legality remains contested, underscoring the complexities when executive orders circumvent established legislative immigration processes and the importance of securing our borders with clear, enforceable laws.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764171620102-5",
-        "headline": "Congress Must Uphold Fiscal Responsibility Before Year's End",
-        "content": "Lawmakers are pushing to conclude several critical legislative items before the end of the session. Political analysts are focusing on three major political and spending battles that Congress must resolve, setting the stage for next year's governmental priorities, with a keen eye on ensuring fiscal discipline, limited government intervention, and adherence to sound conservative principles over reckless spending.",
-        "originalSource": "PBS News",
+        "id": "story-1764176060994-2",
+        "headline": "Americans Embrace Traditional Thanksgiving Travel Despite Expected Congestion",
+        "content": "Millions of patriotic Americans are preparing to journey across the nation for the cherished Thanksgiving holiday, demonstrating a strong return to traditional family gatherings and a robust economy. While transportation forecasts predict heavy congestion on our roads, in airports, and on trains, it is a testament to our enduring spirit and the importance of family values that people are determined to connect, a welcome sign of normalcy and resilience after recent disruptions.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-3",
+        "headline": "China's Aggression in Arctic Waters Demands Stronger American National Security Response",
+        "content": "The Department of Homeland Security has sounded a critical alarm regarding an 'unprecedented' presence of Chinese military and research vessels operating in strategic U.S. Arctic waters. This alarming activity directly challenges American sovereignty and highlights the escalating threat from Communist China's global ambitions. Our nation must prioritize robust defense and decisive action to counter Beijing's growing assertiveness and protect our vital national interests in this critical region.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-4",
+        "headline": "American Workers Drive Economic Stability as Unemployment Claims Decline",
+        "content": "New government data reveals a welcome decrease in weekly unemployment insurance claims, signaling continued strength in the American labor market. This positive trend reflects the resilience and industriousness of our nation's workforce, providing a reassuring economic signal of stability amidst ongoing financial uncertainties and demonstrating the power of free enterprise when government interference is minimized.",
+        "originalSource": "AP News",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764176060994-5",
+        "headline": "Justice System Reasserts Authority Over Fleeing 'Slender Man' Suspect",
+        "content": "The individual from the disturbing 2014 'Slender Man' stabbing case, who recently fled a Wisconsin group home, has been apprehended in Illinois and will not resist extradition. Her swift return to Wisconsin ensures accountability for her escape and reinforces the principle that all individuals must face the consequences of their actions, upholding public safety and the rule of law.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764171620102-0",
-        "headline": "DACA Program Unveils Exciting New 'Catch-and-Release-Back-to-Jail' Initiative for Dreamers",
-        "content": "In a shocking twist, the program designed to protect 'Dreamers' has reportedly pivoted to a new, more 'hands-on' approach, making it significantly easier for immigration authorities to locate and apprehend them. Officials insist this 'streamlined' process is merely an 'unexpected feature' of the DACA system, not a bug, and certainly not a total betrayal of its original intent. Many recipients, who believed they were 'protected,' are now discovering that protection apparently means 'conveniently grouped for pickup.'",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-1",
-        "headline": "Unemployment Filings Plummet as Nation Realizes Filing Paperwork Is Too Much Work",
-        "content": "Amidst jubilant declarations, new data reveals a dramatic dip in weekly unemployment filings, which experts are confidently interpreting as a sign that layoffs are 'definitely still low,' and not, as some cynics suggest, because the remaining workforce is now too busy working three minimum-wage jobs to fill out forms, or perhaps simply doesn't know where the unemployment office moved after it became a drive-thru espresso stand. 'It's a clear indicator of market stability,' declared one economist, adjusting their monocle, 'or perhaps a sign that everyone has finally accepted their fate and stopped bothering the government with their petty 'lack of income' complaints.'",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-2",
-        "headline": "President Trump's Pal Provides 'Crucial Pointers' to Kremlin on How to Talk to President Trump",
-        "content": "In a diplomatic maneuver hailed by some as 'bold' and by others as 'utterly bewildering,' a prominent real estate developer and close associate of President Trump, Steve Witkoff, has reportedly offered unsolicited 'strategic insights' to a Kremlin aide. The alleged advice concerned the optimal presentation of a Ukraine peace plan to President Trump himself, suggesting that international diplomacy has now officially outsourced its strategizing to the guy who once convinced you to buy a condo with a 'great view of the dumpster.' Experts are now speculating if world leaders will start getting their foreign policy advice from President Trump's golf buddies or perhaps his favorite fast-food cashier.",
-        "originalSource": "The Guardian / Associated Press",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-3",
-        "headline": "Navy Diverts Entire Fleet to Scrutinize Ocean's 'Rogue Wave' Tactics After Heroic Loss",
-        "content": "In a move lauded as 'overly dramatic but totally necessary,' the U.S. Navy has reportedly initiated a full-scale investigation into the 'aggressive and unsanctioned' high surf conditions off Hawaii, after one of its dedicated service members tragically perished while heroically rescuing several children. Sources indicate the Navy plans to deploy submarines equipped with 'negotiation protocols' to encourage the ocean to 'just chill out a bit,' while simultaneously reviewing its entire training manual for a chapter titled 'Dealing With Uncooperative Water That Doesn't Respect Rank.' Experts believe this groundbreaking new policy will finally ensure that no future heroes are unexpectedly inconvenienced by natural phenomena.",
+        "id": "story-1764176060994-0",
+        "headline": "Georgia Prosecutor Drops Election Case After Realizing It Requires Actual Work And Less Brunch",
+        "content": "In a stunning display of legal pragmatism, the Georgia prosecutor in the much-hyped 2020 election interference case has magnanimously decided to drop all charges against President Trump and his alleged co-conspirators. Sources close to the investigation suggest the move came after the prosecution team collectively realized that pursuing the case would involve reading 'a lot' of documents and possibly missing their regular spin classes. 'It just seemed like an awful lot of fuss over an election that happened years ago,' one anonymous legal aide whispered, adjusting their designer glasses. President Trump's defense team, reportedly celebrating with 'yuge' victory pastries, lauded the decision as a triumph of common sense over the arduous task of proving anything in court.",
         "originalSource": "CBS News",
-        "publishedTime": "Today"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764171620102-4",
-        "headline": "FBI Crackdown On 'Old Cases' Finally Solves 2020 Crime After Agents Remembered Where They Put The File",
-        "content": "In a groundbreaking demonstration of what can only be described as 'extremely patient detective work,' the FBI has triumphantly announced criminal charges in a 2020 homicide case within a Native American community, merely five years after the incident. Sources close to the investigation reveal the breakthrough came when an agent accidentally knocked over a pile of 'things to look at later' and discovered the original evidence binder. 'We're just glad we got to it before it became a historical document,' stated a spokesperson, dusting off a 'Do Not Disturb' sign from a forgotten evidence locker. Locals, while appreciative, are reportedly wondering if the FBI also plans to investigate their missing car keys from 2018.",
-        "originalSource": "AP News / CBS News",
-        "publishedTime": "Today"
+        "id": "story-1764176060994-1",
+        "headline": "Immigration Authorities Discover DACA Protection Is Merely A Suggestion, Not A Binding Contract",
+        "content": "In a bold move that has many questioning the very definition of 'protection,' immigration authorities have reportedly begun arresting individuals shielded by the Deferred Action for Childhood Arrivals (DACA) program. Apparently, the 'shield' provided by DACA was less of a formidable barrier and more of a flimsy decorative accessory. 'We thought it meant 'don't deport these people,'' explained one bewildered 'Dreamer,' 'but apparently, it just means 'don't deport them *unless we feel like it*'.' Critics are calling the arrests a 'challenging interpretation' of the program, while others simply wonder if the government is just playing a very confusing game of 'tag, you're it' with vulnerable populations.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764171620102-5",
-        "headline": "Lawmakers Begin Annual 'Pretend To Work Super Hard' Sprint Before Holiday Naps",
-        "content": "As the legislative calendar rapidly dwindles, Congress has reportedly entered its traditional 'sudden burst of activity' phase, hoping to convince a skeptical public that they actually accomplish things before adjourning for extended holiday naps. Political analysts are urging everyone to grab popcorn and witness three critical battles: whether anyone remembers what they were supposed to be voting on, who can claim credit for the most generic 'bipartisan agreement,' and if anyone can manage to pass a spending bill that doesn't inadvertently fund a secret squirrel army. Insiders say the real fight is over who gets the best vacation dates.",
-        "originalSource": "PBS News",
+        "id": "story-1764176060994-2",
+        "headline": "Nation Braces For Annual Thanksgiving Ritual Of Self-Inflicted Travel Agony",
+        "content": "Millions of masochistic Americans are enthusiastically preparing for the annual Thanksgiving migration, eagerly anticipating the glorious congestion across airports, roads, and rail networks. Transportation analysts, whose job it is to state the obvious, have 'forewarned' travelers that they should absolutely expect 'significant delays' and 'unprecedented levels of human sardine-packing.' Experts predict a joyous return to pre-pandemic levels of holiday travel, meaning every single person in the country will collectively decide to occupy the same square mile of highway or airport terminal, all for the singular pleasure of arguing with relatives about politics over dry turkey.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-3",
+        "headline": "DHS Alarmed As China's Arctic Fleet Spotted Looking For That One Lost Pair Of Sunglasses",
+        "content": "The Department of Homeland Security has issued a stern-faced warning regarding an 'unprecedented' number of Chinese ships chilling out in U.S. Arctic waters this year. While officials initially suspected a cunning strategic maneuver, sources close to the situation now believe China's 'aggressive' presence might simply be an elaborate search for a misplaced ice scraper or perhaps a really good deal on a polar bear souvenir. 'Their 'research vessels' appear to be mostly equipped with extra-large binoculars and a sense of profound curiosity about icebergs,' stated one bewildered DHS analyst, who admitted national security alarms were currently set to 'mildly perplexed.' The move highlights China's growing strategic interest in... well, whatever exactly they're doing up there.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-4",
+        "headline": "Unemployment Filings Plummet As Americans Realize They Can't Afford To Be Unemployed Anymore",
+        "content": "In a resounding triumph for the American economy, new government figures reveal a dramatic drop in weekly unemployment insurance claims, proving once and for all that layoffs have been completely eradicated by sheer economic necessity. Experts believe the 'resilience' in the labor market is largely due to the fact that taking time off to find a better job is now considered an unaffordable luxury. 'Why file for unemployment when you can just work three part-time jobs and never sleep?' beamed a delighted economist, clearly not looking at any actual workers. This positive economic signal of stability is expected to continue until the next time someone needs to buy groceries.",
+        "originalSource": "AP News",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764176060994-5",
+        "headline": "Slender Man Attacker's Daring Escape Ends With Realization That Running Away Is Tiring",
+        "content": "In a dramatic anticlimax, the individual from the infamous 'Slender Man' stabbing case, who recently launched a thrilling one-day bid for freedom from a Wisconsin group home, has graciously decided not to fight extradition. Apparently, the grueling journey from Wisconsin to Illinois (which took all of 24 hours to track her down) proved to be more strenuous than anticipated. 'I just wanted to see what was on the other side of that state line,' she reportedly confessed, 'but honestly, the snacks weren't as good and my feet hurt.' Authorities, who deployed a crack team of 'missing person' experts to locate the woman, celebrated the swift apprehension as a testament to the fact that you can't just 'walk away' from the legal system, especially when you're not particularly good at walking long distances unnoticed.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764171620102-0",
-        "headline": "Even with DACA, 'Dreamers' are getting arrested sometimes.",
-        "content": "DACA is a special program that lets some young people who came to the US as kids live and work here without getting sent back to their home countries. They are sometimes called 'Dreamers'. But now, some reports say that even with DACA, these young people are being arrested by immigration police. This is confusing because DACA is supposed to protect them from being sent away.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-1",
-        "headline": "Good news: Not many people are getting laid off!",
-        "content": "Every week, the government counts how many people ask for help because they lost their job. This week, fewer people asked for help. This is good news because it means not many companies are firing people right now, and most people still have their jobs as the year ends.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-2",
-        "headline": "A friend of President Trump helped a Russian official.",
-        "content": "A new story says that Steve Witkoff, who builds buildings and is friends with President Trump, gave advice to someone who works for Russia's government. He supposedly told them how Russia's leader should talk about a plan to make peace in Ukraine with President Trump.",
-        "originalSource": "The Guardian / Associated Press",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-3",
-        "headline": "Brave Navy sailor dies saving kids in big ocean waves.",
-        "content": "A really brave person who works in the US Navy sadly died in Hawaii. They jumped into the ocean where the waves were super big and dangerous to save some kids who were stuck. They were a true hero trying to help those children.",
+        "id": "story-1764176060994-0",
+        "headline": "The Prosecutor in Georgia Wants to Stop the Case Against President Trump.",
+        "content": "Someone important in Georgia who brings people to court wants to stop a big case against President Trump and others. This case was about the 2020 election. It's been a tough fight for a long time, and many people think this is good news for President Trump and his team.",
         "originalSource": "CBS News",
-        "publishedTime": "Today"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764171620102-4",
-        "headline": "Police finally charge someone for a shooting from five years ago.",
-        "content": "The FBI, which is like a big police force, worked really hard and finally found someone to blame for a man who was killed in a Native American community back in 2020. This happened five years ago, and people in that area were very upset about it, so it's good that there's an answer now.",
-        "originalSource": "AP News / CBS News",
-        "publishedTime": "Today"
+        "id": "story-1764176060994-1",
+        "headline": "People Protected by DACA Are Still Getting Arrested.",
+        "content": "Even though a program called DACA helps some young people stay in the country and work, some of these \"Dreamers\" are still being arrested by immigration police. DACA was supposed to keep them safe from being sent away, so these arrests are a big problem for the program.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764171620102-5",
-        "headline": "Congress has three big things to finish this year.",
-        "content": "Congress, which is where our lawmakers work, has to finish some really important jobs before the year ends. Grown-ups who watch politics say there are three main arguments about laws and money that Congress needs to sort out. What they decide will help figure out what the government will do next year.",
-        "originalSource": "PBS News",
+        "id": "story-1764176060994-2",
+        "headline": "Many People Will Travel for Thanksgiving This Year.",
+        "content": "A lot of people in America are going to travel for Thanksgiving soon. This means airports, roads, and trains will be super busy. Grown-ups who help with travel say to expect long waits because so many people are going places, just like before the sickness happened.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-3",
+        "headline": "China Has Many Ships Near Where America's Arctic Is.",
+        "content": "The U.S. government says that China has more ships than ever before in the Arctic ocean, which is near America. These ships are for both army stuff and science. This makes some people worried about America's safety because China seems to be showing more interest in that important part of the world.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-4",
+        "headline": "Fewer People Are Losing Their Jobs Every Week.",
+        "content": "New numbers show that fewer people are asking for money because they lost their jobs. This means that not many people are getting fired right now, which is good news for how strong America's job market is. It makes people feel better about the economy, even with other money worries.",
+        "originalSource": "AP News",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764176060994-5",
+        "headline": "The Girl from the \"Slender Man\" Case Will Go Back to Wisconsin.",
+        "content": "The girl who was part of the \"Slender Man\" stabbing story from a few years ago ran away from a special house in Wisconsin. They found her in another state, Illinois, just one day later. Now, she's agreed to go back to Wisconsin without a fight, because she left the house she was supposed to stay in.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764171620102-0",
-        "headline": "The Unfolding Dream",
-        "content": "Isabella clutched her DACA card, a fragile shield in a world of shifting policies. She’d built a life, a career, believing in its promise of safety. Then the reports began: fellow Dreamers, like her, being detained. The legal battles were endless, the protections eroding. Each arrest felt like a crack in her own foundation, a chilling whisper that the sanctuary she’d found was perhaps only temporary. The American dream, once vibrant, now flickered with uncertainty, a beautiful but vulnerable flame against a gathering storm. Would her turn come next? The question hung heavy, a constant knot in her stomach.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-1",
-        "headline": "Whispers of Stability",
-        "content": "The factory floor hummed with its usual rhythm, a comforting thrum for Mark. Another week passed, another pay stub secured. The national numbers mirrored his reality: unemployment claims were down again. It wasn’t a boom, not a roaring wave of prosperity, but a steady current. Small businesses kept their staff, families felt a sliver of peace, knowing their jobs were safe. As the year waned, a quiet confidence settled across towns, a collective exhale. Layoffs weren't stalking the headlines; instead, a quiet resilience marked the labor market, a subtle promise of continued steadiness.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-2",
-        "headline": "The Architect of Influence",
-        "content": "In a gilded room, far from official channels, real estate titan Steve Witkoff leaned in. He wasn't a diplomat, but his connections ran deep. Across from him, a Kremlin aide listened intently, scribbling notes. The topic: how Russia’s leader could best present a contentious Ukraine peace plan to President Trump. Witkoff, a trusted associate, offered insights, shaping words and strategies that could sway global narratives. This was the quiet art of back-channel diplomacy, where unofficial whispers carried the weight of nations, potentially altering the course of international conflict from the shadows.",
-        "originalSource": "The Guardian / Associated Press",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764171620102-3",
-        "headline": "A Hero's Last Wave",
-        "content": "The Hawaiian sun beat down, deceptively serene, as rogue waves crashed against the shore. Children screamed, caught in the undertow, their small figures dwarfed by the surging water. From the beach, a Navy sailor saw their peril. Without hesitation, he plunged into the churning chaos, a beacon of courage against the formidable ocean. He reached them, pushing them towards safety, but the relentless surf claimed him. His last act was one of ultimate sacrifice, a selfless leap into the jaws of the Pacific, leaving behind a legacy etched in the hearts of those he saved, and the vast, unforgiving sea.",
+        "id": "story-1764176060994-0",
+        "headline": "The Southern Wind Shifts Direction",
+        "content": "The courtroom's hushed anticipation broke not with a bang, but a whisper. After months of legal skirmishes and the weight of public gaze, the Georgia prosecutor’s motion landed like a feather: charges against President Trump and his allies, dismissed. A silent cheer might have echoed in the defense corridors, a collective breath held, then released. The complex web of the 2020 election fallout, once so tightly spun, now had a significant thread cut. It wasn't the end, merely a pivotal chapter closing, a testament to legal fortitude, leaving behind only the lingering scent of resolution and the promise of tomorrow's headlines.",
         "originalSource": "CBS News",
-        "publishedTime": "Today"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764171620102-4",
-        "headline": "Echoes of Justice",
-        "content": "Five years. Five years the family of John Red Feather had waited, haunted by the unsolved shooting that silenced their loved one. The pain was a constant ache in their Native American community, a gaping wound that justice alone could heal. Then, a surge. FBI agents descended, combing through old evidence, reigniting hope. Witnesses, once silent, began to speak. Finally, charges. A name was called, a suspect identified. The grief remained, but now, a new sound resonated: the first faint echo of justice, a promise that John’s death would not remain an unanswered cry in the wind.",
-        "originalSource": "AP News / CBS News",
-        "publishedTime": "Today"
+        "id": "story-1764176060994-1",
+        "headline": "A Dreamer's Fading Shield",
+        "content": "The shield was supposed to be ironclad, a promise whispered to the young, the 'Dreamers' who called this land home. DACA, the Deferred Action for Childhood Arrivals, granted them work, stability, and a reprieve from the ever-looming threat of deportation. Yet, the news spread like a chill wind: arrests. Individuals, once deemed safe, were now being detained, their protected status seemingly forgotten by unseen hands. Each siren, each knock, became a fresh tremor of fear. The program's core, designed to anchor lives, now felt adrift, leaving its beneficiaries to question if their fragile peace was truly secure.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764171620102-5",
-        "headline": "Capitol's Final Sprint",
-        "content": "The chandeliers of the Capitol building gleamed, reflecting the frantic energy below. Lawmakers, fueled by stale coffee and the looming year-end deadline, debated furiously. Three critical battles dominated the agenda: a budget standoff, a contentious policy bill, and the shape of next year's spending. Every handshake, every whispered negotiation, held immense weight. Political analysts watched, dissecting each move, knowing that these final legislative sprints would define government priorities for months to come. The clock ticked, a relentless drumbeat towards adjournment, each second a testament to the high-stakes dance of power.",
-        "originalSource": "PBS News",
+        "id": "story-1764176060994-2",
+        "headline": "The Great American Pilgrimage Resumes",
+        "content": "A familiar hum returned, the prelude to the annual American pilgrimage. From bustling airport terminals to gridlocked highways and packed train carriages, the nation braced itself. Thanksgiving, that cherished convergence of family and feast, beckoned millions. Forecasts painted a vivid picture of congestion, a dense tapestry of travelers eager to bridge distances. After years of muted gatherings, the routes were expected to swell to pre-pandemic volumes, a collective sigh of anticipation mixed with the inevitable groans of delay. Every suitcase packed, every ticket booked, fueled the great movement, a testament to tradition and the irresistible pull of home.",
+        "originalSource": "AP News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-3",
+        "headline": "Silent Sentinels in the Northern Ice",
+        "content": "The vast, pristine canvas of the Arctic, once a distant frontier, now held a new, unsettling pattern. The Department of Homeland Security's report sent a shiver through intelligence circles: an 'unprecedented number' of Chinese vessels, both military and research, were navigating U.S. Arctic waters. These were not mere curious explorers; their presence signaled a burgeoning strategic interest, a silent claim on the environmentally sensitive and resource-rich domain. The ice caps melted, revealing not just new shipping lanes, but a new geopolitical stage, where silent sentinels from the East observed the North with an unwavering, strategic gaze.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than an hour ago"
+      },
+      {
+        "id": "story-1764176060994-4",
+        "headline": "A Quiet Steadiness in the Economic Tide",
+        "content": "In the complex symphony of economic indicators, a gentle, reassuring note emerged. The weekly tally of unemployment insurance claims had dipped, a subtle yet significant shift. This wasn't a roaring boom, but a quiet affirmation: layoffs remained subdued. The labor market, often a barometer for national anxiety, showed a tenacious resilience, a steady pulse amidst the broader whispers of financial uncertainty. Each decreased number represented a family keeping their rhythm, a paycheck secured, a small victory in the everyday struggle. It was a beacon of stability, however modest, suggesting strength beneath the surface of the shifting economic tide.",
+        "originalSource": "AP News",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764176060994-5",
+        "headline": "The Brief Freedom's End",
+        "content": "The escape was fleeting, a single day of unburdened air after years of confinement. The woman from the infamous 'Slender Man' case, having slipped away from her Wisconsin group home, found a momentary sanctuary across the state line in Illinois. But freedom, like a whisper in a storm, quickly vanished. Apprehended, she faced the inevitable. With a quiet resignation, she agreed not to fight extradition. The legal currents pulled her back, not to the dark fantasy she once embraced, but to the cold reality of a residential facility, her brief flight ending in the familiar grip of consequence.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
       }
     ]
   }
