@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764113631899,
+  "timestamp": 1764128593523,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764113558468-0",
-        "headline": "Catholic Bishops Impose Harmful Ban on Gender-Affirming Care, Denying Essential Healthcare Across Hospitals",
-        "content": "US Catholic bishops have formally adopted a comprehensive policy that cruelly bans all forms of gender-affirming care, including surgical procedures and hormone therapy, across all Catholic hospitals nationwide. This deeply discriminatory move prioritizes religious doctrine over the well-being and fundamental healthcare rights of transgender individuals, highlighting systemic exclusion and the potential for severe health consequences for patients in communities where Catholic hospitals are often the primary care providers, infringing on bodily autonomy.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-1",
-        "headline": "Supreme Court Upholds Marriage Equality, Reaffirming Fundamental Rights Against Conservative Challenges",
-        "content": "The Supreme Court has rejected a longshot appeal that sought to overturn the landmark *Obergefell v. Hodges* ruling, which legalized same-sex marriage across the United States. This crucial decision leaves the established national law in place, defending the hard-won rights of LGBTQ+ individuals, yet it also serves as a stark reminder that these fundamental rights remain constantly under threat from those seeking to roll back progress, necessitating ongoing vigilance in protecting civil liberties.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-2",
-        "headline": "Judge Throws Out Politically Motivated Cases Against Comey and James Due to Illegal Prosecutor Appointment",
-        "content": "A judge has thrown out the criminal cases against former FBI Director James Comey and New York Attorney General Letitia James. The dismissal was based on a finding that the special prosecutor who brought the charges was not legally appointed to the role, underscoring critical issues within the justice system concerning the proper appointment of legal officials. This ruling helps prevent the misuse of prosecutorial power for political ends and upholds the importance of legal standards to ensure fairness and prevent abuses that could undermine public trust in the rule of law.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Nov 24"
-      },
-      {
-        "id": "story-1764113558468-3",
-        "headline": "Climate Crisis Intensifies: Extreme Rains Ravage California, Demanding Urgent Infrastructure and Policy Action",
-        "content": "Southern California is being inundated by another round of heavy, torrential rainfall, leading to widespread flash flood warnings for residents. This powerful atmospheric river system, now forecast to track and bring its severe weather effects eastward, connects directly to the escalating climate crisis. These relentless extreme weather patterns demand robust public infrastructure, equitable disaster relief, and systemic policy changes to address the root causes of climate change and protect communities, especially those most vulnerable to its impacts.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-4",
-        "headline": "Systemic Inequality Exposed: Soaring Energy Costs Drive Power Shutoffs and Debt for Struggling American Families",
-        "content": "As utility costs continue to surge, a growing number of U.S. households are struggling to keep up with energy bills, leading to an increase in power shutoffs and a dramatic rise in Americans' total past-due balances and household debt. This escalating crisis reflects deeper systemic issues of economic injustice and corporate profiteering within the energy sector, highlighting the urgent need for stronger regulatory oversight, investments in affordable and renewable energy, and policies that prioritize human needs over corporate profits to ensure equitable access to essential utilities for all.",
+        "id": "story-1764128524737-0",
+        "headline": "Trump Administration Initiates Cruel Review Targeting Vulnerable Refugees from Previous Policies",
+        "content": "The Trump administration has launched a review of refugees admitted under a previous administration, seeking to identify reasons to disqualify them from remaining in the United States. This action raises significant concerns about xenophobia and the systemic targeting of vulnerable populations, potentially disrupting lives and undermining international humanitarian commitments.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764113558468-5",
-        "headline": "Corporate Greed Devastates Rural Community: Tyson Closure Exposes Fragility of Local Economies and Need for Worker Protections",
-        "content": "Tyson Foods' announced closure of a major beef processing facility in Nebraska is predicted to cause significant economic devastation to the small town that relies on it. This move, which also signals broader supply chain impacts for cattle ranchers across the country, is a stark example of how corporate consolidation and profit-driven motives can decimate small, reliant communities and leave workers and independent ranchers vulnerable. This situation demands policies that promote local control, prevent corporate monopolies, and ensure robust support and protection for communities and workers impacted by such decisions.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
+        "id": "story-1764128524737-1",
+        "headline": "FBI Inquiry Into Lawmakers Raising Alarm Over Unlawful Orders Raises Free Speech Concerns",
+        "content": "Six Democratic lawmakers are facing an FBI inquiry after releasing a video urging military personnel and the intelligence community to refuse unlawful orders. This development, following President Trump's allegations of 'seditious' behavior, sparks serious concerns about potential government overreach and the suppression of essential dissent, especially when safeguarding constitutional principles.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764128524737-2",
+        "headline": "Judicial Oversight Upholds Rule of Law, Dismissing Politically Motivated Cases Due to Illegal Appointment",
+        "content": "A federal judge has dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling found that the special prosecutor was illegally appointed, underscoring the vital importance of judicial independence and proper legal procedure against potentially politically motivated prosecutions. The Justice Department is considering an appeal.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-3",
+        "headline": "President Trump and Xi Jinping Engage in Discussions Amidst Complex Global Challenges of Trade, Sovereignty, and Peace",
+        "content": "President Trump and Chinese leader Xi Jinping have discussed a range of pressing global issues. U.S. and Chinese officials confirmed talks centered on ongoing trade imbalances, the sensitive issue of Taiwan's sovereignty, and the urgent need for diplomatic solutions to achieve peace in Ukraine, highlighting the interconnected nature of global systemic challenges.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-4",
+        "headline": "Systemic Energy Market Failures Leave Millions of Americans Facing Power Shutoffs and Unmanageable Debt",
+        "content": "A deepening financial crisis driven by surging energy costs is disproportionately impacting U.S. households. This systemic failure in energy policy and market regulation is forcing a growing number of Americans to confront power shutoffs and accumulate crippling debt, exposing critical gaps in social safety nets and the urgent need for equitable energy access.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764128524737-5",
+        "headline": "New Social Media Transparency Tool Uncovers Potential Foreign Influence and Manipulation in Online Discourse",
+        "content": "Elon Musk's social media platform, X, has rolled out a new feature revealing the geographic origins of various accounts. This initiative immediately led to surprising discoveries regarding the true base of several popular accounts, highlighting the pervasive systemic issues of online manipulation and the critical need for greater transparency in digital public forums.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764113558468-0",
-        "headline": "US bishops officially ban gender-affirming care at Catholic hospitals.",
-        "content": "US Catholic bishops have formally adopted a comprehensive policy banning all forms of gender-affirming care, including surgical procedures and hormone therapy, across all Catholic hospitals nationwide. The move solidifies the church's stance on medical ethics and care provision.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-1",
-        "headline": "Supreme Court rejects call to overturn its decision legalizing same-sex marriage nationwide.",
-        "content": "The Supreme Court has rejected a longshot appeal that sought to overturn the landmark *Obergefell v. Hodges* ruling, which legalized same-sex marriage across the United States, thereby leaving the established national law in place.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-2",
-        "headline": "Judge dismisses cases against James Comey, Letitia James after finding the prosecutor was illegally appointed.",
-        "content": "A judge has thrown out the criminal cases against former FBI Director James Comey and New York Attorney General Letitia James. The dismissal was based on a finding that the special prosecutor who brought the charges was not legally appointed to the role.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Nov 24"
-      },
-      {
-        "id": "story-1764113558468-3",
-        "headline": "Torrential rains return to Southern California, prompting flash flood warnings before moving east.",
-        "content": "Southern California is being inundated by another round of heavy, torrential rainfall, leading to widespread flash flood warnings for residents. This powerful atmospheric river system is now forecast to track and bring its severe weather effects eastward.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-4",
-        "headline": "Americans face power shutoffs and mounting debt as energy costs surge.",
-        "content": "As utility costs continue to surge, a growing number of U.S. households are struggling to keep up with energy bills, leading to an increase in power shutoffs and a dramatic rise in Americans' total past-due balances and household debt.",
+        "id": "story-1764128524737-0",
+        "headline": "Trump administration orders review of refugees who entered under Biden, memo shows",
+        "content": "The Trump administration has directed a review of refugees admitted under former President Joe Biden, aiming to identify potential reasons that would disqualify them from being able to stay in the United States. This memo initiates a process to scrutinize past admissions.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764113558468-5",
-        "headline": "Tyson's beef plant closure in Nebraska will impact a reliant town and ranchers nationwide.",
-        "content": "Tyson Foods' announced closure of a major beef processing facility in Nebraska is predicted to cause significant economic devastation to the small town that relies on it. The move also signals broader supply chain impacts for cattle ranchers across the country.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
+        "id": "story-1764128524737-1",
+        "headline": "FBI opens inquiry into Democrats over 'illegal orders' video",
+        "content": "Six Democratic lawmakers are facing a federal inquiry by the FBI after they recorded a video urging military service members and the intelligence community to refuse unlawful orders, a message President Trump publicly alleged was \"seditious\" and led to an uproar.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764128524737-2",
+        "headline": "Judge dismisses cases against James Comey, Letitia James after finding the prosecutor was illegally appointed",
+        "content": "A federal judge has dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling found that the special prosecutor who brought the criminal referrals was appointed illegally, leading the Justice Department to consider an appeal.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-3",
+        "headline": "Trump, Xi discussed trade, Taiwan and Ukraine on phone call, U.S. and Chinese officials say",
+        "content": "President Donald Trump and Chinese leader Xi Jinping discussed a range of issues on a recent phone call. U.S. and Chinese officials confirmed they talked about ongoing trade disputes, the sensitive status of Taiwan, and the U.S.-backed effort to achieve peace in Ukraine.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-4",
+        "headline": "Americans face power shutoffs and mounting debt as energy costs surge",
+        "content": "A growing financial crisis is impacting U.S. households as energy costs surge nationwide. Consequently, a rising number of Americans are now facing the grim reality of power shutoffs due to non-payment and are accumulating significant, mounting debt related to their essential utility bills.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764128524737-5",
+        "headline": "X's new feature reveals surprising origins of some popular accounts",
+        "content": "Elon Musk's social media platform, X, has unveiled a new feature that allows users to view the geographic base of various accounts. This addition has immediately led to a number of surprising discoveries and revelations regarding the true origins of several popular and high-profile accounts.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764113558468-0",
-        "headline": "US Bishops Uphold Timeless Medical Ethics, Rejecting Gender Ideology",
-        "content": "American Catholic bishops have courageously affirmed traditional medical ethics, instituting a nationwide ban on all so-called gender-affirming care, including irreversible surgeries and experimental hormone therapies, within their hospitals. This decisive action rightly reinforces the Church's unwavering commitment to true healthcare and the sanctity of natural order, safeguarding patients from radical progressive ideologies.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-1",
-        "headline": "Supreme Court Maintains Precedent, Declining to Revisit Marriage Redefinition",
-        "content": "The Supreme Court has chosen not to revisit its controversial *Obergefell v. Hodges* ruling, which redefined marriage nationwide, by rejecting a recent appeal. While traditionalists continue to advocate for the foundational understanding of marriage, the Court has signaled its current intent to uphold established legal precedents, leaving the current national law on marriage intact.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-2",
-        "headline": "Judge Exposes Illegitimate Appointment, Dismisses Cases Against Comey and James",
-        "content": "In a stunning development, a judge has correctly dismissed criminal charges against former FBI Director James Comey and New York Attorney General Letitia James. The court's decision hinged on the crucial finding that the special prosecutor responsible for bringing these cases was not legally appointed, underscoring critical concerns about due process and the integrity of our justice system when political motives appear to be at play.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Nov 24"
-      },
-      {
-        "id": "story-1764113558468-3",
-        "headline": "Southern California Faces Deluge as Flash Flood Warnings Issued",
-        "content": "Southern California is once again bracing for extreme weather as torrential rainfall unleashes widespread flash flood warnings across the region. This powerful atmospheric river system continues its destructive path, now threatening communities eastward, reminding us of the enduring power of nature and the need for prudent infrastructure management.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-4",
-        "headline": "Soaring Energy Costs Burden American Families, Leading to Power Shutoffs and Crippling Debt",
-        "content": "American families are facing an unprecedented crisis as utility costs continue to surge, leading to a disturbing rise in power shutoffs and household debt. This alarming trend, often exacerbated by reckless government policies and mandates that undermine energy independence and reliable sources, is forcing hardworking citizens to choose between keeping the lights on and other basic necessities, threatening the financial stability of countless homes.",
+        "id": "story-1764128524737-0",
+        "headline": "President Trump Ensures National Security by Reviewing All Refugees Admitted Under Previous Administration.",
+        "content": "President Trump's administration has wisely initiated a comprehensive review of all refugees who entered the United States under the previous administration, aiming to uphold national security and the rule of law. This crucial directive seeks to identify any individuals who may not meet the stringent requirements for residency, safeguarding our borders and our nation's integrity from potential threats.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764113558468-5",
-        "headline": "Tyson Plant Closure Devastates Nebraska Town, Exposing Fragile Food Supply Chain",
-        "content": "Tyson Foods' decision to shutter a critical beef processing plant in Nebraska is poised to unleash economic devastation upon a reliant local community and send troubling ripples through America's food supply chain. This move highlights the precarious state of our domestic production capabilities and the need to protect vital industries and rural towns from corporate decisions that impact our national food security and the livelihoods of independent ranchers across the nation.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
+        "id": "story-1764128524737-1",
+        "headline": "FBI Investigates Radical Democrats for Urging Military to Disobey Orders, Undermining National Cohesion.",
+        "content": "The FBI has commendably opened an inquiry into six Democratic lawmakers who recorded a deeply troubling video, brazenly urging our brave military service members and intelligence community to defy lawful orders. This dangerous act, which President Trump rightly labeled \"seditious,\" directly assaults the foundational principles of military discipline and national unity, deserving thorough investigation to protect our institutions.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764128524737-2",
+        "headline": "Illegally Appointed Prosecutor's Cases Against Comey and James Rightfully Dismissed by Federal Judge.",
+        "content": "A federal judge has rightly dismissed cases targeting former FBI Director James Comey and New York Attorney General Letitia James, ruling that the special prosecutor who initiated these criminal referrals was appointed illegally. This decision underscores the paramount importance of due process and lawful procedure in our justice system, ensuring that even those we may disagree with are subject only to legitimate legal challenges, not political machinations.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-3",
+        "headline": "President Trump Engages Chinese Leader Xi on Trade, Taiwan, and Ukraine, Prioritizing American Interests.",
+        "content": "President Trump demonstrated strong leadership in a recent phone call with Chinese leader Xi Jinping, addressing critical issues including persistent trade disputes, the sensitive geopolitical status of Taiwan, and America's steadfast commitment to fostering peace in Ukraine. This direct engagement highlights President Trump's dedication to robust diplomacy and advancing American interests on the global stage.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-4",
+        "headline": "Soaring Energy Costs Under Current Policies Leave American Families Drowning in Debt and Facing Power Shutoffs.",
+        "content": "A devastating financial crisis is engulfing countless American households as ill-conceived energy policies continue to drive utility costs skyward. Hardworking citizens are now confronting the harsh reality of power shutoffs and accumulating insurmountable debt, a direct consequence of policies that undermine economic liberty and fail to prioritize affordable energy for our nation's families.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764128524737-5",
+        "headline": "X Platform Unveils Critical Transparency Feature Exposing True Origins of Popular Accounts, Upholding Digital Integrity.",
+        "content": "Elon Musk's social media platform, X, has introduced a vital new feature enabling users to ascertain the geographic origins of various accounts, fostering crucial transparency. This innovation is already yielding significant revelations about the true base of many popular and influential accounts, empowering users with knowledge and promoting a more honest digital public square, free from hidden agendas.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764113558468-0",
-        "headline": "US Bishops Courageously Declare God's Gender-Affirming Care Exists Only In Heaven, Ban Earthly Attempts",
-        "content": "In a groundbreaking move sure to solve all of humanity's deepest spiritual crises, the US Catholic bishops have bravely formalized a comprehensive policy banning all forms of gender-affirming care from their hospitals. This bold stance, covering everything from life-saving surgeries to inconvenient hormone therapies, ensures that every Catholic hospital will now strictly adhere to a medical ethics doctrine dictated by men who wear elaborate dresses and believe miracles still happen. The policy, observers note, solidifies the Church's unwavering commitment to making decisions about your body without actually consulting you or your body.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-1",
-        "headline": "Supreme Court Astounds Nation By Deciding To Leave Just One Thing Alone, Briefly",
-        "content": "In a stunning display of judicial restraint that has left pundits absolutely speechless, the Supreme Court has miraculously decided *not* to overturn its landmark *Obergefell v. Hodges* ruling, which legalized same-sex marriage across the entire United States. Apparently, even the highest court in the land occasionally agrees that some things, like who you legally marry, are perhaps best left as settled law... at least until next Tuesday. The decision, rejecting a daring appeal to undo national same-sex marriage rights, means that for the foreseeable future, same-sex couples can continue to annoy traditionalists with their perfectly legal and rather mundane unions.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-2",
-        "headline": "Judge Finds Prosecutor Not Wearing Correct Hat, Declares All Charges Against Comey, James Null And Void",
-        "content": "In a stunning blow to anyone who thought the justice system was about, you know, *justice*, a judge has magnificently dismissed all criminal cases against former FBI Director James Comey and New York Attorney General Letitia James. The reason? It turns out the special prosecutor who spearheaded these high-profile charges wasn't legally appointed, probably because he forgot to fill out form 37-B, Subsection Gamma, or perhaps just wore the wrong color tie on his first day. This monumental discovery proves that in the grand theatre of American law, a minor administrative technicality can effectively erase entire investigations, letting powerful figures walk free while the rest of us wonder if we should start carrying around laminated copies of our own appointments.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Nov 24"
-      },
-      {
-        "id": "story-1764113558468-3",
-        "headline": "California Residents Briefly Remember What Water Looks Like As Sky Decides To Relocate Its Ocean Over L.A.",
-        "content": "Southern California, a land traditionally known for its perpetual sunshine and residents who spontaneously combust if exposed to more than a dewdrop, is once again experiencing the novel sensation of 'rain.' A powerful atmospheric river system, apparently fed up with the Pacific Ocean's vastness, has decided to dump its entire contents directly onto the Golden State, prompting widespread flash flood warnings and forcing residents to briefly consider owning an umbrella. Meteorologists confirm this 'water event' will now gracefully migrate eastward, ensuring the rest of the country gets a taste of California's exquisite weather dramas, just without the celebrity sightings.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-4",
-        "headline": "Americans Enthusiastically Embrace Pre-Industrial Era Lifestyle As Electricity Becomes A Luxury Item",
-        "content": "In a heartwarming return to simpler times, millions of American households are eagerly reverting to a charming pre-industrial existence as energy costs skyrocket past the realm of affordability. With power shutoffs becoming the new 'Netflix and chill,' citizens are rediscovering the joys of candlelight, knitting by moonlight, and telling spooky stories to stay warm – mostly about how they used to afford heating. Financial experts predict a dramatic rise in 'cozy debt,' as past-due balances pile up, ensuring future generations will inherit a rich legacy of darkness and innovative blanket-fort architecture.",
+        "id": "story-1764128524737-0",
+        "headline": "President Trump Orders Grand Census Of Refugees, Demands To Know If Any Are Secretly Enjoying Themselves",
+        "content": "In a groundbreaking move to ensure no stone remains unturned, President Trump's administration has launched an exhaustive review of refugees admitted under his predecessor. The ambitious project aims to uncover any \"potential reasons\" that might disqualify them, ranging from owning a suspiciously well-maintained bicycle to possessing an alarmingly positive outlook on life. Insiders report the memo explicitly asks, \"Are they *too* happy? Because that's a red flag.\"",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764113558468-5",
-        "headline": "Tyson Foods Benevolently Grants Entire Nebraska Town Early Retirement, Cites 'Unforeseen Efficiency' Of Not Having A Town",
-        "content": "In a bold corporate move hailed by accountants everywhere, Tyson Foods has announced the closure of its major beef processing facility in Nebraska, effectively granting an entire reliant town a surprise early retirement package in the form of utter economic devastation. While the small community grapples with the sudden existential void, Tyson assures ranchers nationwide that the resulting 'supply chain adjustments' will simply ensure beef prices remain mysteriously high for consumers, while simultaneously creating fascinating new challenges for cattle producers who previously thought their job was just to, you know, *produce cattle*. Analysts predict the town will soon be rebranded as 'Historic Landmark: Former Site of Economic Activity'.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
+        "id": "story-1764128524737-1",
+        "headline": "FBI Investigates Democratic Lawmakers For Unpatriotically Suggesting People Obey The Law",
+        "content": "Six Democratic lawmakers are now under federal scrutiny by the FBI for an egregious act of civic responsibility: creating a video that encouraged military and intelligence personnel to *refuse unlawful orders*. President Trump, clearly shaken by this unprecedented call for adherence to legal statutes, swiftly labeled the message \"seditious,\" prompting an immediate inquiry into why anyone would ever suggest following rules that weren't specifically *his* rules.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764128524737-2",
+        "headline": "Judge Rules Entire Legal Process Null And Void After Discovering Prosecutorial 'Oopsie'",
+        "content": "In a stunning display of bureaucratic integrity, a federal judge has tossed out cases against former FBI Director James Comey and New York Attorney General Letitia James, not on the merits, but because the special prosecutor was, well, *illegally appointed*. Apparently, the entire legal edifice crumbled when it was discovered someone forgot to properly fill out Form 7B/Auxiliary-Delta-Prime, leading to the Justice Department's profound internal debate over whether to appeal the undeniable fact they messed up.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-3",
+        "headline": "President Trump Solves World's Problems During Leisurely Phone Chat With Chinese Leader Xi",
+        "content": "In a historic display of global diplomacy, President Trump reportedly addressed the entirety of the world's most intractable problems during a recent phone call with Chinese leader Xi Jinping. Sources close to the situation confirm the two leaders casually brushed over trade imbalances, the \"delicate\" situation regarding Taiwan, and the ever-present quest for peace in Ukraine, presumably all while simultaneously checking their notifications and wondering what's for dinner.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-4",
+        "headline": "Americans Discover Hidden Talents For Candle-Making And Debt Accrual As Energy Bills Skyrocket",
+        "content": "In a surprising surge of national ingenuity, millions of Americans are reportedly rediscovering the joys of pre-industrial living as soaring energy costs push them into a new era of darkness. With power shutoffs becoming the new normal, households are embracing candlelight and developing innovative new methods for accumulating \"significant, mounting debt\" on essential utilities, proving once again that necessity is the mother of financially crippling invention.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764128524737-5",
+        "headline": "X Unveils Groundbreaking Feature Revealing Shocking Truth: Some Online Accounts Are Not From Your Basement",
+        "content": "Elon Musk's social media platform, X, has revolutionized online transparency with a new feature that finally allows users to view the geographic origins of various accounts. Early findings are already sending shockwaves, with countless users reportedly gasping in disbelief that their favorite \"authentic American patriot\" account is, in fact, operating out of a small basement in Minsk, confirming suspicions held by anyone who has ever spent five minutes on the internet.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764113558468-0",
-        "headline": "Catholic Hospitals Say No to Some Special Health Care for Kids",
-        "content": "The leaders of Catholic hospitals in America have decided that these hospitals cannot help people who want to change their bodies to match how they feel inside. This means no special surgeries or medicines for that kind of care at Catholic hospitals anywhere in the country. It's their way of saying what they believe is right for doctors and hospitals.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-1",
-        "headline": "The Top Court Says Yes, Same-Sex Marriage Is Still Allowed Everywhere",
-        "content": "Someone asked the highest court in the country, called the Supreme Court, to change its mind about a big decision. A while ago, the court said that people of the same sex can get married all over America. Now, they said no to changing that rule, so same-sex marriage is still legal everywhere, just like before.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-2",
-        "headline": "A Judge Says Cases Against Some Important People Are Not Fair",
-        "content": "A judge decided to stop the legal problems for a couple of important people, James Comey and Letitia James. It turns out that the person who was trying to bring charges against them wasn't picked for the job in the right way. So, the judge said, 'Nope, these cases can't go on.'",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Nov 24"
-      },
-      {
-        "id": "story-1764113558468-3",
-        "headline": "Lots and Lots of Rain Falling Again in Sunny California",
-        "content": "Southern California is getting soaked again with tons of rain, so much that people are being warned about quick floods. It's like a big 'river in the sky' that's bringing all this bad weather, and now it looks like it will move and bring the same heavy rain to places further east.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-4",
-        "headline": "Families Are Having Trouble Paying for Electricity and Gas",
-        "content": "The bills for electricity and gas are getting super expensive, and lots of families in America are finding it hard to pay them. Because of this, some people are having their power turned off, and more and more families are getting into debt because of these high energy costs.",
+        "id": "story-1764128524737-0",
+        "headline": "President Trump Wants to Check on People Who Moved Here",
+        "content": "President Trump's team is going to look at people who came to America when Joe Biden was in charge. They want to make sure everyone should still be allowed to live here. It's like checking if everyone followed the rules to move in.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764113558468-5",
-        "headline": "A Big Meat Factory Closing Down Will Make Many People Sad",
-        "content": "Tyson Foods is closing a very big factory where they get beef ready to eat in Nebraska. This is really bad news for the small town there because almost everyone works at that factory. It also means that farmers who raise cows all over the country might have trouble selling their animals.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
+        "id": "story-1764128524737-1",
+        "headline": "FBI is Looking Into Lawmakers Who Made a Video",
+        "content": "Some lawmakers who are Democrats are in trouble with the FBI. They made a video telling soldiers and spies not to listen to \"bad orders.\" President Trump said this was very wrong, like trying to cause trouble, and a lot of people got mad about it.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764128524737-2",
+        "headline": "A Judge Said Some Cases Cannot Go Forward",
+        "content": "A judge stopped some legal cases against a person named James Comey and another named Letitia James. The judge said that the lawyer who started these cases was not picked in the right way. So, the government might try to fight this decision later.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-3",
+        "headline": "President Trump Talked to China's Leader on the Phone",
+        "content": "President Trump recently called the leader of China, named Xi Jinping. They talked about many important things, like how they trade things between their countries, the special island of Taiwan, and trying to help make peace in Ukraine.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-4",
+        "headline": "Many People Cannot Pay Their Electric Bills",
+        "content": "It's getting really expensive for families in America to pay for electricity and gas. Because of this, more and more people are having their power turned off. They are also getting a lot of debt because they can't afford their bills.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764128524737-5",
+        "headline": "X Now Shows Where Popular Accounts Really Are From",
+        "content": "The social media app X, which Elon Musk owns, has a new tool. It lets you see where popular accounts on the app are actually located in the world. People are already finding out surprising things about where some famous accounts come from!",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764113558468-0",
-        "headline": "The Uncrossed Threshold",
-        "content": "The fluorescent hum of the hospital corridor felt colder now, a silent decree echoing through its sterile walls. Across the nation, a sacred line had been drawn. No more quiet consultations, no more pathways to peace for those seeking alignment within themselves. The bishops' policy, etched in stone, declared certain care anathema. Doctors, once healers, became enforcers of a doctrine, their hands tied, their compassion challenged. Patients, once hopeful, now faced closed doors, their desperate pleas unheard, their very being rendered invisible by a collective conscience. The future of care, once fluid, solidified into an unyielding pronouncement.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-1",
-        "headline": "A Love Affirmed",
-        "content": "The gavel's thud was a final, resolute punctuation. For a moment, the breath of a nation seemed held, suspended in the balance of an appeal that sought to unravel years of progress. But the Supreme Court's decision was clear: *Obergefell v. Hodges* would stand. Across living rooms and city halls, a collective sigh of relief unfurled. The shadow of uncertainty, however brief, dissolved, replaced by the quiet assurance that love, in its many forms, remained legally recognized, protected. No longer a longshot dream, but an affirmed reality, woven into the fabric of the law, impervious to the echoes of doubt.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-2",
-        "headline": "The Unraveling Mandate",
-        "content": "The courtroom air crackled with anticipation, then deflated like a burst balloon. Cases against two prominent figures, James Comey and Letitia James, built painstakingly, crumbled not on their merits, but on a fundamental flaw. The special prosecutor, whose authority was once unchallenged, was found to have been an illegal appointment. A single procedural misstep, a missing signature or an incorrectly followed protocol, had rendered months, perhaps years, of investigation null. The charges, once looming, evaporated into thin air, a stark reminder that even the grandest legal battles can hinge on the minutiae of process.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Nov 24"
-      },
-      {
-        "id": "story-1764113558468-3",
-        "headline": "The Deluge's Relentless March",
-        "content": "The sky above Southern California wept anew, a relentless, silver sheet descending upon parched earth. Flash flood warnings screamed from phones, a frantic chorus against the drumming rain. Roads became rivers, canyons roared with muddy torrents. Homes huddled precariously as the atmospheric river, a malevolent serpent of moisture, coiled overhead. But its hunger wasn't sated. Soon, the eastward winds would beckon, carrying the deluge's wrath across mountains and plains, a grim promise of soaked earth and shattered calm for states yet untouched. The West Coast braced, but the storm's true journey was just beginning.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
-      },
-      {
-        "id": "story-1764113558468-4",
-        "headline": "Flickering Lights, Fading Hope",
-        "content": "The thermostat read 58 degrees, a silent accusation in the chill apartment. Sarah pulled her worn blanket tighter, the glow of her phone her only light. Another bill, higher than the last, sat on the counter, an impossible sum. Across the nation, untold numbers knew this silent dread. The power grid, once a given, now held individual destinies hostage. Shutoffs, once rare, became a stark reality, plunging homes into darkness, deepening the chasm of debt. Each rising utility cost was a stone added to an already crushing burden, leaving families to choose between warmth and food, between light and dignity.",
+        "id": "story-1764128524737-0",
+        "headline": "Shadows Over Sanctuary",
+        "content": "The quiet hum of the White House offices masked a new directive, a ripple across the nation's welcome mat. President Trump’s administration initiated a sweeping review, a deep dive into the histories of those who sought refuge during the previous term. Each file, a life story, was now under unprecedented scrutiny. Agents meticulously combed through applications, seeking any misstep, any overlooked detail that might justify a change in status. The goal was clear: to identify grounds for disqualification, to reassess every welcome extended. A silent tremor of uncertainty began to spread among those who believed their new lives were secure.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Less than an hour ago"
       },
       {
-        "id": "story-1764113558468-5",
-        "headline": "Dust on Main Street",
-        "content": "The news hit like a gut punch, echoing through the town square. Tyson, the behemoth, was pulling out. The beef plant, once the rhythmic heart of this Nebraskan community, would soon fall silent. Families who had worked there for generations now faced an uncertain void. Storefronts, once bustling, braced for dust. But the tremors wouldn't stop at the town limits. Ranchers, their cattle dependent on the plant's massive intake, stared at their herds with new apprehension. The closure, a localized wound, threatened to send a ripple of instability through the national supply chain, leaving a bitter aftertaste across the country.",
-        "originalSource": "AP News",
-        "publishedTime": "less than 24 hours ago"
+        "id": "story-1764128524737-1",
+        "headline": "Echoes of Disobedience",
+        "content": "The video clip, a digital whisper, rippled through the nation's highest offices. Six democratic lawmakers, their faces earnest, urged military and intelligence personnel to question authority, to refuse any order deemed unlawful. President Trump, from his podium, condemned it as sedition, a dangerous erosion of duty. Soon, the quiet hum of the FBI’s inquiry began, a federal investigation sparked by a message meant to stir consciences. Questions of loyalty, command, and the fine line between dissent and defiance now hung heavy in the air, a silent tension gripping the Capitol and beyond.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764128524737-2",
+        "headline": "A Question of Authority",
+        "content": "The gavel’s echo brought silence to the courtroom, then a ripple of surprise. A federal judge had ruled: the accusations against James Comey and Letitia James, weighty as they were, were suddenly moot. The architect of their legal battles, a special prosecutor, had been appointed without proper authority, his mandate now declared invalid. The very foundation of the cases crumbled, leaving the Justice Department to weigh its next move. An appeal loomed, a fight to restore what was now seen as a flawed pursuit of justice, leaving two high-profile figures momentarily unbound.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-3",
+        "headline": "The Global Chessboard",
+        "content": "Across continents, a phone line hummed, connecting two titans. President Trump and Chinese leader Xi Jinping engaged in a conversation that echoed through global markets and geopolitical hotspots. Their agenda was dense: the thorny thicket of trade disputes, the precarious balance surrounding Taiwan, and the complex, U.S.-backed pursuit of peace in Ukraine. Each topic a piece on a vast chessboard, moved by leaders whose words could shift destinies. Officials from both nations confirmed the broad strokes, hinting at the delicate dance of power and diplomacy unfolding in a single, high-stakes exchange.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764128524737-4",
+        "headline": "The Winter's Chill",
+        "content": "The quiet click of the circuit breaker became a symphony of despair across the nation. As energy costs soared, a chilling darkness began to descend upon American homes. Families, once comfortable, now wrestled with impossible choices: food or heat, medicine or light. The bills grew, a silent, mounting avalanche of debt, until the inevitable happened. Power lines went dead, plunging homes into cold and silence, a stark symbol of a widening financial chasm. The warmth and light, once a given, were now luxuries, snatched away by an invisible crisis gripping every household.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764128524737-5",
+        "headline": "Unmasking the Digital Self",
+        "content": "The digital curtain began to lift on the X platform. A new feature, quietly rolled out, allowed a peek behind the avatars, revealing the true geographic heart of popular accounts. What followed was a cascade of revelations. Influencers thought local were global, voices assumed domestic hailed from distant shores. The carefully curated personas, the illusion of proximity, crumbled under the weight of transparent data. Users scrolled, surprised, as the digital landscape reshaped itself, exposing the hidden addresses and sometimes startling origins of the voices that had once seemed so familiar.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
       }
     ]
   }
