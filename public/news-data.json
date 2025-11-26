@@ -1,11 +1,269 @@
 {
-  "timestamp": 1764178795601,
+  "timestamp": 1764183076537,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1764183003228-0",
+        "headline": "Catholic Bishops Systemically Restrict Essential Gender-Affirming Healthcare Across Nation",
+        "content": "The United States Conference of Catholic Bishops has codified a discriminatory policy that bars gender-affirming medical and surgical interventions at Catholic-affiliated hospitals, a significant blow to healthcare access for transgender individuals nationwide. This move weaponizes religious doctrine to deny life-saving care, creating a systemic barrier for a marginalized community and drawing sharp condemnation from LGBTQ+ advocates who highlight the profound ethical and human rights implications of such a broad prohibition in vital healthcare facilities.",
+        "originalSource": "AP News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764183003228-1",
+        "headline": "Georgia Prosecutor Abandons Election Interference Case Against President Trump, Raising Accountability Concerns",
+        "content": "A Georgia prosecutor has disappointingly ended the critical 2020 election interference case against President Trump and his co-defendants, a decision that sparks serious questions about the systemic barriers to holding powerful individuals accountable for alleged attempts to subvert democratic processes. This abrupt termination, following months of legal challenges and claims of prosecutorial misconduct, potentially undermines public trust in the justice system's ability to protect electoral integrity, signaling a troubling precedent for future challenges to democratic norms.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764183003228-2",
+        "headline": "Supreme Court Considers Dangerous Bid to Dismantle Nationwide Same-Sex Marriage Rights",
+        "content": "The Supreme Court is alarmingly reviewing a petition that aims to dismantle the landmark 2015 *Obergefell v. Hodges* ruling, which secured the constitutional right to same-sex marriage across the United States. While proponents dismiss this as a 'longshot,' the very consideration of such an appeal highlights a systemic vulnerability of fundamental human rights and casts a chilling shadow over LGBTQ+ equality, demonstrating the constant need for vigilance against efforts to roll back hard-won protections.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764183003228-3",
+        "headline": "Report Exposes Undue Influence in Ukraine Diplomacy as Envoy Coached Putin Aide for President Trump",
+        "content": "Disturbing new reports expose an alarming instance of potential undue influence in international diplomacy, revealing that Steve Witkoff, an envoy appointed by President Trump, secretly coached a Kremlin official on crafting Russian President Vladimir Putin's proposed Ukraine peace plan for presentation to President Trump. This revelation, part of a broader leak on US involvement, raises serious systemic questions about the transparency and integrity of diplomatic channels, and the potential for private interests to shape critical foreign policy decisions outside of established protocols.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-4",
+        "headline": "Systemic Betrayal: DACA Recipients Face Alarming Arrests Despite Protection Promises",
+        "content": "Immigration advocacy groups are sounding a dire alarm as DACA recipients, supposedly protected from deportation under the Deferred Action for Childhood Arrivals program, are being unjustly arrested by immigration officers. These arbitrary arrests expose a systemic betrayal of trust and undermine the very foundation of DACA, deliberately creating immense fear and instability for thousands of young people who have built lives in the U.S. and highlighting the urgent need for comprehensive immigration reform that upholds human dignity.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-5",
+        "headline": "Systemic Gaps Highlighted as Slender Man Case Individual Flees Supervised Home",
+        "content": "The individual convicted in the tragic 2014 'Slender Man' stabbing case, who recently fled a supervised group home in Wisconsin, has agreed not to fight extradition from Illinois. Her capture a day after walking away from the facility, while swift, highlights the ongoing challenges and potential systemic gaps within the supervised rehabilitation and mental health support systems designed to ensure both public safety and individual well-being in complex cases.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1764183003228-0",
+        "headline": "US bishops officially ban gender-affirming care at Catholic hospitals",
+        "content": "The Conference of Catholic Bishops in the United States has formally adopted a new policy that strictly prohibits gender-affirming medical and surgical interventions at Catholic-affiliated hospitals nationwide. This move solidifies the church’s position against these procedures and affects a significant number of healthcare facilities, drawing immediate criticism from LGBTQ+ advocates.",
+        "originalSource": "AP News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764183003228-1",
+        "headline": "Georgia prosecutor ends 2020 election interference case against Trump, allies",
+        "content": "A Georgia prosecutor has dropped the 2020 election interference case against former President Trump and his co-defendants, months after the racketeering case was first brought in 2023. The decision comes after the case faced significant legal hurdles and allegations of prosecutorial misconduct in recent court filings.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764183003228-2",
+        "headline": "Supreme Court weighs longshot appeal to overturn decision legalizing same-sex marriage nationwide",
+        "content": "The Supreme Court is currently reviewing a petition seeking to overturn its landmark 2015 *Obergefell v. Hodges* ruling, which established the constitutional right to same-sex marriage across the United States. While considered a longshot, the appeal is being watched closely by LGBTQ+ rights groups and conservative legal scholars.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764183003228-3",
+        "headline": "Steve Witkoff coached a Putin aide on how Russian leader should pitch Trump on Ukraine peace plan, report reveals",
+        "content": "New reports reveal that Steve Witkoff, an envoy appointed by former President Trump, secretly advised a Kremlin official on how Russian President Vladimir Putin should present his proposed peace plan for the war in Ukraine to Trump. The revelation is part of a larger leak concerning US involvement in the conflict.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-4",
+        "headline": "DACA recipients are being arrested despite deportation protection",
+        "content": "Immigration advocacy groups are raising alarm after multiple DACA recipients, who are supposedly protected from deportation under the Deferred Action for Childhood Arrivals program, have been arrested by immigration officers. The arrests are challenging the assumed stability of the DACA protection status and creating fear among recipients.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-5",
+        "headline": "Slender Man attacker won't fight extradition to Wisconsin after fleeing group home",
+        "content": "The woman convicted in the 2014 'Slender Man' stabbing case, who recently escaped from her supervised group home in Wisconsin, has agreed not to fight extradition from Illinois. She was found a day after walking away from the facility, prompting a swift search and eventual capture.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1764183003228-0",
+        "headline": "Catholic Bishops Courageously Uphold Traditional Morality by Banning Gender-Altering Procedures",
+        "content": "The Conference of Catholic Bishops in the United States has taken a decisive stand, formally adopting a new policy that strictly prohibits gender-affirming medical and surgical interventions at Catholic-affiliated hospitals nationwide. This move courageously solidifies the church’s position, rooted in timeless truths, against procedures that contradict fundamental biological and religious principles. While attracting predictable criticism from groups challenging traditional values, this policy reaffirms religious freedom and upholds the sanctity of life within a significant number of healthcare facilities.",
+        "originalSource": "AP News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764183003228-1",
+        "headline": "Justice Prevails as Politically Motivated Election Case Against President Trump Crumbles in Georgia",
+        "content": "A Georgia prosecutor has finally dropped the politically charged 2020 election interference case against President Trump and his co-defendants, just months after its initial filing in 2023. This significant decision comes after the case faced insurmountable legal hurdles and damning allegations of prosecutorial misconduct in recent court filings. The collapse of this frivolous case marks a victory for due process and a clear repudiation of weaponized legal actions against a leading political figure.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764183003228-2",
+        "headline": "Supreme Court Considers Restoring Traditional Marriage Definition, Upholding Constitutional Principles",
+        "content": "The Supreme Court is currently reviewing a petition seeking to overturn its controversial 2015 *Obergefell v. Hodges* ruling, which unilaterally established a constitutional right to same-sex marriage across the United States. While widely considered a longshot by many, this important appeal is being closely watched by constitutionalists and conservative legal scholars who advocate for judicial restraint and the original intent of the Constitution, hoping to restore the traditional definition of marriage to its rightful place.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764183003228-3",
+        "headline": "President Trump's Envoy Actively Seeks Peaceful Resolution for Ukraine Conflict Through Diplomacy",
+        "content": "New reports reveal that Steve Witkoff, an envoy associated with President Trump, discreetly advised a Kremlin official on how Russian President Vladimir Putin should present his proposed peace plan for the conflict in Ukraine to President Trump. This revelation, part of a broader leak concerning U.S. involvement, underscores President Trump's unwavering commitment to seeking diplomatic solutions and avoiding endless foreign entanglements, always prioritizing American interests and global stability through direct dialogue.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-4",
+        "headline": "Law Enforcement Upholds Borders and Rule of Law as DACA Status Faces Increased Scrutiny",
+        "content": "Immigration advocacy groups are expressing concern after multiple DACA recipients, individuals granted temporary protection under a controversial executive action, have been arrested by diligent immigration officers. These arrests challenge the perceived stability of the Deferred Action for Childhood Arrivals program, an executive creation not a law, and highlight the ongoing necessity for consistent enforcement of our nation's immigration laws to maintain border integrity and national sovereignty.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-5",
+        "headline": "Fugitive 'Slender Man' Attacker Captured Swiftly, Ensuring Justice Prevails",
+        "content": "The woman convicted in the horrifying 2014 'Slender Man' stabbing case, who recently absconded from her supervised group home in Wisconsin, has wisely agreed not to fight extradition from Illinois. Her rapid capture just a day after her escape from the facility underscores the effectiveness of law enforcement and the justice system's commitment to ensuring public safety and holding individuals accountable for their grave criminal actions.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1764183003228-0",
+        "headline": "Catholic Bishops Heroically Ensure Healthcare Remains Strictly Adherent to 13th-Century Interpretations of Human Anatomy",
+        "content": "In a stunning display of medical progress, the U.S. Conference of Catholic Bishops has formally banned gender-affirming care from its hospitals, ensuring that patients receive only the most *traditional* of treatments. This bold move solidifies the church’s commitment to only approving medical interventions they can find referenced in dusty ancient texts, leading many to wonder if leeches and prayer will be the next groundbreaking medical advancement to sweep Catholic-affiliated facilities. LGBTQ+ advocates, apparently unfamiliar with the concept of historical accuracy in healthcare, expressed \"criticism.\"",
+        "originalSource": "AP News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764183003228-1",
+        "headline": "Georgia Prosecutor Declares Justice Served, Primarily to Legal Bills, After Dropping Case Against President Trump",
+        "content": "In a move that surprised absolutely no one still paying attention, a Georgia prosecutor has gracefully bowed out of the 2020 election interference case against President Trump and his delightful co-defendants. The decision, coming mere months after the \"racketeering\" case was filed, reportedly followed \"significant legal hurdles\" and \"allegations of prosecutorial misconduct,\" which are apparently just fancy terms for \"this got way too complicated\" and \"someone might have looked at someone funny.\" President Trump, currently enjoying his victory lap, commented that this just proves that sometimes, things just *go away*.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764183003228-2",
+        "headline": "Supreme Court Seriously Considers Un-Legalizing Same-Sex Marriage, Because Why Not Stir the Pot?",
+        "content": "America's top judicial minds, clearly bored after a long lunch, are reportedly \"weighing\" a \"longshot\" appeal to overturn the 2015 *Obergefell v. Hodges* ruling, which *checks notes* established the constitutional right to same-sex marriage. While legal experts assure everyone it's about as likely as a pigeon winning the Kentucky Derby, LGBTQ+ rights groups are still watching closely, presumably with a bowl of popcorn and a healthy dose of existential dread, while conservative legal scholars are just happy to have something to talk about at their weekly \"What If We Went Back To The Good Old Days?\" meeting.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764183003228-3",
+        "headline": "Presidential Envoy Offers Crucial PR Tips to Putin's Team on How to Sell \"Peace Plan\" to President Trump",
+        "content": "In a stunning display of back-channel diplomacy that definitely wasn't weird at all, Steve Witkoff, a special envoy hand-picked by President Trump, reportedly coached a Kremlin official on the finer points of pitching Vladimir Putin's \"peace plan\" for Ukraine to President Trump himself. Sources suggest Witkoff's advice included tips like \"start with flattery,\" \"mention golf courses,\" and \"avoid any mention of 'sanctions' before the third commercial break.\" The revelation, part of a leak detailing U.S. involvement in the conflict, confirms that international relations are now essentially a carefully focus-grouped reality TV show.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-4",
+        "headline": "DACA \"Protection\" Program Mysteriously Fails to Protect, Leading to Widespread Confusion and Arrests",
+        "content": "Immigration advocacy groups are utterly baffled after multiple DACA recipients, who were under the impression they were \"protected\" from deportation by the Deferred Action for Childhood Arrivals program, have been inexplicably arrested by immigration officers. Experts believe the program's \"protection\" clause may have been written in invisible ink or perhaps was just a suggestion. The arrests are reportedly \"challenging the assumed stability\" of DACA status, which is a polite way of saying \"everyone is terrified and utterly bewildered by this bureaucratic magic trick.\"",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-5",
+        "headline": "Elusive \"Slender Man\" Attacker Decides Escaping Wisconsin Was Too Much Effort, Agrees to Return Willingly",
+        "content": "The woman notorious for the 2014 \"Slender Man\" stabbing, who briefly achieved fleeting freedom after strolling out of her supervised Wisconsin group home, has magnanimously decided not to fight extradition from Illinois. Apparently, the prospect of a drawn-out legal battle was simply not worth the effort for someone who only managed to stay \"at large\" for a single, thrilling day before being located, presumably after pausing for a snack. Law enforcement, who had launched a \"swift search\" for the legendary escape artist, are now left wondering if her next great escape will involve asking nicely for a ride back.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1764183003228-0",
+        "headline": "Catholic Hospitals Decide Not to Do Gender Treatments.",
+        "content": "The main church leaders in the US, called bishops, have made a new rule. This rule says that Catholic hospitals can't help people change their bodies to match how they feel inside about being a boy or a girl. This makes it clear what the church thinks, and many hospitals will follow this rule. Some groups who help LGBTQ+ people are not happy about this new rule.",
+        "originalSource": "AP News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764183003228-1",
+        "headline": "A Prosecutor in Georgia Has Ended a Big Case Against President Trump.",
+        "content": "A lawyer in Georgia decided to stop a big case against President Trump and some other people. This case was about what happened with the election in 2020. They started this case in 2023, but it has had a lot of problems. Some people even said the lawyer who brought the case did some things wrong.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764183003228-2",
+        "headline": "The Supreme Court is Thinking About an Old Rule on Marriage.",
+        "content": "The biggest court in the country, the Supreme Court, is looking at a request. This request wants to change a rule they made in 2015. That rule said that people of the same gender can get married everywhere in the United States. Most people think it's not very likely they will change it, but groups who care about LGBTQ+ rights and some smart lawyers are watching very closely.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764183003228-3",
+        "headline": "A Report Says Someone Told Russia How to Talk to President Trump About Peace.",
+        "content": "New news says that a person named Steve Witkoff, who used to work for President Trump, secretly told someone from Russia what to say. He told them how Russian President Vladimir Putin should tell President Trump about his idea for a peace plan to stop the fighting in Ukraine. This information came out as part of a bigger secret about how the US is involved in the war.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-4",
+        "headline": "People with DACA Protections Are Still Getting Arrested.",
+        "content": "Groups that help immigrants are worried because some people who have DACA are being arrested. DACA is a program that is supposed to keep them safe from being sent out of the country. These arrests make people wonder if DACA really keeps them safe, and it's making many DACA people scared.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-5",
+        "headline": "The Girl from the 'Slender Man' Case Will Go Back to Wisconsin.",
+        "content": "The woman who was part of the \"Slender Man\" stabbing case from 2014 ran away from a special home in Wisconsin where she was staying. But she was found in Illinois just one day later. Now, she has said she won't try to stop them from sending her back to Wisconsin.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1764183003228-0",
+        "headline": "When Faith's Veil Shadows Healthcare",
+        "content": "The air within the sacred halls grew heavy with pronouncements. A new mandate, forged by the Conference of Catholic Bishops, now echoed across the nation's Catholic hospitals. No longer would gender-affirming medical or surgical care be permissible. This decree solidified the Church's ancient doctrines, drawing a stark line in the sand. Outside, a different kind of solemnity settled: the quiet outrage of LGBTQ+ advocates, whose voices rose in immediate criticism. For many, the once-sacred spaces of healing had become places of exclusion, their medical journeys abruptly halted by an unyielding faith. The policy transformed compassionate care into a battleground of belief.",
+        "originalSource": "AP News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764183003228-1",
+        "headline": "A Case Dissolved in Southern Air",
+        "content": "The grand jury's shadow, once long and ominous over Fulton County, finally receded. Months after the racketeering case was first assembled in 2023, charging President Trump and his allies with election interference, a Georgia prosecutor announced its end. The legal battle had been fraught, riddled with significant hurdles and claims of prosecutorial misconduct that marred court filings. The intricate web of accusations, once poised to reshape political narratives, unraveled. For some, it was a vindication; for others, a missed reckoning. The legal drama, which had captivated headlines, now quietly dissolved, leaving only the fainter echoes of a contentious election past.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764183003228-2",
+        "headline": "A Whisper Against the Rainbow's Law",
+        "content": "A tremor of apprehension stirred through communities built on hard-won rights. The Supreme Court, that ultimate arbiter of justice, was quietly considering a longshot petition. This appeal sought to dismantle the landmark 2015 *Obergefell v. Hodges* ruling, the very foundation of nationwide same-sex marriage. Though deemed unlikely to succeed, the possibility alone held breath. LGBTQ+ advocates watched with bated breath, their collective memory sharp with past struggles, while conservative legal scholars observed with renewed hope. The stability of a fundamental right, woven into the fabric of American law, hung momentarily in the balance, a reminder of battles never fully won.",
+        "originalSource": "AP News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764183003228-3",
+        "headline": "The Quiet Diplomacy Behind Closed Doors",
+        "content": "Beneath the surface of international relations, whispers carried secrets. New reports unveiled that Steve Witkoff, an envoy appointed by President Trump, engaged in discreet counsel. He advised a high-ranking Kremlin official on the precise manner in which Russian President Vladimir Putin should present his proposed peace plan for the war in Ukraine to President Trump. The revelation, part of a larger, unsettling leak, peeled back a layer of the complex American involvement in the enduring conflict. It painted a picture of backchannel diplomacy, where strategic guidance was offered to shape a critical global dialogue between powerful figures.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-4",
+        "headline": "The Fraying Threads of a Promised Shield",
+        "content": "A chilling alarm echoed through immigrant communities. DACA recipients, once assured a measure of stability under the Deferred Action for Childhood Arrivals program, found their protection crumbling. Reports surfaced of multiple arrests by immigration officers, casting a dark shadow over their assumed safety. Each detention was a stark challenge to the program's presumed invulnerability, sowing seeds of deep fear among those who had built lives under its auspices. The shield, meant to guard against deportation, felt increasingly porous, leaving thousands adrift in an uncertain legal landscape, their dreams of belonging now precariously balanced.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764183003228-5",
+        "headline": "A Fugitive's Reluctant Journey Back",
+        "content": "The chilling echo of a past trauma briefly resurfaced. The woman convicted in the infamous 2014 'Slender Man' stabbing case, who had recently slipped away from her supervised group home in Wisconsin, was swiftly apprehended in Illinois. A day of intense searching concluded with her capture, ending a brief, tense interlude of freedom. Now, facing the inevitable, she made a quiet decision: no fight for extradition. The path led back to Wisconsin, back to the facility she had left behind. Her brief flight dissolved, and the quiet, unsettling specter of her past crimes settled once more upon her journey.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      }
+    ]
   }
 }
