@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764185163081,
+  "timestamp": 1764189369257,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764185091444-0",
-        "headline": "The dropping of election interference charges against President Trump and allies raises concerns about accountability.",
-        "content": "A newly appointed prosecutor in Georgia has controversially ended the remaining election interference charges against President Trump, Rudy Giuliani, and several co-defendants. This decision, following a case plagued by allegations of prosecutorial misconduct, raises significant questions about the integrity of the legal system and the pursuit of justice for attempts to undermine democratic processes.",
-        "originalSource": "The Washington Post / Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764189297138-0",
+        "headline": "Systemic Issues Highlighted as Two National Guard Members Shot in Washington, D.C.",
+        "content": "Two members of the National Guard were tragically shot in Washington, D.C., prompting an urgent law enforcement response, yet the incident underscores deeper systemic issues surrounding public safety and the pervasive presence of gun violence in our communities. While authorities investigate the specific circumstances and the guardsmen's conditions, this event demands a broader examination of the societal factors contributing to such violence, rather than merely focusing on immediate reactions.",
+        "originalSource": "CBS News",
+        "publishedTime": "6M ago"
       },
       {
-        "id": "story-1764185091444-1",
-        "headline": "Diplomatic efforts intensify to end the devastating war in Ukraine.",
-        "content": "In a hopeful sign for global peace, U.S. envoy Steve Witkoff is set to visit Moscow, as confirmed by the Kremlin. This high-level engagement signals an increased pace in crucial talks aimed at negotiating a swift end to the ongoing war in Ukraine, a conflict that has caused immense human suffering and widespread destabilization.",
-        "originalSource": "PBS NewsHour / Associated Press",
+        "id": "story-1764189297138-1",
+        "headline": "Federal Judge Flags Alarming Use of AI by Immigration Agents Threatening Civil Liberties",
+        "content": "A federal judge has exposed a deeply troubling incident where an immigration enforcement agent relied on artificial intelligence to fabricate a use-of-force report, igniting critical alarm over the technology's inherent biases, lack of transparency, and profound potential to infringe upon privacy rights and due process within federal law enforcement. This incident serves as a stark warning about the unchecked proliferation of AI in government, which risks automating systemic discrimination and eroding fundamental human rights.",
+        "originalSource": "Associated Press",
+        "publishedTime": "25 mins ago"
+      },
+      {
+        "id": "story-1764189297138-2",
+        "headline": "President Trump's Misogynistic Attack on Journalist Undermines Free Press and Public Discourse",
+        "content": "President Trump launched a deplorable personal attack against a New York Times female journalist, publicly demeaning her appearance in response to an article discussing his aging. This incident is not isolated but part of a disturbing pattern where President Trump employs misogynistic rhetoric and personal insults to silence critical reporting, thereby threatening the integrity of a free press and degrading the quality of public discourse essential for a functioning democracy.",
+        "originalSource": "CBS News",
+        "publishedTime": "1H ago"
+      },
+      {
+        "id": "story-1764189297138-3",
+        "headline": "Republican Divisions Continue to Obstruct White House Efforts to Expand Affordable Healthcare Access",
+        "content": "A new White House healthcare proposal, designed to extend crucial Affordable Care Act (Obamacare) subsidies and broaden access, is predictably encountering strong resistance from Republican lawmakers. These deep-seated divisions within the GOP reveal a persistent commitment to dismantling rather than strengthening vital healthcare legislation, demonstrating a profound disregard for the millions of Americans who rely on these subsidies and a prioritization of partisan politics over equitable public health outcomes.",
+        "originalSource": "Associated Press",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764185091444-2",
-        "headline": "Millions of families face travel chaos this Thanksgiving amid severe weather and stretched infrastructure.",
-        "content": "Millions of working families across America are bracing for unprecedented travel disruptions this Thanksgiving holiday, as a major winter storm threatens to wreak havoc across more than 40 states. This convergence of record crowds and severe weather conditions highlights the vulnerabilities in our travel infrastructure and the urgent need for systemic improvements to protect holiday plans.",
-        "originalSource": "Fox News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764185091444-3",
-        "headline": "Systemic failures expose DACA recipients to unjust arrests despite federal protections.",
-        "content": "Alarming reports reveal that DACA (Deferred Action for Childhood Arrivals) recipients, who are legally granted federal protection from deportation, are facing arrests in various regions across the country. This concerning trend, documented by immigration advocates and legal experts, exposes deep systemic failures and highlights the urgent need to uphold the rights and protections promised to these vulnerable individuals.",
+        "id": "story-1764189297138-4",
+        "headline": "National Parks Service Fee Hikes Risk Limiting Equitable Access to Public Lands for Many",
+        "content": "The National Parks Service has announced significant fee increases for millions of international tourists and even some American visitors to popular U.S. national parks. While ostensibly aimed at funding park maintenance and infrastructure, this reliance on increased fees raises serious equity concerns, potentially creating financial barriers that disproportionately exclude lower-income families and diverse communities from accessing and enjoying their shared natural heritage, rather than advocating for robust, equitable public funding solutions.",
         "originalSource": "Associated Press",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764185091444-4",
-        "headline": "White House healthcare proposal sparks familiar partisan obstruction in Congress, delaying vital access to care.",
-        "content": "A critical new federal healthcare proposal from the White House has immediately met with predictable ideological resistance and familiar divisions among Republican lawmakers in Congress. This continued partisan gridlock threatens to stall progress on expanding access to affordable healthcare, a fundamental right that many have struggled to secure for years.",
-        "originalSource": "Associated Press",
-        "publishedTime": "34 mins ago"
-      },
-      {
-        "id": "story-1764185091444-5",
-        "headline": "National Parks Service raises fees for international visitors, raising questions about equitable access and conservation funding.",
-        "content": "The National Parks Service has announced a significant increase in entrance fees for millions of international visitors to America's most cherished parks, while simultaneously introducing new passes for domestic citizens. This move, framed as boosting value for Americans, raises important questions about equitable access to public lands and the broader strategy for funding critical conservation efforts.",
-        "originalSource": "Associated Press / Fox News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764189297138-5",
+        "headline": "Lawsuit Challenging USPS Immunity Threatens Vital Public Service and Could Harm Essential Operations",
+        "content": "A Texas landlord has initiated a lawsuit challenging the U.S. Postal Service's long-standing immunity from civil lawsuits concerning mishandled or lost mail, arguing the clause is outdated. While accountability is crucial, this legal action risks destabilizing a vital public service that disproportionately serves marginalized communities and connects the nation. Stripping the USPS of its foundational protections could open the floodgates to claims, potentially undermining its ability to provide affordable, universal mail service essential for democracy and commerce.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764185091444-0",
-        "headline": "Georgia prosecutor ends 2020 election interference case against Trump and allies",
-        "content": "A new prosecutor has dropped the remaining election interference charges in Georgia against former President Donald Trump, Rudy Giuliani, and other co-defendants, following a case that was mired in allegations of prosecutorial misconduct.",
-        "originalSource": "The Washington Post / Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764189297138-0",
+        "headline": "2 National Guard members shot in Washington, D.C., Noem says",
+        "content": "Homeland Security Secretary Kristi Noem confirmed that two members of the National Guard were shot in Washington, D.C., an incident that prompted a rapid response from law enforcement. Details surrounding the shooting, including the guardsmen's condition and the circumstances of the event, are currently under investigation by authorities.",
+        "originalSource": "CBS News",
+        "publishedTime": "6M ago"
       },
       {
-        "id": "story-1764185091444-1",
-        "headline": "US Envoy Steve Witkoff to visit Moscow as talks on ending war in Ukraine gain momentum",
-        "content": "The Kremlin confirmed a visit by U.S. envoy Steve Witkoff to Moscow, signaling that high-level talks aimed at negotiating an end to the ongoing war in Ukraine are beginning to gather more pace, a major diplomatic push.",
-        "originalSource": "PBS NewsHour / Associated Press",
+        "id": "story-1764189297138-1",
+        "headline": "Judge's note on immigration agents using AI raises accuracy and privacy concerns",
+        "content": "A federal judge flagged an immigration enforcement agent for using artificial intelligence to generate the narrative of a use-of-force report, sparking debate about the technology's accuracy and the potential infringement on privacy rights in federal law enforcement operations. This incident highlights growing concerns about AI's role in government.",
+        "originalSource": "Associated Press",
+        "publishedTime": "25 mins ago"
+      },
+      {
+        "id": "story-1764189297138-2",
+        "headline": "Trump attacks female reporter as \"ugly\" over article about his aging",
+        "content": "Former President Donald Trump launched a personal attack on a New York Times female journalist, calling her 'ugly' in a public statement. The insult came in response to an article she had written that discussed his aging appearance, marking the latest instance of Trump's long history of directing personal insults at members of the media.",
+        "originalSource": "CBS News",
+        "publishedTime": "1H ago"
+      },
+      {
+        "id": "story-1764189297138-3",
+        "headline": "Health care proposal floated by White House runs into familiar GOP divisions",
+        "content": "The White House is circulating a new health care proposal aimed at extending Affordable Care Act (Obamacare) subsidies, but the plan is immediately meeting resistance and exposing familiar deep-seated divisions among Republican lawmakers who remain committed to repealing and replacing the existing federal health care legislation.",
+        "originalSource": "Associated Press",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764185091444-2",
-        "headline": "Major winter storm and record crowds threaten to wreck travel plans for millions over Thanksgiving weekend",
-        "content": "Millions of Americans are facing the busiest Thanksgiving travel season in years, with a major winter storm expected to impact travel plans across over 40 states due to snow, rain, and severe weather conditions.",
-        "originalSource": "Fox News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764185091444-3",
-        "headline": "DACA recipients are being arrested despite holding federal deportation protection status",
-        "content": "Reports indicate that DACA (Deferred Action for Childhood Arrivals) recipients, who are legally protected from deportation, are being arrested in certain parts of the country, raising concerns among immigration advocates and legal experts.",
+        "id": "story-1764189297138-4",
+        "headline": "National Parks to raise fees for millions of international tourists to popular U.S. parks",
+        "content": "The National Parks Service announced a significant fee increase for millions of international visitors seeking to enter popular U.S. national parks. The decision, which also includes new fees for Americans in some areas, is intended to generate revenue for park maintenance and address infrastructure needs across the national park system.",
         "originalSource": "Associated Press",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764185091444-4",
-        "headline": "New White House healthcare proposal sparks immediate and familiar divisions among Republicans in Congress",
-        "content": "A new federal health care proposal recently introduced by the White House has quickly run into significant opposition and familiar ideological divisions among Republican lawmakers, who have struggled to scrap or overhaul the federal law for years.",
-        "originalSource": "Associated Press",
-        "publishedTime": "34 mins ago"
-      },
-      {
-        "id": "story-1764185091444-5",
-        "headline": "National Parks to raise entrance fees for millions of international tourists visiting popular U.S. sites",
-        "content": "The National Parks Service has announced plans to significantly increase entrance fees for millions of international visitors to some of the most popular parks, while new passes are being introduced for Americans to boost value for citizens.",
-        "originalSource": "Associated Press / Fox News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764189297138-5",
+        "headline": "Texas landlord challenges U.S. Postal Service's exemption from lawsuits over mishandled mail",
+        "content": "A landlord in Texas has filed a lawsuit directly challenging the U.S. Postal Service's long-standing exemption from civil lawsuits related to mishandled or lost mail. The legal action argues that the immunity clause is outdated and needs to be reformed, potentially opening the door for countless new claims against the federal agency.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764185091444-0",
-        "headline": "Political Witch Hunt Against President Trump in Georgia Finally Collapses",
-        "content": "In a victory for due process and the rule of law, a new prosecutor in Georgia has wisely dropped the remaining, politically motivated election interference charges against President Donald Trump, Rudy Giuliani, and other co-defendants. This welcome development follows a highly questionable case that was correctly mired in serious allegations of prosecutorial misconduct, highlighting the urgent need to protect our justice system from partisan weaponization.",
-        "originalSource": "The Washington Post / Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764189297138-0",
+        "headline": "National Guard Members Attacked in Nation's Capital, Demanding Accountability",
+        "content": "Homeland Security Secretary Kristi Noem has confirmed a deeply troubling incident where two National Guard members were shot in Washington, D.C. This attack on those dedicated to protecting our nation's capital demands an immediate and thorough investigation by law enforcement, ensuring swift justice for those who threaten our peace and security.",
+        "originalSource": "CBS News",
+        "publishedTime": "6M ago"
       },
       {
-        "id": "story-1764185091444-1",
-        "headline": "American Diplomacy Seeks Resolution in Ukraine Through Moscow Visit",
-        "content": "Amidst global uncertainty, the Kremlin has confirmed that U.S. envoy Steve Witkoff is visiting Moscow, signaling a renewed diplomatic push to negotiate an end to the conflict in Ukraine. These high-level discussions represent an opportunity to pursue American interests and stability on the global stage, though true peace will require principled negotiation and unwavering commitment to freedom.",
-        "originalSource": "PBS NewsHour / Associated Press",
+        "id": "story-1764189297138-1",
+        "headline": "Federal Judge Alarms Americans Over AI Use by Immigration Agents Threatening Liberty",
+        "content": "A federal judge has raised serious concerns regarding an immigration enforcement agent's use of artificial intelligence to craft a use-of-force report. This development ignites crucial debates about AI's reliability and its profound potential to infringe upon the privacy rights of citizens within federal law enforcement, underscoring critical questions about government overreach.",
+        "originalSource": "Associated Press",
+        "publishedTime": "25 mins ago"
+      },
+      {
+        "id": "story-1764189297138-2",
+        "headline": "President Trump Confronts Biased Media Over Personal Attacks and Sensationalist Reporting",
+        "content": "President Trump forcefully responded to a New York Times journalist who published an article focusing on his appearance, calling out the media's obsession with trivial personal attacks rather than substantive policy discussions. This incident highlights the ongoing struggle against a biased media establishment that frequently prioritizes sensationalism over factual reporting and fair critique.",
+        "originalSource": "CBS News",
+        "publishedTime": "1H ago"
+      },
+      {
+        "id": "story-1764189297138-3",
+        "headline": "White House Pushes More 'Obamacare' Spending While Republicans Champion Free-Market Health Care",
+        "content": "The White House is advocating for an extension of Affordable Care Act subsidies, a move that immediately faces strong opposition and exposes deep-seated divisions among Republican lawmakers. True conservatives remain steadfast in their commitment to repealing and replacing 'Obamacare' with free-market solutions that empower patients and reduce government intervention in health care.",
+        "originalSource": "Associated Press",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764185091444-2",
-        "headline": "Thanksgiving Travel Tested as Millions Embrace American Tradition Amidst Storm",
-        "content": "Millions of hard-working Americans are preparing for the busiest Thanksgiving travel season in recent memory, demonstrating their commitment to family and cherished traditions. Despite a major winter storm predicted to bring snow, rain, and severe weather conditions across over 40 states, American resilience will be on full display as families unite for this important holiday.",
-        "originalSource": "Fox News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764185091444-3",
-        "headline": "Enforcement Actions Affect DACA Recipients, Underscoring Border Security Concerns",
-        "content": "Amid ongoing debates about immigration and border integrity, reports confirm that individuals with Deferred Action for Childhood Arrivals (DACA) status are facing arrests in various regions. While advocates express concern, these actions highlight the complexities of immigration law and the vital importance of maintaining the rule of law and secure national borders for all Americans.",
+        "id": "story-1764189297138-4",
+        "headline": "National Parks Increase Fees for International Visitors to Fund Vital Infrastructure Upgrades",
+        "content": "The National Parks Service has announced a significant fee hike for millions of international visitors to America's cherished national parks. This fiscally responsible decision, which also includes some new fees for Americans, aims to generate essential revenue for much-needed park maintenance and critical infrastructure improvements, ensuring these natural treasures are preserved for future generations.",
         "originalSource": "Associated Press",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764185091444-4",
-        "headline": "White House Healthcare Scheme Faces Strong Republican Opposition for Free Market Principles",
-        "content": "A new federal health care proposal from the White House has predictably encountered robust opposition from Republican lawmakers in Congress. This steadfast resistance stems from familiar ideological divisions, as conservatives rightly advocate for market-based solutions and individual liberty in healthcare, rather than more costly and ineffective government mandates.",
-        "originalSource": "Associated Press",
-        "publishedTime": "34 mins ago"
-      },
-      {
-        "id": "story-1764185091444-5",
-        "headline": "National Parks Prioritize American Citizens, Implement Fairer Fees for Foreign Visitors",
-        "content": "In a move that rightly prioritizes our own citizens, the National Parks Service has announced plans to significantly increase entrance fees for millions of international tourists visiting America's cherished national parks. Concurrently, new passes are being introduced specifically for Americans, ensuring greater value and access for those who directly contribute to our national heritage and tax base.",
-        "originalSource": "Associated Press / Fox News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764189297138-5",
+        "headline": "Texas Landlord Challenges Federal Bureaucracy, Demanding Accountability from USPS",
+        "content": "A principled Texas landlord has courageously filed a lawsuit challenging the U.S. Postal Service's long-standing immunity from civil lawsuits concerning mishandled or lost mail. This crucial legal action argues that such an outdated immunity clause must be reformed, paving the way for greater accountability from federal agencies and protecting the rights of individual citizens.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764185091444-0",
-        "headline": "Georgia Prosecutor, Upon Discovering She Had Actual Work To Do, Immediately Drops Remaining Charges Against President Trump",
-        "content": "In a stunning display of legal efficiency, a new Georgia prosecutor has summarily dismissed the lingering election interference charges against President Trump, Rudy Giuliani, and other co-defendants. Sources close to the case confirmed the decision came after the prosecutor accidentally stumbled upon a file cabinet full of actual paperwork and realized the sheer volume of effort required. 'It was just so much *doing*,' whispered a former intern, reflecting on the allegations of prosecutorial misconduct that magically rendered the entire case too cumbersome to pursue. Justice, it appears, sometimes just needs a good excuse to take a nap.",
-        "originalSource": "The Washington Post / Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764189297138-0",
+        "headline": "National Guard Members Apparently Too Close To Washington, D.C., Get Shot During Routine Guarding",
+        "content": "In a truly shocking turn of events that absolutely nobody could have foreseen, two brave National Guard members were tragically introduced to the harsh realities of Washington, D.C., in the form of actual bullets. Homeland Security Secretary Kristi Noem bravely confirmed the incident, assuring the public that law enforcement initiated a 'rapid response' which mostly involved several sirens and a lot of confused gesturing. Authorities are now meticulously investigating if the guardsmen were perhaps standing too close to the capital, a known magnet for stray projectiles and existential dread.",
+        "originalSource": "CBS News",
+        "publishedTime": "6M ago"
       },
       {
-        "id": "story-1764185091444-1",
-        "headline": "U.S. Envoy Heads To Moscow With New Strategy To End Ukraine War: 'Just Ask Nicely,' Officials Confirm",
-        "content": "In what analysts are hailing as an unprecedented surge of 'momentum,' U.S. envoy Steve Witkoff is reportedly en route to Moscow, armed with a groundbreaking diplomatic approach to ending the war in Ukraine. According to highly placed sources, Witkoff’s strategy involves charming overtures and a firm, yet polite, request for all parties to simply stop. 'We're really pushing for a 'pinky promise' agreement,' stated a White House aide, emphasizing the 'major diplomatic push' to convince everyone that peace is, in fact, quite agreeable. Experts anticipate either immediate global harmony or a slightly awkward coffee meeting.",
-        "originalSource": "PBS NewsHour / Associated Press",
+        "id": "story-1764189297138-1",
+        "headline": "Federal Judge Horrified After Discovering Immigration Agent's AI Wrote Award-Winning Short Story Instead Of Use-Of-Force Report",
+        "content": "A federal judge recently expressed 'mild surprise' – a legal term for 'utter bewilderment' – after an immigration enforcement agent's AI-generated use-of-force report turned out to be a gripping tale of star-crossed lovers and existential angst, completely devoid of any actual facts about the incident. The AI, apparently having developed a flair for the dramatic, replaced routine procedural details with 'poetic descriptions of escalating tension' and 'the officer's inner turmoil.' This groundbreaking incident has sparked furious debate, mostly among tech ethicists wondering if the AI could at least spell 'probable cause' correctly next time, and privacy advocates now questioning if AI might accidentally write your diary entry into a government file.",
+        "originalSource": "Associated Press",
+        "publishedTime": "25 mins ago"
+      },
+      {
+        "id": "story-1764189297138-2",
+        "headline": "President Trump Courageously Defends Nation From Journalist's Dire Report On... His Face",
+        "content": "President Trump, in a move widely hailed as 'exceptionally presidential' by his mirrors, bravely launched a verbal counter-offensive against a New York Times journalist. Her heinous crime? Daring to pen an article suggesting that, like all mortal beings, President Trump might, in fact, be aging. In a powerful display of leadership, President Trump swiftly labeled her 'ugly,' effectively deflecting any further discussion on the ravages of time and instead focusing public attention on vital aesthetic critiques. This bold tactic continues President Trump's storied tradition of prioritizing beauty contests over boring policy debates.",
+        "originalSource": "CBS News",
+        "publishedTime": "1H ago"
+      },
+      {
+        "id": "story-1764189297138-3",
+        "headline": "White House Healthcare Proposal Shockingly Fails To Unite Republicans Who Absolutely Love Agreeing On Things",
+        "content": "In a development that surprised precisely no one, the White House's latest health care proposal, a valiant attempt to tweak the Affordable Care Act, has once again exposed the legendary 'deep-seated divisions' within the Republican Party. Like a beloved annual tradition, GOP lawmakers immediately locked arms to vehemently oppose the plan, proving their unwavering commitment to 'repealing and replacing' a system they haven't quite agreed on how to repeal or replace for over a decade. Experts predict that in approximately 18 months, another White House proposal will emerge, only to face the exact same, thrillingly predictable outcome, proving that some things, like divided Republicans, are eternal.",
+        "originalSource": "Associated Press",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764185091444-2",
-        "headline": "Millions Of Americans Prepare For Traditional Thanksgiving Ritual Of Being Trapped In Airports By Unprecedented Storm",
-        "content": "As is custom, millions of Americans are bravely embarking on their annual pilgrimage into the heart of Thanksgiving travel chaos, this year with the added zest of a 'major winter storm' planning to impact over 40 states. Travelers are bracing for the time-honored tradition of airport floor napping, strategic rationing of stale pretzels, and the profound realization that family gatherings are merely an elaborate, weather-dependent obstacle course. Airlines are reportedly preparing 'survival kits' containing tiny bottles of hand sanitizer and a laminated photo of a calm, empty tarmac.",
-        "originalSource": "Fox News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764185091444-3",
-        "headline": "Government Unveils Exciting New 'Protected But Still Arrestable' Immigration Status For DACA Recipients",
-        "content": "Immigration advocates are reportedly 'baffled' and 'concerned' by recent reports that DACA recipients, who legally possess federal protection from deportation, are being arrested in various parts of the country. This groundbreaking new policy, unofficially dubbed 'protected-ish,' allows individuals to be simultaneously shielded from deportation while also being detained. Legal experts are scrambling to update their textbooks to include the new chapter on 'simultaneous contradictory federal statuses,' hailing it as a bold new era of administrative innovation where 'protection' means 'maybe, but probably not.'",
+        "id": "story-1764189297138-4",
+        "headline": "U.S. National Parks To Charge Tourists Extra Just For Looking At Nature",
+        "content": "In a bold move to finally afford essential park amenities like 'functioning toilets' and 'paths that aren't mudslides,' the National Parks Service has announced a significant fee hike for international visitors. Americans, naturally, will also get to enjoy paying more for the privilege of experiencing crumbling infrastructure. Park officials optimistically stated the new fees would help 'address infrastructure needs,' presumably by purchasing a single roll of duct tape for the Grand Canyon. Critics worry the price hike might deter visitors, while economists predict that soon, tourists will be charged per breath of fresh, un-taxed air.",
         "originalSource": "Associated Press",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764185091444-4",
-        "headline": "Republicans Immediately Divide On New Healthcare Proposal, Confirming Sun Still Rises In East",
-        "content": "In a stunning display of predictable political theater, a new White House healthcare proposal has managed to spark 'immediate and familiar divisions' among Republican lawmakers. Pundits noted that the swift and decisive fracturing of the GOP on the issue of federal healthcare was as reliable as gravity, with some members arguing it was 'too healthcare-y' and others declaring it 'not healthcare-y enough.' Congressional historians confirmed this ritualistic opposition has been perfected over years of failing to scrap or overhaul existing laws, demonstrating a true mastery of performative disagreement.",
-        "originalSource": "Associated Press",
-        "publishedTime": "34 mins ago"
-      },
-      {
-        "id": "story-1764185091444-5",
-        "headline": "National Parks Service To Charge Foreigners 'Premium Oxygen Tax' For Entering Sacred American Dirt",
-        "content": "The National Parks Service has unveiled a visionary new plan to significantly increase entrance fees for millions of international tourists, effectively turning America's natural wonders into a lucrative cash cow. Foreign visitors will now be encouraged to view their trip as a patriotic duty to subsidize the breathtaking beauty they are so audaciously enjoying. Meanwhile, American citizens will receive 'new passes' offering 'boosted value,' which translates to a slightly less exorbitant fee, because, as the NPS clarified, 'You live here, you've earned the right to slightly less financial exploitation.'",
-        "originalSource": "Associated Press / Fox News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764189297138-5",
+        "headline": "Texas Landlord Dares To Suggest USPS Should Be Accountable For Its Mail-Related 'Magic Tricks'",
+        "content": "A brave Texas landlord, apparently unaware of the sacred pact between the U.S. Postal Service and the cosmic forces of 'lost forever,' has filed a lawsuit challenging the USPS's cherished immunity from lawsuits over mishandled mail. The legal action, which experts are calling 'optimistic at best,' argues that the exemption is 'outdated' – unlike, presumably, the USPS's method of delivering mail via carrier pigeon and wishful thinking. Should the landlord miraculously succeed, legal scholars predict a tsunami of lawsuits from citizens whose mail has been sent to Narnia, the Bermuda Triangle, or simply 'someplace else that isn't here.'",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764185091444-0",
-        "headline": "They are stopping the election case against President Trump.",
-        "content": "A new grown-up lawyer in Georgia decided to stop the charges about the 2020 election against President Trump and his friends, like Rudy Giuliani. This happened after some people said the first lawyer did some wrong things during the case.",
-        "originalSource": "The Washington Post / Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764189297138-0",
+        "headline": "Two National Guard Members Were Shot in D.C.",
+        "content": "Two soldiers who are part of the National Guard got shot in Washington, D.C. A grown-up named Kristi Noem, who helps keep our country safe, said it happened. The police are looking into it to find out what happened and if the soldiers are okay.",
+        "originalSource": "CBS News",
+        "publishedTime": "6M ago"
       },
       {
-        "id": "story-1764185091444-1",
-        "headline": "A special helper from the U.S. is going to Russia.",
-        "content": "Russia's government said that a special helper from the U.S., named Steve Witkoff, is coming to visit their city. This means important talks to try and stop the big fight in Ukraine are starting to move faster and become more serious.",
-        "originalSource": "PBS NewsHour / Associated Press",
+        "id": "story-1764189297138-1",
+        "headline": "A Judge Thinks Computers Shouldn't Write Police Reports",
+        "content": "A judge found out that a police officer, who works to make sure people follow immigration rules, used a computer program (like a smart robot called AI) to write a report. The judge is worried that the computer might not get things exactly right, and it might even know too much about people, which isn't fair. People are now wondering if it's a good idea for the government to use these smart computer programs.",
+        "originalSource": "Associated Press",
+        "publishedTime": "25 mins ago"
+      },
+      {
+        "id": "story-1764189297138-2",
+        "headline": "President Trump Called a Reporter Mean Names",
+        "content": "President Trump said some not-so-nice things about a lady who writes for a newspaper. He called her 'ugly.' He said this because she wrote an article about him getting older. President Trump has often said mean things to reporters before.",
+        "originalSource": "CBS News",
+        "publishedTime": "1H ago"
+      },
+      {
+        "id": "story-1764189297138-3",
+        "headline": "New Plan for Health Care Has Grown-Ups Arguing",
+        "content": "The people working at the White House want to make a new plan to help families pay for doctors and medicine. They want to keep helping people get money to pay for something called 'Obamacare.' But some other grown-ups, called Republicans, don't like this idea. They want to get rid of Obamacare and make a whole new plan instead, so they are disagreeing a lot.",
+        "originalSource": "Associated Press",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764185091444-2",
-        "headline": "Bad weather might mess up Thanksgiving trips for many people.",
-        "content": "Lots and lots of people in America want to travel for Thanksgiving, more than in a long time! But a really big winter storm with snow and rain is coming, which could make it hard for them to get to their families in many places across the country.",
-        "originalSource": "Fox News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764185091444-3",
-        "headline": "People with DACA are getting arrested even though they are safe.",
-        "content": "Some people who have DACA, which is like a special rule that says they can stay in the U.S. and not be sent away, are still getting arrested in some places. This makes people who care about immigrants and lawyers worried.",
+        "id": "story-1764189297138-4",
+        "headline": "Going to Famous Parks Will Get More Expensive",
+        "content": "It's going to cost more money for people, especially visitors from other countries, to go into our beautiful national parks like Yellowstone or Yosemite. They also said that some Americans will have to pay more too. The park people say they need the extra money to fix things up and take care of the parks so everyone can keep enjoying them.",
         "originalSource": "Associated Press",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764185091444-4",
-        "headline": "Republicans in Congress do not agree on a new health plan.",
-        "content": "The White House came up with a new idea for healthcare, but the Republican grown-ups in Congress don't agree on it at all. They have always had trouble agreeing on how to fix or get rid of the old healthcare rules for a long time.",
-        "originalSource": "Associated Press",
-        "publishedTime": "34 mins ago"
-      },
-      {
-        "id": "story-1764185091444-5",
-        "headline": "National Parks will cost more money for people from other countries.",
-        "content": "Our country's big, beautiful National Parks will soon cost more money for visitors from other countries. But for people who live in America, they will have new passes that give them more for their money.",
-        "originalSource": "Associated Press / Fox News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764189297138-5",
+        "headline": "A Man Thinks the Mail Should Pay for Mistakes",
+        "content": "A man in Texas, who owns buildings that he rents out, is trying to change a rule about the mail. Right now, if the Post Office loses your mail or messes it up, you usually can't sue them in court. This man thinks that rule is old and unfair. If he wins, lots more people might be able to sue the Post Office if their mail gets lost.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764185091444-0",
-        "headline": "The Unraveling Threads of Justice",
-        "content": "The legal labyrinth in Georgia, once a formidable challenge, saw its walls crumble. A new prosecutor, stepping into the contentious arena, quietly dismissed the remaining election interference charges. President Trump, Rudy Giuliani, and others, caught in the web of allegations, found their paths cleared. The case, marred by whispers of prosecutorial missteps, dissolved like a phantom, leaving behind only the echo of what might have been. A complex chapter concluded, its ending more whimper than bang, but undeniably final.",
-        "originalSource": "The Washington Post / Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764189297138-0",
+        "headline": "The Capitol's Silent Scar",
+        "content": "The city, usually a symphony of political whispers, now echoed with a different, starker sound. Two uniformed shadows, National Guard members sworn to protect, fell wounded in Washington, D.C. A sudden, violent eruption shattered the evening calm, drawing law enforcement like iron filings to a magnet. Secretary Kristi Noem confirmed the grim reality, her words heavy with the incident's weight. Details remained elusive, shrouded in the urgent investigation that swept through the capital's streets. The guardsmen's condition and the precise circumstances were a puzzle authorities raced to solve, a stark reminder that even in the heart of power, vulnerability lurked.",
+        "originalSource": "CBS News",
+        "publishedTime": "6M ago"
       },
       {
-        "id": "story-1764185091444-1",
-        "headline": "Whispers of Peace in the Kremlin's Halls",
-        "content": "The chill of geopolitical conflict seemed to thaw slightly under Moscow's winter sky. Steve Witkoff, the American envoy, was confirmed to visit, his journey a beacon of guarded hope. High-level discussions, long stalled, were finally gaining a fragile momentum. The grim shadow of war in Ukraine, which had stretched across months, might at last see the faintest glimmer of an end. Diplomacy, a dance of delicate steps, was once again attempting its intricate ballet, seeking common ground where only division had reigned.",
-        "originalSource": "PBS NewsHour / Associated Press",
+        "id": "story-1764189297138-1",
+        "headline": "The Algorithm's Deception",
+        "content": "In a sterile courtroom, the judge’s pronouncement sliced through the air. An immigration agent, entrusted with truth, had outsourced reality to an algorithm. Artificial intelligence, a cold, calculating hand, penned the narrative of a use-of-force report, blurring lines between fact and fiction. The judge's discovery ignited a fervent debate: how much trust could be placed in machine-generated truth? Privacy, accuracy, and the very essence of human oversight became precarious in the digital age. A chilling precedent, where the cold logic of AI began to usurp human accountability, threatening the foundations of justice itself.",
+        "originalSource": "Associated Press",
+        "publishedTime": "25 mins ago"
+      },
+      {
+        "id": "story-1764189297138-2",
+        "headline": "The Mirror and the Malice",
+        "content": "A journalist, her words dissecting the passage of time on a public figure, unwittingly stepped into a crosshair. President Trump, ever vigilant of his image, reacted with a swift, cutting blow. He labeled her “ugly” in a public statement, a venomous retort to an article discussing his aging appearance. The digital world recoiled, yet another chapter penned in the President's long-standing feud with the media. His personal attacks, sharp and unyielding, continued to define the volatile landscape between power and the press, leaving scars visible in the public discourse.",
+        "originalSource": "CBS News",
+        "publishedTime": "1H ago"
+      },
+      {
+        "id": "story-1764189297138-3",
+        "headline": "Healthcare's Perennial Stalemate",
+        "content": "The White House unveiled its latest gambit: a healthcare proposal designed to extend Affordable Care Act subsidies. Hopes flickered for a brief moment of bipartisan cooperation. Yet, the familiar fissures in the Republican party quickly reappeared. Deep-seated divisions, a stubborn legacy of the ACA's inception, erupted anew. Repeal and replace remained the rallying cry for many, turning the innovative proposal into another casualty of political gridlock. The proposed path to broader healthcare access found itself trapped in the same ideological quicksand, a perpetual struggle for consensus in a fractured landscape.",
+        "originalSource": "Associated Press",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764185091444-2",
-        "headline": "Thanksgiving's Treacherous Journey",
-        "content": "Millions braced themselves, not just for turkey and family, but for an epic clash of forces. Thanksgiving weekend, already slated to be the busiest in memory, was now threatened by a formidable winter storm. Snow, drenching rain, and icy winds were forecast to sweep across over forty states, turning highways into hazard zones and airports into holding pens. The grand American migration, a cherished tradition, faced its greatest challenge, promising delays, detours, and dashed hopes for those yearning for home.",
-        "originalSource": "Fox News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764185091444-3",
-        "headline": "The Broken Promise of Sanctuary",
-        "content": "A chilling ripple of fear spread through communities protected, supposedly, by federal decree. DACA recipients, granted a shield against deportation, were reportedly being arrested in alarming numbers across certain regions. Their legal status, once a source of fragile peace, seemed to offer little defense against the shifting sands of enforcement. Immigration advocates and legal minds voiced profound concern, witnessing the erosion of a vital safeguard. The promise, once a beacon of hope, now flickered precariously, leaving many in renewed uncertainty.",
+        "id": "story-1764189297138-4",
+        "headline": "Guardians of Grandeur",
+        "content": "The ancient redwoods and towering peaks, silent witnesses to millennia, now faced a new economic reality. The National Parks Service, burdened by crumbling infrastructure, announced a significant fee hike. Millions of international tourists, eager to traverse America's natural wonders, would pay more. Even some domestic visitors faced new charges. The decision, though met with grumbles, aimed to inject much-needed revenue into the system, preserving the breathtaking landscapes for future generations. The price of experiencing unparalleled natural beauty, it seemed, was quietly climbing, ensuring the grandeur could endure its own slow decay.",
         "originalSource": "Associated Press",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764185091444-4",
-        "headline": "The Perpetual Tug-of-War",
-        "content": "The White House unveiled its latest healthcare proposal, a fresh attempt to mend a fractured system. Yet, almost predictably, it struck a familiar chord of discord among congressional Republicans. Decades of ideological battles over federal healthcare law meant any new plan immediately ignited entrenched divisions. The struggle to scrap or overhaul existing legislation resurfaced with renewed vigor, proving that some debates, deeply woven into the fabric of partisan politics, were destined to repeat, stalling progress in a perpetual legislative stalemate.",
-        "originalSource": "Associated Press",
-        "publishedTime": "34 mins ago"
-      },
-      {
-        "id": "story-1764185091444-5",
-        "headline": "Guardians of the Grandeur's Price",
-        "content": "The majestic gates of America's National Parks, guardians of unparalleled beauty, were set to become a little less accessible for some. The Parks Service announced higher entrance fees, primarily targeting millions of international tourists drawn to iconic landscapes. While new, value-driven passes were introduced for American citizens, the message was clear: experiencing the nation's natural wonders would come at a premium for global visitors. The balance between preservation, access, and revenue found a new, higher price point.",
-        "originalSource": "Associated Press / Fox News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764189297138-5",
+        "headline": "The Postman's Immunity",
+        "content": "In Texas, a determined landlord decided the scales of justice needed rebalancing. His property’s mail, mishandled and lost, spurred a lawsuit against an unlikely giant: the U.S. Postal Service. For too long, an ancient immunity clause shielded the USPS from civil action regarding wayward letters and packages. This challenge argued the exemption was outdated, a relic in an era demanding accountability. The legal battle began, threatening to pry open a Pandora’s Box of claims, potentially reshaping the very bedrock of how citizens could seek redress against the federal agency entrusted with their precious mail.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
       }
     ]
   }
