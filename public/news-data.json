@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764189369257,
+  "timestamp": 1764192701870,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764189297138-0",
-        "headline": "Systemic Issues Highlighted as Two National Guard Members Shot in Washington, D.C.",
-        "content": "Two members of the National Guard were tragically shot in Washington, D.C., prompting an urgent law enforcement response, yet the incident underscores deeper systemic issues surrounding public safety and the pervasive presence of gun violence in our communities. While authorities investigate the specific circumstances and the guardsmen's conditions, this event demands a broader examination of the societal factors contributing to such violence, rather than merely focusing on immediate reactions.",
-        "originalSource": "CBS News",
-        "publishedTime": "6M ago"
+        "id": "story-1764192628042-0",
+        "headline": "Gun Violence Near White House Underscores Urgent Need for Systemic Change",
+        "content": "Two members of the West Virginia National Guard were tragically shot just blocks from the White House, prompting an immediate investigation and the arrest of a suspect. This alarming incident highlights the pervasive issue of gun violence within our society, urging a deeper look into systemic failures that allow such events to occur even near the nation's capital. It serves as a stark reminder of the critical need for comprehensive public safety reforms and support for those affected by violence.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "Less than 1 hour ago"
       },
       {
-        "id": "story-1764189297138-1",
-        "headline": "Federal Judge Flags Alarming Use of AI by Immigration Agents Threatening Civil Liberties",
-        "content": "A federal judge has exposed a deeply troubling incident where an immigration enforcement agent relied on artificial intelligence to fabricate a use-of-force report, igniting critical alarm over the technology's inherent biases, lack of transparency, and profound potential to infringe upon privacy rights and due process within federal law enforcement. This incident serves as a stark warning about the unchecked proliferation of AI in government, which risks automating systemic discrimination and eroding fundamental human rights.",
-        "originalSource": "Associated Press",
-        "publishedTime": "25 mins ago"
+        "id": "story-1764192628042-1",
+        "headline": "Accountability Denied: Georgia Drops Election Interference Case Against President Trump, Raising Systemic Concerns",
+        "content": "The Georgia prosecutor's office has dismissed the racketeering case against President Trump and his allies concerning alleged 2020 election interference. The abrupt dismissal, reportedly due to allegations of prosecutorial misconduct, casts a shadow over the pursuit of justice for powerful figures. This development raises serious questions about systemic hurdles to accountability and the integrity of democratic processes when confronting individuals in positions of immense power.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "1-3 hours ago"
       },
       {
-        "id": "story-1764189297138-2",
-        "headline": "President Trump's Misogynistic Attack on Journalist Undermines Free Press and Public Discourse",
-        "content": "President Trump launched a deplorable personal attack against a New York Times female journalist, publicly demeaning her appearance in response to an article discussing his aging. This incident is not isolated but part of a disturbing pattern where President Trump employs misogynistic rhetoric and personal insults to silence critical reporting, thereby threatening the integrity of a free press and degrading the quality of public discourse essential for a functioning democracy.",
-        "originalSource": "CBS News",
-        "publishedTime": "1H ago"
-      },
-      {
-        "id": "story-1764189297138-3",
-        "headline": "Republican Divisions Continue to Obstruct White House Efforts to Expand Affordable Healthcare Access",
-        "content": "A new White House healthcare proposal, designed to extend crucial Affordable Care Act (Obamacare) subsidies and broaden access, is predictably encountering strong resistance from Republican lawmakers. These deep-seated divisions within the GOP reveal a persistent commitment to dismantling rather than strengthening vital healthcare legislation, demonstrating a profound disregard for the millions of Americans who rely on these subsidies and a prioritization of partisan politics over equitable public health outcomes.",
-        "originalSource": "Associated Press",
+        "id": "story-1764192628042-2",
+        "headline": "President Trump's Misogynistic Attacks on Female Journalists Undermine Press Freedom and Public Discourse",
+        "content": "President Trump publicly targeted a New York Times reporter with deeply misogynistic insults, calling her 'third rate' and 'ugly, both inside and out,' after she published an article. This latest in a pattern of derogatory remarks against female journalists by President Trump reflects a broader systemic issue of sexism and the erosion of respectful public discourse. Such attacks aim to silence critical reporting and undermine the fundamental principles of a free press, posing a serious threat to democratic values.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-4",
-        "headline": "National Parks Service Fee Hikes Risk Limiting Equitable Access to Public Lands for Many",
-        "content": "The National Parks Service has announced significant fee increases for millions of international tourists and even some American visitors to popular U.S. national parks. While ostensibly aimed at funding park maintenance and infrastructure, this reliance on increased fees raises serious equity concerns, potentially creating financial barriers that disproportionately exclude lower-income families and diverse communities from accessing and enjoying their shared natural heritage, rather than advocating for robust, equitable public funding solutions.",
-        "originalSource": "Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764192628042-3",
+        "headline": "Path Towards Peace: Ukraine Deal Nears as Diplomatic Efforts Intensify, Highlighting Urgent Need for Global Stability",
+        "content": "A Ukrainian official has indicated that a peace deal to end the war with Russia is imminent, with only 'minor details' remaining. This crucial progress comes as President Trump's envoys have been dispatched to Kyiv and Moscow to facilitate negotiations. The potential resolution highlights the desperate human cost of conflict and underscores the urgent need for global diplomatic solutions to achieve lasting peace and alleviate widespread suffering caused by systemic geopolitical tensions.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-5",
-        "headline": "Lawsuit Challenging USPS Immunity Threatens Vital Public Service and Could Harm Essential Operations",
-        "content": "A Texas landlord has initiated a lawsuit challenging the U.S. Postal Service's long-standing immunity from civil lawsuits concerning mishandled or lost mail, arguing the clause is outdated. While accountability is crucial, this legal action risks destabilizing a vital public service that disproportionately serves marginalized communities and connects the nation. Stripping the USPS of its foundational protections could open the floodgates to claims, potentially undermining its ability to provide affordable, universal mail service essential for democracy and commerce.",
-        "originalSource": "Associated Press",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764192628042-4",
+        "headline": "National Parks' 'America-First' Pricing Policy Raises Concerns of Exclusion and Xenophobia",
+        "content": "The National Park Service has implemented a new 'America-first' pricing structure, imposing significantly higher entry fees for international visitors to popular sites like Yellowstone and the Grand Canyon. This policy, ostensibly to prioritize domestic tourism, risks promoting xenophobia and undermining the universal value of public lands. Our natural heritage should be accessible to all, and such exclusionary practices challenge the spirit of global environmental stewardship and community.",
+        "originalSource": "The Washington Post / Fox News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764192628042-5",
+        "headline": "Rising Norovirus Cases Ahead of Holidays Expose Systemic Gaps in Public Health and Worker Protections",
+        "content": "Data from the Centers for Disease Control and Prevention (CDC) reveals a concerning rise in norovirus cases nationwide as the holiday season approaches. As the leading cause of foodborne illness, this surge highlights systemic vulnerabilities in our public health infrastructure and the urgent need for equitable access to hygiene resources and robust worker protections. Stronger policies, including universal paid sick leave, are essential to curb the spread and protect all communities, especially the most vulnerable.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764189297138-0",
-        "headline": "2 National Guard members shot in Washington, D.C., Noem says",
-        "content": "Homeland Security Secretary Kristi Noem confirmed that two members of the National Guard were shot in Washington, D.C., an incident that prompted a rapid response from law enforcement. Details surrounding the shooting, including the guardsmen's condition and the circumstances of the event, are currently under investigation by authorities.",
-        "originalSource": "CBS News",
-        "publishedTime": "6M ago"
+        "id": "story-1764192628042-0",
+        "headline": "Two National Guard members shot near White House; suspect in custody",
+        "content": "Two members of the West Virginia National Guard were shot a few blocks from the White House in Washington, D.C., leading to an immediate investigation. Officials confirmed a suspect is in custody, and the White House has been briefed on the tragic situation. The incident prompted a temporary ground stop at Reagan National Airport.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "Less than 1 hour ago"
       },
       {
-        "id": "story-1764189297138-1",
-        "headline": "Judge's note on immigration agents using AI raises accuracy and privacy concerns",
-        "content": "A federal judge flagged an immigration enforcement agent for using artificial intelligence to generate the narrative of a use-of-force report, sparking debate about the technology's accuracy and the potential infringement on privacy rights in federal law enforcement operations. This incident highlights growing concerns about AI's role in government.",
-        "originalSource": "Associated Press",
-        "publishedTime": "25 mins ago"
+        "id": "story-1764192628042-1",
+        "headline": "Georgia prosecutor ends 2020 election interference case against Trump, allies",
+        "content": "The Georgia prosecutor's office has dropped the racketeering case against Donald Trump and his allies related to the 2020 election interference. The case, filed in 2023, was reportedly bogged down by allegations of prosecutorial misconduct, leading to its dismissal of all charges against the former president and co-defendants.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "1-3 hours ago"
       },
       {
-        "id": "story-1764189297138-2",
-        "headline": "Trump attacks female reporter as \"ugly\" over article about his aging",
-        "content": "Former President Donald Trump launched a personal attack on a New York Times female journalist, calling her 'ugly' in a public statement. The insult came in response to an article she had written that discussed his aging appearance, marking the latest instance of Trump's long history of directing personal insults at members of the media.",
-        "originalSource": "CBS News",
-        "publishedTime": "1H ago"
-      },
-      {
-        "id": "story-1764189297138-3",
-        "headline": "Health care proposal floated by White House runs into familiar GOP divisions",
-        "content": "The White House is circulating a new health care proposal aimed at extending Affordable Care Act (Obamacare) subsidies, but the plan is immediately meeting resistance and exposing familiar deep-seated divisions among Republican lawmakers who remain committed to repealing and replacing the existing federal health care legislation.",
-        "originalSource": "Associated Press",
+        "id": "story-1764192628042-2",
+        "headline": "Trump calls New York Times reporter 'ugly' in latest attack on female journalist",
+        "content": "Former President Donald Trump publicly attacked a New York Times reporter, calling her 'third rate' and 'ugly, both inside and out,' following her publication of an article. The comments, made as he departed Washington for Florida for the Thanksgiving weekend, continue a pattern of his derogatory remarks toward female journalists.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-4",
-        "headline": "National Parks to raise fees for millions of international tourists to popular U.S. parks",
-        "content": "The National Parks Service announced a significant fee increase for millions of international visitors seeking to enter popular U.S. national parks. The decision, which also includes new fees for Americans in some areas, is intended to generate revenue for park maintenance and address infrastructure needs across the national park system.",
-        "originalSource": "Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764192628042-3",
+        "headline": "Ukraine agrees to peace deal, with only 'minor details' left, official says amid US push",
+        "content": "A Ukrainian official indicated that a peace deal to end the war with Russia is imminent, stating only 'minor details' are left to resolve. This progress comes as former President Trump's envoys have been dispatched to Kyiv and Moscow to discuss the peace plan and accelerate the complex negotiations.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-5",
-        "headline": "Texas landlord challenges U.S. Postal Service's exemption from lawsuits over mishandled mail",
-        "content": "A landlord in Texas has filed a lawsuit directly challenging the U.S. Postal Service's long-standing exemption from civil lawsuits related to mishandled or lost mail. The legal action argues that the immunity clause is outdated and needs to be reformed, potentially opening the door for countless new claims against the federal agency.",
-        "originalSource": "Associated Press",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764192628042-4",
+        "headline": "National parks announce 'America-first' upcharges for foreign visitors",
+        "content": "The National Park Service has instituted a new 'America-first' pricing policy, which will result in significantly higher entry fees for foreign visitors. Popular destinations, including Yellowstone and the Grand Canyon, are set to implement the increased charges as part of a move to prioritize domestic tourism and funding for the park system.",
+        "originalSource": "The Washington Post / Fox News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764192628042-5",
+        "headline": "Norovirus cases rise ahead of holiday season, CDC data shows",
+        "content": "Data from the Centers for Disease Control and Prevention (CDC) shows a rise in norovirus cases across the country, ahead of the holiday season. Norovirus is the leading cause of vomiting, diarrhea, and foodborne illness in the U.S., prompting health officials to urge caution and strict hygiene practices for upcoming gatherings.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764189297138-0",
-        "headline": "National Guard Members Attacked in Nation's Capital, Demanding Accountability",
-        "content": "Homeland Security Secretary Kristi Noem has confirmed a deeply troubling incident where two National Guard members were shot in Washington, D.C. This attack on those dedicated to protecting our nation's capital demands an immediate and thorough investigation by law enforcement, ensuring swift justice for those who threaten our peace and security.",
-        "originalSource": "CBS News",
-        "publishedTime": "6M ago"
+        "id": "story-1764192628042-0",
+        "headline": "Law and Order Undermined as National Guard Members Are Shot Near the White House",
+        "content": "In a stark reminder of the escalating challenges to public safety, two brave members of the West Virginia National Guard were tragically shot just blocks from the nation's capital. While a suspect has been swiftly apprehended, this alarming incident underscores the vital importance of robust law enforcement and protecting those who serve our nation, especially in our capital city. The White House was, of course, briefed on this regrettable attack on our defenders.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "Less than 1 hour ago"
       },
       {
-        "id": "story-1764189297138-1",
-        "headline": "Federal Judge Alarms Americans Over AI Use by Immigration Agents Threatening Liberty",
-        "content": "A federal judge has raised serious concerns regarding an immigration enforcement agent's use of artificial intelligence to craft a use-of-force report. This development ignites crucial debates about AI's reliability and its profound potential to infringe upon the privacy rights of citizens within federal law enforcement, underscoring critical questions about government overreach.",
-        "originalSource": "Associated Press",
-        "publishedTime": "25 mins ago"
+        "id": "story-1764192628042-1",
+        "headline": "Political Witch Hunt Against President Trump Rightfully Collapses in Georgia",
+        "content": "In a significant victory for due process and liberty, the politically motivated racketeering case against President Trump and his allies, concerning the 2020 election, has been fully dismissed by Georgia prosecutors. Bogged down by undeniable allegations of prosecutorial misconduct, this baseless case, filed in 2023, has rightly crumbled, affirming that justice ultimately prevails over partisan attacks designed to target political opponents.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "1-3 hours ago"
       },
       {
-        "id": "story-1764189297138-2",
-        "headline": "President Trump Confronts Biased Media Over Personal Attacks and Sensationalist Reporting",
-        "content": "President Trump forcefully responded to a New York Times journalist who published an article focusing on his appearance, calling out the media's obsession with trivial personal attacks rather than substantive policy discussions. This incident highlights the ongoing struggle against a biased media establishment that frequently prioritizes sensationalism over factual reporting and fair critique.",
-        "originalSource": "CBS News",
-        "publishedTime": "1H ago"
-      },
-      {
-        "id": "story-1764189297138-3",
-        "headline": "White House Pushes More 'Obamacare' Spending While Republicans Champion Free-Market Health Care",
-        "content": "The White House is advocating for an extension of Affordable Care Act subsidies, a move that immediately faces strong opposition and exposes deep-seated divisions among Republican lawmakers. True conservatives remain steadfast in their commitment to repealing and replacing 'Obamacare' with free-market solutions that empower patients and reduce government intervention in health care.",
-        "originalSource": "Associated Press",
+        "id": "story-1764192628042-2",
+        "headline": "President Trump Challenges Biased New York Times Reporter's Integrity",
+        "content": "President Trump, ever vocal in his defense against what he perceives as unfair reporting, publicly critiqued a New York Times reporter following the publication of her recent article. Describing her as 'third rate' and 'ugly, both inside and out,' President Trump's comments reflect a consistent pattern of forcefully confronting what he sees as dishonest or biased journalism from the mainstream media, particularly as he departed Washington for the Thanksgiving holiday.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-4",
-        "headline": "National Parks Increase Fees for International Visitors to Fund Vital Infrastructure Upgrades",
-        "content": "The National Parks Service has announced a significant fee hike for millions of international visitors to America's cherished national parks. This fiscally responsible decision, which also includes some new fees for Americans, aims to generate essential revenue for much-needed park maintenance and critical infrastructure improvements, ensuring these natural treasures are preserved for future generations.",
-        "originalSource": "Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764192628042-3",
+        "headline": "President Trump's Diplomacy Guides Ukraine Towards Imminent Peace Agreement",
+        "content": "Amidst global calls for de-escalation, a Ukrainian official has revealed that a peace deal to conclude the conflict with Russia is nearing completion, with only 'minor details' remaining. This promising development comes on the heels of President Trump's decisive action, dispatching envoys to Kyiv and Moscow to champion a sensible peace plan, demonstrating strong American leadership focused on global stability and avoiding prolonged, costly engagements.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-5",
-        "headline": "Texas Landlord Challenges Federal Bureaucracy, Demanding Accountability from USPS",
-        "content": "A principled Texas landlord has courageously filed a lawsuit challenging the U.S. Postal Service's long-standing immunity from civil lawsuits concerning mishandled or lost mail. This crucial legal action argues that such an outdated immunity clause must be reformed, paving the way for greater accountability from federal agencies and protecting the rights of individual citizens.",
-        "originalSource": "Associated Press",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764192628042-4",
+        "headline": "National Parks Prioritize American Citizens with 'America-First' Pricing Policy",
+        "content": "In a commendable move to prioritize domestic visitors and ensure responsible stewardship of our national treasures, the National Park Service has unveiled an 'America-first' pricing structure. This policy will introduce significantly higher entry fees for foreign visitors at iconic sites like Yellowstone and the Grand Canyon, redirecting funds and focus towards American taxpayers and tourists who directly contribute to the preservation of our shared natural heritage.",
+        "originalSource": "The Washington Post / Fox News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764192628042-5",
+        "headline": "Personal Responsibility Key as Norovirus Cases Rise Ahead of Holiday Season",
+        "content": "As families prepare for traditional holiday gatherings, data from the Centers for Disease Control and Prevention (CDC) indicates a rise in norovirus cases nationwide. Norovirus, a leading cause of common digestive ailments, underscores the importance of individual vigilance and strong hygiene practices. Citizens are urged to exercise personal responsibility and caution to protect themselves and their loved ones during this festive season.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764189297138-0",
-        "headline": "National Guard Members Apparently Too Close To Washington, D.C., Get Shot During Routine Guarding",
-        "content": "In a truly shocking turn of events that absolutely nobody could have foreseen, two brave National Guard members were tragically introduced to the harsh realities of Washington, D.C., in the form of actual bullets. Homeland Security Secretary Kristi Noem bravely confirmed the incident, assuring the public that law enforcement initiated a 'rapid response' which mostly involved several sirens and a lot of confused gesturing. Authorities are now meticulously investigating if the guardsmen were perhaps standing too close to the capital, a known magnet for stray projectiles and existential dread.",
-        "originalSource": "CBS News",
-        "publishedTime": "6M ago"
+        "id": "story-1764192628042-0",
+        "headline": "White House Security Gets 'Test Drive' As Two Guardsmen Accidentally Discover Bullets Are Real",
+        "content": "In a stunning demonstration of commitment to their duties, two brave members of the West Virginia National Guard were reportedly 'introduced' to some unexpected projectiles just a few blocks from the White House. Officials quickly assured the public that a suspect is, indeed, in custody, likely for daring to remind everyone that D.C. has a crime problem. The White House, naturally, received a comprehensive briefing on the incident, presumably after finishing their morning scones, and Reagan National Airport imposed a temporary ground stop, just in case the bullets decided to fly commercially.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "Less than 1 hour ago"
       },
       {
-        "id": "story-1764189297138-1",
-        "headline": "Federal Judge Horrified After Discovering Immigration Agent's AI Wrote Award-Winning Short Story Instead Of Use-Of-Force Report",
-        "content": "A federal judge recently expressed 'mild surprise' – a legal term for 'utter bewilderment' – after an immigration enforcement agent's AI-generated use-of-force report turned out to be a gripping tale of star-crossed lovers and existential angst, completely devoid of any actual facts about the incident. The AI, apparently having developed a flair for the dramatic, replaced routine procedural details with 'poetic descriptions of escalating tension' and 'the officer's inner turmoil.' This groundbreaking incident has sparked furious debate, mostly among tech ethicists wondering if the AI could at least spell 'probable cause' correctly next time, and privacy advocates now questioning if AI might accidentally write your diary entry into a government file.",
-        "originalSource": "Associated Press",
-        "publishedTime": "25 mins ago"
+        "id": "story-1764192628042-1",
+        "headline": "Georgia Prosecutor Heroically Saves State Budget By Dropping Tedious Case Against President Trump",
+        "content": "In a move hailed by efficiency experts everywhere, Georgia prosecutors have magnanimously decided to liberate President Trump and his esteemed allies from the burden of defending themselves in the 2020 election interference case. Sources close to the proceedings revealed the case was tragically 'bogged down' by allegations of prosecutorial misconduct, proving once again that even a well-intentioned witch hunt can be derailed by someone forgetting to initial a coffee receipt. All charges against President Trump and his co-defendants have been triumphantly dismissed, allowing everyone to finally move on to more pressing matters, like who ate the last donut in the breakroom.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "1-3 hours ago"
       },
       {
-        "id": "story-1764189297138-2",
-        "headline": "President Trump Courageously Defends Nation From Journalist's Dire Report On... His Face",
-        "content": "President Trump, in a move widely hailed as 'exceptionally presidential' by his mirrors, bravely launched a verbal counter-offensive against a New York Times journalist. Her heinous crime? Daring to pen an article suggesting that, like all mortal beings, President Trump might, in fact, be aging. In a powerful display of leadership, President Trump swiftly labeled her 'ugly,' effectively deflecting any further discussion on the ravages of time and instead focusing public attention on vital aesthetic critiques. This bold tactic continues President Trump's storied tradition of prioritizing beauty contests over boring policy debates.",
-        "originalSource": "CBS News",
-        "publishedTime": "1H ago"
-      },
-      {
-        "id": "story-1764189297138-3",
-        "headline": "White House Healthcare Proposal Shockingly Fails To Unite Republicans Who Absolutely Love Agreeing On Things",
-        "content": "In a development that surprised precisely no one, the White House's latest health care proposal, a valiant attempt to tweak the Affordable Care Act, has once again exposed the legendary 'deep-seated divisions' within the Republican Party. Like a beloved annual tradition, GOP lawmakers immediately locked arms to vehemently oppose the plan, proving their unwavering commitment to 'repealing and replacing' a system they haven't quite agreed on how to repeal or replace for over a decade. Experts predict that in approximately 18 months, another White House proposal will emerge, only to face the exact same, thrillingly predictable outcome, proving that some things, like divided Republicans, are eternal.",
-        "originalSource": "Associated Press",
+        "id": "story-1764192628042-2",
+        "headline": "President Trump Selflessly Offers Free Image Consulting To New York Times Reporter",
+        "content": "In a touching display of his unwavering commitment to aesthetic excellence, President Trump took a moment to critique a New York Times reporter's recent article and, more importantly, her overall appearance. Calling her 'third rate' and 'ugly, both inside and out,' President Trump clarified that his candid feedback was merely a public service, aimed at encouraging higher standards in journalism and, presumably, personal grooming. His comments, delivered with characteristic grace as he departed for Florida for Thanksgiving, are part of his consistent effort to ensure all female journalists meet his exacting criteria for both journalistic integrity and undeniable handsomeness.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-4",
-        "headline": "U.S. National Parks To Charge Tourists Extra Just For Looking At Nature",
-        "content": "In a bold move to finally afford essential park amenities like 'functioning toilets' and 'paths that aren't mudslides,' the National Parks Service has announced a significant fee hike for international visitors. Americans, naturally, will also get to enjoy paying more for the privilege of experiencing crumbling infrastructure. Park officials optimistically stated the new fees would help 'address infrastructure needs,' presumably by purchasing a single roll of duct tape for the Grand Canyon. Critics worry the price hike might deter visitors, while economists predict that soon, tourists will be charged per breath of fresh, un-taxed air.",
-        "originalSource": "Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764192628042-3",
+        "headline": "Ukraine Declares Peace Deal 'Practically Done,' Awaiting Decision On Font Size And Napkin Fold",
+        "content": "A senior Ukrainian official has joyously announced that a comprehensive peace deal to end the war with Russia is just moments away, clarifying that only a few 'minor details' remain. These 'minor details' reportedly include which side gets to claim ownership of the word 'victory,' the optimal temperature for the celebratory tea, and whether the peace treaty should be written in Comic Sans or Papyrus. This remarkable progress comes hot on the heels of President Trump's peace envoys, who were reportedly dispatched to Kyiv and Moscow armed with nothing but a firm handshake and a compelling argument for switching to a direct-deposit system for all future reparations.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-5",
-        "headline": "Texas Landlord Dares To Suggest USPS Should Be Accountable For Its Mail-Related 'Magic Tricks'",
-        "content": "A brave Texas landlord, apparently unaware of the sacred pact between the U.S. Postal Service and the cosmic forces of 'lost forever,' has filed a lawsuit challenging the USPS's cherished immunity from lawsuits over mishandled mail. The legal action, which experts are calling 'optimistic at best,' argues that the exemption is 'outdated' – unlike, presumably, the USPS's method of delivering mail via carrier pigeon and wishful thinking. Should the landlord miraculously succeed, legal scholars predict a tsunami of lawsuits from citizens whose mail has been sent to Narnia, the Bermuda Triangle, or simply 'someplace else that isn't here.'",
-        "originalSource": "Associated Press",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764192628042-4",
+        "headline": "National Parks To Introduce 'Patriot Premium' Pricing For Those Who Can't Sing The Anthem From Memory",
+        "content": "In a bold move to truly put 'America first,' the National Park Service has unveiled a groundbreaking new pricing structure that will require foreign visitors to pay dramatically higher entry fees, possibly in gold doubloons. Popular destinations like Yellowstone and the Grand Canyon are poised to implement the 'Patriot Premium,' ensuring that domestic tourists finally get to enjoy the pristine beauty of nature without having to accidentally overhear someone speaking French. Officials explained that this innovative funding model will not only prioritize Americans but also help finance essential park services, such as upgrading all park benches to 100% American-made artisanal oak and commissioning a giant bald eagle statue for every geyser.",
+        "originalSource": "The Washington Post / Fox News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764192628042-5",
+        "headline": "CDC Issues Festive Warning: Norovirus Poised To Become Uninvited Guest At Holiday Feasts",
+        "content": "Just in time for the annual season of forced family gatherings and questionable casserole dishes, the Centers for Disease Control and Prevention (CDC) has joyously announced a nationwide surge in norovirus cases. Data indicates that America's leading cause of unexpected projectile vomiting, explosive diarrhea, and all-around foodborne festivity-ruining is preparing for its biggest holiday tour yet. Health officials are now urging citizens to embrace radical hygiene practices, such as washing hands until they're raw and perhaps communicating exclusively through interpretive dance, to avoid becoming the unwitting host of this highly contagious 'holiday spirit.'",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764189297138-0",
-        "headline": "Two National Guard Members Were Shot in D.C.",
-        "content": "Two soldiers who are part of the National Guard got shot in Washington, D.C. A grown-up named Kristi Noem, who helps keep our country safe, said it happened. The police are looking into it to find out what happened and if the soldiers are okay.",
-        "originalSource": "CBS News",
-        "publishedTime": "6M ago"
+        "id": "story-1764192628042-0",
+        "headline": "Some Soldiers Got Shot Near the White House, And Someone Was Caught",
+        "content": "Two soldiers from the West Virginia National Guard were shot just a few blocks from the White House. This is in Washington, D.C. The police quickly started looking into it. They caught someone they think did the shooting. The people who work at the White House were told all about this sad thing. Because of what happened, planes couldn't land or take off at the nearby Reagan National Airport for a little bit.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "Less than 1 hour ago"
       },
       {
-        "id": "story-1764189297138-1",
-        "headline": "A Judge Thinks Computers Shouldn't Write Police Reports",
-        "content": "A judge found out that a police officer, who works to make sure people follow immigration rules, used a computer program (like a smart robot called AI) to write a report. The judge is worried that the computer might not get things exactly right, and it might even know too much about people, which isn't fair. People are now wondering if it's a good idea for the government to use these smart computer programs.",
-        "originalSource": "Associated Press",
-        "publishedTime": "25 mins ago"
+        "id": "story-1764192628042-1",
+        "headline": "Georgia Stops Its Big Case Against President Trump About the 2020 Election",
+        "content": "The people who handle legal problems in Georgia decided to stop a big case against President Trump and his friends. This case was about something called 'racketeering' and trying to change the 2020 election. The case started last year, but it got stuck because some people said the lawyers trying the case did some things they shouldn't have. So, because of that, all the accusations against President Trump and the other people were just dropped.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "1-3 hours ago"
       },
       {
-        "id": "story-1764189297138-2",
-        "headline": "President Trump Called a Reporter Mean Names",
-        "content": "President Trump said some not-so-nice things about a lady who writes for a newspaper. He called her 'ugly.' He said this because she wrote an article about him getting older. President Trump has often said mean things to reporters before.",
-        "originalSource": "CBS News",
-        "publishedTime": "1H ago"
-      },
-      {
-        "id": "story-1764189297138-3",
-        "headline": "New Plan for Health Care Has Grown-Ups Arguing",
-        "content": "The people working at the White House want to make a new plan to help families pay for doctors and medicine. They want to keep helping people get money to pay for something called 'Obamacare.' But some other grown-ups, called Republicans, don't like this idea. They want to get rid of Obamacare and make a whole new plan instead, so they are disagreeing a lot.",
-        "originalSource": "Associated Press",
+        "id": "story-1764192628042-2",
+        "headline": "President Trump Called a New York Times Reporter 'Ugly'",
+        "content": "President Trump said mean things about a reporter from The New York Times. He said she was 'not very good' and 'ugly' both on the inside and outside. He said this after she wrote a news story. He made these comments as he was leaving Washington to go to Florida for the Thanksgiving holiday. This is not the first time he has said bad things about women who are reporters.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-4",
-        "headline": "Going to Famous Parks Will Get More Expensive",
-        "content": "It's going to cost more money for people, especially visitors from other countries, to go into our beautiful national parks like Yellowstone or Yosemite. They also said that some Americans will have to pay more too. The park people say they need the extra money to fix things up and take care of the parks so everyone can keep enjoying them.",
-        "originalSource": "Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764192628042-3",
+        "headline": "Ukraine Says a Peace Deal to End the War is Almost Ready",
+        "content": "An important person from Ukraine said that a deal to stop the war with Russia is very, very close to being finished. They said there are only a few tiny things left to agree on. This good news comes as President Trump has sent people to both Ukraine and Russia. Their job is to talk about the peace plan and help make the talks happen much faster.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-5",
-        "headline": "A Man Thinks the Mail Should Pay for Mistakes",
-        "content": "A man in Texas, who owns buildings that he rents out, is trying to change a rule about the mail. Right now, if the Post Office loses your mail or messes it up, you usually can't sue them in court. This man thinks that rule is old and unfair. If he wins, lots more people might be able to sue the Post Office if their mail gets lost.",
-        "originalSource": "Associated Press",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764192628042-4",
+        "headline": "National Parks Will Cost More Money for People Visiting from Other Countries",
+        "content": "The people who run our National Parks have a new rule that will make visitors from other countries pay a lot more money to get in. This new rule is called 'America-first' pricing. Big, famous parks like Yellowstone and the Grand Canyon will start charging these higher prices. They are doing this to help more people from our country visit the parks and to get more money to take care of all the parks.",
+        "originalSource": "The Washington Post / Fox News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764192628042-5",
+        "headline": "More People Are Getting a Stomach Bug Before the Holidays Start",
+        "content": "Numbers from the CDC, which is a group that helps keep people healthy, show that more and more people are getting sick with something called norovirus. This is happening right before the holiday season. Norovirus is the main reason why people in the U.S. get sick with vomiting, diarrhea, and get sick from food. So, doctors are telling everyone to be super careful and wash their hands really well, especially when you go to parties and gatherings soon.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764189297138-0",
-        "headline": "The Capitol's Silent Scar",
-        "content": "The city, usually a symphony of political whispers, now echoed with a different, starker sound. Two uniformed shadows, National Guard members sworn to protect, fell wounded in Washington, D.C. A sudden, violent eruption shattered the evening calm, drawing law enforcement like iron filings to a magnet. Secretary Kristi Noem confirmed the grim reality, her words heavy with the incident's weight. Details remained elusive, shrouded in the urgent investigation that swept through the capital's streets. The guardsmen's condition and the precise circumstances were a puzzle authorities raced to solve, a stark reminder that even in the heart of power, vulnerability lurked.",
-        "originalSource": "CBS News",
-        "publishedTime": "6M ago"
+        "id": "story-1764192628042-0",
+        "headline": "The Capitol's Quiet Alarm",
+        "content": "The crisp D.C. evening shattered with two shots, echoing blocks from the White House. Two members of the West Virginia National Guard fell, their uniforms stark against the pavement. Panic rippled, quickly contained as authorities moved with silent precision. A suspect was apprehended, the news reaching President Trump swiftly. The city held its breath, even the skies above Reagan National Airport fell silent, a temporary ground stop imposed. A small, violent tremor in the heart of the nation's capital, reminding everyone of the fragility beneath the stone monuments.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "Less than 1 hour ago"
       },
       {
-        "id": "story-1764189297138-1",
-        "headline": "The Algorithm's Deception",
-        "content": "In a sterile courtroom, the judge’s pronouncement sliced through the air. An immigration agent, entrusted with truth, had outsourced reality to an algorithm. Artificial intelligence, a cold, calculating hand, penned the narrative of a use-of-force report, blurring lines between fact and fiction. The judge's discovery ignited a fervent debate: how much trust could be placed in machine-generated truth? Privacy, accuracy, and the very essence of human oversight became precarious in the digital age. A chilling precedent, where the cold logic of AI began to usurp human accountability, threatening the foundations of justice itself.",
-        "originalSource": "Associated Press",
-        "publishedTime": "25 mins ago"
+        "id": "story-1764192628042-1",
+        "headline": "The Ghost of a Georgia Indictment",
+        "content": "The Georgia prosecutor's office announced its retreat, letting go of the racketeering case against President Trump and his allies. The specter of 2020 election interference, a charge laid bare in 2023, now faded. Allegations of prosecutorial misconduct had haunted the proceedings, whispers growing louder until the foundation crumbled. All charges against President Trump and his co-defendants dissolved, leaving behind only the memory of what might have been. The legal battle ended not with a roar, but with a quiet, decisive dismissal, a chapter closed in the contentious aftermath of a presidential election.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "1-3 hours ago"
       },
       {
-        "id": "story-1764189297138-2",
-        "headline": "The Mirror and the Malice",
-        "content": "A journalist, her words dissecting the passage of time on a public figure, unwittingly stepped into a crosshair. President Trump, ever vigilant of his image, reacted with a swift, cutting blow. He labeled her “ugly” in a public statement, a venomous retort to an article discussing his aging appearance. The digital world recoiled, yet another chapter penned in the President's long-standing feud with the media. His personal attacks, sharp and unyielding, continued to define the volatile landscape between power and the press, leaving scars visible in the public discourse.",
-        "originalSource": "CBS News",
-        "publishedTime": "1H ago"
-      },
-      {
-        "id": "story-1764189297138-3",
-        "headline": "Healthcare's Perennial Stalemate",
-        "content": "The White House unveiled its latest gambit: a healthcare proposal designed to extend Affordable Care Act subsidies. Hopes flickered for a brief moment of bipartisan cooperation. Yet, the familiar fissures in the Republican party quickly reappeared. Deep-seated divisions, a stubborn legacy of the ACA's inception, erupted anew. Repeal and replace remained the rallying cry for many, turning the innovative proposal into another casualty of political gridlock. The proposed path to broader healthcare access found itself trapped in the same ideological quicksand, a perpetual struggle for consensus in a fractured landscape.",
-        "originalSource": "Associated Press",
+        "id": "story-1764192628042-2",
+        "headline": "Words Before Flight to Florida",
+        "content": "As his plane awaited, President Trump launched another verbal volley. A New York Times reporter, the subject of her recent article still fresh, became his target. He deemed her 'third rate' and 'ugly, both inside and out,' the words cutting through the usual airport bustle. It was a familiar pattern, a sharp public jab at a female journalist, delivered with characteristic bluntness. Then, as quickly as the words were spoken, he departed Washington, leaving a trail of controversy in his wake, heading for the Thanksgiving respite in Florida.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-4",
-        "headline": "Guardians of Grandeur",
-        "content": "The ancient redwoods and towering peaks, silent witnesses to millennia, now faced a new economic reality. The National Parks Service, burdened by crumbling infrastructure, announced a significant fee hike. Millions of international tourists, eager to traverse America's natural wonders, would pay more. Even some domestic visitors faced new charges. The decision, though met with grumbles, aimed to inject much-needed revenue into the system, preserving the breathtaking landscapes for future generations. The price of experiencing unparalleled natural beauty, it seemed, was quietly climbing, ensuring the grandeur could endure its own slow decay.",
-        "originalSource": "Associated Press",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764192628042-3",
+        "headline": "Whispers of Peace in Kyiv",
+        "content": "A fragile hope emerged from Ukraine. An official indicated a peace deal to end the protracted war with Russia was within reach, with only 'minor details' left to untangle. This breakthrough arrived amidst a concerted push from President Trump, whose envoys had been dispatched to both Kyiv and Moscow. Their mission: to discuss the intricate peace plan and accelerate negotiations that had long felt stalled. The world watched, breath held, as the final strokes of a potential truce began to appear on the horizon, promising an end to the conflict.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764189297138-5",
-        "headline": "The Postman's Immunity",
-        "content": "In Texas, a determined landlord decided the scales of justice needed rebalancing. His property’s mail, mishandled and lost, spurred a lawsuit against an unlikely giant: the U.S. Postal Service. For too long, an ancient immunity clause shielded the USPS from civil action regarding wayward letters and packages. This challenge argued the exemption was outdated, a relic in an era demanding accountability. The legal battle began, threatening to pry open a Pandora’s Box of claims, potentially reshaping the very bedrock of how citizens could seek redress against the federal agency entrusted with their precious mail.",
-        "originalSource": "Associated Press",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764192628042-4",
+        "headline": "The Golden Gates of Grandeur",
+        "content": "The majestic gates of America’s national parks, from Yellowstone’s geysers to the Grand Canyon’s vastness, now carried a new 'America-first' policy. Foreign visitors would face significantly higher entry fees, a deliberate move by the National Park Service. The goal was clear: prioritize domestic tourism and channel increased funding directly into the preservation of these natural wonders. The iconic landscapes remained, but the price of admission for those beyond the borders now reflected a distinct shift, ensuring that America’s natural heritage was first and foremost for its own.",
+        "originalSource": "The Washington Post / Fox News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764192628042-5",
+        "headline": "The Unseen Guest of the Season",
+        "content": "As holiday preparations began, an unwelcome guest started to spread. Data from the CDC revealed a concerning rise in norovirus cases nationwide. The highly contagious culprit, notorious for its sudden onset of vomiting and diarrhea, threatened to disrupt festive gatherings and family meals. Health officials sounded the alarm, urging heightened caution and rigorous hygiene practices. Wash hands, sanitize surfaces, and be vigilant, they warned. The joyous season, it seemed, required an extra layer of defense against this invisible, pervasive threat to public health.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       }
     ]
   }
