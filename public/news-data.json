@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764135710755,
+  "timestamp": 1764140357765,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764135629054-0",
-        "headline": "Protecting Healthcare Access: White House Works to Extend ACA Subsidies Amidst President Trump's Unfulfilled Promises.",
-        "content": "As the White House moves to extend crucial Affordable Care Act subsidies, ensuring continued financial relief for millions grappling with healthcare costs, the critical need for stable and accessible healthcare remains paramount. This vital lifeline for countless Americans stands in stark contrast to President Trump's repeated, yet often unfulfilled, pledges for a 'comprehensive' healthcare fix. The potential for systemic destabilization, historically threatened by attempts to dismantle the ACA without viable alternatives, underscores the urgent call for policies that genuinely prioritize equitable healthcare access over political rhetoric.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764140280362-0",
+        "headline": "FBI Inquiry Into Democratic Lawmakers Raises Concerns About Political Weaponization of Military Protocol and Dissent",
+        "content": "The FBI is reportedly seeking interviews with six Democratic House members who created a video encouraging military service members to defy orders they deemed unlawful. This move comes after President Trump accused the lawmakers of 'sedition,' igniting a federal inquiry that raises serious concerns about the weaponization of legal processes against political speech and the potential chilling effect on legitimate dissent within the military regarding potentially unlawful commands. This situation underscores systemic issues in how challenges to authority are handled in a polarized political climate.",
+        "originalSource": "Associated Press (AP) / CBS News / PBS News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764135629054-1",
-        "headline": "President Trump's Administration Initiates Discriminatory Review of Refugees Admitted Under Previous Administration.",
-        "content": "In a move raising significant humanitarian concerns, President Trump's administration has ordered an extensive review targeting refugees admitted during the previous administration. This directive, reportedly aimed at identifying 'security or legal reasons' for potential disqualification, risks creating systemic instability and fear for vulnerable individuals who have sought safety in the U.S. Critics argue that such broad reviews often serve to justify anti-immigrant policies, potentially leading to the unjust removal of those who have built new lives, rather than addressing genuine security threats in a fair and transparent manner.",
-        "originalSource": "CBS News",
-        "publishedTime": "55 minutes ago"
-      },
-      {
-        "id": "story-1764135629054-2",
-        "headline": "Viola Ford Fletcher's Passing Underscores Urgent Call for Reparations for Tulsa Race Massacre.",
-        "content": "The passing of Viola Ford Fletcher at 111 years old, one of the last living witnesses to the horrific 1921 Tulsa Race Massacre, represents a profound loss for the ongoing struggle for racial justice. Her tireless advocacy for reparations and full national acknowledgment of the systemic violence and economic devastation inflicted upon Black Wall Street serves as a powerful reminder of the enduring legacy of racial injustice in America. Her death intensifies the urgent demand for accountability and reparative justice to address the deep-seated systemic inequities that continue to affect communities of color.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764135629054-3",
-        "headline": "Justice Department Faces Systemic Hurdles After Judge Invalidates Special Prosecutor's Appointment.",
-        "content": "The Justice Department is now navigating significant legal challenges after a federal judge dismissed prominent cases involving James Comey and Letitia James, citing the illegal appointment of the special prosecutor overseeing them. This ruling highlights a critical systemic flaw within the judicial process, underscoring the necessity for strict adherence to legal protocols to ensure fairness and legitimacy in prosecutions. The decision introduces considerable uncertainty, demanding a reevaluation of procedures to uphold the integrity of the justice system and prevent future procedural missteps that could undermine the pursuit of justice for all.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-4",
-        "headline": "President Trump's Push for Ukraine-Russia Peace Deal Raises Concerns Over Territorial Concessions.",
-        "content": "As President Trump expresses optimism for a U.S.-backed peace deal between Ukraine and Russia, significant concerns arise regarding fundamental issues of sovereignty and international law. The diplomatic push, while aiming for peace, reportedly sidesteps critical territorial disputes, particularly the contentious demand for Kyiv to surrender sovereign land to Moscow. A progressive perspective highlights that true peace cannot be achieved by rewarding aggression or undermining national integrity, warning against systemic compromises that could normalize territorial grabs and destabilize global security.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-5",
-        "headline": "FBI Inquiry Into Democratic Lawmakers Sparks Concerns Over Free Speech and Executive Overreach.",
-        "content": "The FBI's inquiry into six Democratic lawmakers for urging military and intelligence personnel to refuse unlawful orders has ignited a vital debate over free speech, constitutional duties, and potential political targeting. While President Trump publicly frames the video as 'seditious activity,' a progressive viewpoint stresses the fundamental importance of upholding ethical military conduct and rejecting illegitimate directives, a cornerstone of democratic accountability. This investigation raises serious concerns about the systemic chilling effect on dissent and whether executive power is being weaponized to silence critical oversight, rather than genuinely addressing concerns about unlawful commands.",
+        "id": "story-1764140280362-1",
+        "headline": "President Trump's Administration Initiates Cruel Review of Refugees Admitted Under Biden, Threatening Vulnerable Lives",
+        "content": "The Trump administration has ordered a review of refugees granted admission to the U.S. during President Joe Biden's term. This effort, framed as identifying 'disqualifying factors,' is a deeply concerning move that threatens the safety and stability of vulnerable individuals who have already sought refuge. This tightening of immigration policy under President Trump signals a systemic disregard for humanitarian principles and could lead to widespread instability and fear among refugee communities.",
         "originalSource": "CBS News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764140280362-2",
+        "headline": "Federal Judge Rejects President Trump's Politically Motivated Cases Against Critics Due to Illegal Appointment of Prosecutor",
+        "content": "A federal judge has dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The decision, stemming from the finding that the special prosecutor overseeing these investigations was illegally appointed, represents a crucial setback for the Trump administration's efforts to weaponize the legal system against its political adversaries. This ruling highlights systemic issues of executive overreach and the improper targeting of critics through flawed legal processes.",
+        "originalSource": "PBS News / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-3",
+        "headline": "President Trump Uses Traditional Thanksgiving Ceremony to Unleash Divisive Attacks on Opponents",
+        "content": "During the annual White House turkey pardoning ceremony, President Trump granted a reprieve to the two national turkeys, Gobble and Waddle. However, the event was notably overshadowed by the President's sharp political rhetoric, which he used as a platform to deliver critical remarks aimed at his political opponents. This use of a traditional, unifying ceremony for partisan attacks underscores a troubling pattern of divisiveness in the nation's highest office, eroding shared cultural moments for political gain.",
+        "originalSource": "Associated Press (AP) / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-4",
+        "headline": "Representative Eric Swalwell Sues Trump-Appointed Official for Systemic Abuse of Power Against Political Critics",
+        "content": "Democratic Representative Eric Swalwell has filed a lawsuit against Bill Pulte, a housing official appointed by President Trump, alleging a blatant abuse of official position. Pulte reportedly submitted multiple criminal referrals targeting prominent critics of President Trump, including Swalwell, Sen. Adam Schiff, and New York Attorney General Letitia James. This legal action highlights a systemic issue of government officials potentially weaponizing their positions to suppress dissent and target political opposition.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764140280362-5",
+        "headline": "DHS Secretary Kristi Noem Defies Judicial Order, Forcibly Deporting Vulnerable Individuals to El Salvador",
+        "content": "The Department of Justice (DOJ) has confirmed that DHS Secretary Kristi Noem made the final decision to hand over a group of deportees to El Salvador, directly defying a judge's order that stipulated their flights must return to the United States. This alarming disregard for judicial authority raises serious questions about the rule of law and the administration's willingness to override legal protections for vulnerable individuals. This action represents a systemic failure to uphold due process and could have devastating human rights consequences.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764135629054-0",
-        "headline": "White House circulates plan to extend Obamacare subsidies as Trump pledges health care fix.",
-        "content": "The White House is reportedly circulating a plan to extend key subsidies under the Affordable Care Act, providing continued financial assistance for millions of Americans. This development comes as former President Trump, who has frequently promised a replacement, continues to pledge a comprehensive new health care fix, bringing the issue to the forefront of national politics once again.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764140280362-0",
+        "headline": "FBI seeks interviews with Democratic lawmakers who urged US troops to defy 'illegal orders'",
+        "content": "The FBI is reportedly seeking interviews with six Democratic House members who recorded a video asking military service members not to follow orders they deemed unlawful. The message, which prompted accusations of 'sedition' from former President Trump, has led to a federal inquiry as part of a highly charged political and legal conflict over military protocol and political speech.",
+        "originalSource": "Associated Press (AP) / CBS News / PBS News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764135629054-1",
-        "headline": "Trump administration orders review of refugees who entered U.S. under Biden, memo shows.",
-        "content": "The Trump administration has directed a comprehensive review of all refugees admitted into the U.S. during the former President Joe Biden's term, according to an internal memo. The effort intends to identify potential security or legal reasons that might disqualify these individuals from maintaining their legal status and ability to remain in the United States.",
-        "originalSource": "CBS News",
-        "publishedTime": "55 minutes ago"
-      },
-      {
-        "id": "story-1764135629054-2",
-        "headline": "Viola Ford Fletcher, one of the last survivors of the 1921 Tulsa Race Massacre, dies at age 111.",
-        "content": "Viola Ford Fletcher, a key witness and one of the last known survivors of the horrific 1921 Tulsa Race Massacre, has passed away at the age of 111. Her death marks the loss of a pivotal voice. She spent her final years advocating tirelessly for reparations, justice, and the full national acknowledgment of the massacre's devastating, lasting legacy.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764135629054-3",
-        "headline": "Justice Dept. weighs appeal options after judge tosses Comey, James cases on illegal prosecutor appointment.",
-        "content": "The Justice Department is currently considering its options to appeal after a federal judge dismissed high-profile cases involving James Comey and Letitia James. The judge ruled that the special prosecutor overseeing the controversial cases was appointed illegally. This decision introduces significant legal uncertainty and procedural hurdles for the ongoing investigations and targets of the prosecutions.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-4",
-        "headline": "Trump pushes Ukraine and Russia on peace deal, but key territorial issues remain unresolved.",
-        "content": "President Trump has expressed optimism regarding a U.S.-backed effort and dispatched envoys to accelerate a peace deal between Ukraine and Russia. However, key issues remain unresolved. The nations are far apart, especially on the contentious question of whether Kyiv will be required to surrender additional sovereign territory to Moscow to finalize any negotiated agreement.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-5",
-        "headline": "FBI opens inquiry into Democratic lawmakers over video urging service members to 'refuse illegal orders'.",
-        "content": "The FBI has opened an inquiry into six Democratic lawmakers who are facing accusations of \"sedition\" after releasing a video. The video urged military service members and members of the intelligence community not to follow unlawful orders. The message has sparked significant political uproar, with President Trump publicly alleging that the video constitutes seditious activity.",
+        "id": "story-1764140280362-1",
+        "headline": "Trump administration orders review of refugees who entered under Biden, memo shows",
+        "content": "The Trump administration has directed a review of refugees admitted into the U.S. during the former President Joe Biden's term. This effort is aimed at identifying any potential disqualifying factors that could prevent these individuals from remaining in the country. The move signals a tightening of immigration policy under the new administration.",
         "originalSource": "CBS News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764140280362-2",
+        "headline": "Judge dismisses cases against James Comey and Letitia James after prosecutor was found illegally appointed",
+        "content": "A federal judge dismissed the cases against former FBI Director James Comey and New York Attorney General Letitia James. The decision came after a finding that the special prosecutor leading the investigations into them was illegally appointed, dealing a setback to the Trump administration's legal actions against its political adversaries.",
+        "originalSource": "PBS News / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-3",
+        "headline": "Trump spares turkeys, but criticizes opponents at annual Thanksgiving pardoning ceremony",
+        "content": "During the annual White House turkey pardoning ceremony ahead of Thanksgiving, President Trump granted a reprieve to the two national turkeys, Gobble and Waddle. However, the event was also used as a platform to deliver sharp political rhetoric, with the president making critical remarks directed at his political opponents.",
+        "originalSource": "Associated Press (AP) / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-4",
+        "headline": "Rep. Eric Swalwell sues housing official who issued criminal referrals for Trump critics",
+        "content": "Democratic Representative Eric Swalwell has filed a lawsuit against a Trump-appointed housing official, Bill Pulte, alleging abuse of his official position. Pulte had submitted multiple criminal referrals targeting prominent Trump critics, including Swalwell, Sen. Adam Schiff, and New York Attorney General Letitia James, prompting the legal action.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764140280362-5",
+        "headline": "DOJ says Noem made final decision not to return deportation flights after judge's order",
+        "content": "The Department of Justice (DOJ) stated that DHS Secretary Kristi Noem ultimately decided to allow a group of deportees to be handed over to El Salvador. This action was taken despite a judge's order stipulating that their flights must be returned to the United States, raising questions about compliance with judicial orders on immigration.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764135629054-0",
-        "headline": "President Trump's Administration Seeks True Healthcare Reform While White House Considers More Obamacare Bailouts.",
-        "content": "The White House is reportedly considering extending key subsidies under the Affordable Care Act, a move that would prolong a failing system burdening taxpayers. Meanwhile, President Trump steadfastly pledges to deliver a comprehensive, free-market health care solution, upholding his commitment to individual liberty and genuine reform over government overreach.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764140280362-0",
+        "headline": "FBI Investigates Democratic Lawmakers Who Incited Military Disobedience Against Lawful Orders",
+        "content": "Reports indicate the FBI is pursuing interviews with six Democratic House members following their alarming video urging military service members to defy orders they unilaterally declared 'unlawful.' This blatant attempt to undermine military protocol and chain of command, rightly labeled 'sedition' by President Trump, has triggered a federal inquiry. Such actions gravely threaten the bedrock principles of our nation's defense and the liberty of our citizens, demanding accountability for those who seek to destabilize our armed forces.",
+        "originalSource": "Associated Press (AP) / CBS News / PBS News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764135629054-1",
-        "headline": "President Trump's Administration Prioritizes National Security, Orders Scrutiny of Refugees Admitted During Prior Lax Policies.",
-        "content": "President Trump's administration has initiated a crucial review of all refugees admitted during the previous administration's tenure. This essential action aims to identify any security risks or legal disqualifications, ensuring the integrity of our borders and the safety of American citizens. It reflects a commitment to the rule of law and national sovereignty.",
-        "originalSource": "CBS News",
-        "publishedTime": "55 minutes ago"
-      },
-      {
-        "id": "story-1764135629054-2",
-        "headline": "Last Voice from Tulsa's Tragic 1921 Events Passes Away at 111, Her Story a Reminder of Past Hardships.",
-        "content": "Viola Ford Fletcher, one of the last remaining witnesses to the unfortunate 1921 Tulsa events, has passed away at the age of 111. Her passing marks the end of an era for a direct voice from this historical tragedy. While her advocacy for justice and acknowledgment is noted, her story should remind us all of the importance of learning from the past and fostering unity rather than division.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764135629054-3",
-        "headline": "Federal Judge Upholds Rule of Law, Dismisses Politically Charged Cases Due to Illegal Prosecutor Appointment.",
-        "content": "The Justice Department is weighing its options after a federal judge rightly dismissed high-profile cases involving James Comey and Letitia James, ruling the special prosecutor was appointed illegally. This decision is a crucial affirmation of constitutional principles, reinforcing that legal processes must always adhere to the rule of law and cannot be weaponized for political gain.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-4",
-        "headline": "President Trump Leads Urgent Diplomatic Push for Ukraine-Russia Peace, Navigating Complex Territorial Demands.",
-        "content": "President Trump is demonstrating his unmatched leadership on the global stage, actively pursuing a pragmatic peace deal between Ukraine and Russia. While significant territorial challenges remain unresolved, President Trump's administration is dedicated to accelerating a resolution, showing American strength and commitment to ending conflict and stabilizing international relations.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-5",
-        "headline": "FBI Investigates Democratic Lawmakers After Seditious Video Encourages Military Disobedience, President Trump Condemns Actions.",
-        "content": "The FBI has initiated an inquiry into six Democratic lawmakers following a controversial video urging military service members to refuse orders. President Trump has publicly condemned this dangerous rhetoric, rightly labeling it as seditious activity that undermines the discipline and loyalty critical to our armed forces. Such actions threaten national security and demand full investigation.",
+        "id": "story-1764140280362-1",
+        "headline": "President Trump's Administration Initiates Crucial Review of Refugees Admitted Under Previous Lax Policies",
+        "content": "President Trump's administration has commendably ordered a thorough review of all refugees admitted into the United States during the previous administration's tenure. This vital effort aims to identify and address any disqualifying factors that could compromise our nation's security and ensure that only those who genuinely qualify remain. This decisive action underscores a renewed commitment to secure borders, the rule of law, and the protection of American citizens, correcting the dangerous oversights of the past.",
         "originalSource": "CBS News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764140280362-2",
+        "headline": "Questionable Technicality Halts Pursuit of Justice Against Comey and James",
+        "content": "In a perplexing turn, a federal judge has dismissed significant cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling, based on a finding that the special prosecutor was technically ' illegally appointed,' regrettably impedes the pursuit of accountability for these prominent figures. This outcome highlights how procedural missteps can unfortunately obstruct justice and allow powerful individuals to evade scrutiny, a concerning trend for the rule of law.",
+        "originalSource": "PBS News / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-3",
+        "headline": "President Trump Delivers Strong Message to Critics While Upholding Thanksgiving Tradition",
+        "content": "During the cherished annual White House Thanksgiving turkey pardoning ceremony, President Trump graciously granted a reprieve to the national turkeys, Gobble and Waddle. Seizing the opportunity, President Trump also powerfully addressed his political adversaries, reinforcing his unwavering commitment to America's future and ensuring the truth is spoken, even amidst celebratory traditions. His candid remarks underscored the ongoing battle for our nation's values.",
+        "originalSource": "Associated Press (AP) / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-4",
+        "headline": "Leftist Representative Swalwell Attempts to Silence Official Who Exposed Potential Misconduct of Trump Opponents",
+        "content": "Radical Democratic Representative Eric Swalwell has initiated a lawsuit against President Trump-appointed housing official Bill Pulte, absurdly claiming 'abuse of official position.' This desperate legal action comes after Pulte courageously submitted multiple criminal referrals concerning prominent critics of President Trump, including Swalwell himself, Senator Adam Schiff, and New York Attorney General Letitia James. This lawsuit appears to be a blatant attempt to intimidate and silence honest public servants who seek accountability for powerful figures.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764140280362-5",
+        "headline": "DHS Secretary Noem Prioritizes National Security, Upholds Deportation Amidst Judicial Interference",
+        "content": "The Department of Justice has confirmed that steadfast DHS Secretary Kristi Noem made the decisive choice to proceed with the lawful transfer of a group of deportees to El Salvador. This crucial action was taken despite an activist judge's order demanding their return to the United States. Secretary Noem's commitment underscores the imperative to secure our borders and uphold national sovereignty, even when faced with judicial overreach that threatens our immigration enforcement policies. Her decision bravely prioritizes the safety and integrity of our nation.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764135629054-0",
-        "headline": "White House Heroically Rescues Healthcare System It Constantly Vows To Dismantle.",
-        "content": "President Trump's administration, in a shocking display of... something, has apparently begun extending the very Obamacare subsidies he has repeatedly promised to obliterate with a \"tremendous\" new healthcare plan. Millions of Americans can now breathe a temporary sigh of relief, knowing their financial assistance will continue while President Trump continues his quest to invent a mythical \"better\" system that has perpetually remained \"just two weeks away\" for the last decade. Critics are baffled, supporters are confused, and everyone agrees it's definitely a plan.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764140280362-0",
+        "headline": "FBI Astounded By Democratic Lawmakers' Brilliant New Military Strategy: 'Just Say No!'",
+        "content": "Six Democratic House members have reportedly captivated the FBI's attention after unveiling a groundbreaking new military protocol: soldiers should simply refuse orders they personally deem 'illegal.' Sources close to the investigation suggest agents are struggling to grasp the revolutionary concept, which President Trump immediately lauded as 'sedition'—possibly out of jealousy for not inventing it first. This bold move promises to usher in an era where military efficiency is secondary only to individual moral compasses, turning every battlefield into a highly personalized ethical debate.",
+        "originalSource": "Associated Press (AP) / CBS News / PBS News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764135629054-1",
-        "headline": "President Trump Orders Thorough Investigation Into All Past Decisions Not Made By Him.",
-        "content": "In a move sure to solidify national security (or at least keep some bureaucrats busy), President Trump's administration has ordered an exhaustive review of every single refugee who dared to enter the U.S. during the \"unacceptable\" Biden era. The explicit goal is to scour these individuals for any \"security or legal reasons\" that might retroactively disqualify them, presumably because the previous administration couldn't possibly have vetted anyone correctly. Experts are already praising the administration for its unwavering commitment to fixing problems that may or may not exist, while simultaneously generating new paperwork.",
-        "originalSource": "CBS News",
-        "publishedTime": "55 minutes ago"
-      },
-      {
-        "id": "story-1764135629054-2",
-        "headline": "Nation Successfully Outlives Yet Another Witness To Its Uncomfortable Past.",
-        "content": "Viola Ford Fletcher, one of the last living links to the horrific 1921 Tulsa Race Massacre, has, at the ripe old age of 111, finally succumbed to the cruel reality of time. Her passing conveniently eliminates yet another voice tirelessly demanding reparations and justice, allowing the nation to breathe a collective, if slightly guilty, sigh of relief. With fewer inconvenient survivors left to remind everyone of devastating, lasting legacies, perhaps we can finally pivot to more pressing matters, like deciding what flavor of historical revisionism is most palatable this year.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764135629054-3",
-        "headline": "Justice Department Stunned to Discover Rules Apply to Them Too.",
-        "content": "The Justice Department finds itself in the shocking predicament of having to \"weigh options\" after a federal judge dared to suggest that appointing an \"illegal prosecutor\" might, in fact, invalidate cases. The high-profile prosecutions of James Comey and Letitia James now face \"significant legal uncertainty,\" which is a fancy way of saying someone forgot to dot an 'i' or cross a 't' – or perhaps, just maybe, intentionally circumvented established procedure. This groundbreaking revelation that legal appointments must actually be, you know, legal, has sent shockwaves through the department, prompting urgent discussions on whether to appeal the inconvenient truth or simply pretend it never happened.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-4",
-        "headline": "President Trump Brokers Peace Deal By Suggesting Ukraine Just Give Up More Stuff.",
-        "content": "President Trump, ever the master negotiator, is brimming with \"optimism\" as he dispatches envoys to cajole Ukraine and Russia into a \"peace deal.\" The only minor hiccup, apparently, is the stubborn disagreement over whether Ukraine should just hand over more of its sovereign territory to Moscow to make everyone happy. With President Trump confidently pushing for an agreement where one side simply accedes to the other's demands, experts are hailing this as a truly innovative approach to international diplomacy, guaranteed to resolve conflicts by redefining \"peace\" as \"capitulation with a smile.\"",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-5",
-        "headline": "FBI Investigates Lawmakers For Suggesting Military Uphold Its Own Core Principles.",
-        "content": "In a groundbreaking investigation that has left constitutional scholars scratching their heads, the FBI has opened an inquiry into six Democratic lawmakers for daring to suggest that military service members should \"refuse illegal orders.\" President Trump, apparently deeply concerned by this radical notion, has personally declared the video \"seditious activity.\" Experts are now wondering if basic civics lessons, the Uniform Code of Military Justice, or even the concept of a moral compass will soon be deemed acts of treason, as the nation grapples with the terrifying implications of soldiers potentially thinking for themselves.",
+        "id": "story-1764140280362-1",
+        "headline": "President Trump Demands Retroactive Refugee Background Checks For 'Questionable Shoe Choices' Made Under Previous Administration",
+        "content": "In a decisive move to ensure only the most impeccably vetted individuals reside within U.S. borders, President Trump's administration has launched an unprecedented review of every single refugee admitted during President Joe Biden's tenure. Insiders suggest the intense scrutiny aims to uncover any 'disqualifying factors,' ranging from undisclosed allergies to a vague 'un-American aura.' Immigration officials are reportedly working tirelessly to determine if any refugee ever, God forbid, wore mismatched socks or expressed a mild preference for tea over coffee, thereby jeopardizing national security and their right to remain in the land of the free.",
         "originalSource": "CBS News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764140280362-2",
+        "headline": "Trump Administration's Brilliant Legal Strategy Thwarted By Annoying 'Legality' Technicality",
+        "content": "A federal judge has cruelly dismantled two impeccably crafted cases against former FBI Director James Comey and New York Attorney General Letitia James, citing the most mundane of reasons: the special prosecutor was 'illegally appointed.' This shocking revelation has sent ripples through legal circles, as President Trump's administration expressed dismay that such a minor administrative hiccup could derail their otherwise flawless plan to hold political adversaries accountable. Apparently, simply *wanting* someone to be a prosecutor isn't quite enough for the picky judicial system.",
+        "originalSource": "PBS News / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-3",
+        "headline": "President Trump Mercifully Pardons Turkeys, But Not The Souls Of His Political Adversaries, During Holiday Address",
+        "content": "In a touching display of holiday magnanimity, President Trump gallantly spared the lives of Gobble and Waddle, the nation's two luckiest turkeys, during the annual White House pardoning ceremony. However, in an unexpected turn that surely surprised no one, the festive occasion quickly pivoted into a scathing, no-holds-barred critique of his political opponents. Sources close to the turkeys reported hearing remarks like, 'Even these turkeys have better judgment than some people,' confirming that while the poultry lived to see another day, the president's adversaries were metaphorically roasted to a crisp.",
+        "originalSource": "Associated Press (AP) / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-4",
+        "headline": "Housing Official Discovers New Hobby: Investigating Political Opponents With Authority He Definitely Doesn't Have",
+        "content": "Representative Eric Swalwell has initiated a legal skirmish against Bill Pulte, a President Trump-appointed housing official, who apparently moonlights as a self-appointed criminal referral guru. Pulte, whose official duties likely involve housing-related matters, decided instead to launch a one-man crusade, issuing criminal referrals against high-profile Trump critics like Swalwell, Sen. Adam Schiff, and Letitia James. Swalwell's lawsuit humorously suggests that perhaps a housing official's job description doesn't explicitly include 'prosecuting political rivals,' much to Pulte's obvious disappointment.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764140280362-5",
+        "headline": "DHS Secretary Finds Innovative New Method To 'Comply' With Judicial Orders: Simply Don't",
+        "content": "The Department of Justice has confirmed that DHS Secretary Kristi Noem, in a bold display of administrative ingenuity, personally greenlit the transfer of deportees to El Salvador. This decision, insiders reveal, was made with full awareness of a judge's prior order explicitly stating the flights *must* be returned to the United States. Observers are now wondering if this marks a groundbreaking new era of judicial interpretation where 'must' is merely a suggestion, and international airlines are now operating under the thrilling 'choose your own adventure' model.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764135629054-0",
-        "headline": "The White House wants to help people pay for their health care.",
-        "content": "The White House is looking at a plan to keep helping millions of Americans pay for their health insurance. This plan would continue giving money to people so they can afford their doctor visits and medicine. President Trump has often said he wants to make health care even better for everyone, and he's still promising a big new plan to do that. So, getting good health care is a really important topic right now.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764140280362-0",
+        "headline": "The FBI Wants to Talk to Lawmakers Who Told Soldiers to Not Listen to Orders",
+        "content": "The FBI wants to ask some lawmakers from the Democratic party questions. These lawmakers made a video telling soldiers that they shouldn't follow orders they thought were against the rules. President Trump got very upset about this, saying it was like trying to cause trouble. Now, there's a big investigation happening because people are disagreeing about what soldiers should do and what politicians are allowed to say.",
+        "originalSource": "Associated Press (AP) / CBS News / PBS News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764135629054-1",
-        "headline": "President Trump wants to check on refugees who came to America.",
-        "content": "President Trump's team has asked to look closely at all the refugees who came to America when Joe Biden was president. Refugees are people who had to leave their homes because it wasn't safe. This check is to make sure there are no safety concerns or legal problems that would stop these people from being able to live in America safely.",
-        "originalSource": "CBS News",
-        "publishedTime": "55 minutes ago"
-      },
-      {
-        "id": "story-1764135629054-2",
-        "headline": "Viola Ford Fletcher, who saw the awful Tulsa Massacre, has died at 111.",
-        "content": "Viola Ford Fletcher, who was 111 years old, has died. She was one of the last people alive who saw a terrible event called the 1921 Tulsa Race Massacre. This was when a lot of Black people's homes and businesses in Tulsa were destroyed, and many people were hurt or killed. Viola was very important because she told her story and worked hard to make sure people remembered what happened and that justice was done.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764135629054-3",
-        "headline": "The government is thinking about what to do after a judge stopped some big cases.",
-        "content": "The government's Justice Department is trying to figure out what to do next. This is because a judge said that some important cases, like ones about James Comey and Letitia James, couldn't go forward. The judge decided that the special lawyer in charge of these cases wasn't picked in the right way. This means there are now some confusing legal problems for these investigations.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-4",
-        "headline": "President Trump wants to help Ukraine and Russia make peace, but it's hard.",
-        "content": "President Trump hopes to help Ukraine and Russia make a peace deal. He's sent people to try and speed things up. But it's very tricky because Ukraine and Russia don't agree on some big things, especially about who owns certain parts of the land. Russia wants Ukraine to give up some land, and Ukraine doesn't want to, so it's hard to make a deal right now.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-5",
-        "headline": "The FBI is looking into politicians who made a video for soldiers.",
-        "content": "The FBI is investigating six politicians from the Democratic party. This is because they made a video telling soldiers and spies not to follow orders if those orders are against the law. Some people are saying this video is 'sedition,' which means trying to get people to go against the government. President Trump has said that he thinks the video is exactly that.",
+        "id": "story-1764140280362-1",
+        "headline": "President Trump's Team Will Check On People Who Came Here Before",
+        "content": "President Trump's team has said they want to look at all the refugees who came into the United States when Joe Biden was president. They want to check if there are any reasons why these people shouldn't be allowed to stay here. This shows that President Trump's government is making the rules for people moving to America much tougher.",
         "originalSource": "CBS News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764140280362-2",
+        "headline": "A Judge Said Lawsuits Against Two People Must Stop Because of a Mistake",
+        "content": "A judge has said that some important cases against James Comey, who used to run the FBI, and Letitia James, who is a top lawyer for New York, must stop. This happened because the special person in charge of looking into their cases was found to have been put in that job illegally. This was a bit of a problem for President Trump's government, which was trying to bring legal actions against people they saw as opponents.",
+        "originalSource": "PBS News / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-3",
+        "headline": "President Trump Saves Turkeys But Still Criticizes People He Doesn't Like",
+        "content": "Just before Thanksgiving, President Trump had a special party at the White House where he told two turkeys, named Gobble and Waddle, that they were free and wouldn't be eaten. But during this fun event, President Trump also spent time talking about how much he didn't like some of his political opponents, saying mean things about them.",
+        "originalSource": "Associated Press (AP) / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-4",
+        "headline": "A Politician Is Suing Someone Who Tried to Get President Trump's Critics in Trouble",
+        "content": "Eric Swalwell, who is a politician from the Democratic party, has started a lawsuit against a person named Bill Pulte. Bill Pulte was put into a job by President Trump to work on housing. Eric Swalwell says that Bill Pulte used his job in a bad way by trying to get many people who speak out against President Trump into legal trouble. These people included Eric Swalwell himself, Adam Schiff, and Letitia James, which is why Eric Swalwell decided to sue.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764140280362-5",
+        "headline": "A Government Leader Did Not Follow a Judge's Order About Bringing People Back",
+        "content": "The Department of Justice, which is like the government's lawyer, said that Kristi Noem made the final choice. She decided that a group of people who were being sent away from the country should go to El Salvador. This happened even though a judge had said that their planes needed to come back to the United States. This situation made people wonder if the government was listening to what the judge ordered about who can come and go from the country.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764135629054-0",
-        "headline": "Beneath the Healthcare Promise",
-        "content": "The Oval Office hummed with a quiet urgency. A new proposal, whispered among aides, promised a temporary balm: continued subsidies for millions relying on the Affordable Care Act. Yet, outside, a different drumbeat echoed. President Trump, unwavering, reiterated his vow to unveil a groundbreaking healthcare solution, a system superior, comprehensive, and unlike any before. The nation, a vast patient, watched and waited. One hand offered comfort, the other drew the blueprint for a future yet unseen, weaving together threads of relief and revolution in the complex tapestry of national well-being. The clock ticked on.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764140280362-0",
+        "headline": "The Whispers of Disobedience in the Ranks",
+        "content": "A video surfaced, its message a potent seed sown in the fertile ground of military protocol: defy orders deemed unlawful. Six Democratic House members, earnest and resolute, recorded the plea, unknowingly igniting a political firestorm. Accusations of 'sedition' echoed from President Trump, fueling a federal inquiry. Now, the FBI sought interviews, their questions sharp, dissecting the delicate balance between a soldier's duty and a citizen's conscience. The political and legal conflict over speech and military obedience had begun, its tendrils reaching into the very heart of the nation's armed forces, seeking clarity amidst the clamor.",
+        "originalSource": "Associated Press (AP) / CBS News / PBS News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764135629054-1",
-        "headline": "The Scrutiny of New Shores Begins",
-        "content": "A stark memo landed on desks across Washington, its directives clear: every refugee welcomed under the previous administration would now face scrutiny. President Trump's administration initiated a sweeping review, a meticulous search for any security lapse, any legal loophole that might revoke their tenuous claim to a new home. For those who had fled war and hardship, believing they had found sanctuary, the news cast long shadows. The promise of safety, hard-won and fragile, was once more held captive by a relentless legal gaze, weighing their past against an uncertain future.",
-        "originalSource": "CBS News",
-        "publishedTime": "55 minutes ago"
-      },
-      {
-        "id": "story-1764135629054-2",
-        "headline": "A Century's Witness Fades into History",
-        "content": "The last breath of Viola Ford Fletcher, at 111 years young, quieted a voice that had echoed through a century. She was a living testament to the 1921 Tulsa Race Massacre, a child who ran from burning homes and shattered dreams in Greenwood. For decades, her resolve never wavered. She carried the weight of that unspeakable day, tirelessly advocating for reparations, demanding justice, and a full national acknowledgment of the devastation. Her passing marked not an end to the story, but a profound silence, a call for those remaining to pick up the mantle of memory and ensure the ashes of history never fully cool.",
-        "originalSource": "PBS News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764135629054-3",
-        "headline": "A Procedural Labyrinth Unravels in Court",
-        "content": "The gavel struck, echoing a decision that rippled through the legal landscape: two high-profile cases, involving James Comey and Letitia James, were dismissed. The federal judge's reasoning was sharp – the special prosecutor, he declared, had been appointed illegally. Now, the Department of Justice stood at a crossroads, weighing its appeal options. This ruling introduced a labyrinth of legal uncertainty, a procedural hurdle that threatened to derail ongoing investigations and cast shadows of doubt over the very legitimacy of the prosecutions. The scales of justice, for a moment, seemed to waver, seeking a new balance.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-4",
-        "headline": "The Unyielding Ground of Peace in Europe",
-        "content": "From the Oval Office, President Trump radiated optimism, speaking of a swift peace between Ukraine and Russia. Envoys were dispatched, their mission clear: accelerate a U.S.-backed agreement. Yet, the brutal reality on the ground told a different story. The nations remained stubbornly entrenched, particularly on the most contentious of questions. Could Kyiv, after so much sacrifice, be forced to cede even more sovereign territory to Moscow? This fundamental disagreement hung heavy, a dark cloud over the negotiation table, threatening to unravel any diplomatic thread woven in the pursuit of an elusive peace.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764135629054-5",
-        "headline": "Whispers Against the Uniform Spark an Inquiry",
-        "content": "A video, a potent whisper against the uniform, stirred a storm. Six Democratic lawmakers, their faces earnest, urged military and intelligence personnel to resist unlawful orders. The message, meant as a safeguard, ignited accusations of \"sedition\" across the political spectrum. The FBI, sensing the tempest, initiated an inquiry. From his platform, President Trump amplified the outrage, publicly declaring the video an act of seditious defiance. A dangerous line was drawn, not on a map, but in the very fabric of duty and loyalty, questioning the boundaries of command and conscience.",
+        "id": "story-1764140280362-1",
+        "headline": "Checking the Welcome Mat for Recent Arrivals",
+        "content": "A new directive rippled through the bureaucratic corridors: scrutinize every refugee admitted during President Biden's term. The Trump administration, with surgical precision, sought to identify any 'disqualifying factors' that might revoke their tenuous welcome. Memo in hand, agents began the painstaking process, sifting through lives uprooted and hopes replanted, now subject to review. This wasn't merely an administrative task; it was a clear signal, a tightening grip on the nation’s borders and a stark redefinition of compassion. For those who had found a haven, the unsettling review cast a long shadow, uncertain of their future.",
         "originalSource": "CBS News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764140280362-2",
+        "headline": "A Legal Misstep Undoing Grand Ambitions",
+        "content": "The gavel fell, echoing a decisive blow in the legal theater. A federal judge dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The reason: a fatal flaw in the prosecution's foundation. The special prosecutor, hand-picked for these high-profile investigations, was found illegally appointed. This wasn't a minor oversight; it was a legal Achilles' heel, crippling the Trump administration's efforts to pursue its political adversaries. The meticulously built legal actions crumbled, a stark reminder that even the most determined pursuits must adhere to the bedrock of legal procedure, lest they fall apart.",
+        "originalSource": "PBS News / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-3",
+        "headline": "Thanksgiving's Sharp-Tongued Feast of Rhetoric",
+        "content": "Beneath the festive White House canopy, a ritual unfolded. President Trump, with a flourish, granted reprieve to Gobble and Waddle, the nation's fortunate turkeys, sparing them from the holiday table. Yet, the air wasn't solely filled with gratitude. The annual pardoning ceremony, a traditionally lighthearted affair, quickly transformed into a political arena. President Trump seized the platform, his words sharp and unsparing, aimed squarely at his political opponents. The act of mercy for two birds became a backdrop for pointed criticism, weaving the solemnity of tradition with the cutting edge of political discourse, a uniquely American Thanksgiving.",
+        "originalSource": "Associated Press (AP) / Sky News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764140280362-4",
+        "headline": "A Political Official's Reckoning in Court",
+        "content": "The legal gauntlet was thrown. Democratic Representative Eric Swalwell initiated a lawsuit against Bill Pulte, a housing official appointed by President Trump, alleging a blatant abuse of power. Pulte, with an assertive hand, had submitted multiple criminal referrals targeting prominent critics of President Trump – names like Swalwell himself, Senator Adam Schiff, and New York Attorney General Letitia James. This wasn't a quiet bureaucratic process; it was weaponized official capacity, a clear attempt to silence dissent through legal intimidation. Swalwell's lawsuit marked a direct challenge, demanding accountability for what he perceived as a politicized misuse of authority.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764140280362-5",
+        "headline": "The Unheeded Judicial Decree on Deportation Flights",
+        "content": "The Department of Justice confirmed the stark decision: DHS Secretary Kristi Noem chose to hand a group of deportees over to El Salvador. This action unfolded despite a clear judicial order mandating their return flights to the United States. The judge's decree, intended to uphold due process, was effectively sidestepped, raising a barrage of questions about the administration's compliance with legal mandates. A line had been drawn, and crossed. For those awaiting justice or reprieve, the decision solidified their fate outside American borders, casting a shadow on the judiciary's authority and the enforceability of its orders.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
       }
     ]
   }
