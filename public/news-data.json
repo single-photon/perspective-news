@@ -1,267 +1,267 @@
 {
-  "timestamp": 1764142502478,
+  "timestamp": 1764147288404,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764142430850-0",
-        "headline": "President Trump's Annual Turkey Pardon Diverts Attention from Pressing Systemic Issues",
-        "content": "In a yearly White House spectacle, President Trump officially pardoned two turkeys, Gobble and Waddle, sparing them from the Thanksgiving dinner table. While this tradition offers a brief, lighthearted distraction, it stands in stark contrast to the urgent systemic issues of food insecurity, industrial animal agriculture, and economic inequality that persist across the nation, often unaddressed by the current administration.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764147219193-0",
+        "headline": "Illegally Appointed Special Prosecutor's Actions Undermine Justice, Leading to Case Dismissals",
+        "content": "A federal judge's decision to dismiss high-profile cases against former FBI Director James Comey and New York Attorney General Letitia James underscores the critical importance of legitimate legal processes. The ruling, which found the special prosecutor's appointment unlawful, highlights a systemic failure when politically motivated legal actions bypass proper procedure, compromising the integrity of our justice system.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
       },
       {
-        "id": "story-1764142430850-1",
-        "headline": "President Trump's Administration Initiates Discriminatory Review of Refugees, Raising Grave Humanitarian Concerns",
-        "content": "A recently unveiled memo reveals President Trump's administration is launching a comprehensive and alarming review of all refugees who entered the U.S. under the previous Biden administration. This order signifies a significant and deeply troubling shift in immigration policy, appearing to weaponize 'security concerns' as a pretext to target vulnerable populations and dismantle crucial humanitarian protections, reflecting a broader anti-immigrant agenda.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764142430850-2",
-        "headline": "Federal Judge Compels President Trump's Administration to Grant Basic Rights to Detained Migrants",
-        "content": "A landmark federal court ruling has mandated that President Trump's administration provide bond hearings for detained migrants, a crucial victory for human rights and due process. This decision directly challenges the administration's often-inhumane detention policies, offering migrants a fundamental opportunity to argue for release while their asylum claims and cases are pending, pushing back against a system designed to deny justice.",
+        "id": "story-1764147219193-1",
+        "headline": "Pentagon Probes Senator Kelly's Call for Troops to Reject Unlawful Orders, Raising Free Speech Concerns",
+        "content": "The Pentagon has initiated an investigation into Arizona Senator Mark Kelly's remarks, which reportedly urged military personnel to refuse orders he deemed 'illegal.' This inquiry raises significant questions about free speech, the ethical duty of soldiers to reject unlawful commands, and potential attempts to silence dissent within discussions of military conduct and accountability.",
         "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764142430850-3",
-        "headline": "FBI Scrutiny of Democrats Advocating Against Illegal Orders Raises Free Speech and Accountability Questions",
-        "content": "The FBI is reportedly seeking interviews with several House Democrats who participated in a video encouraging military personnel to refuse orders deemed illegal. This development escalates a significant political and legal controversy, raising concerns about potential political intimidation and the vital principle of ensuring accountability within the military, where upholding the Constitution must supersede blind obedience to unlawful directives.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25"
-      },
-      {
-        "id": "story-1764142430850-4",
-        "headline": "Wealthy Senator Jim Justice Finally Pays Millions in Back Taxes, Highlighting Systemic Tax Evasion by the Elite",
-        "content": "West Virginia Senator Jim Justice, a prominent Republican, has reached a settlement to pay approximately $5.2 million in long-overdue back taxes and penalties. This resolution, while welcome, underscores the systemic issue of wealthy individuals and corporations evading their financial responsibilities, which ultimately deprives essential public services—like education and healthcare—of crucial funding and exacerbates economic inequality for working families.",
+        "id": "story-1764147219193-2",
+        "headline": "Governor Noem's Defiance of Judicial Order on Deportation Flights Exposes Ongoing Disregard for Migrant Rights",
+        "content": "Despite a clear federal judge's order to halt them, Governor Kristi Noem reportedly proceeded with deportation flights, as stated by the Department of Justice. This blatant disregard for judicial authority exemplifies a troubling pattern of state officials prioritizing harsh enforcement over legal mandates and the fundamental human rights of vulnerable migrants.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25"
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1764142430850-5",
-        "headline": "U.S. Dispatches Envoys to Moscow in Bid to Advance Diplomatic Resolution to Ukraine Conflict",
-        "content": "In a critical diplomatic initiative, the U.S. is sending two envoys to Moscow to engage in talks aimed at fostering a U.S.-backed effort to bring an end to the devastating war in Ukraine. This long-overdue diplomatic push by President Trump's administration signals an acknowledgment of the urgent humanitarian need for de-escalation and peace, emphasizing that only through dialogue can a lasting resolution be found for the conflict's systemic roots.",
+        "id": "story-1764147219193-3",
+        "headline": "President Trump and Xi Jinping Engage in Critical Talks on Trade, Taiwan, and Ukraine Amidst Complex Global Challenges",
+        "content": "President Trump and Chinese leader Xi Jinping held a pivotal phone call addressing pressing geopolitical and economic concerns. Discussions centered on ongoing trade disputes, the delicate future of Taiwan, and the complex path to peace in Ukraine, highlighting the interconnected nature of global challenges and the imperative for diplomatic engagement to navigate systemic international issues.",
         "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-4",
+        "headline": "Closure of U.S.-Backed Gaza Aid Foundation Deepens Humanitarian Crisis for Vulnerable Populations",
+        "content": "The U.S.-backed Gaza Humanitarian Foundation has announced the cessation of its operations, a tragic development that will exacerbate the ongoing humanitarian crisis in the region. This closure, driven by persistent conflict and logistical hurdles, represents a significant failure of international support, leaving an already vulnerable civilian population with diminished access to crucial aid.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-5",
+        "headline": "Federal Judge Mandates Bond Hearings for Detained Migrants, Upholding Fundamental Rights Against Systemic Injustice",
+        "content": "In a critical decision, a federal judge has ordered President Trump's administration to provide bond hearings for migrants held in detention. This ruling is a vital step toward ensuring due process and human rights for individuals caught in a flawed immigration system, challenging policies that have led to arbitrary detentions and reinforcing the need for systemic reform.",
+        "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764142430850-0",
-        "headline": "Trump pardons turkeys Gobble and Waddle in annual tradition",
-        "content": "President Trump continued the annual White House Thanksgiving tradition by officially pardoning two national turkeys named Gobble and Waddle. The lighthearted event precedes the Thanksgiving holiday, securing the birds' freedom from the dinner table in front of a national audience.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764147219193-0",
+        "headline": "Judge Dismisses Cases Against Comey and James Due to Illegal Appointment of Special Prosecutor",
+        "content": "A federal judge dismissed high-profile cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling hinged on the finding that the special prosecutor who brought the charges was unlawfully appointed, leading to the invalidation of the proceedings.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
       },
       {
-        "id": "story-1764142430850-1",
-        "headline": "Trump administration orders review of refugees who entered under Biden, memo shows",
-        "content": "A recently revealed memo shows the Trump administration is initiating a comprehensive review of all refugees admitted into the U.S. during the previous Biden administration. The order signals a major shift in immigration policy, focusing on security concerns and re-evaluating past admissions criteria.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764142430850-2",
-        "headline": "Judge orders Trump administration to provide bond hearings to detained migrants",
-        "content": "A federal judge issued a ruling requiring the Trump administration to offer bond hearings for detained migrants, marking a significant development in immigration law. The decision aims to give migrants the opportunity to argue for release while their cases are pending, challenging current detention policies.",
+        "id": "story-1764147219193-1",
+        "headline": "Pentagon Launches Investigation into Senator Mark Kelly Over Comments Urging Troops to Refuse Orders",
+        "content": "The Pentagon announced an investigation into Arizona Senator Mark Kelly regarding 'potentially unlawful comments' he made. The inquiry is focused on whether the Democratic senator urged military personnel to refuse orders he deemed 'illegal,' sparking a political controversy.",
         "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764142430850-3",
-        "headline": "FBI seeks interviews with Democrats who appeared in video urging troops to defy illegal orders",
-        "content": "The FBI is reportedly looking to interview several House Democrats who participated in a video that encouraged military personnel to refuse orders they deemed illegal. The move escalates a political and legal controversy regarding the separation of civilian authority and military obedience.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25"
-      },
-      {
-        "id": "story-1764142430850-4",
-        "headline": "West Virginia Sen. Jim Justice agrees to pay nearly $5.2 million in back taxes",
-        "content": "West Virginia Senator Jim Justice, a Republican, has reached a settlement to pay approximately $5.2 million in back taxes and associated penalties. The resolution of the long-running tax dispute comes as the Senator remains a high-profile figure in state and national politics.",
+        "id": "story-1764147219193-2",
+        "headline": "DOJ Says Noem Decided Not to Turn Around Deportation Flights Despite Receiving a Federal Judge's Order",
+        "content": "The Department of Justice stated that Governor Kristi Noem made a decision to proceed with deportation flights, despite a federal judge's order to cease them. This defiance of a judicial mandate has intensified the legal and political conflict over immigration enforcement policies.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25"
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1764142430850-5",
-        "headline": "U.S. to send envoy to Moscow to discuss proposals to end Ukraine war",
-        "content": "The U.S. is dispatching two envoys to Moscow to engage in talks aimed at advancing a U.S.-backed effort to resolve the ongoing war in Ukraine. This diplomatic push signals an attempt by the Trump administration to build on recent progress in peace talks between the warring nations.",
+        "id": "story-1764147219193-3",
+        "headline": "Trump and Xi Discuss Trade, Taiwan, and Ukraine in Latest High-Level Phone Call",
+        "content": "President Trump and Chinese leader Xi Jinping held a phone call where they discussed key geopolitical and economic issues. Officials from both countries confirmed that the conversation covered ongoing trade disputes, the future of Taiwan, and the US-backed peace efforts in Ukraine.",
         "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-4",
+        "headline": "U.S.-Backed Gaza Humanitarian Foundation Ceases All Operations",
+        "content": "The U.S.-backed Gaza Humanitarian Foundation has announced that it is shuttering all of its operations. The closure comes amidst ongoing conflict and complex logistical challenges in the region, leaving a gap in aid distribution for the civilian population.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-5",
+        "headline": "Federal Judge Orders Trump Administration to Provide Bond Hearings for Detained Migrants",
+        "content": "A federal judge issued a ruling mandating that the Trump administration must provide bond hearings for migrants currently held in detention. The order is a significant decision affecting the legal rights and processing procedures for individuals detained at the U.S. border.",
+        "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764142430850-0",
-        "headline": "President Trump Upholds Cherished American Tradition with Annual Turkey Pardon",
-        "content": "President Trump proudly continued a treasured White House Thanksgiving tradition, granting official pardons to the national turkeys, Gobble and Waddle. This heartwarming event, a beacon of American heritage preceding the Thanksgiving holiday, symbolically secures the birds' freedom, reminding us of the liberties we hold dear, all witnessed by a grateful nation.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764147219193-0",
+        "headline": "Federal Judge Upholds Rule of Law, Scrutinizes Unlawful Special Prosecutor Appointments",
+        "content": "A federal judge delivered a significant blow against government overreach, dismissing high-profile cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling rightly exposed the unlawful appointment of the special prosecutor, a move that undermines legitimate legal processes and smacks of political motivation. This decision reinforces the critical principle that justice must be pursued within the bounds of law, not through illegally constructed bureaucratic power plays.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
       },
       {
-        "id": "story-1764142430850-1",
-        "headline": "President Trump's Administration Initiates Crucial Review of Refugee Admissions from Previous Era",
-        "content": "In a decisive move to bolster national security and restore order, a newly disclosed memo confirms President Trump's administration is launching an exhaustive review of all refugee admissions that occurred under the prior Biden administration. This vital directive underscores a significant realignment of immigration policy, prioritizing America's safety and re-evaluating the lax admission criteria that jeopardized our nation's integrity.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764142430850-2",
-        "headline": "Federal Judge Undermines Border Security with Controversial Order on Migrant Bond Hearings",
-        "content": "A federal judge has issued a deeply concerning ruling, compelling President Trump's administration to provide bond hearings for detained migrants, a development that poses a significant challenge to our nation's immigration enforcement. This decision risks undermining established detention policies and could compromise border security by allowing individuals to argue for release while their complex legal cases remain unresolved, weakening the rule of law at a critical time.",
+        "id": "story-1764147219193-1",
+        "headline": "Pentagon Investigates Senator Kelly for Undermining Military Discipline and National Security",
+        "content": "The Pentagon has initiated a crucial investigation into Arizona Senator Mark Kelly for what are being described as 'potentially unlawful comments.' The inquiry rightly focuses on whether the Democratic senator urged America's brave military personnel to refuse legitimate orders, a deeply troubling act that threatens the very foundation of military discipline and national security. Such rhetoric from elected officials is an affront to our armed forces and a dangerous precedent that could destabilize our nation's defense.",
         "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764142430850-3",
-        "headline": "FBI Investigates Democrats for Inciting Disobedience Among Our Brave Military Personnel",
-        "content": "The Federal Bureau of Investigation is reportedly seeking interviews with several House Democrats regarding their participation in a video that alarmingly encouraged military personnel to defy what they arbitrarily deemed 'illegal orders.' This action escalates a serious political and legal controversy, raising grave concerns about the erosion of civilian authority over our armed forces and the dangerous precedent of political figures urging our troops to abandon their sworn duty.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25"
-      },
-      {
-        "id": "story-1764142430850-4",
-        "headline": "West Virginia's Senator Jim Justice Resolves Significant Tax Dispute, Demonstrating Accountability",
-        "content": "West Virginia Senator Jim Justice, a prominent Republican voice, has reportedly finalized a settlement to remit approximately $5.2 million in outstanding taxes and penalties. This resolution of a protracted tax dispute underscores the importance of fiscal responsibility and accountability for all citizens, even as the Senator continues to play a vital role in both state and national political discourse.",
+        "id": "story-1764147219193-2",
+        "headline": "Governor Noem Stands Firm on Border Security, Defying Judicial Overreach on Deportation Flights",
+        "content": "The Department of Justice has confirmed that Governor Kristi Noem courageously upheld the principles of national sovereignty and border security by proceeding with deportation flights, despite a federal judge's contentious order to halt them. This decisive action underscores a commitment to enforcing immigration laws and challenges what many view as judicial activism impeding essential national security measures. Governor Noem's resolve highlights the ongoing battle to secure our borders and uphold the rule of law against undue interference.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25"
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1764142430850-5",
-        "headline": "President Trump's Administration Dispatches Envoys to Moscow in Bold Push for Ukraine Peace",
-        "content": "In a demonstration of strong American leadership and a commitment to global stability, President Trump's administration is deploying two envoys to Moscow. This critical diplomatic mission aims to advance a U.S.-backed initiative to bring a swift and just resolution to the ongoing conflict in Ukraine, building upon recent promising developments in peace talks between the involved nations and asserting American influence for peace.",
+        "id": "story-1764147219193-3",
+        "headline": "President Trump Engages Chinese Leader Xi on Crucial Geopolitical and Economic Issues",
+        "content": "President Trump, demonstrating his unwavering commitment to American interests on the global stage, held a pivotal phone call with Chinese leader Xi Jinping. Officials from both nations confirmed that the discussions covered critical areas including ongoing trade disputes, the delicate future of Taiwan, and America's steadfast support for peace efforts in Ukraine. This direct engagement highlights President Trump's strong leadership in navigating complex international challenges and prioritizing America's strategic position.",
         "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-4",
+        "headline": "U.S.-Backed Gaza Humanitarian Effort Fails, Raising Questions About Foreign Aid Effectiveness",
+        "content": "The U.S.-backed Gaza Humanitarian Foundation has regrettably announced the complete cessation of its operations, marking another disheartening failure in a volatile region. This closure, attributed to ongoing conflict and logistical hurdles, casts a harsh light on the persistent challenges and questionable effectiveness of American foreign aid initiatives in unstable territories. Taxpayer funds committed to such endeavors demand greater scrutiny, especially when they yield little sustainable impact and leave critical gaps in assistance.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-5",
+        "headline": "Federal Judge Undermines Border Security Efforts, Mandates Bond Hearings for Detained Migrants",
+        "content": "A federal judge has issued a controversial ruling mandating that the President Trump administration must provide bond hearings for migrants currently held in detention. This decision is seen by many as a significant instance of judicial overreach, potentially hindering critical efforts to secure the U.S. border and manage immigration enforcement. The order raises serious questions about the balance of power and the challenges faced by an administration committed to upholding national sovereignty and the rule of law at our borders.",
+        "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764142430850-0",
-        "headline": "President Trump Grants Turkeys Gobble and Waddle Lifetime Diplomatic Immunity, Appoints Them Official White House 'Feathered Advisors'",
-        "content": "In a move hailed by poultry activists and bewildered chefs nationwide, President Trump majestically pardoned two exceptionally ordinary turkeys, Gobble and Waddle, bestowing upon them not just freedom from the dinner table but also unprecedented diplomatic status. The White House confirmed the birds would immediately begin their new roles as 'Feathered Advisors,' tasked with, among other things, offering silent judgments on official state dinners and possibly developing a groundbreaking new foreign policy involving birdseed. Sources close to the administration suggest this pivotal decision ensures 'no turkey left behind' and solidifies America's commitment to avian freedom, setting a new global standard for poultry protection.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764147219193-0",
+        "headline": "Groundbreaking Legal Precedent Set: Entire Prosecution Annulled Because Someone Forgot to Fill Out Form A-37B",
+        "content": "In a stunning display of bureaucratic precision, or perhaps sheer cosmic irony, a federal judge has effectively declared several high-profile legal sagas null and void, all because the special prosecutor's hiring manager apparently missed a crucial step. Legal experts are now scrambling to determine if all past legal proceedings initiated by anyone who merely *thought* they were a special prosecutor are also suddenly invalid, potentially unleashing a wave of 'Oops, Our Bad' dismissals across the nation. Defendants James Comey and Letitia James are reportedly considering sending a fruit basket to the nameless HR intern who failed to check the 'lawfully appointed' box.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
       },
       {
-        "id": "story-1764142430850-1",
-        "headline": "President Trump Orders 'Refugee Rewind,' Demanding All Immigrants Admitted Under Previous Administration Prove They Didn't Secretly Prefer Brand X Mayonnaise",
-        "content": "In a monumental administrative undertaking, the Trump administration has launched a nationwide 'refugee rewind,' ordering an exhaustive re-evaluation of every single refugee admitted during the preceding Biden era. A leaked memo indicates the rigorous new screening process will not only re-examine security concerns but also delve into their past condiment preferences, shoe-tying methods, and whether they ever, even once, subtly hinted at favoring a political figure not named 'Trump.' Experts predict the review could take decades, mainly due to the sheer volume of mayonnaise preference questionnaires.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764142430850-2",
-        "headline": "Federal Judge Forces Trump Administration to Host 'Migrant's Got Talent' Bond Hearings, Where Freedom Hinges on a Captivating Performance",
-        "content": "A federal judge, clearly operating on a previously unknown legal precedent, has mandated that the Trump administration must now provide 'bond hearings' for detained migrants. This revolutionary ruling means individuals can argue for their release while their cases are pending, effectively transforming detention centers into impromptu audition stages. Critics within the administration are reportedly scrambling to find qualified judges for the new 'Migrant's Got Talent' proceedings, fearing that the upcoming 'tap-dancing for asylum' trend could severely strain judicial resources and security protocols.",
+        "id": "story-1764147219193-1",
+        "headline": "Pentagon Baffled as Senator Suggests Troops Shouldn't Obey 'Illegal' Orders; Military Brass Scramble for Rulebook on Moral Ambiguity",
+        "content": "The U.S. Pentagon has reportedly launched a top-secret (but publicly announced) investigation into Senator Mark Kelly, after the Arizona Democrat dared to ponder aloud whether military personnel should, gasp, *not* follow orders that are... well, 'illegal.' Sources close to the investigation indicate that military lawyers are currently locked in a secure bunker, desperately trying to locate the seldom-used 'Nuremberg Defense Clause' in the Uniform Code of Military Justice, as generals scratch their heads wondering if 'questioning authority' is now officially a new form of treason. Meanwhile, troops across the globe are reportedly forming 'Ethical Dilemma Discussion Groups' in their downtime, much to the chagrin of drill sergeants who prefer unquestioning obedience.",
         "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764142430850-3",
-        "headline": "FBI Investigates Democrats for 'Thought Crimes' After Suggesting Troops Might Consider Thinking for Themselves About 'Illegal Orders'",
-        "content": "The Federal Bureau of Investigation has reportedly launched a full-scale probe into several House Democrats, not for any actual crime, but for the mere suggestion that military personnel might, in a hypothetical scenario, pause to consider the legality of an order before blindly following it. Sources close to the investigation confirm the FBI is meticulously searching for evidence of 'critical thinking contagion' among the lawmakers, fearing that such independent thought could lead to a catastrophic breakdown of the sacred 'orders are orders' military mantra, possibly even resulting in troops asking 'why?'",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25"
-      },
-      {
-        "id": "story-1764142430850-4",
-        "headline": "West Virginia Senator Jim Justice Discovers Missing $5.2 Million in Back Taxes Tucked Away in Old Winter Coat Pocket",
-        "content": "In a stunning display of fiscal responsibility, West Virginia Senator Jim Justice has magnanimously agreed to pay a paltry $5.2 million in back taxes and penalties, claiming the funds were simply 'misplaced' somewhere between his couch cushions and a forgotten winter coat. The Senator, a prominent figure in state and national politics, assured constituents it was merely a minor oversight, not an evasion, and promised to implement a new 'check my pockets before laundry day' policy to avoid future 'misplacements' of eight-figure sums.",
+        "id": "story-1764147219193-2",
+        "headline": "Governor Noem Reportedly Tells Federal Judge, 'Nuh-Uh, You Can't Make Me,' Regarding Deportation Flights",
+        "content": "In a move that has legal scholars everywhere clutching their pearls, Governor Kristi Noem has reportedly given a federal judge the equivalent of a defiant raspberry, opting to proceed with deportation flights despite a direct order to stop. The Department of Justice confirmed that the Governor apparently decided judicial mandates are merely 'suggestions' when it comes to immigration policy. Legal experts are now pondering if the judiciary should invest in a giant 'time-out' corner for governors who struggle with the concept of 'rule of law,' while Governor Noem's team insists she merely thought the judge's order was a 'strongly worded suggestion for next week.'",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25"
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1764142430850-5",
-        "headline": "President Trump Dispatches Two Enthusiastic Envoys to Moscow Armed Solely With 'Strongly Worded Suggestion' and Bag of Skittles to End Ukraine War",
-        "content": "In a bold diplomatic maneuver, President Trump has dispatched two highly-credentialed envoys to Moscow, entrusted with a singular mission: to end the protracted war in Ukraine. Sources reveal the 'U.S.-backed effort' consists primarily of a single, strongly-worded suggestion on a napkin and a family-sized bag of Skittles, intended to 'sweeten the deal.' The administration expressed extreme confidence, noting that previous complex global conflicts have often been resolved with surprisingly simple gestures, usually involving candy.",
+        "id": "story-1764147219193-3",
+        "headline": "President Trump and Xi Jinping Solve World Problems in Under an Hour, Mostly Through Agreeing to Disagree Politely",
+        "content": "In a historic phone call that surely altered the geopolitical landscape, President Trump and Chinese leader Xi Jinping reportedly convened to tackle the world's most pressing issues, including trade, Taiwan, and Ukraine. Sources indicate that both leaders masterfully navigated the complex topics by mostly reiterating their well-known positions, thereby ensuring maximum clarity and minimal actual change. 'It was a tremendous call, the best call,' said a source close to President Trump, 'they really got into it, then got out of it, and everyone's still friends... mostly.' Experts anticipate that absolutely nothing will change, proving once again the efficacy of high-level diplomatic pleasantries.",
         "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-4",
+        "headline": "Gaza Humanitarian Foundation Announces It's Simply Too Difficult to Deliver Aid During Ongoing Apocalypse",
+        "content": "The U.S.-backed Gaza Humanitarian Foundation has, with a sigh heard around the world, declared it's throwing in the towel. Citing 'complex logistical challenges,' which apparently include 'being caught in a literal war zone' and 'everything being perpetually on fire,' the organization will no longer attempt to provide aid to civilians. 'It turns out, delivering food and medicine is considerably harder when people are actively trying to avoid being bombed,' stated a spokesperson who clearly deserved a raise. Experts now anticipate a new surge in innovative solutions, such as 'telepathic food delivery' or 'wishful thinking aid drops.'",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-5",
+        "headline": "Radical Judge Suggests Detained Migrants Might Deserve, Gulp, 'Hearings'; President Trump Administration Reportedly Confused by Due Process",
+        "content": "In a ruling that has sent shockwaves through the detention system, a federal judge has audaciously suggested that migrants held at the U.S. border might, just *might*, be entitled to something called a 'bond hearing.' The President Trump administration is reportedly scrambling to understand this novel concept, with sources indicating that officials previously believed 'detention' was simply a permanent state of being, much like taxes or awkward family gatherings. Legal scholars are now bracing for the inevitable discovery that people also have rights when they're *not* in detention, which could really complicate things.",
+        "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764142430850-0",
-        "headline": "President Trump Saves Two Turkeys from Being Dinner",
-        "content": "Every year before Thanksgiving, President Trump does a cool thing. He picks two special turkeys, named Gobble and Waddle this time, and says they don't have to be eaten for Thanksgiving dinner. It's a fun White House tradition that everyone gets to watch, and it means these two birds get to live happily ever after!",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764147219193-0",
+        "headline": "A Judge Said Cases Against Some Important People Were Wrong Because of a Bad Rule",
+        "content": "A judge decided that some important cases against a guy named James Comey and a lady named Letitia James had to stop. The judge said the person who started these cases was chosen in the wrong way, like picking someone for a team when they weren't allowed to pick anyone. So, everything that happened in those cases had to be thrown out because it wasn't fair.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
       },
       {
-        "id": "story-1764142430850-1",
-        "headline": "President Trump's Team Will Check People Who Came to the USA Before",
-        "content": "A new paper shows that President Trump's team wants to look closely at all the people who came to America as refugees when the last president, Mr. Biden, was in charge. They want to make sure everyone is safe and that the rules for letting people in are good.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764142430850-2",
-        "headline": "A Judge Says People in Jail Can Ask to Get Out While Waiting",
-        "content": "A super important judge has told President Trump's team that people who are held in jail because they came to the country without permission should get a chance to ask to go home while they wait for their court date. This means they might not have to stay in jail for a long time before someone decides what happens to them.",
+        "id": "story-1764147219193-1",
+        "headline": "The Military is Looking Into What Senator Mark Kelly Said About Orders",
+        "content": "The Pentagon, which is like the main office for the military, is looking into something Senator Mark Kelly from Arizona said. They want to know if he told soldiers they shouldn't follow orders if he thought the orders were wrong. This has caused a big disagreement among politicians.",
         "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764142430850-3",
-        "headline": "FBI Wants to Talk to Lawmakers About a Video for Soldiers",
-        "content": "The FBI wants to chat with some lawmakers who made a video. In the video, they told soldiers it was okay to say no to orders that felt wrong or against the law. This is a big deal because it's about what soldiers should do and who gets to tell them what's right.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25"
-      },
-      {
-        "id": "story-1764142430850-4",
-        "headline": "Senator Jim Justice Will Pay Back a Lot of Money He Owed",
-        "content": "Senator Jim Justice from West Virginia has agreed to pay about 5.2 million dollars that he owed in taxes from a long time ago, plus some extra money because he was late. This big problem about his taxes is now finished, and he is still a very important person in politics.",
+        "id": "story-1764147219193-2",
+        "headline": "Governor Noem Did Not Stop Flights Even When a Judge Said To",
+        "content": "The Department of Justice said that Governor Kristi Noem decided to keep sending people away on flights, even though a judge told her to stop. This made a big problem because it's like not listening to a referee in a game, and it caused more arguments about how to handle people coming into the country.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25"
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1764142430850-5",
-        "headline": "America Sends People to Russia to Help Stop the War",
-        "content": "America is sending two special helpers to Russia to talk about how to stop the big war happening in Ukraine. President Trump's team wants to keep working on making peace, especially after some good talks have already happened between the countries fighting.",
+        "id": "story-1764147219193-3",
+        "headline": "President Trump and China's Leader Talked About Big World Problems",
+        "content": "President Trump and the leader of China, named Xi Jinping, had a phone call. They talked about some really important things happening in the world, like how countries buy and sell things from each other, what will happen with a place called Taiwan, and how America is trying to help make peace in Ukraine.",
         "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-4",
+        "headline": "A Group That Helped People in Gaza is Closing Down",
+        "content": "A group that America helped to give food and other things to people in Gaza has stopped all its work. They had to close because there's a lot of fighting and it was too hard to get help to everyone who needed it. This means many people in Gaza might not get the help they used to.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-5",
+        "headline": "A Judge Said President Trump's Team Must Offer Hearings for People",
+        "content": "A judge said that President Trump's team must give special meetings, called bond hearings, to people who are being held after coming to the U.S. border. These meetings are important because they let people try to get out of detention while they wait for their cases to be decided, sort of like getting bail in a movie.",
+        "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764142430850-0",
-        "headline": "Feathered Freedom at the Capitol's Heart",
-        "content": "A hush fell over the White House lawn. Gobble and Waddle, two plump turkeys, nervously ruffled their feathers. This was no ordinary pre-Thanksgiving morning for them; their fate hung precariously. Then, President Trump, with a flourish, declared their freedom. A collective sigh of relief, audible only to the poultry, swept through the capital. No carving knife, no roasting pan—just open fields and sweet corn for these lucky birds. The annual tradition, a lighthearted reprieve, underscored a moment of grace amidst the nation's hustle, ensuring Gobble and Waddle would live to strut another day, far from the holiday feast.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764147219193-0",
+        "headline": "The Unraveling of Unlawful Justice",
+        "content": "The gavel fell, echoing a victory for procedural integrity. A federal judge, scrutinizing the very foundations of power, declared the special prosecutor’s appointment illegitimate. Cases against former FBI Director James Comey and New York Attorney General Letitia James, once formidable and public, dissolved into legal dust. The charges, rendered null, vanished as if they had never been. It was a stark reminder that even in the pursuit of justice, the path must be legitimate, the authority beyond reproach. The proceedings, built on flawed grounds, crumbled, leaving behind only the ghost of an accusation and a profound question of proper process.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
       },
       {
-        "id": "story-1764142430850-1",
-        "headline": "Shadows Over Sanctuary in the Capital",
-        "content": "The ink on the new memo was still wet, but its implications spread like wildfire. A comprehensive review, it decreed, for every refugee welcomed under the previous administration. President Trump’s administration, asserting a dramatic shift, sought to re-evaluate admissions based on stringent new security criteria. For those who had found solace on American soil, the news cast a long shadow of uncertainty. Homes built, lives started, now hung in the balance, subject to an unseen scrutiny. The promise of sanctuary felt fragile, a delicate weave threatened by a sudden, decisive policy change at the highest levels of government.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764142430850-2",
-        "headline": "A Glimmer of Hope in the Holding Cells",
-        "content": "The federal judge’s gavel struck, echoing a new possibility across the detention centers. No longer would migrants languish indefinitely without a voice; President Trump's administration was now compelled to offer bond hearings. It was a beacon of hope, a chance for individuals to plead their case for release while navigating the labyrinthine immigration system. The ruling challenged established detention policies, asserting a fundamental right to argue for freedom. For families separated and individuals detained, this judicial decree offered a rare, vital opening—a chance to step from the shadows of confinement into the light of pending justice.",
+        "id": "story-1764147219193-1",
+        "headline": "Echoes of Disobedience",
+        "content": "A whisper became a roar within the Pentagon’s hallowed halls. Arizona Senator Mark Kelly faced a formal investigation, his words igniting a firestorm. He had urged military personnel to refuse orders he deemed 'illegal,' a dangerous call that blurred the lines of duty and defiance. The inquiry sought to determine the legality of his provocative statements, threatening to unravel the very discipline of the armed forces. A political tempest brewed, questioning the boundaries of free speech when spoken by a leader, and the absolute obedience demanded from those who wear the uniform. The nation held its breath.",
         "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764142430850-3",
-        "headline": "The Echoes of Disobedience in the Ranks",
-        "content": "The video had gone viral: House Democrats urging military personnel to defy 'illegal orders.' Now, the quiet hum of the FBI had intensified, seeking interviews with the very lawmakers who authored the controversial message. It sparked a national debate, a legal and political firestorm questioning the delicate balance between civilian authority and military obedience. Was it a call to conscience or an incitement to insubordination? The line blurred, and the stakes escalated. As agents began their quiet inquiries, the echoes of the video resonated, testing the very foundations of command and the loyalty of the nation’s armed forces.",
-        "originalSource": "PBS News",
-        "publishedTime": "Nov 25"
-      },
-      {
-        "id": "story-1764142430850-4",
-        "headline": "A Senator's Reckoning with the Numbers",
-        "content": "For years, the whispers of unpaid dues followed Senator Jim Justice like a persistent shadow. Today, those whispers solidified into a concrete figure: nearly $5.2 million in back taxes and penalties. The West Virginia Republican, a prominent figure in state and national politics, finally settled the long-running dispute. The resolution closed a chapter of financial scrutiny, yet it underscored the weight of public office and the meticulous demands of fiscal accountability. Even for the most powerful, the ledger eventually balances, requiring a reckoning that no political maneuver could indefinitely delay, demanding payment in full.",
+        "id": "story-1764147219193-2",
+        "headline": "The Governor's Unyielding Path",
+        "content": "The federal judge's order arrived, stark and clear: cease the deportation flights. But Governor Kristi Noem, standing firm, made her decision. The flights would proceed. The Department of Justice, bewildered, confirmed her defiance. This wasn't merely a bureaucratic oversight; it was a direct challenge to judicial authority, escalating the already tense conflict over immigration enforcement. The political landscape shuddered, divided between those upholding the rule of law and those asserting sovereign state power. In the air, the roar of engines carried not just passengers, but the weight of a deepening constitutional clash.",
         "originalSource": "CBS News",
-        "publishedTime": "Nov 25"
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1764142430850-5",
-        "headline": "Whispers of Peace in a War-Torn Land",
-        "content": "The global stage shifted, hopeful gazes turning toward Moscow. The U.S., under President Trump’s direction, dispatched two envoys, their mission clear: forge a path to end the brutal war in Ukraine. This diplomatic offensive signaled a strategic push, building upon recent, tentative progress in peace talks. The conflict had ravaged the landscape, claiming countless lives, but now, a renewed effort for dialogue was underway. The envoys carried not just proposals, but the collective hope for stability, for an end to the fighting, for a future where diplomacy, not devastation, defined the region's fate.",
+        "id": "story-1764147219193-3",
+        "headline": "A Dialogue Across Distant Shores",
+        "content": "The secure line buzzed, connecting two titans across continents. President Trump's voice carried across the Pacific to Chinese leader Xi Jinping. Their conversation, a delicate dance of diplomacy, touched on the globe’s most volatile points. Trade imbalances, ever a thorny issue, were navigated with cautious words. The sensitive future of Taiwan, a constant geopolitical tremor, received careful consideration. And then, Ukraine, a continent away, its struggles woven into the fabric of international peace efforts, became a shared, if complex, concern. The call ended, leaving behind a fragile understanding and the world watching.",
         "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-4",
+        "headline": "The Fading Light of Aid",
+        "content": "The last truck pulled away, its cargo hold empty, its mission unfulfilled. The U.S.-backed Gaza Humanitarian Foundation announced its shuttering, a final, somber act. Amidst the relentless conflict and insurmountable logistical mazes, the noble effort had faltered. For the civilian population, already mired in desperation, this closure meant a gaping hole in the vital lifeline of aid. The dream of alleviating suffering dimmed, replaced by the harsh reality of a besieged land. The foundation's end was not just an administrative decision, but a profound loss for countless souls clinging to survival.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 24"
+      },
+      {
+        "id": "story-1764147219193-5",
+        "headline": "A Glimmer of Hope for the Detained",
+        "content": "A federal judge's decree pierced the silent walls of migrant detention centers. No longer would individuals remain in legal limbo; the Trump administration was mandated to provide bond hearings. This ruling, a beacon of justice, reshaped the landscape for thousands held at the U.S. border. It affirmed their fundamental legal rights, promising a chance at due process and the possibility of temporary release. The wheels of bureaucracy, once sluggish, were now compelled to turn faster, offering a glimmer of hope where only uncertainty had resided. For many, it was a first step towards freedom.",
+        "originalSource": "The Guardian",
         "publishedTime": "7 hours ago"
       }
     ]
