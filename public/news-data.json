@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764128593523,
+  "timestamp": 1764132492830,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764128524737-0",
-        "headline": "Trump Administration Initiates Cruel Review Targeting Vulnerable Refugees from Previous Policies",
-        "content": "The Trump administration has launched a review of refugees admitted under a previous administration, seeking to identify reasons to disqualify them from remaining in the United States. This action raises significant concerns about xenophobia and the systemic targeting of vulnerable populations, potentially disrupting lives and undermining international humanitarian commitments.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764128524737-1",
-        "headline": "FBI Inquiry Into Lawmakers Raising Alarm Over Unlawful Orders Raises Free Speech Concerns",
-        "content": "Six Democratic lawmakers are facing an FBI inquiry after releasing a video urging military personnel and the intelligence community to refuse unlawful orders. This development, following President Trump's allegations of 'seditious' behavior, sparks serious concerns about potential government overreach and the suppression of essential dissent, especially when safeguarding constitutional principles.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764128524737-2",
-        "headline": "Judicial Oversight Upholds Rule of Law, Dismissing Politically Motivated Cases Due to Illegal Appointment",
-        "content": "A federal judge has dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling found that the special prosecutor was illegally appointed, underscoring the vital importance of judicial independence and proper legal procedure against potentially politically motivated prosecutions. The Justice Department is considering an appeal.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-3",
-        "headline": "President Trump and Xi Jinping Engage in Discussions Amidst Complex Global Challenges of Trade, Sovereignty, and Peace",
-        "content": "President Trump and Chinese leader Xi Jinping have discussed a range of pressing global issues. U.S. and Chinese officials confirmed talks centered on ongoing trade imbalances, the sensitive issue of Taiwan's sovereignty, and the urgent need for diplomatic solutions to achieve peace in Ukraine, highlighting the interconnected nature of global systemic challenges.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-4",
-        "headline": "Systemic Energy Market Failures Leave Millions of Americans Facing Power Shutoffs and Unmanageable Debt",
-        "content": "A deepening financial crisis driven by surging energy costs is disproportionately impacting U.S. households. This systemic failure in energy policy and market regulation is forcing a growing number of Americans to confront power shutoffs and accumulate crippling debt, exposing critical gaps in social safety nets and the urgent need for equitable energy access.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764128524737-5",
-        "headline": "New Social Media Transparency Tool Uncovers Potential Foreign Influence and Manipulation in Online Discourse",
-        "content": "Elon Musk's social media platform, X, has rolled out a new feature revealing the geographic origins of various accounts. This initiative immediately led to surprising discoveries regarding the true base of several popular accounts, highlighting the pervasive systemic issues of online manipulation and the critical need for greater transparency in digital public forums.",
-        "originalSource": "CBS News",
+        "id": "story-1764132422507-0",
+        "headline": "FBI Inquiry into Lawmakers Questioning Unlawful Orders Raises Concerns About Free Speech and Political Weaponization",
+        "content": "A federal inquiry initiated by the FBI, reportedly spurred by President Trump's 'seditious' allegations, is seeking interviews with six Democratic Congress members who urged military personnel to refuse unlawful orders. This action raises significant concerns about the potential for political weaponization of federal agencies and the chilling effect it could have on elected officials' ability to advocate against potentially unethical or illegal government directives. The right of service members to refuse unlawful orders is a fundamental principle, and an investigation into lawmakers who champion this right appears to prioritize political vendettas over democratic principles and ethical oversight.",
+        "originalSource": "CBS News / AP News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764132422507-1",
+        "headline": "Dismissal of Justice Department Complaint Against Federal Judge Highlights Need for Judicial Independence from Political Pressure",
+        "content": "A misconduct complaint lodged by the Justice Department against a prominent federal judge in Washington D.C. has been dismissed by a court official. While framed as a 'win' for the judge, this development underscores the critical importance of maintaining judicial independence and preventing politically motivated attacks on the judiciary. The Justice Department's attempt to pursue administrative action against a member of the judiciary raises questions about potential abuses of power and the systemic vulnerability of judges who may rule against executive branch interests. True accountability for all, including those in power, is essential for a just system.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-2",
+        "headline": "Federal Judge Demands Bond Hearings for Detained Migrants, Upholding Fundamental Due Process Rights Against Trump Administration Policies",
+        "content": "In a crucial victory for human rights and due process, a federal judge has mandated that the President Trump administration provide bond hearings to all detained migrants. This ruling directly challenges the administration's often-criticized detention policies at the U.S. border, which have drawn widespread condemnation for their inhumane conditions and denial of fundamental legal protections. Immigrant rights advocates hail the decision as a necessary step towards ensuring basic human dignity and legal recourse for individuals seeking asylum and refuge, exposing the systemic injustices inherent in policies that prioritize punitive measures over compassion and legal rights.",
+        "originalSource": "The Guardian (US)",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-3",
+        "headline": "President Trump Politicizes Thanksgiving Turkey Pardon, Undermining Democratic Norms and Suggesting Unequal Justice",
+        "content": "President Trump leveraged the traditional White House Thanksgiving Turkey Pardon ceremony to deliver politically charged remarks, starkly contrasting the fortunate birds with the fate he suggested for his political opponents. This inappropriate use of a symbolic national event to mock and threaten those who disagree with him represents a concerning erosion of democratic norms and signals a willingness to weaponize the power of the presidency against dissent. Such rhetoric from the highest office undermines the principle of equal justice under the law and suggests a system where political loyalty dictates outcomes, rather than fairness and impartiality.",
+        "originalSource": "AP News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764132422507-4",
+        "headline": "Lawsuit Alleges Trump Administration Housing Official Abused Power to Target Critics, Highlighting Systemic Misconduct",
+        "content": "Representative Eric Swalwell (D-CA) has initiated a lawsuit contending that Bill Pulte, a housing official within the President Trump administration, systematically misused his government position to target and harass critics of President Trump. The lawsuit points to Pulte's prior actions of submitting criminal referrals for investigations into Swalwell and other vocal opponents, raising serious questions about the politicization of government roles and potential abuses of power. This alleged misconduct underscores a concerning pattern where public office is used as a tool for political retribution, rather than serving the public interest, exposing a systemic issue within the administration's approach to dissent.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764132422507-5",
+        "headline": "Tyson Plant Closure in Nebraska Exposes Systemic Vulnerabilities in Corporate-Controlled Food System, Harming Workers and Rural Communities",
+        "content": "The impending closure of a major Tyson beef processing plant in Nebraska is poised to inflict severe economic hardship on a community heavily dependent on its operations, alongside broader impacts on ranchers nationwide. This decision starkly highlights the systemic fragility and corporate consolidation within the U.S. agricultural sector, where profit motives often override community well-being and job security. The closure underscores the urgent need for policies that prioritize local economies, workers' rights, and a resilient, equitable food supply chain, rather than allowing large corporations to dictate the fate of entire regions and the nation's food production.",
+        "originalSource": "AP News",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764128524737-0",
-        "headline": "Trump administration orders review of refugees who entered under Biden, memo shows",
-        "content": "The Trump administration has directed a review of refugees admitted under former President Joe Biden, aiming to identify potential reasons that would disqualify them from being able to stay in the United States. This memo initiates a process to scrutinize past admissions.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764128524737-1",
-        "headline": "FBI opens inquiry into Democrats over 'illegal orders' video",
-        "content": "Six Democratic lawmakers are facing a federal inquiry by the FBI after they recorded a video urging military service members and the intelligence community to refuse unlawful orders, a message President Trump publicly alleged was \"seditious\" and led to an uproar.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764128524737-2",
-        "headline": "Judge dismisses cases against James Comey, Letitia James after finding the prosecutor was illegally appointed",
-        "content": "A federal judge has dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling found that the special prosecutor who brought the criminal referrals was appointed illegally, leading the Justice Department to consider an appeal.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-3",
-        "headline": "Trump, Xi discussed trade, Taiwan and Ukraine on phone call, U.S. and Chinese officials say",
-        "content": "President Donald Trump and Chinese leader Xi Jinping discussed a range of issues on a recent phone call. U.S. and Chinese officials confirmed they talked about ongoing trade disputes, the sensitive status of Taiwan, and the U.S.-backed effort to achieve peace in Ukraine.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-4",
-        "headline": "Americans face power shutoffs and mounting debt as energy costs surge",
-        "content": "A growing financial crisis is impacting U.S. households as energy costs surge nationwide. Consequently, a rising number of Americans are now facing the grim reality of power shutoffs due to non-payment and are accumulating significant, mounting debt related to their essential utility bills.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764128524737-5",
-        "headline": "X's new feature reveals surprising origins of some popular accounts",
-        "content": "Elon Musk's social media platform, X, has unveiled a new feature that allows users to view the geographic base of various accounts. This addition has immediately led to a number of surprising discoveries and revelations regarding the true origins of several popular and high-profile accounts.",
-        "originalSource": "CBS News",
+        "id": "story-1764132422507-0",
+        "headline": "FBI seeks interviews with Democratic lawmakers who urged troops to defy illegal orders",
+        "content": "Six Democratic Congress members are facing a federal inquiry after they appeared in a video calling on military service members to refuse unlawful orders. President Trump had alleged the message was \"seditious,\" prompting the FBI to open the inquiry and seek interviews with the lawmakers involved.",
+        "originalSource": "CBS News / AP News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764132422507-1",
+        "headline": "Judge dismisses Justice Department’s misconduct complaint against a federal judge in DC",
+        "content": "A court official has thrown out the Justice Department's misconduct complaint filed against a high-profile federal judge in Washington D.C. This dismissal marks a significant win for the judge and deals a blow to the Justice Department's efforts to pursue administrative action against members of the judiciary.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-2",
+        "headline": "Judge orders Trump administration to provide bond hearings to detained migrants",
+        "content": "A federal judge has issued a new order that requires the Trump administration to offer bond hearings to migrants who are currently being held in detention. The ruling is a key victory for immigrant rights advocates and impacts the ongoing debate over detention policies at the US border.",
+        "originalSource": "The Guardian (US)",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-3",
+        "headline": "Trump pardons turkeys — but not his political opponents — at annual ceremony",
+        "content": "President Trump participated in the annual White House tradition of pardoning the National Thanksgiving Turkey. During the ceremony, the President used the opportunity to make political remarks, suggesting his political opponents would not be as fortunate as the pardoned birds, referencing ongoing legal and political battles.",
+        "originalSource": "AP News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764132422507-4",
+        "headline": "Swalwell's lawsuit claims Trump housing official abused post to target critics",
+        "content": "Representative Eric Swalwell (D-CA) has filed a lawsuit alleging that a housing official in the Trump administration, Bill Pulte, misused his government position to target critics of the former President. Pulte had previously submitted criminal referrals for investigations into Swalwell and other vocal Trump critics.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764132422507-5",
+        "headline": "Tyson’s beef plant closure in Nebraska will impact a reliant town and ranchers nationwide",
+        "content": "The upcoming closure of a major Tyson beef processing plant in Nebraska is set to cause significant economic strain on the surrounding community that relies on the facility. The decision highlights broader volatility and concerns within the US agricultural sector for ranchers and the national meat supply chain.",
+        "originalSource": "AP News",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764128524737-0",
-        "headline": "President Trump Ensures National Security by Reviewing All Refugees Admitted Under Previous Administration.",
-        "content": "President Trump's administration has wisely initiated a comprehensive review of all refugees who entered the United States under the previous administration, aiming to uphold national security and the rule of law. This crucial directive seeks to identify any individuals who may not meet the stringent requirements for residency, safeguarding our borders and our nation's integrity from potential threats.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764128524737-1",
-        "headline": "FBI Investigates Radical Democrats for Urging Military to Disobey Orders, Undermining National Cohesion.",
-        "content": "The FBI has commendably opened an inquiry into six Democratic lawmakers who recorded a deeply troubling video, brazenly urging our brave military service members and intelligence community to defy lawful orders. This dangerous act, which President Trump rightly labeled \"seditious,\" directly assaults the foundational principles of military discipline and national unity, deserving thorough investigation to protect our institutions.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764128524737-2",
-        "headline": "Illegally Appointed Prosecutor's Cases Against Comey and James Rightfully Dismissed by Federal Judge.",
-        "content": "A federal judge has rightly dismissed cases targeting former FBI Director James Comey and New York Attorney General Letitia James, ruling that the special prosecutor who initiated these criminal referrals was appointed illegally. This decision underscores the paramount importance of due process and lawful procedure in our justice system, ensuring that even those we may disagree with are subject only to legitimate legal challenges, not political machinations.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-3",
-        "headline": "President Trump Engages Chinese Leader Xi on Trade, Taiwan, and Ukraine, Prioritizing American Interests.",
-        "content": "President Trump demonstrated strong leadership in a recent phone call with Chinese leader Xi Jinping, addressing critical issues including persistent trade disputes, the sensitive geopolitical status of Taiwan, and America's steadfast commitment to fostering peace in Ukraine. This direct engagement highlights President Trump's dedication to robust diplomacy and advancing American interests on the global stage.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-4",
-        "headline": "Soaring Energy Costs Under Current Policies Leave American Families Drowning in Debt and Facing Power Shutoffs.",
-        "content": "A devastating financial crisis is engulfing countless American households as ill-conceived energy policies continue to drive utility costs skyward. Hardworking citizens are now confronting the harsh reality of power shutoffs and accumulating insurmountable debt, a direct consequence of policies that undermine economic liberty and fail to prioritize affordable energy for our nation's families.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764128524737-5",
-        "headline": "X Platform Unveils Critical Transparency Feature Exposing True Origins of Popular Accounts, Upholding Digital Integrity.",
-        "content": "Elon Musk's social media platform, X, has introduced a vital new feature enabling users to ascertain the geographic origins of various accounts, fostering crucial transparency. This innovation is already yielding significant revelations about the true base of many popular and influential accounts, empowering users with knowledge and promoting a more honest digital public square, free from hidden agendas.",
-        "originalSource": "CBS News",
+        "id": "story-1764132422507-0",
+        "headline": "FBI Investigates Democrats Accused of Undermining Military Discipline and National Security",
+        "content": "Six Democratic members of Congress are now facing a federal inquiry after appearing in a video that urged military service members to refuse 'unlawful' orders. President Trump had rightly labeled the message as 'seditious,' prompting the FBI to launch an investigation and seek interviews with the lawmakers involved. This grave matter concerns the integrity of our armed forces and the rule of law.",
+        "originalSource": "CBS News / AP News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764132422507-1",
+        "headline": "Judicial Independence Upheld as Misconduct Complaint Against D.C. Federal Judge Is Dismissed",
+        "content": "A court official has properly dismissed the Justice Department's misconduct complaint filed against a prominent federal judge in Washington D.C. This decision is a crucial victory for the judge, reaffirming the independence of the judiciary and dealing a blow to administrative overreach that could politicize our courts.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-2",
+        "headline": "Judicial Activism Threatens Border Security as Judge Mandates Hearings for Detained Migrants",
+        "content": "A federal judge has issued a new order that requires President Trump's administration to offer bond hearings to migrants currently held in detention. This ruling represents a significant blow to our nation's border security efforts and undermines the executive branch's vital role in controlling who enters our country, emboldening those who advocate for open borders.",
+        "originalSource": "The Guardian (US)",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-3",
+        "headline": "President Trump Delivers Witty Rebuke to Opponents During Traditional Thanksgiving Turkey Pardon",
+        "content": "President Trump proudly participated in the cherished annual White House tradition of pardoning the National Thanksgiving Turkey. During the ceremony, the President characteristically used the opportunity to deliver pointed political remarks, suggesting his political opponents would not be as fortunate as the pardoned birds, highlighting the ongoing legal and political battles he bravely faces.",
+        "originalSource": "AP News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764132422507-4",
+        "headline": "Partisan Democrat Swalwell Files Frivolous Lawsuit Against Trump Official Over Legitimate Oversight",
+        "content": "Representative Eric Swalwell (D-CA), a vocal critic, has filed a lawsuit alleging that a housing official in President Trump's administration, Bill Pulte, misused his government position to target critics of the President. This appears to be another politically motivated attack, as Pulte had previously submitted criminal referrals that were simply seeking accountability for Swalwell and other outspoken adversaries.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764132422507-5",
+        "headline": "American Ranchers and Food Security Endangered by Tyson Beef Plant Closure in Nebraska",
+        "content": "The impending closure of a major Tyson beef processing plant in Nebraska is set to inflict significant economic hardship on the local community, which relies heavily on the facility. This decision highlights broader volatility and serious concerns within the vital US agricultural sector, jeopardizing the livelihoods of hardworking American ranchers and our national meat supply chain.",
+        "originalSource": "AP News",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764128524737-0",
-        "headline": "President Trump Orders Grand Census Of Refugees, Demands To Know If Any Are Secretly Enjoying Themselves",
-        "content": "In a groundbreaking move to ensure no stone remains unturned, President Trump's administration has launched an exhaustive review of refugees admitted under his predecessor. The ambitious project aims to uncover any \"potential reasons\" that might disqualify them, ranging from owning a suspiciously well-maintained bicycle to possessing an alarmingly positive outlook on life. Insiders report the memo explicitly asks, \"Are they *too* happy? Because that's a red flag.\"",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764128524737-1",
-        "headline": "FBI Investigates Democratic Lawmakers For Unpatriotically Suggesting People Obey The Law",
-        "content": "Six Democratic lawmakers are now under federal scrutiny by the FBI for an egregious act of civic responsibility: creating a video that encouraged military and intelligence personnel to *refuse unlawful orders*. President Trump, clearly shaken by this unprecedented call for adherence to legal statutes, swiftly labeled the message \"seditious,\" prompting an immediate inquiry into why anyone would ever suggest following rules that weren't specifically *his* rules.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764128524737-2",
-        "headline": "Judge Rules Entire Legal Process Null And Void After Discovering Prosecutorial 'Oopsie'",
-        "content": "In a stunning display of bureaucratic integrity, a federal judge has tossed out cases against former FBI Director James Comey and New York Attorney General Letitia James, not on the merits, but because the special prosecutor was, well, *illegally appointed*. Apparently, the entire legal edifice crumbled when it was discovered someone forgot to properly fill out Form 7B/Auxiliary-Delta-Prime, leading to the Justice Department's profound internal debate over whether to appeal the undeniable fact they messed up.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-3",
-        "headline": "President Trump Solves World's Problems During Leisurely Phone Chat With Chinese Leader Xi",
-        "content": "In a historic display of global diplomacy, President Trump reportedly addressed the entirety of the world's most intractable problems during a recent phone call with Chinese leader Xi Jinping. Sources close to the situation confirm the two leaders casually brushed over trade imbalances, the \"delicate\" situation regarding Taiwan, and the ever-present quest for peace in Ukraine, presumably all while simultaneously checking their notifications and wondering what's for dinner.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-4",
-        "headline": "Americans Discover Hidden Talents For Candle-Making And Debt Accrual As Energy Bills Skyrocket",
-        "content": "In a surprising surge of national ingenuity, millions of Americans are reportedly rediscovering the joys of pre-industrial living as soaring energy costs push them into a new era of darkness. With power shutoffs becoming the new normal, households are embracing candlelight and developing innovative new methods for accumulating \"significant, mounting debt\" on essential utilities, proving once again that necessity is the mother of financially crippling invention.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764128524737-5",
-        "headline": "X Unveils Groundbreaking Feature Revealing Shocking Truth: Some Online Accounts Are Not From Your Basement",
-        "content": "Elon Musk's social media platform, X, has revolutionized online transparency with a new feature that finally allows users to view the geographic origins of various accounts. Early findings are already sending shockwaves, with countless users reportedly gasping in disbelief that their favorite \"authentic American patriot\" account is, in fact, operating out of a small basement in Minsk, confirming suspicions held by anyone who has ever spent five minutes on the internet.",
-        "originalSource": "CBS News",
+        "id": "story-1764132422507-0",
+        "headline": "FBI Launching Extensive Investigation into Democrats Who Dared Suggest Troops Follow Law, Not Just Any Orders",
+        "content": "Six Democratic Congress members are reportedly under the microscope of federal investigators for the heinous crime of appearing in a video that, shockingly, urged military service members to obey legal orders and, you know, not unlawful ones. President Trump, clearly discerning the profound threat this posed to the very fabric of, well, something, swiftly labeled the message \"seditious,\" prompting the FBI to embark on what promises to be a very serious and absolutely necessary inquiry into whether following the law is now an act of treason.",
+        "originalSource": "CBS News / AP News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764132422507-1",
+        "headline": "Justice Department's Attempt to 'Admonish' Judge Goes Awry When Judge Apparently Adjudicates Justice Department's Admonition",
+        "content": "In a stunning display of judicial self-preservation, a court official has unceremoniously tossed out the Justice Department's rather ambitious misconduct complaint against a prominent federal judge in Washington D.C. This setback is being hailed as a \"significant win\" for the judge, who presumably now gets to keep doing judge things, and a \"significant blow\" to the Justice Department, which must now find other, less judge-y, ways to keep judges in line, or perhaps just sigh dramatically.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-2",
+        "headline": "Federal Judge, Apparently Tired of Basic Human Rights Being Ignored, Orders Trump Administration to Give Detained Migrants Hearings",
+        "content": "In a move that some are calling \"shockingly humane\" and others \"just basic legal procedure,\" a federal judge has bravely mandated that the Trump administration actually provide bond hearings to migrants currently languishing in detention. This ruling is being lauded as a \"key victory\" for immigrant rights advocates, who presumably thought \"due process\" was already a thing, and promises to add a fascinating new layer of debate to whether people should get to, you know, argue their case before a judge.",
+        "originalSource": "The Guardian (US)",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-3",
+        "headline": "President Trump Graciously Pardons Turkeys, Reminds Nation His Opponents Lack Feathery Appeal and Legal Immunity",
+        "content": "At the annual White House spectacle of avian mercy, President Trump, ever the humanitarian, extended a full pardon to the National Thanksgiving Turkey, sparing it from a rather obvious fate. During the solemn event, President Trump took a moment to muse aloud about how his political adversaries were, tragically, not nearly as lucky as the feathered fowl, subtly hinting that their legal and political battles lacked the delightful simplicity of a presidential pardon for merely existing. The turkeys, meanwhile, remained conspicuously silent on their newfound freedom.",
+        "originalSource": "AP News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764132422507-4",
+        "headline": "Housing Official, Apparently Bored with Housing, Allegedly Weaponized His Office to Target President Trump's Critics",
+        "content": "Representative Eric Swalwell (D-CA) has courageously filed a lawsuit alleging that Bill Pulte, a housing official in the President Trump administration, found himself with so much extra time on his hands he decided to embark on a thrilling new hobby: using his government position to \"target critics\" of President Trump. Pulte, not content with merely ensuring adequate housing, had previously submitted a series of \"criminal referrals\" for investigations into Swalwell and other individuals who dared to voice opinions not entirely synchronized with the administration.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764132422507-5",
+        "headline": "Nebraska Town Braces for Economic Catastrophe as Tyson Plant Closes, Forcing Residents to Actually Cook Their Own Beef",
+        "content": "In a devastating blow to the very fabric of American convenience, a major Tyson beef processing plant in Nebraska is slated for closure, promising to unleash unprecedented economic turmoil on the unsuspecting community that had, until now, naively relied on it. This decision, experts warn, will send ripples of existential dread throughout the entire US agricultural sector, forcing ranchers nationwide to ponder the truly terrifying question of who will process their cows into neat, consumer-ready packages, and leaving citizens to wonder if they'll ever again experience the joy of pre-sliced steak.",
+        "originalSource": "AP News",
+        "publishedTime": "8 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764128524737-0",
-        "headline": "President Trump Wants to Check on People Who Moved Here",
-        "content": "President Trump's team is going to look at people who came to America when Joe Biden was in charge. They want to make sure everyone should still be allowed to live here. It's like checking if everyone followed the rules to move in.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764128524737-1",
-        "headline": "FBI is Looking Into Lawmakers Who Made a Video",
-        "content": "Some lawmakers who are Democrats are in trouble with the FBI. They made a video telling soldiers and spies not to listen to \"bad orders.\" President Trump said this was very wrong, like trying to cause trouble, and a lot of people got mad about it.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764128524737-2",
-        "headline": "A Judge Said Some Cases Cannot Go Forward",
-        "content": "A judge stopped some legal cases against a person named James Comey and another named Letitia James. The judge said that the lawyer who started these cases was not picked in the right way. So, the government might try to fight this decision later.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-3",
-        "headline": "President Trump Talked to China's Leader on the Phone",
-        "content": "President Trump recently called the leader of China, named Xi Jinping. They talked about many important things, like how they trade things between their countries, the special island of Taiwan, and trying to help make peace in Ukraine.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-4",
-        "headline": "Many People Cannot Pay Their Electric Bills",
-        "content": "It's getting really expensive for families in America to pay for electricity and gas. Because of this, more and more people are having their power turned off. They are also getting a lot of debt because they can't afford their bills.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764128524737-5",
-        "headline": "X Now Shows Where Popular Accounts Really Are From",
-        "content": "The social media app X, which Elon Musk owns, has a new tool. It lets you see where popular accounts on the app are actually located in the world. People are already finding out surprising things about where some famous accounts come from!",
-        "originalSource": "CBS News",
+        "id": "story-1764132422507-0",
+        "headline": "FBI Wants to Talk to Lawmakers Who Told Soldiers to Say No",
+        "content": "Some people in Congress made a video telling soldiers they do not have to follow bad orders. President Trump thought this was a big problem and said it was wrong. Now, the FBI is asking the lawmakers who made the video to answer some questions.",
+        "originalSource": "CBS News / AP News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764132422507-1",
+        "headline": "A Judge Says Another Judge Didn't Do Anything Wrong",
+        "content": "The Justice Department said a judge in Washington D.C. did something bad. But another important person, a court official, looked at it and said 'no'. They threw out the complaint, which means the judge is okay, and the Justice Department did not win this time.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-2",
+        "headline": "President Trump's Team Must Let Migrants Ask for Bail",
+        "content": "A judge made a new rule that says people who are held in jail because they came to the country can now ask to leave if they promise to come back for court. This is a big win for people who want to help immigrants and changes how President Trump's team handles people at the border.",
+        "originalSource": "The Guardian (US)",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-3",
+        "headline": "President Trump Pardons Turkeys and Jokes About People He Doesn't Like",
+        "content": "Every year, President Trump gets to save some turkeys from being eaten for Thanksgiving. This year, he did it again! But he also joked that some people he doesn't agree with, who are having problems, would not be as lucky as the turkeys he saved.",
+        "originalSource": "AP News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764132422507-4",
+        "headline": "A Lawmaker Says President Trump's Worker Used His Job Badly",
+        "content": "A person in Congress named Eric Swalwell is saying that someone who worked for President Trump in housing used his important job to cause problems for people who spoke out against President Trump. This worker had even tried to get them investigated before.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764132422507-5",
+        "headline": "A Big Meat Factory Closing Will Hurt Town and Cow Farmers",
+        "content": "A very big factory that makes beef, called Tyson, is going to close in a place called Nebraska. This is a really big deal because the town there needs that factory for jobs and money. It is also going to make things tough for farmers who raise cows all over the country and could affect how much meat we have.",
+        "originalSource": "AP News",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764128524737-0",
-        "headline": "Shadows Over Sanctuary",
-        "content": "The quiet hum of the White House offices masked a new directive, a ripple across the nation's welcome mat. President Trump’s administration initiated a sweeping review, a deep dive into the histories of those who sought refuge during the previous term. Each file, a life story, was now under unprecedented scrutiny. Agents meticulously combed through applications, seeking any misstep, any overlooked detail that might justify a change in status. The goal was clear: to identify grounds for disqualification, to reassess every welcome extended. A silent tremor of uncertainty began to spread among those who believed their new lives were secure.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764128524737-1",
-        "headline": "Echoes of Disobedience",
-        "content": "The video clip, a digital whisper, rippled through the nation's highest offices. Six democratic lawmakers, their faces earnest, urged military and intelligence personnel to question authority, to refuse any order deemed unlawful. President Trump, from his podium, condemned it as sedition, a dangerous erosion of duty. Soon, the quiet hum of the FBI’s inquiry began, a federal investigation sparked by a message meant to stir consciences. Questions of loyalty, command, and the fine line between dissent and defiance now hung heavy in the air, a silent tension gripping the Capitol and beyond.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764128524737-2",
-        "headline": "A Question of Authority",
-        "content": "The gavel’s echo brought silence to the courtroom, then a ripple of surprise. A federal judge had ruled: the accusations against James Comey and Letitia James, weighty as they were, were suddenly moot. The architect of their legal battles, a special prosecutor, had been appointed without proper authority, his mandate now declared invalid. The very foundation of the cases crumbled, leaving the Justice Department to weigh its next move. An appeal loomed, a fight to restore what was now seen as a flawed pursuit of justice, leaving two high-profile figures momentarily unbound.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-3",
-        "headline": "The Global Chessboard",
-        "content": "Across continents, a phone line hummed, connecting two titans. President Trump and Chinese leader Xi Jinping engaged in a conversation that echoed through global markets and geopolitical hotspots. Their agenda was dense: the thorny thicket of trade disputes, the precarious balance surrounding Taiwan, and the complex, U.S.-backed pursuit of peace in Ukraine. Each topic a piece on a vast chessboard, moved by leaders whose words could shift destinies. Officials from both nations confirmed the broad strokes, hinting at the delicate dance of power and diplomacy unfolding in a single, high-stakes exchange.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764128524737-4",
-        "headline": "The Winter's Chill",
-        "content": "The quiet click of the circuit breaker became a symphony of despair across the nation. As energy costs soared, a chilling darkness began to descend upon American homes. Families, once comfortable, now wrestled with impossible choices: food or heat, medicine or light. The bills grew, a silent, mounting avalanche of debt, until the inevitable happened. Power lines went dead, plunging homes into cold and silence, a stark symbol of a widening financial chasm. The warmth and light, once a given, were now luxuries, snatched away by an invisible crisis gripping every household.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764128524737-5",
-        "headline": "Unmasking the Digital Self",
-        "content": "The digital curtain began to lift on the X platform. A new feature, quietly rolled out, allowed a peek behind the avatars, revealing the true geographic heart of popular accounts. What followed was a cascade of revelations. Influencers thought local were global, voices assumed domestic hailed from distant shores. The carefully curated personas, the illusion of proximity, crumbled under the weight of transparent data. Users scrolled, surprised, as the digital landscape reshaped itself, exposing the hidden addresses and sometimes startling origins of the voices that had once seemed so familiar.",
-        "originalSource": "CBS News",
+        "id": "story-1764132422507-0",
+        "headline": "The Echo of Defiance",
+        "content": "The screen glowed, six faces urging caution, \"Defy unlawful orders.\" A message meant to uphold democracy, twisted into treason by powerful whispers. President Trump, from his podium, deemed it \"seditious,\" and the echo rippled. Soon, the FBI’s formal requests arrived, seeking explanations from those who dared to question. They had spoken of conscience, of oaths to the Constitution, not to any man. Now, their resolve would be tested not on the battlefield, but in hushed government offices, where words could become weapons against themselves.",
+        "originalSource": "CBS News / AP News",
         "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764132422507-1",
+        "headline": "The Unyielding Bench",
+        "content": "The gavel never fell in public, but the legal skirmish had been fierce. A high-profile federal judge in Washington D.C., a pillar of the bench, found herself ensnared by the Justice Department's accusations of misconduct. They sought to stain her record, to diminish her authority. Yet, in a quiet triumph, a court official’s decision landed like a silent pronouncement: complaint dismissed. The judicial bulwark held. For the judge, it was vindication; for the Justice Department, a significant setback in their pursuit of control over the very foundations of justice.",
+        "originalSource": "AP News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-2",
+        "headline": "A Whisper of Freedom",
+        "content": "Behind razor wire, countless lives hung suspended, their futures a cruel lottery of policy and procedure. Migrants, held in detention, waited for a voice, a chance. Then, a federal judge’s order resonated through the facilities, a mandate from the bench: President Trump’s administration must now offer bond hearings. It was a beacon, a long-awaited crack in the wall of indefinite detention. Advocates for immigrant rights cheered, seeing a glimmer of due process restored. The border debate raged on, but for those behind bars, a whisper of hope had finally broken through.",
+        "originalSource": "The Guardian (US)",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764132422507-3",
+        "headline": "The President's Holiday Mercy",
+        "content": "The White House lawn shimmered, festive lights aglow. Two lucky turkeys, named Corn and Cob, stood before President Trump, their reprieve secured. The annual Thanksgiving ritual unfolded, a symbol of mercy. But as the President addressed the cameras, a different kind of message emerged. His smile held a glint of steel. He spoke of others, less fortunate, caught in the web of legal and political battles, explicitly stating his opponents would not receive such clemency. The birds trotted off to their happy retirement, while the political shadows lengthened over the holiday cheer.",
+        "originalSource": "AP News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764132422507-4",
+        "headline": "The Weaponized Pen",
+        "content": "The official’s hand, once meant to serve, allegedly became a weapon. Representative Eric Swalwell’s lawsuit painted a stark picture: Bill Pulte, a housing official in President Trump’s administration, accused of leveraging his government post to silence dissent. Before, Pulte had sent referrals for investigations into Swalwell and other vocal critics, weaving a tapestry of intimidation. Now, the courtroom became the new arena. The complaint wasn't just about political jabs; it was about the dangerous erosion of public trust, where authority could be twisted to target perceived enemies instead of upholding civic duty.",
+        "originalSource": "CBS News / PBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764132422507-5",
+        "headline": "The Silence of the Machines",
+        "content": "In the heart of Nebraska, a silent tremor shook a town built on industry. The giant Tyson beef processing plant, once a pulsating hub of employment, announced its imminent closure. For generations, families had clocked in there, their livelihoods intertwined with the hum of machinery. Now, silence loomed. The economic lifeblood of the community threatened to drain away, leaving behind empty storefronts and broken dreams. Its ripple effect would spread far beyond, unsettling ranchers nationwide and highlighting the fragile, volatile nature of America’s essential food supply chain. A town held its breath, braced for the quiet desolation.",
+        "originalSource": "AP News",
+        "publishedTime": "8 hours ago"
       }
     ]
   }
