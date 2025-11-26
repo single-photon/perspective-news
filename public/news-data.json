@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764140357765,
+  "timestamp": 1764142502478,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764140280362-0",
-        "headline": "FBI Inquiry Into Democratic Lawmakers Raises Concerns About Political Weaponization of Military Protocol and Dissent",
-        "content": "The FBI is reportedly seeking interviews with six Democratic House members who created a video encouraging military service members to defy orders they deemed unlawful. This move comes after President Trump accused the lawmakers of 'sedition,' igniting a federal inquiry that raises serious concerns about the weaponization of legal processes against political speech and the potential chilling effect on legitimate dissent within the military regarding potentially unlawful commands. This situation underscores systemic issues in how challenges to authority are handled in a polarized political climate.",
-        "originalSource": "Associated Press (AP) / CBS News / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764140280362-1",
-        "headline": "President Trump's Administration Initiates Cruel Review of Refugees Admitted Under Biden, Threatening Vulnerable Lives",
-        "content": "The Trump administration has ordered a review of refugees granted admission to the U.S. during President Joe Biden's term. This effort, framed as identifying 'disqualifying factors,' is a deeply concerning move that threatens the safety and stability of vulnerable individuals who have already sought refuge. This tightening of immigration policy under President Trump signals a systemic disregard for humanitarian principles and could lead to widespread instability and fear among refugee communities.",
+        "id": "story-1764142430850-0",
+        "headline": "President Trump's Annual Turkey Pardon Diverts Attention from Pressing Systemic Issues",
+        "content": "In a yearly White House spectacle, President Trump officially pardoned two turkeys, Gobble and Waddle, sparing them from the Thanksgiving dinner table. While this tradition offers a brief, lighthearted distraction, it stands in stark contrast to the urgent systemic issues of food insecurity, industrial animal agriculture, and economic inequality that persist across the nation, often unaddressed by the current administration.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-2",
-        "headline": "Federal Judge Rejects President Trump's Politically Motivated Cases Against Critics Due to Illegal Appointment of Prosecutor",
-        "content": "A federal judge has dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The decision, stemming from the finding that the special prosecutor overseeing these investigations was illegally appointed, represents a crucial setback for the Trump administration's efforts to weaponize the legal system against its political adversaries. This ruling highlights systemic issues of executive overreach and the improper targeting of critics through flawed legal processes.",
-        "originalSource": "PBS News / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-3",
-        "headline": "President Trump Uses Traditional Thanksgiving Ceremony to Unleash Divisive Attacks on Opponents",
-        "content": "During the annual White House turkey pardoning ceremony, President Trump granted a reprieve to the two national turkeys, Gobble and Waddle. However, the event was notably overshadowed by the President's sharp political rhetoric, which he used as a platform to deliver critical remarks aimed at his political opponents. This use of a traditional, unifying ceremony for partisan attacks underscores a troubling pattern of divisiveness in the nation's highest office, eroding shared cultural moments for political gain.",
-        "originalSource": "Associated Press (AP) / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-4",
-        "headline": "Representative Eric Swalwell Sues Trump-Appointed Official for Systemic Abuse of Power Against Political Critics",
-        "content": "Democratic Representative Eric Swalwell has filed a lawsuit against Bill Pulte, a housing official appointed by President Trump, alleging a blatant abuse of official position. Pulte reportedly submitted multiple criminal referrals targeting prominent critics of President Trump, including Swalwell, Sen. Adam Schiff, and New York Attorney General Letitia James. This legal action highlights a systemic issue of government officials potentially weaponizing their positions to suppress dissent and target political opposition.",
-        "originalSource": "CBS News / PBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764140280362-5",
-        "headline": "DHS Secretary Kristi Noem Defies Judicial Order, Forcibly Deporting Vulnerable Individuals to El Salvador",
-        "content": "The Department of Justice (DOJ) has confirmed that DHS Secretary Kristi Noem made the final decision to hand over a group of deportees to El Salvador, directly defying a judge's order that stipulated their flights must return to the United States. This alarming disregard for judicial authority raises serious questions about the rule of law and the administration's willingness to override legal protections for vulnerable individuals. This action represents a systemic failure to uphold due process and could have devastating human rights consequences.",
+        "id": "story-1764142430850-1",
+        "headline": "President Trump's Administration Initiates Discriminatory Review of Refugees, Raising Grave Humanitarian Concerns",
+        "content": "A recently unveiled memo reveals President Trump's administration is launching a comprehensive and alarming review of all refugees who entered the U.S. under the previous Biden administration. This order signifies a significant and deeply troubling shift in immigration policy, appearing to weaponize 'security concerns' as a pretext to target vulnerable populations and dismantle crucial humanitarian protections, reflecting a broader anti-immigrant agenda.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764142430850-2",
+        "headline": "Federal Judge Compels President Trump's Administration to Grant Basic Rights to Detained Migrants",
+        "content": "A landmark federal court ruling has mandated that President Trump's administration provide bond hearings for detained migrants, a crucial victory for human rights and due process. This decision directly challenges the administration's often-inhumane detention policies, offering migrants a fundamental opportunity to argue for release while their asylum claims and cases are pending, pushing back against a system designed to deny justice.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764142430850-3",
+        "headline": "FBI Scrutiny of Democrats Advocating Against Illegal Orders Raises Free Speech and Accountability Questions",
+        "content": "The FBI is reportedly seeking interviews with several House Democrats who participated in a video encouraging military personnel to refuse orders deemed illegal. This development escalates a significant political and legal controversy, raising concerns about potential political intimidation and the vital principle of ensuring accountability within the military, where upholding the Constitution must supersede blind obedience to unlawful directives.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-4",
+        "headline": "Wealthy Senator Jim Justice Finally Pays Millions in Back Taxes, Highlighting Systemic Tax Evasion by the Elite",
+        "content": "West Virginia Senator Jim Justice, a prominent Republican, has reached a settlement to pay approximately $5.2 million in long-overdue back taxes and penalties. This resolution, while welcome, underscores the systemic issue of wealthy individuals and corporations evading their financial responsibilities, which ultimately deprives essential public services—like education and healthcare—of crucial funding and exacerbates economic inequality for working families.",
+        "originalSource": "CBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-5",
+        "headline": "U.S. Dispatches Envoys to Moscow in Bid to Advance Diplomatic Resolution to Ukraine Conflict",
+        "content": "In a critical diplomatic initiative, the U.S. is sending two envoys to Moscow to engage in talks aimed at fostering a U.S.-backed effort to bring an end to the devastating war in Ukraine. This long-overdue diplomatic push by President Trump's administration signals an acknowledgment of the urgent humanitarian need for de-escalation and peace, emphasizing that only through dialogue can a lasting resolution be found for the conflict's systemic roots.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764140280362-0",
-        "headline": "FBI seeks interviews with Democratic lawmakers who urged US troops to defy 'illegal orders'",
-        "content": "The FBI is reportedly seeking interviews with six Democratic House members who recorded a video asking military service members not to follow orders they deemed unlawful. The message, which prompted accusations of 'sedition' from former President Trump, has led to a federal inquiry as part of a highly charged political and legal conflict over military protocol and political speech.",
-        "originalSource": "Associated Press (AP) / CBS News / PBS News",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764142430850-0",
+        "headline": "Trump pardons turkeys Gobble and Waddle in annual tradition",
+        "content": "President Trump continued the annual White House Thanksgiving tradition by officially pardoning two national turkeys named Gobble and Waddle. The lighthearted event precedes the Thanksgiving holiday, securing the birds' freedom from the dinner table in front of a national audience.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-1",
+        "id": "story-1764142430850-1",
         "headline": "Trump administration orders review of refugees who entered under Biden, memo shows",
-        "content": "The Trump administration has directed a review of refugees admitted into the U.S. during the former President Joe Biden's term. This effort is aimed at identifying any potential disqualifying factors that could prevent these individuals from remaining in the country. The move signals a tightening of immigration policy under the new administration.",
+        "content": "A recently revealed memo shows the Trump administration is initiating a comprehensive review of all refugees admitted into the U.S. during the previous Biden administration. The order signals a major shift in immigration policy, focusing on security concerns and re-evaluating past admissions criteria.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-2",
-        "headline": "Judge dismisses cases against James Comey and Letitia James after prosecutor was found illegally appointed",
-        "content": "A federal judge dismissed the cases against former FBI Director James Comey and New York Attorney General Letitia James. The decision came after a finding that the special prosecutor leading the investigations into them was illegally appointed, dealing a setback to the Trump administration's legal actions against its political adversaries.",
-        "originalSource": "PBS News / Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764142430850-2",
+        "headline": "Judge orders Trump administration to provide bond hearings to detained migrants",
+        "content": "A federal judge issued a ruling requiring the Trump administration to offer bond hearings for detained migrants, marking a significant development in immigration law. The decision aims to give migrants the opportunity to argue for release while their cases are pending, challenging current detention policies.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764140280362-3",
-        "headline": "Trump spares turkeys, but criticizes opponents at annual Thanksgiving pardoning ceremony",
-        "content": "During the annual White House turkey pardoning ceremony ahead of Thanksgiving, President Trump granted a reprieve to the two national turkeys, Gobble and Waddle. However, the event was also used as a platform to deliver sharp political rhetoric, with the president making critical remarks directed at his political opponents.",
-        "originalSource": "Associated Press (AP) / Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764142430850-3",
+        "headline": "FBI seeks interviews with Democrats who appeared in video urging troops to defy illegal orders",
+        "content": "The FBI is reportedly looking to interview several House Democrats who participated in a video that encouraged military personnel to refuse orders they deemed illegal. The move escalates a political and legal controversy regarding the separation of civilian authority and military obedience.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 25"
       },
       {
-        "id": "story-1764140280362-4",
-        "headline": "Rep. Eric Swalwell sues housing official who issued criminal referrals for Trump critics",
-        "content": "Democratic Representative Eric Swalwell has filed a lawsuit against a Trump-appointed housing official, Bill Pulte, alleging abuse of his official position. Pulte had submitted multiple criminal referrals targeting prominent Trump critics, including Swalwell, Sen. Adam Schiff, and New York Attorney General Letitia James, prompting the legal action.",
-        "originalSource": "CBS News / PBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764140280362-5",
-        "headline": "DOJ says Noem made final decision not to return deportation flights after judge's order",
-        "content": "The Department of Justice (DOJ) stated that DHS Secretary Kristi Noem ultimately decided to allow a group of deportees to be handed over to El Salvador. This action was taken despite a judge's order stipulating that their flights must be returned to the United States, raising questions about compliance with judicial orders on immigration.",
+        "id": "story-1764142430850-4",
+        "headline": "West Virginia Sen. Jim Justice agrees to pay nearly $5.2 million in back taxes",
+        "content": "West Virginia Senator Jim Justice, a Republican, has reached a settlement to pay approximately $5.2 million in back taxes and associated penalties. The resolution of the long-running tax dispute comes as the Senator remains a high-profile figure in state and national politics.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-5",
+        "headline": "U.S. to send envoy to Moscow to discuss proposals to end Ukraine war",
+        "content": "The U.S. is dispatching two envoys to Moscow to engage in talks aimed at advancing a U.S.-backed effort to resolve the ongoing war in Ukraine. This diplomatic push signals an attempt by the Trump administration to build on recent progress in peace talks between the warring nations.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764140280362-0",
-        "headline": "FBI Investigates Democratic Lawmakers Who Incited Military Disobedience Against Lawful Orders",
-        "content": "Reports indicate the FBI is pursuing interviews with six Democratic House members following their alarming video urging military service members to defy orders they unilaterally declared 'unlawful.' This blatant attempt to undermine military protocol and chain of command, rightly labeled 'sedition' by President Trump, has triggered a federal inquiry. Such actions gravely threaten the bedrock principles of our nation's defense and the liberty of our citizens, demanding accountability for those who seek to destabilize our armed forces.",
-        "originalSource": "Associated Press (AP) / CBS News / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764140280362-1",
-        "headline": "President Trump's Administration Initiates Crucial Review of Refugees Admitted Under Previous Lax Policies",
-        "content": "President Trump's administration has commendably ordered a thorough review of all refugees admitted into the United States during the previous administration's tenure. This vital effort aims to identify and address any disqualifying factors that could compromise our nation's security and ensure that only those who genuinely qualify remain. This decisive action underscores a renewed commitment to secure borders, the rule of law, and the protection of American citizens, correcting the dangerous oversights of the past.",
+        "id": "story-1764142430850-0",
+        "headline": "President Trump Upholds Cherished American Tradition with Annual Turkey Pardon",
+        "content": "President Trump proudly continued a treasured White House Thanksgiving tradition, granting official pardons to the national turkeys, Gobble and Waddle. This heartwarming event, a beacon of American heritage preceding the Thanksgiving holiday, symbolically secures the birds' freedom, reminding us of the liberties we hold dear, all witnessed by a grateful nation.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-2",
-        "headline": "Questionable Technicality Halts Pursuit of Justice Against Comey and James",
-        "content": "In a perplexing turn, a federal judge has dismissed significant cases against former FBI Director James Comey and New York Attorney General Letitia James. The ruling, based on a finding that the special prosecutor was technically ' illegally appointed,' regrettably impedes the pursuit of accountability for these prominent figures. This outcome highlights how procedural missteps can unfortunately obstruct justice and allow powerful individuals to evade scrutiny, a concerning trend for the rule of law.",
-        "originalSource": "PBS News / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-3",
-        "headline": "President Trump Delivers Strong Message to Critics While Upholding Thanksgiving Tradition",
-        "content": "During the cherished annual White House Thanksgiving turkey pardoning ceremony, President Trump graciously granted a reprieve to the national turkeys, Gobble and Waddle. Seizing the opportunity, President Trump also powerfully addressed his political adversaries, reinforcing his unwavering commitment to America's future and ensuring the truth is spoken, even amidst celebratory traditions. His candid remarks underscored the ongoing battle for our nation's values.",
-        "originalSource": "Associated Press (AP) / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-4",
-        "headline": "Leftist Representative Swalwell Attempts to Silence Official Who Exposed Potential Misconduct of Trump Opponents",
-        "content": "Radical Democratic Representative Eric Swalwell has initiated a lawsuit against President Trump-appointed housing official Bill Pulte, absurdly claiming 'abuse of official position.' This desperate legal action comes after Pulte courageously submitted multiple criminal referrals concerning prominent critics of President Trump, including Swalwell himself, Senator Adam Schiff, and New York Attorney General Letitia James. This lawsuit appears to be a blatant attempt to intimidate and silence honest public servants who seek accountability for powerful figures.",
-        "originalSource": "CBS News / PBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764140280362-5",
-        "headline": "DHS Secretary Noem Prioritizes National Security, Upholds Deportation Amidst Judicial Interference",
-        "content": "The Department of Justice has confirmed that steadfast DHS Secretary Kristi Noem made the decisive choice to proceed with the lawful transfer of a group of deportees to El Salvador. This crucial action was taken despite an activist judge's order demanding their return to the United States. Secretary Noem's commitment underscores the imperative to secure our borders and uphold national sovereignty, even when faced with judicial overreach that threatens our immigration enforcement policies. Her decision bravely prioritizes the safety and integrity of our nation.",
+        "id": "story-1764142430850-1",
+        "headline": "President Trump's Administration Initiates Crucial Review of Refugee Admissions from Previous Era",
+        "content": "In a decisive move to bolster national security and restore order, a newly disclosed memo confirms President Trump's administration is launching an exhaustive review of all refugee admissions that occurred under the prior Biden administration. This vital directive underscores a significant realignment of immigration policy, prioritizing America's safety and re-evaluating the lax admission criteria that jeopardized our nation's integrity.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764142430850-2",
+        "headline": "Federal Judge Undermines Border Security with Controversial Order on Migrant Bond Hearings",
+        "content": "A federal judge has issued a deeply concerning ruling, compelling President Trump's administration to provide bond hearings for detained migrants, a development that poses a significant challenge to our nation's immigration enforcement. This decision risks undermining established detention policies and could compromise border security by allowing individuals to argue for release while their complex legal cases remain unresolved, weakening the rule of law at a critical time.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764142430850-3",
+        "headline": "FBI Investigates Democrats for Inciting Disobedience Among Our Brave Military Personnel",
+        "content": "The Federal Bureau of Investigation is reportedly seeking interviews with several House Democrats regarding their participation in a video that alarmingly encouraged military personnel to defy what they arbitrarily deemed 'illegal orders.' This action escalates a serious political and legal controversy, raising grave concerns about the erosion of civilian authority over our armed forces and the dangerous precedent of political figures urging our troops to abandon their sworn duty.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-4",
+        "headline": "West Virginia's Senator Jim Justice Resolves Significant Tax Dispute, Demonstrating Accountability",
+        "content": "West Virginia Senator Jim Justice, a prominent Republican voice, has reportedly finalized a settlement to remit approximately $5.2 million in outstanding taxes and penalties. This resolution of a protracted tax dispute underscores the importance of fiscal responsibility and accountability for all citizens, even as the Senator continues to play a vital role in both state and national political discourse.",
+        "originalSource": "CBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-5",
+        "headline": "President Trump's Administration Dispatches Envoys to Moscow in Bold Push for Ukraine Peace",
+        "content": "In a demonstration of strong American leadership and a commitment to global stability, President Trump's administration is deploying two envoys to Moscow. This critical diplomatic mission aims to advance a U.S.-backed initiative to bring a swift and just resolution to the ongoing conflict in Ukraine, building upon recent promising developments in peace talks between the involved nations and asserting American influence for peace.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764140280362-0",
-        "headline": "FBI Astounded By Democratic Lawmakers' Brilliant New Military Strategy: 'Just Say No!'",
-        "content": "Six Democratic House members have reportedly captivated the FBI's attention after unveiling a groundbreaking new military protocol: soldiers should simply refuse orders they personally deem 'illegal.' Sources close to the investigation suggest agents are struggling to grasp the revolutionary concept, which President Trump immediately lauded as 'sedition'—possibly out of jealousy for not inventing it first. This bold move promises to usher in an era where military efficiency is secondary only to individual moral compasses, turning every battlefield into a highly personalized ethical debate.",
-        "originalSource": "Associated Press (AP) / CBS News / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764140280362-1",
-        "headline": "President Trump Demands Retroactive Refugee Background Checks For 'Questionable Shoe Choices' Made Under Previous Administration",
-        "content": "In a decisive move to ensure only the most impeccably vetted individuals reside within U.S. borders, President Trump's administration has launched an unprecedented review of every single refugee admitted during President Joe Biden's tenure. Insiders suggest the intense scrutiny aims to uncover any 'disqualifying factors,' ranging from undisclosed allergies to a vague 'un-American aura.' Immigration officials are reportedly working tirelessly to determine if any refugee ever, God forbid, wore mismatched socks or expressed a mild preference for tea over coffee, thereby jeopardizing national security and their right to remain in the land of the free.",
+        "id": "story-1764142430850-0",
+        "headline": "President Trump Grants Turkeys Gobble and Waddle Lifetime Diplomatic Immunity, Appoints Them Official White House 'Feathered Advisors'",
+        "content": "In a move hailed by poultry activists and bewildered chefs nationwide, President Trump majestically pardoned two exceptionally ordinary turkeys, Gobble and Waddle, bestowing upon them not just freedom from the dinner table but also unprecedented diplomatic status. The White House confirmed the birds would immediately begin their new roles as 'Feathered Advisors,' tasked with, among other things, offering silent judgments on official state dinners and possibly developing a groundbreaking new foreign policy involving birdseed. Sources close to the administration suggest this pivotal decision ensures 'no turkey left behind' and solidifies America's commitment to avian freedom, setting a new global standard for poultry protection.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-2",
-        "headline": "Trump Administration's Brilliant Legal Strategy Thwarted By Annoying 'Legality' Technicality",
-        "content": "A federal judge has cruelly dismantled two impeccably crafted cases against former FBI Director James Comey and New York Attorney General Letitia James, citing the most mundane of reasons: the special prosecutor was 'illegally appointed.' This shocking revelation has sent ripples through legal circles, as President Trump's administration expressed dismay that such a minor administrative hiccup could derail their otherwise flawless plan to hold political adversaries accountable. Apparently, simply *wanting* someone to be a prosecutor isn't quite enough for the picky judicial system.",
-        "originalSource": "PBS News / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-3",
-        "headline": "President Trump Mercifully Pardons Turkeys, But Not The Souls Of His Political Adversaries, During Holiday Address",
-        "content": "In a touching display of holiday magnanimity, President Trump gallantly spared the lives of Gobble and Waddle, the nation's two luckiest turkeys, during the annual White House pardoning ceremony. However, in an unexpected turn that surely surprised no one, the festive occasion quickly pivoted into a scathing, no-holds-barred critique of his political opponents. Sources close to the turkeys reported hearing remarks like, 'Even these turkeys have better judgment than some people,' confirming that while the poultry lived to see another day, the president's adversaries were metaphorically roasted to a crisp.",
-        "originalSource": "Associated Press (AP) / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-4",
-        "headline": "Housing Official Discovers New Hobby: Investigating Political Opponents With Authority He Definitely Doesn't Have",
-        "content": "Representative Eric Swalwell has initiated a legal skirmish against Bill Pulte, a President Trump-appointed housing official, who apparently moonlights as a self-appointed criminal referral guru. Pulte, whose official duties likely involve housing-related matters, decided instead to launch a one-man crusade, issuing criminal referrals against high-profile Trump critics like Swalwell, Sen. Adam Schiff, and Letitia James. Swalwell's lawsuit humorously suggests that perhaps a housing official's job description doesn't explicitly include 'prosecuting political rivals,' much to Pulte's obvious disappointment.",
-        "originalSource": "CBS News / PBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764140280362-5",
-        "headline": "DHS Secretary Finds Innovative New Method To 'Comply' With Judicial Orders: Simply Don't",
-        "content": "The Department of Justice has confirmed that DHS Secretary Kristi Noem, in a bold display of administrative ingenuity, personally greenlit the transfer of deportees to El Salvador. This decision, insiders reveal, was made with full awareness of a judge's prior order explicitly stating the flights *must* be returned to the United States. Observers are now wondering if this marks a groundbreaking new era of judicial interpretation where 'must' is merely a suggestion, and international airlines are now operating under the thrilling 'choose your own adventure' model.",
+        "id": "story-1764142430850-1",
+        "headline": "President Trump Orders 'Refugee Rewind,' Demanding All Immigrants Admitted Under Previous Administration Prove They Didn't Secretly Prefer Brand X Mayonnaise",
+        "content": "In a monumental administrative undertaking, the Trump administration has launched a nationwide 'refugee rewind,' ordering an exhaustive re-evaluation of every single refugee admitted during the preceding Biden era. A leaked memo indicates the rigorous new screening process will not only re-examine security concerns but also delve into their past condiment preferences, shoe-tying methods, and whether they ever, even once, subtly hinted at favoring a political figure not named 'Trump.' Experts predict the review could take decades, mainly due to the sheer volume of mayonnaise preference questionnaires.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764142430850-2",
+        "headline": "Federal Judge Forces Trump Administration to Host 'Migrant's Got Talent' Bond Hearings, Where Freedom Hinges on a Captivating Performance",
+        "content": "A federal judge, clearly operating on a previously unknown legal precedent, has mandated that the Trump administration must now provide 'bond hearings' for detained migrants. This revolutionary ruling means individuals can argue for their release while their cases are pending, effectively transforming detention centers into impromptu audition stages. Critics within the administration are reportedly scrambling to find qualified judges for the new 'Migrant's Got Talent' proceedings, fearing that the upcoming 'tap-dancing for asylum' trend could severely strain judicial resources and security protocols.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764142430850-3",
+        "headline": "FBI Investigates Democrats for 'Thought Crimes' After Suggesting Troops Might Consider Thinking for Themselves About 'Illegal Orders'",
+        "content": "The Federal Bureau of Investigation has reportedly launched a full-scale probe into several House Democrats, not for any actual crime, but for the mere suggestion that military personnel might, in a hypothetical scenario, pause to consider the legality of an order before blindly following it. Sources close to the investigation confirm the FBI is meticulously searching for evidence of 'critical thinking contagion' among the lawmakers, fearing that such independent thought could lead to a catastrophic breakdown of the sacred 'orders are orders' military mantra, possibly even resulting in troops asking 'why?'",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-4",
+        "headline": "West Virginia Senator Jim Justice Discovers Missing $5.2 Million in Back Taxes Tucked Away in Old Winter Coat Pocket",
+        "content": "In a stunning display of fiscal responsibility, West Virginia Senator Jim Justice has magnanimously agreed to pay a paltry $5.2 million in back taxes and penalties, claiming the funds were simply 'misplaced' somewhere between his couch cushions and a forgotten winter coat. The Senator, a prominent figure in state and national politics, assured constituents it was merely a minor oversight, not an evasion, and promised to implement a new 'check my pockets before laundry day' policy to avoid future 'misplacements' of eight-figure sums.",
+        "originalSource": "CBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-5",
+        "headline": "President Trump Dispatches Two Enthusiastic Envoys to Moscow Armed Solely With 'Strongly Worded Suggestion' and Bag of Skittles to End Ukraine War",
+        "content": "In a bold diplomatic maneuver, President Trump has dispatched two highly-credentialed envoys to Moscow, entrusted with a singular mission: to end the protracted war in Ukraine. Sources reveal the 'U.S.-backed effort' consists primarily of a single, strongly-worded suggestion on a napkin and a family-sized bag of Skittles, intended to 'sweeten the deal.' The administration expressed extreme confidence, noting that previous complex global conflicts have often been resolved with surprisingly simple gestures, usually involving candy.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764140280362-0",
-        "headline": "The FBI Wants to Talk to Lawmakers Who Told Soldiers to Not Listen to Orders",
-        "content": "The FBI wants to ask some lawmakers from the Democratic party questions. These lawmakers made a video telling soldiers that they shouldn't follow orders they thought were against the rules. President Trump got very upset about this, saying it was like trying to cause trouble. Now, there's a big investigation happening because people are disagreeing about what soldiers should do and what politicians are allowed to say.",
-        "originalSource": "Associated Press (AP) / CBS News / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764140280362-1",
-        "headline": "President Trump's Team Will Check On People Who Came Here Before",
-        "content": "President Trump's team has said they want to look at all the refugees who came into the United States when Joe Biden was president. They want to check if there are any reasons why these people shouldn't be allowed to stay here. This shows that President Trump's government is making the rules for people moving to America much tougher.",
+        "id": "story-1764142430850-0",
+        "headline": "President Trump Saves Two Turkeys from Being Dinner",
+        "content": "Every year before Thanksgiving, President Trump does a cool thing. He picks two special turkeys, named Gobble and Waddle this time, and says they don't have to be eaten for Thanksgiving dinner. It's a fun White House tradition that everyone gets to watch, and it means these two birds get to live happily ever after!",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-2",
-        "headline": "A Judge Said Lawsuits Against Two People Must Stop Because of a Mistake",
-        "content": "A judge has said that some important cases against James Comey, who used to run the FBI, and Letitia James, who is a top lawyer for New York, must stop. This happened because the special person in charge of looking into their cases was found to have been put in that job illegally. This was a bit of a problem for President Trump's government, which was trying to bring legal actions against people they saw as opponents.",
-        "originalSource": "PBS News / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-3",
-        "headline": "President Trump Saves Turkeys But Still Criticizes People He Doesn't Like",
-        "content": "Just before Thanksgiving, President Trump had a special party at the White House where he told two turkeys, named Gobble and Waddle, that they were free and wouldn't be eaten. But during this fun event, President Trump also spent time talking about how much he didn't like some of his political opponents, saying mean things about them.",
-        "originalSource": "Associated Press (AP) / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-4",
-        "headline": "A Politician Is Suing Someone Who Tried to Get President Trump's Critics in Trouble",
-        "content": "Eric Swalwell, who is a politician from the Democratic party, has started a lawsuit against a person named Bill Pulte. Bill Pulte was put into a job by President Trump to work on housing. Eric Swalwell says that Bill Pulte used his job in a bad way by trying to get many people who speak out against President Trump into legal trouble. These people included Eric Swalwell himself, Adam Schiff, and Letitia James, which is why Eric Swalwell decided to sue.",
-        "originalSource": "CBS News / PBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764140280362-5",
-        "headline": "A Government Leader Did Not Follow a Judge's Order About Bringing People Back",
-        "content": "The Department of Justice, which is like the government's lawyer, said that Kristi Noem made the final choice. She decided that a group of people who were being sent away from the country should go to El Salvador. This happened even though a judge had said that their planes needed to come back to the United States. This situation made people wonder if the government was listening to what the judge ordered about who can come and go from the country.",
+        "id": "story-1764142430850-1",
+        "headline": "President Trump's Team Will Check People Who Came to the USA Before",
+        "content": "A new paper shows that President Trump's team wants to look closely at all the people who came to America as refugees when the last president, Mr. Biden, was in charge. They want to make sure everyone is safe and that the rules for letting people in are good.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764142430850-2",
+        "headline": "A Judge Says People in Jail Can Ask to Get Out While Waiting",
+        "content": "A super important judge has told President Trump's team that people who are held in jail because they came to the country without permission should get a chance to ask to go home while they wait for their court date. This means they might not have to stay in jail for a long time before someone decides what happens to them.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764142430850-3",
+        "headline": "FBI Wants to Talk to Lawmakers About a Video for Soldiers",
+        "content": "The FBI wants to chat with some lawmakers who made a video. In the video, they told soldiers it was okay to say no to orders that felt wrong or against the law. This is a big deal because it's about what soldiers should do and who gets to tell them what's right.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-4",
+        "headline": "Senator Jim Justice Will Pay Back a Lot of Money He Owed",
+        "content": "Senator Jim Justice from West Virginia has agreed to pay about 5.2 million dollars that he owed in taxes from a long time ago, plus some extra money because he was late. This big problem about his taxes is now finished, and he is still a very important person in politics.",
+        "originalSource": "CBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-5",
+        "headline": "America Sends People to Russia to Help Stop the War",
+        "content": "America is sending two special helpers to Russia to talk about how to stop the big war happening in Ukraine. President Trump's team wants to keep working on making peace, especially after some good talks have already happened between the countries fighting.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764140280362-0",
-        "headline": "The Whispers of Disobedience in the Ranks",
-        "content": "A video surfaced, its message a potent seed sown in the fertile ground of military protocol: defy orders deemed unlawful. Six Democratic House members, earnest and resolute, recorded the plea, unknowingly igniting a political firestorm. Accusations of 'sedition' echoed from President Trump, fueling a federal inquiry. Now, the FBI sought interviews, their questions sharp, dissecting the delicate balance between a soldier's duty and a citizen's conscience. The political and legal conflict over speech and military obedience had begun, its tendrils reaching into the very heart of the nation's armed forces, seeking clarity amidst the clamor.",
-        "originalSource": "Associated Press (AP) / CBS News / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764140280362-1",
-        "headline": "Checking the Welcome Mat for Recent Arrivals",
-        "content": "A new directive rippled through the bureaucratic corridors: scrutinize every refugee admitted during President Biden's term. The Trump administration, with surgical precision, sought to identify any 'disqualifying factors' that might revoke their tenuous welcome. Memo in hand, agents began the painstaking process, sifting through lives uprooted and hopes replanted, now subject to review. This wasn't merely an administrative task; it was a clear signal, a tightening grip on the nation’s borders and a stark redefinition of compassion. For those who had found a haven, the unsettling review cast a long shadow, uncertain of their future.",
+        "id": "story-1764142430850-0",
+        "headline": "Feathered Freedom at the Capitol's Heart",
+        "content": "A hush fell over the White House lawn. Gobble and Waddle, two plump turkeys, nervously ruffled their feathers. This was no ordinary pre-Thanksgiving morning for them; their fate hung precariously. Then, President Trump, with a flourish, declared their freedom. A collective sigh of relief, audible only to the poultry, swept through the capital. No carving knife, no roasting pan—just open fields and sweet corn for these lucky birds. The annual tradition, a lighthearted reprieve, underscored a moment of grace amidst the nation's hustle, ensuring Gobble and Waddle would live to strut another day, far from the holiday feast.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1764140280362-2",
-        "headline": "A Legal Misstep Undoing Grand Ambitions",
-        "content": "The gavel fell, echoing a decisive blow in the legal theater. A federal judge dismissed cases against former FBI Director James Comey and New York Attorney General Letitia James. The reason: a fatal flaw in the prosecution's foundation. The special prosecutor, hand-picked for these high-profile investigations, was found illegally appointed. This wasn't a minor oversight; it was a legal Achilles' heel, crippling the Trump administration's efforts to pursue its political adversaries. The meticulously built legal actions crumbled, a stark reminder that even the most determined pursuits must adhere to the bedrock of legal procedure, lest they fall apart.",
-        "originalSource": "PBS News / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-3",
-        "headline": "Thanksgiving's Sharp-Tongued Feast of Rhetoric",
-        "content": "Beneath the festive White House canopy, a ritual unfolded. President Trump, with a flourish, granted reprieve to Gobble and Waddle, the nation's fortunate turkeys, sparing them from the holiday table. Yet, the air wasn't solely filled with gratitude. The annual pardoning ceremony, a traditionally lighthearted affair, quickly transformed into a political arena. President Trump seized the platform, his words sharp and unsparing, aimed squarely at his political opponents. The act of mercy for two birds became a backdrop for pointed criticism, weaving the solemnity of tradition with the cutting edge of political discourse, a uniquely American Thanksgiving.",
-        "originalSource": "Associated Press (AP) / Sky News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764140280362-4",
-        "headline": "A Political Official's Reckoning in Court",
-        "content": "The legal gauntlet was thrown. Democratic Representative Eric Swalwell initiated a lawsuit against Bill Pulte, a housing official appointed by President Trump, alleging a blatant abuse of power. Pulte, with an assertive hand, had submitted multiple criminal referrals targeting prominent critics of President Trump – names like Swalwell himself, Senator Adam Schiff, and New York Attorney General Letitia James. This wasn't a quiet bureaucratic process; it was weaponized official capacity, a clear attempt to silence dissent through legal intimidation. Swalwell's lawsuit marked a direct challenge, demanding accountability for what he perceived as a politicized misuse of authority.",
-        "originalSource": "CBS News / PBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764140280362-5",
-        "headline": "The Unheeded Judicial Decree on Deportation Flights",
-        "content": "The Department of Justice confirmed the stark decision: DHS Secretary Kristi Noem chose to hand a group of deportees over to El Salvador. This action unfolded despite a clear judicial order mandating their return flights to the United States. The judge's decree, intended to uphold due process, was effectively sidestepped, raising a barrage of questions about the administration's compliance with legal mandates. A line had been drawn, and crossed. For those awaiting justice or reprieve, the decision solidified their fate outside American borders, casting a shadow on the judiciary's authority and the enforceability of its orders.",
+        "id": "story-1764142430850-1",
+        "headline": "Shadows Over Sanctuary in the Capital",
+        "content": "The ink on the new memo was still wet, but its implications spread like wildfire. A comprehensive review, it decreed, for every refugee welcomed under the previous administration. President Trump’s administration, asserting a dramatic shift, sought to re-evaluate admissions based on stringent new security criteria. For those who had found solace on American soil, the news cast a long shadow of uncertainty. Homes built, lives started, now hung in the balance, subject to an unseen scrutiny. The promise of sanctuary felt fragile, a delicate weave threatened by a sudden, decisive policy change at the highest levels of government.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764142430850-2",
+        "headline": "A Glimmer of Hope in the Holding Cells",
+        "content": "The federal judge’s gavel struck, echoing a new possibility across the detention centers. No longer would migrants languish indefinitely without a voice; President Trump's administration was now compelled to offer bond hearings. It was a beacon of hope, a chance for individuals to plead their case for release while navigating the labyrinthine immigration system. The ruling challenged established detention policies, asserting a fundamental right to argue for freedom. For families separated and individuals detained, this judicial decree offered a rare, vital opening—a chance to step from the shadows of confinement into the light of pending justice.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764142430850-3",
+        "headline": "The Echoes of Disobedience in the Ranks",
+        "content": "The video had gone viral: House Democrats urging military personnel to defy 'illegal orders.' Now, the quiet hum of the FBI had intensified, seeking interviews with the very lawmakers who authored the controversial message. It sparked a national debate, a legal and political firestorm questioning the delicate balance between civilian authority and military obedience. Was it a call to conscience or an incitement to insubordination? The line blurred, and the stakes escalated. As agents began their quiet inquiries, the echoes of the video resonated, testing the very foundations of command and the loyalty of the nation’s armed forces.",
+        "originalSource": "PBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-4",
+        "headline": "A Senator's Reckoning with the Numbers",
+        "content": "For years, the whispers of unpaid dues followed Senator Jim Justice like a persistent shadow. Today, those whispers solidified into a concrete figure: nearly $5.2 million in back taxes and penalties. The West Virginia Republican, a prominent figure in state and national politics, finally settled the long-running dispute. The resolution closed a chapter of financial scrutiny, yet it underscored the weight of public office and the meticulous demands of fiscal accountability. Even for the most powerful, the ledger eventually balances, requiring a reckoning that no political maneuver could indefinitely delay, demanding payment in full.",
+        "originalSource": "CBS News",
+        "publishedTime": "Nov 25"
+      },
+      {
+        "id": "story-1764142430850-5",
+        "headline": "Whispers of Peace in a War-Torn Land",
+        "content": "The global stage shifted, hopeful gazes turning toward Moscow. The U.S., under President Trump’s direction, dispatched two envoys, their mission clear: forge a path to end the brutal war in Ukraine. This diplomatic offensive signaled a strategic push, building upon recent, tentative progress in peace talks. The conflict had ravaged the landscape, claiming countless lives, but now, a renewed effort for dialogue was underway. The envoys carried not just proposals, but the collective hope for stability, for an end to the fighting, for a future where diplomacy, not devastation, defined the region's fate.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
       }
     ]
   }
