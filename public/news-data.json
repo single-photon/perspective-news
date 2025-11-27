@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764262233934,
+  "timestamp": 1764264855365,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764262153618-0",
-        "headline": "US-Backed Military Operations Implicated in Washington D.C. Shooting Incident, Highlighting Systemic Failures.",
-        "content": "The recent shooting near the White House, where Rahmanullah Lakanwal, an Afghan national, injured two National Guard members, reveals a disturbing link to a CIA-backed military unit in Afghanistan. This connection underscores the long-term, often unseen, consequences of US foreign policy and military interventions, particularly the destabilization they create in regions like Afghanistan. Rather than addressing these systemic issues, President Trump has seized upon this incident to demand a sweeping re-examination of all Afghan refugees in the US, deflecting from the complex realities of US involvement and promoting xenophobic narratives.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764262153618-1",
-        "headline": "President Trump Exploits Shooting Incident to Push Discriminatory Anti-Refugee Agenda, Ignoring Systemic Causes.",
-        "content": "In the wake of the National Guard shooting, President Trump swiftly condemned the act while simultaneously exploiting the suspect's Afghan nationality to justify a sweeping review of all Afghan refugees admitted since the 2021 withdrawal. This calculated move escalates the debate over immigration by fostering xenophobia and fear, effectively scapegoating vulnerable populations instead of addressing the complex geopolitical factors and systemic issues that lead to refugee crises, many of which are exacerbated by US foreign policy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764262153618-2",
-        "headline": "Campbell's Executive Fired for Classist Remarks, Highlighting Pervasive Disregard for Economic Inequality.",
-        "content": "Campbell Soup Company has dismissed a senior executive following allegations of offensive and insensitive comments made about \"poor people,\" exposing a stark reality of classist attitudes prevalent in corporate structures. While the company claims these remarks conflict with its stated \"core corporate values\" and commitment to inclusivity, this incident underscores the deeper systemic issue of economic disparity and the dehumanization of those struggling financially, which often goes unchallenged within capitalist frameworks. True commitment to an inclusive environment would require actively dismantling the structures that perpetuate such contempt.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764262153618-3",
-        "headline": "Corporate Pollution Forces Maine to Ban Wild Turkey Consumption Due to 'Forever Chemicals,' Revealing Systemic Environmental Failure.",
-        "content": "Maine state officials have issued a stark warning to residents, advising them to cease consuming wild turkeys after extensive testing revealed alarming concentrations of \"forever chemicals,\" or PFAS, in the birds' meat. This discovery is a grave indicator of widespread environmental contamination, directly resulting from decades of unregulated industrial pollution. It highlights a critical systemic failure in environmental protection, threatening public health, local ecosystems, and the livelihoods of communities reliant on natural resources, demanding urgent corporate accountability and robust regulatory action to protect our shared environment.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764262153618-4",
-        "headline": "Louisiana Death Row Inmate's Release Exposes Deep Systemic Flaws Within the Criminal Justice System.",
-        "content": "After decades on death row, a Louisiana inmate has been released on bail following the overturning of his conviction, shining a critical light on the profound systemic failures within the criminal justice system. This decades-old murder case, now under new scrutiny, starkly illustrates the persistent concerns about due process, wrongful convictions, and the inherent fallibility of capital punishment. This development necessitates not just further legal proceedings but a renewed national conversation about comprehensive criminal justice reform to dismantle the structures that perpetuate such grave judicial errors and disproportionately impact marginalized communities.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764262153618-5",
-        "headline": "Charges Against President Trump in Election Interference Case Reportedly Dismissed, Raising Concerns About Accountability and Systemic Equity.",
-        "content": "Reports indicate that charges against President Trump in a significant election interference case have been dismissed, marking a concerning development for those advocating for accountability and the integrity of democratic processes. This outcome, while a legal victory for President Trump amidst his numerous ongoing legal challenges related to his actions following the 2020 election, raises critical questions about the application of justice to powerful individuals and the potential for a two-tiered legal system. The sparse details surrounding this ruling further fuel anxieties about systemic fairness and the future of democratic norms.",
+        "id": "story-1764264778566-0",
+        "headline": "Tragic Violence Near White House Leaves National Guard Members Critically Wounded, Prompting Calls for Community Safety",
+        "content": "Two West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, remain in critical condition after a shooting near the White House, highlighting the pervasive issue of violence impacting our communities. The suspect, identified as an Afghan national, is in custody, and authorities are investigating the motive. This incident underscores the urgent need for comprehensive approaches to address the root causes of violence and ensure the safety of all, rather than relying on xenophobic narratives.",
         "originalSource": "Sky News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-1",
+        "headline": "Accountability Falls Short as Georgia Election Interference Case Against President Trump Concludes Amid Controversy",
+        "content": "The racketeering case regarding 2020 election interference, initially filed in 2023 against President Trump and his allies in Georgia, has been officially terminated. This decision, reportedly influenced by allegations of prosecutorial misconduct, raises serious concerns about the challenges of holding powerful figures accountable for actions that threaten democratic integrity. The abrupt end to this investigation leaves critical questions unanswered about justice for electoral interference.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764264778566-2",
+        "headline": "Decades Lost: Louisiana Man on Death Row Released After Systemic Flaws Overturn Conviction",
+        "content": "After spending decades on death row, a Louisiana man has been released on bail following the overturn of his conviction, a stark reminder of the profound flaws within our criminal justice system. New evidence and persistent legal challenges exposed the injustice, allowing him to leave prison. This case underscores the urgent need for systemic reform to prevent wrongful convictions, especially in the context of the death penalty, as the state considers a retrial or dropping all charges.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-3",
+        "headline": "As Tech Giants Push Smart Glasses, Critical Questions Arise About Privacy and Surveillance",
+        "content": "Major technology corporations are heavily investing in the smart glasses market, signaling an anticipated surge in consumer adoption. While heralded as the next frontier in wearable tech, blending augmented reality and connectivity into daily life, this trend ignites critical discussions about data privacy, constant surveillance, and the unchecked power of corporations to integrate themselves ever more deeply into personal lives. We must demand robust regulations to protect individual autonomy and prevent corporate overreach.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-4",
+        "headline": "Human Rights Advocates Celebrate Release of US Teen Mohammed Ibrahim from Israeli Detention After Nine Months",
+        "content": "US teenager Mohammed Ibrahim has finally been released from an Israeli prison after an arduous nine-month detention, a development welcomed by human rights organizations and US officials who advocated for his freedom. Details surrounding his arrest and the conditions of his release are still emerging, but his case highlights persistent concerns about due process, arbitrary detention, and the treatment of minors within the Israeli justice system. This release is a testament to the crucial work of human rights groups in challenging systemic injustices.",
+        "originalSource": "Al Jazeera",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-5",
+        "headline": "Expensive Wine Theft Highlights Stark Realities of Wealth Inequality and Systemic Disparities",
+        "content": "A high-speed chase through Virginia followed the theft of a $24,000 wine bottle by a couple, prompting authorities to pursue them dramatically. While the act of theft is clearly unacceptable, this incident inadvertently spotlights the extreme disparities in wealth and access within our society. The exorbitant value placed on luxury goods stands in stark contrast to the everyday struggles faced by many, prompting reflection on the systemic conditions that can lead to such desperate acts and the broader issue of economic injustice.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764262153618-0",
-        "headline": "Suspect in Washington DC National Guard Shooting Had Ties to CIA-Backed Unit",
-        "content": "New details link the suspect in the shooting near the White House, Rahmanullah Lakanwal, to a CIA-backed military unit in Afghanistan. The Afghan national injured two National Guard members in the incident. This connection has prompted calls from former President Trump to re-examine the vetting of all Afghan refugees in the US.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764262153618-1",
-        "headline": "Trump Calls for Re-examination of All Afghan Refugees Following DC National Guard Shooting",
-        "content": "Following the National Guard shooting, former President Donald Trump condemned the \"monstrous\" act and used the suspect's Afghan nationality to call for a sweeping review. He demanded the US \"re-examine\" all Afghan refugees admitted since the 2021 withdrawal, escalating the debate over immigration and security protocols.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764262153618-2",
-        "headline": "Campbell's Soup Firm Dismisses Executive Over Alleged 'Poor People' Comments",
-        "content": "Campbell Soup Company dismissed a senior executive after allegations surfaced regarding offensive and insensitive comments made about \"poor people.\" The company stated that the executive's remarks were in direct conflict with its core corporate values, emphasizing its commitment to an inclusive environment for both employees and diverse customer base.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764262153618-3",
-        "headline": "Wild Turkeys Taken Off Menu in Maine After 'Forever Chemicals' Found in Birds",
-        "content": "Maine state officials have strongly advised residents to stop eating wild turkeys after extensive testing revealed high concentrations of \"forever chemicals,\" or PFAS, in the birds' meat. The discovery, which signals widespread environmental contamination, has raised significant public health concerns regarding the safety of consuming local wildlife.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764262153618-4",
-        "headline": "Louisiana Death Row Inmate Released on Bail After Decades-Old Conviction Overturned",
-        "content": "A Louisiana death row inmate was released on bail after a successful appeal led to his conviction being overturned by a court. The decades-old murder case faced new scrutiny, highlighting concerns about due process. The release prompts further legal proceedings and reignites the ongoing national conversation about judicial errors in capital punishment cases.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764262153618-5",
-        "headline": "Charges Against Trump in Key Election Interference Case Reportedly Dismissed",
-        "content": "Charges against former President Donald Trump were reportedly dismissed in a major election interference case, according to recent reports. This development grants a significant legal victory to Trump amidst his multiple ongoing legal battles related to his actions following the 2020 election, though specific details on the ruling remain sparse.",
+        "id": "story-1764264778566-0",
+        "headline": "Suspect in Washington DC Shooting Identified as Afghan National; Two National Guard Members Critical",
+        "content": "Two West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, remain in critical condition after being shot near the White House. Authorities say the suspect, identified as an Afghan national who drove from Washington state, is now in custody. The motive for the attack is under investigation.",
         "originalSource": "Sky News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-1",
+        "headline": "Georgia Prosecutor Ends 2020 Election Interference Case Against Trump and Allies",
+        "content": "The Georgia prosecutor's racketeering case regarding the 2020 election interference, which was filed in 2023 against Donald Trump and his allies, has been officially ended. The case was reportedly bogged down by allegations of prosecutorial misconduct, leading to the decision to close the investigation.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764264778566-2",
+        "headline": "Louisiana Death Row Inmate Released on Bail After Conviction Overturned",
+        "content": "A Louisiana man who spent decades on death row has been released on bail following the overturn of his conviction. New evidence and legal challenges led to the ruling, allowing him to leave prison as the state decides whether to pursue a retrial or drop the charges entirely.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-3",
+        "headline": "Tech Giants Bet on Consumer Readiness to Adopt Smart Glasses Technology",
+        "content": "Major technology companies are investing heavily in the smart glasses market, signaling a belief that consumer acceptance for the wearable tech is finally increasing. This trend suggests an upcoming push for widespread adoption, blending augmented reality and connectivity into daily life accessories.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-4",
+        "headline": "US Teen Mohammed Ibrahim Released from Israeli Prison After Nine-Month Detention",
+        "content": "US teenager Mohammed Ibrahim has been released from an Israeli prison after being detained for nine months. Details surrounding his arrest and the conditions of his release are emerging. His case had garnered significant attention from human rights groups and US officials.",
+        "originalSource": "Al Jazeera",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-5",
+        "headline": "High-Speed Chase Follows $24,000 Wine Bottle Theft in Virginia",
+        "content": "A couple triggered a high-speed chase through the Virginia countryside after stealing a $24,000 wine bottle. The woman allegedly distracted a guide at a wine cellar while the man concealed bottles in his overcoat, leading to a dramatic pursuit by authorities.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764262153618-0",
-        "headline": "Terror Ties Exposed in DC Shooting as Afghan Suspect Linked to CIA Unit; President Trump Demands Refugee Vetting",
-        "content": "Disturbing revelations have emerged following the shooting near the White House, where an Afghan national, Rahmanullah Lakanwal, injured two brave National Guard members. Investigations reveal Lakanwal's troubling connections to a CIA-backed military unit in Afghanistan, raising serious questions about the integrity of our national security and immigration processes. This alarming incident underscores the critical need for robust vetting procedures for all who enter our nation, a concern rightfully championed by President Trump, who immediately called for a thorough re-examination of all Afghan refugees in the United States. Our nation's safety must always come first.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764262153618-1",
-        "headline": "President Trump Demands Sweeping Review of Afghan Refugees After 'Monstrous' DC Attack",
-        "content": "In the wake of the 'monstrous' shooting that targeted National Guard members, President Trump has once again demonstrated decisive leadership, condemning the brutal act and demanding immediate, comprehensive action. Citing the suspect's Afghan nationality, President Trump called for an urgent re-examination of all Afghan refugees admitted to the U.S. since the catastrophic 2021 withdrawal. This principled stand elevates the vital debate over immigration and security protocols, reaffirming that the safety and sovereignty of the American people are paramount and must never be compromised by lax policies.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764262153618-2",
-        "headline": "Corporate Wokeness Strikes Again: Campbell's Cans Executive Over Alleged 'Insensitive' Remarks",
-        "content": "In a concerning display of corporate overreach and the growing influence of 'cancel culture,' the Campbell Soup Company has reportedly dismissed a senior executive. The termination follows allegations of 'offensive and insensitive comments' made about 'poor people,' which the company swiftly declared a violation of its 'core corporate values.' This incident raises serious questions about the erosion of free speech in the workplace and whether corporate 'inclusivity' mandates are now being used to punish individuals for expressing views, however unpopular, that do not align with a rigid ideological agenda, rather than focusing on business merit.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764262153618-3",
-        "headline": "Maine Officials Warn Against Eating Wild Turkeys, Citing 'Forever Chemicals,' Impacting Traditional Outdoor Pursuits",
-        "content": "Maine state officials have issued a stark warning, advising citizens to cease consuming wild turkeys after tests allegedly detected high concentrations of 'forever chemicals,' known as PFAS, within the birds' meat. This directive, stemming from what is described as widespread environmental contamination, not only raises public health concerns but also directly impacts the time-honored traditions of local hunters and outdoorsmen. Such findings demand a robust examination of the actual sources of this contamination and the potential for overreaching governmental advisories to disrupt lawful, traditional activities without fully understanding the broader economic and lifestyle implications for Maine's independent-minded residents.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764262153618-4",
-        "headline": "Louisiana Inmate on Death Row Released on Bail Amid Overturned Conviction; Justice for Victims Remains Paramount",
-        "content": "In a development that reignites critical debates about justice and public safety, a Louisiana death row inmate has been released on bail after a decades-old conviction was reportedly overturned on appeal. While due process is a cornerstone of our legal system, this situation demands careful scrutiny, particularly for the victims and their families whose pursuit of justice has already endured decades. Such appeals, while addressing potential judicial errors, must not undermine the fundamental principles of law and order or compromise the safety of our communities. The ongoing legal proceedings must prioritize accountability and ensure true justice is served for all involved.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764262153618-5",
-        "headline": "President Trump Achieves Major Legal Victory as Election Interference Charges Reportedly Dismissed",
-        "content": "In a significant triumph for justice and a blow against politically motivated persecution, charges against President Trump have reportedly been dismissed in a key election interference case. This critical development marks a major legal victory for President Trump, who continues to navigate an unprecedented array of baseless legal challenges stemming from his actions following the 2020 election. While specific details remain sparse, this dismissal underscores the continued efforts to weaponize the legal system against political opponents, yet President Trump's resilience and commitment to truth continue to prevail against these targeted attacks.",
+        "id": "story-1764264778566-0",
+        "headline": "Afghan National Attacks American Guardsmen Near White House, Raising Security Concerns",
+        "content": "Two brave West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, are fighting for their lives after a horrific attack near the White House. The suspect, an Afghan national who reportedly traveled from Washington state, is now in custody, but questions loom large about how such an individual could pose a threat on American soil, especially so close to the nation's capital. This incident underscores critical vulnerabilities in our national security and the urgent need to protect our service members and tighten our borders against potential threats.",
         "originalSource": "Sky News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-1",
+        "headline": "Politically Motivated Georgia Racketeering Case Against President Trump Collapses Amid Misconduct Allegations",
+        "content": "In a victory for due process and against weaponized justice, the politically motivated racketeering case brought against President Trump and his allies in Georgia has finally been terminated. Filed in 2023 under questionable pretenses, this baseless investigation was reportedly plagued by serious allegations of prosecutorial misconduct, ultimately forcing its closure. This outcome confirms what many have long suspected: this was nothing more than a desperate attempt to interfere with the democratic process and target political opponents, now rightly exposed as an abuse of power.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764264778566-2",
+        "headline": "Louisiana Death Row Conviction Overturned, Raising Questions About Justice and Public Safety",
+        "content": "A Louisiana man who spent decades on death row has been granted release on bail after his conviction was overturned due to new evidence and legal challenges. While ensuring a fair and just legal system is paramount, this development raises serious questions for the community and victims about public safety as the state weighs a potential retrial or dropping charges entirely. Maintaining the integrity of our judicial system requires swift and decisive action to either secure a new conviction or ensure the community's safety is not compromised.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-3",
+        "headline": "Tech Giants Push Smart Glasses, Raising Concerns About Privacy and Digital Overreach",
+        "content": "Major technology companies are aggressively pouring resources into the smart glasses market, convinced that consumers are finally ready to embrace this pervasive wearable technology. This push for widespread adoption aims to integrate augmented reality and constant connectivity into every aspect of daily life, but it rightfully raises significant concerns for freedom-loving individuals. The implications for personal privacy, potential surveillance, and the erosion of authentic human interaction demand careful consideration before surrendering more of our lives to the digital realm.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-4",
+        "headline": "US Citizen Mohammed Ibrahim Released from Israeli Custody After Nine-Month Detention",
+        "content": "US teenager Mohammed Ibrahim has been released from an Israeli prison after a nine-month detention, with details regarding his arrest and release now beginning to surface. His case had drawn attention from various groups and US officials. While we expect due process for all American citizens, we also recognize the sovereign right of our allies, like Israel, to enforce their laws and protect their security, especially in a volatile region. Clarity on the circumstances is important for understanding the situation fully.",
+        "originalSource": "Al Jazeera",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-5",
+        "headline": "Law Enforcement Pursues Brazen Thieves After $24,000 Wine Bottle Heist in Virginia",
+        "content": "In a stark display of disregard for property and the rule of law, a couple initiated a high-speed chase across the Virginia countryside after brazenly stealing a $24,000 bottle of wine. Reports indicate the woman distracted a guide at a wine cellar while her accomplice pilfered the valuable bottles, demonstrating a calculated criminal act. This dramatic pursuit by authorities underscores the importance of holding individuals accountable for their actions and supporting our law enforcement officers who work tirelessly to protect citizens' property and uphold order.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764262153618-0",
-        "headline": "Local Man Who Shot National Guard Members Found To Be Product Of US Foreign Policy, Shocking Absolutely No One",
-        "content": "In a shocking twist that left no intelligence experts genuinely surprised, a man accused of shooting two National Guard members near the White House has been revealed to have once served in a CIA-backed unit in Afghanistan. Sources close to the situation, all of whom are currently filing for early retirement, noted that this development has prompted President Trump to demand a rigorous re-examination of all Afghan refugees, presumably to ensure no other US-trained individuals accidentally engage in 'friendly fire' on American soil.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764262153618-1",
-        "headline": "One Incident Prompts President Trump To Question Entire Nation's Vetting Process",
-        "content": "Following an incident involving an Afghan national, President Trump heroically declared the act 'monstrous' and promptly called for a comprehensive re-examination of every single Afghan refugee admitted since the 2021 withdrawal. 'We need to make sure we're not letting in any more people who might have, you know, connections,' President Trump stated, reportedly while pointing dramatically at a map of the world and suggesting a 'total and complete shutdown' of all vetting until further notice, just to be safe.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764262153618-2",
-        "headline": "Campbell's Soup Firm Stunned To Discover Executive Thought About Who Actually Eats Their Product",
-        "content": "In a stunning display of corporate rectitude, the Campbell Soup Company bravely fired a senior executive for allegedly making 'offensive and insensitive comments' about 'poor people.' A company spokesperson clarified that while Campbell's has always been committed to providing affordable, shelf-stable nourishment to all income brackets, it absolutely draws the line at acknowledging their existence in a derogatory way. The executive, reportedly last seen muttering about 'the irony of it all,' was quickly ushered out before he could reveal any more 'unbranded' thoughts about the company's customer base.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764262153618-3",
-        "headline": "Maine Turkeys Reportedly Now Capable Of Lasting Forever, But Still Taste Like PFAS",
-        "content": "Maine state officials have issued a grave warning: stop eating wild turkeys. Extensive testing revealed that the birds are now practically immortal, thanks to 'forever chemicals' (PFAS) saturating their meat. 'While we admire the turkeys' newfound ability to survive the apocalypse,' remarked a spokesperson for the Department of Environmental Protection, 'we strongly advise against consuming them, unless you too wish to become a permanent fixture in the ecosystem. This also explains why they’re so hard to catch now; they’ve developed an immunity to time itself.'",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764262153618-4",
-        "headline": "Louisiana Justice System Proves It Can Correct Mistakes, Given Enough Time For Earth To Revolve Billions Of Times",
-        "content": "In a groundbreaking demonstration of judicial efficiency, a Louisiana death row inmate was finally released on bail after a mere few decades of wrongful conviction. 'We're really proud of how quickly we caught this one,' stated a legal representative, reportedly wiping sweat from their brow. 'Only 30 years to realize he might not be the killer! This really shows that our system, given enough time to gather dust and potentially forget what the original evidence even looked like, can eventually right a wrong. Now, about those lost decades… we'll get back to you in another three.'",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764262153618-5",
-        "headline": "President Trump's Legal Team Confirms Charges Disappear When You Simply Wait Long Enough",
-        "content": "In a development that surprised only those who haven't been paying attention to the laws of physics, charges against President Trump in a pivotal election interference case have reportedly evaporated into the legal ether. Sources close to the situation, primarily President Trump's Twitter account, declared this a 'total and complete exoneration' and a 'witch hunt finally exposed.' Legal analysts, meanwhile, were seen frantically consulting ancient scrolls and murmuring about 'unprecedented phenomena' as the charges seemingly dissolved without a trace, proving once again that some legal battles are best won by simply outlasting the paperwork.",
+        "id": "story-1764264778566-0",
+        "headline": "Man Drives Cross-Country To Washington, DC, Mysteriously Forgetting Why He Was Mad Upon Arrival",
+        "content": "Two West Virginia National Guard members are reportedly in critical condition after a man, identified as an Afghan national, completed an epic cross-country road trip from Washington state just to shoot them near the White House. Authorities, currently baffled by the concept of 'motive,' have taken the man into custody, presumably after he realized the gas mileage on his rage-fueled odyssey wasn't worth it. The true mystery remains: did he bring snacks for the drive?",
         "originalSource": "Sky News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-1",
+        "headline": "President Trump's Georgia Case Miraculously Ends After Prosecutors Discover Themselves In Actual Legal Trouble",
+        "content": "The much-anticipated 2020 election interference case against President Trump and his alleged allies in Georgia has officially concluded, not with a bang, but with a whimper of prosecutorial misconduct. The state prosecutor, who spent years building a seemingly impenetrable wall of allegations, ultimately tripped over her own shoelaces, leading to the case's abrupt collapse. Legal experts note this marks a groundbreaking moment where the system finally decided to investigate the investigators, thereby running out of time to investigate anything else.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764264778566-2",
+        "headline": "Louisiana Man Released From Death Row After State Realizes It Might Have Had The Wrong Guy For Decades",
+        "content": "A Louisiana man, who probably thought he was going to die watching the state slowly realize its mistake, has been released on bail after his conviction was finally overturned. After spending literal decades on death row, 'new evidence' and 'legal challenges' suddenly appeared, prompting the state to consider if perhaps, just perhaps, they had the wrong guy. The man is now reportedly struggling to adapt to a world where cell phones exist and nobody uses dial-up anymore, while the state weighs whether to keep him on the hook for a retrial or just admit they messed up big time.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-3",
+        "headline": "Tech Giants Insist Humanity Is Finally Ready To Look Absolutely Foolish In Public With Smart Glasses",
+        "content": "Major technology companies are confidently pouring billions into smart glasses, believing that consumers are finally 'ready' to pay a premium to look like they're perpetually in a low-budget sci-fi movie. This new push for widespread adoption promises to seamlessly blend augmented reality with your daily life, ensuring that you can instantly see pop-up ads for coffee shops directly in your field of vision, or perhaps even accidentally record your entire commute. Privacy experts are reportedly 'thrilled' about this development, while fashion critics are simply 'resigned.'",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-4",
+        "headline": "Teenager Released From Israeli Prison After Nine-Month Vacation, Returns To Discover TikTok Still Exists",
+        "content": "US teenager Mohammed Ibrahim has finally been released from an Israeli prison after a bewildering nine-month detention that garnered significant attention from human rights groups and US officials. Details surrounding his arrest and the conditions of his release are slowly 'emerging,' which in diplomatic terms means 'we're still trying to figure out what happened.' The teen reportedly expressed surprise that the world outside hadn't fundamentally changed, particularly lamenting the continued dominance of short-form video apps.",
+        "originalSource": "Al Jazeera",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-5",
+        "headline": "Couple Executes Daring Heist For $24,000 Bottle Of Wine That Tastes Exactly Like All The Other Wine",
+        "content": "A Virginia couple, clearly aficionados of both fine wine and poor life choices, led authorities on a high-speed chase after absconding with a single bottle of vino valued at a mind-boggling $24,000. The alleged caper involved the woman distracting a guide while her partner, undoubtedly a connoisseur of overcoats, cleverly stashed the liquid gold. Critics are divided: Was it a brilliant act of daring, or just an extremely expensive way to get a headache?",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764262153618-0",
-        "headline": "The Man Who Shot Guards Might Have Worked for the CIA",
-        "content": "Someone shot two National Guard people near the White House. The person who did it, Rahmanullah Lakanwal, might have worked with a special army group in Afghanistan that the CIA helped. President Trump said that because of this, the US should check all the people from Afghanistan who came here again.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764262153618-1",
-        "headline": "President Trump Wants to Recheck All Afghan People Who Came Here",
-        "content": "After someone shot National Guard members, President Trump said it was a terrible thing. He wants the US to check everyone from Afghanistan who came to live here after 2021. He thinks it's important for safety, and this makes people talk a lot about who can come to our country.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764262153618-2",
-        "headline": "Soup Company Fires Boss for Saying Mean Things",
-        "content": "The company that makes Campbell's soup fired one of its important bosses. People said the boss said bad things about \"poor people.\" The soup company said that was not okay because they want everyone, whether they work there or buy their soup, to feel welcome and respected.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764262153618-3",
-        "headline": "Don't Eat Wild Turkeys in Maine Because of Bad Chemicals",
-        "content": "People in Maine are told not to eat wild turkeys anymore. This is because tests showed the turkeys have a lot of \"forever chemicals\" inside them. These chemicals are bad for people and mean that the environment around them is polluted. So, it's not safe to eat the wild animals there.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764262153618-4",
-        "headline": "Man on Death Row Gets Out of Jail After Many Years",
-        "content": "A man in Louisiana who was going to be put to death was let out of jail for now. A court decided that the old case where he was found guilty was wrong. This old murder case is being looked at again. This makes people talk about how sometimes courts can make mistakes, especially in very serious cases.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764262153618-5",
-        "headline": "President Trump's Election Case Charges Are Dropped",
-        "content": "Some important charges against President Trump in a big case about the election have been dropped. This is good news for President Trump because he has many other legal problems from what he did after the 2020 election. We don't know all the details yet, but it's a win for him.",
+        "id": "story-1764264778566-0",
+        "headline": "Two Soldiers Are Seriously Injured Near the White House",
+        "content": "Two soldiers from West Virginia, Sarah and Andrew, are still very sick after being shot close to the White House. The police caught the person who they think did it. He came all the way from another state called Washington. The police are trying to figure out why he did it.",
         "originalSource": "Sky News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-1",
+        "headline": "The Case About the 2020 Election for President Trump Is Over",
+        "content": "A big court case in Georgia about the 2020 election, which was about President Trump and his friends, has officially stopped. Some people said the person running the case did some wrong things, so they decided to just close it.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764264778566-2",
+        "headline": "A Man Who Was Going to Be Executed Is Now Out of Jail",
+        "content": "A man in Louisiana who was going to be put to death after being in prison for a very long time is now out on bail. Some new clues and legal fights showed that he might not have done it. Now the state has to decide if they want to try him again or just let him go completely.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-3",
+        "headline": "Big Companies Think Everyone Will Want Smart Glasses Soon",
+        "content": "Really big computer companies are putting a lot of money into special glasses that can do cool things, like show computer stuff mixed with the real world. They think more and more people will finally want to wear them. This means you might see a lot more smart glasses everywhere soon!",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-4",
+        "headline": "American Teenager Mohammed Ibrahim Is Free After Being in Jail",
+        "content": "A teenager from America named Mohammed Ibrahim is out of jail in Israel. He was kept there for nine whole months. We are starting to learn why he was arrested and how he got out. Lots of people who care about human rights and leaders in America were watching his case closely.",
+        "originalSource": "Al Jazeera",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-5",
+        "headline": "Couple Gets Chased After Stealing a Super Expensive Bottle of Wine",
+        "content": "A man and a woman stole a bottle of wine that cost as much as a new car – $24,000! Then they got chased by the police through the country roads in Virginia. The lady supposedly kept a worker busy while the man hid the wine bottles under his coat. It was a really exciting chase!",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764262153618-0",
-        "headline": "The Ghost of Kandahar's Past",
-        "content": "The city buzzed, oblivious to the history Rahmanullah Lakanwal carried. Near the White House, his gunfire shattered the morning, felling two National Guard members. Investigators soon unearthed his phantom past: a shadow soldier, once aligned with a CIA-backed unit in Afghanistan. The revelation sent a tremor through the capital. \"A monstrous act,\" President Trump declared, his voice echoing a demand: re-examine every Afghan refugee. The incident, a violent knot of global threads, forced America to confront the specters of its own distant wars, questioning the gates that welcomed them home.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than an hour ago"
-      },
-      {
-        "id": "story-1764262153618-1",
-        "headline": "The President's Decree",
-        "content": "The news of the DC shooting rippled, but it was President Trump's voice that amplified the tremor. \"Monstrous,\" he proclaimed, his condemnation sharp, directed not just at the shooter but at the broader context of a nation's welcome. Citing the suspect's Afghan nationality, he issued a sweeping decree: \"Re-examine every Afghan refugee,\" he demanded, those admitted since the chaotic 2021 withdrawal. The call instantly ignited a fiery debate, not merely about security protocols, but about the very essence of open borders and a nation's promise. The air crackled with apprehension and political fury.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764262153618-2",
-        "headline": "The Empty Bowl",
-        "content": "The polished executive, accustomed to boardroom battles, underestimated the power of words. Whispers became accusations: insensitive remarks about \"poor people\" had spilled from his lips, staining the corporate image. Campbell Soup, a brand built on humble warmth, acted swiftly. His dismissal was immediate, a stark declaration. \"Direct conflict with our core values,\" the company stated, emphasizing its commitment to an inclusive table for every employee, every diverse customer. The executive's words, intended perhaps as an unguarded aside, instead sealed his professional fate, a stark reminder that even a soup giant demands empathy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764262153618-3",
-        "headline": "The Silent Harvest",
-        "content": "The crisp Maine air once promised the bounty of a wild feast, but now a sinister silence descended upon the Thanksgiving tables. State officials issued a grim edict: \"No more wild turkey.\" Extensive testing had unveiled an invisible predator—\"forever chemicals,\" PFAS, saturating the birds' meat. The contamination wasn't isolated; it signaled a widespread environmental blight, a silent poison seeping into the very fabric of the landscape. Public health concerns mounted, transforming the hunting tradition into a dangerous gamble. The wilderness, once a source of sustenance, now held a hidden threat, forever altering the taste of freedom.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764262153618-4",
-        "headline": "The Long Shadow of Justice",
-        "content": "Decades of shadows, of steel bars and a ticking clock, finally dissolved. In Louisiana, a death row inmate, a ghost of justice's past, walked free on bail. His murder conviction, a judgment sealed long ago, had been unsealed, painstakingly re-examined, and ultimately overturned. The court's decision echoed with questions of due process, a stark reminder of humanity's fallibility even in matters of life and death. His release wasn't an end, but a beginning of new legal battles, igniting yet again the simmering national discourse on judicial errors and the profound weight of capital punishment.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764262153618-5",
-        "headline": "The Unraveling Threads",
-        "content": "The legal chess match around President Trump took an unexpected turn. Whispers solidified into reports: charges in a pivotal election interference case, one of many post-2020 shadows, had been reportedly dismissed. It was a rare, undeniable victory in a landscape littered with legal skirmishes. Though details of the ruling remained veiled, the impact was clear. This unexpected reprieve, a sudden clearing in the storm, offered President Trump a moment of triumph amidst the relentless legal battles, adding another twist to his extraordinary political and judicial saga. The game continued, but this round, he had won.",
+        "id": "story-1764264778566-0",
+        "headline": "Crimson on the Pavement",
+        "content": "The sirens wailed, a mournful chorus cutting through the crisp D.C. air. Near the White House, two West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, clung to life, their uniforms stained crimson. A silence had fallen before the shots, broken only by the hum of the city. Now, a man, an Afghan national, sat in custody, his long journey from Washington state ending in chaos. Authorities probed for answers, searching for the why behind such a sudden, brutal act. The capital held its breath, wondering what shadows had driven a stranger to such violence, leaving two brave souls fighting for another dawn.",
         "originalSource": "Sky News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-1",
+        "headline": "A Cloud Disperses",
+        "content": "The legal storm over Georgia, a racketeering case regarding the 2020 election, finally dissipated. Filed in 2023 against President Trump and his allies, the complex investigation had consumed headlines and courtroom hours. Yet, allegations of prosecutorial misconduct cast a persistent shadow, increasingly obscuring the path to resolution. Now, with a quiet pronouncement, the prosecutor's office officially closed the books. The formidable charges faded into history, leaving behind unanswered questions and the lingering taste of an interrupted quest for justice. The chapter was closed, but its echoes remained.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764264778566-2",
+        "headline": "Decades Undone",
+        "content": "The harsh clang of the prison gates echoed, but this time, it was a sound of release. A Louisiana man, a ghost of decades spent on death row, stepped into the unfamiliar sun. His conviction, once an ironclad decree, had crumbled under the weight of new evidence and tireless legal challenges. The ruling had set him free, for now, a temporary reprieve. The state now wrestled with its conscience: pursue a retrial, or finally, fully, drop the charges that had stolen his life. He took a deep, trembling breath, the air tasting of an uncertain freedom, a world changed in his long absence.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-3",
+        "headline": "Eyes on Tomorrow",
+        "content": "The future, once confined to science fiction, is now perched on our noses. Tech giants, sensing a shift, are pouring fortunes into smart glasses. The buzz suggests consumers are finally ready to embrace these wearable wonders. No longer a niche gadget, these sleek frames promise to weave augmented reality and seamless connectivity into daily life. Imagine your world overlaid with digital information, communications flowing with a glance. A massive push for widespread adoption is imminent, transforming how we see, interact, and navigate reality, one lens at a time.",
+        "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-4",
+        "headline": "Beyond the Walls",
+        "content": "Nine months had stretched into an eternity behind Israeli prison walls for US teenager Mohammed Ibrahim. His release, sudden yet long-awaited, brought a quiet sigh of relief from across continents. For nearly a year, his story had echoed in the corridors of power, capturing the fierce advocacy of human rights groups and the diplomatic attention of US officials. Now, details of his arrest, a shadowed chapter, slowly began to surface, alongside the precise, often unspoken, conditions of his freedom. The world watched, hopeful that his ordeal was truly over, and that the young man could finally reclaim a life interrupted.",
+        "originalSource": "Al Jazeera",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764264778566-5",
+        "headline": "The Vintage Pursuit",
+        "content": "The lure of liquid gold proved too strong. A couple, sophisticated in their deceit, executed a daring heist in a Virginia wine cellar. While she spun tales for the unsuspecting guide, he, with practiced ease, tucked a $24,000 bottle\b—perhaps more\b—into his overcoat. Their escape was fleeting. Soon, the serene countryside was shattered by the scream of sirens and the roar of engines. A high-speed chase ensued, a ballet of desperation and pursuit across winding roads. The taste of illicit vintage hung heavy in the air, a thrilling, reckless gamble playing out with every mile.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
       }
     ]
   }
