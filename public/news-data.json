@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764218831814,
+  "timestamp": 1764222145734,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764218747535-0",
-        "headline": "Gun Violence Strikes Near White House, Wounding National Guard Members Amid Heightened Tensions",
-        "content": "Two members of the West Virginia National Guard were injured in a shooting just blocks from the White House, highlighting the persistent crisis of gun violence in the nation's capital. While a suspect, identified as an Afghan national, is in custody, officials' swift inclination to label the incident as potentially \"targeted\" or an \"act of terror\" raises concerns about due process and the potential for xenophobic narratives, rather than focusing on the systemic issues that contribute to such violence and ensuring comprehensive support for the victims.",
-        "originalSource": "AP News",
-        "publishedTime": "A few hours ago"
+        "id": "story-1764222074700-0",
+        "headline": "President Trump Exploits Tragic Shooting to Escalate Anti-Immigrant Rhetoric and Policy",
+        "content": "Following a tragic shooting near the White House where two National Guard members were wounded, President Trump was quick to label the incident an 'act of terror,' immediately pivoting to a call for heightened scrutiny of immigrants. This rapid response risks fueling xenophobia and using an isolated, individual act to justify systemic discrimination against entire communities, rather than addressing the root causes of violence or focusing on comprehensive safety measures.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764218747535-1",
-        "headline": "President Trump's Misogynistic Attack on Female Journalist Undermines Free Press and Public Discourse",
-        "content": "President Trump launched a reprehensible verbal assault on a New York Times reporter via his social media platform, calling the journalist \"third rate\" and \"ugly, both inside and out.\" This vitriolic response to an article discussing his physical appearance is not merely personal but a dangerous, misogynistic attack on a female journalist, contributing to a hostile environment for the press and eroding the foundations of free speech and respectful public discourse, particularly for women in media.",
+        "id": "story-1764222074700-1",
+        "headline": "Accountability for Election Interference in Georgia Fails as Charges Against President Trump and Allies Dropped",
+        "content": "The final criminal case against President Trump, Rudy Giuliani, and others involved in alleged 2020 election interference in Georgia has been dismissed, raising serious questions about accountability for those in power. A new prosecutor's decision not to pursue charges, citing prior allegations of prosecutorial misconduct, effectively lets high-profile figures evade legal consequences, further eroding public trust in the justice system's ability to hold the powerful accountable for undermining democratic processes.",
+        "originalSource": "PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764222074700-2",
+        "headline": "Trump Administration Implements Discriminatory Ban on Afghan Immigration Applications Following Isolated Incident",
+        "content": "In a move widely criticized as collective punishment and discriminatory, the Trump administration has temporarily halted the processing of immigration applications from Afghans. This policy change comes in the wake of a shooting involving an Afghan national and two National Guard members, signaling a dangerous trend where an entire ethnic group is targeted with systemic barriers and increased scrutiny, rather than addressing individual actions through due process. This policy undermines humanitarian principles and risks exacerbating the suffering of vulnerable populations.",
         "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764222074700-3",
+        "headline": "Federal Judges Enable Partisan Gerrymandering in North Carolina, Threatening Fair Representation",
+        "content": "Despite widespread concerns over anti-democratic practices, federal judges have approved a newly redrawn congressional map in North Carolina, crafted by Republicans to secure an additional seat in the U.S. House. This judicial decision greenlights partisan gerrymandering, a systemic issue that subverts the will of voters and undermines the very foundation of fair representation, ensuring that political power is maintained through manipulation rather than legitimate democratic processes.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764222074700-4",
+        "headline": "Allegations of Improper Kremlin Call Spark Demands for Firing of Trump Envoy, Undermining Diplomacy",
+        "content": "U.S. representatives are demanding the immediate firing of President Trump's envoy, Boris Witkoff, following the leak of a controversial phone call with the Kremlin. The discussion, reportedly concerning the war in Ukraine, raises serious questions about unauthorized diplomatic channels and potential foreign interference, threatening to complicate legitimate peace efforts and exposing a concerning lack of transparency and accountability within the administration's foreign policy apparatus.",
+        "originalSource": "The Guardian",
         "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764218747535-2",
-        "headline": "Accountability Concerns Mount as President Trump's Final Criminal Case in Georgia Is Dismissed",
-        "content": "A Georgia prosecutor has announced the dismissal of the last criminal case pending against President Trump, effectively clearing the remaining charges he faced in the state. This decision, coming just before the Thanksgiving holiday, sparks significant questions about the fairness of the justice system and whether powerful figures are truly held accountable, fueling concerns about potential political influence and systemic biases that allow certain individuals to evade legal consequences.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-3",
-        "headline": "Federal Judges Uphold Anti-Democratic Gerrymandering in North Carolina, Further Entrenching GOP Power",
-        "content": "Federal judges have controversially approved North Carolina's newly drawn congressional map, a move critics vehemently argue is strategically designed to manipulate election outcomes. This blatant gerrymandering is set to create an unfair pathway for the Republican Party to gain an additional seat in the U.S. House of Representatives, severely undermining fair representation, voter equity, and the fundamental democratic principle of one person, one vote.",
+        "id": "story-1764222074700-5",
+        "headline": "MIT Study Reveals AI's Immediate Threat to 12% of US Workforce, Demanding Urgent Policy Response",
+        "content": "A recent MIT study reveals that artificial intelligence can already perform tasks equivalent to 12% of the total U.S. workforce, signaling an imminent and profound transformation of the American labor market. This rapid technological advancement, particularly in technical and cognitive roles, presents a critical systemic challenge, demanding urgent policy interventions to address potential mass job displacement, widening economic inequality, and the necessity of robust social safety nets and comprehensive retraining programs to ensure a just transition for all workers, rather than just corporate profit.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764218747535-4",
-        "headline": "Climate Crisis Impacts Holiday Travel as Severe Winter Storm Causes Widespread Delays Across US",
-        "content": "Travelers across the United States are grappling with significant flight and road delays as a powerful winter storm system sweeps through the country. This major disruption during one of the busiest travel periods of the year underscores the urgent need to address the climate crisis, which contributes to the increasing frequency and intensity of extreme weather events, and highlights the vulnerabilities of our infrastructure and reliance on carbon-intensive travel systems.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-5",
-        "headline": "Systemic Failure: Army OB-GYN Accused of Horrifying Secret Recordings of Female Patients",
-        "content": "A military medical professional, an Army OB-GYN, is under investigation following deeply disturbing accusations that he secretly recorded numerous female patients during their medical treatments at a U.S. military installation. This alleged breach of trust and profound violation of privacy brings to light critical questions about the systemic failures within military healthcare, the patriarchal structures that can enable such abuse, and the urgent need for robust protections for vulnerable patients, particularly women, and unequivocal accountability for perpetrators.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "6 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764218747535-0",
-        "headline": "2 National Guard Members Shot Near White House; Suspect is in Custody",
-        "content": "Two members of the West Virginia National Guard were wounded in a shooting a few blocks from the White House in Washington, D.C. The lone suspect, identified as an Afghan national, is in custody. Officials are investigating the attack as potentially \"targeted\" or an \"act of terror,\" raising concerns about security in the capital.",
-        "originalSource": "AP News",
-        "publishedTime": "A few hours ago"
+        "id": "story-1764222074700-0",
+        "headline": "Trump calls shooting of national guard members 'an act of terror', vows new scrutiny of immigrants",
+        "content": "Two National Guard members were shot and critically wounded in a 'targeted' attack near the White House in Washington, D.C. The suspect, identified as an Afghan national, is in custody. President Trump called the attack 'an act of terror' and vowed new scrutiny of immigrants following the violent incident.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764218747535-1",
-        "headline": "Trump Attacks Female Reporter as \"Ugly\" Over Article About His Aging",
-        "content": "Former President Donald Trump launched a verbal attack on a New York Times reporter on his social media platform. He called the journalist \"third rate\" and \"ugly, both inside and out\" in response to her published article that discussed and analyzed the former president's physical appearance and signs of aging.",
+        "id": "story-1764222074700-1",
+        "headline": "New prosecutor won't pursue charges against Trump, Giuliani and others in Georgia election interference case",
+        "content": "The final criminal case against Donald Trump, Rudy Giuliani, and others in Georgia concerning 2020 election interference has been dismissed. A new prosecutor chose not to pursue charges in the racketeering case, which had been bogged down by allegations of prosecutorial misconduct since it was brought in 2023.",
+        "originalSource": "PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764222074700-2",
+        "headline": "Trump admin. pauses immigration applications from Afghans after National Guard shooting",
+        "content": "Following the shooting of two National Guard members in Washington, D.C., by a suspect identified as an Afghan national, the Trump administration has temporarily halted the processing of immigration applications for Afghans. This decision is part of a broader move to increase scrutiny of immigrants after the attack near the White House.",
         "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764222074700-3",
+        "headline": "Federal judges allow North Carolina to use Republican-drawn congressional map",
+        "content": "Federal judges have approved the use of a newly redrawn congressional map in North Carolina. The map was drafted by Republicans in a bid to give the GOP an additional seat in the U.S. House of Representatives. This decision comes despite ongoing legal and political debates over gerrymandering in the state.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764222074700-4",
+        "headline": "US representatives call for Trump envoy Witkoff to be fired after leaked Kremlin call",
+        "content": "U.S. representatives are demanding the firing of Trump envoy Boris Witkoff after details of a leaked phone call with the Kremlin were published. The call, which involved discussions about the war in Ukraine, has sparked controversy and allegations that Witkoff may have overstepped his authority, complicating current peace efforts.",
+        "originalSource": "The Guardian",
         "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764218747535-2",
-        "headline": "Final Criminal Case Against Trump Dismissed After Georgia Prosecutor Drops Charges",
-        "content": "A Georgia prosecutor has announced the dismissal of the final criminal case that was pending against former President Donald Trump. This decision effectively clears the remaining charges he faced in the state, closing a chapter of his legal challenges just as the Thanksgiving holiday begins.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-3",
-        "headline": "Federal Judges Allow North Carolina to Use New Congressional Map Favoring GOP",
-        "content": "Federal judges have given approval for North Carolina to implement a newly drawn congressional map. Critics argue the new district lines are strategically designed to create a clear path for the Republican Party to gain an additional seat in the U.S. House of Representatives in the upcoming election cycle.",
+        "id": "story-1764222074700-5",
+        "headline": "MIT study says AI can already do the work of 12% of America's workforce",
+        "content": "A new study from MIT indicates that artificial intelligence is rapidly transforming the American labor market. The research suggests that AI technology is already capable of performing tasks equivalent to the work of 12% of the total U.S. workforce, particularly in technical and cognitive roles across various industries.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764218747535-4",
-        "headline": "Holiday Travel Delays Pile Up Across US as Winter Storm Wreaks Havoc",
-        "content": "Travelers across the United States are experiencing significant flight and road delays as a large winter storm system moves through the country. The severe weather is causing major disruption during one of the busiest travel periods of the year leading into the Thanksgiving holiday weekend.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-5",
-        "headline": "Army OB-GYN Accused of Secretly Recording Women Under His Care",
-        "content": "A military medical professional, an Army OB-GYN, is under investigation following accusations that he secretly recorded numerous female patients. The alleged incidents took place while the women were receiving medical treatment under his care at a U.S. military installation.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "6 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764218747535-0",
-        "headline": "Afghan National Suspect in Targeted Attack Near White House Wounds National Guard",
-        "content": "Two brave members of the West Virginia National Guard were tragically wounded in a brazen attack just blocks from our nation's capital, the White House. The suspect, an Afghan national, has been apprehended, and authorities are rightly investigating this serious incident as a potentially targeted act or even outright terror. This alarming event underscores critical questions about the security of our nation's capital and the vigilance required to protect our servicemen and women from such threats.",
-        "originalSource": "AP News",
-        "publishedTime": "A few hours ago"
+        "id": "story-1764222074700-0",
+        "headline": "President Trump Rightfully Labels Attack on Guardsmen \"Act of Terror,\" Demands Immigration Scrutiny.",
+        "content": "In a necessary move to protect national security, President Trump correctly identified the targeted shooting of two National Guard members near the White House by an Afghan national as an \"act of terror.\" This heinous act tragically wounded our servicemen. President Trump has now rightly pledged intensified scrutiny of immigrants, a crucial step to safeguard our nation and its citizens against such threats.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764218747535-1",
-        "headline": "President Trump Rightfully Criticizes Partisan Reporter's Obsession with Appearance",
-        "content": "President Trump took to his social media platform to confront a New York Times reporter who, rather than focusing on substantive issues, published an article dissecting his physical appearance and perceived signs of aging. President Trump's characterization of the journalist as 'third rate' and 'ugly, both inside and out' reflects a broader frustration with the legacy media's constant, often petty, attacks rather than reporting on matters of national importance. True journalism should elevate discourse, not descend into personal, superficial critiques.",
+        "id": "story-1764222074700-1",
+        "headline": "Baseless Georgia Election Case Against President Trump and Allies Finally Dismissed.",
+        "content": "Justice prevails as the final politically motivated criminal case against President Trump, Rudy Giuliani, and other patriots in Georgia, concerning alleged 2020 election interference, has been rightfully dismissed. A new prosecutor, recognizing the inherent flaws, chose not to pursue charges in this racketeering case, which was plagued by serious allegations of prosecutorial misconduct from its inception in 2023, exposing its true nature as a partisan attack.",
+        "originalSource": "PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764222074700-2",
+        "headline": "President Trump's Administration Wisely Halts Afghan Immigration After Terrorist Attack on Guardsmen.",
+        "content": "In a decisive move to protect American sovereignty and the safety of our citizens, President Trump's administration has commendably paused the processing of immigration applications from Afghans. This essential action comes directly after the horrific shooting of two National Guard members in Washington, D.C., by an Afghan national. This temporary halt is a crucial component of President Trump's broader commitment to increased scrutiny of immigrants, ensuring national security in the wake of such terror.",
         "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764222074700-3",
+        "headline": "Federal Judges Uphold North Carolina's Right to Implement Republican-Drawn Congressional Map.",
+        "content": "Federal judges have appropriately affirmed North Carolina's authority to proceed with a newly redrawn congressional map, which was skillfully crafted by Republicans. This judicious decision allows the GOP a well-deserved opportunity to gain an additional seat in the U.S. House of Representatives, reflecting proper political strategy. This outcome stands firm despite the predictable and often disingenuous legal and political debates surrounding gerrymandering, upholding the integrity of state-level electoral processes.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764222074700-4",
+        "headline": "Partisan Representatives Demand Firing of President Trump Envoy Witkoff Following Questionable Kremlin Call Leak.",
+        "content": "Certain U.S. representatives are predictably calling for the dismissal of President Trump's envoy, Boris Witkoff, following the suspicious leak of details from a phone call with the Kremlin. This call, reportedly discussing the war in Ukraine, has been cynically exploited to spark controversy and make unfounded allegations that Witkoff \"overstepped his authority,\" potentially hindering vital peace efforts. The focus should be on those who leaked the call, not the envoy attempting to engage in diplomacy.",
+        "originalSource": "The Guardian",
         "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764218747535-2",
-        "headline": "President Trump Fully Vindicated as Final Politically Motivated Georgia Case Dismissed",
-        "content": "In a welcome development for justice and liberty, a Georgia prosecutor has announced the dismissal of the final criminal case pending against President Trump. This crucial decision effectively clears the remaining charges he faced in the state, finally closing a chapter of what many observers have seen as relentless and politically motivated legal challenges against a leading conservative voice. This outcome, coming just before the Thanksgiving holiday, is a testament to the resilience of truth.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-3",
-        "headline": "Federal Judges Uphold North Carolina's Right to Implement Fair Congressional Map",
-        "content": "Federal judges have rightly given their approval for North Carolina to implement a newly drawn congressional map, affirming the state's prerogative in determining its electoral districts. This decision ensures that the people of North Carolina will have proper representation, despite predictable complaints from those who fear a fairer electoral landscape. The new lines are designed to ensure genuine representation, reflecting the will of the voters and providing a clear path for the Republican Party to secure additional legislative seats, thereby strengthening conservative principles in the U.S. House of Representatives.",
+        "id": "story-1764222074700-5",
+        "headline": "American Innovation Continues: MIT Study Reveals AI's Substantial Role in Boosting Workforce Efficiency.",
+        "content": "A groundbreaking study from MIT highlights the exciting potential of artificial intelligence, revealing its profound and positive impact on the American labor market. The research demonstrates that AI technology is already capable of performing tasks equivalent to the work of 12% of the total U.S. workforce, particularly in critical technical and cognitive roles. This advancement underscores the power of American ingenuity to drive unprecedented productivity and open new avenues for economic growth and opportunity.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764218747535-4",
-        "headline": "Powerful Winter Storm Disrupts Holiday Travel, Demands Personal Preparedness Across Nation",
-        "content": "Families across the United States are facing considerable flight and road delays as a formidable winter storm system brings significant disruption during the crucial Thanksgiving holiday travel period. While such natural events are beyond human control, this situation underscores the importance of individual preparedness and self-reliance when navigating challenging conditions, ensuring personal liberty and safety during these traditional family gatherings.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-5",
-        "headline": "Appalling Betrayal: Army OB-GYN Accused of Secretly Recording Female Patients",
-        "content": "A profoundly disturbing investigation is underway into an Army OB-GYN, who stands accused of the egregious violation of secretly recording numerous female patients while they were under his care at a U.S. military installation. This alleged breach of trust is an appalling affront to the dignity and privacy of these women and a severe blow to the integrity expected of our military medical professionals. Such actions undermine the bedrock of the doctor-patient relationship and demand swift, decisive accountability to uphold the highest standards of morality and honor within our armed forces.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "6 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764218747535-0",
-        "headline": "National Guard Members Courageously Shot a Stone's Throw From White House, Suspect Caught After Trying to Flee With Gun Still Smoking",
-        "content": "In a daring display of proximity, two brave members of the West Virginia National Guard were tragically grazed by bullets merely a few short blocks, give or take a few more, from the White House. The lone assailant, an Afghan national whose motivations remain as clear as mud, was swiftly apprehended after a grueling chase that allegedly involved him tripping over his own shoelaces. Officials are now bravely investigating whether this was a \"targeted\" attack, perhaps aimed at the very concept of \"near,\" or simply an \"act of terror\" against the capital's collective sense of geographical accuracy. Security experts are already calling for a new \"buffer zone\" that extends to the next state over.",
-        "originalSource": "AP News",
-        "publishedTime": "A few hours ago"
+        "id": "story-1764222074700-0",
+        "headline": "President Trump Declares 'Act of Terror' Before Bullet Casings Hit Ground, Promises Immigration Scrutiny Will Solve All Problems",
+        "content": "In a lightning-fast response that reportedly beat the ambulance to the scene, President Trump personally declared the recent shooting of two National Guard members an 'act of terror' even before investigators could finish their first cup of coffee. Identifying the suspect as an Afghan national, President Trump immediately pivoted to an unprecedented level of immigrant scrutiny, hinting that every new arrival would now undergo a mandatory 'Are you a terrorist?' pop quiz, administered personally by border agents trained in high-stakes interrogation via interpretive dance.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764218747535-1",
-        "headline": "President Trump Declares Reporter 'Ugly' and 'Third Rate' for Daring to Suggest Time Moves Forward for Everyone",
-        "content": "In a bold move to preserve the nation's fragile grip on eternal youth, President Trump launched a blistering digital broadside against a New York Times reporter. The journalist, whose article dared to imply President Trump might, like all mortals, be subject to the relentless march of time, was summarily labeled \"third rate\" and \"ugly, both inside and out.\" Sources close to the President suggest this preemptive strike was necessary to protect the American public from the dangerous notion that gravity and calendars apply equally to everyone, especially those with impeccable hair. The reporter has since been advised to wear a bag over her head for the sake of national morale.",
+        "id": "story-1764222074700-1",
+        "headline": "Georgia Election Case Against President Trump Mysteriously Vanishes Like A Sock In The Dryer",
+        "content": "In a stunning display of legal Houdini-ism, the last remaining criminal case against President Trump, Rudy Giuliani, and several others concerning 2020 election interference in Georgia has officially evaporated. A brand-new prosecutor, apparently overwhelmed by the sheer volume of paperwork and the baffling complexity of 'prosecutorial misconduct' allegations that conveniently surfaced, decided pursuing charges was simply too much bother. Legal experts noted this outcome was 'as surprising as the sun rising tomorrow' given the current political climate, and sources close to the courthouse reported a collective sigh of relief from anyone who thought this might actually go somewhere.",
+        "originalSource": "PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764222074700-2",
+        "headline": "Trump Administration Pauses Afghan Immigration Applications, Just In Case All Afghans Are Secretly The Same Guy",
+        "content": "Demonstrating unparalleled administrative agility, the Trump administration swiftly slammed the brakes on all immigration applications from Afghans, just moments after a suspect identified as an Afghan national was linked to a shooting in Washington, D.C. Officials stated the move was a 'temporary but very thorough' pause, intended to 'personally vet every single Afghan in the world for any potential connection to the single Afghan who committed the recent act.' Critics worried about the logistical nightmare of such an endeavor, while supporters lauded the lightning-fast decision to treat an entire nationality as one giant, interconnected suspect.",
         "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764222074700-3",
+        "headline": "Federal Judges Applaud North Carolina Republicans' Artistic Mastery of District Line Squiggles",
+        "content": "In a groundbreaking ruling that redefined the meaning of 'fairness,' federal judges in North Carolina have enthusiastically endorsed a new congressional map meticulously crafted by Republicans. The map, described by its architects as 'purely coincidental in its Republican-favoring geometry,' is expected to magically conjure an extra GOP seat in the U.S. House. Opponents grumbled about 'gerrymandering,' but legal scholars clarified that drawing districts to ensure a predetermined outcome is simply 'the democratic process, but with more squiggles.'",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764222074700-4",
+        "headline": "President Trump's Envoy Boris Witkoff Accused Of 'Actually Talking To People' In Leaked Kremlin Call",
+        "content": "U.S. representatives are in an absolute tizzy, demanding the immediate dismissal of President Trump's envoy Boris Witkoff after a leaked phone call with the Kremlin revealed he was, shockingly, engaged in discussions about the war in Ukraine. Critics are up in arms, alleging Witkoff may have 'overstepped his authority' by, you know, engaging in diplomacy, thus creating an unprecedented level of 'complication' for already notoriously simple and straightforward peace efforts. Sources close to Congress expressed bewilderment that an envoy would dare to converse with foreign powers without direct supervision from a focus group.",
+        "originalSource": "The Guardian",
         "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764218747535-2",
-        "headline": "Final Criminal Case Against President Trump Mysteriously Evaporates Just in Time for Thanksgiving Leftovers",
-        "content": "In a miraculous turn of events that some are calling \"peak holiday season convenience,\" Georgia prosecutors announced the spontaneous dismissal of the last remaining criminal case against President Trump. The charges, which had been hanging around longer than Aunt Mildred's fruitcake, simply vanished into thin air, clearing President Trump's schedule just in time to debate the proper way to carve a turkey. Legal experts are baffled, suggesting the case may have simply gotten bored and wandered off, or perhaps it was raptured to a higher plane of legal non-existence. This effectively closes a chapter in legal history, proving once again that some things are just meant to be dropped before the mashed potatoes.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-3",
-        "headline": "North Carolina Unveils 'Impossibly Fair' Congressional Map That Accidentally Guarantees One Party More Power",
-        "content": "Federal judges, clearly impressed by the sheer artistry, have given the green light to North Carolina's latest congressional map, a cartographic masterpiece critics are calling \"blatantly gerrymandered with a straight face.\" The new district lines, described as looking like a spilled bowl of spaghetti or perhaps a drunk Picasso's attempt at modern art, are hailed by proponents as a triumph of democratic fairness, despite also creating an undeniable, yet completely unintentional, pathway for the Republican Party to snag an additional seat in the U.S. House. Experts are calling it a \"happy accident\" of geometric precision.",
+        "id": "story-1764222074700-5",
+        "headline": "New MIT Study Confirms AI Now Performs 12% Of American Jobs, Mostly The Ones No One Wanted To Do Anyway",
+        "content": "A groundbreaking study from MIT has revealed that artificial intelligence is already capable of performing tasks equivalent to a staggering 12% of America's total workforce. The research, which probably wrote itself, indicated AI is particularly adept at 'technical and cognitive roles,' which apparently means all the jobs humans secretly hoped a robot would take. Economists predict that soon, 12% of the population will finally achieve their lifelong dream of watching Netflix full-time, while the remaining 88% grapple with the existential dread of being replaced by a highly efficient algorithm with no lunch breaks.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764218747535-4",
-        "headline": "Winter Storm Declares War on Nation's Travel Plans, Citing 'General Annoyance' and 'Obligation to Chaos'",
-        "content": "As if on cue, a massive winter storm has declared its annual war on American holiday travelers, plunging airports and highways nationwide into a predictable state of utter gridlock and despair. Millions of families, who apparently forgot this happens every single year, are now experiencing the joyous tradition of interminable delays, canceled flights, and the existential dread of spending Thanksgiving in an airport terminal next to a perpetually crying child. Forecasters confirm the storm's primary objective is to ensure everyone fully appreciates the true meaning of \"family togetherness\" by preventing them from actually reaching their families.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-5",
-        "headline": "Army OB-GYN's Innovative 'Medical Documentation' System Discovered to Be Just Secretly Filming Patients",
-        "content": "In a stunning development that questions the very nature of patient privacy, an Army OB-GYN is under investigation for allegedly implementing a highly unconventional \"medical research\" program: secretly recording numerous female patients during examinations. The doctor, apparently striving for a level of detail previously thought impossible, reportedly believed that covert video surveillance was merely an advanced form of medical charting. Military officials were reportedly \"shocked\" to discover that the doctor's \"cutting-edge data collection methods\" involved hidden cameras instead of, you know, a pen and paper.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "6 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764218747535-0",
-        "headline": "Someone Shot Two Soldiers Close to the President's House",
-        "content": "Two people from the National Guard, who are like soldiers, got shot near the White House. The White House is where President Trump lives. The police caught the person who did it. They are trying to figure out if it was on purpose or a bad attack, which makes people worried about safety in Washington, D.C.",
-        "originalSource": "AP News",
-        "publishedTime": "A few hours ago"
+        "id": "story-1764222074700-0",
+        "headline": "President Trump Calls Attack on Soldiers a Scary Act",
+        "content": "Two soldiers who protect our country got hurt very badly near the White House. Someone shot them on purpose. The person who did it is from Afghanistan and is now caught. President Trump said this was a very bad \"act of terror\" and wants to check people coming into our country more carefully now.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764218747535-1",
-        "headline": "President Trump Called a Lady Reporter Ugly Because of a Story",
-        "content": "President Trump said some mean things about a reporter from the New York Times on his social media page. He called her \"ugly\" and not very good at her job. He was upset because she wrote a story about how President Trump looked and if he was getting older.",
+        "id": "story-1764222074700-1",
+        "headline": "The Big Case Against President Trump in Georgia is Over",
+        "content": "A big legal case against President Trump and some other people in Georgia about the 2020 election has been stopped. A new lawyer working on the case decided not to keep trying to prove they did something wrong. This case had problems for a while before it was stopped.",
+        "originalSource": "PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764222074700-2",
+        "headline": "President Trump's Team Stops Some People From Afghanistan From Moving Here",
+        "content": "After those two soldiers got shot near the White House by someone from Afghanistan, President Trump's team decided to pause new applications for people from Afghanistan who want to move to our country. They want to be more careful about who comes in after that attack.",
         "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764222074700-3",
+        "headline": "Judges Say North Carolina Can Use New Election Map",
+        "content": "Some important judges said it's okay for North Carolina to use a new map that shows how people will vote. Republicans made this map, and they hope it will help them get one more person elected to represent them in Washington. Some people don't like these kinds of maps because they can make elections unfair, but the judges said this one can be used.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764222074700-4",
+        "headline": "People Want President Trump's Helper Fired After Secret Call",
+        "content": "Some people who work for our country in government want a helper for President Trump, named Boris Witkoff, to be fired. This is because a secret phone call he had with Russia got out. They talked about the war in Ukraine, and some people think he shouldn't have talked about those things, which might make it harder to make peace.",
+        "originalSource": "The Guardian",
         "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764218747535-2",
-        "headline": "The Last Big Legal Problem for President Trump Is Now Gone",
-        "content": "In Georgia, a special lawyer decided to stop the last big legal problem President Trump had. This means all the things he was accused of in Georgia are over. It happened just before Thanksgiving, which is a big holiday.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-3",
-        "headline": "North Carolina Gets to Use a New Map That Helps One Political Team",
-        "content": "Some important judges said that North Carolina can now use a new map for how they choose people for Congress. Some people are mad because they think this new map was made on purpose to help the Republican team get one more spot in the U.S. House of Representatives next time there's an election.",
+        "id": "story-1764222074700-5",
+        "headline": "Smart Computers Can Now Do Many People's Jobs",
+        "content": "A new report from smart people at a school called MIT says that special computer programs, called AI, are changing how people work. These AI programs can already do the same amount of work as 12 out of every 100 people who have jobs in America. They are especially good at jobs that involve thinking or using computers.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764218747535-4",
-        "headline": "A Big Snowstorm Is Messing Up Everyone's Thanksgiving Travel Plans",
-        "content": "Lots of people trying to travel for the holidays are having big problems because of a huge winter storm. Planes are late, and driving is hard all over the country. This bad weather is causing a lot of trouble right when everyone wants to go see family for Thanksgiving.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-5",
-        "headline": "A Military Doctor Might Have Secretly Filmed Ladies Who Trusted Him",
-        "content": "An Army doctor, who helps women, is being investigated because people say he secretly filmed many of his female patients. This happened when they were getting check-ups at a special Army place. This is a very serious accusation.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "6 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764218747535-0",
-        "headline": "The Capital's Scar",
-        "content": "The crisp autumn air in Washington D.C. usually hummed with political discourse, but today it echoed with gunfire. Blocks from the White House, two West Virginia National Guard members fell, wounded. An Afghan national, the sole suspect, was swiftly taken into custody, but the city held its breath. Investigators whispered of \"targeted\" attacks, of \"acts of terror.\" A ripple of unease spread through the capital, a stark reminder that even within sight of the nation's most powerful symbols, vulnerabilities lurked, and the invisible threads of safety could unravel with a single, sudden act.",
-        "originalSource": "AP News",
-        "publishedTime": "A few hours ago"
+        "id": "story-1764222074700-0",
+        "headline": "A City's Echoes of Fear",
+        "content": "Two National Guard members fell, critically wounded, in a targeted D.C. attack. The suspect, an Afghan national, was swiftly apprehended. President Trump, his voice resonating with resolve, denounced the incident as \"an act of terror.\" He vowed an immediate, thorough new scrutiny of immigrants, signaling a pivot in policy. A cloud of uncertainty settled over the capital, a stark reminder of unseen threats, as the nation grappled with the implications of the violent act and the promise of heightened vigilance against those seeking entry.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764218747535-1",
-        "headline": "The Mirror's Edge",
-        "content": "The screen glowed, a digital stage for President Trump's fury. A New York Times reporter had dared to chronicle the inevitable march of time on his physical appearance, an analysis of aging visible for all to see. His response was swift, venomous. Across his social media, he branded her \"third rate,\" \"ugly, both inside and out.\" The digital broadside, aimed at the journalist for her observations, tore through the virtual landscape, leaving a trail of charged words and a stark reminder of the thin skin surrounding public images, especially when confronted with the truth of the looking glass.",
+        "id": "story-1764222074700-1",
+        "headline": "Georgia's Quiet Dismissal",
+        "content": "The final threads of the Georgia election interference case against President Trump, Rudy Giuliani, and their co-defendants quietly unraveled. A new prosecutor, stepping into the legal fray, made a decisive choice: no further charges would be pursued. Allegations of prosecutorial misconduct had long entangled the racketeering case, first brought in 2023. The courtroom drama, once a national spectacle, now ended not with a bang, but a whimper, leaving the contested 2020 election results firmly in the realm of history, free from this specific legal challenge.",
+        "originalSource": "PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764222074700-2",
+        "headline": "A Sudden Halt to Hopes",
+        "content": "The air in processing centers thickened with sudden uncertainty. Following the shooting of two National Guard members by an Afghan national, the Trump administration acted decisively. Immigration applications for all Afghans were temporarily halted. This dramatic pause was part of a sweeping move to intensify scrutiny on immigrants, a direct response to the attack near the White House. For countless hopeful individuals, dreams of a new life in America were abruptly suspended, caught in the crosshairs of national security concerns and a government's swift reaction to perceived threats.",
         "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764222074700-3",
+        "headline": "The Lines on the Map",
+        "content": "Federal judges had the final say, their decision etching new political boundaries. North Carolina would proceed with a Republican-drawn congressional map, a strategic design to tip the scales. The GOP anticipated gaining an additional seat in the U.S. House of Representatives, a potent victory in the perpetual tug-of-war for power. Despite heated legal and political debates swirling around the contentious practice of gerrymandering, the ruling stood firm. The new lines, once ink on a page, now promised to reshape the state's representation, carving out a path for shifting political fortunes.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764222074700-4",
+        "headline": "Whispers Across the Wire",
+        "content": "A storm brewed in Washington as details of a leaked phone call with the Kremlin surfaced. U.S. representatives, their patience worn thin, demanded the immediate firing of President Trump's envoy, Boris Witkoff. The conversation, touching upon the delicate subject of the war in Ukraine, ignited a firestorm of controversy. Accusations mounted that Witkoff had overstepped his authority, potentially undermining crucial peace efforts. The envoy's diplomatic tightrope walk had ended abruptly, his career now hanging precariously in the balance, entangled in the fallout of those ill-advised whispers across the wire.",
+        "originalSource": "The Guardian",
         "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764218747535-2",
-        "headline": "A Chapter Closes in Georgia",
-        "content": "The news arrived quietly, just as Thanksgiving gourds were being polished. In Georgia, a prosecutor's announcement shifted the legal landscape: the final criminal case against President Trump was dismissed. A chapter, thick with challenges and court appearances, now closed. The last remaining charges he faced in the state evaporated, leaving a legal vacuum where accusations once stood. For President Trump, the decision cleared his name in this particular jurisdiction, offering a moment of reprieve, a legal quietude descending upon him just as families gathered to acknowledge their blessings.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-3",
-        "headline": "Lines of Power",
-        "content": "The federal judges' gavel fell, reshaping North Carolina's political terrain. Approval was granted for a new congressional map, lines meticulously redrawn across the state's geography. Critics immediately voiced their alarm, asserting these new districts were not organic but strategically crafted, a cartographic maneuver designed to pave a clear path for the Republican Party. The aim: to secure an additional seat in the U.S. House of Representatives in the looming election cycle. The map, now official, became a silent testament to the enduring power of lines on paper to dictate the future of representation.",
+        "id": "story-1764222074700-5",
+        "headline": "When Machines Begin to Dream",
+        "content": "The numbers from MIT were stark, a harbinger of a new industrial revolution. A groundbreaking study revealed that artificial intelligence was no longer a distant future but an immediate reality, already capable of performing tasks equivalent to 12% of America's total workforce. These weren't just menial tasks; AI excelled in complex technical and cognitive roles across diverse industries. The landscape of labor was rapidly transforming, pushing humanity to ponder its evolving role. The algorithms were learning, expanding their capabilities, and subtly, yet profoundly, reshaping the very fabric of American employment.",
         "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764218747535-4",
-        "headline": "Thanksgiving's Whiteout",
-        "content": "The holiday spirit across the United States was battling a formidable opponent: a massive winter storm. As families prepared to converge for Thanksgiving, skies darkened and roads slicked. Flight boards glowed red with cancellations, and highways became parking lots. The storm system, a vast, swirling beast, was wreaking havoc on one of the busiest travel periods of the year. Dreams of pumpkin pie and family reunions gave way to the harsh reality of unexpected layovers and icy detours. The country braced itself, waiting for the storm's fury to pass, hoping to salvage what remained of their holiday journeys.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764218747535-5",
-        "headline": "The Unseen Lens",
-        "content": "Within the sterile walls of a U.S. military installation, a profound trust was allegedly shattered. An Army OB-GYN, a figure meant to embody care and discretion, now faced an investigation. Accusations surfaced: he had secretly recorded numerous female patients during their most vulnerable moments, while they sought medical treatment under his supposed care. The violation was chilling, a hidden lens capturing privacy without consent. The silence of the examination room, once a sanctuary, now echoed with the haunting possibility of unseen surveillance, casting a long shadow over the very notion of medical integrity and patient safety.",
-        "originalSource": "PBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "6 hours ago"
       }
     ]
   }
