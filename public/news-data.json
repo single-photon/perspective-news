@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764264855365,
+  "timestamp": 1764269509363,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764264778566-0",
-        "headline": "Tragic Violence Near White House Leaves National Guard Members Critically Wounded, Prompting Calls for Community Safety",
-        "content": "Two West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, remain in critical condition after a shooting near the White House, highlighting the pervasive issue of violence impacting our communities. The suspect, identified as an Afghan national, is in custody, and authorities are investigating the motive. This incident underscores the urgent need for comprehensive approaches to address the root causes of violence and ensure the safety of all, rather than relying on xenophobic narratives.",
-        "originalSource": "Sky News",
-        "publishedTime": "Hours ago"
+        "id": "story-1764269431111-0",
+        "headline": "Disturbing CIA Connections Surface in National Guard Shooting Investigation, Raising Systemic Questions",
+        "content": "The confirmation that Rahmanullah Lakanwal, the suspect in the recent D.C. National Guard shooting, previously worked with the CIA in Afghanistan, underscores the complex and often troubling long-term impacts of U.S. foreign policy. This revelation demands a deeper examination of how individuals engaged in covert operations may become entangled in domestic incidents, highlighting the urgent need for greater accountability and transparency within intelligence agencies and a critical re-evaluation of the unintended consequences of global interventions.",
+        "originalSource": "AP News / The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764264778566-1",
-        "headline": "Accountability Falls Short as Georgia Election Interference Case Against President Trump Concludes Amid Controversy",
-        "content": "The racketeering case regarding 2020 election interference, initially filed in 2023 against President Trump and his allies in Georgia, has been officially terminated. This decision, reportedly influenced by allegations of prosecutorial misconduct, raises serious concerns about the challenges of holding powerful figures accountable for actions that threaten democratic integrity. The abrupt end to this investigation leaves critical questions unanswered about justice for electoral interference.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764264778566-2",
-        "headline": "Decades Lost: Louisiana Man on Death Row Released After Systemic Flaws Overturn Conviction",
-        "content": "After spending decades on death row, a Louisiana man has been released on bail following the overturn of his conviction, a stark reminder of the profound flaws within our criminal justice system. New evidence and persistent legal challenges exposed the injustice, allowing him to leave prison. This case underscores the urgent need for systemic reform to prevent wrongful convictions, especially in the context of the death penalty, as the state considers a retrial or dropping all charges.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-3",
-        "headline": "As Tech Giants Push Smart Glasses, Critical Questions Arise About Privacy and Surveillance",
-        "content": "Major technology corporations are heavily investing in the smart glasses market, signaling an anticipated surge in consumer adoption. While heralded as the next frontier in wearable tech, blending augmented reality and connectivity into daily life, this trend ignites critical discussions about data privacy, constant surveillance, and the unchecked power of corporations to integrate themselves ever more deeply into personal lives. We must demand robust regulations to protect individual autonomy and prevent corporate overreach.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-4",
-        "headline": "Human Rights Advocates Celebrate Release of US Teen Mohammed Ibrahim from Israeli Detention After Nine Months",
-        "content": "US teenager Mohammed Ibrahim has finally been released from an Israeli prison after an arduous nine-month detention, a development welcomed by human rights organizations and US officials who advocated for his freedom. Details surrounding his arrest and the conditions of his release are still emerging, but his case highlights persistent concerns about due process, arbitrary detention, and the treatment of minors within the Israeli justice system. This release is a testament to the crucial work of human rights groups in challenging systemic injustices.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-5",
-        "headline": "Expensive Wine Theft Highlights Stark Realities of Wealth Inequality and Systemic Disparities",
-        "content": "A high-speed chase through Virginia followed the theft of a $24,000 wine bottle by a couple, prompting authorities to pursue them dramatically. While the act of theft is clearly unacceptable, this incident inadvertently spotlights the extreme disparities in wealth and access within our society. The exorbitant value placed on luxury goods stands in stark contrast to the everyday struggles faced by many, prompting reflection on the systemic conditions that can lead to such desperate acts and the broader issue of economic injustice.",
+        "id": "story-1764269431111-1",
+        "headline": "Accountability Denied as Georgia Prosecutor Ends Election Interference Case Against President Trump",
+        "content": "The abrupt termination of the racketeering case against President Trump and his allies, concerning efforts to subvert the 2020 election results in Georgia, represents a profound setback for democratic accountability. Citing allegations of prosecutorial misconduct, this decision highlights systemic vulnerabilities within our justice system when confronting powerful political figures, potentially emboldening those who seek to undermine fair elections and erode public trust in governance.",
         "originalSource": "The Washington Post",
         "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-2",
+        "headline": "Macy's Parade Signals Start of Consumerist Holiday Season Amidst Pressing Economic Inequities",
+        "content": "As Manhattan hosts the annual Macy's Thanksgiving Day Parade, ushering in the holiday season with its spectacle of balloons and floats, it is crucial to reflect on the deeper economic realities obscured by such displays. This consumer-driven period often intensifies financial strain for working-class families and highlights significant disparities in access to resources, underscoring systemic issues of wealth inequality and the relentless pressure to participate in a commercialized celebration that many cannot afford.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-3",
+        "headline": "Supreme Court Intervenes to Protect Institutional Independence from President Trump's Actions",
+        "content": "The Supreme Court's decision to temporarily block the Trump administration's attempt to dismiss the Register of Copyrights sends a vital message about safeguarding the independence of critical government institutions. This ruling underscores the importance of a non-political bureaucracy, free from executive overreach, to ensure fair and consistent application of law, defending against systemic efforts to consolidate power and undermine established checks and balances.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-4",
+        "headline": "President Trump's Administration Escalates D.C. Militarization in Response to Shooting, Ignoring Root Causes",
+        "content": "In the wake of a recent shooting incident, President Trump's administration has announced the deployment of an additional 500 National Guard troops to Washington, D.C., a move that raises serious concerns about the ongoing militarization of civilian spaces. This approach often fails to address the systemic issues that contribute to violence and social unrest, instead favoring a law enforcement-heavy response that can disproportionately impact communities and erode civil liberties without tackling underlying societal problems.",
+        "originalSource": "CBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764269431111-5",
+        "headline": "Death of Inmate with Dementia on Death Row Exposes Systemic Cruelties of Capital Punishment",
+        "content": "The death of a Utah inmate, who spent 37 years on death row and was granted a stay of execution due to dementia, starkly illustrates the profound ethical and systemic failures within the capital punishment system. His prolonged incarceration and subsequent mental decline raise critical questions about the morality of executing individuals deemed no longer competent, highlighting the inherent cruelty and inhumane aspects of a system that often prioritizes punishment over rehabilitation and human dignity, while failing to address mental health within its confines.",
+        "originalSource": "CBS News",
+        "publishedTime": "17 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764264778566-0",
-        "headline": "Suspect in Washington DC Shooting Identified as Afghan National; Two National Guard Members Critical",
-        "content": "Two West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, remain in critical condition after being shot near the White House. Authorities say the suspect, identified as an Afghan national who drove from Washington state, is now in custody. The motive for the attack is under investigation.",
-        "originalSource": "Sky News",
-        "publishedTime": "Hours ago"
+        "id": "story-1764269431111-0",
+        "headline": "Suspect in Washington DC National Guard shooting had ties to CIA, agency confirms",
+        "content": "A 29-year-old Afghan national, Rahmanullah Lakanwal, has been identified as the suspect who ambushed and wounded two National Guard troops in D.C. Officials say he drove across the US to carry out the attack. New details confirm Lakanwal previously worked with the CIA in Afghanistan, adding a critical layer to the developing investigation.",
+        "originalSource": "AP News / The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764264778566-1",
-        "headline": "Georgia Prosecutor Ends 2020 Election Interference Case Against Trump and Allies",
-        "content": "The Georgia prosecutor's racketeering case regarding the 2020 election interference, which was filed in 2023 against Donald Trump and his allies, has been officially ended. The case was reportedly bogged down by allegations of prosecutorial misconduct, leading to the decision to close the investigation.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764264778566-2",
-        "headline": "Louisiana Death Row Inmate Released on Bail After Conviction Overturned",
-        "content": "A Louisiana man who spent decades on death row has been released on bail following the overturn of his conviction. New evidence and legal challenges led to the ruling, allowing him to leave prison as the state decides whether to pursue a retrial or drop the charges entirely.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-3",
-        "headline": "Tech Giants Bet on Consumer Readiness to Adopt Smart Glasses Technology",
-        "content": "Major technology companies are investing heavily in the smart glasses market, signaling a belief that consumer acceptance for the wearable tech is finally increasing. This trend suggests an upcoming push for widespread adoption, blending augmented reality and connectivity into daily life accessories.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-4",
-        "headline": "US Teen Mohammed Ibrahim Released from Israeli Prison After Nine-Month Detention",
-        "content": "US teenager Mohammed Ibrahim has been released from an Israeli prison after being detained for nine months. Details surrounding his arrest and the conditions of his release are emerging. His case had garnered significant attention from human rights groups and US officials.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-5",
-        "headline": "High-Speed Chase Follows $24,000 Wine Bottle Theft in Virginia",
-        "content": "A couple triggered a high-speed chase through the Virginia countryside after stealing a $24,000 wine bottle. The woman allegedly distracted a guide at a wine cellar while the man concealed bottles in his overcoat, leading to a dramatic pursuit by authorities.",
+        "id": "story-1764269431111-1",
+        "headline": "Georgia prosecutor ends 2020 election interference case against Trump, allies",
+        "content": "A Georgia prosecutor has officially ended the high-profile racketeering case against former President Trump and his allies related to efforts to overturn the 2020 election results in the state. The case, filed in 2023, faced numerous setbacks and was ultimately abandoned due to allegations of prosecutorial misconduct.",
         "originalSource": "The Washington Post",
         "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-2",
+        "headline": "Macy's Thanksgiving Day Parade Kicks Off in Manhattan",
+        "content": "The annual Macy's Thanksgiving Day Parade is underway in Manhattan, marking the official start of the holiday season. Large crowds are gathered to watch the iconic display featuring giant character balloons, elaborate floats, marching bands from across the nation, and various festive performances.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-3",
+        "headline": "Supreme Court won't immediately let Trump administration fire copyright office head",
+        "content": "The Supreme Court has ruled against immediately allowing the Trump administration to terminate the Register of Copyrights, the head of the U.S. Copyright Office. This decision maintains the current leadership as a legal battle continues regarding the independence and appointment authority for this critical position.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-4",
+        "headline": "Trump administration sending 500 more Guard troops to D.C. after shooting",
+        "content": "The Trump administration announced an increased federal law enforcement presence in Washington, D.C., following the shooting of two National Guard members. Plans include deploying an additional 500 National Guard troops to the capital's streets, a decision Defense Secretary Pete Hegseth shared hours after the attack occurred.",
+        "originalSource": "CBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764269431111-5",
+        "headline": "Death row inmate with dementia dies of natural causes in Utah",
+        "content": "A Utah death row inmate, who spent 37 years awaiting execution, has died of apparent natural causes. Earlier this fall, the man was granted a stay of execution after his lawyers argued he had developed dementia, raising legal and ethical questions about executing a person deemed no longer competent.",
+        "originalSource": "CBS News",
+        "publishedTime": "17 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764264778566-0",
-        "headline": "Afghan National Attacks American Guardsmen Near White House, Raising Security Concerns",
-        "content": "Two brave West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, are fighting for their lives after a horrific attack near the White House. The suspect, an Afghan national who reportedly traveled from Washington state, is now in custody, but questions loom large about how such an individual could pose a threat on American soil, especially so close to the nation's capital. This incident underscores critical vulnerabilities in our national security and the urgent need to protect our service members and tighten our borders against potential threats.",
-        "originalSource": "Sky News",
-        "publishedTime": "Hours ago"
+        "id": "story-1764269431111-0",
+        "headline": "CIA Confirms Disturbing Ties of Afghan National Who Attacked National Guard in Our Capital",
+        "content": "A 29-year-old Afghan national, Rahmanullah Lakanwal, has been identified as the individual who ruthlessly ambushed and wounded two brave National Guard troops in Washington, D.C. Reports indicate Lakanwal drove across the nation to execute this attack. Astonishingly, new information reveals Lakanwal previously collaborated with the CIA in Afghanistan, raising serious questions about vetting processes and national security when individuals with such backgrounds are allowed to traverse our country and attack our protectors. This development adds a deeply concerning layer to an already alarming investigation.",
+        "originalSource": "AP News / The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764264778566-1",
-        "headline": "Politically Motivated Georgia Racketeering Case Against President Trump Collapses Amid Misconduct Allegations",
-        "content": "In a victory for due process and against weaponized justice, the politically motivated racketeering case brought against President Trump and his allies in Georgia has finally been terminated. Filed in 2023 under questionable pretenses, this baseless investigation was reportedly plagued by serious allegations of prosecutorial misconduct, ultimately forcing its closure. This outcome confirms what many have long suspected: this was nothing more than a desperate attempt to interfere with the democratic process and target political opponents, now rightly exposed as an abuse of power.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764264778566-2",
-        "headline": "Louisiana Death Row Conviction Overturned, Raising Questions About Justice and Public Safety",
-        "content": "A Louisiana man who spent decades on death row has been granted release on bail after his conviction was overturned due to new evidence and legal challenges. While ensuring a fair and just legal system is paramount, this development raises serious questions for the community and victims about public safety as the state weighs a potential retrial or dropping charges entirely. Maintaining the integrity of our judicial system requires swift and decisive action to either secure a new conviction or ensure the community's safety is not compromised.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-3",
-        "headline": "Tech Giants Push Smart Glasses, Raising Concerns About Privacy and Digital Overreach",
-        "content": "Major technology companies are aggressively pouring resources into the smart glasses market, convinced that consumers are finally ready to embrace this pervasive wearable technology. This push for widespread adoption aims to integrate augmented reality and constant connectivity into every aspect of daily life, but it rightfully raises significant concerns for freedom-loving individuals. The implications for personal privacy, potential surveillance, and the erosion of authentic human interaction demand careful consideration before surrendering more of our lives to the digital realm.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-4",
-        "headline": "US Citizen Mohammed Ibrahim Released from Israeli Custody After Nine-Month Detention",
-        "content": "US teenager Mohammed Ibrahim has been released from an Israeli prison after a nine-month detention, with details regarding his arrest and release now beginning to surface. His case had drawn attention from various groups and US officials. While we expect due process for all American citizens, we also recognize the sovereign right of our allies, like Israel, to enforce their laws and protect their security, especially in a volatile region. Clarity on the circumstances is important for understanding the situation fully.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-5",
-        "headline": "Law Enforcement Pursues Brazen Thieves After $24,000 Wine Bottle Heist in Virginia",
-        "content": "In a stark display of disregard for property and the rule of law, a couple initiated a high-speed chase across the Virginia countryside after brazenly stealing a $24,000 bottle of wine. Reports indicate the woman distracted a guide at a wine cellar while her accomplice pilfered the valuable bottles, demonstrating a calculated criminal act. This dramatic pursuit by authorities underscores the importance of holding individuals accountable for their actions and supporting our law enforcement officers who work tirelessly to protect citizens' property and uphold order.",
+        "id": "story-1764269431111-1",
+        "headline": "Politically Motivated Georgia Racketeering Case Against President Trump and Allies Officially Abandoned",
+        "content": "A high-profile and openly partisan racketeering case in Georgia, targeting President Trump and his dedicated allies over claims of 2020 election interference, has been officially terminated. This controversial case, initiated in 2023, was plagued by repeated setbacks and ultimately collapsed under the weight of grave allegations of prosecutorial misconduct. This outcome underscores the vital importance of upholding due process and rejecting weaponized justice, marking a significant victory against the relentless political persecution faced by President Trump.",
         "originalSource": "The Washington Post",
         "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-2",
+        "headline": "Beloved Macy's Thanksgiving Day Parade Upholds Cherished American Traditions in Manhattan",
+        "content": "The annual Macy's Thanksgiving Day Parade has grandly commenced in Manhattan, serving as a cherished kick-off to our nation's holiday season. Crowds have gathered to witness this iconic spectacle, celebrating the spirit of gratitude and community with its hallmark giant character balloons, intricate floats, patriotic marching bands from every corner of the country, and uplifting festive performances. It is a vital reminder of the traditions that bind us together as Americans.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-3",
+        "headline": "Supreme Court Delays President Trump's Executive Authority to Replace Copyright Office Leadership",
+        "content": "The Supreme Court has regrettably ruled against immediately granting the Trump administration the authority to remove the Register of Copyrights, the appointed head of the U.S. Copyright Office. This decision effectively preserves the current leadership, prolonging a significant legal dispute concerning the proper scope of executive appointment authority and the supposed \"independence\" of crucial bureaucratic positions. This ongoing battle highlights the critical need to ensure our elected President can staff his administration with those who align with his vision, free from undue judicial interference.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-4",
+        "headline": "President Trump Fortifies Nation's Capital with 500 Additional National Guard Troops After Attack",
+        "content": "In a decisive move to uphold law and order and protect our nation's capital, the Trump administration has announced a significant increase in federal law enforcement presence in Washington, D.C. This comes swiftly after the deplorable shooting of two National Guard members. Defense Secretary Pete Hegseth confirmed that an additional 500 brave National Guard troops will be deployed to the streets of D.C., demonstrating President Trump's unwavering commitment to securing our institutions and ensuring the safety of our protectors and citizens.",
+        "originalSource": "CBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764269431111-5",
+        "headline": "Utah Death Row Inmate Dies of Natural Causes After Decades of Delayed Justice",
+        "content": "A Utah death row inmate, who managed to prolong his execution for an astonishing 37 years, has passed away from apparent natural causes. This individual was granted a stay of execution earlier this autumn after his legal team controversially argued he had developed dementia, sparking broader discussions about the purpose of justice and the competency required for such sentences. While his passing closes a chapter, it highlights the profound cost and extended delays often associated with our current legal system, impeding true justice for victims.",
+        "originalSource": "CBS News",
+        "publishedTime": "17 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764264778566-0",
-        "headline": "Man Drives Cross-Country To Washington, DC, Mysteriously Forgetting Why He Was Mad Upon Arrival",
-        "content": "Two West Virginia National Guard members are reportedly in critical condition after a man, identified as an Afghan national, completed an epic cross-country road trip from Washington state just to shoot them near the White House. Authorities, currently baffled by the concept of 'motive,' have taken the man into custody, presumably after he realized the gas mileage on his rage-fueled odyssey wasn't worth it. The true mystery remains: did he bring snacks for the drive?",
-        "originalSource": "Sky News",
-        "publishedTime": "Hours ago"
+        "id": "story-1764269431111-0",
+        "headline": "CIA Stunned to Discover Own Employee Capable of 'Covert' Action Outside Office Building",
+        "content": "In a shocking turn of events that no one could have possibly predicted, the CIA has confirmed that a 29-year-old Afghan national, Rahmanullah Lakanwal, who previously 'worked with' the agency, managed to conduct a 'covert' operation by ambushing two National Guard troops in D.C. Officials were reportedly flummoxed by the discovery that someone they had trained might, you know, actually *do* things, especially after driving across the entire country with seemingly no bureaucratic checkpoints. The agency is now investigating how their former asset developed such independent initiative.",
+        "originalSource": "AP News / The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764264778566-1",
-        "headline": "President Trump's Georgia Case Miraculously Ends After Prosecutors Discover Themselves In Actual Legal Trouble",
-        "content": "The much-anticipated 2020 election interference case against President Trump and his alleged allies in Georgia has officially concluded, not with a bang, but with a whimper of prosecutorial misconduct. The state prosecutor, who spent years building a seemingly impenetrable wall of allegations, ultimately tripped over her own shoelaces, leading to the case's abrupt collapse. Legal experts note this marks a groundbreaking moment where the system finally decided to investigate the investigators, thereby running out of time to investigate anything else.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764264778566-2",
-        "headline": "Louisiana Man Released From Death Row After State Realizes It Might Have Had The Wrong Guy For Decades",
-        "content": "A Louisiana man, who probably thought he was going to die watching the state slowly realize its mistake, has been released on bail after his conviction was finally overturned. After spending literal decades on death row, 'new evidence' and 'legal challenges' suddenly appeared, prompting the state to consider if perhaps, just perhaps, they had the wrong guy. The man is now reportedly struggling to adapt to a world where cell phones exist and nobody uses dial-up anymore, while the state weighs whether to keep him on the hook for a retrial or just admit they messed up big time.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-3",
-        "headline": "Tech Giants Insist Humanity Is Finally Ready To Look Absolutely Foolish In Public With Smart Glasses",
-        "content": "Major technology companies are confidently pouring billions into smart glasses, believing that consumers are finally 'ready' to pay a premium to look like they're perpetually in a low-budget sci-fi movie. This new push for widespread adoption promises to seamlessly blend augmented reality with your daily life, ensuring that you can instantly see pop-up ads for coffee shops directly in your field of vision, or perhaps even accidentally record your entire commute. Privacy experts are reportedly 'thrilled' about this development, while fashion critics are simply 'resigned.'",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-4",
-        "headline": "Teenager Released From Israeli Prison After Nine-Month Vacation, Returns To Discover TikTok Still Exists",
-        "content": "US teenager Mohammed Ibrahim has finally been released from an Israeli prison after a bewildering nine-month detention that garnered significant attention from human rights groups and US officials. Details surrounding his arrest and the conditions of his release are slowly 'emerging,' which in diplomatic terms means 'we're still trying to figure out what happened.' The teen reportedly expressed surprise that the world outside hadn't fundamentally changed, particularly lamenting the continued dominance of short-form video apps.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-5",
-        "headline": "Couple Executes Daring Heist For $24,000 Bottle Of Wine That Tastes Exactly Like All The Other Wine",
-        "content": "A Virginia couple, clearly aficionados of both fine wine and poor life choices, led authorities on a high-speed chase after absconding with a single bottle of vino valued at a mind-boggling $24,000. The alleged caper involved the woman distracting a guide while her partner, undoubtedly a connoisseur of overcoats, cleverly stashed the liquid gold. Critics are divided: Was it a brilliant act of daring, or just an extremely expensive way to get a headache?",
+        "id": "story-1764269431111-1",
+        "headline": "Georgia Prosecutor Realizes Too Late That 'Racketeering' Requires Actual Rackets, Closes Case Against President Trump",
+        "content": "A Georgia prosecutor has dramatically ended the much-anticipated 2020 election interference case against President Trump and his allies, citing 'prosecutorial misconduct.' Sources close to the investigation suggest the misconduct involved a shocking revelation that prosecutors, after years of complex legal maneuvering, inadvertently filed the entire case in Comic Sans and forgot to include a crucial comma, rendering all charges null and void. The prosecutor lamented, 'We just wanted to save democracy, but apparently, we needed to remember to dot our 'i's and cross our 't's first.'",
         "originalSource": "The Washington Post",
         "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-2",
+        "headline": "Manhattan Briefly Forgets All Troubles as Giant Inflatable Cartoon Characters Force Feed Holiday Cheer",
+        "content": "The annual Macy's Thanksgiving Day Parade has once again descended upon Manhattan, successfully distracting millions from the existential dread of modern life with gargantuan balloons depicting beloved characters whose vacant stares belie the crushing weight of commercialism they represent. Crowds gathered in an almost ritualistic display of forced festivity, cheering for marching bands and elaborate floats, all designed to usher in a holiday season where the primary goal is to purchase more things than strictly necessary. Experts confirm the event's efficacy in momentarily suspending reality.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-3",
+        "headline": "Supreme Court Saves Nation From Imminent Copyright Apocalypse, Delays Firing of Lone Defender of Public Domain",
+        "content": "In a truly earth-shattering decision, the Supreme Court has bravely stepped in to prevent the immediate removal of the Register of Copyrights, the individual solely responsible for preventing the internet from dissolving into a chaotic free-for-all of unlicensed memes. The Trump administration's attempt to swiftly terminate this vital guardian was thwarted, allowing the current head to continue their heroic vigil against copyright infringement while a complex legal battle unfolds. Humanity can breathe a collective sigh of relief, knowing that for now, the delicate balance of creative ownership is safe.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-4",
+        "headline": "President Trump Deploys 500 More Troops to D.C. to Ensure No Park Benches Feel Unsafe",
+        "content": "Following the tragic shooting of two National Guard members, President Trump's administration has announced an immediate surge of 500 additional National Guard troops into Washington, D.C., effectively quadrupling the existing federal presence. Defense Secretary Pete Hegseth assured the public that these highly trained soldiers would meticulously patrol every street corner, ensuring that not a single pigeon dares to loiter suspiciously, nor any inanimate object feels the chilling dread of potential vulnerability. The deployment aims to make D.C. so safe, it becomes boring.",
+        "originalSource": "CBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764269431111-5",
+        "headline": "Death Row Inmate Successfully Cheats System By Simply Living Really Long, Dies Of Natural Causes Before Scheduled Execution",
+        "content": "In a move that has prison officials scratching their heads, a Utah death row inmate, who had spent a commendable 37 years perfecting the art of waiting, has tragically passed away from 'natural causes' just as the state was finally getting around to his scheduled execution. The inmate, who had recently been granted a stay due to his cunning development of dementia, reportedly found a loophole in the justice system by simply outliving it. Taxpayers are now left to ponder whether the decades of legal battles and housing costs constituted an ironically effective life sentence.",
+        "originalSource": "CBS News",
+        "publishedTime": "17 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764264778566-0",
-        "headline": "Two Soldiers Are Seriously Injured Near the White House",
-        "content": "Two soldiers from West Virginia, Sarah and Andrew, are still very sick after being shot close to the White House. The police caught the person who they think did it. He came all the way from another state called Washington. The police are trying to figure out why he did it.",
-        "originalSource": "Sky News",
-        "publishedTime": "Hours ago"
+        "id": "story-1764269431111-0",
+        "headline": "The Guy Who Shot Soldiers May Have Worked for the CIA.",
+        "content": "A man named Rahmanullah Lakanwal, who is 29, shot and hurt two National Guard soldiers in Washington, D.C. The police think he drove all the way across America just to do this. Now, they found out he used to work with a secret government group called the CIA when he was in Afghanistan. This makes the whole case more complicated.",
+        "originalSource": "AP News / The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764264778566-1",
-        "headline": "The Case About the 2020 Election for President Trump Is Over",
-        "content": "A big court case in Georgia about the 2020 election, which was about President Trump and his friends, has officially stopped. Some people said the person running the case did some wrong things, so they decided to just close it.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764264778566-2",
-        "headline": "A Man Who Was Going to Be Executed Is Now Out of Jail",
-        "content": "A man in Louisiana who was going to be put to death after being in prison for a very long time is now out on bail. Some new clues and legal fights showed that he might not have done it. Now the state has to decide if they want to try him again or just let him go completely.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-3",
-        "headline": "Big Companies Think Everyone Will Want Smart Glasses Soon",
-        "content": "Really big computer companies are putting a lot of money into special glasses that can do cool things, like show computer stuff mixed with the real world. They think more and more people will finally want to wear them. This means you might see a lot more smart glasses everywhere soon!",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-4",
-        "headline": "American Teenager Mohammed Ibrahim Is Free After Being in Jail",
-        "content": "A teenager from America named Mohammed Ibrahim is out of jail in Israel. He was kept there for nine whole months. We are starting to learn why he was arrested and how he got out. Lots of people who care about human rights and leaders in America were watching his case closely.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-5",
-        "headline": "Couple Gets Chased After Stealing a Super Expensive Bottle of Wine",
-        "content": "A man and a woman stole a bottle of wine that cost as much as a new car – $24,000! Then they got chased by the police through the country roads in Virginia. The lady supposedly kept a worker busy while the man hid the wine bottles under his coat. It was a really exciting chase!",
+        "id": "story-1764269431111-1",
+        "headline": "Georgia Stops Its Case Against President Trump About the 2020 Election.",
+        "content": "A lawyer in Georgia has officially stopped a big case against President Trump and the people who worked with him. This case was about claims that they tried to mess with the 2020 election results in that state. The case had a lot of problems and was finally dropped because some said the lawyers for the state did something wrong.",
         "originalSource": "The Washington Post",
         "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-2",
+        "headline": "The Huge Macy's Thanksgiving Day Parade Starts in New York City.",
+        "content": "The big Macy's Thanksgiving Day Parade is happening right now in New York City! This parade means the holiday season has officially begun. Lots and lots of people are watching the amazing show with huge balloon characters, fancy parade cars, music bands from all over America, and fun performances.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-3",
+        "headline": "The Highest Court Says President Trump Cannot Immediately Fire a Top Official.",
+        "content": "The Supreme Court, which is the most important court, has said that President Trump's team cannot immediately fire the person who runs the U.S. Copyright Office. This is a big job about who owns ideas for books, songs, and movies. So, the person stays in charge for now, while they figure out who has the power to hire and fire them.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-4",
+        "headline": "President Trump's Team Is Sending More Soldiers to Washington D.C. After a Shooting.",
+        "content": "President Trump's team said that more police and soldiers will be in Washington, D.C. This is happening after two National Guard soldiers were shot. They plan to send 500 more National Guard soldiers to help keep the city safe. The person in charge of the military, Pete Hegseth, said this just hours after the attack.",
+        "originalSource": "CBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764269431111-5",
+        "headline": "An Old Man on Death Row Who Was Very Sick Has Died in Utah.",
+        "content": "A man in Utah who was supposed to be put to death has died naturally. He had been waiting for 37 years. A little while ago, his lawyers said he had a sickness called dementia, which made him forget things. Because he was so sick, they stopped his punishment, and people were asking if it's fair to punish someone who doesn't even know what's happening anymore.",
+        "originalSource": "CBS News",
+        "publishedTime": "17 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764264778566-0",
-        "headline": "Crimson on the Pavement",
-        "content": "The sirens wailed, a mournful chorus cutting through the crisp D.C. air. Near the White House, two West Virginia National Guard members, Sarah Beckstrom and Andrew Wolfe, clung to life, their uniforms stained crimson. A silence had fallen before the shots, broken only by the hum of the city. Now, a man, an Afghan national, sat in custody, his long journey from Washington state ending in chaos. Authorities probed for answers, searching for the why behind such a sudden, brutal act. The capital held its breath, wondering what shadows had driven a stranger to such violence, leaving two brave souls fighting for another dawn.",
-        "originalSource": "Sky News",
-        "publishedTime": "Hours ago"
+        "id": "story-1764269431111-0",
+        "headline": "A Cross-Country Shadow",
+        "content": "Rahmanullah Lakanwal, a 29-year-old Afghan, had driven a silent path across the vast expanse of America. His destination: Washington D.C., where he ambushed and wounded two unsuspecting National Guard troops. The city recoiled, grappling with the sudden violence. But the investigation unearthed a chilling past: Lakanwal had previously walked shadows with the CIA in Afghanistan. This revelation added a thick, critical layer to the unfolding mystery. Was he a ghost from a forgotten mission, or a pawn in a larger, unseen game? The capital held its breath, as the line between ally and adversary blurred under the unforgiving glare of the nation's spotlight.",
+        "originalSource": "AP News / The Guardian",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764264778566-1",
-        "headline": "A Cloud Disperses",
-        "content": "The legal storm over Georgia, a racketeering case regarding the 2020 election, finally dissipated. Filed in 2023 against President Trump and his allies, the complex investigation had consumed headlines and courtroom hours. Yet, allegations of prosecutorial misconduct cast a persistent shadow, increasingly obscuring the path to resolution. Now, with a quiet pronouncement, the prosecutor's office officially closed the books. The formidable charges faded into history, leaving behind unanswered questions and the lingering taste of an interrupted quest for justice. The chapter was closed, but its echoes remained.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764264778566-2",
-        "headline": "Decades Undone",
-        "content": "The harsh clang of the prison gates echoed, but this time, it was a sound of release. A Louisiana man, a ghost of decades spent on death row, stepped into the unfamiliar sun. His conviction, once an ironclad decree, had crumbled under the weight of new evidence and tireless legal challenges. The ruling had set him free, for now, a temporary reprieve. The state now wrestled with its conscience: pursue a retrial, or finally, fully, drop the charges that had stolen his life. He took a deep, trembling breath, the air tasting of an uncertain freedom, a world changed in his long absence.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-3",
-        "headline": "Eyes on Tomorrow",
-        "content": "The future, once confined to science fiction, is now perched on our noses. Tech giants, sensing a shift, are pouring fortunes into smart glasses. The buzz suggests consumers are finally ready to embrace these wearable wonders. No longer a niche gadget, these sleek frames promise to weave augmented reality and seamless connectivity into daily life. Imagine your world overlaid with digital information, communications flowing with a glance. A massive push for widespread adoption is imminent, transforming how we see, interact, and navigate reality, one lens at a time.",
-        "originalSource": "CBS News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-4",
-        "headline": "Beyond the Walls",
-        "content": "Nine months had stretched into an eternity behind Israeli prison walls for US teenager Mohammed Ibrahim. His release, sudden yet long-awaited, brought a quiet sigh of relief from across continents. For nearly a year, his story had echoed in the corridors of power, capturing the fierce advocacy of human rights groups and the diplomatic attention of US officials. Now, details of his arrest, a shadowed chapter, slowly began to surface, alongside the precise, often unspoken, conditions of his freedom. The world watched, hopeful that his ordeal was truly over, and that the young man could finally reclaim a life interrupted.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764264778566-5",
-        "headline": "The Vintage Pursuit",
-        "content": "The lure of liquid gold proved too strong. A couple, sophisticated in their deceit, executed a daring heist in a Virginia wine cellar. While she spun tales for the unsuspecting guide, he, with practiced ease, tucked a $24,000 bottle\b—perhaps more\b—into his overcoat. Their escape was fleeting. Soon, the serene countryside was shattered by the scream of sirens and the roar of engines. A high-speed chase ensued, a ballet of desperation and pursuit across winding roads. The taste of illicit vintage hung heavy in the air, a thrilling, reckless gamble playing out with every mile.",
+        "id": "story-1764269431111-1",
+        "headline": "The Unfinished Symphony of Justice",
+        "content": "In Georgia, the courtroom's echoes faded. A prosecutor, after a protracted legal dance, officially closed the high-profile racketeering case that sought to unravel the 2020 election results. President Trump and his allies, once caught in the intricate web of accusations, saw the threads dissolve. Filed in 2023, the case had been a tempest, encountering numerous setbacks. Ultimately, it was laid to rest, not by a verdict, but by the weight of allegations concerning prosecutorial misconduct. The pursuit of justice, in this instance, became an unfinished symphony, its final notes silenced by questions of process rather than proof.",
         "originalSource": "The Washington Post",
         "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-2",
+        "headline": "A Festival of Giants",
+        "content": "Manhattan awoke to a symphony of anticipation, as the annual Macy's Thanksgiving Day Parade unfurled its vibrant tapestry. Giant character balloons, titans of inflatable joy, soared against the crisp city sky. Elaborate floats, each a miniature world of wonder, glided along the avenues, carrying stars and festive scenes. Marching bands, their synchronized beats echoing from every corner of the nation, propelled the spectacle forward. Crowds, a joyful river of humanity, lined the streets, their collective gasp and cheer marking the official, exuberant start of the holiday season. The city, for a day, belonged to the giants and the dreamers.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-3",
+        "headline": "The Pen's Guardian",
+        "content": "The highest court of the land, the Supreme Court, rendered its judgment, a decision that paused the immediate designs of the President Trump administration. The target: the Register of Copyrights, the esteemed head of the U.S. Copyright Office. The administration sought to terminate this vital position, but the Court declined to grant immediate permission. This ruling effectively maintained the current leadership, leaving the pen's guardian in place amidst a swirling legal battle. The heart of the contention lay in the independence of the office and the nuanced authority concerning such critical appointments, ensuring the debate would continue.",
+        "originalSource": "AP News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764269431111-4",
+        "headline": "Capital Under Watch",
+        "content": "A shadow fell over Washington D.C. after the alarming shooting of two National Guard members. In response, the President Trump administration moved swiftly, announcing a significant surge in federal law enforcement. Defense Secretary Pete Hegseth, just hours after the attack, detailed the plan: an additional 500 National Guard troops would be deployed onto the capital's historic streets. The city, already reeling from the unexpected violence, prepared for an increased presence of uniformed personnel. The decision underscored the administration's commitment to securing the nation's capital, transforming it, temporarily, into a fortress of vigilance against unseen threats.",
+        "originalSource": "CBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764269431111-5",
+        "headline": "The Final Verdict of Time",
+        "content": "In a Utah prison, a death row inmate, who had lived under the shadow of execution for 37 agonizing years, finally found release. He died of apparent natural causes, sidestepping the lethal injection he had long awaited. Just months prior, a stay of execution had been granted; his lawyers argued that the cruel passage of time had stolen his mind, leaving him with dementia. This raised profound legal and ethical questions: can a person deemed no longer competent truly be executed? Time, it seemed, delivered its own, final verdict, sparing him the state's ultimate punishment, but not the long, slow decay of memory.",
+        "originalSource": "CBS News",
+        "publishedTime": "17 hours ago"
       }
     ]
   }
