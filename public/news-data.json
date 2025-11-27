@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764214752018,
+  "timestamp": 1764218831814,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764214670704-0",
-        "headline": "President Trump Exploits Shooting Incident to Push Discriminatory Immigration Agenda",
-        "content": "Following a tragic shooting near the White House that critically injured two National Guard members, President Trump swiftly labeled the event an 'act of terror.' Authorities have apprehended a 29-year-old Afghan national in connection with the incident. Progressive voices are raising concerns that President Trump is leveraging this isolated act to justify increased scrutiny and potentially discriminatory policies against immigrants, rather than addressing underlying societal issues that contribute to violence.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-0",
+        "headline": "Gun Violence Strikes Near White House, Wounding National Guard Members Amid Heightened Tensions",
+        "content": "Two members of the West Virginia National Guard were injured in a shooting just blocks from the White House, highlighting the persistent crisis of gun violence in the nation's capital. While a suspect, identified as an Afghan national, is in custody, officials' swift inclination to label the incident as potentially \"targeted\" or an \"act of terror\" raises concerns about due process and the potential for xenophobic narratives, rather than focusing on the systemic issues that contribute to such violence and ensuring comprehensive support for the victims.",
+        "originalSource": "AP News",
+        "publishedTime": "A few hours ago"
       },
       {
-        "id": "story-1764214670704-1",
-        "headline": "Concerns Mount Over Loyalty After President Trump's Envoy Allegedly Counseled Kremlin",
-        "content": "A significant controversy has erupted after a leaked phone call allegedly revealed President Trump's special envoy, Steven Witkoff, advising Kremlin officials on how to curry favor and secure political support from President Trump. This revelation has prompted several US representatives to demand Witkoff's immediate termination, raising serious questions about the integrity of diplomatic relations and potential foreign influence within President Trump's administration, undermining democratic processes.",
-        "originalSource": "The Guardian",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764214670704-2",
-        "headline": "Georgia's Racketeering Case Against President Trump Regarding 2020 Election Ends",
-        "content": "The highly anticipated criminal racketeering case in Georgia, which targeted President Trump and his allies for alleged interference in the 2020 election, has now officially concluded. The Fulton County prosecutor confirmed the definitive end of this contentious legal challenge, leaving many to question the broader implications for accountability and the integrity of future elections when powerful figures are implicated in attempts to subvert democratic outcomes.",
-        "originalSource": "The Guardian / The Washington Post",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764214670704-3",
-        "headline": "Corporate Executive Fired for Offensive Classist Remarks Highlighting Systemic Issues",
-        "content": "Campbell Soup Company has dismissed high-ranking executive Martin Bally after an internal investigation confirmed his disparaging comments that suggested the company's food products were solely for 'poor people.' While the termination is a step towards accountability, this incident exposes a deeper, systemic issue of classism and dismissive attitudes towards working-class consumers within corporate culture, underscoring the need for greater equity and respect across all economic strata.",
+        "id": "story-1764218747535-1",
+        "headline": "President Trump's Misogynistic Attack on Female Journalist Undermines Free Press and Public Discourse",
+        "content": "President Trump launched a reprehensible verbal assault on a New York Times reporter via his social media platform, calling the journalist \"third rate\" and \"ugly, both inside and out.\" This vitriolic response to an article discussing his physical appearance is not merely personal but a dangerous, misogynistic attack on a female journalist, contributing to a hostile environment for the press and eroding the foundations of free speech and respectful public discourse, particularly for women in media.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764214670704-4",
-        "headline": "President Trump's Misogynistic Attacks on Journalists Undermine Press Freedom and Gender Equity",
-        "content": "In a troubling continuation of a pattern, President Trump publicly referred to a New York Times reporter as 'ugly,' adding another personal and derogatory insult to his long record against women in media and public life. This behavior not only demeans individuals but also represents a systemic attack on the role of a free press and normalizes misogynistic language from the highest office, creating a hostile environment for female professionals and eroding standards of public discourse.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-2",
+        "headline": "Accountability Concerns Mount as President Trump's Final Criminal Case in Georgia Is Dismissed",
+        "content": "A Georgia prosecutor has announced the dismissal of the last criminal case pending against President Trump, effectively clearing the remaining charges he faced in the state. This decision, coming just before the Thanksgiving holiday, sparks significant questions about the fairness of the justice system and whether powerful figures are truly held accountable, fueling concerns about potential political influence and systemic biases that allow certain individuals to evade legal consequences.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764214670704-5",
-        "headline": "President Trump's Administration Escalates Militarization of D.C. Streets Following Shooting",
-        "content": "Hours after a shooting critically injured two National Guard members near the White House, Defense Secretary Pete Hegseth announced the President Trump administration's decision to deploy an additional 500 National Guard members to Washington, D.C. This rapid increase in military presence in the nation's capital raises concerns among progressive advocates about the escalating militarization of public spaces, the use of armed forces for domestic security, and the potential for overreach in response to isolated incidents rather than addressing root causes of societal unrest.",
-        "originalSource": "CBS News / The Washington Post",
-        "publishedTime": "Less than an hour ago"
+        "id": "story-1764218747535-3",
+        "headline": "Federal Judges Uphold Anti-Democratic Gerrymandering in North Carolina, Further Entrenching GOP Power",
+        "content": "Federal judges have controversially approved North Carolina's newly drawn congressional map, a move critics vehemently argue is strategically designed to manipulate election outcomes. This blatant gerrymandering is set to create an unfair pathway for the Republican Party to gain an additional seat in the U.S. House of Representatives, severely undermining fair representation, voter equity, and the fundamental democratic principle of one person, one vote.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764218747535-4",
+        "headline": "Climate Crisis Impacts Holiday Travel as Severe Winter Storm Causes Widespread Delays Across US",
+        "content": "Travelers across the United States are grappling with significant flight and road delays as a powerful winter storm system sweeps through the country. This major disruption during one of the busiest travel periods of the year underscores the urgent need to address the climate crisis, which contributes to the increasing frequency and intensity of extreme weather events, and highlights the vulnerabilities of our infrastructure and reliance on carbon-intensive travel systems.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764218747535-5",
+        "headline": "Systemic Failure: Army OB-GYN Accused of Horrifying Secret Recordings of Female Patients",
+        "content": "A military medical professional, an Army OB-GYN, is under investigation following deeply disturbing accusations that he secretly recorded numerous female patients during their medical treatments at a U.S. military installation. This alleged breach of trust and profound violation of privacy brings to light critical questions about the systemic failures within military healthcare, the patriarchal structures that can enable such abuse, and the urgent need for robust protections for vulnerable patients, particularly women, and unequivocal accountability for perpetrators.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764214670704-0",
-        "headline": "2 National Guard Members Shot Near White House; Suspect is Afghan National, Officials Say",
-        "content": "Two West Virginia National Guard members were critically injured after a shooting a few blocks from the White House in Washington, D.C. Authorities identified the suspect, who is now in custody, as a 29-year-old Afghan national. President Trump called the attack an “act of terror” and vowed new scrutiny of immigrants.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-0",
+        "headline": "2 National Guard Members Shot Near White House; Suspect is in Custody",
+        "content": "Two members of the West Virginia National Guard were wounded in a shooting a few blocks from the White House in Washington, D.C. The lone suspect, identified as an Afghan national, is in custody. Officials are investigating the attack as potentially \"targeted\" or an \"act of terror,\" raising concerns about security in the capital.",
+        "originalSource": "AP News",
+        "publishedTime": "A few hours ago"
       },
       {
-        "id": "story-1764214670704-1",
-        "headline": "'Traitor': US Representatives Call for Trump Envoy Witkoff to be Fired After Leaked Kremlin Call",
-        "content": "Several US representatives are demanding the immediate termination of Donald Trump's special envoy, Steven Witkoff, following the leak of a private phone call. In the call, Witkoff allegedly advised officials in the Kremlin on strategies they could use to gain favor and secure political support from President Trump.",
-        "originalSource": "The Guardian",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764214670704-2",
-        "headline": "Georgia Prosecutor Confirms Final Criminal Case Against Trump Over 2020 Election Is 'Over'",
-        "content": "The criminal racketeering case against former President Donald Trump and his allies in Georgia, which stemmed from allegations of interference in the 2020 election, has officially concluded. The Fulton County prosecutor announced that the case is definitively over, ending a significant and controversial legal challenge.",
-        "originalSource": "The Guardian / The Washington Post",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764214670704-3",
-        "headline": "Campbell's Fires Executive Who Disparaged Its Food as for \"Poor People\"",
-        "content": "Campbell Soup Company has terminated a high-ranking executive, Martin Bally, after he allegedly made offensive comments suggesting the company's products were primarily intended for and consumed by \"poor people.\" The firing follows an internal investigation into the disparaging remarks about the customer base.",
+        "id": "story-1764218747535-1",
+        "headline": "Trump Attacks Female Reporter as \"Ugly\" Over Article About His Aging",
+        "content": "Former President Donald Trump launched a verbal attack on a New York Times reporter on his social media platform. He called the journalist \"third rate\" and \"ugly, both inside and out\" in response to her published article that discussed and analyzed the former president's physical appearance and signs of aging.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764214670704-4",
-        "headline": "Trump Calls New York Times Reporter 'Ugly' in Latest Insult to Female Journalist",
-        "content": "President Donald Trump referred to a female reporter from the New York Times as “ugly” in a public comment during a recent engagement. This remark is the latest in a series of personal and derogatory insults he has directed toward women in the media and public life.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-2",
+        "headline": "Final Criminal Case Against Trump Dismissed After Georgia Prosecutor Drops Charges",
+        "content": "A Georgia prosecutor has announced the dismissal of the final criminal case that was pending against former President Donald Trump. This decision effectively clears the remaining charges he faced in the state, closing a chapter of his legal challenges just as the Thanksgiving holiday begins.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764214670704-5",
-        "headline": "Trump Administration to Deploy 500 More National Guard Troops to D.C. After Shooting",
-        "content": "Defense Secretary Pete Hegseth announced that the Trump administration is deploying an additional 500 National Guard members to Washington, D.C., streets. This decision was made just hours after the shooting of two Guard members near the White House, significantly increasing the security presence in the nation's capital.",
-        "originalSource": "CBS News / The Washington Post",
-        "publishedTime": "Less than an hour ago"
+        "id": "story-1764218747535-3",
+        "headline": "Federal Judges Allow North Carolina to Use New Congressional Map Favoring GOP",
+        "content": "Federal judges have given approval for North Carolina to implement a newly drawn congressional map. Critics argue the new district lines are strategically designed to create a clear path for the Republican Party to gain an additional seat in the U.S. House of Representatives in the upcoming election cycle.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764218747535-4",
+        "headline": "Holiday Travel Delays Pile Up Across US as Winter Storm Wreaks Havoc",
+        "content": "Travelers across the United States are experiencing significant flight and road delays as a large winter storm system moves through the country. The severe weather is causing major disruption during one of the busiest travel periods of the year leading into the Thanksgiving holiday weekend.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764218747535-5",
+        "headline": "Army OB-GYN Accused of Secretly Recording Women Under His Care",
+        "content": "A military medical professional, an Army OB-GYN, is under investigation following accusations that he secretly recorded numerous female patients. The alleged incidents took place while the women were receiving medical treatment under his care at a U.S. military installation.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764214670704-0",
-        "headline": "Radical Attack Near White House Injures Guard Members, President Trump Vows Stronger Border Security.",
-        "content": "Two brave West Virginia National Guard members were critically injured after a brazen attack just blocks from the White House in Washington, D.C. Authorities quickly identified the suspect, a 29-year-old Afghan national, who is now in custody. President Trump immediately condemned the incident as an \"act of terror\" and emphatically pledged to implement rigorous new scrutiny for immigrants, ensuring the safety and security of our nation and its defenders.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-0",
+        "headline": "Afghan National Suspect in Targeted Attack Near White House Wounds National Guard",
+        "content": "Two brave members of the West Virginia National Guard were tragically wounded in a brazen attack just blocks from our nation's capital, the White House. The suspect, an Afghan national, has been apprehended, and authorities are rightly investigating this serious incident as a potentially targeted act or even outright terror. This alarming event underscores critical questions about the security of our nation's capital and the vigilance required to protect our servicemen and women from such threats.",
+        "originalSource": "AP News",
+        "publishedTime": "A few hours ago"
       },
       {
-        "id": "story-1764214670704-1",
-        "headline": "Political Foes Demand Firing of President Trump's Envoy Following Dubious Leaked Call.",
-        "content": "Certain US representatives are aggressively demanding the immediate termination of President Trump's special envoy, Steven Witkoff, following the convenient leak of a private phone call. In the call, Witkoff allegedly advised officials in the Kremlin on strategies to potentially gain favor and secure political support from President Trump, an effort many believe is being politically weaponized to undermine the administration.",
-        "originalSource": "The Guardian",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764214670704-2",
-        "headline": "Baseless Georgia Racketeering Case Against President Trump Finally Concludes, Proving Political Persecution Failed.",
-        "content": "The politically motivated criminal racketeering case against President Trump and his allies in Georgia, which stemmed from unfounded allegations of interference in the 2020 election, has now officially concluded. The Fulton County prosecutor confirmed that this controversial legal challenge is definitively over, a clear vindication for President Trump against what many saw as a baseless political attack.",
-        "originalSource": "The Guardian / The Washington Post",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764214670704-3",
-        "headline": "Corporate Wokeness Strikes Again: Campbell's Fires Executive Over Perceived 'Offensive' Comments.",
-        "content": "Campbell Soup Company has reportedly fired a high-ranking executive, Martin Bally, after he allegedly made comments suggesting the company's products were primarily intended for and consumed by \"poor people.\" This firing, following an internal investigation, highlights the extreme lengths to which corporations are going in response to perceived slights, prioritizing political correctness over common sense.",
+        "id": "story-1764218747535-1",
+        "headline": "President Trump Rightfully Criticizes Partisan Reporter's Obsession with Appearance",
+        "content": "President Trump took to his social media platform to confront a New York Times reporter who, rather than focusing on substantive issues, published an article dissecting his physical appearance and perceived signs of aging. President Trump's characterization of the journalist as 'third rate' and 'ugly, both inside and out' reflects a broader frustration with the legacy media's constant, often petty, attacks rather than reporting on matters of national importance. True journalism should elevate discourse, not descend into personal, superficial critiques.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764214670704-4",
-        "headline": "President Trump Continues to Challenge Biased Media, Critics Seize on Personal Remark.",
-        "content": "President Trump recently referred to a New York Times reporter as “ugly” during a public appearance, once again demonstrating his direct style and refusal to back down from the often-biased media. This remark is being predictably sensationalized by his critics, who consistently focus on minor personal comments rather than the substantial policies and achievements of President Trump's administration.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-2",
+        "headline": "President Trump Fully Vindicated as Final Politically Motivated Georgia Case Dismissed",
+        "content": "In a welcome development for justice and liberty, a Georgia prosecutor has announced the dismissal of the final criminal case pending against President Trump. This crucial decision effectively clears the remaining charges he faced in the state, finally closing a chapter of what many observers have seen as relentless and politically motivated legal challenges against a leading conservative voice. This outcome, coming just before the Thanksgiving holiday, is a testament to the resilience of truth.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764214670704-5",
-        "headline": "President Trump Swiftly Deploys Additional Guard Troops to Secure Nation's Capital After Violent Attack.",
-        "content": "Defense Secretary Pete Hegseth announced that President Trump's administration is deploying an additional 500 National Guard members to the streets of Washington, D.C. This decisive action comes just hours after the unconscionable shooting of two Guard members near the White House, significantly enhancing the security presence to protect our nation's capital and uphold law and order.",
-        "originalSource": "CBS News / The Washington Post",
-        "publishedTime": "Less than an hour ago"
+        "id": "story-1764218747535-3",
+        "headline": "Federal Judges Uphold North Carolina's Right to Implement Fair Congressional Map",
+        "content": "Federal judges have rightly given their approval for North Carolina to implement a newly drawn congressional map, affirming the state's prerogative in determining its electoral districts. This decision ensures that the people of North Carolina will have proper representation, despite predictable complaints from those who fear a fairer electoral landscape. The new lines are designed to ensure genuine representation, reflecting the will of the voters and providing a clear path for the Republican Party to secure additional legislative seats, thereby strengthening conservative principles in the U.S. House of Representatives.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764218747535-4",
+        "headline": "Powerful Winter Storm Disrupts Holiday Travel, Demands Personal Preparedness Across Nation",
+        "content": "Families across the United States are facing considerable flight and road delays as a formidable winter storm system brings significant disruption during the crucial Thanksgiving holiday travel period. While such natural events are beyond human control, this situation underscores the importance of individual preparedness and self-reliance when navigating challenging conditions, ensuring personal liberty and safety during these traditional family gatherings.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764218747535-5",
+        "headline": "Appalling Betrayal: Army OB-GYN Accused of Secretly Recording Female Patients",
+        "content": "A profoundly disturbing investigation is underway into an Army OB-GYN, who stands accused of the egregious violation of secretly recording numerous female patients while they were under his care at a U.S. military installation. This alleged breach of trust is an appalling affront to the dignity and privacy of these women and a severe blow to the integrity expected of our military medical professionals. Such actions undermine the bedrock of the doctor-patient relationship and demand swift, decisive accountability to uphold the highest standards of morality and honor within our armed forces.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764214670704-0",
-        "headline": "National Guard Members Shot Just Blocks From White House, Leading Nation To Immediately Blame Area's Low-Flying Pigeons",
-        "content": "In a shocking turn of events proving no place is truly safe, two National Guard members were critically injured just a few leisurely strolls from the White House, forcing authorities to quickly identify the culprit as an 'Afghan National' before President Trump could even finish his initial 'act of terror' tweet. The President, ever-vigilant, immediately promised new scrutiny of anyone who has ever, at any point, breathed, just to be safe.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-0",
+        "headline": "National Guard Members Courageously Shot a Stone's Throw From White House, Suspect Caught After Trying to Flee With Gun Still Smoking",
+        "content": "In a daring display of proximity, two brave members of the West Virginia National Guard were tragically grazed by bullets merely a few short blocks, give or take a few more, from the White House. The lone assailant, an Afghan national whose motivations remain as clear as mud, was swiftly apprehended after a grueling chase that allegedly involved him tripping over his own shoelaces. Officials are now bravely investigating whether this was a \"targeted\" attack, perhaps aimed at the very concept of \"near,\" or simply an \"act of terror\" against the capital's collective sense of geographical accuracy. Security experts are already calling for a new \"buffer zone\" that extends to the next state over.",
+        "originalSource": "AP News",
+        "publishedTime": "A few hours ago"
       },
       {
-        "id": "story-1764214670704-1",
-        "headline": "President Trump's Envoy Fired For Daring To Teach The Kremlin His Secret Language Of Flattery",
-        "content": "US Representatives are in a collective tizzy, demanding the immediate termination of President Trump's special envoy, Steven Witkoff, after a leaked phone call revealed he was allegedly giving the Kremlin a detailed 'how-to' guide on charming the President. Witkoff reportedly outlined foolproof strategies for 'gaining favor' and 'securing political support,' which mostly involved lavish praise and agreeing with everything. Critics are furious, not at the Kremlin, but at Witkoff for making it sound so easy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764214670704-2",
-        "headline": "Georgia Prosecutor Announces 'Final' Criminal Case Against President Trump Is 'Over,' Holds Breath For Next One",
-        "content": "In a development that has absolutely no one believing it's truly the end, the criminal racketeering case against President Trump and his alleged co-conspirators in Georgia has officially concluded. The Fulton County prosecutor, reportedly seen exhaling a sigh of relief so profound it registered on seismographs, declared the case 'definitively over,' prompting immediate bets on how long until the next 'final' legal challenge emerges.",
-        "originalSource": "The Guardian / The Washington Post",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764214670704-3",
-        "headline": "Campbell's Fires Executive For Mistaking 'Marketing Strategy' With 'Publicly Stating Obvious Truth'",
-        "content": "Campbell Soup Company has bravely parted ways with high-ranking executive Martin Bally, who, in a stunning lapse of corporate decorum, allegedly suggested that the company's products were 'primarily intended for and consumed by poor people.' The company clarified that while their delicious, budget-friendly offerings *are* enjoyed by a wide demographic, one simply does not articulate such things during a shareholder meeting, or ever, really.",
+        "id": "story-1764218747535-1",
+        "headline": "President Trump Declares Reporter 'Ugly' and 'Third Rate' for Daring to Suggest Time Moves Forward for Everyone",
+        "content": "In a bold move to preserve the nation's fragile grip on eternal youth, President Trump launched a blistering digital broadside against a New York Times reporter. The journalist, whose article dared to imply President Trump might, like all mortals, be subject to the relentless march of time, was summarily labeled \"third rate\" and \"ugly, both inside and out.\" Sources close to the President suggest this preemptive strike was necessary to protect the American public from the dangerous notion that gravity and calendars apply equally to everyone, especially those with impeccable hair. The reporter has since been advised to wear a bag over her head for the sake of national morale.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764214670704-4",
-        "headline": "President Trump Provides Unsolicited 'Beauty Critique' To New York Times Reporter, Nation Awaits His Next Style Guide",
-        "content": "In a move that certainly won't surprise anyone, President Trump publicly declared a female New York Times reporter 'ugly' during a recent engagement. White House sources indicate the President was merely 'providing constructive feedback' to the journalist, likely as a public service, and is now reportedly considering launching a new reality show titled 'America's Next Top Journalist (Who Is Also Hot).' This highly anticipated program would feature him judging reporters solely on their looks.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-2",
+        "headline": "Final Criminal Case Against President Trump Mysteriously Evaporates Just in Time for Thanksgiving Leftovers",
+        "content": "In a miraculous turn of events that some are calling \"peak holiday season convenience,\" Georgia prosecutors announced the spontaneous dismissal of the last remaining criminal case against President Trump. The charges, which had been hanging around longer than Aunt Mildred's fruitcake, simply vanished into thin air, clearing President Trump's schedule just in time to debate the proper way to carve a turkey. Legal experts are baffled, suggesting the case may have simply gotten bored and wandered off, or perhaps it was raptured to a higher plane of legal non-existence. This effectively closes a chapter in legal history, proving once again that some things are just meant to be dropped before the mashed potatoes.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764214670704-5",
-        "headline": "President Trump Deploys 500 More National Guard Troops To D.C., Hopes To Overwhelm Any Future Shooters With Sheer Numbers",
-        "content": "Just hours after two National Guard members were shot near the White House, Defense Secretary Pete Hegseth announced the President Trump administration's brilliant new security strategy: simply add more people. An additional 500 National Guard members are being deployed to Washington, D.C., streets, presumably to act as a larger human shield or perhaps to confuse potential assailants with an overwhelming abundance of identical uniforms. Critics suggest the next logical step would be to deploy 5,000 more after the first 500 get 'confused.'",
-        "originalSource": "CBS News / The Washington Post",
-        "publishedTime": "Less than an hour ago"
+        "id": "story-1764218747535-3",
+        "headline": "North Carolina Unveils 'Impossibly Fair' Congressional Map That Accidentally Guarantees One Party More Power",
+        "content": "Federal judges, clearly impressed by the sheer artistry, have given the green light to North Carolina's latest congressional map, a cartographic masterpiece critics are calling \"blatantly gerrymandered with a straight face.\" The new district lines, described as looking like a spilled bowl of spaghetti or perhaps a drunk Picasso's attempt at modern art, are hailed by proponents as a triumph of democratic fairness, despite also creating an undeniable, yet completely unintentional, pathway for the Republican Party to snag an additional seat in the U.S. House. Experts are calling it a \"happy accident\" of geometric precision.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764218747535-4",
+        "headline": "Winter Storm Declares War on Nation's Travel Plans, Citing 'General Annoyance' and 'Obligation to Chaos'",
+        "content": "As if on cue, a massive winter storm has declared its annual war on American holiday travelers, plunging airports and highways nationwide into a predictable state of utter gridlock and despair. Millions of families, who apparently forgot this happens every single year, are now experiencing the joyous tradition of interminable delays, canceled flights, and the existential dread of spending Thanksgiving in an airport terminal next to a perpetually crying child. Forecasters confirm the storm's primary objective is to ensure everyone fully appreciates the true meaning of \"family togetherness\" by preventing them from actually reaching their families.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764218747535-5",
+        "headline": "Army OB-GYN's Innovative 'Medical Documentation' System Discovered to Be Just Secretly Filming Patients",
+        "content": "In a stunning development that questions the very nature of patient privacy, an Army OB-GYN is under investigation for allegedly implementing a highly unconventional \"medical research\" program: secretly recording numerous female patients during examinations. The doctor, apparently striving for a level of detail previously thought impossible, reportedly believed that covert video surveillance was merely an advanced form of medical charting. Military officials were reportedly \"shocked\" to discover that the doctor's \"cutting-edge data collection methods\" involved hidden cameras instead of, you know, a pen and paper.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764214670704-0",
-        "headline": "Two Soldiers Were Shot Near the White House",
-        "content": "Two soldiers from the National Guard got really hurt when someone shot them close to the White House in Washington, D.C. The police caught the person who did it, and he is a 29-year-old guy from Afghanistan. President Trump said this was like a scary attack and promised to check people coming into the country more carefully.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-0",
+        "headline": "Someone Shot Two Soldiers Close to the President's House",
+        "content": "Two people from the National Guard, who are like soldiers, got shot near the White House. The White House is where President Trump lives. The police caught the person who did it. They are trying to figure out if it was on purpose or a bad attack, which makes people worried about safety in Washington, D.C.",
+        "originalSource": "AP News",
+        "publishedTime": "A few hours ago"
       },
       {
-        "id": "story-1764214670704-1",
-        "headline": "Some Lawmakers Want President Trump's Helper Fired",
-        "content": "Some important people in the US government want President Trump's special helper, Steven Witkoff, to get fired right away. This is because someone secretly heard him talking on the phone. They say he was telling people from Russia's government how they could get President Trump to like them and help them.",
-        "originalSource": "The Guardian",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764214670704-2",
-        "headline": "A Big Legal Case Against President Trump Is Over",
-        "content": "A big legal problem in Georgia that was against President Trump and his friends is now totally finished. This problem was about people saying he tried to mess with the 2020 election. The main lawyer in Fulton County said the case is completely done, which means a big and sometimes argued-about legal challenge is over.",
-        "originalSource": "The Guardian / The Washington Post",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764214670704-3",
-        "headline": "Campbell's Soup Company Fired a Boss for Mean Comments",
-        "content": "The Campbell Soup Company fired a really important boss named Martin Bally. This happened because people said he made mean comments. He supposedly said that the company's food was mostly for 'poor people.' They fired him after looking into his mean words about their customers.",
+        "id": "story-1764218747535-1",
+        "headline": "President Trump Called a Lady Reporter Ugly Because of a Story",
+        "content": "President Trump said some mean things about a reporter from the New York Times on his social media page. He called her \"ugly\" and not very good at her job. He was upset because she wrote a story about how President Trump looked and if he was getting older.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764214670704-4",
-        "headline": "President Trump Said a Reporter Was Not Pretty",
-        "content": "President Trump said that a lady reporter from the New York Times newspaper was 'ugly' when he was talking in front of many people. This was another time he said something mean about women who work in the news or are famous.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-2",
+        "headline": "The Last Big Legal Problem for President Trump Is Now Gone",
+        "content": "In Georgia, a special lawyer decided to stop the last big legal problem President Trump had. This means all the things he was accused of in Georgia are over. It happened just before Thanksgiving, which is a big holiday.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764214670704-5",
-        "headline": "President Trump Is Sending More Soldiers to D.C.",
-        "content": "The people who work for President Trump said they are sending 500 more soldiers from the National Guard to Washington, D.C. They decided this only a few hours after two soldiers got shot near the White House. This will make the city much safer.",
-        "originalSource": "CBS News / The Washington Post",
-        "publishedTime": "Less than an hour ago"
+        "id": "story-1764218747535-3",
+        "headline": "North Carolina Gets to Use a New Map That Helps One Political Team",
+        "content": "Some important judges said that North Carolina can now use a new map for how they choose people for Congress. Some people are mad because they think this new map was made on purpose to help the Republican team get one more spot in the U.S. House of Representatives next time there's an election.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764218747535-4",
+        "headline": "A Big Snowstorm Is Messing Up Everyone's Thanksgiving Travel Plans",
+        "content": "Lots of people trying to travel for the holidays are having big problems because of a huge winter storm. Planes are late, and driving is hard all over the country. This bad weather is causing a lot of trouble right when everyone wants to go see family for Thanksgiving.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764218747535-5",
+        "headline": "A Military Doctor Might Have Secretly Filmed Ladies Who Trusted Him",
+        "content": "An Army doctor, who helps women, is being investigated because people say he secretly filmed many of his female patients. This happened when they were getting check-ups at a special Army place. This is a very serious accusation.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764214670704-0",
-        "headline": "Echoes of a Nation's Fear",
-        "content": "The sudden crack of gunfire shattered the late afternoon quiet near the White House. Two National Guard members, standing sentinel, crumpled, their uniforms stained crimson. A 29-year-old Afghan national, the perpetrator, was quickly subdued, but the echoes of the shots reverberated through the capital. President Trump, his voice firm, declared it an “act of terror,” promising a swift, unyielding review of immigration policies. A city already on edge tightened its grip, the incident a stark reminder of the fragile peace. Fear, a cold, uninvited guest, settled over Washington, D.C., whispering of future shadows.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-0",
+        "headline": "The Capital's Scar",
+        "content": "The crisp autumn air in Washington D.C. usually hummed with political discourse, but today it echoed with gunfire. Blocks from the White House, two West Virginia National Guard members fell, wounded. An Afghan national, the sole suspect, was swiftly taken into custody, but the city held its breath. Investigators whispered of \"targeted\" attacks, of \"acts of terror.\" A ripple of unease spread through the capital, a stark reminder that even within sight of the nation's most powerful symbols, vulnerabilities lurked, and the invisible threads of safety could unravel with a single, sudden act.",
+        "originalSource": "AP News",
+        "publishedTime": "A few hours ago"
       },
       {
-        "id": "story-1764214670704-1",
-        "headline": "The Envoy's Whisper",
-        "content": "The clandestine recording surfaced like a serpent in the political garden. Steven Witkoff, President Trump's special envoy, his voice a hushed conspiratorial tone, offered counsel to Kremlin officials. Strategies for securing favor, methods to weave their narrative into the fabric of American policy—it was all laid bare. The revelation ignited a furious blaze among U.S. representatives. Accusations of \"traitor\" echoed through congressional halls. Demands for Witkoff's immediate dismissal grew louder, a chorus of indignation against what many perceived as a profound betrayal of trust and national interest. The whisper became a shout.",
-        "originalSource": "The Guardian",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764214670704-2",
-        "headline": "When Justice Closed Its Books",
-        "content": "For years, the specter of election interference had loomed over Georgia's political landscape, a complex racketeering case entangling President Trump and his allies. Allegations of tampering with the 2020 election results fueled countless headlines and legal battles. Then, without fanfare, the Fulton County prosecutor announced the definitive end. The long, winding legal saga was \"over.\" The contentious challenge, a significant chapter in the nation’s political history, simply ceased to be. The courthouse doors, once a beacon of ongoing contention, finally swung shut, leaving behind a silence pregnant with unresolved questions.",
-        "originalSource": "The Guardian / The Washington Post",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764214670704-3",
-        "headline": "A Spoonful of Humiliation",
-        "content": "The corporate boardroom, usually a bastion of discretion, erupted with an unsavory truth. Martin Bally, a high-ranking Campbell's executive, had let slip a disparaging remark: their iconic canned goods, he reportedly stated, were for \"poor people.\" The words, once uttered, couldn't be unsaid. An internal investigation, swift and merciless, followed. The company, acutely aware of public perception and its broad customer base, acted decisively. Bally was out, his career dissolved in a bitter taste of his own making. The incident served as a stark, public lesson in corporate humility and respect for every consumer.",
+        "id": "story-1764218747535-1",
+        "headline": "The Mirror's Edge",
+        "content": "The screen glowed, a digital stage for President Trump's fury. A New York Times reporter had dared to chronicle the inevitable march of time on his physical appearance, an analysis of aging visible for all to see. His response was swift, venomous. Across his social media, he branded her \"third rate,\" \"ugly, both inside and out.\" The digital broadside, aimed at the journalist for her observations, tore through the virtual landscape, leaving a trail of charged words and a stark reminder of the thin skin surrounding public images, especially when confronted with the truth of the looking glass.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than an hour ago"
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1764214670704-4",
-        "headline": "Words Like Daggers",
-        "content": "The public event buzzed with cameras and anticipation, yet President Trump’s words cut through the chatter like a serrated blade. He pointed to a New York Times reporter, her face suddenly etched with surprise, and publicly declared her \"ugly.\" The insult, sharp and personal, was not an isolated incident but another addition to a growing tapestry of derogatory remarks leveled against women in media and public life. Her professionalism stood in stark contrast to the leader's harsh critique, a moment that underscored the ongoing battle for respect and civility in the public square.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Last few hours"
+        "id": "story-1764218747535-2",
+        "headline": "A Chapter Closes in Georgia",
+        "content": "The news arrived quietly, just as Thanksgiving gourds were being polished. In Georgia, a prosecutor's announcement shifted the legal landscape: the final criminal case against President Trump was dismissed. A chapter, thick with challenges and court appearances, now closed. The last remaining charges he faced in the state evaporated, leaving a legal vacuum where accusations once stood. For President Trump, the decision cleared his name in this particular jurisdiction, offering a moment of reprieve, a legal quietude descending upon him just as families gathered to acknowledge their blessings.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764214670704-5",
-        "headline": "A City Under Watch",
-        "content": "The shadow of recent gunfire still clung to Washington, D.C., a stark reminder of the vulnerability of even the most protected spaces. Hours after two National Guard members were shot near the White House, the Trump administration moved decisively. Defense Secretary Pete Hegseth announced the deployment of an additional 500 National Guard troops. Their presence, a visible increase in armed uniforms and armored vehicles, transformed the capital’s streets. A city already braced for uncertainty now felt the tangible weight of heightened security, each additional uniform a stark symbol of a nation on high alert.",
-        "originalSource": "CBS News / The Washington Post",
-        "publishedTime": "Less than an hour ago"
+        "id": "story-1764218747535-3",
+        "headline": "Lines of Power",
+        "content": "The federal judges' gavel fell, reshaping North Carolina's political terrain. Approval was granted for a new congressional map, lines meticulously redrawn across the state's geography. Critics immediately voiced their alarm, asserting these new districts were not organic but strategically crafted, a cartographic maneuver designed to pave a clear path for the Republican Party. The aim: to secure an additional seat in the U.S. House of Representatives in the looming election cycle. The map, now official, became a silent testament to the enduring power of lines on paper to dictate the future of representation.",
+        "originalSource": "CBS News",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764218747535-4",
+        "headline": "Thanksgiving's Whiteout",
+        "content": "The holiday spirit across the United States was battling a formidable opponent: a massive winter storm. As families prepared to converge for Thanksgiving, skies darkened and roads slicked. Flight boards glowed red with cancellations, and highways became parking lots. The storm system, a vast, swirling beast, was wreaking havoc on one of the busiest travel periods of the year. Dreams of pumpkin pie and family reunions gave way to the harsh reality of unexpected layovers and icy detours. The country braced itself, waiting for the storm's fury to pass, hoping to salvage what remained of their holiday journeys.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764218747535-5",
+        "headline": "The Unseen Lens",
+        "content": "Within the sterile walls of a U.S. military installation, a profound trust was allegedly shattered. An Army OB-GYN, a figure meant to embody care and discretion, now faced an investigation. Accusations surfaced: he had secretly recorded numerous female patients during their most vulnerable moments, while they sought medical treatment under his supposed care. The violation was chilling, a hidden lens capturing privacy without consent. The silence of the examination room, once a sanctuary, now echoed with the haunting possibility of unseen surveillance, casting a long shadow over the very notion of medical integrity and patient safety.",
+        "originalSource": "PBS News",
+        "publishedTime": "4 hours ago"
       }
     ]
   }
