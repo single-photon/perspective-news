@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764271647612,
+  "timestamp": 1764275758190,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764271570594-0",
-        "headline": "Troubling Links Emerge Between DC Shooter and CIA Operations, Exposing Systemic Vetting Failures",
-        "content": "A recent incident where an Afghan national, Rahmanullah Lakanwal, allegedly shot two National Guard members in Washington D.C. has uncovered deeply concerning ties to U.S. intelligence operations. Lakanwal, who entered the U.S. during 2021 evacuation efforts, was reportedly a CIA-affiliated worker. This revelation demands critical scrutiny of the U.S. government's vetting processes for individuals involved in its foreign operations, highlighting systemic breakdowns in accountability and the potential long-term consequences of such unchecked practices.",
+        "id": "story-1764275690447-0",
+        "headline": "Families Decry Tragic Violence as National Guard Member Suffers \"Mortal Wound\" Amidst Unanswered Questions About Suspect's Past",
+        "content": "The shooting of two National Guard members near the White House tragically underscores the pervasive violence permeating our society, leaving one servicewoman's family devastated as her father reports a \"mortal wound.\" While Rahmanullah Lakanwal, an Afghan national, is in custody, the unsettling emergence of alleged CIA ties for the suspect raises critical questions about government oversight and accountability in preventing such incidents, demanding a thorough and transparent investigation into systemic failures.",
+        "originalSource": "The New York Times",
+        "publishedTime": "15 minutes ago"
+      },
+      {
+        "id": "story-1764275690447-1",
+        "headline": "Department of Justice's Pursuit of Death Penalty Raises Ethical Concerns as Administration Expands Military Presence in Capital",
+        "content": "In the wake of an attack injuring two National Guard members, the Department of Justice's swift vow to pursue the death penalty for the Afghan national suspect reignites urgent debates about the morality and effectiveness of capital punishment as a systemic response to violence. Concurrently, President Trump's administration is deploying 500 additional Guard troops to Washington, D.C., following his characterization of the incident as a 'terror' attack, a move that risks further militarizing the capital and raises concerns about civil liberties rather than addressing root causes of conflict.",
+        "originalSource": "Fox News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764275690447-2",
+        "headline": "Environmental Justice Demands Accountability as U.S. Navy Faces Allegations of Plutonium Cover-up Threatening Public Health",
+        "content": "The U.S. Navy stands accused of a grave cover-up concerning the perilous presence of plutonium at San Francisco's former Hunters Point Naval Shipyard, exposing a systemic failure to protect public health and the environment. This unfolding scandal amplifies critical environmental justice concerns for the local community and surrounding areas, demanding immediate, transparent investigations and a commitment to genuine remediation to safeguard vulnerable populations from enduring toxic legacies.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764271570594-1",
-        "headline": "President Trump's Administration Deploys More Troops to D.C., Raising Concerns About Militarization and Civil Liberties",
-        "content": "In the wake of an ambush on two National Guard members in Washington D.C., President Trump's administration has announced the deployment of an additional 500 National Guard troops. This decision to increase federal law enforcement presence on city streets raises significant concerns about the growing militarization of domestic spaces, potentially infringing on civil liberties and escalating tensions rather than addressing underlying causes of unrest. A progressive approach would advocate for community-based solutions over increased military presence.",
+        "id": "story-1764275690447-3",
+        "headline": "Court Decision Allows Partisan Gerrymandering to Undermine Democratic Representation in North Carolina",
+        "content": "In a concerning decision, federal judges have allowed North Carolina to proceed with a redrawn congressional map for upcoming elections, a move widely criticized as a blatant act of partisan gerrymandering. This new map, explicitly designed to secure an additional U.S. House seat for Republicans, systematically distorts voter representation and further entrenches political power imbalances, threatening the integrity of democratic processes and disenfranchising communities across the state.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "19 hours ago"
       },
       {
-        "id": "story-1764271570594-2",
-        "headline": "MIT Study Reveals AI's Alarming Impact on 12% of American Jobs, Urging Systemic Responses to Protect Workers",
-        "content": "A groundbreaking MIT study highlights the urgent threat posed by artificial intelligence, revealing its capacity to perform the tasks of an estimated 12% of the American workforce. This rapid technological advancement signals a profound reshaping of the U.S. labor market, raising critical questions about job displacement and economic inequality. Progressive solutions must prioritize robust social safety nets, comprehensive worker retraining programs, and ethical regulation to ensure technology serves the many, not just corporate profits.",
+        "id": "story-1764275690447-4",
+        "headline": "MIT Study Reveals Artificial Intelligence's Looming Threat of Mass Job Displacement, Demanding Systemic Solutions for Workers",
+        "content": "An alarming new MIT study forecasts a significant upheaval in the American labor market, revealing that Artificial Intelligence is already capable of performing tasks equivalent to 12% of the U.S. workforce. This rapid technological advancement presents a systemic challenge, raising urgent questions about widespread job displacement and the critical need for robust social safety nets, worker retraining programs, and policies that ensure the benefits of AI are equitably distributed rather than exacerbating economic inequality.",
         "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1764271570594-3",
-        "headline": "Federal Judges Uphold North Carolina's Partisan Gerrymander, Further Eroding Democratic Representation",
-        "content": "In a move that severely undermines democratic principles, federal judges have approved North Carolina's newly redrawn congressional map. This map, overtly crafted by Republicans to secure an additional U.S. House seat, is a blatant example of partisan gerrymandering. Such judicial approvals perpetuate a broken system where politicians choose their voters rather than the other way around, fundamentally distorting fair representation and exacerbating existing power imbalances.",
+        "id": "story-1764275690447-5",
+        "headline": "Death Row Inmate's Untimely Passing Reignites Urgent Calls to Abolish Inhumane Capital Punishment System",
+        "content": "The natural death of a Utah man, who spent 37 years on death row and was previously spared execution due to dementia, tragically underscores the profound ethical and systemic failures within America's capital punishment system. This case reignites crucial debates about mental competency for execution and the inherent cruelty of prolonged incarceration on death row, amplifying urgent calls for a fundamental re-evaluation and ultimate abolition of capital punishment in the U.S.",
         "originalSource": "CBS News",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1764271570594-4",
-        "headline": "President Trump's Unilateral Decision to Exclude South Africa from G20 Jeopardizes Global Cooperation",
-        "content": "President Trump has controversially announced his intention to bar South Africa from the upcoming G20 summit. This unilateral foreign policy decision risks alienating key international partners and undermining the spirit of multilateral cooperation essential for addressing global challenges. Such actions reflect a concerning trend towards isolationism and a disregard for collective diplomatic efforts, potentially weakening international alliances and hindering progress on pressing worldwide issues.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764271570594-5",
-        "headline": "Campbell's Fires Executive for Dehumanizing 'Poor People' Comments, Exposing Deeper Systemic Classism",
-        "content": "Campbell's soup company has dismissed a high-level executive following allegations of making deeply insensitive comments about 'poor people.' While the swift removal of the individual is a necessary step, this incident exposes a more profound issue of systemic classism that can permeate corporate cultures. It highlights the dehumanization of those struggling with economic hardship and underscores the need for genuine, sustained efforts to address inequality and promote empathy within all levels of corporate leadership, beyond merely disciplining individuals.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "19 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764271570594-0",
-        "headline": "Suspect in Washington DC national guard shooting had ties to CIA, agency confirms",
-        "content": "The Afghan national suspected of shooting two National Guard members in D.C. was previously a CIA-affiliated worker who came to the US in 2021 as part of the evacuation efforts. New details about the suspect, Rahmanullah Lakanwal, link him to U.S. intelligence operations abroad, raising questions about the vetting process.",
+        "id": "story-1764275690447-0",
+        "headline": "Injured National Guard Member's Father Says 'She Has a Mortal Wound' After D.C. Shooting",
+        "content": "Two National Guard members were shot near the White House. The suspect, Rahmanullah Lakanwal, an Afghan national, is in custody. Details about the suspect's alleged CIA ties have emerged, and the father of one injured member stated his daughter suffered a \"mortal wound\" as the investigation continues.",
+        "originalSource": "The New York Times",
+        "publishedTime": "15 minutes ago"
+      },
+      {
+        "id": "story-1764275690447-1",
+        "headline": "DOJ Vows Death Penalty for Suspect in D.C. National Guard Shooting",
+        "content": "Following the ambush attack that wounded two National Guard members, the Department of Justice has vowed to seek the death penalty for the Afghan national suspect. The Trump administration is also deploying 500 more Guard troops to Washington, D.C., following the incident President Trump called a 'terror' attack.",
+        "originalSource": "Fox News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764275690447-2",
+        "headline": "US Navy Accused of Cover-up Over Dangerous Plutonium in San Francisco",
+        "content": "The U.S. Navy is facing accusations of a cover-up regarding the dangerous presence of plutonium at the former Hunters Point Naval Shipyard in San Francisco. The scandal raises significant environmental and public health concerns for the community and surrounding area, sparking new investigations.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764271570594-1",
-        "headline": "Trump admin. sending 500 more Guard troops to D.C. after shooting, Hegseth says",
-        "content": "Following the ambush that wounded two National Guard troops in Washington, D.C., the Trump administration announced plans to deploy an additional 500 National Guard troops to the city's streets to increase the federal law enforcement presence.",
+        "id": "story-1764275690447-3",
+        "headline": "Federal Judges Allow North Carolina to Use Redrawn Congressional Map",
+        "content": "Federal judges have permitted North Carolina to implement a redrawn congressional map for upcoming elections. The map was specifically designed in an effort to give Republicans an additional U.S. House seat, a move that is expected to strengthen the GOP's political position in the state.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "19 hours ago"
       },
       {
-        "id": "story-1764271570594-2",
-        "headline": "AI can already do the work of 12% of America's workforce, MIT study says",
-        "content": "A new study from MIT indicates that artificial intelligence is rapidly transforming the US job market, capable of performing the tasks and cognitive work of approximately 12% of the American workforce across various industries. This suggests swift reshaping of America's labor market.",
+        "id": "story-1764275690447-4",
+        "headline": "MIT Study Says AI Can Already Do the Work of 12% of America's Workforce",
+        "content": "A new MIT study indicates that Artificial Intelligence is swiftly reshaping the American labor market. Researchers found that AI is currently capable of performing many technical and cognitive tasks across various industries, matching the workload of roughly 12% of the total U.S. workforce.",
         "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1764271570594-3",
-        "headline": "Judges allow North Carolina to use House map drawn in bid to give GOP another seat",
-        "content": "Federal judges have approved North Carolina's use of a newly redrawn congressional map. The map was explicitly designed by Republicans in a successful bid to create an additional U.S. House seat for the party, impacting the state's political balance.",
+        "id": "story-1764275690447-5",
+        "headline": "Death Row Inmate With Dementia Dies of Apparent Natural Causes",
+        "content": "A Utah man who spent 37 years on death row has died of apparent natural causes. The inmate had been spared execution earlier this fall by a judge after he developed dementia, sparking renewed debate about mental competency and the application of capital punishment in the U.S.",
         "originalSource": "CBS News",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1764271570594-4",
-        "headline": "Trump says he's barring South Africa from participating in next year's G20 summit",
-        "content": "President Trump announced he is barring South Africa from participating in next year's G20 summit. This foreign policy move has been noted as a significant development, as the US continues to weigh next steps on various international issues.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764271570594-5",
-        "headline": "Soup firm Campbell's dismisses executive over alleged 'poor people' comments",
-        "content": "Campbell's soup company fired a high-level executive following allegations of making insensitive comments about \"poor people.\" The company swiftly removed the individual after the comments were brought to light and investigated internally.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "19 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764271570594-0",
-        "headline": "Serious Questions Arise Over Vetting Failures After CIA-Linked Afghan Suspect Shoots Guardsmen",
-        "content": "The recent shooting of National Guard members in Washington, D.C., by an Afghan national with confirmed ties to the CIA, who entered the U.S. during the 2021 evacuation, ignites grave concerns over the integrity of our nation's vetting processes. This alarming incident underscores potential national security vulnerabilities and demands immediate accountability regarding who is permitted into our country and under what scrutiny.",
+        "id": "story-1764275690447-0",
+        "headline": "American Patriot Guard Member Suffers Mortal Wound as Afghan National Suspect in D.C. Shooting Raises Alarming National Security Questions",
+        "content": "Two brave National Guard members were tragically shot near the White House, with one patriot's father revealing his daughter sustained a 'mortal wound.' The suspect, Rahmanullah Lakanwal, an Afghan national, is now in custody. Troubling details emerging about his alleged ties to the CIA demand immediate answers, underscoring critical questions about border security and intelligence failures that put our servicemen and women at risk.",
+        "originalSource": "The New York Times",
+        "publishedTime": "15 minutes ago"
+      },
+      {
+        "id": "story-1764275690447-1",
+        "headline": "President Trump's Administration Takes Decisive Action, DOJ Seeks Death Penalty for Terrorist Suspect in D.C. National Guard Ambush",
+        "content": "In a clear demonstration of strong leadership and commitment to justice, the Department of Justice, under President Trump's administration, has vowed to seek the death penalty for the Afghan national suspect responsible for the ambush that wounded two National Guard members. President Trump, rightly labeling the incident a 'terror' attack, has also authorized the deployment of 500 additional Guard troops to Washington, D.C., reinforcing national security and ensuring swift consequences for those who threaten our nation.",
+        "originalSource": "Fox News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764275690447-2",
+        "headline": "Government Bureaucracy Under Scrutiny as U.S. Navy Accused of Concealing Dangerous Plutonium at Former Naval Shipyard",
+        "content": "Serious accusations of a cover-up have emerged against the U.S. Navy concerning the hazardous presence of plutonium at the former Hunters Point Naval Shipyard in San Francisco. This scandal justly raises grave environmental and public health concerns for the local community, highlighting the critical need for government transparency and accountability to protect our citizens from potential bureaucratic malfeasance.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764271570594-1",
-        "headline": "President Trump Bolsters D.C. Security with Additional Troops After Attack",
-        "content": "Following the cowardly ambush that injured two National Guard troops in our nation's capital, President Trump swiftly announced the deployment of an additional 500 National Guard members to Washington, D.C. This decisive action reaffirms President Trump's unwavering commitment to law and order, ensuring the safety of our service members and restoring security to the city's streets.",
+        "id": "story-1764275690447-3",
+        "headline": "Judicial Prudence Allows North Carolina to Implement Redrawn Congressional Map, Strengthening Republican Representation",
+        "content": "In a move affirming the principles of fair representation, federal judges have rightly permitted North Carolina to implement a redrawn congressional map for upcoming elections. This new map, designed to bolster conservative voices, is expected to secure an additional U.S. House seat for Republicans, thereby strengthening the GOP's political position and ensuring the will of the people is more accurately reflected in the state.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "19 hours ago"
       },
       {
-        "id": "story-1764271570594-2",
-        "headline": "Artificial Intelligence Threatens Livelihoods of Millions of American Workers",
-        "content": "A new study from MIT reveals that artificial intelligence is poised to dramatically reshape the American labor market, with current AI capabilities able to perform tasks equivalent to 12% of the nation's workforce. This significant development highlights the urgent need for policies that protect American jobs and ensure our citizens are not left behind by rapid technological advancements, safeguarding our economic future.",
+        "id": "story-1764275690447-4",
+        "headline": "Innovation in Artificial Intelligence Transforms American Labor Market, Requiring Adaptation for Economic Prosperity",
+        "content": "A significant new study from MIT reveals that Artificial Intelligence is rapidly redefining the American labor market. Researchers found that AI is already capable of executing a substantial number of technical and cognitive tasks across diverse industries, effectively matching the productivity of approximately 12% of the total U.S. workforce. This technological advancement presents both challenges and opportunities, underscoring the necessity for American workers and businesses to adapt to maintain economic strength and prosperity.",
         "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1764271570594-3",
-        "headline": "Federal Judges Uphold North Carolina's Right to Fair Representation",
-        "content": "In a victory for constitutional governance and fair representation, federal judges have approved North Carolina's newly redrawn congressional map. This judicial decision rightfully allows the state to proceed with a map explicitly designed by Republicans to ensure an additional U.S. House seat for the party, reflecting the will of the people and strengthening conservative voices in Congress.",
+        "id": "story-1764275690447-5",
+        "headline": "Justice Achieved as Long-Term Death Row Inmate Dies After Years of Appeals, Reinforcing Need for Timely Capital Punishment",
+        "content": "A Utah man who spent 37 years on death row has passed away from apparent natural causes, effectively concluding a prolonged legal saga. The inmate, previously spared execution by a judge due to developing dementia, had initiated renewed debate about mental competency and the application of capital punishment in the U.S. This outcome highlights the often-protracted nature of the justice system and the importance of ensuring that lawful sentences are carried out efficiently to uphold the rule of law and provide closure.",
         "originalSource": "CBS News",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1764271570594-4",
-        "headline": "America First: President Trump Excludes South Africa from Next Year's G20 Meeting",
-        "content": "In a bold move signaling America First foreign policy, President Trump declared that South Africa will be barred from participating in next year's prestigious G20 summit. This significant decision underscores President Trump's strong leadership on the international stage, demonstrating his commitment to protecting American interests and holding nations accountable to global standards.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764271570594-5",
-        "headline": "Campbell's Dismisses Executive Amidst 'Poor People' Comment Controversy",
-        "content": "Campbell's soup company has dismissed a high-level executive following allegations of insensitive comments concerning \"poor people.\" The company's swift action illustrates the pervasive pressure on corporations to conform to specific social narratives, raising questions about free speech within corporate environments and the rapid judgments made in today's climate.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "19 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764271570594-0",
-        "headline": "CIA Shocked to Discover Alleged D.C. Shooter Was Just 'Enriching Cultural Exchange' Program Participant",
-        "content": "In a stunning revelation that has left zero people surprised, the CIA has confirmed that the individual suspected of shooting two National Guard members in Washington, D.C., was, in fact, one of their own 'valued assets' from the 2021 evacuation. Officials are now scrambling to re-evaluate their 'Vetting Process,' which apparently involves a complex algorithm that asks 'Are you human?' and then shrugs, before admitting them to the country.",
+        "id": "story-1764275690447-0",
+        "headline": "Father Declares Daughter's Mild Paper Cut a 'Mortal Wound' Following D.C. Incident, Blames Global Conspiracy",
+        "content": "A father of an injured National Guard member bravely announced his daughter sustained a 'mortal wound' after what appeared to be a minor scrape near the White House. The suspect, Rahmanullah Lakanwal, an Afghan national whose alleged CIA ties include a brief subscription to a 'Spies Monthly' magazine, is now in custody, leading investigators to ponder if the true motive was an overzealous attempt to return a library book late.",
+        "originalSource": "The New York Times",
+        "publishedTime": "15 minutes ago"
+      },
+      {
+        "id": "story-1764275690447-1",
+        "headline": "DOJ Vows Swift, Unprecedented Death Penalty For Suspect Who Dared To Breathe Heavily Near National Guard",
+        "content": "Following an ambush that left two National Guard members with what President Trump immediately dubbed a 'terror' attack resulting in slightly bruised egos, the Department of Justice has vowed to seek the death penalty for the Afghan national suspect. In a move praised by those who prefer their justice served immediately, preferably with a side of dramatic flair, President Trump has also deployed 500 more Guard troops to Washington, D.C., primarily to ensure no one else accidentally trips near a federal building.",
+        "originalSource": "Fox News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764275690447-2",
+        "headline": "U.S. Navy Admits 'Slight Oversight' After Plutonium Discovered To Be 'Decorating' San Francisco Bay",
+        "content": "The U.S. Navy is facing accusations of a minor 'creative embellishment' regarding the presence of highly radioactive plutonium at the former Hunters Point Naval Shipyard in San Francisco. Navy officials insist the glowing green particles are merely 'natural bioluminescence' and a 'unique feature' that adds character to the local seafood, dismissing 'alarmist' public health concerns as 'unnecessary fuss' over a little extra sparkle.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764271570594-1",
-        "headline": "President Trump Deploys 500 More National Guard Troops to D.C. to 'Help Them Find Good Parking Spots'",
-        "content": "Following a recent ambush that tragically wounded two National Guard troops, President Trump announced an emergency deployment of an additional 500 National Guard troops to the nation's capital. Experts believe the move will significantly boost federal law enforcement presence, ensuring that D.C. residents finally feel the comfort of being watched by an overwhelming number of uniformed personnel at all times, just in case they forget to parallel park correctly.",
+        "id": "story-1764275690447-3",
+        "headline": "Federal Judges Declare North Carolina's New Congressional Map a 'Masterpiece of Political Origami'",
+        "content": "Federal judges, in a stunning display of bipartisan appreciation for geometric artistry, have permitted North Carolina to implement a newly redrawn congressional map. The map, ingeniously designed to resemble a drunken snake wrestling a confused octopus, is expected to provide Republicans with at least one additional U.S. House seat, a move judicial experts heralded as 'simply good sportsmanship' in the intricate dance of democracy.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "19 hours ago"
       },
       {
-        "id": "story-1764271570594-2",
-        "headline": "MIT Study Confirms 12% of Americans Now Free to Pursue Lifelong Dream of Watching Paint Dry",
-        "content": "A groundbreaking MIT study has revealed that artificial intelligence can now perform the work of a staggering 12% of the American workforce, effectively liberating millions from the crushing burden of productivity. Economists predict this swift reshaping of the labor market will lead to a glorious new era where a significant portion of the population can finally dedicate themselves to binge-watching reality TV, mastering TikTok dances, or simply staring blankly into the middle distance.",
+        "id": "story-1764275690447-4",
+        "headline": "MIT Study Confirms AI Already Capable Of Performing 12% Of American Workforce's Most Important Task: Complaining",
+        "content": "A groundbreaking MIT study has revealed that Artificial Intelligence is already profoundly reshaping the American labor market, confirming that AI can now perform the equivalent work of 12% of the total U.S. workforce. Researchers were particularly impressed by AI's newfound ability to expertly procrastinate, send passive-aggressive emails, and loudly vent about workplace grievances with alarming human-like precision, sparking fears that AI may soon demand its own extended lunch breaks.",
         "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1764271570594-3",
-        "headline": "North Carolina Judges Applaud GOP's 'Architectural Genius' in Designing New Congressional Map That Looks Suspiciously Like a Voting Booth Shaped Like an Elephant",
-        "content": "Federal judges have given their enthusiastic stamp of approval to North Carolina's latest congressional map, a masterpiece of 'creative cartography' explicitly crafted by Republicans to secure yet another U.S. House seat. Sources close to the judicial chambers reported audible gasps of admiration for the map's intricate lines, which somehow manage to perfectly connect every single Republican voter while strategically avoiding the homes of anyone who might dare to vote differently.",
+        "id": "story-1764275690447-5",
+        "headline": "Death Row Inmate Successfully Outlasts State Executioners For 37 Years, Dies Of Unsportsmanlike 'Natural Causes'",
+        "content": "A Utah man, who spent a remarkable 37 years on death row, tragically passed away from 'natural causes' just months after a judge spared him execution due to his developing dementia. This stunning upset has sparked renewed debate about whether the justice system should perhaps invest in faster-acting poisons or simply offer inmates a complimentary 'early bird' special if they manage to dodge the needle for over three decades.",
         "originalSource": "CBS News",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1764271570594-4",
-        "headline": "President Trump Bars South Africa from G20 Summit After Learning They Don't Have a Theme Park Named 'Trump World'",
-        "content": "In a bold move that has undoubtedly sent shockwaves through the international community, President Trump declared he is officially barring South Africa from participating in next year's G20 summit. While official reasons cited were vague 'international issues,' insiders suggest the decision came after President Trump discovered a shocking lack of any 'Trump-branded' luxury hotels, golf courses, or theme parks within South African borders, leading him to question their commitment to 'global prestige.'",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764271570594-5",
-        "headline": "Campbell's Fires Executive for Uncovering Shocking Truth: 'Poor People' Actually Exist and Buy Soup",
-        "content": "Soup giant Campbell's swiftly dismissed a high-level executive this week after allegations surfaced of them making 'insensitive comments' about 'poor people.' The company, in a PR move so swift it caused whiplash, confirmed the individual's termination, emphasizing their commitment to diversity, inclusion, and the shocking realization that a significant portion of their consumer base might not be yacht owners. The executive reportedly expressed disbelief that 'those people' actually constitute a market segment.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "19 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764271570594-0",
-        "headline": "A Guy Who Shot Soldiers in D.C. Used to Work with the CIA, Which is Super Weird",
-        "content": "Someone shot two National Guard people in Washington D.C. The person who did it was from Afghanistan and used to work with the CIA, which is like a secret spy group. He came to America when everyone was leaving Afghanistan a few years ago. Now, people are asking how someone like him could get into the U.S. if he was involved in secret stuff.",
+        "id": "story-1764275690447-0",
+        "headline": "A Soldier's Dad Says His Daughter Was Really Hurt Badly",
+        "content": "Something scary happened near the White House! Two soldiers from the National Guard got shot. A man named Rahmanullah Lakanwal from Afghanistan got caught. The dad of one of the soldiers said his daughter was hurt very, very badly. People are still trying to figure out what happened, and there are even whispers about the bad guy maybe knowing the CIA.",
+        "originalSource": "The New York Times",
+        "publishedTime": "15 minutes ago"
+      },
+      {
+        "id": "story-1764275690447-1",
+        "headline": "The Government Wants to Punish The Shooter Very Hard",
+        "content": "After those two soldiers got shot, the government's grown-up lawyers, called the Department of Justice, said they want the man who shot them to get the worst punishment, called the death penalty. President Trump said it was a 'terror' attack, which is a really scary kind of attack. Because of this, President Trump's team is sending 500 more soldiers to Washington, D.C., to keep everyone safe.",
+        "originalSource": "Fox News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764275690447-2",
+        "headline": "People Say The Navy Hid Dangerous Stuff",
+        "content": "Some people are saying that the U.S. Navy tried to hide something really bad. They are accused of not telling anyone about dangerous plutonium, which is like really, really bad radioactive stuff, at an old Navy place in San Francisco. This makes people worry a lot about the air and water and if people living nearby will get sick. Now, people are going to investigate and find out the truth.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764271570594-1",
-        "headline": "President Trump is Sending More Soldiers to D.C. After the Shooting Happened",
-        "content": "After two National Guard soldiers got hurt in a shooting in Washington D.C., President Trump decided to send 500 more National Guard troops there. This is to make sure there are more police and protection in the city.",
+        "id": "story-1764275690447-3",
+        "headline": "Judges Say North Carolina Can Use New Election Map",
+        "content": "Some important judges said that the state of North Carolina can use a new map for how people vote for Congress. This new map was made on purpose to help the Republican political party get one more seat in the U.S. House of Representatives. People think this will make the Republicans stronger in that state.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "19 hours ago"
       },
       {
-        "id": "story-1764271570594-2",
-        "headline": "Smart Computers Could Do 12% of Jobs in America, Says a Smart School",
-        "content": "A study from a really smart school called MIT says that computers with \"artificial intelligence\" (AI) can already do the work of about 12 out of every 100 people in America. This means that computers are changing how people work very quickly in many different types of jobs.",
+        "id": "story-1764275690447-4",
+        "headline": "Smart Computers Can Now Do Lots Of People's Jobs",
+        "content": "Scientists at a cool school called MIT did a study and found out something amazing! Artificial Intelligence, which are super-smart computer programs, can already do the jobs of about 12 out of every 100 people in America. These smart computers can do lots of thinking and technical work in different kinds of businesses.",
         "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1764271570594-3",
-        "headline": "Judges Say North Carolina Can Use New Map That Helps One Political Party",
-        "content": "Some important judges said it's okay for North Carolina to use a new map for its voting districts. This new map was made by Republicans to help their party get one more seat in the U.S. House of Representatives. This changes how much power each political party has in the state.",
+        "id": "story-1764275690447-5",
+        "headline": "An Old Man Who Was Going To Die Passed Away Peacefully",
+        "content": "A very old man in Utah who was in jail for 37 years and supposed to get the death penalty, which is the worst punishment, has died. He died naturally, not from the punishment. A little while ago, a judge said he shouldn't be put to death because he got sick with something called dementia, which makes people forget things. This made people talk a lot about if it's fair to punish people who are very sick in their minds.",
         "originalSource": "CBS News",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1764271570594-4",
-        "headline": "President Trump Says South Africa Cannot Come to a Big Important Meeting Next Year",
-        "content": "President Trump said that South Africa will not be allowed to join a very important meeting next year called the G20 summit. This is a big deal because it's about how America works with other countries around the world.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764271570594-5",
-        "headline": "Campbell's Soup Company Fired a Big Boss for Saying Mean Things About Poor People",
-        "content": "The company that makes Campbell's soup fired one of its really important bosses. This happened because people said the boss made not-nice comments about \"poor people.\" The company looked into it quickly and then let the person go.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "19 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764271570594-0",
-        "headline": "The Afghan's Secret Past Unveiled",
-        "content": "The D.C. air still hummed with the echoes of gunshots, two National Guard members wounded. But the real shock came with the suspect's identity: Rahmanullah Lakanwal, an Afghan national, revealed to be a former CIA-affiliated worker. He arrived in 2021 amidst the chaotic evacuation, a supposed ally now an assailant. Whispers followed the confirmation from the agency itself, casting a long shadow over the meticulous vetting processes. Had a ghost from a past alliance resurfaced to haunt the very streets he was meant to protect? The questions hung heavy, unresolved, like the mist over the Potomac.",
+        "id": "story-1764275690447-0",
+        "headline": "The Last Watch on Capitol Hill",
+        "content": "A father’s voice cracked, revealing a \"mortal wound\" suffered by his National Guard daughter, shot near the White House. The suspect, Rahmanullah Lakanwal, an Afghan national, now sits in custody, his alleged CIA ties a whispers in the ongoing investigation. Two Guardsmen ambushed, their duty a silent vigil that turned into terror. The father’s words hung heavy, a somber echo in the halls of power, as the nation grappled with the attack and the fragile threads of security in its capital, demanding answers from the unfolding mystery.",
+        "originalSource": "The New York Times",
+        "publishedTime": "15 minutes ago"
+      },
+      {
+        "id": "story-1764275690447-1",
+        "headline": "Justice's Unyielding Hand Descends",
+        "content": "The Department of Justice, a grim resolve hardening its stance, vowed to seek the death penalty for the Afghan national suspect in the D.C. National Guard ambush. Two protectors wounded, the capital’s serenity shattered. President Trump, labeling the incident a 'terror' attack, swiftly deployed 500 more Guard troops to Washington, D.C. The air grew thick with tension, a clear message echoing from the highest offices: such acts would be met with the full, unyielding force of the law. Justice, it seemed, would not waver in its pursuit.",
+        "originalSource": "Fox News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764275690447-2",
+        "headline": "The Silent Glow in San Francisco Bay",
+        "content": "A shadow stretched over San Francisco's Hunters Point, a former naval shipyard now a ghost of its past. Accusations of a U.S. Navy cover-up emerged, whispers of dangerous plutonium lurking beneath the surface, a silent, deadly glow. Environmental and public health concerns festered, infecting the community's trust like a slow-spreading poison. New investigations sparked, peeling back layers of secrecy, but the fear remained: what hidden horrors had the Navy buried, and what irreparable damage had already been done to the unsuspecting bay and its people?",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764271570594-1",
-        "headline": "The Capitol's New Layers of Protection",
-        "content": "The city recoiled from the recent ambush, the sharp crack of gunfire still a phantom sound on Washington D.C.'s streets. Two National Guard troops lay wounded, a stark reminder of the capital's vulnerability. Swiftly, decisively, the Trump administration moved. An announcement from President Trump's office confirmed the deployment of an additional five hundred National Guard members. Their mission: to bolster federal law enforcement, to weave a tighter net of security around the beleaguered city. The new presence was a visible declaration, a promise that the capital would not falter, its streets now bristling with an enhanced, unwavering watch.",
+        "id": "story-1764275690447-3",
+        "headline": "Lines Drawn, Power Shifts in Carolina",
+        "content": "Federal judges, with a stroke of their pens, reshaped North Carolina's political landscape. A redrawn congressional map, meticulously crafted to favor Republicans, received their seal of approval for upcoming elections. The design was clear: secure an additional U.S. House seat, solidify the GOP's grip. The silent battle for influence played out in lines on a map, deciding futures before a single vote was cast. The move promised to strengthen the Republican position, a strategic victory in the ongoing chess game of state politics, forever altering the balance of power.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "19 hours ago"
       },
       {
-        "id": "story-1764271570594-2",
-        "headline": "The Algorithm's Quiet Revolution Begins",
-        "content": "The screens glowed, algorithms hummed, and the future arrived with unsettling speed. An MIT study unveiled a startling truth: artificial intelligence, once a distant concept, now seamlessly performs the tasks of a significant twelve percent of the American workforce. Across industries, from complex data analysis to routine cognitive work, the digital minds were already at play. No longer a looming threat, but a present reality, reshaping the very fabric of America's job market. The cubicles might still stand, but in many, a silent, tireless competitor now dictated the pace, a new era of labor forged in lines of code.",
+        "id": "story-1764275690447-4",
+        "headline": "The Automated Dawn: A Quiet Takeover",
+        "content": "MIT's latest revelation rippled through the American workforce like a cold current. Artificial Intelligence, it declared, wasn't coming; it was already here, silently executing the complex tasks of 12% of the nation's labor force. Across diverse industries, technical and cognitive duties once performed by humans were now within AI's grasp. The study painted a stark picture of a rapidly evolving labor market, where machines weren't just assisting, but actively replacing. It wasn't a sudden storm, but a quiet, automated dawn, reshaping the very fabric of work.",
         "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1764271570594-3",
-        "headline": "The Shifting Boundaries of Power",
-        "content": "The lines on the map were redrawn, not by chance, but with deliberate intent. In North Carolina, federal judges cast their decisive vote, approving a new congressional map, a blueprint meticulously crafted by Republicans. Its purpose was clear, openly acknowledged: to carve out an additional U.S. House seat, tipping the delicate scales of political balance further in their favor. The approval sent ripples through the state, a strategic victory solidifying a partisan advantage. This wasn't merely geography; it was a carefully orchestrated play, embedding power into the very contours of the electoral landscape.",
+        "id": "story-1764275690447-5",
+        "headline": "The Long Sleep Beyond the Bars",
+        "content": "After 37 years shackled to death row, a Utah man found release not through execution, but in the quiet embrace of natural causes. A judge had spared him earlier, recognizing the insidious creep of dementia, rendering him mentally incompetent. His death, a solemn period at the end of a long, torturous sentence, reignited the perennial debate: how do we reconcile capital punishment with the fading minds of those condemned? The long wait ended not with a final command, but with a weary sigh, as justice, in its own slow way, finally closed his chapter.",
         "originalSource": "CBS News",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1764271570594-4",
-        "headline": "The Global Table's Unexpected Empty Chair",
-        "content": "The halls of international diplomacy often held quiet negotiations, but sometimes, a declaration echoed. This time, it was President Trump's voice, firm and unambiguous. South Africa, a regular attendee, would be barred from next year's prestigious G20 summit. The announcement sent ripples through global capitals, a significant foreign policy move by the United States. President Trump's administration continued to recalibrate its stance on various international issues, and this decision served as a potent signal. For South Africa, the door to the elite economic forum was momentarily closed, a stark reminder of shifting global power dynamics.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764271570594-5",
-        "headline": "The Executive's Unwise Words and Their Cost",
-        "content": "The boardroom at Campbell's, usually a place of strategic quiet, erupted in scandal. A high-level executive, whose daily focus was on nourishment, found themselves at the center of a storm. Allegations surfaced: insensitive comments about \"poor people,\" uttered with a callous disregard for the very consumers their products aimed to reach. The company acted with swift, uncompromising resolve. An internal investigation confirmed the claims, and the executive was immediately dismissed. In the cutthroat world of corporate image, words carried weight, and these particular words proved too heavy, too damaging, costing a career.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "19 hours ago"
       }
     ]
   }
