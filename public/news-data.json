@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764226721065,
+  "timestamp": 1764228963701,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764226644670-0",
-        "headline": "Tragic Shooting Near White House Highlights Need for Comprehensive Support Systems",
-        "content": "Two members of the West Virginia National Guard sustained critical injuries in a shooting incident close to the White House in D.C. While an individual identified as an Afghan national has been apprehended, this isolated event should prompt a deeper examination of the societal factors that contribute to such violence, including systemic issues like mental health support and the long-term impact of war and displacement, rather than fueling xenophobic reactions.",
-        "originalSource": "AP News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764226644670-1",
-        "headline": "President Trump's Swift 'Act of Terror' Labeling Leads to Discriminatory Scrutiny of Afghan Immigrants",
-        "content": "President Trump swiftly declared the D.C. shooting an 'act of terror,' a pronouncement that immediately led to a full review of all Afghan nationals in the country and a pause on their immigration applications. This response raises significant concerns about systemic xenophobia and the dangerous precedent of collectively punishing an entire population based on the alleged actions of one individual, diverting attention from underlying issues and potentially harming vulnerable communities seeking refuge.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764226644670-2",
-        "headline": "Georgia Prosecutor's Decision to Drop Election Interference Case Against President Trump Raises Questions About Accountability",
-        "content": "The high-profile racketeering case in Georgia, aimed at holding President Trump and his associates accountable for alleged 2020 election interference, has been dropped by the local prosecutor. This decision, following extended allegations of prosecutorial misconduct, unfortunately allows powerful figures to potentially evade justice for actions that threatened the integrity of democratic processes, highlighting systemic challenges in holding those in power accountable under the law.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764226644670-3",
-        "headline": "Federal Judges Uphold North Carolina's Gerrymandered Congressional Map, Further Undermining Democratic Representation",
-        "content": "A panel of federal judges has regrettably allowed North Carolina to implement a newly drawn congressional map, a redistricting measure widely recognized as an egregious act of gerrymandering. This decision is poised to unfairly grant the Republican party an additional seat in the U.S. House of Representatives, representing a significant setback for democratic principles and fair representation, as it allows partisan actors to manipulate electoral outcomes rather than reflect the true will of the voters.",
+        "id": "story-1764228892262-0",
+        "headline": "Tragic Shooting of National Guard Members Prompts Scrutiny of Administration's Response and Potential for Xenophobia",
+        "content": "In a troubling incident near the White House, two National Guard members were critically wounded in a targeted shooting. While a suspect, identified as an Afghan national, has been apprehended, the swift response from President Trump's administration to order a review of all Afghan nationals admitted to the country raises serious concerns about potential xenophobic policies. The deployment of an additional 500 Guard troops to the capital also prompts questions about the militarization of public spaces and the administration's approach to domestic security.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764226644670-4",
-        "headline": "President Trump's Administration Ends Protected Status for 350,000 Haitian Migrants, Forcing Them Towards Deportation and Instability",
-        "content": "The Trump administration's decision to terminate Temporary Protected Status (TPS) for approximately 350,000 Haitian immigrants in the U.S. by early February represents a profound humanitarian crisis and a systemic failure to protect vulnerable populations. This move cruelly makes these individuals, many of whom have built lives and contributed to American society for years, eligible for deportation unless they can navigate complex and often inaccessible alternative legal pathways, ignoring the instability and hardships they would face upon return to Haiti.",
+        "id": "story-1764228892262-1",
+        "headline": "Accountability for Election Interference Falters as Georgia Court Dismisses Case Against President Trump",
+        "content": "A significant setback for holding powerful figures accountable occurred as a Georgia court dismissed the racketeering case against President Trump and several allies, which stemmed from alleged interference in the 2020 presidential election. The 2023 case, aimed at upholding democratic integrity, was reportedly derailed by claims of prosecutorial misconduct. This outcome raises serious questions about the challenges of pursuing justice against those in power and the systemic hurdles that can impede efforts to protect democratic processes.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764228892262-2",
+        "headline": "President Trump's Administration Ends Protected Status for Haitians, Jeopardizing Thousands Amid Humanitarian Crisis",
+        "content": "In a move widely criticized by human rights advocates, President Trump's administration has decided to terminate the Temporary Protected Status (TPS) for Haitians living in the US. This decision will strip humanitarian protections from thousands of immigrants who were granted status after devastating natural disasters in Haiti, forcing many back to unsafe conditions. Critics argue this action reflects a troubling pattern of anti-immigrant policies that disregard human suffering and contribute to systemic inequities.",
         "originalSource": "The Guardian",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764226644670-5",
-        "headline": "President Trump's Misogynistic Attack on Journalist Undermines Free Press and Civil Discourse",
-        "content": "During his Thanksgiving weekend trip to Florida, President Trump publicly launched a deeply unprofessional and misogynistic attack on a New York Times reporter. He disparaged her as 'third rate' and 'ugly, both inside and out' in response to an article discussing his age, exemplifying a troubling pattern of rhetoric that seeks to silence critical journalism and demean women in the public sphere, thereby eroding the foundations of a free press and respectful civil discourse.",
+        "id": "story-1764228892262-3",
+        "headline": "MIT Study Reveals AI's Rapid Displacement of Workforce, Raising Concerns for Economic Equity and Labor Rights",
+        "content": "A groundbreaking study from MIT researchers indicates that Artificial Intelligence is rapidly reshaping the US job market, now capable of performing tasks equivalent to 12% of the American workforce. While technological advancement is inevitable, these findings underscore pressing concerns about widespread job displacement, the potential for increased economic inequality, and the urgent need for robust social safety nets, retraining programs, and policies that prioritize workers' rights over corporate profits in an automating economy.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764228892262-4",
+        "headline": "Federal Judges Uphold Gerrymandered North Carolina Map, Threatening Fair Representation and Democratic Integrity",
+        "content": "In a decision that raises serious alarms about the integrity of democratic processes, federal judges have authorized North Carolina to implement a newly redrawn congressional map. This map, widely criticized as a blatant partisan gerrymander, is explicitly designed to unfairly benefit Republicans and is expected to secure an additional U.S. House seat for the party. This move further erodes the principle of fair representation, undermining the democratic power of voters and entrenching minority rule.",
+        "originalSource": "CBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764228892262-5",
+        "headline": "President Trump's Bellicose Rhetoric Towards Venezuela's Maduro Raises Fears of Intervention and Regional Destabilization",
+        "content": "President Trump has significantly escalated diplomatic tensions with Venezuela by issuing a stark threat to President Nicolas Maduro, stating he would face consequences through 'the easy way… or the hard way.' This aggressive rhetoric from the administration is deeply concerning, echoing a history of unilateral interventionism and disregard for international sovereignty. Such language risks further destabilizing the region, undermining opportunities for peaceful resolution, and potentially leading to tragic humanitarian consequences rather than addressing complex underlying issues.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764226644670-0",
-        "headline": "Two National Guard members shot in ambush attack near White House, Afghan national suspect in custody.",
-        "content": "Two members of the West Virginia National Guard were critically wounded in an ambush attack just blocks from the White House in D.C. The suspect, identified as an Afghan national, has been apprehended by authorities, leading to increased federal scrutiny.",
-        "originalSource": "AP News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764226644670-1",
-        "headline": "Trump calls National Guard shooting 'act of terror,' vows new scrutiny of Afghan immigrants.",
-        "content": "President Trump labeled the D.C. shooting of Guard members an 'act of terror' and announced a full review of all Afghan nationals admitted into the country. The administration also paused immigration applications from Afghans.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764226644670-2",
-        "headline": "Georgia prosecutor ends 2020 election interference case against Trump and allies.",
-        "content": "The high-profile racketeering case against Donald Trump and his allies in Georgia, concerning the 2020 election, was dropped by the local prosecutor. The decision follows prolonged allegations of prosecutorial misconduct in the case.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764226644670-3",
-        "headline": "Federal judges allow North Carolina to use redrawn House map, set to give GOP an extra seat.",
-        "content": "A panel of federal judges has permitted North Carolina to implement a newly drawn congressional map. The redistricting measure is expected to result in the Republican party gaining an additional seat in the U.S. House of Representatives.",
+        "id": "story-1764228892262-0",
+        "headline": "US National Guard Members Shot In Washington, D.C.; Suspect Identified as Afghan National",
+        "content": "Two National Guard members were critically wounded in a targeted shooting near the White House. The suspect, an Afghan national, was taken into custody, leading the Trump administration to order a review of Afghan nationals admitted to the country and to deploy 500 more Guard troops to the capital.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764226644670-4",
-        "headline": "Trump administration halts protected status for 350,000 Haitian migrants, facing deportation.",
-        "content": "The Temporary Protected Status (TPS) for approximately 350,000 Haitian immigrants in the U.S. is set to expire in early February. The decision makes them eligible for deportation unless they secure alternative legal means to remain in the country.",
+        "id": "story-1764228892262-1",
+        "headline": "Georgia Court Drops 2020 Election Interference Case Against Trump and Allies",
+        "content": "A Georgia court has dismissed the racketeering case filed against Donald Trump and several allies concerning alleged interference in the 2020 presidential election. The 2023 case was reportedly hindered by claims of prosecutorial misconduct, leading to its termination by the court.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764228892262-2",
+        "headline": "Trump Officials Halt Protected Status for Haitians in US",
+        "content": "The Trump administration has made a decision to terminate the Temporary Protected Status for Haitians residing in the US. This move will end their protected status, impacting thousands of immigrants who were previously granted the status on humanitarian grounds following natural disasters in Haiti.",
         "originalSource": "The Guardian",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764226644670-5",
-        "headline": "President Trump attacks New York Times reporter as 'ugly' over article discussing his aging.",
-        "content": "During his Thanksgiving weekend trip to Florida, President Trump publicly assaulted a New York Times reporter. He called her 'third rate' and 'ugly, both inside and out' following a critical article about his age.",
+        "id": "story-1764228892262-3",
+        "headline": "AI Can Already Do the Work of 12% of America's Workforce, MIT Study Says",
+        "content": "A new study by MIT researchers suggests that Artificial Intelligence is rapidly changing the US job market, capable of performing technical and cognitive tasks equivalent to the work of 12% of the American workforce. The findings highlight the swift reshaping of labor across various industries.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764228892262-4",
+        "headline": "Federal Judges Allow North Carolina to Use New Congressional Map, Handing Potential Seat to GOP",
+        "content": "Federal judges have authorized North Carolina to move forward with a newly redrawn congressional map designed to give Republicans an edge in upcoming elections. This map is expected to secure an additional U.S. House seat for the Republican party, affecting the balance of power in Congress.",
+        "originalSource": "CBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764228892262-5",
+        "headline": "Trump Threatens Venezuela's Maduro With 'The Easy Way... or the Hard Way'",
+        "content": "President Trump has intensified pressure on Venezuelan President Nicolas Maduro by issuing a new threat, stating Maduro would face consequences either through 'the easy way… or the hard way.' This rhetoric further escalates the ongoing diplomatic tensions and disputes over Venezuela's leadership.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764226644670-0",
-        "headline": "Afghan National Suspects in Attack on National Guard Near White House Raise Alarms for National Security.",
-        "content": "A grave ambush attack critically wounded two brave members of the West Virginia National Guard mere blocks from the nation's capital, near the White House. Authorities have apprehended an Afghan national in connection with this heinous act, sparking urgent demands for heightened federal scrutiny and robust border security to protect our homeland and those who serve it.",
-        "originalSource": "AP News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764226644670-1",
-        "headline": "President Trump Rightly Labels National Guard Shooting an 'Act of Terror' While Pledging Stronger Immigration Vetting.",
-        "content": "President Trump swiftly and correctly identified the despicable D.C. shooting of our National Guard members as an 'act of terror,' demonstrating decisive leadership. In response, he has commendably announced a thorough review of all Afghan nationals admitted into our country and rightly paused immigration applications from Afghanistan, prioritizing national security and the safety of American citizens above all else.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764226644670-2",
-        "headline": "Georgia Prosecutor Finally Drops Baseless Election Case Against President Trump and Loyal Allies.",
-        "content": "In a long-overdue development, the politically motivated racketeering case targeting President Trump and his loyal allies concerning the 2020 election in Georgia has been mercifully dropped by the local prosecutor. This decision comes after prolonged and serious allegations of prosecutorial misconduct, underscoring the vital need to protect due process and prevent the weaponization of our justice system against political opponents.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764226644670-3",
-        "headline": "Federal Judges Uphold North Carolina's Right to Implement Fairly Redrawn Congressional Map.",
-        "content": "A panel of federal judges has rightly affirmed North Carolina's sovereign right to implement its newly drawn congressional map. This redistricting measure, which reflects the will of the state's citizens and strengthens fair representation, is justifiably expected to result in the Republican party gaining an additional, much-deserved seat in the U.S. House of Representatives, ensuring a truer reflection of the electorate.",
+        "id": "story-1764228892262-0",
+        "headline": "Afghan National Suspects Target Our National Guard, President Trump Takes Decisive Action",
+        "content": "The safety of our nation's capital was tragically compromised when two brave National Guard members were gravely wounded in a targeted attack near the White House. The arrest of an Afghan national as the primary suspect immediately prompted President Trump to prioritize national security, ordering a comprehensive review of all Afghan nationals admitted into our country and deploying an additional 500 Guard troops to secure our capital. This incident underscores the critical importance of vigilant border policies and unwavering protection for our dedicated service members.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764226644670-4",
-        "headline": "President Trump's Administration Reaffirms Rule of Law by Ending Temporary Protected Status for Haitian Migrants.",
-        "content": "In a move that boldly upholds the rule of law and respects national sovereignty, President Trump's administration is allowing the Temporary Protected Status (TPS) for approximately 350,000 Haitian immigrants in the U.S. to expire as scheduled in early February. This principled decision makes them eligible for deportation unless they secure alternative, legitimate legal means to remain in the country, demonstrating a commitment to orderly and legal immigration processes.",
+        "id": "story-1764228892262-1",
+        "headline": "Georgia Court Rightfully Dismisses Baseless 2020 Election Interference Case Against President Trump",
+        "content": "In a significant victory for due process and the rule of law, a Georgia court has justly dismissed the politically charged racketeering case against President Trump and his allies concerning alleged interference in the 2020 presidential election. This 2023 case, widely seen as a partisan attack, reportedly collapsed under the weight of severe prosecutorial misconduct, validating concerns that our legal system is being weaponized against political opponents. This decision affirms the importance of fair legal proceedings, free from politically motivated abuses.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764228892262-2",
+        "headline": "President Trump's Administration Ends Temporary Protected Status for Haitian Nationals",
+        "content": "Upholding the integrity of our nation's immigration laws, President Trump's administration has made the principled decision to terminate Temporary Protected Status for Haitian nationals residing in the U.S. This action, consistent with a focus on national sovereignty and rule of law, will conclude the special status for thousands, reinforcing that \"temporary\" protections are not permanent pathways to residency. This move ensures our immigration system prioritizes legal and orderly processes, rather than perpetual humanitarian exceptions.",
         "originalSource": "The Guardian",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764226644670-5",
-        "headline": "President Trump Rightfully Criticizes Biased New York Times Reporter After Unfair Attack Article.",
-        "content": "During his Thanksgiving weekend trip, President Trump vocally expressed his strong displeasure with a New York Times reporter, calling her 'third rate' and 'ugly, both inside and out,' following a particularly critical and arguably disrespectful article about his age. President Trump, like all Americans, has every right to challenge what he perceives as biased and unfair reporting from the mainstream media.",
+        "id": "story-1764228892262-3",
+        "headline": "American Workforce Faces AI Revolution, Demanding Adaptability and Innovation",
+        "content": "A groundbreaking MIT study confirms that Artificial Intelligence is swiftly transforming the American job market, now capable of performing tasks equivalent to 12% of our nation's workforce. This technological leap underscores the need for a dynamic economy and an adaptable workforce, where individuals and industries must embrace innovation to thrive. While some see challenges, this represents an opportunity for increased efficiency and new frontiers in American enterprise, reinforcing the free market's power to drive progress.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764228892262-4",
+        "headline": "North Carolina's New Congressional Map Approved, Strengthening Conservative Representation",
+        "content": "Federal judges have rightly approved North Carolina's newly redrawn congressional map, a decision poised to strengthen conservative representation in the U.S. House of Representatives. This judicious ruling allows the state to proceed with a map expected to secure an additional seat for the Republican Party, reflecting the will of the people and correcting the balance of power in Congress. This outcome ensures fair and accurate representation for North Carolinians, upholding the principles of democratic governance.",
+        "originalSource": "CBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764228892262-5",
+        "headline": "President Trump Issues Stern Warning to Venezuela's Dictator Maduro",
+        "content": "In a powerful display of decisive leadership, President Trump has escalated pressure on Venezuela's authoritarian leader, Nicolas Maduro, by issuing a clear warning: he will face consequences either \"the easy way… or the hard way.\" This unwavering rhetoric underscores America's commitment to liberty and stability in the Western Hemisphere, sending a strong message to regimes that undermine democracy and oppress their people. President Trump continues to stand firm against tyranny, protecting American interests and promoting freedom across the globe.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764226644670-0",
-        "headline": "White House Guard Members 'Ambushed' by Rogue Squirrel, Authorities Blame International Conspiracy.",
-        "content": "Panic erupted mere blocks from the White House as two brave West Virginia National Guard members were 'critically wounded' in what authorities are now calling an 'ambush of unprecedented audacity.' The culprit, identified only as a particularly shifty-looking Afghan national, was immediately apprehended after being found suspiciously close to a peanut stand. Federal scrutiny has been ratcheted up to 'eleven,' with officials now investigating whether the squirrel was trained by foreign adversaries or simply had a very bad day.",
-        "originalSource": "AP News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764226644670-1",
-        "headline": "President Trump Declares War on Squirrels, Citing 'Act of Terror' Near White House.",
-        "content": "In a move that surprised absolutely no one, President Trump swiftly branded the recent 'ambush' near the White House as an 'act of terror' instigated by forces unknown, yet undeniably foreign. He then announced a sweeping, iron-fisted review of every single Afghan national who has ever thought about looking at America, pausing all immigration applications until the entire country is deemed 'squirrel-proof' by his personal security team. Experts predict this will either solve all global conflicts or lead to a national shortage of tree nuts.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764226644670-2",
-        "headline": "Georgia Prosecutor Apologizes to President Trump, Admits Election Case Was Just a 'Misunderstanding' About Very Friendly Phone Calls.",
-        "content": "In a stunning development that shocked absolutely no one, the high-profile racketeering case against President Trump and his allies in Georgia has been abruptly tossed out. The local prosecutor, citing 'prolonged allegations of prosecutorial misconduct' – which is apparently lawyer-speak for 'we got caught' – humbly retracted the charges, admitting it was all just a big misunderstanding about some very enthusiastic phone calls concerning ballot counts. Sources close to the prosecution admitted they simply ran out of 'new and exciting ways to fail' before the case even made it to trial.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764226644670-3",
-        "headline": "North Carolina Judges Approve 'Artistically Gerrymandered' Map, Claim It Now Resembles a Majestic Unicorn.",
-        "content": "A panel of remarkably objective federal judges has magnanimously bestowed upon North Carolina the right to implement its latest congressional masterpiece. The newly drawn map, which experts agree now closely resembles a startled squirrel attempting to escape a collapsing gerrymander, is predicted to 'fairly and organically' hand the Republican party an entirely coincidental extra seat in the U.S. House. Judges noted the map's artistic integrity was 'unassailable,' particularly its unique ability to unite disparate neighborhoods into politically convenient shapes.",
+        "id": "story-1764228892262-0",
+        "headline": "National Guard Now Requires National Guard to Guard the National Guard in D.C. Incident",
+        "content": "Following a shocking incident where two National Guard members were tragically shot near the White House, President Trump has swiftly ordered an additional 500 National Guard troops to the capital. The new deployment aims to provide much-needed protection for the *existing* National Guard, ensuring that those tasked with safeguarding the capital are themselves adequately safeguarded from... well, whatever it is they're safeguarding against. Simultaneously, the administration has launched a sweeping review of all Afghan nationals in the country, just to be thorough.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764226644670-4",
-        "headline": "President Trump's Administration Declares Haiti Officially 'Totally Fine Now,' Orders 350,000 Migrants to 'Go Home and Enjoy It.'",
-        "content": "In a stunning testament to the administration's belief in immediate geopolitical miracles, President Trump's team has officially declared Haiti to be in tip-top shape, revoking the Temporary Protected Status for a paltry 350,000 Haitian immigrants. The government's new policy dictates that these individuals, who have spent years building lives here, are now free to 'secure alternative legal means' to avoid deportation or simply vanish into thin air by early February. Critics suggest this policy might not be entirely based on current ground realities but rather a deep-seated desire for fewer people to feed at Thanksgiving.",
+        "id": "story-1764228892262-1",
+        "headline": "Georgia Court Nobly Saves President Trump From Burden of Explaining Election Matters",
+        "content": "In a move hailed by those who prefer their legal dramas to conclude abruptly, a Georgia court has graciously dismissed the 2020 election interference case against President Trump and his allies. The racketeering case, which threatened to delve into inconvenient details, was reportedly derailed by claims of 'prosecutorial misconduct,' proving once again that sometimes, the real scandal is the investigation itself. Legal experts commended the court for prioritizing efficiency over, you know, justice.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764228892262-2",
+        "headline": "President Trump Declares Haiti Miraculously Recovered, Orders All Haitians To Immediately Depart US",
+        "content": "In a testament to his administration's unique perspective on global affairs, President Trump has magnanimously terminated Temporary Protected Status for Haitians residing in the US. This bold decision effectively declares Haiti's numerous natural disasters and humanitarian crises officially 'over,' effective immediately, allowing thousands of immigrants who were previously granted status on *humanitarian grounds* to return to a country that is, by presidential decree, perfectly fine now. A spokesperson clarified that 'compassion fatigue' had set in.",
         "originalSource": "The Guardian",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764226644670-5",
-        "headline": "President Trump Denounces Mirror, Blames 'Ugly' New York Times Reporter for Unflattering Reflection.",
-        "content": "During his crucial Thanksgiving weekend retreat to Florida, President Trump unleashed a barrage of deeply philosophical critiques against a New York Times reporter. Following an article that dared to mention the passage of time – a concept President Trump famously dismisses as 'fake news' – he publicly declared the journalist 'third rate' and 'ugly, both inside and out.' Sources close to the President confirm he was deeply disturbed by an article that suggested he was, in fact, not a perpetually youthful demigod, and subsequently blamed the reporter for every perceived flaw in the universe, including the weather.",
+        "id": "story-1764228892262-3",
+        "headline": "MIT Confirms AI Can Now Efficiently Replace 12% Of Workforce That Was Mostly Just Staring At Screens Anyway",
+        "content": "A groundbreaking new study from MIT reveals that Artificial Intelligence has rapidly evolved to the point where it can perform the technical and cognitive tasks equivalent to a whopping 12% of the American workforce. Researchers noted that AI is particularly adept at 'strategically ambiguous email composition' and 'making spreadsheets look important,' leaving many to wonder if anyone will even notice the difference. Economists are already reassuring the public that the displaced workers will surely find new, equally pointless jobs.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764228892262-4",
+        "headline": "Federal Judges Bless North Carolina's New Congressional Map, Ensuring 'Fair' Elections For One Party",
+        "content": "Federal judges have officially given their stamp of approval to North Carolina's newly redrawn congressional map, a cartographical masterpiece designed with the explicit goal of securing an additional U.S. House seat for the Republican party. Advocates lauded the map's innovative use of squiggly lines and geographically illogical districts, claiming it perfectly reflects the diverse, non-contiguous voting preferences of the state. Critics are now reportedly petitioning for an 'actual straight line' to be included somewhere on the map, just for old times' sake.",
+        "originalSource": "CBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764228892262-5",
+        "headline": "President Trump Offers Venezuelan Maduro Choice Between 'The Easy Way' Which Is Still Hard or 'The Hard Way' Which Is Probably Worse",
+        "content": "In a stunning display of diplomatic subtlety, President Trump has issued a powerful ultimatum to Venezuelan President Nicolas Maduro: 'The easy way... or the hard way.' International relations experts are still attempting to decipher the precise implications of each path, but initial assessments suggest 'the easy way' involves Maduro doing exactly what President Trump wants, while 'the hard way' involves Maduro *really* not doing exactly what President Trump wants. The global community eagerly awaits clarification, ideally in the form of a detailed infographic.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764226644670-0",
-        "headline": "Two Soldiers Were Shot Near the White House",
-        "content": "Two soldiers who are part of the National Guard from West Virginia got hurt really badly in a surprise attack. This happened super close to the White House in Washington D.C. The police caught someone from Afghanistan who they think did it. Now, the government is looking at things much more carefully.",
-        "originalSource": "AP News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764226644670-1",
-        "headline": "President Trump Said the Shooting Was a Terrorist Attack",
-        "content": "President Trump said that when the soldiers got shot in D.C., it was like a 'terrorist attack.' He also said that the government would check everyone from Afghanistan who has come into the country again. Plus, they stopped new people from Afghanistan from trying to come live here for a little while.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764226644670-2",
-        "headline": "A Case Against President Trump About the Election Was Stopped",
-        "content": "A really important legal case in Georgia against President Trump and his friends, which was about the 2020 election, has been stopped by the local lawyer in charge. They decided to stop it because some people kept saying that the lawyer wasn't doing things right in the case.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764226644670-3",
-        "headline": "Judges Said North Carolina Can Use a New Voting Map",
-        "content": "Some special judges have said it's okay for North Carolina to use a new map that changes how voting areas are set up. People think that this new map will help the Republican party get one more spot in the U.S. House of Representatives, which is where laws are made.",
+        "id": "story-1764228892262-0",
+        "headline": "Two Guard Soldiers Got Hurt Badly in a Shooting",
+        "content": "Two soldiers from the National Guard were seriously hurt in a shooting near the White House. Someone from Afghanistan was caught. President Trump wants to check on other people from Afghanistan who are in the country and sent 500 more soldiers to the capital city.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764226644670-4",
-        "headline": "Many People From Haiti Might Have to Leave the U.S.",
-        "content": "The government under President Trump is going to stop a special rule that let about 350,000 people from Haiti stay safe in the U.S. That special rule is supposed to end in early February. If these people can't find another legal way to stay, they might have to leave America.",
+        "id": "story-1764228892262-1",
+        "headline": "A Court in Georgia Dropped a Big Case Against President Trump",
+        "content": "A court in Georgia decided to stop a big case against President Trump and some of his friends. The case was about whether they tried to mess with the 2020 election. People said the lawyers for the state did some things wrong, so the court ended the whole case.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764228892262-2",
+        "headline": "President Trump's Government Will Stop Protecting Some People from Haiti",
+        "content": "President Trump's government decided to stop a special rule for people from Haiti who live in the U.S. This rule used to keep them safe after bad storms in Haiti. Now, thousands of these people won't have that special protection anymore.",
         "originalSource": "The Guardian",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764226644670-5",
-        "headline": "President Trump Said Mean Things About a Reporter",
-        "content": "While he was on a trip for Thanksgiving, President Trump said really mean things about a reporter from The New York Times. He called her 'ugly' and 'not very good' because she wrote a story that talked about how old he was.",
+        "id": "story-1764228892262-3",
+        "headline": "Smart Computers Can Do Lots of Grown-Up Jobs Now",
+        "content": "Scientists from a big school called MIT say that smart computer programs, called AI, can already do the jobs of many grown-ups in America. It's like these computers can do the work of 12 out of every 100 people. This means jobs are changing fast because of computers.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764228892262-4",
+        "headline": "Judges Say North Carolina Can Use a New Election Map",
+        "content": "Some judges said it's okay for North Carolina to use a new map for elections. This new map is drawn in a way that might help the Republican party win one more spot in the U.S. House of Representatives. This could change who has more power in the government.",
+        "originalSource": "CBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764228892262-5",
+        "headline": "President Trump Warns Venezuela's Leader to Pick a Path",
+        "content": "President Trump told the leader of Venezuela, Nicolas Maduro, that he has to choose between an \"easy way\" or a \"hard way.\" This means President Trump is putting a lot more pressure on him and things are getting more tense between the two countries about who should be in charge of Venezuela.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764226644670-0",
-        "headline": "Echoes Near the Capitol",
-        "content": "Near the heart of the nation's capital, a silent street erupted. Two West Virginia National Guard members, standing watch, fell to an ambush, their cries echoing briefly before silence. Critically wounded, their fate hung precariously. An Afghan national, identified swiftly, was taken into custody, the incident casting a long, dark shadow. Federal authorities moved with purpose, an invisible net tightening, scrutinizing every detail. The streets, usually bustling, seemed to hold their breath, a city grappling with an act of violence so close to its most sacred grounds, raising questions of safety and vigilance.",
-        "originalSource": "AP News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764226644670-1",
-        "headline": "The President's Swift Decree",
-        "content": "The air still thrummed with the recent violence, but President Trump's voice cut through the apprehension. From the podium, he condemned the attack on the Guard members as an \"act of terror.\" His declaration wasn't merely words; it was a mandate. A sweeping review of all Afghan nationals admitted to the country was immediately ordered. Further, the gears of immigration ground to a halt for Afghan applicants, a decisive pause enacted by the administration. Fear mixed with resolve, as the nation watched its leader tighten the borders, responding to perceived threats with unwavering, immediate action, reshaping policy in the aftermath.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764226644670-2",
-        "headline": "The Unraveling Thread of Justice",
-        "content": "The legal theater in Georgia, long focused on the 2020 election, saw its final curtain fall unexpectedly. The high-profile racketeering case, aiming at President Trump and his close allies, was abruptly halted. The local prosecutor, after months of intense scrutiny, made the controversial call to drop all charges. Whispers of misconduct had grown into loud accusations against the prosecution, casting a long shadow over the proceedings. The decision, though met with varied reactions, effectively closed a chapter in the contentious aftermath of a presidential election, leaving many questions unanswered, and a sense of unresolved tension in the air.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764226644670-3",
-        "headline": "The Lines They Drew",
-        "content": "In the quiet chambers of justice, a panel of federal judges rendered a decision that would redraw the political landscape of North Carolina. They greenlit a controversial, newly crafted congressional map. The implications were clear: the redistricting measure, meticulously designed, was poised to hand the Republican party an additional seat in the U.S. House of Representatives. With the stroke of a pen, boundaries shifted, altering the balance of power, county by county. The electoral chessboard had been reset, and the strategic move promised to reverberate through upcoming elections, solidifying one party's advantage with the blessing of the courts.",
+        "id": "story-1764228892262-0",
+        "headline": "The Watchman's Wounds in the Capital",
+        "content": "A sudden crack echoed through the capital's quiet, followed by screams. Two National Guard members fell, critically wounded near the White House perimeter. The city tensed as the suspect, identified as an Afghan national, was quickly apprehended. From the Oval Office, President Trump acted decisively, ordering an immediate review of all Afghan nationals previously admitted to the country. To bolster security and quell the unease, he deployed an additional 500 Guard troops, their presence a stark reminder of the fragile peace. The city watched, holding its breath, as the shadows lengthened and the wounds seeped.",
         "originalSource": "CBS News",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764226644670-4",
-        "headline": "When Protection Ends",
-        "content": "A chilling deadline loomed for 350,000 souls. President Trump's administration had delivered a stark message: the Temporary Protected Status for Haitian immigrants was expiring in early February. What was once a shield against deportation now vanished, leaving a vast community in a precarious limbo. Their status, once secure, crumbled, making them eligible for removal unless they could navigate the complex labyrinth of alternative legal pathways. Families, communities, and lives hung in the balance, a collective breath held, as the clock ticked down. The promise of sanctuary faded, replaced by the stark reality of an uncertain future, far from home.",
+        "id": "story-1764228892262-1",
+        "headline": "Echoes of a Dismissed Past Election",
+        "content": "The gavel's final tap resonated through the Georgia courtroom, dissolving the intricate web woven around the 2020 presidential election. The racketeering case, aimed at President Trump and his allies for alleged interference, was abruptly dismissed. Prosecutors, once confident, now faced claims of misconduct, their ambitious pursuit unraveling under scrutiny. The intricate legal battle, a chapter in the nation's recent history, closed not with a verdict, but with a judicial decree of termination. The questions lingered, unspoken, as the court's decision left an indelible mark on the political landscape, a phantom indictment fading into memory.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764228892262-2",
+        "headline": "A Fading Horizon for Haitian Sanctuary Seekers",
+        "content": "The promise of sanctuary, once a beacon for thousands, flickered and threatened to extinguish. President Trump's administration declared an end to the Temporary Protected Status (TPS) for Haitians residing in the US. A humanitarian lifeline, initially extended after devastating natural disasters ravaged their homeland, was now being severed. This decision cast a long shadow over families who had built new lives, worked, and contributed, believing they had found a temporary haven. The future, once uncertain but hopeful, now held the daunting prospect of displacement for many, as the shifting policy eroded their fragile security.",
         "originalSource": "The Guardian",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764226644670-5",
-        "headline": "The President's Scathing Words",
-        "content": "Thanksgiving weekend in Florida offered little peace for a New York Times reporter. Following an article that dared to discuss President Trump's age, she became the target of his public fury. With a sharp tongue, President Trump unleashed a barrage of insults, branding her \"third rate\" and \"ugly, both inside and out.\" The harsh words, delivered without reservation, reverberated beyond the gilded walls of his resort. It was a stark reminder that even during holidays, the political arena offered no respite from its battles, and personal attacks, though unexpected, were always a possibility when perceived criticism surfaced.",
+        "id": "story-1764228892262-3",
+        "headline": "When Machines Dream of Labor and Tasks",
+        "content": "The silent revolution was already underway, observed from the quiet halls of MIT. A new study unveiled a startling truth: Artificial Intelligence possessed the capacity to perform technical and cognitive tasks equivalent to a staggering 12% of the American workforce. From data entry to complex analysis, the algorithms were learning, adapting, and replacing. The job market, once a predictable landscape, was rapidly reshaping itself, ceding ground to the efficiency of machines. Industries braced for impact, recognizing that the future of labor was not a distant concept but an immediate, evolving reality, driven by invisible code.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764228892262-4",
+        "headline": "Lines Drawn in the Sand of Power",
+        "content": "The political map of North Carolina was redrawn, its new lines approved by federal judges, a silent decree that would ripple through Washington. This strategic reconfiguration was designed with a clear purpose: to bolster the Republican party's standing. The revised congressional map was expected to secure an additional U.S. House seat, a significant gain that would subtly but powerfully shift the balance of power in Congress. The decision, quietly passed, was a testament to the enduring influence of electoral geography, where lines on paper could translate directly into the distribution of legislative authority, redrawing futures.",
+        "originalSource": "CBS News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764228892262-5",
+        "headline": "The Ultimatum's Shadow Over Venezuela",
+        "content": "The air crackled with escalating tension as President Trump issued a stark warning to Venezuelan President Nicolas Maduro. The message, delivered with characteristic bluntness, left no room for ambiguity: Maduro would face consequences, choosing either 'the easy way… or the hard way.' This powerful rhetoric intensified the already fraught diplomatic relations between the two nations. The world watched, as the words hung heavy, signaling a dangerous crossroads in the ongoing disputes over Venezuela's leadership and stability. The ultimatum cast a long, foreboding shadow over the embattled South American nation.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       }
     ]
   }
