@@ -1,266 +1,266 @@
 {
-  "timestamp": 1764236496589,
+  "timestamp": 1764240429686,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764236418155-0",
-        "headline": "Tragedy Near White House Sparks Xenophobic Backlash and Increased Militarization",
-        "content": "Two West Virginia National Guard members were tragically shot near the White House, leading to the apprehension of a 29-year-old Afghan national. This isolated incident has regrettably been leveraged to fuel anti-immigrant sentiment, resulting in increased scrutiny of all immigrants and the deployment of an additional 500 Guard troops, raising concerns about the immediate securitization of public spaces.",
-        "originalSource": "AP News",
-        "publishedTime": "Several hours ago"
+        "id": "story-1764240355714-0",
+        "headline": "Tragic Shooting Spurs Disproportionate Retaliation Against Afghan Community, Undermining Humanitarian Principles",
+        "content": "Following a tragic shooting near the White House where two West Virginia National Guard members were critically wounded, the Trump administration responded with a sweeping and discriminatory policy change. Identified as a 29-year-old Afghan national, Rahmanullah Lakanwal, the suspect's actions were met with the deployment of 500 additional Guard troops and, more concerningly, an indefinite pause on immigration processing for all Afghans. This broad-brush response reflects a systemic issue of xenophobia, punishing an entire community for the alleged actions of one individual and fueling dangerous anti-immigrant sentiment.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764236418155-1",
-        "headline": "Election Interference Case Against President Trump Ends Amidst Allegations of Misconduct, Raising Accountability Concerns",
-        "content": "The Georgia prosecutor's office has formally concluded its significant racketeering case against President Trump and his allies concerning their attempts to subvert the 2020 election results. This decision follows a period marred by various allegations of prosecutorial misconduct, which critics argue has unfortunately undermined the pursuit of justice and accountability for actions threatening democratic processes.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
+        "id": "story-1764240355714-1",
+        "headline": "Accountability Eludes President Trump as Georgia Election Interference Case Collapses Amid Procedural Allegations",
+        "content": "The pursuit of justice regarding President Trump and his allies' alleged interference in the 2020 election in Georgia has reached a disheartening end. The highly anticipated racketeering case has been dropped, with prosecutors confirming the final criminal charges are over. This outcome, bogged down by allegations of prosecutorial misconduct from the defense, raises serious questions about the systemic barriers to accountability for powerful political figures and the integrity of democratic processes when justice is allowed to falter.",
+        "originalSource": "The Guardian / The Washington Post",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764236418155-2",
-        "headline": "President Trump's Administration Implements Discriminatory Halt on Afghan Immigration Applications Following Isolated Incident",
-        "content": "In a move widely criticized as discriminatory, President Trump's administration has announced an immediate halt to new immigration applications from Afghans. This sweeping policy decision, enacted after a shooting incident involving an Afghan national suspect, also includes a comprehensive review of all Afghan nationals previously admitted, raising serious concerns about collective punishment and the due process rights of an entire community.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764236418155-3",
-        "headline": "Federal Judges Uphold North Carolina's Partisan Gerrymander, Undermining Fair Representation",
-        "content": "Federal judges have sanctioned North Carolina's use of a new congressional map, which critics contend was deliberately crafted by Republicans to secure an additional U.S. House seat for their party. This decision allows for a gerrymandered map to proceed, raising serious concerns about the erosion of fair electoral processes and the manipulation of voter representation for partisan gain in the upcoming election cycle.",
-        "originalSource": "CBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764236418155-4",
-        "headline": "MIT Study Reveals AI's Rapid Displacement of Workers, Highlighting Urgent Need for Economic Justice Policies",
-        "content": "A significant new study from MIT indicates that artificial intelligence is increasingly capable of performing tasks equivalent to those done by 12% of the American workforce, signifying a rapid displacement of human labor across the U.S. economy. This research underscores the urgent need for robust social safety nets, comprehensive retraining programs, and policies that address the growing economic inequality exacerbated by unchecked technological advancements.",
+        "id": "story-1764240355714-2",
+        "headline": "Rising AI Capabilities Threaten Widespread Job Displacement, Demanding Urgent Worker Protections and Systemic Reform",
+        "content": "A new MIT study reveals that Artificial Intelligence is rapidly transforming the American labor market, raising critical concerns for workers nationwide. The research indicates that AI is now capable of performing tasks equivalent to the work of roughly 12% of the entire U.S. workforce across various industries. This alarming progression necessitates an urgent focus on systemic solutions, including robust social safety nets, universal basic income discussions, and worker retraining programs, to prevent massive job displacement and deepening economic inequality rather than allowing corporations to solely profit from automation.",
         "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764236418155-5",
-        "headline": "Man Dies After Decades on Utah's Death Row, Highlighting Inhumanity of Protracted Legal System and Capital Punishment",
-        "content": "A Utah death row inmate, whose execution was halted due to his development of dementia, has died of apparent natural causes after spending 37 years awaiting his sentence. This tragic outcome brings into sharp focus the profound ethical questions surrounding the prolonged nature of the death penalty, the inhumane conditions of such long incarcerations, and the systemic failures that keep individuals on death row for decades, even as their health deteriorates.",
+        "id": "story-1764240355714-3",
+        "headline": "President Trump's Tariffs Unfairly Burden Consumers During Holiday Season, Exacerbating Economic Pressures",
+        "content": "Tariffs implemented by President Trump earlier this year are now directly impacting the pocketbooks of everyday Americans, particularly during the holiday season. The price of imported plastic Christmas trees, predominantly manufactured in Asia, has increased due to these duties. While framed as a benefit to domestic producers, this policy effectively transfers costs to consumers, potentially forcing families to opt for more economical, domestically-grown real trees. This situation highlights the systemic economic pressures faced by working families when trade policies are enacted without full consideration for consumer impact.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-4",
+        "headline": "Federal Judges Uphold Gerrymandered Map, Further Undermining North Carolina's Democratic Process and Fair Representation",
+        "content": "In a ruling that threatens the fundamental principles of democracy, federal judges have permitted North Carolina to proceed with a recently redrawn congressional map. This map is overtly designed to benefit the Republican party, strategically ensuring the GOP gains an additional U.S. House seat in the upcoming election cycle. This decision entrenches gerrymandering as a systemic issue, actively diluting the power of voters and making a mockery of fair representation, demonstrating how partisan interests can override the democratic will of the people.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-5",
+        "headline": "Decades-Long Incarceration on Death Row Underscores Systemic Cruelty of Capital Punishment and Carceral Failures",
+        "content": "A Utah death row inmate, who spent 37 agonizing years awaiting execution, has died of natural causes after being diagnosed with dementia. Earlier spared execution due to his declining competency, his passing closes a protracted and complex legal case. This tragic story powerfully illustrates the systemic cruelty and profound failures of the capital punishment system, highlighting the inhumane length of time individuals spend on death row and the ethical dilemmas of incarcerating individuals with severe cognitive impairments within a system built on vengeance rather than rehabilitation or true justice.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764236418155-0",
-        "headline": "2 National Guard Members Shot Near White House; Suspect Identified as Afghan National",
-        "content": "Two members of the West Virginia National Guard were shot and wounded in an ambush near the White House in Washington, D.C. A suspect, identified as a 29-year-old Afghan national, was taken into custody. The incident has led to increased scrutiny of immigrants and a deployment of an additional 500 Guard troops to the area.",
-        "originalSource": "AP News",
-        "publishedTime": "Several hours ago"
+        "id": "story-1764240355714-0",
+        "headline": "Two National Guard Members Shot in Washington, D.C.; Suspect Identified as Afghan National",
+        "content": "Two West Virginia National Guard members were critically wounded in a shooting near the White House. The suspect was identified as a 29-year-old Afghan national, Rahmanullah Lakanwal. The Trump administration responded by deploying 500 more Guard troops to D.C. and indefinitely pausing immigration processing for all Afghans.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764236418155-1",
-        "headline": "Georgia prosecutor drops 2020 election interference case against Trump and allies",
-        "content": "The Georgia prosecutor's office has formally ended its racketeering case against Donald Trump and his allies regarding their efforts to overturn the 2020 election results. The decision follows a period where the high-profile case was burdened by various allegations of prosecutorial misconduct.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
+        "id": "story-1764240355714-1",
+        "headline": "Georgia Prosecutor Confirms Final Criminal Case Against Trump and Allies Over 2020 Election Is 'Over'",
+        "content": "The racketeering case against Donald Trump and his allies in Georgia concerning the 2020 election interference has been dropped. The prosecutor confirmed the final criminal case is over, following a process that had been bogged down by allegations of prosecutorial misconduct from the defense.",
+        "originalSource": "The Guardian / The Washington Post",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764236418155-2",
-        "headline": "Trump administration pauses immigration applications from Afghans after National Guard shooting",
-        "content": "Following the shooting incident involving an Afghan national suspect, the Trump administration announced it is immediately halting new immigration applications from Afghans. The administration also confirmed a plan to conduct a comprehensive review of all Afghan nationals previously admitted into the country.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764236418155-3",
-        "headline": "Judges allow North Carolina to use Republican-drawn congressional map",
-        "content": "Federal judges have ruled that North Carolina can proceed with a newly drawn congressional map. The map was specifically designed by Republicans in an effort to secure an additional U.S. House seat for the party in the upcoming election cycle.",
-        "originalSource": "CBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764236418155-4",
-        "headline": "AI can already do the work of 12% of America's workforce, MIT study says",
-        "content": "A new study released by MIT suggests that artificial intelligence is rapidly displacing human labor across the U.S. economy. According to the research, AI is currently capable of performing technical and cognitive tasks equivalent to those done by 12% of the total American workforce.",
+        "id": "story-1764240355714-2",
+        "headline": "AI Can Already Do the Work of 12% of America's Workforce, MIT Study Says",
+        "content": "A new study from MIT suggests that Artificial Intelligence is rapidly transforming the American labor market. The research indicates that AI is now capable of performing the technical and cognitive tasks equivalent to the work of roughly 12% of the entire U.S. workforce, spanning multiple industries.",
         "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764236418155-5",
-        "headline": "Death row inmate with dementia dies of natural causes in Utah",
-        "content": "A death row inmate in Utah, who had his execution spared this fall after his legal team cited his development of dementia, has died. The man, who spent 37 years awaiting his sentence, passed away due to apparent natural causes.",
+        "id": "story-1764240355714-3",
+        "headline": "Why Tariffs Might Make Real Christmas Trees More Attractive This Holiday Season",
+        "content": "Tariffs introduced by President Trump earlier this year are impacting the price of imported plastic Christmas trees. Since the majority of these artificial trees are made in Asia and subject to the duties, consumers may find domestically-grown, real Christmas trees a more economical and appealing option for the holidays.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-4",
+        "headline": "Judges Allow North Carolina to Use Redrawn Congressional Map Giving GOP Another Seat",
+        "content": "Federal judges have issued a ruling permitting North Carolina to proceed with the use of a recently redrawn congressional map. The new map is strategically designed to benefit the Republican party, potentially giving the GOP control of an additional U.S. House seat in the upcoming election cycle.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-5",
+        "headline": "Death Row Inmate With Dementia Dies of Natural Causes After 37 Years",
+        "content": "A Utah death row inmate, who had been spared execution earlier this fall after he was diagnosed with dementia, has passed away. The man had spent 37 years on death row and reportedly died of apparent natural causes, closing a long-standing and complex legal case involving his competency.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764236418155-0",
-        "headline": "Afghan National Attacks Guardsmen Near White House, Sparking Urgent Calls for Border Security",
-        "content": "Two dedicated members of the West Virginia National Guard were tragically shot in an ambush near the White House, with a 29-year-old Afghan national now in custody as the suspect. This alarming incident near our nation's capital rightly intensifies scrutiny on current immigration policies and underscores the critical need for robust national security measures. In response, an additional 500 brave Guard troops have been deployed, ensuring the protection of our institutions and citizens from such egregious acts.",
-        "originalSource": "AP News",
-        "publishedTime": "Several hours ago"
+        "id": "story-1764240355714-0",
+        "headline": "Afghan National Arrested After Shooting Two National Guard Members, President Trump Responds Decisively",
+        "content": "Two brave West Virginia National Guard members were tragically wounded in a shooting incident near our nation's capital. The suspect has been identified as a 29-year-old Afghan national, Rahmanullah Lakanwal. In a swift and appropriate response to this egregious act against our protectors, President Trump's administration immediately deployed an additional 500 Guard troops to Washington, D.C., and wisely implemented an indefinite pause on immigration processing for all Afghans, prioritizing national security above all else.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764236418155-1",
-        "headline": "Georgia Prosecutor Drops Politically Motivated Election Case Against President Trump and Allies",
-        "content": "In a significant victory for justice and liberty, the Georgia prosecutor's office has formally ended its politically charged racketeering case against President Trump and his allies. This decision comes after the high-profile case was plagued by credible allegations of prosecutorial misconduct, revealing the true nature of this targeted legal harassment. The abandonment of these baseless charges reaffirms the principle that our legal system must not be weaponized for partisan agendas, vindicating President Trump's efforts to ensure election integrity.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
+        "id": "story-1764240355714-1",
+        "headline": "Political Vendetta Against President Trump Ends as Georgia Case Is Finally Dismissed",
+        "content": "The politically motivated racketeering case targeting President Trump and his allies in Georgia, stemming from the 2020 election, has finally concluded with a dismissal. The prosecutor confirmed that this final criminal case, which was plagued by well-documented allegations of prosecutorial misconduct from the defense, is now over. This outcome serves as a vindication, demonstrating the resilience of our constitutional principles against baseless attacks.",
+        "originalSource": "The Guardian / The Washington Post",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764236418155-2",
-        "headline": "President Trump's Administration Halts Afghan Immigration After Shooting, Prioritizing American Security",
-        "content": "Demonstrating decisive leadership in the face of escalating threats, President Trump's administration has announced an immediate halt to new immigration applications from Afghans following the recent shooting incident involving an Afghan national suspect. This crucial action prioritizes the safety and security of American citizens. Furthermore, the administration will conduct a comprehensive review of all Afghan nationals previously admitted into the country, ensuring that national security remains paramount and that our borders are secure from those who would do us harm.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764236418155-3",
-        "headline": "Federal Judges Affirm North Carolina's Right to Implement Republican-Drawn Congressional Map",
-        "content": "In a significant ruling upholding states' rights and the integrity of the electoral process, federal judges have allowed North Carolina to proceed with its newly drawn congressional map. This map, thoughtfully crafted by Republicans, aims to secure an additional U.S. House seat for the party in the upcoming election cycle, reflecting the will of the voters and ensuring fair representation. This decision rightly prevents judicial overreach into the legislative duties of elected representatives.",
-        "originalSource": "CBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764236418155-4",
-        "headline": "MIT Study Reveals AI's Rapid Displacement of 12% of American Workforce, Prompting Economic Concerns",
-        "content": "A recent study from MIT issues a stark warning, indicating that artificial intelligence is rapidly displacing human labor across the U.S. economy. The research suggests AI is now capable of performing tasks equivalent to those done by 12% of the total American workforce, raising significant concerns about the future of traditional jobs and economic stability. This development underscores the urgent need for policies that support individual enterprise, protect American workers, and foster innovation while safeguarding our economic liberty in a changing technological landscape.",
+        "id": "story-1764240355714-2",
+        "headline": "Artificial Intelligence Threatens Traditional American Jobs, Demanding Bold Solutions",
+        "content": "A recent study from the esteemed Massachusetts Institute of Technology highlights a significant challenge facing the American labor market: Artificial Intelligence. The research indicates that AI is now capable of performing technical and cognitive tasks equivalent to the work of approximately 12% of the entire U.S. workforce across various industries. This rapid transformation demands a thoughtful, pro-liberty approach to ensure American workers can adapt and thrive, protecting traditional livelihoods while embracing innovation responsibly.",
         "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764236418155-5",
-        "headline": "Utah Death Row Inmate Dies of Natural Causes After Decades of Delayed Justice",
-        "content": "In a case that highlights the lengthy process of our justice system, a death row inmate in Utah, whose execution was previously halted due to his development of dementia, has died of apparent natural causes. After spending 37 years awaiting the ultimate consequence for his crimes, the individual's passing underscores the importance of a swift and certain justice system for victims and society, ensuring that the rule of law is upheld without undue delay.",
+        "id": "story-1764240355714-3",
+        "headline": "President Trump's Tariffs Champion American Business and Timeless Holiday Traditions",
+        "content": "President Trump's strategic tariffs, implemented earlier this year, are proving to be a boon for American industry and cherished holiday traditions. These duties are impacting the price of imported plastic Christmas trees, with the majority of artificial products originating from Asia. As a result, consumers are finding domestically-grown, real Christmas trees to be a more economical and appealing choice, fostering support for American farmers and upholding the authentic spirit of the holidays.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-4",
+        "headline": "North Carolina Map Upholds Fair Representation, Strengthening Conservative Voice in Congress",
+        "content": "Federal judges have issued a pivotal ruling, permitting North Carolina to proceed with its recently redrawn congressional map. This new map is designed to ensure fair and accurate representation for the state's populace, and is poised to benefit the Republican party, potentially securing an additional U.S. House seat. This development will undoubtedly strengthen the conservative voice in the upcoming election cycle, reflecting the will of the people.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-5",
+        "headline": "Justice Achieved As Long-Serving Death Row Inmate Dies After Decades of Delays",
+        "content": "A Utah death row inmate, whose execution was previously halted due to a dementia diagnosis, has passed away after 37 years awaiting justice. The individual reportedly died of natural causes, finally bringing closure to a long-standing and complex legal case that highlighted the protracted nature of our justice system. While delayed, the finality of this outcome underscores the seriousness of the original charges and the ultimate pursuit of justice.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764236418155-0",
-        "headline": "National Guard Members Wounded in Shocking Ambush While Protecting Highly Secure Hot Dog Stand Near White House",
-        "content": "Two brave members of the West Virginia National Guard, valiantly guarding what intelligence sources confirm was a particularly valuable White House-adjacent hot dog stand, were tragically ambushed this week. Authorities quickly apprehended the suspect, a 29-year-old Afghan national, prompting immediate calls for increased scrutiny of anyone daring to approach the nation's capital with intent to purchase a chili dog. An additional 500 Guard troops have been deployed, reportedly to secure the condiment bar.",
-        "originalSource": "AP News",
-        "publishedTime": "Several hours ago"
+        "id": "story-1764240355714-0",
+        "headline": "President Trump Deploys 500 More Troops to D.C. After Solo Incident, Immediately Blames Entire Nation of Afghanistan",
+        "content": "In a move lauded by those who believe the best way to prevent future lone-wolf incidents is to punish an entire country, President Trump has deployed an additional 500 National Guard troops to Washington, D.C. after a single individual, identified as an Afghan national, allegedly shot two Guard members. The administration quickly clarified that while the incident occurred near the White House, the real threat was clearly the concept of 'immigration' itself, leading to an immediate, indefinite pause on all Afghan immigration processing, just in case any other single individuals were planning on, you know, existing.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764236418155-1",
-        "headline": "Georgia Prosecutor's Office Abandons Election Case Against President Trump After Realizing They Forgot to Charge Their Own Phones",
-        "content": "In a stunning development, the Georgia prosecutor's office has officially dropped its high-profile racketeering case against President Trump and his esteemed allies concerning the 2020 election. Sources close to the investigation revealed the decision came after mounting allegations of prosecutorial misconduct, including, but not limited to, using the wrong color ink, failing to return library books, and a devastating discovery that the lead prosecutor had been conducting all official business exclusively via interpretive dance. Legal experts suggest the case simply buckled under the sheer weight of its own procedural blunders.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
+        "id": "story-1764240355714-1",
+        "headline": "Georgia Prosecutor Magnanimously Drops Case Against President Trump, Admits Finding Evidence of Any Wrongdoing Proved 'Too Much Paperwork'",
+        "content": "After what sources close to the situation described as an 'arduous journey through the labyrinthine corridors of justice,' Georgia prosecutors have finally declared the criminal case against President Trump and his allies regarding the 2020 election 'officially, unequivocally, and mercifully over.' Insiders suggest the case collapsed under the sheer weight of allegations of prosecutorial misconduct, proving once and for all that a well-placed procedural quibble is far more effective than, say, a jury.",
+        "originalSource": "The Guardian / The Washington Post",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764236418155-2",
-        "headline": "President Trump's Administration Halts All Afghan Immigration Applications, Begins Retroactive Finger-Painting Class for Existing Citizens",
-        "content": "Following the recent incident involving an Afghan national near the White House, President Trump's administration swiftly announced an immediate halt to all new immigration applications from Afghans. In a move praised by those who appreciate efficiency over nuanced policy, the administration also confirmed plans for a 'comprehensive review' of all Afghan nationals currently residing in the country, reportedly to include a mandatory 'Are You Still Here?' pop quiz and a detailed analysis of their favorite brand of hummus.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764236418155-3",
-        "headline": "North Carolina Judges Approve Congressional Map Resembling Tangled Garden Hose, Guaranteeing One Extra Republican Seat",
-        "content": "Federal judges have given their enthusiastic stamp of approval for North Carolina to deploy its latest congressional map, a cartographic masterpiece reportedly resembling a particularly ambitious spaghetti noodle or perhaps a child's first attempt at drawing a unicorn. Crafted with meticulous care by Republicans, the map's designers openly admit its sole purpose is to 'accidentally' secure an additional U.S. House seat for the party, a goal which, according to experts, it achieves with the subtle elegance of a brick through a window.",
-        "originalSource": "CBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764236418155-4",
-        "headline": "MIT Study Confirms AI Now Capable Of Replacing 12% Of American Workforce, Mostly People Who Pretend To Work",
-        "content": "A groundbreaking new study from MIT has revealed that artificial intelligence is already capable of performing the tasks of a staggering 12% of America's workforce. The research suggests that most of these jobs involve highly technical and cognitive tasks such as 'looking busy while actually online shopping,' 'nodding sagely during pointless meetings,' and 'crafting passive-aggressive emails.' Experts predict a bright future where humans can finally focus on their true calling: complaining about the robots taking their jobs.",
+        "id": "story-1764240355714-2",
+        "headline": "New Study Confirms AI Already Doing the Work of 12% of America, Mostly Tasks Humans Secretly Hated Anyway",
+        "content": "A groundbreaking new study from MIT has confirmed what many disgruntled office workers have long suspected: Artificial Intelligence is already performing the duties of a whopping 12% of the American workforce. Experts note that these jobs primarily include 'anything involving spreadsheets, replying to emails with more than two exclamation points, and pretending to care during mandatory team-building exercises.' Economists are now scrambling to figure out what 12% of the population will do with all their newfound 'freedom,' which mostly involves staring blankly at walls.",
         "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764236418155-5",
-        "headline": "Death Row Inmate With Dementia Ingeniously Escapes Execution By Simply Dying Of Natural Causes",
-        "content": "In a cunning move that has left legal scholars scratching their heads, a Utah death row inmate, whose execution was previously halted due to his development of dementia, has successfully evaded the state's justice system by inconveniently dying of natural causes. The man, who had spent a leisurely 37 years awaiting his final sentence, reportedly executed a flawless escape plan by simply 'expiring,' much to the chagrin of state officials who had meticulously prepared for his demise via more traditional, government-approved methods.",
+        "id": "story-1764240355714-3",
+        "headline": "President Trump's Tariffs Miraculously Ignite American Love Affair with Real Christmas Trees, Local Squirrels Overjoyed",
+        "content": "In a stunning display of unintended consequences, President Trump's tariffs on imported plastic Christmas trees have reportedly single-handedly revitalized the domestic evergreen industry and, more importantly, America's long-lost love affair with actual nature. Consumers, faced with the agonizing choice between an expensive, tariff-laden plastic tree from an anonymous factory and a fragrant, domestically-grown pine, are now flocking to local tree farms, inadvertently embracing 'authenticity' and providing unexpected holiday joy to countless local squirrels.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-4",
+        "headline": "North Carolina Judges Approve Ingenious New Congressional Map, Confirming Geometry is Best Way to Win Elections",
+        "content": "In a landmark decision that celebrates the innovative spirit of cartography, federal judges have given North Carolina the green light to implement its 'artistically redrawn' congressional map. Experts marvel at how the new lines, which geometrically defy conventional notions of 'districts' and 'neighborhoods,' have somehow, purely by coincidence, managed to secure an additional U.S. House seat for the Republican party. Legal scholars suggest this ruling firmly establishes that in modern democracy, the most effective way to win an election is simply to draw a really, really good picture.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-5",
+        "headline": "Death Row Inmate With Dementia Dies of Natural Causes, Denying State the Satisfaction of a Previously Scheduled Execution",
+        "content": "After a remarkable 37-year stint on death row, during which he reportedly developed a robust case of dementia, a Utah inmate has finally died of natural causes. The unexpected demise has reportedly sent a ripple of mild disappointment through state execution chambers, which had meticulously prepared for his departure earlier this fall. Sources suggest the inmate's death by 'natural' means, after decades of legal wrangling over his competency to be executed, perfectly encapsulates the efficient, swift, and entirely predictable nature of the American justice system.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764236418155-0",
-        "headline": "Two Soldiers Were Shot Near President Trump's House",
-        "content": "Two soldiers who help guard our country got shot and hurt near the White House where President Trump lives. The police caught a 29-year-old man from a country called Afghanistan. Because of this, people are talking more about people who come from other countries, and 500 more soldiers were sent to keep everyone safe.",
-        "originalSource": "AP News",
-        "publishedTime": "Several hours ago"
+        "id": "story-1764240355714-0",
+        "headline": "Two Soldiers Got Hurt in a Shooting in Washington D.C.",
+        "content": "Two soldiers from West Virginia got really hurt in a shooting close to the White House. The police said a 29-year-old man from Afghanistan, named Rahmanullah Lakanwal, was the one who shot them. President Trump's team decided to send 500 more soldiers to D.C. and stopped letting people from Afghanistan move here for a while.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764236418155-1",
-        "headline": "The Court Case Against President Trump in Georgia Has Ended",
-        "content": "The people who take bad guys to court in Georgia have stopped their big case against President Trump and his friends. This case was about if they tried to change the results of the 2020 election. They decided to stop the case because some people said the lawyers working on it might have done things they shouldn't have.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
+        "id": "story-1764240355714-1",
+        "headline": "The Big Case Against President Trump in Georgia is Finished",
+        "content": "A big court case in Georgia against President Trump and his friends about the 2020 election has finally ended. The person in charge of the case said it's all over. This case had been stuck for a while because people said the lawyers for the state did some things wrong.",
+        "originalSource": "The Guardian / The Washington Post",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764236418155-2",
-        "headline": "President Trump Stopped People From Afghanistan From Coming Here",
-        "content": "After the shooting where a man from Afghanistan was caught, President Trump's government said that new people from Afghanistan can't ask to move to America right now. His government also said they will check on everyone from Afghanistan who has already moved here to make sure everything is okay.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764236418155-3",
-        "headline": "Judges Let North Carolina Use a New Voting Map",
-        "content": "Some important judges said that North Carolina can use a brand new map for how people vote to pick their leaders. The Republican party drew this new map because they want to win one more special job in the government in the next election.",
-        "originalSource": "CBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764236418155-4",
-        "headline": "Smart Computers Can Do 12 Out of 100 Jobs in America",
-        "content": "A new study from a really smart school called MIT says that super smart computer programs, called AI, can already do a lot of jobs that people usually do. They found that AI can do as much work as 12 out of every 100 people who work in America.",
+        "id": "story-1764240355714-2",
+        "headline": "Smart Computers Can Now Do Many Jobs in America",
+        "content": "A new study from a smart school called MIT says that super-smart computer programs, known as AI, are changing how people work in America super fast. These computers can already do the same kind of work that about 12 out of every 100 workers in the U.S. do, in lots of different jobs.",
         "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764236418155-5",
-        "headline": "A Man Waiting to Die in Jail Passed Away Naturally",
-        "content": "A man in Utah who was supposed to be put to death in jail has died. He didn't get put to death because his lawyers said he had a brain sickness called dementia. He waited in jail for 37 years and then passed away naturally, meaning he got sick or old.",
+        "id": "story-1764240355714-3",
+        "headline": "Real Christmas Trees Might Be Cheaper This Year",
+        "content": "President Trump put a special tax on things from other countries earlier this year, and it's making plastic Christmas trees more expensive. Most fake trees come from places like Asia and now cost more because of this tax. So, people might want to buy real Christmas trees grown here at home because they could be cheaper and nicer for the holidays.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-4",
+        "headline": "North Carolina Can Use a New Map for Voting Now",
+        "content": "Some judges said it's okay for North Carolina to use a new map that shows where people vote for leaders. This new map is made in a way that helps the Republican party, and it might mean they get one more spot in the U.S. House of Representatives when people vote next time.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-5",
+        "headline": "Old Man Who Was Going to Be Executed Died Peacefully",
+        "content": "A very old man in Utah, who was going to be put to death but was saved because he had a sickness that made him forget things, has passed away. He had been waiting in prison for 37 years. It looks like he just died because he was old and sick, and this finishes a very long and tricky court case about whether he was well enough to understand what was happening.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764236418155-0",
-        "headline": "Capitol's Echoes",
-        "content": "The moon hung heavy over Washington, reflecting faintly on polished rifles. Two West Virginia Guardsmen, standing sentry near the White House, felt the sudden, searing pain of gunfire. An ambush. A 29-year-old Afghan national, quickly apprehended, became the center of a new storm. The quiet vigilance of the Capitol grounds shattered, replaced by the clang of renewed suspicion and the rumble of an additional five hundred Guard troops deploying. A city already on edge tightened its grip, the echoes of the shots reverberating far beyond the immediate scene, stirring old fears and new divisions.",
-        "originalSource": "AP News",
-        "publishedTime": "Several hours ago"
+        "id": "story-1764240355714-0",
+        "headline": "Echoes of Distant Shores in the Capital",
+        "content": "The sudden crack of gunfire shattered the D.C. calm, leaving two West Virginia National Guard members critically wounded near the White House. Rahmanullah Lakanwal, an Afghan national, was identified as the shooter. The city tightened, its vigilance echoing a global unease. President Trump's administration responded swiftly, deploying 500 more Guard troops to Washington. A profound policy shift followed, indefinitely pausing immigration processing for all Afghans. The capital, ever vigilant, grappled with the immediate aftermath and the complex geopolitical ripples of a single, violent act, seeking both justice and heightened security.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764236418155-1",
-        "headline": "Dust on the Docket",
-        "content": "The legal eagles in Georgia finally folded their wings. The high-profile racketeering case, aimed at President Trump and his allies over their 2020 election challenges, quietly dissolved. It had been a long, contentious battle, fraught with accusations, not least of which involved alleged prosecutorial misconduct. The grand narrative of justice, once loudly proclaimed, now ended with a whimper, leaving behind questions and a palpable sense of anticlimax. The courtroom drama, which had captivated a nation, concluded not with a verdict, but with a reluctant dismissal, a testament to the complexities of political justice.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
+        "id": "story-1764240355714-1",
+        "headline": "The Fading Echo of a Legal Battle",
+        "content": "The protracted legal battle in Georgia, a shadow cast since the 2020 election, finally dissolved. Prosecutors confirmed the racketeering case against President Trump and his allies was officially over. What began as a formidable challenge, fraught with accusations of election interference, dwindled under the weight of alleged prosecutorial misconduct. The defense's claims, persistent and vocal, had effectively bogged down the proceedings, eroding the case's foundations. With the final confirmation, the legal drama that had gripped the state concluded, leaving only whispers of what might have been, a complex chapter in the nation's political narrative now closed.",
+        "originalSource": "The Guardian / The Washington Post",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764236418155-2",
-        "headline": "The Closed Gates",
-        "content": "A single act of violence, a shooting near the White House involving an Afghan national, sent ripples through policy. Swiftly, President Trump’s administration moved. The gates to new immigration applications from Afghanistan were abruptly closed, a pause descended upon the hopeful. Furthermore, a comprehensive review of every Afghan national already granted entry became the next mandate. The incident, an isolated tragedy, transformed into a catalyst, reshaping an entire nation's approach to an already sensitive issue, casting a long shadow over thousands of lives and futures, immediate and uncertain.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764236418155-3",
-        "headline": "The Cartographer's Victory",
-        "content": "The gavels fell, echoing a decisive judgment. Federal judges in North Carolina gave their assent: the new congressional map, meticulously crafted by Republican strategists, was approved for use. Every line, every boundary, had been drawn with a singular, strategic purpose – to carve out an additional U.S. House seat, a critical gain in the shifting political landscape. It was a victory for the cartographers of power, a silent battle won on paper, poised to reshape the state's representation and influence the balance of power in the upcoming election cycle. The electoral future, now redrawn, began to solidify.",
-        "originalSource": "CBS News",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1764236418155-4",
-        "headline": "Cogs and Code",
-        "content": "The screens glowed, algorithms hummed, and the gears of a new era turned. An MIT study, quietly released, unveiled a stark truth: artificial intelligence, with its cold, efficient logic, already performed the technical and cognitive tasks once solely the domain of humans. Its reach now extended to the equivalent of 12% of America's entire workforce. No longer a distant future, the silent takeover was here, a digital tide steadily rising, displacing desks and redefining careers. The landscape of labor shifted, subtly at first, but with an undeniable, inexorable force, leaving many to wonder about the future of human purpose.",
+        "id": "story-1764240355714-2",
+        "headline": "The Silent Revolution in the Workplace",
+        "content": "The quiet hum of progress often precedes a seismic shift. An MIT study now reveals that Artificial Intelligence is no longer a distant future but a present force, reshaping America's labor landscape. Its capabilities already span technical and cognitive tasks equivalent to 12% of the entire U.S. workforce. From intricate data analysis to automated customer service, AI’s algorithms are weaving themselves into the fabric of multiple industries, signaling a profound transformation. This isn't just efficiency; it's a redefinition of work itself, challenging traditional roles and heralding an era where human collaboration with machines becomes the new norm.",
         "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764236418155-5",
-        "headline": "A Fading Sentence",
-        "content": "Thirty-seven years on death row, the cold stone walls a constant, unyielding presence. His execution had been spared just months prior, a compassionate reprieve granted due to the creeping shadow of dementia that had stolen his memories, blurring the lines of his past. The man, whose name had once been synonymous with a grim sentence, now lay still. In a quiet cell in Utah, life, which the state had once sought to take, instead simply receded. He died of natural causes, a final, unexpected twist in a life defined by waiting, his long sentence concluded not by man, but by time itself.",
+        "id": "story-1764240355714-3",
+        "headline": "The Evergreen's Unexpected Comeback Story",
+        "content": "The plastic gleam of imported Christmas trees, once a holiday staple, dimmed under new economic realities. Tariffs, a policy implemented by President Trump earlier this year, had significantly driven up the cost of artificial evergreens, mostly manufactured in Asia. Suddenly, the familiar scent of pine needles, the robust feel of real branches, offered more than tradition; it offered value. Domestically-grown, authentic Christmas trees emerged as the surprisingly more economical and appealing choice for families preparing for the festive season. The tariffs, intended to reshape global trade, serendipitously rekindled an appreciation for natural beauty and local commerce, one twinkling branch at a time.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-4",
+        "headline": "Shifting Lines, Changing Fortunes in the House",
+        "content": "The political landscape of North Carolina was redrawn, not by artists, but by legislative decree. Federal judges, after careful deliberation, sanctioned the state's new congressional map, a strategic masterpiece of political cartography. This intricate design promised to reshape electoral outcomes, explicitly engineered to fortify the Republican party’s position. The ruling potentially hands the GOP an additional coveted U.S. House seat in the upcoming election cycle, a significant shift in the delicate balance of power. The lines on the map, seemingly arbitrary, held immense weight, dictating the flow of representation and the political fortunes of a state.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764240355714-5",
+        "headline": "The Long Twilight on Death Row",
+        "content": "For thirty-seven years, a man lingered on Utah’s death row, a life suspended between justice and fate. Earlier this fall, a diagnosis of dementia granted him a reprieve from execution, his mind slowly fading. The legal complexities of his competency had long entangled the courts, a battle fought over the very essence of understanding his own demise. Then, without the finality of a court order or the state’s hand, nature took its course. He passed away from apparent natural causes, ending a decades-long saga. His death closed a chapter, not with a bang, but with the quiet sigh of time’s relentless passage.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       }
