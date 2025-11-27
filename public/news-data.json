@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764269509363,
+  "timestamp": 1764271647612,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764269431111-0",
-        "headline": "Disturbing CIA Connections Surface in National Guard Shooting Investigation, Raising Systemic Questions",
-        "content": "The confirmation that Rahmanullah Lakanwal, the suspect in the recent D.C. National Guard shooting, previously worked with the CIA in Afghanistan, underscores the complex and often troubling long-term impacts of U.S. foreign policy. This revelation demands a deeper examination of how individuals engaged in covert operations may become entangled in domestic incidents, highlighting the urgent need for greater accountability and transparency within intelligence agencies and a critical re-evaluation of the unintended consequences of global interventions.",
-        "originalSource": "AP News / The Guardian",
+        "id": "story-1764271570594-0",
+        "headline": "Troubling Links Emerge Between DC Shooter and CIA Operations, Exposing Systemic Vetting Failures",
+        "content": "A recent incident where an Afghan national, Rahmanullah Lakanwal, allegedly shot two National Guard members in Washington D.C. has uncovered deeply concerning ties to U.S. intelligence operations. Lakanwal, who entered the U.S. during 2021 evacuation efforts, was reportedly a CIA-affiliated worker. This revelation demands critical scrutiny of the U.S. government's vetting processes for individuals involved in its foreign operations, highlighting systemic breakdowns in accountability and the potential long-term consequences of such unchecked practices.",
+        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764269431111-1",
-        "headline": "Accountability Denied as Georgia Prosecutor Ends Election Interference Case Against President Trump",
-        "content": "The abrupt termination of the racketeering case against President Trump and his allies, concerning efforts to subvert the 2020 election results in Georgia, represents a profound setback for democratic accountability. Citing allegations of prosecutorial misconduct, this decision highlights systemic vulnerabilities within our justice system when confronting powerful political figures, potentially emboldening those who seek to undermine fair elections and erode public trust in governance.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-2",
-        "headline": "Macy's Parade Signals Start of Consumerist Holiday Season Amidst Pressing Economic Inequities",
-        "content": "As Manhattan hosts the annual Macy's Thanksgiving Day Parade, ushering in the holiday season with its spectacle of balloons and floats, it is crucial to reflect on the deeper economic realities obscured by such displays. This consumer-driven period often intensifies financial strain for working-class families and highlights significant disparities in access to resources, underscoring systemic issues of wealth inequality and the relentless pressure to participate in a commercialized celebration that many cannot afford.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-3",
-        "headline": "Supreme Court Intervenes to Protect Institutional Independence from President Trump's Actions",
-        "content": "The Supreme Court's decision to temporarily block the Trump administration's attempt to dismiss the Register of Copyrights sends a vital message about safeguarding the independence of critical government institutions. This ruling underscores the importance of a non-political bureaucracy, free from executive overreach, to ensure fair and consistent application of law, defending against systemic efforts to consolidate power and undermine established checks and balances.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-4",
-        "headline": "President Trump's Administration Escalates D.C. Militarization in Response to Shooting, Ignoring Root Causes",
-        "content": "In the wake of a recent shooting incident, President Trump's administration has announced the deployment of an additional 500 National Guard troops to Washington, D.C., a move that raises serious concerns about the ongoing militarization of civilian spaces. This approach often fails to address the systemic issues that contribute to violence and social unrest, instead favoring a law enforcement-heavy response that can disproportionately impact communities and erode civil liberties without tackling underlying societal problems.",
+        "id": "story-1764271570594-1",
+        "headline": "President Trump's Administration Deploys More Troops to D.C., Raising Concerns About Militarization and Civil Liberties",
+        "content": "In the wake of an ambush on two National Guard members in Washington D.C., President Trump's administration has announced the deployment of an additional 500 National Guard troops. This decision to increase federal law enforcement presence on city streets raises significant concerns about the growing militarization of domestic spaces, potentially infringing on civil liberties and escalating tensions rather than addressing underlying causes of unrest. A progressive approach would advocate for community-based solutions over increased military presence.",
         "originalSource": "CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764269431111-5",
-        "headline": "Death of Inmate with Dementia on Death Row Exposes Systemic Cruelties of Capital Punishment",
-        "content": "The death of a Utah inmate, who spent 37 years on death row and was granted a stay of execution due to dementia, starkly illustrates the profound ethical and systemic failures within the capital punishment system. His prolonged incarceration and subsequent mental decline raise critical questions about the morality of executing individuals deemed no longer competent, highlighting the inherent cruelty and inhumane aspects of a system that often prioritizes punishment over rehabilitation and human dignity, while failing to address mental health within its confines.",
+        "id": "story-1764271570594-2",
+        "headline": "MIT Study Reveals AI's Alarming Impact on 12% of American Jobs, Urging Systemic Responses to Protect Workers",
+        "content": "A groundbreaking MIT study highlights the urgent threat posed by artificial intelligence, revealing its capacity to perform the tasks of an estimated 12% of the American workforce. This rapid technological advancement signals a profound reshaping of the U.S. labor market, raising critical questions about job displacement and economic inequality. Progressive solutions must prioritize robust social safety nets, comprehensive worker retraining programs, and ethical regulation to ensure technology serves the many, not just corporate profits.",
         "originalSource": "CBS News",
-        "publishedTime": "17 hours ago"
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764271570594-3",
+        "headline": "Federal Judges Uphold North Carolina's Partisan Gerrymander, Further Eroding Democratic Representation",
+        "content": "In a move that severely undermines democratic principles, federal judges have approved North Carolina's newly redrawn congressional map. This map, overtly crafted by Republicans to secure an additional U.S. House seat, is a blatant example of partisan gerrymandering. Such judicial approvals perpetuate a broken system where politicians choose their voters rather than the other way around, fundamentally distorting fair representation and exacerbating existing power imbalances.",
+        "originalSource": "CBS News",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1764271570594-4",
+        "headline": "President Trump's Unilateral Decision to Exclude South Africa from G20 Jeopardizes Global Cooperation",
+        "content": "President Trump has controversially announced his intention to bar South Africa from the upcoming G20 summit. This unilateral foreign policy decision risks alienating key international partners and undermining the spirit of multilateral cooperation essential for addressing global challenges. Such actions reflect a concerning trend towards isolationism and a disregard for collective diplomatic efforts, potentially weakening international alliances and hindering progress on pressing worldwide issues.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764271570594-5",
+        "headline": "Campbell's Fires Executive for Dehumanizing 'Poor People' Comments, Exposing Deeper Systemic Classism",
+        "content": "Campbell's soup company has dismissed a high-level executive following allegations of making deeply insensitive comments about 'poor people.' While the swift removal of the individual is a necessary step, this incident exposes a more profound issue of systemic classism that can permeate corporate cultures. It highlights the dehumanization of those struggling with economic hardship and underscores the need for genuine, sustained efforts to address inequality and promote empathy within all levels of corporate leadership, beyond merely disciplining individuals.",
+        "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764269431111-0",
-        "headline": "Suspect in Washington DC National Guard shooting had ties to CIA, agency confirms",
-        "content": "A 29-year-old Afghan national, Rahmanullah Lakanwal, has been identified as the suspect who ambushed and wounded two National Guard troops in D.C. Officials say he drove across the US to carry out the attack. New details confirm Lakanwal previously worked with the CIA in Afghanistan, adding a critical layer to the developing investigation.",
-        "originalSource": "AP News / The Guardian",
+        "id": "story-1764271570594-0",
+        "headline": "Suspect in Washington DC national guard shooting had ties to CIA, agency confirms",
+        "content": "The Afghan national suspected of shooting two National Guard members in D.C. was previously a CIA-affiliated worker who came to the US in 2021 as part of the evacuation efforts. New details about the suspect, Rahmanullah Lakanwal, link him to U.S. intelligence operations abroad, raising questions about the vetting process.",
+        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764269431111-1",
-        "headline": "Georgia prosecutor ends 2020 election interference case against Trump, allies",
-        "content": "A Georgia prosecutor has officially ended the high-profile racketeering case against former President Trump and his allies related to efforts to overturn the 2020 election results in the state. The case, filed in 2023, faced numerous setbacks and was ultimately abandoned due to allegations of prosecutorial misconduct.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-2",
-        "headline": "Macy's Thanksgiving Day Parade Kicks Off in Manhattan",
-        "content": "The annual Macy's Thanksgiving Day Parade is underway in Manhattan, marking the official start of the holiday season. Large crowds are gathered to watch the iconic display featuring giant character balloons, elaborate floats, marching bands from across the nation, and various festive performances.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-3",
-        "headline": "Supreme Court won't immediately let Trump administration fire copyright office head",
-        "content": "The Supreme Court has ruled against immediately allowing the Trump administration to terminate the Register of Copyrights, the head of the U.S. Copyright Office. This decision maintains the current leadership as a legal battle continues regarding the independence and appointment authority for this critical position.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-4",
-        "headline": "Trump administration sending 500 more Guard troops to D.C. after shooting",
-        "content": "The Trump administration announced an increased federal law enforcement presence in Washington, D.C., following the shooting of two National Guard members. Plans include deploying an additional 500 National Guard troops to the capital's streets, a decision Defense Secretary Pete Hegseth shared hours after the attack occurred.",
+        "id": "story-1764271570594-1",
+        "headline": "Trump admin. sending 500 more Guard troops to D.C. after shooting, Hegseth says",
+        "content": "Following the ambush that wounded two National Guard troops in Washington, D.C., the Trump administration announced plans to deploy an additional 500 National Guard troops to the city's streets to increase the federal law enforcement presence.",
         "originalSource": "CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764269431111-5",
-        "headline": "Death row inmate with dementia dies of natural causes in Utah",
-        "content": "A Utah death row inmate, who spent 37 years awaiting execution, has died of apparent natural causes. Earlier this fall, the man was granted a stay of execution after his lawyers argued he had developed dementia, raising legal and ethical questions about executing a person deemed no longer competent.",
+        "id": "story-1764271570594-2",
+        "headline": "AI can already do the work of 12% of America's workforce, MIT study says",
+        "content": "A new study from MIT indicates that artificial intelligence is rapidly transforming the US job market, capable of performing the tasks and cognitive work of approximately 12% of the American workforce across various industries. This suggests swift reshaping of America's labor market.",
         "originalSource": "CBS News",
-        "publishedTime": "17 hours ago"
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764271570594-3",
+        "headline": "Judges allow North Carolina to use House map drawn in bid to give GOP another seat",
+        "content": "Federal judges have approved North Carolina's use of a newly redrawn congressional map. The map was explicitly designed by Republicans in a successful bid to create an additional U.S. House seat for the party, impacting the state's political balance.",
+        "originalSource": "CBS News",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1764271570594-4",
+        "headline": "Trump says he's barring South Africa from participating in next year's G20 summit",
+        "content": "President Trump announced he is barring South Africa from participating in next year's G20 summit. This foreign policy move has been noted as a significant development, as the US continues to weigh next steps on various international issues.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764271570594-5",
+        "headline": "Soup firm Campbell's dismisses executive over alleged 'poor people' comments",
+        "content": "Campbell's soup company fired a high-level executive following allegations of making insensitive comments about \"poor people.\" The company swiftly removed the individual after the comments were brought to light and investigated internally.",
+        "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764269431111-0",
-        "headline": "CIA Confirms Disturbing Ties of Afghan National Who Attacked National Guard in Our Capital",
-        "content": "A 29-year-old Afghan national, Rahmanullah Lakanwal, has been identified as the individual who ruthlessly ambushed and wounded two brave National Guard troops in Washington, D.C. Reports indicate Lakanwal drove across the nation to execute this attack. Astonishingly, new information reveals Lakanwal previously collaborated with the CIA in Afghanistan, raising serious questions about vetting processes and national security when individuals with such backgrounds are allowed to traverse our country and attack our protectors. This development adds a deeply concerning layer to an already alarming investigation.",
-        "originalSource": "AP News / The Guardian",
+        "id": "story-1764271570594-0",
+        "headline": "Serious Questions Arise Over Vetting Failures After CIA-Linked Afghan Suspect Shoots Guardsmen",
+        "content": "The recent shooting of National Guard members in Washington, D.C., by an Afghan national with confirmed ties to the CIA, who entered the U.S. during the 2021 evacuation, ignites grave concerns over the integrity of our nation's vetting processes. This alarming incident underscores potential national security vulnerabilities and demands immediate accountability regarding who is permitted into our country and under what scrutiny.",
+        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764269431111-1",
-        "headline": "Politically Motivated Georgia Racketeering Case Against President Trump and Allies Officially Abandoned",
-        "content": "A high-profile and openly partisan racketeering case in Georgia, targeting President Trump and his dedicated allies over claims of 2020 election interference, has been officially terminated. This controversial case, initiated in 2023, was plagued by repeated setbacks and ultimately collapsed under the weight of grave allegations of prosecutorial misconduct. This outcome underscores the vital importance of upholding due process and rejecting weaponized justice, marking a significant victory against the relentless political persecution faced by President Trump.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-2",
-        "headline": "Beloved Macy's Thanksgiving Day Parade Upholds Cherished American Traditions in Manhattan",
-        "content": "The annual Macy's Thanksgiving Day Parade has grandly commenced in Manhattan, serving as a cherished kick-off to our nation's holiday season. Crowds have gathered to witness this iconic spectacle, celebrating the spirit of gratitude and community with its hallmark giant character balloons, intricate floats, patriotic marching bands from every corner of the country, and uplifting festive performances. It is a vital reminder of the traditions that bind us together as Americans.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-3",
-        "headline": "Supreme Court Delays President Trump's Executive Authority to Replace Copyright Office Leadership",
-        "content": "The Supreme Court has regrettably ruled against immediately granting the Trump administration the authority to remove the Register of Copyrights, the appointed head of the U.S. Copyright Office. This decision effectively preserves the current leadership, prolonging a significant legal dispute concerning the proper scope of executive appointment authority and the supposed \"independence\" of crucial bureaucratic positions. This ongoing battle highlights the critical need to ensure our elected President can staff his administration with those who align with his vision, free from undue judicial interference.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-4",
-        "headline": "President Trump Fortifies Nation's Capital with 500 Additional National Guard Troops After Attack",
-        "content": "In a decisive move to uphold law and order and protect our nation's capital, the Trump administration has announced a significant increase in federal law enforcement presence in Washington, D.C. This comes swiftly after the deplorable shooting of two National Guard members. Defense Secretary Pete Hegseth confirmed that an additional 500 brave National Guard troops will be deployed to the streets of D.C., demonstrating President Trump's unwavering commitment to securing our institutions and ensuring the safety of our protectors and citizens.",
+        "id": "story-1764271570594-1",
+        "headline": "President Trump Bolsters D.C. Security with Additional Troops After Attack",
+        "content": "Following the cowardly ambush that injured two National Guard troops in our nation's capital, President Trump swiftly announced the deployment of an additional 500 National Guard members to Washington, D.C. This decisive action reaffirms President Trump's unwavering commitment to law and order, ensuring the safety of our service members and restoring security to the city's streets.",
         "originalSource": "CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764269431111-5",
-        "headline": "Utah Death Row Inmate Dies of Natural Causes After Decades of Delayed Justice",
-        "content": "A Utah death row inmate, who managed to prolong his execution for an astonishing 37 years, has passed away from apparent natural causes. This individual was granted a stay of execution earlier this autumn after his legal team controversially argued he had developed dementia, sparking broader discussions about the purpose of justice and the competency required for such sentences. While his passing closes a chapter, it highlights the profound cost and extended delays often associated with our current legal system, impeding true justice for victims.",
+        "id": "story-1764271570594-2",
+        "headline": "Artificial Intelligence Threatens Livelihoods of Millions of American Workers",
+        "content": "A new study from MIT reveals that artificial intelligence is poised to dramatically reshape the American labor market, with current AI capabilities able to perform tasks equivalent to 12% of the nation's workforce. This significant development highlights the urgent need for policies that protect American jobs and ensure our citizens are not left behind by rapid technological advancements, safeguarding our economic future.",
         "originalSource": "CBS News",
-        "publishedTime": "17 hours ago"
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764271570594-3",
+        "headline": "Federal Judges Uphold North Carolina's Right to Fair Representation",
+        "content": "In a victory for constitutional governance and fair representation, federal judges have approved North Carolina's newly redrawn congressional map. This judicial decision rightfully allows the state to proceed with a map explicitly designed by Republicans to ensure an additional U.S. House seat for the party, reflecting the will of the people and strengthening conservative voices in Congress.",
+        "originalSource": "CBS News",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1764271570594-4",
+        "headline": "America First: President Trump Excludes South Africa from Next Year's G20 Meeting",
+        "content": "In a bold move signaling America First foreign policy, President Trump declared that South Africa will be barred from participating in next year's prestigious G20 summit. This significant decision underscores President Trump's strong leadership on the international stage, demonstrating his commitment to protecting American interests and holding nations accountable to global standards.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764271570594-5",
+        "headline": "Campbell's Dismisses Executive Amidst 'Poor People' Comment Controversy",
+        "content": "Campbell's soup company has dismissed a high-level executive following allegations of insensitive comments concerning \"poor people.\" The company's swift action illustrates the pervasive pressure on corporations to conform to specific social narratives, raising questions about free speech within corporate environments and the rapid judgments made in today's climate.",
+        "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764269431111-0",
-        "headline": "CIA Stunned to Discover Own Employee Capable of 'Covert' Action Outside Office Building",
-        "content": "In a shocking turn of events that no one could have possibly predicted, the CIA has confirmed that a 29-year-old Afghan national, Rahmanullah Lakanwal, who previously 'worked with' the agency, managed to conduct a 'covert' operation by ambushing two National Guard troops in D.C. Officials were reportedly flummoxed by the discovery that someone they had trained might, you know, actually *do* things, especially after driving across the entire country with seemingly no bureaucratic checkpoints. The agency is now investigating how their former asset developed such independent initiative.",
-        "originalSource": "AP News / The Guardian",
+        "id": "story-1764271570594-0",
+        "headline": "CIA Shocked to Discover Alleged D.C. Shooter Was Just 'Enriching Cultural Exchange' Program Participant",
+        "content": "In a stunning revelation that has left zero people surprised, the CIA has confirmed that the individual suspected of shooting two National Guard members in Washington, D.C., was, in fact, one of their own 'valued assets' from the 2021 evacuation. Officials are now scrambling to re-evaluate their 'Vetting Process,' which apparently involves a complex algorithm that asks 'Are you human?' and then shrugs, before admitting them to the country.",
+        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764269431111-1",
-        "headline": "Georgia Prosecutor Realizes Too Late That 'Racketeering' Requires Actual Rackets, Closes Case Against President Trump",
-        "content": "A Georgia prosecutor has dramatically ended the much-anticipated 2020 election interference case against President Trump and his allies, citing 'prosecutorial misconduct.' Sources close to the investigation suggest the misconduct involved a shocking revelation that prosecutors, after years of complex legal maneuvering, inadvertently filed the entire case in Comic Sans and forgot to include a crucial comma, rendering all charges null and void. The prosecutor lamented, 'We just wanted to save democracy, but apparently, we needed to remember to dot our 'i's and cross our 't's first.'",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-2",
-        "headline": "Manhattan Briefly Forgets All Troubles as Giant Inflatable Cartoon Characters Force Feed Holiday Cheer",
-        "content": "The annual Macy's Thanksgiving Day Parade has once again descended upon Manhattan, successfully distracting millions from the existential dread of modern life with gargantuan balloons depicting beloved characters whose vacant stares belie the crushing weight of commercialism they represent. Crowds gathered in an almost ritualistic display of forced festivity, cheering for marching bands and elaborate floats, all designed to usher in a holiday season where the primary goal is to purchase more things than strictly necessary. Experts confirm the event's efficacy in momentarily suspending reality.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-3",
-        "headline": "Supreme Court Saves Nation From Imminent Copyright Apocalypse, Delays Firing of Lone Defender of Public Domain",
-        "content": "In a truly earth-shattering decision, the Supreme Court has bravely stepped in to prevent the immediate removal of the Register of Copyrights, the individual solely responsible for preventing the internet from dissolving into a chaotic free-for-all of unlicensed memes. The Trump administration's attempt to swiftly terminate this vital guardian was thwarted, allowing the current head to continue their heroic vigil against copyright infringement while a complex legal battle unfolds. Humanity can breathe a collective sigh of relief, knowing that for now, the delicate balance of creative ownership is safe.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-4",
-        "headline": "President Trump Deploys 500 More Troops to D.C. to Ensure No Park Benches Feel Unsafe",
-        "content": "Following the tragic shooting of two National Guard members, President Trump's administration has announced an immediate surge of 500 additional National Guard troops into Washington, D.C., effectively quadrupling the existing federal presence. Defense Secretary Pete Hegseth assured the public that these highly trained soldiers would meticulously patrol every street corner, ensuring that not a single pigeon dares to loiter suspiciously, nor any inanimate object feels the chilling dread of potential vulnerability. The deployment aims to make D.C. so safe, it becomes boring.",
+        "id": "story-1764271570594-1",
+        "headline": "President Trump Deploys 500 More National Guard Troops to D.C. to 'Help Them Find Good Parking Spots'",
+        "content": "Following a recent ambush that tragically wounded two National Guard troops, President Trump announced an emergency deployment of an additional 500 National Guard troops to the nation's capital. Experts believe the move will significantly boost federal law enforcement presence, ensuring that D.C. residents finally feel the comfort of being watched by an overwhelming number of uniformed personnel at all times, just in case they forget to parallel park correctly.",
         "originalSource": "CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764269431111-5",
-        "headline": "Death Row Inmate Successfully Cheats System By Simply Living Really Long, Dies Of Natural Causes Before Scheduled Execution",
-        "content": "In a move that has prison officials scratching their heads, a Utah death row inmate, who had spent a commendable 37 years perfecting the art of waiting, has tragically passed away from 'natural causes' just as the state was finally getting around to his scheduled execution. The inmate, who had recently been granted a stay due to his cunning development of dementia, reportedly found a loophole in the justice system by simply outliving it. Taxpayers are now left to ponder whether the decades of legal battles and housing costs constituted an ironically effective life sentence.",
+        "id": "story-1764271570594-2",
+        "headline": "MIT Study Confirms 12% of Americans Now Free to Pursue Lifelong Dream of Watching Paint Dry",
+        "content": "A groundbreaking MIT study has revealed that artificial intelligence can now perform the work of a staggering 12% of the American workforce, effectively liberating millions from the crushing burden of productivity. Economists predict this swift reshaping of the labor market will lead to a glorious new era where a significant portion of the population can finally dedicate themselves to binge-watching reality TV, mastering TikTok dances, or simply staring blankly into the middle distance.",
         "originalSource": "CBS News",
-        "publishedTime": "17 hours ago"
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764271570594-3",
+        "headline": "North Carolina Judges Applaud GOP's 'Architectural Genius' in Designing New Congressional Map That Looks Suspiciously Like a Voting Booth Shaped Like an Elephant",
+        "content": "Federal judges have given their enthusiastic stamp of approval to North Carolina's latest congressional map, a masterpiece of 'creative cartography' explicitly crafted by Republicans to secure yet another U.S. House seat. Sources close to the judicial chambers reported audible gasps of admiration for the map's intricate lines, which somehow manage to perfectly connect every single Republican voter while strategically avoiding the homes of anyone who might dare to vote differently.",
+        "originalSource": "CBS News",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1764271570594-4",
+        "headline": "President Trump Bars South Africa from G20 Summit After Learning They Don't Have a Theme Park Named 'Trump World'",
+        "content": "In a bold move that has undoubtedly sent shockwaves through the international community, President Trump declared he is officially barring South Africa from participating in next year's G20 summit. While official reasons cited were vague 'international issues,' insiders suggest the decision came after President Trump discovered a shocking lack of any 'Trump-branded' luxury hotels, golf courses, or theme parks within South African borders, leading him to question their commitment to 'global prestige.'",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764271570594-5",
+        "headline": "Campbell's Fires Executive for Uncovering Shocking Truth: 'Poor People' Actually Exist and Buy Soup",
+        "content": "Soup giant Campbell's swiftly dismissed a high-level executive this week after allegations surfaced of them making 'insensitive comments' about 'poor people.' The company, in a PR move so swift it caused whiplash, confirmed the individual's termination, emphasizing their commitment to diversity, inclusion, and the shocking realization that a significant portion of their consumer base might not be yacht owners. The executive reportedly expressed disbelief that 'those people' actually constitute a market segment.",
+        "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764269431111-0",
-        "headline": "The Guy Who Shot Soldiers May Have Worked for the CIA.",
-        "content": "A man named Rahmanullah Lakanwal, who is 29, shot and hurt two National Guard soldiers in Washington, D.C. The police think he drove all the way across America just to do this. Now, they found out he used to work with a secret government group called the CIA when he was in Afghanistan. This makes the whole case more complicated.",
-        "originalSource": "AP News / The Guardian",
+        "id": "story-1764271570594-0",
+        "headline": "A Guy Who Shot Soldiers in D.C. Used to Work with the CIA, Which is Super Weird",
+        "content": "Someone shot two National Guard people in Washington D.C. The person who did it was from Afghanistan and used to work with the CIA, which is like a secret spy group. He came to America when everyone was leaving Afghanistan a few years ago. Now, people are asking how someone like him could get into the U.S. if he was involved in secret stuff.",
+        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764269431111-1",
-        "headline": "Georgia Stops Its Case Against President Trump About the 2020 Election.",
-        "content": "A lawyer in Georgia has officially stopped a big case against President Trump and the people who worked with him. This case was about claims that they tried to mess with the 2020 election results in that state. The case had a lot of problems and was finally dropped because some said the lawyers for the state did something wrong.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-2",
-        "headline": "The Huge Macy's Thanksgiving Day Parade Starts in New York City.",
-        "content": "The big Macy's Thanksgiving Day Parade is happening right now in New York City! This parade means the holiday season has officially begun. Lots and lots of people are watching the amazing show with huge balloon characters, fancy parade cars, music bands from all over America, and fun performances.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-3",
-        "headline": "The Highest Court Says President Trump Cannot Immediately Fire a Top Official.",
-        "content": "The Supreme Court, which is the most important court, has said that President Trump's team cannot immediately fire the person who runs the U.S. Copyright Office. This is a big job about who owns ideas for books, songs, and movies. So, the person stays in charge for now, while they figure out who has the power to hire and fire them.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-4",
-        "headline": "President Trump's Team Is Sending More Soldiers to Washington D.C. After a Shooting.",
-        "content": "President Trump's team said that more police and soldiers will be in Washington, D.C. This is happening after two National Guard soldiers were shot. They plan to send 500 more National Guard soldiers to help keep the city safe. The person in charge of the military, Pete Hegseth, said this just hours after the attack.",
+        "id": "story-1764271570594-1",
+        "headline": "President Trump is Sending More Soldiers to D.C. After the Shooting Happened",
+        "content": "After two National Guard soldiers got hurt in a shooting in Washington D.C., President Trump decided to send 500 more National Guard troops there. This is to make sure there are more police and protection in the city.",
         "originalSource": "CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764269431111-5",
-        "headline": "An Old Man on Death Row Who Was Very Sick Has Died in Utah.",
-        "content": "A man in Utah who was supposed to be put to death has died naturally. He had been waiting for 37 years. A little while ago, his lawyers said he had a sickness called dementia, which made him forget things. Because he was so sick, they stopped his punishment, and people were asking if it's fair to punish someone who doesn't even know what's happening anymore.",
+        "id": "story-1764271570594-2",
+        "headline": "Smart Computers Could Do 12% of Jobs in America, Says a Smart School",
+        "content": "A study from a really smart school called MIT says that computers with \"artificial intelligence\" (AI) can already do the work of about 12 out of every 100 people in America. This means that computers are changing how people work very quickly in many different types of jobs.",
         "originalSource": "CBS News",
-        "publishedTime": "17 hours ago"
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764271570594-3",
+        "headline": "Judges Say North Carolina Can Use New Map That Helps One Political Party",
+        "content": "Some important judges said it's okay for North Carolina to use a new map for its voting districts. This new map was made by Republicans to help their party get one more seat in the U.S. House of Representatives. This changes how much power each political party has in the state.",
+        "originalSource": "CBS News",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1764271570594-4",
+        "headline": "President Trump Says South Africa Cannot Come to a Big Important Meeting Next Year",
+        "content": "President Trump said that South Africa will not be allowed to join a very important meeting next year called the G20 summit. This is a big deal because it's about how America works with other countries around the world.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764271570594-5",
+        "headline": "Campbell's Soup Company Fired a Big Boss for Saying Mean Things About Poor People",
+        "content": "The company that makes Campbell's soup fired one of its really important bosses. This happened because people said the boss made not-nice comments about \"poor people.\" The company looked into it quickly and then let the person go.",
+        "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764269431111-0",
-        "headline": "A Cross-Country Shadow",
-        "content": "Rahmanullah Lakanwal, a 29-year-old Afghan, had driven a silent path across the vast expanse of America. His destination: Washington D.C., where he ambushed and wounded two unsuspecting National Guard troops. The city recoiled, grappling with the sudden violence. But the investigation unearthed a chilling past: Lakanwal had previously walked shadows with the CIA in Afghanistan. This revelation added a thick, critical layer to the unfolding mystery. Was he a ghost from a forgotten mission, or a pawn in a larger, unseen game? The capital held its breath, as the line between ally and adversary blurred under the unforgiving glare of the nation's spotlight.",
-        "originalSource": "AP News / The Guardian",
+        "id": "story-1764271570594-0",
+        "headline": "The Afghan's Secret Past Unveiled",
+        "content": "The D.C. air still hummed with the echoes of gunshots, two National Guard members wounded. But the real shock came with the suspect's identity: Rahmanullah Lakanwal, an Afghan national, revealed to be a former CIA-affiliated worker. He arrived in 2021 amidst the chaotic evacuation, a supposed ally now an assailant. Whispers followed the confirmation from the agency itself, casting a long shadow over the meticulous vetting processes. Had a ghost from a past alliance resurfaced to haunt the very streets he was meant to protect? The questions hung heavy, unresolved, like the mist over the Potomac.",
+        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764269431111-1",
-        "headline": "The Unfinished Symphony of Justice",
-        "content": "In Georgia, the courtroom's echoes faded. A prosecutor, after a protracted legal dance, officially closed the high-profile racketeering case that sought to unravel the 2020 election results. President Trump and his allies, once caught in the intricate web of accusations, saw the threads dissolve. Filed in 2023, the case had been a tempest, encountering numerous setbacks. Ultimately, it was laid to rest, not by a verdict, but by the weight of allegations concerning prosecutorial misconduct. The pursuit of justice, in this instance, became an unfinished symphony, its final notes silenced by questions of process rather than proof.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-2",
-        "headline": "A Festival of Giants",
-        "content": "Manhattan awoke to a symphony of anticipation, as the annual Macy's Thanksgiving Day Parade unfurled its vibrant tapestry. Giant character balloons, titans of inflatable joy, soared against the crisp city sky. Elaborate floats, each a miniature world of wonder, glided along the avenues, carrying stars and festive scenes. Marching bands, their synchronized beats echoing from every corner of the nation, propelled the spectacle forward. Crowds, a joyful river of humanity, lined the streets, their collective gasp and cheer marking the official, exuberant start of the holiday season. The city, for a day, belonged to the giants and the dreamers.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-3",
-        "headline": "The Pen's Guardian",
-        "content": "The highest court of the land, the Supreme Court, rendered its judgment, a decision that paused the immediate designs of the President Trump administration. The target: the Register of Copyrights, the esteemed head of the U.S. Copyright Office. The administration sought to terminate this vital position, but the Court declined to grant immediate permission. This ruling effectively maintained the current leadership, leaving the pen's guardian in place amidst a swirling legal battle. The heart of the contention lay in the independence of the office and the nuanced authority concerning such critical appointments, ensuring the debate would continue.",
-        "originalSource": "AP News",
-        "publishedTime": "Hours ago"
-      },
-      {
-        "id": "story-1764269431111-4",
-        "headline": "Capital Under Watch",
-        "content": "A shadow fell over Washington D.C. after the alarming shooting of two National Guard members. In response, the President Trump administration moved swiftly, announcing a significant surge in federal law enforcement. Defense Secretary Pete Hegseth, just hours after the attack, detailed the plan: an additional 500 National Guard troops would be deployed onto the capital's historic streets. The city, already reeling from the unexpected violence, prepared for an increased presence of uniformed personnel. The decision underscored the administration's commitment to securing the nation's capital, transforming it, temporarily, into a fortress of vigilance against unseen threats.",
+        "id": "story-1764271570594-1",
+        "headline": "The Capitol's New Layers of Protection",
+        "content": "The city recoiled from the recent ambush, the sharp crack of gunfire still a phantom sound on Washington D.C.'s streets. Two National Guard troops lay wounded, a stark reminder of the capital's vulnerability. Swiftly, decisively, the Trump administration moved. An announcement from President Trump's office confirmed the deployment of an additional five hundred National Guard members. Their mission: to bolster federal law enforcement, to weave a tighter net of security around the beleaguered city. The new presence was a visible declaration, a promise that the capital would not falter, its streets now bristling with an enhanced, unwavering watch.",
         "originalSource": "CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764269431111-5",
-        "headline": "The Final Verdict of Time",
-        "content": "In a Utah prison, a death row inmate, who had lived under the shadow of execution for 37 agonizing years, finally found release. He died of apparent natural causes, sidestepping the lethal injection he had long awaited. Just months prior, a stay of execution had been granted; his lawyers argued that the cruel passage of time had stolen his mind, leaving him with dementia. This raised profound legal and ethical questions: can a person deemed no longer competent truly be executed? Time, it seemed, delivered its own, final verdict, sparing him the state's ultimate punishment, but not the long, slow decay of memory.",
+        "id": "story-1764271570594-2",
+        "headline": "The Algorithm's Quiet Revolution Begins",
+        "content": "The screens glowed, algorithms hummed, and the future arrived with unsettling speed. An MIT study unveiled a startling truth: artificial intelligence, once a distant concept, now seamlessly performs the tasks of a significant twelve percent of the American workforce. Across industries, from complex data analysis to routine cognitive work, the digital minds were already at play. No longer a looming threat, but a present reality, reshaping the very fabric of America's job market. The cubicles might still stand, but in many, a silent, tireless competitor now dictated the pace, a new era of labor forged in lines of code.",
         "originalSource": "CBS News",
-        "publishedTime": "17 hours ago"
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764271570594-3",
+        "headline": "The Shifting Boundaries of Power",
+        "content": "The lines on the map were redrawn, not by chance, but with deliberate intent. In North Carolina, federal judges cast their decisive vote, approving a new congressional map, a blueprint meticulously crafted by Republicans. Its purpose was clear, openly acknowledged: to carve out an additional U.S. House seat, tipping the delicate scales of political balance further in their favor. The approval sent ripples through the state, a strategic victory solidifying a partisan advantage. This wasn't merely geography; it was a carefully orchestrated play, embedding power into the very contours of the electoral landscape.",
+        "originalSource": "CBS News",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1764271570594-4",
+        "headline": "The Global Table's Unexpected Empty Chair",
+        "content": "The halls of international diplomacy often held quiet negotiations, but sometimes, a declaration echoed. This time, it was President Trump's voice, firm and unambiguous. South Africa, a regular attendee, would be barred from next year's prestigious G20 summit. The announcement sent ripples through global capitals, a significant foreign policy move by the United States. President Trump's administration continued to recalibrate its stance on various international issues, and this decision served as a potent signal. For South Africa, the door to the elite economic forum was momentarily closed, a stark reminder of shifting global power dynamics.",
+        "originalSource": "PBS News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764271570594-5",
+        "headline": "The Executive's Unwise Words and Their Cost",
+        "content": "The boardroom at Campbell's, usually a place of strategic quiet, erupted in scandal. A high-level executive, whose daily focus was on nourishment, found themselves at the center of a storm. Allegations surfaced: insensitive comments about \"poor people,\" uttered with a callous disregard for the very consumers their products aimed to reach. The company acted with swift, uncompromising resolve. An internal investigation confirmed the claims, and the executive was immediately dismissed. In the cutthroat world of corporate image, words carried weight, and these particular words proved too heavy, too damaging, costing a career.",
+        "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
       }
     ]
   }
