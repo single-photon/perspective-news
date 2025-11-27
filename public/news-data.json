@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764233676515,
+  "timestamp": 1764236496589,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764233605346-0",
-        "headline": "Violence near White House prompts President Trump's call for increased scrutiny of Afghan refugees.",
-        "content": "Two West Virginia National Guard members sustained critical injuries in a shooting incident near the White House, with a suspect, an Afghan national, now in custody. Following the attack, President Trump swiftly labeled the event an 'act of terror' and announced intentions to intensify the vetting processes for Afghan refugees and immigrants, raising concerns about potential discrimination and the scapegoating of an entire community.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764236418155-0",
+        "headline": "Tragedy Near White House Sparks Xenophobic Backlash and Increased Militarization",
+        "content": "Two West Virginia National Guard members were tragically shot near the White House, leading to the apprehension of a 29-year-old Afghan national. This isolated incident has regrettably been leveraged to fuel anti-immigrant sentiment, resulting in increased scrutiny of all immigrants and the deployment of an additional 500 Guard troops, raising concerns about the immediate securitization of public spaces.",
+        "originalSource": "AP News",
+        "publishedTime": "Several hours ago"
       },
       {
-        "id": "story-1764233605346-1",
-        "headline": "Legal Challenge Against President Trump in Georgia Ends Amidst Prosecutorial Misconduct Allegations.",
-        "content": "A significant racketeering case against President Trump and his allies, concerning alleged interference in the 2020 election, has been dismissed by a Georgia court. The termination was attributed to accusations of prosecutorial misconduct by the lead prosecutor, effectively ending a major legal battle without a full examination of the underlying allegations, which some view as a setback for accountability.",
+        "id": "story-1764236418155-1",
+        "headline": "Election Interference Case Against President Trump Ends Amidst Allegations of Misconduct, Raising Accountability Concerns",
+        "content": "The Georgia prosecutor's office has formally concluded its significant racketeering case against President Trump and his allies concerning their attempts to subvert the 2020 election results. This decision follows a period marred by various allegations of prosecutorial misconduct, which critics argue has unfortunately undermined the pursuit of justice and accountability for actions threatening democratic processes.",
         "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764233605346-2",
-        "headline": "President Trump's Administration Moves to Revoke Protected Status for Thousands of Haitian Nationals.",
-        "content": "The Trump administration has initiated steps to revoke Temporary Protected Status (TPS) for Haitian nationals living in the United States. This deeply concerning decision is set to impact thousands of individuals who have established lives and contributed to the U.S. economy, having sought refuge from the persistent unsafe conditions and instability in Haiti exacerbated by a devastating earthquake. Critics argue this move ignores humanitarian responsibilities and exacerbates the precarity faced by vulnerable communities.",
+        "id": "story-1764236418155-2",
+        "headline": "President Trump's Administration Implements Discriminatory Halt on Afghan Immigration Applications Following Isolated Incident",
+        "content": "In a move widely criticized as discriminatory, President Trump's administration has announced an immediate halt to new immigration applications from Afghans. This sweeping policy decision, enacted after a shooting incident involving an Afghan national suspect, also includes a comprehensive review of all Afghan nationals previously admitted, raising serious concerns about collective punishment and the due process rights of an entire community.",
         "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764236418155-3",
+        "headline": "Federal Judges Uphold North Carolina's Partisan Gerrymander, Undermining Fair Representation",
+        "content": "Federal judges have sanctioned North Carolina's use of a new congressional map, which critics contend was deliberately crafted by Republicans to secure an additional U.S. House seat for their party. This decision allows for a gerrymandered map to proceed, raising serious concerns about the erosion of fair electoral processes and the manipulation of voter representation for partisan gain in the upcoming election cycle.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764236418155-4",
+        "headline": "MIT Study Reveals AI's Rapid Displacement of Workers, Highlighting Urgent Need for Economic Justice Policies",
+        "content": "A significant new study from MIT indicates that artificial intelligence is increasingly capable of performing tasks equivalent to those done by 12% of the American workforce, signifying a rapid displacement of human labor across the U.S. economy. This research underscores the urgent need for robust social safety nets, comprehensive retraining programs, and policies that address the growing economic inequality exacerbated by unchecked technological advancements.",
+        "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764233605346-3",
-        "headline": "MIT Study Reveals AI's Capacity to Displace Significant Portions of the American Workforce, Raising Economic Concerns.",
-        "content": "New research from MIT indicates that Artificial Intelligence is rapidly reshaping the U.S. labor market, raising critical questions about future employment and economic equity. The study suggests AI is already capable of performing technical and cognitive tasks currently undertaken by 12% of the national workforce across diverse sectors. This profound economic shift underscores the urgent need for robust social safety nets, worker retraining programs, and policies to ensure technological advancements do not disproportionately harm working-class communities.",
+        "id": "story-1764236418155-5",
+        "headline": "Man Dies After Decades on Utah's Death Row, Highlighting Inhumanity of Protracted Legal System and Capital Punishment",
+        "content": "A Utah death row inmate, whose execution was halted due to his development of dementia, has died of apparent natural causes after spending 37 years awaiting his sentence. This tragic outcome brings into sharp focus the profound ethical questions surrounding the prolonged nature of the death penalty, the inhumane conditions of such long incarcerations, and the systemic failures that keep individuals on death row for decades, even as their health deteriorates.",
         "originalSource": "CBS News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764233605346-4",
-        "headline": "Federal Judges Greenlight North Carolina Congressional Map Designed to Secure Republican Electoral Advantage.",
-        "content": "Federal judges have sanctioned the implementation of a redrawn congressional map in North Carolina for upcoming elections, a decision that has sparked widespread concern among voting rights advocates. The new district boundaries are overtly crafted to engineer a significant electoral advantage for the Republican party, strongly indicating it will result in an additional U.S. House seat for the GOP. Critics argue this ruling condones partisan gerrymandering, undermining the democratic principle of fair representation and allowing politicians to choose their voters.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764233605346-5",
-        "headline": "President Trump's Administration Suspends Afghan Immigration Applications Following D.C. Shooting.",
-        "content": "In the wake of a shooting incident involving an Afghan national and two critically injured National Guard members in D.C., President Trump's administration has announced a temporary halt to processing immigration applications from Afghans. This sweeping measure, presented as part of a broader re-examination of Afghan refugees, has been widely condemned by human rights organizations as a discriminatory act of collective punishment, fueling xenophobia and unfairly targeting an entire community based on the actions of an individual.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "8 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764233605346-0",
-        "headline": "2 National Guard members shot in D.C., suspect in custody, officials say.",
-        "content": "Two members of the West Virginia National Guard were critically wounded in a shooting near the White House. The suspect, an Afghan national, is in custody. President Trump called the ambush an \"act of terror\" and vowed to scrutinize the vetting of Afghan refugees and immigrants.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764236418155-0",
+        "headline": "2 National Guard Members Shot Near White House; Suspect Identified as Afghan National",
+        "content": "Two members of the West Virginia National Guard were shot and wounded in an ambush near the White House in Washington, D.C. A suspect, identified as a 29-year-old Afghan national, was taken into custody. The incident has led to increased scrutiny of immigrants and a deployment of an additional 500 Guard troops to the area.",
+        "originalSource": "AP News",
+        "publishedTime": "Several hours ago"
       },
       {
-        "id": "story-1764233605346-1",
-        "headline": "Georgia prosecutor ends 2020 election interference case against Trump, allies.",
-        "content": "A Georgia court has dropped the racketeering case against former President Trump and his allies regarding the 2020 election. The case, which was filed in 2023, was terminated due to allegations of prosecutorial misconduct by the presiding prosecutor, bringing a major legal challenge to an end.",
+        "id": "story-1764236418155-1",
+        "headline": "Georgia prosecutor drops 2020 election interference case against Trump and allies",
+        "content": "The Georgia prosecutor's office has formally ended its racketeering case against Donald Trump and his allies regarding their efforts to overturn the 2020 election results. The decision follows a period where the high-profile case was burdened by various allegations of prosecutorial misconduct.",
         "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764233605346-2",
-        "headline": "Trump officials halt protected status for Haitians in US.",
-        "content": "The Trump administration has moved to end Temporary Protected Status (TPS) for Haitian nationals residing in the United States. This decision affects thousands of individuals who have been permitted to live and work in the U.S. due to unsafe conditions and instability in Haiti following a devastating earthquake.",
+        "id": "story-1764236418155-2",
+        "headline": "Trump administration pauses immigration applications from Afghans after National Guard shooting",
+        "content": "Following the shooting incident involving an Afghan national suspect, the Trump administration announced it is immediately halting new immigration applications from Afghans. The administration also confirmed a plan to conduct a comprehensive review of all Afghan nationals previously admitted into the country.",
         "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764236418155-3",
+        "headline": "Judges allow North Carolina to use Republican-drawn congressional map",
+        "content": "Federal judges have ruled that North Carolina can proceed with a newly drawn congressional map. The map was specifically designed by Republicans in an effort to secure an additional U.S. House seat for the party in the upcoming election cycle.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764236418155-4",
+        "headline": "AI can already do the work of 12% of America's workforce, MIT study says",
+        "content": "A new study released by MIT suggests that artificial intelligence is rapidly displacing human labor across the U.S. economy. According to the research, AI is currently capable of performing technical and cognitive tasks equivalent to those done by 12% of the total American workforce.",
+        "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764233605346-3",
-        "headline": "AI can already do the work of 12% of America's workforce, MIT study says.",
-        "content": "A new study from MIT indicates that Artificial Intelligence is rapidly transforming the US labor market. The research suggests AI is capable of performing the technical and cognitive tasks equivalent to 12% of the country's current workforce across various industries, signaling a major economic shift.",
+        "id": "story-1764236418155-5",
+        "headline": "Death row inmate with dementia dies of natural causes in Utah",
+        "content": "A death row inmate in Utah, who had his execution spared this fall after his legal team cited his development of dementia, has died. The man, who spent 37 years awaiting his sentence, passed away due to apparent natural causes.",
         "originalSource": "CBS News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764233605346-4",
-        "headline": "Judges allow North Carolina to use House map drawn in bid to give GOP another seat.",
-        "content": "Federal judges have approved the use of a redrawn congressional map in North Carolina for the upcoming elections. The new map is designed to create a significant electoral advantage for the Republican party, likely resulting in an additional U.S. House seat for the GOP.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764233605346-5",
-        "headline": "Trump admin. pauses immigration applications from Afghans after National Guard shooting.",
-        "content": "Following the shooting of two National Guard members in D.C. by an Afghan national, the Trump administration announced a temporary pause on processing immigration applications from Afghans. The move is part of the administration's broader promised re-examination of all Afghan refugees admitted into the country.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "8 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764233605346-0",
-        "headline": "President Trump Condemns Terrorist Attack on National Guard, Vows to Secure Our Borders.",
-        "content": "In a stark reminder of the threats facing our nation, two brave members of the West Virginia National Guard were critically wounded in a brazen act of terror near the White House. An Afghan national, now in custody, is implicated in this heinous ambush. President Trump unequivocally condemned the attack, stating it was an 'act of terror' and immediately vowed to scrutinize and fortify the vetting processes for all Afghan refugees and immigrants, prioritizing American safety and national security.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764236418155-0",
+        "headline": "Afghan National Attacks Guardsmen Near White House, Sparking Urgent Calls for Border Security",
+        "content": "Two dedicated members of the West Virginia National Guard were tragically shot in an ambush near the White House, with a 29-year-old Afghan national now in custody as the suspect. This alarming incident near our nation's capital rightly intensifies scrutiny on current immigration policies and underscores the critical need for robust national security measures. In response, an additional 500 brave Guard troops have been deployed, ensuring the protection of our institutions and citizens from such egregious acts.",
+        "originalSource": "AP News",
+        "publishedTime": "Several hours ago"
       },
       {
-        "id": "story-1764233605346-1",
-        "headline": "Baseless Georgia Election Case Against President Trump Collapses Due to Prosecutorial Misconduct.",
-        "content": "A politically motivated racketeering case against President Trump and his allies, concerning the 2020 election in Georgia, has been rightly terminated by a Georgia court. This significant legal challenge, filed in 2023, met its end due to grave allegations of prosecutorial misconduct by the presiding prosecutor, underscoring the importance of judicial integrity and upholding the rule of law against partisan weaponization of our justice system. This outcome represents a crucial victory for justice and liberty.",
+        "id": "story-1764236418155-1",
+        "headline": "Georgia Prosecutor Drops Politically Motivated Election Case Against President Trump and Allies",
+        "content": "In a significant victory for justice and liberty, the Georgia prosecutor's office has formally ended its politically charged racketeering case against President Trump and his allies. This decision comes after the high-profile case was plagued by credible allegations of prosecutorial misconduct, revealing the true nature of this targeted legal harassment. The abandonment of these baseless charges reaffirms the principle that our legal system must not be weaponized for partisan agendas, vindicating President Trump's efforts to ensure election integrity.",
         "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764233605346-2",
-        "headline": "President Trump's Administration Reaffirms Immigration Laws, Ends Temporary Protected Status for Haitians.",
-        "content": "Upholding the integrity of our nation's immigration laws, President Trump's administration has taken decisive action to conclude Temporary Protected Status (TPS) for Haitian nationals within the United States. This principled decision reinforces the temporary nature of such protections, ensuring that our immigration system serves its intended purpose without unintended extensions. The move affects individuals who were initially granted residence and work permits due to past instability in Haiti, emphasizing a return to order and the rule of law in immigration policy.",
+        "id": "story-1764236418155-2",
+        "headline": "President Trump's Administration Halts Afghan Immigration After Shooting, Prioritizing American Security",
+        "content": "Demonstrating decisive leadership in the face of escalating threats, President Trump's administration has announced an immediate halt to new immigration applications from Afghans following the recent shooting incident involving an Afghan national suspect. This crucial action prioritizes the safety and security of American citizens. Furthermore, the administration will conduct a comprehensive review of all Afghan nationals previously admitted into the country, ensuring that national security remains paramount and that our borders are secure from those who would do us harm.",
         "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764236418155-3",
+        "headline": "Federal Judges Affirm North Carolina's Right to Implement Republican-Drawn Congressional Map",
+        "content": "In a significant ruling upholding states' rights and the integrity of the electoral process, federal judges have allowed North Carolina to proceed with its newly drawn congressional map. This map, thoughtfully crafted by Republicans, aims to secure an additional U.S. House seat for the party in the upcoming election cycle, reflecting the will of the voters and ensuring fair representation. This decision rightly prevents judicial overreach into the legislative duties of elected representatives.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764236418155-4",
+        "headline": "MIT Study Reveals AI's Rapid Displacement of 12% of American Workforce, Prompting Economic Concerns",
+        "content": "A recent study from MIT issues a stark warning, indicating that artificial intelligence is rapidly displacing human labor across the U.S. economy. The research suggests AI is now capable of performing tasks equivalent to those done by 12% of the total American workforce, raising significant concerns about the future of traditional jobs and economic stability. This development underscores the urgent need for policies that support individual enterprise, protect American workers, and foster innovation while safeguarding our economic liberty in a changing technological landscape.",
+        "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764233605346-3",
-        "headline": "American Innovation Powers Ahead as AI Transforms Our Economy and Workforce.",
-        "content": "A groundbreaking study from MIT reveals the transformative power of Artificial Intelligence, signaling a pivotal shift in the American labor market. This research highlights AI's impressive capability to perform tasks equivalent to 12% of our nation's current workforce across diverse industries. This technological advancement underscores the dynamism of American innovation and the critical need for our workforce to embrace new skills, ensuring our economic strength and individual prosperity in a rapidly evolving world.",
+        "id": "story-1764236418155-5",
+        "headline": "Utah Death Row Inmate Dies of Natural Causes After Decades of Delayed Justice",
+        "content": "In a case that highlights the lengthy process of our justice system, a death row inmate in Utah, whose execution was previously halted due to his development of dementia, has died of apparent natural causes. After spending 37 years awaiting the ultimate consequence for his crimes, the individual's passing underscores the importance of a swift and certain justice system for victims and society, ensuring that the rule of law is upheld without undue delay.",
         "originalSource": "CBS News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764233605346-4",
-        "headline": "Federal Judges Uphold North Carolina's Right to Implement Fair Congressional Map.",
-        "content": "In a significant decision affirming states' rights and the integrity of electoral processes, federal judges have approved North Carolina's meticulously redrawn congressional map for upcoming elections. This new map, crafted to ensure strategic and fair representation, is projected to strengthen the Republican party's standing, likely securing an additional U.S. House seat for the GOP, thereby reflecting the will of the people and promoting balanced governance.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764233605346-5",
-        "headline": "President Trump Prioritizes National Security, Pauses Afghan Immigration After DC Attack.",
-        "content": "Following the recent egregious shooting of two National Guard members in Washington D.C. by an Afghan national, President Trump's administration has taken decisive action, instituting a temporary pause on processing immigration applications from Afghans. This crucial measure is an integral part of the administration's promised comprehensive re-examination of all Afghan refugees and immigrants admitted into the country, underscoring a steadfast commitment to prioritizing national security and the safety of American citizens.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "8 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764233605346-0",
-        "headline": "President Trump Declares One Rogue Individual an \"Act of Terror,\" Launches Sweeping Review of Every Single Afghan Person Ever.",
-        "content": "Following a shocking incident where two members of the West Virginia National Guard were critically wounded near the White House, President Trump immediately labeled the ambush an “act of terror” and vowed to personally scrutinize the vetting of all Afghan refugees and immigrants. Officials confirmed the suspect, an Afghan national, is in custody, leading to a swift, decisive, and entirely proportional response targeting an entire demographic based on one person's actions.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764236418155-0",
+        "headline": "National Guard Members Wounded in Shocking Ambush While Protecting Highly Secure Hot Dog Stand Near White House",
+        "content": "Two brave members of the West Virginia National Guard, valiantly guarding what intelligence sources confirm was a particularly valuable White House-adjacent hot dog stand, were tragically ambushed this week. Authorities quickly apprehended the suspect, a 29-year-old Afghan national, prompting immediate calls for increased scrutiny of anyone daring to approach the nation's capital with intent to purchase a chili dog. An additional 500 Guard troops have been deployed, reportedly to secure the condiment bar.",
+        "originalSource": "AP News",
+        "publishedTime": "Several hours ago"
       },
       {
-        "id": "story-1764233605346-1",
-        "headline": "Georgia Court Nobly Ends Racketeering Case Against President Trump After Prosecutor's Own Alleged Misconduct Conveniently Appears.",
-        "content": "A Georgia court has heroically dropped the 2020 election interference case against President Trump and his allies, bringing a major legal challenge to an end with the quiet dignity of a deflating balloon. The case, filed in 2023, was terminated due to perfectly timed allegations of prosecutorial misconduct by the presiding prosecutor, proving once again that some problems just solve themselves.",
+        "id": "story-1764236418155-1",
+        "headline": "Georgia Prosecutor's Office Abandons Election Case Against President Trump After Realizing They Forgot to Charge Their Own Phones",
+        "content": "In a stunning development, the Georgia prosecutor's office has officially dropped its high-profile racketeering case against President Trump and his esteemed allies concerning the 2020 election. Sources close to the investigation revealed the decision came after mounting allegations of prosecutorial misconduct, including, but not limited to, using the wrong color ink, failing to return library books, and a devastating discovery that the lead prosecutor had been conducting all official business exclusively via interpretive dance. Legal experts suggest the case simply buckled under the sheer weight of its own procedural blunders.",
         "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764233605346-2",
-        "headline": "Trump Administration Generously Invites Haitians to Return Home to 'Perfectly Safe' Earthquake-Ravaged Nation.",
-        "content": "In a truly compassionate move, the Trump administration has announced its decision to end Temporary Protected Status (TPS) for Haitian nationals residing in the United States. This will allow thousands of individuals, who have been 'temporarily' shielded from the 'unsafe conditions and instability' in Haiti since a devastating earthquake, to joyfully return to their miraculously now-stable homeland and rebuild with renewed vigor.",
+        "id": "story-1764236418155-2",
+        "headline": "President Trump's Administration Halts All Afghan Immigration Applications, Begins Retroactive Finger-Painting Class for Existing Citizens",
+        "content": "Following the recent incident involving an Afghan national near the White House, President Trump's administration swiftly announced an immediate halt to all new immigration applications from Afghans. In a move praised by those who appreciate efficiency over nuanced policy, the administration also confirmed plans for a 'comprehensive review' of all Afghan nationals currently residing in the country, reportedly to include a mandatory 'Are You Still Here?' pop quiz and a detailed analysis of their favorite brand of hummus.",
         "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764236418155-3",
+        "headline": "North Carolina Judges Approve Congressional Map Resembling Tangled Garden Hose, Guaranteeing One Extra Republican Seat",
+        "content": "Federal judges have given their enthusiastic stamp of approval for North Carolina to deploy its latest congressional map, a cartographic masterpiece reportedly resembling a particularly ambitious spaghetti noodle or perhaps a child's first attempt at drawing a unicorn. Crafted with meticulous care by Republicans, the map's designers openly admit its sole purpose is to 'accidentally' secure an additional U.S. House seat for the party, a goal which, according to experts, it achieves with the subtle elegance of a brick through a window.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764236418155-4",
+        "headline": "MIT Study Confirms AI Now Capable Of Replacing 12% Of American Workforce, Mostly People Who Pretend To Work",
+        "content": "A groundbreaking new study from MIT has revealed that artificial intelligence is already capable of performing the tasks of a staggering 12% of America's workforce. The research suggests that most of these jobs involve highly technical and cognitive tasks such as 'looking busy while actually online shopping,' 'nodding sagely during pointless meetings,' and 'crafting passive-aggressive emails.' Experts predict a bright future where humans can finally focus on their true calling: complaining about the robots taking their jobs.",
+        "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764233605346-3",
-        "headline": "MIT Study Confirms AI Already Capable of Replacing 12% of America's Workforce, Leaving Millions Free to Pursue Hobbies.",
-        "content": "A groundbreaking new study from MIT has confirmed what many already suspected: Artificial Intelligence is ready to relieve a whopping 12% of America's workforce from the burden of employment. The research suggests AI can effortlessly perform the technical and cognitive tasks of countless industries, signaling a major economic shift that will free up untold numbers of humans to finally focus on competitive napping or advanced birdwatching.",
+        "id": "story-1764236418155-5",
+        "headline": "Death Row Inmate With Dementia Ingeniously Escapes Execution By Simply Dying Of Natural Causes",
+        "content": "In a cunning move that has left legal scholars scratching their heads, a Utah death row inmate, whose execution was previously halted due to his development of dementia, has successfully evaded the state's justice system by inconveniently dying of natural causes. The man, who had spent a leisurely 37 years awaiting his final sentence, reportedly executed a flawless escape plan by simply 'expiring,' much to the chagrin of state officials who had meticulously prepared for his demise via more traditional, government-approved methods.",
         "originalSource": "CBS News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764233605346-4",
-        "headline": "Federal Judges Laud North Carolina's 'Artistic' New Congressional Map, Designed to Magically Deliver More GOP Seats.",
-        "content": "Federal judges have enthusiastically approved a meticulously redrawn congressional map in North Carolina for the upcoming elections, praising its innovative approach to democratic representation. The new map is a masterclass in electoral cartography, ingeniously crafted to create a significant, yet entirely coincidental, advantage for the Republican party, virtually guaranteeing an additional U.S. House seat for the GOP through sheer, unbiased geometry.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764233605346-5",
-        "headline": "President Trump Pauses All Afghan Immigration After Single Incident Proves Everyone's Background Check Was Apparently for Show.",
-        "content": "Following the tragic shooting of two National Guard members in D.C. by an Afghan national, the Trump administration has swiftly announced a temporary pause on processing all immigration applications from Afghans. The move, celebrated as a triumph of proactive policy, is part of the administration's broader promised re-examination of every single Afghan refugee ever admitted into the country, because clearly, one person's actions accurately reflect millions.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "8 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764233605346-0",
-        "headline": "Two Guard Soldiers Got Shot Near the White House",
-        "content": "Some soldiers from the National Guard got really hurt when they were shot close to the White House. The bad guy who did it is now caught. President Trump said it was a scary attack and wants to make sure everyone coming from Afghanistan is checked very carefully.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764236418155-0",
+        "headline": "Two Soldiers Were Shot Near President Trump's House",
+        "content": "Two soldiers who help guard our country got shot and hurt near the White House where President Trump lives. The police caught a 29-year-old man from a country called Afghanistan. Because of this, people are talking more about people who come from other countries, and 500 more soldiers were sent to keep everyone safe.",
+        "originalSource": "AP News",
+        "publishedTime": "Several hours ago"
       },
       {
-        "id": "story-1764233605346-1",
-        "headline": "The Big Election Case Against President Trump Has Stopped",
-        "content": "A big court case in Georgia about the 2020 election that was against President Trump and his friends has been stopped. The case was stopped because people said the lawyer in charge did some things wrong. So, this big legal problem is now over.",
+        "id": "story-1764236418155-1",
+        "headline": "The Court Case Against President Trump in Georgia Has Ended",
+        "content": "The people who take bad guys to court in Georgia have stopped their big case against President Trump and his friends. This case was about if they tried to change the results of the 2020 election. They decided to stop the case because some people said the lawyers working on it might have done things they shouldn't have.",
         "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764233605346-2",
-        "headline": "Many Haitian People Might Have to Leave the U.S.",
-        "content": "President Trump's team has decided to stop letting many people from Haiti live and work in the U.S. These people were allowed to stay because Haiti was very dangerous after a huge earthquake. This means thousands of people might not be able to stay anymore.",
+        "id": "story-1764236418155-2",
+        "headline": "President Trump Stopped People From Afghanistan From Coming Here",
+        "content": "After the shooting where a man from Afghanistan was caught, President Trump's government said that new people from Afghanistan can't ask to move to America right now. His government also said they will check on everyone from Afghanistan who has already moved here to make sure everything is okay.",
         "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764236418155-3",
+        "headline": "Judges Let North Carolina Use a New Voting Map",
+        "content": "Some important judges said that North Carolina can use a brand new map for how people vote to pick their leaders. The Republican party drew this new map because they want to win one more special job in the government in the next election.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764236418155-4",
+        "headline": "Smart Computers Can Do 12 Out of 100 Jobs in America",
+        "content": "A new study from a really smart school called MIT says that super smart computer programs, called AI, can already do a lot of jobs that people usually do. They found that AI can do as much work as 12 out of every 100 people who work in America.",
+        "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764233605346-3",
-        "headline": "Smart Computer Programs Can Do Lots of Jobs Now",
-        "content": "A new report from a smart school called MIT says that computer programs that are really smart, called AI, can already do the jobs of many, many people in America. It means that AI can do the work that about 12 out of every 100 workers do, and this is changing how people work.",
+        "id": "story-1764236418155-5",
+        "headline": "A Man Waiting to Die in Jail Passed Away Naturally",
+        "content": "A man in Utah who was supposed to be put to death in jail has died. He didn't get put to death because his lawyers said he had a brain sickness called dementia. He waited in jail for 37 years and then passed away naturally, meaning he got sick or old.",
         "originalSource": "CBS News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764233605346-4",
-        "headline": "North Carolina Can Use New Election Map",
-        "content": "Some important judges said it's okay for North Carolina to use a new map for how they vote. This new map was made to help the Republican party win more easily and get one more person to represent them in the government.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764233605346-5",
-        "headline": "President Trump Stops People from Afghanistan Coming In",
-        "content": "After two National Guard soldiers were shot by someone from Afghanistan, President Trump's team said they would stop letting people from Afghanistan apply to come to the U.S. for a little while. This is so they can check everyone from Afghanistan more carefully.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "8 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764233605346-0",
-        "headline": "An Unexpected Ambush Near the Capitol",
-        "content": "Near the White House, a sudden ambush shattered the morning's calm. Two brave West Virginia National Guard members fell, critically wounded by an Afghan national. Sirens wailed, and the suspect was swiftly apprehended. President Trump, his voice firm, declared the attack an act of terror. He vowed immediate scrutiny, a deep dive into the vetting of every Afghan refugee and immigrant. The incident, a stark reminder of unseen threats, cast a long shadow over the nation's capital, igniting a fervent promise for tightened security and justice.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764236418155-0",
+        "headline": "Capitol's Echoes",
+        "content": "The moon hung heavy over Washington, reflecting faintly on polished rifles. Two West Virginia Guardsmen, standing sentry near the White House, felt the sudden, searing pain of gunfire. An ambush. A 29-year-old Afghan national, quickly apprehended, became the center of a new storm. The quiet vigilance of the Capitol grounds shattered, replaced by the clang of renewed suspicion and the rumble of an additional five hundred Guard troops deploying. A city already on edge tightened its grip, the echoes of the shots reverberating far beyond the immediate scene, stirring old fears and new divisions.",
+        "originalSource": "AP News",
+        "publishedTime": "Several hours ago"
       },
       {
-        "id": "story-1764233605346-1",
-        "headline": "The Echoes of a Campaign's End",
-        "content": "In the heart of Georgia, a significant legal battle quietly concluded. The much-publicized racketeering case, targeting President Trump and his allies over the 2020 election, was officially terminated. Filed just last year, the proceedings crumbled under allegations of grave prosecutorial misconduct by the lead attorney. The court's decision brought a sudden, definitive end to what had been a prolonged and contentious challenge. A cloud lifted, perhaps, or merely shifted, leaving behind questions about justice, due process, and the intricate dance of political power within the legal system.",
+        "id": "story-1764236418155-1",
+        "headline": "Dust on the Docket",
+        "content": "The legal eagles in Georgia finally folded their wings. The high-profile racketeering case, aimed at President Trump and his allies over their 2020 election challenges, quietly dissolved. It had been a long, contentious battle, fraught with accusations, not least of which involved alleged prosecutorial misconduct. The grand narrative of justice, once loudly proclaimed, now ended with a whimper, leaving behind questions and a palpable sense of anticlimax. The courtroom drama, which had captivated a nation, concluded not with a verdict, but with a reluctant dismissal, a testament to the complexities of political justice.",
         "originalSource": "The Washington Post",
-        "publishedTime": "Yesterday"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764233605346-2",
-        "headline": "A Shifting Horizon for Haitian Dreams",
-        "content": "The administration, under President Trump, announced a profound shift for thousands. Temporary Protected Status, a lifeline for many Haitian nationals residing in the United States, was to be rescinded. Since the devastating earthquake, these individuals had found refuge, working and building lives amidst Haiti's ongoing instability. Now, that protection was deemed no longer necessary. The decision cast a long shadow, turning dreams into uncertainty, leaving countless families to grapple with a future suddenly altered, a stark reminder of the ever-changing landscape of immigration policy.",
+        "id": "story-1764236418155-2",
+        "headline": "The Closed Gates",
+        "content": "A single act of violence, a shooting near the White House involving an Afghan national, sent ripples through policy. Swiftly, President Trump’s administration moved. The gates to new immigration applications from Afghanistan were abruptly closed, a pause descended upon the hopeful. Furthermore, a comprehensive review of every Afghan national already granted entry became the next mandate. The incident, an isolated tragedy, transformed into a catalyst, reshaping an entire nation's approach to an already sensitive issue, casting a long shadow over thousands of lives and futures, immediate and uncertain.",
         "originalSource": "The Guardian",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764236418155-3",
+        "headline": "The Cartographer's Victory",
+        "content": "The gavels fell, echoing a decisive judgment. Federal judges in North Carolina gave their assent: the new congressional map, meticulously crafted by Republican strategists, was approved for use. Every line, every boundary, had been drawn with a singular, strategic purpose – to carve out an additional U.S. House seat, a critical gain in the shifting political landscape. It was a victory for the cartographers of power, a silent battle won on paper, poised to reshape the state's representation and influence the balance of power in the upcoming election cycle. The electoral future, now redrawn, began to solidify.",
+        "originalSource": "CBS News",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764236418155-4",
+        "headline": "Cogs and Code",
+        "content": "The screens glowed, algorithms hummed, and the gears of a new era turned. An MIT study, quietly released, unveiled a stark truth: artificial intelligence, with its cold, efficient logic, already performed the technical and cognitive tasks once solely the domain of humans. Its reach now extended to the equivalent of 12% of America's entire workforce. No longer a distant future, the silent takeover was here, a digital tide steadily rising, displacing desks and redefining careers. The landscape of labor shifted, subtly at first, but with an undeniable, inexorable force, leaving many to wonder about the future of human purpose.",
+        "originalSource": "CBS News",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764233605346-3",
-        "headline": "Tomorrow's Labor, Today's Algorithm",
-        "content": "A quiet revolution is underway, whispered an MIT study, echoing through the corridors of industry. Artificial Intelligence, no longer a futuristic fantasy, now commands the technical and cognitive capabilities of a staggering twelve percent of America's entire workforce. From intricate data analysis to complex task execution, machines are swiftly integrating, redefining human roles. This isn't just an advancement; it's a seismic economic shift, threatening to reshape careers, industries, and the very fabric of the labor market. The future, it seems, has arrived, powered by unseen algorithms.",
+        "id": "story-1764236418155-5",
+        "headline": "A Fading Sentence",
+        "content": "Thirty-seven years on death row, the cold stone walls a constant, unyielding presence. His execution had been spared just months prior, a compassionate reprieve granted due to the creeping shadow of dementia that had stolen his memories, blurring the lines of his past. The man, whose name had once been synonymous with a grim sentence, now lay still. In a quiet cell in Utah, life, which the state had once sought to take, instead simply receded. He died of natural causes, a final, unexpected twist in a life defined by waiting, his long sentence concluded not by man, but by time itself.",
         "originalSource": "CBS News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764233605346-4",
-        "headline": "A Political Advantage Drawn on a Map",
-        "content": "In North Carolina, the lines of power were redrawn, and now, affirmed. Federal judges greenlit a new congressional map for the upcoming elections, a cartographic strategy with clear intentions. Crafted to maximize electoral advantage, the design aims to secure an additional U.S. House seat for the Republican party. Critics decried the move as partisan gerrymandering, while supporters hailed it as a legitimate exercise of legislative power. The decision solidified a path, potentially altering the state's political landscape and impacting national representation for years to come.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764233605346-5",
-        "headline": "Consequences After a DC Attack",
-        "content": "The echoes of gunfire in Washington D.C. reverberated far beyond the nation's capital. Following the shooting of two National Guard members by an Afghan national, President Trump's administration swiftly announced a temporary halt. Processing of all immigration applications from Afghans was paused indefinitely. This decisive move, they stated, was integral to a broader, rigorous re-examination of every Afghan refugee admitted into the country. The incident, a stark reminder of vulnerabilities, prompted a powerful response, reshaping the immediate future for countless individuals seeking new beginnings.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "8 hours ago"
       }
     ]
   }
