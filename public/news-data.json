@@ -1,267 +1,267 @@
 {
-  "timestamp": 1764369448021,
+  "timestamp": 1764372733160,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764369367553-0",
-        "headline": "Deepening Questions Emerge as D.C. Shooting Suspect with CIA Ties Highlights Systemic Failures",
-        "content": "The tragic death of a National Guard member in Washington D.C. has brought into sharp focus the profound and often unaddressed consequences of America's long-standing geopolitical interventions. The suspect, reportedly having collaborated with the CIA in Afghanistan, now faces a serious charge, prompting an expanded FBI investigation. This incident demands a critical examination of how our nation supports its veterans and addresses the mental health and societal reintegration challenges faced by individuals with such complex backgrounds, rather than solely focusing on individual culpability.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764369367553-1",
-        "headline": "President Trump Proposes Discriminatory Immigration 'Pause,' Raising Alarm Over Human Rights",
-        "content": "President Trump has unveiled a deeply troubling plan to 'permanently pause' migration from what he offensively labels 'third world countries,' signaling a severe escalation in his administration's anti-immigrant stance. This proposal, rooted in xenophobia, threatens to dismantle fundamental human rights and contradicts the nation's historical role as a haven for those seeking refuge and opportunity. Furthermore, his intent to unilaterally cancel President Biden's executive orders underscores a disregard for democratic continuity and governance.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764369367553-2",
-        "headline": "Climate Crisis Intensifies as Major Winter Storm Threatens Post-Thanksgiving Travel Across US",
-        "content": "Millions of Americans are facing widespread disruption to their post-Thanksgiving travel plans as a powerful winter storm barrels across the country. This increasingly common occurrence of extreme weather events serves as a stark reminder of the escalating climate crisis, which disproportionately impacts vulnerable communities and strains aging infrastructure. National Weather Service warnings from Montana to New York underscore the urgent need for comprehensive climate action and robust investment in resilient infrastructure to protect all citizens from the consequences of a changing planet.",
+        "id": "story-1764372665032-0",
+        "headline": "Systemic Failures Emerge as CIA-Backed Unit Member Faces Charges in D.C. Shooting",
+        "content": "The involvement of Rahmanullah Lakanwal, an Afghan national now facing first-degree murder charges in a fatal D.C. National Guard shooting, with a CIA-backed 'Zero Unit' in Afghanistan raises critical questions about the long-term consequences of U.S. foreign policy. His entry into the U.S. in 2021 through Operation Allies Welcome and subsequent asylum grant in April highlight significant systemic security vetting concerns, pointing to broader issues within post-conflict resettlement programs rather than isolated oversights.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764369367553-3",
-        "headline": "Federal Ban on THC-Infused Products Threatens Budding Hemp Economy and Progressive Drug Reform",
-        "content": "A proposed federal ban on THC-infused beverages and snacks looms as a significant threat to the burgeoning hemp industry, causing widespread anxiety among stakeholders. Such a prohibition risks stifling economic growth, particularly for small businesses and diverse entrepreneurs, while also representing a regressive step away from sensible drug policy reform. This move could re-entrench the failed 'War on Drugs' mentality, undermining the potential for a regulated market to create jobs and generate revenue, and further entrenching systemic barriers to economic opportunity.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-1",
+        "headline": "President Trump Proposes Discriminatory Immigration Ban Targeting Vulnerable Nations",
+        "content": "President Trump declared on social media his intention to 'permanently pause migration' from what he offensively labeled 'poorer nations,' alongside a proposal to expel millions of legal immigrants by revoking their status. This alarming announcement, following a shooting involving an Afghan national, represents a clear move towards xenophobic policies, exploiting an isolated incident to justify broad discriminatory measures that would profoundly harm vulnerable communities and erode fundamental human rights.",
+        "originalSource": "AP News",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764372665032-2",
+        "headline": "President Trump Baselessly Challenges Legitimate Executive Orders, Threatening Governance",
+        "content": "President Trump unilaterally claimed via social media that he is cancelling 'all Executive Orders' and other documents signed by his predecessor, Joe Biden, alleging an illegal use of an autopen and Biden's lack of involvement. This assertion, which legal experts widely dismiss as having no legal basis, represents a dangerous attempt to undermine democratic processes and governmental stability, potentially creating chaos and disregarding the legitimate functions of the executive branch.",
+        "originalSource": "The Guardian",
         "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764369367553-4",
-        "headline": "Thanksgiving Football Spectacle Overshadows Lingering Questions of Athlete Welfare and Economic Disparity",
-        "content": "While the Dallas Cowboys secured a thrilling 31-28 victory over the Kansas City Chiefs in a high-profile Thanksgiving day NFL matchup, the dazzling spectacle of professional sports often diverts attention from critical systemic issues. As fans celebrated the athletic prowess of players like Dak Prescott and Patrick Mahomes, the ongoing conversations around athlete compensation, long-term health, and the vast economic disparities within the sports industrial complex remain paramount. This holiday tradition, while entertaining, should also prompt reflection on the labor and well-being of the athletes who make it possible.",
-        "originalSource": "Associated Press",
-        "publishedTime": "18 hours ago"
+        "id": "story-1764372665032-3",
+        "headline": "Global Aviation Faces Systemic Vulnerability as Software Glitch Disrupts Holiday Travel",
+        "content": "Thousands of Airbus A320 family jets worldwide are requiring an emergency software update after a critical issue, potentially linked to intense solar radiation, was found to corrupt vital flight control data. This mandatory fix, ordered by the EU Aviation Safety Agency, underscores systemic vulnerabilities in global aviation infrastructure, causing widespread flight delays and cancellations that disproportionately impact working families and holiday travelers during the post-Thanksgiving rush.",
+        "originalSource": "CBS News",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764369367553-5",
-        "headline": "Santa Fe Leads the Nation with Progressive Minimum Wage Policy Addressing Housing Inequity",
-        "content": "In a groundbreaking move, Santa Fe, New Mexico, has implemented a pioneering local ordinance directly linking its city minimum wage to local rental rates. This first-in-the-nation policy represents a vital step towards addressing the severe housing affordability crisis and combating systemic economic inequality. By ensuring that low-wage workers' earnings can genuinely keep pace with the rising cost of living, Santa Fe provides a powerful model for other municipalities seeking to enact meaningful economic justice reforms and challenge the predatory nature of unchecked rental markets.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-4",
+        "headline": "President Trump's Proposed Pardon for Convicted Leader Undermines Justice System",
+        "content": "President Trump announced on social media his intention to grant a 'Full and Complete Pardon' to former Honduran President Juan Orlando Hernandez. This proposed pardon for Hernandez, who was convicted in a U.S. court in 2024 on serious drug trafficking and weapons charges and sentenced to 45 years in prison, represents a grave blow to international justice and anti-corruption efforts, potentially empowering powerful individuals who engage in severe criminal activity.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764372665032-5",
+        "headline": "Extreme Weather Event Exposes Infrastructure Vulnerabilities, Disrupts Millions",
+        "content": "A significant winter storm is currently impacting over 60 million people across the Midwest and Mid-Atlantic, bringing heavy snow, blizzard conditions, and freezing rain. This severe weather event is causing major highway closures and widespread travel disruptions for Americans returning home from the Thanksgiving holiday, highlighting the urgent need for robust public infrastructure and comprehensive climate resilience strategies to protect communities from increasingly extreme weather patterns.",
+        "originalSource": "Fox News",
         "publishedTime": "20 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764369367553-0",
-        "headline": "National Guard member dies after D.C. shooting as suspect with CIA ties faces first-degree murder charge.",
-        "content": "A tragic shooting in Washington D.C. resulted in the death of a National Guard member. The suspect, who allegedly worked with the CIA in Afghanistan, now faces a first-degree murder charge. The incident, described as a 'targeted' attack, has raised security concerns and triggered an expanded FBI investigation into the gunman's motives and history.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764369367553-1",
-        "headline": "Trump says he will 'permanently pause' migration to the US from 'third world countries'.",
-        "content": "Former President Donald Trump announced a controversial plan to 'permanently pause' migration to the United States from what he termed 'third world countries.' This proposal, made amid a crackdown on immigration, signals a significant escalation in his hardline stance. He also stated intentions to cancel all executive orders signed by President Biden using an autopen.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764369367553-2",
-        "headline": "Major winter storm on track to impact post-Thanksgiving travel for millions across the US.",
-        "content": "Millions of Americans faced disruptive conditions as a major winter storm moved across the country, threatening post-Thanksgiving holiday travel. The National Weather Service issued storm warnings and advisories extending from Montana to New York, urging travelers to plan for significant delays, road hazards, and potential flight cancellations through the weekend.",
+        "id": "story-1764372665032-0",
+        "headline": "DC National Guard Shooting Suspect Worked with CIA-Backed 'Zero Unit' in Afghanistan",
+        "content": "Rahmanullah Lakanwal, the Afghan national charged with first-degree murder in the fatal D.C. National Guard shooting, was confirmed by the CIA to have worked with one of their 'Zero Units' in Afghanistan. He entered the U.S. in 2021 through Operation Allies Welcome and was reportedly granted asylum in April, raising security vetting concerns.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764369367553-3",
-        "headline": "What a federal ban on THC-infused drinks and snacks could mean for the hemp industry.",
-        "content": "The potential implementation of a federal ban on THC-infused beverages and snacks is causing widespread anxiety and uncertainty across the nation's burgeoning hemp industry. Stakeholders are debating the economic and regulatory fallout of such a prohibition, which could severely limit the market for popular consumable products derived from hemp under current law.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-1",
+        "headline": "Trump Says He Will 'Permanently Pause' Migration to the US from Poorer Countries",
+        "content": "President Donald Trump announced on social media his intention to 'permanently pause migration' from what he terms 'poorer nations' and seek to expel millions of legal immigrants by revoking their status. The announcement came following the shooting of two National Guard members by an Afghan national.",
+        "originalSource": "AP News",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764372665032-2",
+        "headline": "Trump Declares All Biden Executive Orders Signed by Autopen 'Terminated'",
+        "content": "Donald Trump claimed via social media that he is unilaterally cancelling 'all Executive Orders' and other documents signed by his predecessor, Joe Biden, using an autopen. He asserted the practice was illegal and that Biden was not involved, though legal experts have previously stated such claims have no legal basis.",
+        "originalSource": "The Guardian",
         "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764369367553-4",
-        "headline": "Prescott's Cowboys overcome Mahomes' fourth-down magic in 31-28 Thanksgiving win over Chiefs.",
-        "content": "The Dallas Cowboys secured a thrilling 31-28 victory over the Kansas City Chiefs in a high-profile Thanksgiving day NFL matchup. Quarterback Dak Prescott led the Cowboys' offense to overcome a fierce late-game rally attempt by Patrick Mahomes and the Chiefs, cementing a crucial win in front of a national viewing audience.",
-        "originalSource": "Associated Press",
-        "publishedTime": "18 hours ago"
+        "id": "story-1764372665032-3",
+        "headline": "Airbus A320 Software Issue May Cause Flight Delays During Busy Thanksgiving Weekend",
+        "content": "Thousands of Airbus A320 family jets worldwide are requiring an emergency software update after an issue, potentially caused by intense solar radiation, was found to corrupt flight control data. The mandatory fix, ordered by the EU Aviation Safety Agency, is expected to cause flight delays and cancellations during the post-Thanksgiving travel rush.",
+        "originalSource": "CBS News",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764369367553-5",
-        "headline": "Santa Fe tackles rental rates with first-in-US minimum wage approach.",
-        "content": "Santa Fe, New Mexico, has implemented a groundbreaking local ordinance that links its city minimum wage directly to local rental rates, a first-in-the-nation policy. The new measure is designed to address the severe housing affordability crisis by ensuring low-wage workers' pay scales can keep pace with the rising costs of residential rental properties in the area.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-4",
+        "headline": "Trump Says He Will Pardon Former Honduran President Juan Orlando Hernandez",
+        "content": "President Trump announced on social media that he will grant a 'Full and Complete Pardon' to former Honduran President Juan Orlando Hernandez. Hernandez was convicted in a U.S. court on drug trafficking and weapons charges in 2024 and sentenced to 45 years in prison.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764372665032-5",
+        "headline": "Major Winter Storm Threatens Millions in US with Snow and Travel Nightmare",
+        "content": "A significant winter storm is impacting over 60 million people across the Midwest and Mid-Atlantic regions, bringing heavy snow, blizzard conditions, and freezing rain. The severe weather is causing major highway closures and widespread travel disruptions for Americans returning home from the Thanksgiving holiday.",
+        "originalSource": "Fox News",
         "publishedTime": "20 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764369367553-0",
-        "headline": "National Guard Hero Lost in D.C. Tragedy, Questions Mount Over Suspect's Troubling Past and Government Ties.",
-        "content": "A brave National Guard member has tragically died following a shooting in Washington D.C., an incident that demands a full and transparent investigation. The suspect, reportedly having worked with the CIA in Afghanistan, now faces first-degree murder charges, raising serious security concerns. This targeted attack has rightly triggered an expanded FBI investigation into the gunman's motives and history, prompting many to question the oversight of individuals with such backgrounds.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764369367553-1",
-        "headline": "President Trump Vows to Secure Borders, Halt Migration from Unstable Nations, and Reverse Biden's Harmful Policies.",
-        "content": "President Trump has boldly announced his definitive plan to 'permanently pause' migration to the United States from what he accurately identifies as 'third world countries.' This principled stance, arriving amidst a necessary crackdown on our porous borders, represents a crucial escalation in his commitment to American sovereignty and national security. Furthermore, President Trump declared his intention to swiftly cancel all detrimental executive orders signed by President Biden, signaling a determined effort to restore American strength.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764369367553-2",
-        "headline": "Americans Brace for Significant Post-Thanksgiving Travel Disruptions as Winter Storm Grips Nation.",
-        "content": "Millions of hard-working Americans are facing disruptive conditions as a major winter storm moves across the country, threatening essential post-Thanksgiving holiday travel. The National Weather Service has issued comprehensive storm warnings and advisories from Montana to New York, appropriately urging travelers to plan for significant delays, hazardous road conditions, and potential flight cancellations through the weekend. Personal preparedness remains key during such widespread natural events.",
+        "id": "story-1764372665032-0",
+        "headline": "National Security Alert: Afghan National Tied to CIA Unit in Fatal DC Shooting Raises Alarming Vetting Concerns",
+        "content": "Rahmanullah Lakanwal, the Afghan national charged with first-degree murder in the tragic D.C. National Guard shooting, has been confirmed by the CIA to have worked with one of their 'Zero Units' in Afghanistan. His entry into the U.S. in 2021 through 'Operation Allies Welcome' and subsequent asylum grant in April expose profound vulnerabilities in our national security vetting processes, questioning the wisdom of policies that prioritize unchecked entry over the safety of American citizens.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764369367553-3",
-        "headline": "Federal Overreach Threatens American Hemp Industry as Potential THC Ban Looms.",
-        "content": "The burgeoning American hemp industry is facing widespread anxiety and uncertainty due to the potential implementation of a federal ban on THC-infused beverages and snacks. This looming prohibition, driven by Washington's regulatory zeal, could severely restrict the market for popular consumable products derived from hemp under current law. Stakeholders are rightly debating the significant economic and regulatory fallout of such government overreach, which risks stifling free enterprise and innovation.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-1",
+        "headline": "President Trump Vows to Secure Our Borders, Proposing Permanent Halt to Migration from Risky Nations",
+        "content": "President Trump announced on social media his steadfast intention to 'permanently pause migration' from what he rightly identifies as 'poorer nations' and to address the strain on our nation by revoking the status of millions of legal immigrants. This decisive declaration, following the tragic shooting of two National Guard members by an Afghan national, underscores a vital commitment to national sovereignty, protecting American communities, and ensuring our immigration policies serve the interests of American citizens first.",
+        "originalSource": "AP News",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764372665032-2",
+        "headline": "President Trump Moves to Restore Constitutional Integrity, Announcing Termination of Illegitimate Biden Autopen Executive Orders",
+        "content": "President Trump declared via social media that he is unilaterally cancelling 'all Executive Orders' and other documents signed by his predecessor, Joe Biden, using an autopen. President Trump asserted this practice was illegal and that Biden was not properly involved, highlighting a concerning disregard for legitimate executive authority. This bold move seeks to restore proper governance and accountability to the highest office, ensuring presidential actions are genuine and uphold the rule of law.",
+        "originalSource": "The Guardian",
         "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764369367553-4",
-        "headline": "Dallas Cowboys Deliver Thrilling Thanksgiving Victory, Showcasing American Grit and Athletic Prowess.",
-        "content": "The Dallas Cowboys secured a thrilling 31-28 victory over the Kansas City Chiefs in a high-profile Thanksgiving day NFL matchup, a testament to true American sportsmanship and competition. Quarterback Dak Prescott commendably led the Cowboys' offense to overcome a fierce late-game rally attempt by Patrick Mahomes and the Chiefs, cementing a crucial win in front of a national viewing audience that appreciates excellence and determination.",
-        "originalSource": "Associated Press",
-        "publishedTime": "18 hours ago"
+        "id": "story-1764372665032-3",
+        "headline": "Travel Nightmare Looms for American Families as Airbus Software Glitch Threatens Post-Thanksgiving Returns",
+        "content": "Thousands of Airbus A320 family jets worldwide are requiring an emergency software update after an issue, potentially exacerbated by intense solar radiation, was found to corrupt critical flight control data. This mandatory fix, ordered by the EU Aviation Safety Agency, is unfortunately expected to cause widespread flight delays and cancellations, disrupting the cherished post-Thanksgiving travel plans for countless American families trying to return home. Such widespread technical failures, compounded by foreign mandates, underscore the fragility of our modern travel infrastructure and the need for robust American solutions.",
+        "originalSource": "CBS News",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764369367553-5",
-        "headline": "Santa Fe Implements Risky Wage Controls, Threatening Economic Stability with Unprecedented Policy.",
-        "content": "Santa Fe, New Mexico, has implemented a truly groundbreaking, yet deeply concerning, local ordinance that directly links its city minimum wage to local rental rates, a first-in-the-nation policy experiment. While purportedly designed to address the housing affordability crisis, this new measure represents a significant governmental intrusion into the free market. Such top-down mandates risk distorting economic incentives, potentially leading to unintended consequences for both employers and the very workers it purports to help, rather than relying on the proven principles of liberty and enterprise.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-4",
+        "headline": "President Trump Exercises Executive Clemency, Announcing Pardon for Former Honduran President Juan Orlando Hernandez",
+        "content": "President Trump announced on social media that he will grant a 'Full and Complete Pardon' to former Honduran President Juan Orlando Hernandez. Hernandez was convicted in a U.S. court on drug trafficking and weapons charges in 2024 and sentenced to 45 years in prison. This decisive action by President Trump demonstrates the powerful constitutional authority of the presidency to issue pardons, an essential tool for addressing complex international relations and potentially rectifying perceived injustices.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764372665032-5",
+        "headline": "Brutal Winter Storm Disrupts Holiday Returns for Millions, Highlighting Need for Personal Preparedness",
+        "content": "A significant winter storm is impacting over 60 million people across the Midwest and Mid-Atlantic regions, bringing heavy snow, blizzard conditions, and freezing rain. This severe weather is causing major highway closures and widespread travel disruptions for hardworking Americans returning home from the Thanksgiving holiday. This natural event serves as a stark reminder of the importance of personal preparedness and community resilience in facing challenges that impact our daily lives and freedom of movement.",
+        "originalSource": "Fox News",
         "publishedTime": "20 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764369367553-0",
-        "headline": "D.C. Shooting Suspect's 'CIA Ties' Prompt Nation To Immediately Assume Everyone In Washington Is Secretly A Double Agent",
-        "content": "Following a tragic D.C. shooting, the revelation that the suspect allegedly had 'CIA ties' has sent the nation into a frenzy of paranoid speculation. Experts are now warning that simply having once exchanged pleasantries with someone who knew someone who briefly interned at a government agency could soon qualify you for a 'level-one deep state operative' background check. The FBI has reportedly expanded its investigation to include anyone who has ever owned a trench coat, subscribed to a burner phone service, or frequently ordered 'just a black coffee' at a suspicious diner.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764369367553-1",
-        "headline": "President Trump Proposes 'Permanent Pause' On Immigration From Countries Not Yet Featuring Robot Baristas Or Seamless Delivery",
-        "content": "President Trump announced a groundbreaking policy to 'permanently pause' migration to the United States from what he broadly defined as 'third world countries,' presumably meaning anywhere without access to high-speed internet or artisanal avocado toast. The proposal, which promises to use an 'autopen' to cancel all of President Biden's executive orders, has raised questions about whether the autopen will also be tasked with deciding which nations qualify as 'third world,' or if that duty will fall to a dartboard and a map from 1982. Critics fear the policy could accidentally bar entry to anyone who hasn't yet discovered the joy of self-checkout lanes.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764369367553-2",
-        "headline": "America's Post-Thanksgiving Travel Ritual Of Misery Confirmed As Winter Storm Enthusiastically Joins The Chaos",
-        "content": "Millions of Americans, still groggy from tryptophan and family arguments, are once again bracing for the annual post-Thanksgiving gauntlet of travel, this year made extra special by a 'major' winter storm. The National Weather Service, clearly enjoying its role as the harbinger of doom, issued warnings from Montana to New York, essentially advising everyone to 'just stay home, you idiots, we told you this would happen.' Travelers are urged to prepare for significant delays, road hazards, and the existential dread that comes from being stuck next to a crying baby on a delayed flight, because apparently, humanity just loves doing this every single year.",
+        "id": "story-1764372665032-0",
+        "headline": "CIA's 'Zero Unit' Graduate Proves So Effective He Even Operates Domestically Now",
+        "content": "The CIA is reportedly 'thrilled' with the advanced training of Rahmanullah Lakanwal, an Afghan national whose combat experience with their elite 'Zero Unit' was so profound, he managed to conduct a high-profile operation right in D.C. after being welcomed into the U.S. through Operation Allies Welcome. Critics, however, are now wondering if the 'Welcome' part perhaps included a free map of National Guard barracks. Officials maintain their vetting process is 'impeccable,' ensuring only the most highly trained individuals, regardless of their past allegiances, are welcomed with open arms and, apparently, very little follow-up.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764369367553-3",
-        "headline": "Nation's Hemp Industry Expresses Utter Shock After Discovering Government Might Not Love Them Infusing Everything With THC",
-        "content": "The nation's burgeoning hemp industry is reportedly reeling in collective astonishment as the federal government *might* consider banning THC-infused beverages and snacks. 'Who could have foreseen this?' stammered one anonymous industry insider, reportedly sipping a 'calming' sparkling water. 'We just assumed Uncle Sam was cool with us selling legally ambiguous, mind-altering consumables everywhere, no questions asked!' Stakeholders are now frantically debating the economic fallout, which could mean a return to selling plain old CBD, a product that only makes you feel slightly less anxious about the looming ban.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-1",
+        "headline": "President Trump Unveils Bold Plan To Make America Richer By Simply Excluding All The Poor People",
+        "content": "President Trump, in a move widely praised by economists who apparently don't understand economics, declared on social media his ingenious plan to 'permanently pause migration' from 'poorer nations.' Experts say the groundbreaking strategy of simply not letting poor people in will instantly boost America's average wealth, possibly even by Friday. The announcement, coming on the heels of a D.C. incident, also includes a promise to find 'millions' of perfectly legal immigrants and kindly ask them to leave, ensuring the nation's average IQ will remain unchanged, but its collective credit score might finally reach its peak.",
+        "originalSource": "AP News",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764372665032-2",
+        "headline": "President Trump Declares All Presidential Documents Signed by Robot 'Null and Void,' Sparking Existential Crisis for Automated Office Equipment",
+        "content": "In a groundbreaking legal maneuver announced exclusively on social media, President Trump has unilaterally 'terminated' every single Executive Order and official document signed by his predecessor using an autopen, citing the 'illegal' practice of... well, not signing it yourself. Legal experts, currently scrambling to explain that a president tweeting something doesn't actually nullify federal law, say the claims have 'no legal basis.' However, office supply stores are reportedly bracing for a run on real pens, as politicians fear their stationery might be deemed accomplices in this presidential penmanship scandal.",
+        "originalSource": "The Guardian",
         "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764369367553-4",
-        "headline": "Thanksgiving Football Miraculously Provides An Actual Outcome As Cowboys Edges Chiefs, Fulfilling Nation's Annual Sports Requirement",
-        "content": "In a stunning display of professional athleticism that momentarily distracted millions from their food comas, the Dallas Cowboys managed to defeat the Kansas City Chiefs 31-28 on Thanksgiving. Quarterback Dak Prescott, widely revered as 'a guy who plays football,' heroically led his team to overcome the alleged 'fourth-down magic' of Patrick Mahomes, who, despite his wizardry, apparently forgot to cast a 'win the game' spell. The victory, celebrated by exactly half the country, ensures that families now have fresh, exciting material to argue about until next year's equally crucial, nationally televised holiday spectacle.",
-        "originalSource": "Associated Press",
-        "publishedTime": "18 hours ago"
+        "id": "story-1764372665032-3",
+        "headline": "Sun's Vengeance Against Holiday Travelers Forces Global Airbus Grounding, Proving Sol Invictus Is Tired Of Your Vacation Plans",
+        "content": "In a stunning celestial betrayal, the sun itself has reportedly conspired with cosmic rays to sabotage thousands of Airbus A320 jets, corrupting their flight control data just in time for the post-Thanksgiving travel nightmare. The EU Aviation Safety Agency has mandated an emergency software update, ensuring that millions of exhausted holiday travelers will now get to spend even more quality time with airport carpet, all thanks to a stellar tantrum. Airlines are recommending passengers simply embrace the idea of living at the airport, as it's becoming increasingly clear the universe doesn't want anyone to go home.",
+        "originalSource": "CBS News",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764369367553-5",
-        "headline": "Santa Fe Introduces Revolutionary Minimum Wage Plan, Effectively Turning All Rental Agreements Into A Surreal Game Of 'Follow The Leader'",
-        "content": "Santa Fe, New Mexico, has bravely stepped into uncharted economic territory with a groundbreaking new ordinance: tying its city minimum wage directly to local rental rates. The ambitious plan aims to ensure low-wage workers can keep pace with housing costs, though critics fear it may inadvertently spark a thrilling, never-ending race between rising wages and perpetually increasing rent. Landlords are reportedly already planning to upgrade all standard fixtures to 'artisanal reclaimed barn wood' just in case, while minimum wage earners are now keenly studying local rental listings not for housing, but for their next pay raise.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-4",
+        "headline": "President Trump, In Act of Unparalleled Generosity, Offers 'Get Out Of Jail Free' Card To Convicted Drug Trafficker Via Social Media",
+        "content": "In a move that legal scholars are calling 'remarkably on-brand,' President Trump announced via social media his intention to bestow a 'Full and Complete Pardon' upon former Honduran President Juan Orlando Hernandez. Hernandez, currently enjoying a U.S. prison sentence of 45 years for drug trafficking and weapons charges, is reportedly 'delighted' by the news, though his lawyers are still trying to figure out if a tweet constitutes a legally binding presidential pardon. Critics are questioning the wisdom of pardoning someone convicted of such serious crimes, but supporters argue it's just President Trump's way of demonstrating that rules are merely suggestions, especially when they inconvenience a friend.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764372665032-5",
+        "headline": "Winter Storm Unleashes Final Insult on Thanksgiving Travelers, Trapping Millions In A Twisted Holiday Finale",
+        "content": "Just when Americans thought they had escaped the last vestiges of holiday awkwardness, a gargantuan winter storm has descended upon the Midwest and Mid-Atlantic, effectively trapping 60 million people in a festive, frozen purgatory. The storm, featuring heavy snow, blizzard conditions, and freezing rain, is being hailed as the ultimate 'post-Thanksgiving cleanse,' forcing families to either extend their uncomfortable visits or face the existential dread of being snowed in at a truck stop. Experts warn that the widespread highway closures are merely a strategic move by Mother Nature to ensure everyone truly appreciates the warmth of their own home, even if they can't actually get to it.",
+        "originalSource": "Fox News",
         "publishedTime": "20 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764369367553-0",
-        "headline": "A Soldier Died in Washington D.C. After a Shooting",
-        "content": "A sad shooting happened in Washington D.C. A soldier from the National Guard died. The person who did it, who might have worked with the CIA before, is now charged with a very serious crime for killing someone on purpose. People are worried about safety, and the police are looking even harder into why this happened and what the shooter's past was like.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764369367553-1",
-        "headline": "President Trump Wants to Stop People Coming to the US",
-        "content": "President Trump said he wants to stop people from moving to the United States forever if they come from certain poorer countries. This is a very strong plan from him about who can come into the country. He also said he would undo all the rules that President Biden signed using a special machine.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764369367553-2",
-        "headline": "A Big Snowstorm Will Make Travel Hard After Thanksgiving",
-        "content": "Lots of people who traveled after Thanksgiving might have a tough time getting home because a huge winter storm is coming. The weather people said that snow and bad weather will hit many parts of the country, from Montana all the way to New York. They told everyone to be ready for long waits, dangerous roads, and maybe even canceled airplane flights all weekend.",
+        "id": "story-1764372665032-0",
+        "headline": "The Guy Who Shot a Soldier Used to Work with a Secret Group",
+        "content": "So, there was a really sad shooting where someone from the National Guard got hurt. The person who is blamed for it, Rahmanullah Lakanwal, used to work with a secret team in Afghanistan that the CIA helped. He came to America a few years ago and was even allowed to stay, which makes some people wonder how well they check everyone.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764369367553-3",
-        "headline": "A New Rule Might Stop Special Drinks and Snacks From Being Sold",
-        "content": "A new rule from the government that might stop drinks and snacks with a certain ingredient called THC from being sold is making people in the hemp business very worried. They are talking about how this rule could make them lose money and change a lot of things. It could stop many popular hemp products that people like to eat or drink from being sold.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-1",
+        "headline": "President Trump Wants to Stop People Coming from Some Countries",
+        "content": "President Trump said on the internet that he wants to stop people from moving to America forever, especially from countries he calls 'poorer.' He also wants to send away lots of people who are already here legally. He said this after a person from Afghanistan shot two people from the National Guard.",
+        "originalSource": "AP News",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764372665032-2",
+        "headline": "President Trump Says He's Canceling Biden's Old Rules",
+        "content": "President Trump said on the internet that he is getting rid of all the rules and papers that the old president, Joe Biden, signed using a special machine called an autopen. President Trump thinks it was against the rules and that Mr. Biden didn't even sign them himself. But smart people who know about laws say that President Trump can't actually just cancel them like that.",
+        "originalSource": "The Guardian",
         "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764369367553-4",
-        "headline": "The Cowboys Won a Really Exciting Game on Thanksgiving Day",
-        "content": "The Dallas Cowboys won a super exciting football game against the Kansas City Chiefs on Thanksgiving Day! The score was 31 to 28. Dak Prescott, the Cowboys' quarterback, helped his team win even after the Chiefs and their star player, Patrick Mahomes, tried very hard to catch up at the end. It was a big win that lots of people watched on TV.",
-        "originalSource": "Associated Press",
-        "publishedTime": "18 hours ago"
+        "id": "story-1764372665032-3",
+        "headline": "Airplanes Might Be Late Because of a Computer Problem",
+        "content": "Lots of airplanes all over the world, especially a type called Airbus A320s, need a quick computer fix. Something from the sun might have messed up their flying computers. Because of this, many flights might be late or even canceled, especially when people are trying to go home after Thanksgiving.",
+        "originalSource": "CBS News",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764369367553-5",
-        "headline": "A City Is Helping People Pay for Rent With a Smart New Rule",
-        "content": "The city of Santa Fe in New Mexico made a super new rule to help people pay for rent! They are the first city in America to do this. Their new rule makes sure that the lowest pay people get (minimum wage) goes up when rent prices go up. This helps people who don't earn a lot of money still be able to afford a place to live in Santa Fe.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-4",
+        "headline": "President Trump Will Forgive a President from Another Country",
+        "content": "President Trump said on the internet that he will totally forgive a president from Honduras named Juan Orlando Hernandez. This Mr. Hernandez was found guilty in America this year for selling drugs and having guns, and he was supposed to go to jail for a very, very long time.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764372665032-5",
+        "headline": "A Big Snow Storm is Making Travel Super Hard",
+        "content": "A really big snow storm is hitting many parts of America, where over 60 million people live. It's bringing tons of snow, super strong winds, and even ice. This bad weather is closing down big roads and making it very difficult for people to get home after their Thanksgiving trips.",
+        "originalSource": "Fox News",
         "publishedTime": "20 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764369367553-0",
-        "headline": "A Shadow in the Nation's Capital",
-        "content": "The D.C. air thickened with dread. A National Guard uniform lay still, a life extinguished. The accused, a man whispered to have once navigated Afghanistan's shadows for the CIA, now faced a first-degree murder charge. This wasn't random; it was 'targeted,' the authorities declared. The city, already on edge, watched as the FBI expanded its net, sifting through the layers of motive and history. What secrets did the killer hold, or what ghosts from a distant war had followed him home to haunt the very heart of the country? The investigation deepened, the truth elusive.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764369367553-1",
-        "headline": "The Gates of a Reshaped Nation",
-        "content": "The declaration echoed, sharp and clear: President Trump unveiled a policy to 'permanently pause' migration from 'third world countries.' His words, a significant escalation in a long-standing stance on immigration, promised a new era for the nation's borders. He also vowed to dismantle, with a stroke of his pen, every executive order signed by President Biden, even those affixed by autopen. The announcement ignited a firestorm of debate, painting a vivid picture of a future where access to the American dream was profoundly redefined, its gates, for some, now irrevocably shut.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764369367553-2",
-        "headline": "Whiteout on the Holiday Highways",
-        "content": "The warmth of Thanksgiving still lingered, but a chill wind carried a different promise. A colossal winter storm, a white leviathan, was swallowing the nation. From Montana's peaks to New York's cityscape, advisories screamed warnings. Millions of Americans, their holiday travels barely begun, found their paths choked with snow and ice. Roads vanished, flights grounded, and the festive glow of reunion was replaced by the stark reality of delays and cancellations. The weekend's journey became a perilous odyssey, a stark reminder of nature's formidable power over human plans.",
+        "id": "story-1764372665032-0",
+        "headline": "The Ghost of Operation Allies Welcome",
+        "content": "The echoes of gunfire still vibrated in the capital. Rahmanullah Lakanwal, the man accused of the D.C. National Guard shooting, was not just an Afghan national; he was a phantom from a past conflict. The CIA confirmed his ties to a 'Zero Unit' in Afghanistan, a name whispered in shadows. He arrived in 2021 through Operation Allies Welcome, a program designed for refuge, not recoil. Granted asylum months prior, his presence ignited fiery questions about vetting. The capital's streets, now stained by violence, became a grim stage for the unseen complexities of war returning home.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764369367553-3",
-        "headline": "The Green Cloud of Uncertainty Descends",
-        "content": "A shiver ran through the burgeoning hemp industry, a collective gasp of anxiety. Whispers of a federal ban on THC-infused beverages and snacks grew louder, threatening to eclipse the sector's vibrant growth. This wasn't just about drinks or gummies; it was about livelihoods, innovation, and a market carved out by evolving laws. Stakeholders debated the looming economic and regulatory fallout, knowing such a prohibition could severely amputate their most popular product lines. The green rush, once so promising, now faced a potential harvest of withered hopes and shattered enterprise.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-1",
+        "headline": "A Nation's Gates Tighten",
+        "content": "President Trump's words, amplified across social media, cast a long shadow. He declared an intent to 'permanently pause migration' from 'poorer nations,' a decree that promised to reshape countless lives. Beyond the pause, he sought to expel millions of legal immigrants by revoking their status, a vision of a drastically altered America. The announcement, chilling in its resolve, followed closely on the heels of the National Guard shooting by an Afghan national. A storm was brewing, not of weather, but of policy, threatening to redraw the very lines of belonging.",
+        "originalSource": "AP News",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764372665032-2",
+        "headline": "The Phantom Ink",
+        "content": "On social media's digital stage, President Trump delivered a unilateral decree. All Executive Orders signed by his predecessor, Joe Biden, using an autopen were, in his estimation, 'Terminated.' He asserted the practice was illegal, a charade where Biden was not truly involved. This claim, however, was a ghost in the legal machine, lacking any tangible basis according to experts. Yet, his declaration aimed to dissolve the very fabric of past presidential actions, a symbolic gesture attempting to undo the last four years with the stroke of a digital pen.",
+        "originalSource": "The Guardian",
         "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764369367553-4",
-        "headline": "A Thanksgiving Gridiron Redemption",
-        "content": "The stadium lights gleamed on Thanksgiving, a gladiatorial arena for two titans. Dallas, led by the steadfast Dak Prescott, had carved out a lead. But Kansas City, fueled by Patrick Mahomes's impossible magic, rallied with a furious, late-game surge that threatened to steal victory. The air crackled with tension as every pass, every tackle, felt like destiny. Yet, in the end, the Cowboys held firm, securing a nail-biting 31-28 triumph. It was a crucial win, etched into the holiday memories of millions, proving that even a wizard can be denied.",
-        "originalSource": "Associated Press",
-        "publishedTime": "18 hours ago"
+        "id": "story-1764372665032-3",
+        "headline": "The Sun's Unseen Fury",
+        "content": "The post-Thanksgiving skies, usually bustling, grew heavy with uncertainty. An invisible enemy, perhaps intense solar radiation, had corrupted flight control data in thousands of Airbus A320 jets globally. A mandatory emergency software update, ordered by the EU Aviation Safety Agency, grounded planes and dreams. Families, eager to return home, faced endless delays and cancellations. Terminals buzzed with frustrated whispers and the constant drone of airport announcements. The celestial ballet above had turned chaotic, a silent cosmic intervention disrupting the delicate choreography of holiday travel.",
+        "originalSource": "CBS News",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764369367553-5",
-        "headline": "The Rent and Wage Tango in Santa Fe",
-        "content": "In the ancient city of Santa Fe, a revolutionary idea blossomed. Facing an affordability crisis, the city council dared to forge a link between minimum wage and rental rates, a bold, nationwide first. No longer would low-wage workers watch helplessly as housing costs soared beyond their reach. This groundbreaking ordinance was a lifeline, an attempt to synchronize paychecks with the relentless rhythm of rising rents. It was a promise: that the vibrancy of Santa Fe wouldn't be reserved for the wealthy, but sustained by those who built its everyday magic.",
-        "originalSource": "Associated Press",
+        "id": "story-1764372665032-4",
+        "headline": "The President's Decree of Forgiveness",
+        "content": "President Trump's social media pronouncement sent ripples through the international community. A 'Full and Complete Pardon' would be granted to Juan Orlando Hernandez, the former Honduran President. Hernandez, a figure once synonymous with power, had been convicted just months prior in a U.S. court. His crimes were grave: drug trafficking and weapons charges, earning him a 45-year sentence. Now, a single declaration from President Trump aimed to erase that judgment, sparking intense debate about justice, sovereignty, and the reach of a president's clemency.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764372665032-5",
+        "headline": "Trapped by Winter's Embrace",
+        "content": "Over sixty million Americans found themselves battling a formidable foe: a ferocious winter storm. From the Midwest to the Mid-Atlantic, heavy snow fell, blizzards raged, and freezing rain coated everything in a treacherous glaze. Highways became impassable ribbons of ice, trapping holiday travelers in a nightmare of closures and endless delays. The joy of Thanksgiving receded, replaced by the grim reality of stranded cars and cancelled flights. Winter's relentless grip held the nation captive, transforming the journey home into an epic, unwanted odyssey of ice and white-out conditions.",
+        "originalSource": "Fox News",
         "publishedTime": "20 hours ago"
       }
     ]
