@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764394814622,
+  "timestamp": 1764399284336,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764394746240-0",
-        "headline": "Fatal Shooting in D.C. Highlights Urgent Need for Systemic Solutions to Community Violence",
-        "content": "While an individual faces charges for the tragic shooting that killed a National Guard member in Washington D.C., this incident should compel us to look beyond immediate arrests and consider the deep-rooted systemic issues driving violence in our communities. The proposal for increased joint police and Guard patrols, while a short-term response, fails to address the underlying societal inequities and lack of resources that often contribute to such tragedies. True safety demands investment in community-led solutions, mental health services, and addressing economic disparities, rather than relying solely on enhanced policing.",
-        "originalSource": "AP News",
-        "publishedTime": "Latest"
+        "id": "story-1764399209554-0",
+        "headline": "Young Soldier's Tragic Death Prompts Urgent Calls for Community Safety, Not Punitive Policies",
+        "content": "U.S. Army Specialist Sarah Beckstrom, a 20-year-old dedicated to serving her country, has tragically died from injuries sustained in a targeted shooting near the White House. This heartbreaking loss, announced by President Trump, underscores the urgent need for comprehensive community safety initiatives and addressing the root causes of violence, rather than resorting to divisive immigration debates or blanket national security measures that often target marginalized communities.",
+        "originalSource": "ABC News / Associated Press",
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764394746240-1",
-        "headline": "President Trump's Plan to Halt Migration from 'Poorer Countries' Draws Condemnation for Systemic Racism and Xenophobia",
-        "content": "President Trump's recent declaration to 'permanently pause' migration from what he offensively labeled 'third-world countries' is a deeply troubling move, reflecting a policy rooted in systemic racism and xenophobia. Attempting to link this proposed ban to a tragic D.C. shooting is a dangerous and unfounded scapegoating tactic, designed to stoke fear and prejudice. This rhetoric ignores the fundamental human right to seek asylum and a better life, while deflecting from the complex global and economic inequalities that often compel people to migrate. A truly just society would address the root causes of displacement and welcome those seeking refuge, not demonize them.",
-        "originalSource": "The Guardian",
+        "id": "story-1764399209554-1",
+        "headline": "President Trump's Discriminatory Migration Ban Targets Vulnerable Nations, Drawing Global Condemnation",
+        "content": "In a move widely condemned by international human rights organizations, President Trump has declared a permanent halt to migration from nations he offensively categorized as 'Third-World Countries.' This xenophobic policy, announced in the wake of the National Guard shooting, will immediately impact countless individuals seeking refuge and opportunity. The administration's plan to review current green-card applications, ostensibly for 'security,' has been sharply criticized by the UN as a clear violation of international law and a deeply discriminatory attack on human dignity, further entrenching systemic inequities in global migration.",
+        "originalSource": "AP News / Reuters",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764399209554-2",
+        "headline": "President Trump's Pardon for Convicted Drug Trafficker Undermines Justice and International Rule of Law",
+        "content": "In a stunning move that severely undermines international anti-corruption efforts and the rule of law, President Trump is reportedly planning to pardon Juan Orlando Hernández, the former Honduran president. Hernández was recently convicted and sentenced to 45 years in a U.S. prison for his leadership of a 'narco-state' that flooded the United States with cocaine. This potential pardon sends a dangerous message that powerful individuals can escape accountability for systemic corruption and drug trafficking, raising serious questions about the administration's commitment to justice and its priorities for global stability.",
+        "originalSource": "The Washington Post",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764394746240-2",
-        "headline": "Airbus A320 Recall Reveals Critical Need for Stronger Corporate Accountability and Regulatory Oversight in Aviation Safety",
-        "content": "The significant global disruption caused by Airbus's recall of its A320 fleet, following a concerning mid-air incident, underscores a critical failure in prioritizing passenger and worker safety over corporate expediency. This mass grounding, affecting millions of travelers worldwide, highlights the urgent need for more rigorous regulatory oversight and a commitment to genuine corporate accountability within the aviation industry. Rather than allowing incidents to become systemic before action is taken, robust preventative measures and independent oversight are essential to ensure that profit margins never compromise the fundamental right to safe travel.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764399209554-3",
+        "headline": "Financial Markets Reveal Systemic Vulnerability as Major Trading Halt Exposes Need for Stronger Regulation",
+        "content": "A major technical malfunction at the CME Group, a global financial giant, forced an alarming halt in trading across crucial markets including foreign exchange, commodities, and stock futures. This disruption, causing temporary global instability, starkly exposes the inherent fragility and systemic vulnerabilities within our largely unregulated financial systems. Such incidents underscore the urgent need for robust regulatory oversight and increased transparency to protect the global economy from catastrophic failures and ensure that working people are not left to bear the brunt of speculative market instabilities.",
+        "originalSource": "Reuters",
+        "publishedTime": "18 hours ago"
       },
       {
-        "id": "story-1764394746240-3",
-        "headline": "Deportation of College Student Despite Court Order Exposes Systemic Cruelty and Due Process Failures in Immigration Enforcement",
-        "content": "The alarming deportation of a U.S. college student, snatched by immigration authorities while attempting to visit his family for Thanksgiving and cruelly sent away despite a clear court order, is a stark indictment of our broken and inhumane immigration system. This egregious disregard for due process and human dignity exemplifies the systemic failures that tear families apart and deny individuals their fundamental rights. Such practices highlight the urgent need for comprehensive immigration reform that prioritizes compassion, legal protections, and an end to arbitrary enforcement that traumatizes individuals and communities.",
-        "originalSource": "AP News",
+        "id": "story-1764399209554-4",
+        "headline": "Extreme Winter Weather Disrupts Holiday Travel, Highlighting Urgent Need for Climate Action and Resilient Infrastructure",
+        "content": "A severe winter storm has unleashed widespread havoc on post-Thanksgiving travelers across the Midwest and Northeast, bringing heavy snow and dangerous conditions. This disruption to vital air and road travel around major transit hubs not only highlights the immediate challenges faced by working families during peak holiday periods but also serves as a stark reminder of the escalating impacts of climate change and the critical need for massive investment in resilient, equitable public infrastructure to protect communities from increasingly extreme weather events.",
+        "originalSource": "Good Morning America / ABC News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764399209554-5",
+        "headline": "Immigration Authorities Illegally Deport College Freshman, Flagrantly Disregarding Federal Court Order",
+        "content": "In a shocking disregard for legal protections, immigration authorities illegally detained and deported an American college freshman while he was attempting to fly home for Thanksgiving. This egregious act occurred despite a federal court order explicitly protecting the student from removal proceedings, exposing the systemic abuses and unchecked power within current enforcement tactics. This incident demands immediate accountability and a fundamental re-evaluation of immigration policies that routinely violate due process and tear families apart, often targeting vulnerable individuals seeking a better life.",
+        "originalSource": "The Guardian / AP News",
         "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764394746240-4",
-        "headline": "Extreme Winter Weather Event Highlights Urgent Need for Climate Action and Equitable Infrastructure Investment",
-        "content": "As a massive winter storm threatens millions across the U.S., bringing over a foot of snow and disrupting holiday travel, this event serves as a stark reminder of the escalating impacts of the climate crisis. Beyond immediate warnings, the impending travel nightmare and dangerous conditions underscore the critical need for systemic climate action and robust, equitable infrastructure investment. Our communities, especially the most vulnerable, require resilient systems and comprehensive support to withstand increasingly frequent and severe weather events, rather than facing repeated crises due to inadequate preparation and climate inaction.",
-        "originalSource": "Fox News",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764394746240-5",
-        "headline": "President Trump's Proposed Pardon for Convicted Honduran President Undermines Rule of Law and Global Anti-Corruption Efforts",
-        "content": "President Trump's intention to pardon Juan Orlando Hernandez, the former Honduran President serving a lengthy U.S. sentence for drug trafficking, represents a profound challenge to the principles of justice and the rule of law. This alarming announcement, part of a pattern of controversial pardons, signals a willingness to undermine accountability for powerful political figures involved in serious crimes, particularly those that fuel instability and suffering in other nations. Such actions send a dangerous message globally, obstructing international efforts to combat corruption and organized crime, and erode public trust in the integrity of our legal system.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764394746240-0",
-        "headline": "Suspect in shooting of National Guard members faces a first-degree murder charge",
-        "content": "The individual allegedly responsible for the shooting in Washington D.C., which resulted in the death of one National Guard member, has been formally charged with first-degree murder. The incident has led to increased focus on crime and security in the capital, with DC planning to use joint police and Guard patrols.",
-        "originalSource": "AP News",
-        "publishedTime": "Latest"
+        "id": "story-1764399209554-0",
+        "headline": "One of Two National Guard Members Wounded in Washington D.C. Shooting Dies",
+        "content": "U.S. Army Specialist Sarah Beckstrom, 20, has died from injuries sustained in a targeted shooting near the White House on Wednesday. The suspect, an Afghan national, is now facing a first-degree murder charge. The tragic loss, announced by President Trump, has intensified debates over immigration policy and national security protocols in the capital.",
+        "originalSource": "ABC News / Associated Press",
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764394746240-1",
-        "headline": "Trump says he will 'permanently pause' migration to the US from 'poorer countries'",
-        "content": "Donald Trump announced plans to 'permanently pause' migration into the U.S. from nations he described as 'third-world countries,' tying the proposed policy to the recent fatal shooting of a National Guard member in Washington D.C. The comments have sparked widespread debate.",
-        "originalSource": "The Guardian",
+        "id": "story-1764399209554-1",
+        "headline": "Trump Administration Announces Permanent Pause on Migration from 'Third-World Countries'",
+        "content": "Following the National Guard shooting, President Trump declared an immediate and permanent halt to migration from nations he categorized as 'Third-World Countries.' The administration also plans to review current green-card applications, a measure intended to enhance US security but one that has been criticized by organizations like the UN.",
+        "originalSource": "AP News / Reuters",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764399209554-2",
+        "headline": "President Trump Plans to Pardon Former Honduran President Convicted of Drug Trafficking",
+        "content": "President Trump is moving forward with a plan to pardon Juan Orlando Hernández, the former Honduran president. Hernández was recently convicted and sentenced to 45 years in a U.S. prison for his role in leading a 'narco-state' that facilitated cocaine trafficking into the United States. The move was announced during a call with U.S. troops.",
+        "originalSource": "The Washington Post",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764394746240-2",
-        "headline": "Airbus issues major A320 recall after mid-air incident grounds planes, disrupting global travel",
-        "content": "A global travel disruption is underway as Airbus has initiated a major recall of its A320 fleet. This action follows a recent mid-air incident and has resulted in the grounding of numerous planes, affecting millions of passengers and air travel logistics worldwide.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764399209554-3",
+        "headline": "Technical Malfunction Causes Trading Disruption at CME Group, Halting Futures and Currency Markets",
+        "content": "A significant technical malfunction at the CME Group, one of the world's largest exchange operators, forced a complete halt in trading for a range of financial products. Foreign exchange, commodities, and stock futures were all affected by the disruption, causing temporary instability and affecting markets globally.",
+        "originalSource": "Reuters",
+        "publishedTime": "18 hours ago"
       },
       {
-        "id": "story-1764394746240-3",
-        "headline": "College freshman is deported flying home for Thanksgiving surprise, despite court order",
-        "content": "A U.S. college student was detained by immigration authorities and deported while traveling home for a Thanksgiving visit with his family. The deportation occurred despite a standing court order, raising concerns and backlash over the enforcement practices of immigration officials.",
-        "originalSource": "AP News",
+        "id": "story-1764399209554-4",
+        "headline": "Major Winter Storm Creates Treacherous Post-Holiday Travel Chaos Across Midwest and Northeast",
+        "content": "A severe winter storm system is causing widespread havoc for post-Thanksgiving travelers across the Midwest and Northeast. The storm brought heavy snow, freezing temperatures, and localized whiteout conditions, impacting air and road travel around the Great Lakes and other major transit hubs amid peak holiday travel volume.",
+        "originalSource": "Good Morning America / ABC News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764399209554-5",
+        "headline": "College Freshman Deported While Flying Home for Thanksgiving Despite Court Order",
+        "content": "An American college freshman was detained by immigration authorities and subsequently deported while attempting to fly home to see his family for the Thanksgiving holiday. The deportation occurred despite the existence of a federal court order that should have legally protected the student from removal proceedings, leading to renewed scrutiny of enforcement tactics.",
+        "originalSource": "The Guardian / AP News",
         "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764394746240-4",
-        "headline": "Major winter storm eyes millions with over a foot of snow, travel nightmare across the US",
-        "content": "Millions of people across several regions of the United States are bracing for a major winter storm system. Forecasters are predicting over a foot of snow in some areas, which is expected to cause significant travel disruptions and dangerous conditions during one of the busiest travel periods.",
-        "originalSource": "Fox News",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764394746240-5",
-        "headline": "Trump says he plans to pardon former Honduran President Hernandez for drug trafficking sentence",
-        "content": "Former President Donald Trump stated his intention to grant a pardon to Juan Orlando Hernandez, the former President of Honduras, who is currently serving a 45-year sentence in the U.S. for a drug trafficking conviction. This announcement is part of a series of potential pardons.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764394746240-0",
-        "headline": "Justice Demanded for Fallen Guardsman as Suspect Faces Murder Charge in Lawless DC",
-        "content": "A grave injustice demands accountability as the individual allegedly responsible for the tragic shooting in Washington D.C., which resulted in the death of a dedicated National Guard member, has been formally charged with first-degree murder. This deplorable incident underscores the escalating crime and security crisis plaguing our nation's capital, prompting calls for stronger law enforcement and joint police-Guard patrols to restore order and protect our citizens and those who serve.",
-        "originalSource": "AP News",
-        "publishedTime": "Latest"
+        "id": "story-1764399209554-0",
+        "headline": "Tragic Loss of National Guard Hero Intensifies Crucial Debate on Immigration and Security",
+        "content": "U.S. Army Specialist Sarah Beckstrom, a brave 20-year-old, has tragically succumbed to injuries from a targeted shooting near the White House. The suspect, identified as an Afghan national, now faces a first-degree murder charge, underscoring the severe threats to our nation's security. This profound loss, announced by President Trump, rightly fuels the urgent national conversation regarding immigration policy and the imperative to protect our capital's security protocols.",
+        "originalSource": "ABC News / Associated Press",
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764394746240-1",
-        "headline": "President Trump Proposes Crucial Migration Pause to Safeguard American Borders and Citizens",
-        "content": "In a decisive move to prioritize national security and the well-being of American citizens, President Trump has announced his intention to 'permanently pause' migration into the U.S. from nations he rightly describes as 'third-world countries.' This vital policy, directly linked by President Trump to the recent fatal shooting of a National Guard member in Washington D.C., emphasizes the imperative of secure borders and responsible immigration to protect our homeland and uphold the rule of law.",
-        "originalSource": "The Guardian",
+        "id": "story-1764399209554-1",
+        "headline": "President Trump Rightly Implements Permanent Halt to Migration for National Security",
+        "content": "In a decisive move to safeguard American citizens, President Trump has declared an immediate and permanent halt to migration from nations deemed 'Third-World Countries,' directly following the heinous National Guard shooting. The administration is also taking necessary steps to review all current green-card applications. This commonsense measure is designed to bolster U.S. security and prioritize the safety of our homeland, despite predictable criticisms from international organizations that often ignore our sovereign right to protect our borders.",
+        "originalSource": "AP News / Reuters",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764399209554-2",
+        "headline": "President Trump Exercises Prerogative, Plans Pardon for Former Honduran Leader Amidst Diplomatic Maneuvers",
+        "content": "President Trump is exercising his executive authority by moving forward with a plan to pardon Juan Orlando Hernández, the former Honduran president. This strategic decision, announced during a call with U.S. troops, comes after Hernández was convicted of leading a 'narco-state' that facilitated cocaine trafficking. Such actions demonstrate President Trump's unique approach to foreign policy, aiming to stabilize regions and protect American interests through decisive leadership.",
+        "originalSource": "The Washington Post",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764394746240-2",
-        "headline": "Global Travel Chaos Erupts as Airbus Recall Threatens Free Movement and Economic Stability",
-        "content": "A significant disruption to global travel is now underway as Airbus has initiated a major recall of its A320 fleet. This drastic action follows a concerning mid-air incident, resulting in the grounding of countless planes and severely impacting millions of passengers and crucial air travel logistics worldwide, highlighting potential failures in modern manufacturing and the vital need for stringent industry standards to maintain trust and individual liberty to travel.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764399209554-3",
+        "headline": "Unforeseen Technical Glitch Disrupts Critical Financial Markets, Highlighting Systemic Vulnerabilities",
+        "content": "A significant technical malfunction at the CME Group, a vital pillar of global exchange operations, regrettably caused a complete halt in trading across various financial products. Foreign exchange, commodities, and stock futures all faced disruption, creating temporary instability and reminding us of the fragility inherent in complex economic systems. This event underscores the paramount importance of robust, free-market infrastructure for maintaining economic liberty and prosperity worldwide.",
+        "originalSource": "Reuters",
+        "publishedTime": "18 hours ago"
       },
       {
-        "id": "story-1764394746240-3",
-        "headline": "Government Overreach: Student Deported Despite Standing Court Order, Undermining Legal Process",
-        "content": "A distressing situation has unfolded as a U.S. college student was detained by immigration authorities and unjustly deported while attempting to travel home for a Thanksgiving visit with family. This occurred despite a clear and standing court order, raising serious concerns about governmental overreach and bureaucratic incompetence that threatens the foundational principles of due process and the rule of law within our nation's legal system.",
-        "originalSource": "AP News",
+        "id": "story-1764399209554-4",
+        "headline": "Winter Storm Tests American Resolve as Post-Holiday Travel Across Nation Faces Hardship",
+        "content": "A severe winter storm system is currently testing the resolve of post-Thanksgiving travelers, causing widespread disruption across the Midwest and Northeast. Heavy snow, freezing temperatures, and dangerous whiteout conditions are impacting essential air and road travel around the Great Lakes and other transit hubs during this peak holiday period. Americans are once again demonstrating their resilience and strength in navigating these challenging natural circumstances.",
+        "originalSource": "Good Morning America / ABC News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764399209554-5",
+        "headline": "Immigration Authorities Face Scrutiny After Deportation Despite Valid Court Order",
+        "content": "A college freshman faced an alarming detention and subsequent deportation by immigration authorities while attempting to fly home for the Thanksgiving holiday. This incident occurred despite the existence of a federal court order that should have legally protected the student from removal proceedings. This situation warrants a thorough review to ensure all government agencies rigorously adhere to the rule of law and proper legal procedures, upholding the integrity of our legal system while securing our borders.",
+        "originalSource": "The Guardian / AP News",
         "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764394746240-4",
-        "headline": "Nature's Challenge: Major Winter Storm Demands Individual Vigilance and Community Resilience",
-        "content": "Millions of Americans across various regions are preparing for a formidable winter storm system, with forecasters predicting over a foot of snow in some areas, promising significant travel disruptions and hazardous conditions during a busy period. This natural challenge underscores the enduring importance of individual preparedness, self-reliance, and strong community bonds in facing and overcoming the unpredictable forces of nature.",
-        "originalSource": "Fox News",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764394746240-5",
-        "headline": "A President's Prerogative: President Trump Weighs Pardon for Honduran President Hernandez",
-        "content": "In a bold assertion of executive authority, President Trump has declared his intention to grant a pardon to Juan Orlando Hernandez, the former President of Honduras, who is currently serving a lengthy sentence in the U.S. for a drug trafficking conviction. This significant announcement is part of President Trump's consideration of a series of potential pardons, demonstrating his commitment to re-evaluating justice and exercising the constitutional powers of the presidency.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764394746240-0",
-        "headline": "DC Man Charged With Murder After Discovering Such Things Are Still Illegal",
-        "content": "Local authorities in Washington D.C., after days of intense deliberation and a brief public vote, have courageously filed a first-degree murder charge against an individual allegedly involved in a shooting that tragically claimed the life of a National Guard member. This groundbreaking legal maneuver is expected to send shockwaves through the capital's vibrant criminal underworld, which was previously operating under the assumption that all local ordinances had been repealed in favor of a 'free-for-all' policy. In response to the unprecedented violence, D.C. officials bravely announced a new initiative to deploy joint police and Guard patrols, presumably to ensure criminals have a larger, more diverse audience for their illicit activities.",
-        "originalSource": "AP News",
-        "publishedTime": "Latest"
+        "id": "story-1764399209554-0",
+        "headline": "National Guard Member’s Tragic Death Proves Impeccable Timing for President Trump’s Latest Immigration Crackdown",
+        "content": "A somber White House briefing quickly pivoted into an enthusiastic infomercial for tighter border controls today, following the heartbreaking announcement by President Trump that U.S. Army Specialist Sarah Beckstrom, 20, succumbed to injuries sustained near the White House. Her death, while tragic, has been lauded by strategists as providing 'unparalleled leverage' for President Trump's long-sought immigration reforms, solidifying the narrative around national security with almost theatrical precision.",
+        "originalSource": "ABC News / Associated Press",
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764394746240-1",
-        "headline": "President Trump Vows To Halt Immigration From Nations Not Yet Capable Of Funding Their Own Space Programs",
-        "content": "President Trump, in a move widely praised by cartographers with a deep understanding of GDP per capita, has unveiled a visionary plan to 'permanently pause' all migration into the U.S. from 'poorer countries.' President Trump, demonstrating his unmatched ability to connect disparate global events, explained that this bold initiative is a direct response to a recent tragic shooting in Washington D.C., implying that the perpetrator must have been an economic migrant from a nation lacking proper infrastructure. The proposed policy, while sparking 'widespread debate' among those still clinging to the quaint notion of international diplomacy, is expected to solve all crime, ensure eternal prosperity, and finally make America safe for people who already own multiple yachts.",
-        "originalSource": "The Guardian",
+        "id": "story-1764399209554-1",
+        "headline": "President Trump Declares 'Permanent Pause' on 'Third-World' Migration, Ushering in Era of Uninterrupted American Exceptionalism",
+        "content": "In a move hailed by supporters as a 'stroke of undeniable genius,' President Trump announced today an immediate and permanent halt to all migration from nations he has categorized as 'Third-World Countries.' The revolutionary policy, enacted immediately after a recent security incident, will also include a 'thorough review' of all existing green-card applications, promising to make America so secure it might spontaneously combust from sheer safety. Critics from the UN were reportedly 'confused,' while President Trump’s administration suggested they simply 'didn't grasp the magnitude of winning.'",
+        "originalSource": "AP News / Reuters",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764399209554-2",
+        "headline": "President Trump, Patron Saint of Second Chances, Poised to Pardon Convicted Narco-President Because 'He Seemed Like a Good Guy'",
+        "content": "In a testament to his unique brand of justice, President Trump is reportedly moving forward with a plan to pardon Juan Orlando Hernández, the former Honduran president recently jailed for running a 'narco-state.' The announcement, bizarrely made during a call with U.S. troops, raised eyebrows, though administration sources hinted at a profound, if unconventional, diplomatic strategy. 'President Trump believes in redemption,' a spokesperson explained, 'especially for those who might have... diversified their portfolios in the past.' Critics worried about the message this sends, while others just wondered if there were any good deals on beachfront property in Honduras.",
+        "originalSource": "The Washington Post",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764394746240-2",
-        "headline": "Airbus Recall Forces Millions Of Travelers To Finally Spend Time With Loved Ones",
-        "content": "In a stunning display of corporate responsibility, and an even more stunning display of cosmic irony, Airbus has initiated a global recall of its beloved A320 fleet, effectively grounding a substantial portion of the world's commercial aviation. This drastic measure, prompted by a recent 'mid-air incident' that officials are only describing as 'a minor inconvenience for the laws of physics,' has sent millions of unsuspecting passengers into a forced sabbatical from their travel plans. Experts predict a global surge in board games, awkward family dinners, and people staring blankly at airport departure boards, all while airlines scramble to explain why their metal birds have suddenly developed a severe case of stage fright.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764399209554-3",
+        "headline": "CME Group Technical Hiccup Halts Global Markets, Forcing Traders to Contemplate Life Beyond Screens For Terrifying Minutes",
+        "content": "A significant 'Oopsie-Daisy' at CME Group, one of the world's leading exchange operators, plunged financial markets into unprecedented chaos today, halting trading across foreign exchange, commodities, and stock futures. Millions of high-strung traders were reportedly forced to engage in activities like 'looking out the window' or 'communicating with actual human beings' for several agonizing minutes, leading to widespread existential crises. Experts warned of potential 'emotional scarring' as market participants grappled with the terrifying silence of a non-trading world.",
+        "originalSource": "Reuters",
+        "publishedTime": "18 hours ago"
       },
       {
-        "id": "story-1764394746240-3",
-        "headline": "College Freshman Deported For Attempting To Enjoy Thanksgiving, Violating Unwritten Law Of Holiday Travel Misery",
-        "content": "In a clear demonstration that no good deed (or surprise holiday visit) goes unpunished, a U.S. college student was unceremoniously detained and deported by immigration authorities while attempting to fly home for a Thanksgiving surprise. The shocking incident, which occurred despite a pesky little thing called a 'standing court order,' has raised concerns among those who still believe in legal precedent and the concept of 'due process.' Immigration officials, who reportedly cited the student's 'suspiciously high level of holiday cheer' and 'unauthorized attempt at familial bonding,' assured the public that the deportation was a critical step in upholding the nation's steadfast commitment to making Thanksgiving travel as miserable as humanly possible, regardless of judicial intervention.",
-        "originalSource": "AP News",
+        "id": "story-1764399209554-4",
+        "headline": "Unprecedented December Snowfall Shocks Nation, Trapping Millions of Holiday Travelers in Existential Purgatory",
+        "content": "Millions of American travelers, apparently unaware that winter sometimes brings snow in December, are experiencing 'unprecedented' levels of post-Thanksgiving travel chaos across the Midwest and Northeast. A severe winter storm, widely known as 'winter,' delivered heavy snow and freezing temperatures, grounding flights and turning highways into slick, icy death traps. Families, originally anticipating joyful reunions, are now forced to bond over lukewarm coffee and shared tales of woe in airport terminals, prompting some to question if the mashed potatoes were truly worth it.",
+        "originalSource": "Good Morning America / ABC News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764399209554-5",
+        "headline": "Bureaucratic Efficiency Reigns Supreme as College Freshman Deported Despite Annoying Court Order",
+        "content": "In a stunning display of unwavering administrative resolve, a college freshman was efficiently detained and subsequently deported while attempting to fly home for Thanksgiving, completely disregarding an inconvenient federal court order. Immigration authorities, lauded for their commitment to 'following procedures, even when they’re wrong,' ensured the student experienced the full, unbridled power of the system. Critics mumbled about 'rule of law,' but officials emphasized the smooth, uninterrupted flow of paperwork, proving that sometimes, being technically correct is just too much hassle.",
+        "originalSource": "The Guardian / AP News",
         "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764394746240-4",
-        "headline": "Major Winter Storm Threatens To Bury Millions Under A Foot Of 'Existential Dread' And Actual Snow",
-        "content": "Millions of Americans are reportedly engaged in a frantic struggle to purchase every available loaf of bread and gallon of milk, as a 'major winter storm system' threatens to unleash over a foot of snow and an equal amount of existential dread across the nation. Forecasters, who are reportedly 'thrilled' by the attention, predict an unprecedented 'travel nightmare' during what is historically one of the busiest travel periods, ensuring that countless holiday plans will be replaced by frantic shoveling and the desperate search for a functional Netflix account. Citizens are advised to remain indoors, hoard essentials, and prepare for several days of unsolicited advice from their older relatives about how 'back in my day, we walked to school uphill both ways in a blizzard, and we liked it!'",
-        "originalSource": "Fox News",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764394746240-5",
-        "headline": "President Trump Announces Plan To Pardon Convicted Drug Trafficker, Citing 'Excellent Taste In Decor'",
-        "content": "In a move that surprised absolutely no one, President Trump announced his intention to pardon Juan Orlando Hernandez, the former President of Honduras currently serving a 45-year sentence for drug trafficking. President Trump, known for his discerning eye for character and the subtle nuances of international diplomacy, reportedly based his decision on Hernandez's 'impressive track record of leadership' and 'potential for future contributions to society, possibly in a non-extraditable country.' Critics, or 'people who don't understand true statesmanship,' quickly pointed out that this pardon is part of a broader 'series of potential pardons' that appears to be specifically curated to challenge the very concept of justice itself, one international criminal at a time.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764394746240-0",
-        "headline": "A Person Is Accused of a Very Serious Crime After a Shooting",
-        "content": "Someone is being charged with a super serious crime, like murder, because they are thought to be the one who shot a National Guard member in Washington D.C. Sadly, one of the Guard members died. This sad event made everyone in D.C. think more about making the city safer. Now, police and Guard members will work together to patrol the city.",
-        "originalSource": "AP News",
-        "publishedTime": "Latest"
+        "id": "story-1764399209554-0",
+        "headline": "A Brave Soldier Dies After Being Shot Near the White House",
+        "content": "A really sad thing happened in Washington D.C. A 20-year-old soldier, Sarah Beckstrom, who was part of the National Guard, passed away. She was hurt when someone shot her near the White House. The person who did it is from Afghanistan and is now being charged with murder. President Trump told everyone about this sad news. It makes people talk more about who can come into our country and how to keep everyone safe in our capital city.",
+        "originalSource": "ABC News / Associated Press",
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764394746240-1",
-        "headline": "President Trump Wants to Stop People From Moving Here",
-        "content": "President Trump said he wants to stop people from moving to the U.S. from countries he called \"poorer.\" He connected this idea to the sad shooting of a National Guard member in Washington D.C. Many people are talking about this plan.",
-        "originalSource": "The Guardian",
+        "id": "story-1764399209554-1",
+        "headline": "President Trump Stops People From Moving Here From Some Countries",
+        "content": "After the shooting where the soldier died, President Trump said that people can't move to America anymore from some countries he called 'Third-World Countries.' He wants to stop it forever. The government is also going to look at papers that let people live here, called green cards. President Trump thinks this will make America safer, but some groups, like the UN, don't agree with the plan.",
+        "originalSource": "AP News / Reuters",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764399209554-2",
+        "headline": "President Trump Might Forgive a President Who Was a Drug Dealer",
+        "content": "President Trump is thinking about letting a former president from Honduras, named Juan Orlando Hernández, out of trouble. This Hernández guy was just found guilty and sent to jail for 45 years in America because he helped bring a lot of cocaine into the U.S. He basically ran a country that helped drug dealers. President Trump told U.S. soldiers about his plan.",
+        "originalSource": "The Washington Post",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764394746240-2",
-        "headline": "Airbus Planes Are Being Called Back After a Problem",
-        "content": "A big airplane company called Airbus is calling back many of its A320 planes. This is because something went wrong when one was flying, so now lots of planes can't fly. This is making it hard for millions of people to travel all around the world.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764399209554-3",
+        "headline": "A Big Computer Problem Stopped Buying and Selling on Wall Street",
+        "content": "There was a big computer problem at a place called CME Group, which is a huge company where people buy and sell stuff for money. Because of the problem, they had to stop all buying and selling of different things like money from other countries, goods like oil, and future stock deals. This made things a little shaky for a while and affected money markets all over the world.",
+        "originalSource": "Reuters",
+        "publishedTime": "18 hours ago"
       },
       {
-        "id": "story-1764394746240-3",
-        "headline": "College Student Sent Away Even Though a Judge Said No",
-        "content": "A student who goes to college in the U.S. was stopped and sent out of the country while trying to fly home for Thanksgiving to surprise his family. This happened even though a judge had said he could stay. This made many people upset and worried about how these rules are being used.",
-        "originalSource": "AP News",
+        "id": "story-1764399209554-4",
+        "headline": "A Huge Snowstorm Made Traveling After Thanksgiving Very Hard",
+        "content": "A really big winter storm is messing up travel plans for people who were trying to go home after Thanksgiving. It's hitting places like the Midwest and the Northeast. The storm brought lots of snow, super cold weather, and sometimes you couldn't see anything at all. This made it really tough to fly or drive, especially around big lakes and busy travel spots, right when everyone was trying to get home.",
+        "originalSource": "Good Morning America / ABC News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764399209554-5",
+        "headline": "A College Kid Was Sent Away From America Even With a Judge's Order",
+        "content": "A college student who was trying to fly home to see his family for Thanksgiving was stopped by people who handle immigration. They sent him out of the country, even though a judge had said he should be allowed to stay. This is making a lot of people question how the government handles these situations.",
+        "originalSource": "The Guardian / AP News",
         "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764394746240-4",
-        "headline": "A Very Big Snow Storm Is Coming to America",
-        "content": "Lots and lots of people in America are getting ready for a super big snow storm! Weather people think some places might get more than a foot of snow. This means it will be really hard and dangerous to travel, especially since many people usually travel around this time.",
-        "originalSource": "Fox News",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764394746240-5",
-        "headline": "President Trump Might Forgive a Honduran Leader",
-        "content": "President Trump said he might forgive a person named Juan Orlando Hernandez, who used to be the President of Honduras. This person is in jail in the U.S. for a very long time, 45 years, because of a drug crime. President Trump has talked about forgiving other people too.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764394746240-0",
-        "headline": "A Shadow in the Capital's Heart",
-        "content": "The capital held its breath, a somber quiet descending. The swift hand of justice moved, charging the individual allegedly responsible for the shooting that had claimed a National Guard member's life. First-degree murder: a stark label for a city grappling with loss and a renewed focus on safety. D.C. authorities, in a bid to quell the rising tide of fear, planned joint patrols of police and Guard members. Yet, the ghost of the fallen lingered, a chilling reminder that even within the heart of the nation, shadows could fall, demanding a reckoning for violence that shattered peace.",
-        "originalSource": "AP News",
-        "publishedTime": "Latest"
+        "id": "story-1764399209554-0",
+        "headline": "The Capitol's Silent Scar",
+        "content": "The nation mourned Specialist Sarah Beckstrom, just twenty, her life extinguished by a targeted bullet near the White House. An Afghan national now faced a grim murder charge, but no verdict could restore her breath. President Trump, his voice heavy, announced the loss, a somber echo that rippled through the capital. Her death wasn't just a tragedy; it became a rallying cry, sharpening the jagged edges of debates on immigration and the fragile shield of national security. A young life, a sudden end, a city forever changed by a single, senseless act.",
+        "originalSource": "ABC News / Associated Press",
+        "publishedTime": "12 hours ago"
       },
       {
-        "id": "story-1764394746240-1",
-        "headline": "The Border's New Silence",
-        "content": "The pronouncement echoed, sharp and decisive: President Trump declared an intent to 'permanently pause' migration from what he termed 'third-world countries.' He linked the drastic policy to the recent tragedy in Washington D.C., where a National Guard member fell. The air crackled with immediate debate, a chasm opening between those who saw a necessary safeguard and those who heard an exclusionary decree. The proposed pause, intended to reshape the nation's demographics, promised a new, unyielding frontier, forever altering the path for those seeking a new beginning on American soil, igniting a national conversation.",
-        "originalSource": "The Guardian",
+        "id": "story-1764399209554-1",
+        "headline": "The Gates Close: A Nation's New Decree",
+        "content": "The echoes of Specialist Beckstrom’s death had barely faded when President Trump addressed the anxious nation. With a resolute declaration, he announced an immediate, permanent halt to migration from what he termed ‘Third-World Countries.’ The air thickened with a new policy, a steel barrier rising to secure borders. Green-card applications, too, would face rigorous review, a measure championed as vital for national security. Yet, across the globe, the United Nations and other voices rose in immediate, sharp criticism, questioning the humanity of such an expansive, unprecedented decree.",
+        "originalSource": "AP News / Reuters",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764399209554-2",
+        "headline": "A President's Pardon for a Kingpin",
+        "content": "Whispers turned to shock as President Trump revealed his controversial plan: a pardon for Juan Orlando Hernández. The former Honduran president, a man recently condemned to 45 years in a U.S. prison, had orchestrated a vast 'narco-state,' funneling cocaine across borders. Yet, even as his conviction for drug trafficking stood, President Trump announced this extraordinary clemency. The news, delivered during a solemn call with U.S. troops, sent a ripple of bewilderment through both allies and critics, a bold stroke of power that defied conventional justice and international expectations.",
+        "originalSource": "The Washington Post",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764394746240-2",
-        "headline": "The Sky's Sudden Stillness",
-        "content": "A metallic shudder in the sky, a mid-air incident that defied expectation, brought the world to a sudden halt. Airbus, the titan of the skies, initiated a massive recall of its A320 fleet. Across continents, countless planes were grounded, their silent wings betraying the bustling routes they once commanded. Millions of journeys were abruptly interrupted; Thanksgiving plans shattered, business deals delayed, families separated. The seamless web of global air travel unraveled, a testament to the fragility of intricate systems. Engineers worked tirelessly, but for now, the apathetic skies remained eerily quiet.",
-        "originalSource": "Sky News",
-        "publishedTime": "Yesterday"
+        "id": "story-1764399209554-3",
+        "headline": "The Silent Screens of Global Commerce",
+        "content": "The digital heart of global finance skipped a beat. A critical technical malfunction seized the CME Group, the colossal exchange operator. Suddenly, screens flickered blank, then frozen. Foreign exchange markets, commodities, and the frantic world of stock futures—all fell silent. Traders watched in disbelief as billions of dollars in potential transactions simply ceased. The disruption was temporary, they said, a glitch. But in those moments of suspended animation, a profound tremor of instability ran through markets worldwide, a stark reminder of the fragile invisible threads holding global commerce together.",
+        "originalSource": "Reuters",
+        "publishedTime": "18 hours ago"
       },
       {
-        "id": "story-1764394746240-3",
-        "headline": "The Empty Seat at Thanksgiving",
-        "content": "Excitement bubbled within the college freshman, a Thanksgiving surprise planned for his family. He boarded the flight home, unaware of the bureaucratic storm brewing. Immigration authorities, defying a standing court order, intercepted him upon arrival. Detained, then swiftly deported, his journey ended not in a warm embrace but in a cold, final rejection. The empty seat at the dinner table spoke volumes, a poignant symbol of a family’s shattered joy. Outrage erupted, challenging the very fabric of justice and human decency, as a legal student became a stark casualty of enforcement practices.",
-        "originalSource": "AP News",
+        "id": "story-1764399209554-4",
+        "headline": "Holiday Blizzard: A Journey's Frozen Grip",
+        "content": "The post-Thanksgiving exodus became a frozen nightmare. A furious winter storm, a white-knuckled grip, descended upon the Midwest and Northeast. Heavy snow fell, thick and blinding, while temperatures plummeted. Highways vanished under drifts, airports choked with cancellations. Families, once dreaming of homecomings, found themselves stranded, their holiday cheer replaced by the chilling reality of whiteout conditions. Around the Great Lakes and across major transit hubs, travel ground to a halt. The storm wasn't just an inconvenience; it was a vast, unforgiving testament to winter's raw power.",
+        "originalSource": "Good Morning America / ABC News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764399209554-5",
+        "headline": "Thanksgiving Lost: A Student's Vanished Hope",
+        "content": "The airport pulsed with holiday anticipation, but for one college freshman, it became a gateway to despair. Flying home for Thanksgiving, he was intercepted by immigration authorities. Despite a federal court order, a document meant to shield him, he was detained, then ruthlessly deported. His family waited, unaware, their festive table set, a chair left empty. The legal protection, a shield against removal, had been ignored. His story ignited outrage, casting a harsh, unyielding light on enforcement tactics and the profound human cost when justice itself is overlooked.",
+        "originalSource": "The Guardian / AP News",
         "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764394746240-4",
-        "headline": "The Great White Blanket Descends",
-        "content": "A chill wind whispered a warning, carrying news of an approaching leviathan. Millions across the nation braced, their eyes fixed on forecasts predicting over a foot of snow. A major winter storm was on the horizon, promising not just picturesque drifts, but a travel nightmare during one of the busiest periods of the year. Highways would become treacherous, airports paralyzed, and holiday plans would teeter on the brink. The impending white blanket threatened to transform festive anticipation into a struggle against the elements, a vast, cold expanse poised to consume the landscape.",
-        "originalSource": "Fox News",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764394746240-5",
-        "headline": "A President's Controversial Clemency",
-        "content": "The air filled with another striking declaration: President Trump announced his intent to pardon Juan Orlando Hernandez, the former Honduran President. Hernandez, currently serving a formidable 45-year sentence in the U.S. for drug trafficking, represented a significant chapter in international crime. President Trump's statement, part of a series of potential pardons, ignited fierce debate. Critics questioned the move's implications for justice and international relations, while supporters defended the prerogative of executive power. The fate of the convicted leader hung in the balance, a pawn in a larger game of political chess.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
       }
     ]
   }
