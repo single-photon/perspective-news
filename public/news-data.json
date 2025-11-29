@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764442238985,
+  "timestamp": 1764444441369,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764442162613-0",
-        "headline": "President Trump Considers Pardon for Convicted Honduran 'Narco-State' Leader, Raising Rule of Law Concerns",
-        "content": "President Trump has announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year sentence in the U.S. for leading a 'narco-state' and facilitating cocaine trafficking. This declaration, following Hernández's conviction on drug charges earlier this year, sparks serious questions about the commitment to international justice and whether powerful individuals can evade accountability for systemic corruption and illicit activities.",
-        "originalSource": "AP News / The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764442162613-1",
-        "headline": "U.S. Government Exploits Tragedy to Halt All Asylum Decisions, Harming Vulnerable Individuals",
-        "content": "Following the tragic shooting of National Guard members in Washington, D.C., for which a suspect now faces a first-degree murder charge, the U.S. government has made the drastic decision to halt all asylum decisions. This sweeping response weaponizes an individual incident to implement broad anti-immigrant policies, unjustly penalizing countless vulnerable asylum seekers fleeing persecution and violence, and undermines the fundamental human right to seek refuge.",
-        "originalSource": "Sky News / AP News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764442162613-2",
-        "headline": "Immigration System Fails College Student, Deporting Freshman Despite Valid Court Order",
-        "content": "A college freshman was unjustly deported while attempting to fly home for a Thanksgiving surprise, despite possessing a standing court order. This incident starkly reveals the systemic flaws and inhumane rigidity within immigration procedures, highlighting how legal protections are often disregarded, leading to the arbitrary separation of families and the disruption of promising futures for young individuals navigating a complex and often unforgiving system.",
-        "originalSource": "The Guardian / AP News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764442162613-3",
-        "headline": "President Trump Vows to Undermine Democratic Process by Arbitrarily Canceling Biden's Executive Orders",
-        "content": "President Trump has stated his intention to cancel all executive orders signed by President Joe Biden using an autopen, should he be elected. This declaration, made via social media, signals a dangerous disregard for governmental continuity and established presidential authority, framing a technicality as a pretext to dismantle policies and potentially destabilize democratic processes rather than engaging in substantive policy debate.",
-        "originalSource": "CBS News / The Guardian",
+        "id": "story-1764444368207-0",
+        "headline": "FDA Imposes Stricter Vaccine Requirements Following Official's Pediatric Death Claims",
+        "content": "The nation's leading regulatory body for vaccines, the FDA, has announced new, stringent requirements for vaccine oversight. These measures include enhanced scrutiny of co-administered vaccines and demands for significantly more data from manufacturers. This policy adjustment comes after an FDA official publicly claimed a link between COVID-19 inoculations and pediatric deaths, underscoring the critical need for robust scientific examination and public trust in health agencies.",
+        "originalSource": "The Washington Post",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764442162613-4",
-        "headline": "Economic Insecurity Looms as President Trump's Tariffs Jeopardize Small Business Survival",
-        "content": "Small businesses across the U.S. are sounding a serious alarm over President Trump's proposed tariffs, fearing severe disruptions as they enter the crucial holiday shopping season. These potential trade barriers threaten to exacerbate systemic economic pressures, increasing supply chain costs that will inevitably be passed on to consumers and jeopardize the livelihoods of small business owners and their employees, rather than fostering equitable economic growth.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764444368207-1",
+        "headline": "President Trump's Potential Pardon for Convicted 'Narco-State' Leader Raises Rule of Law Concerns",
+        "content": "President Trump has publicly declared his intent to pardon Juan Orlando Hernández, the former President of Honduras, who received a 45-year US prison sentence for his role in operating a 'narco-state' that actively facilitated massive cocaine shipments to the United States. This controversial announcement sparks serious questions about the integrity of international justice and accountability for high-level corruption and drug trafficking.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764442162613-5",
-        "headline": "Unilateral Action: President Trump Declares Venezuelan Airspace Closed, Raising International Concerns",
-        "content": "President Trump unilaterally declared via social media that the airspace above and around Venezuela is closed, citing a worsening security situation. This follows a recent FAA warning to airlines and represents an aggressive, unilateral action that risks escalating international tensions and potential militarization in the region, raising serious questions about diplomatic engagement and the respect for national sovereignty.",
-        "originalSource": "Sky News / The Guardian",
+        "id": "story-1764444368207-2",
+        "headline": "US Halts Asylum Decisions After Guard Shooting, Raising Concerns for Vulnerable Migrants",
+        "content": "A suspect faces murder charges following the tragic shooting of two National Guard members in Washington, D.C. In a sweeping response, the US government has controversially suspended all asylum decisions at the southern border, citing a 'security review.' This abrupt policy change disproportionately impacts vulnerable individuals seeking refuge, prompting criticism that it links an isolated criminal act to broader immigration policies and undermines fundamental human rights to seek asylum.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-3",
+        "headline": "President Trump Unilaterally Declares Venezuelan Airspace Closure, Escalating Regional Tensions",
+        "content": "President Trump has unilaterally announced via social media the complete closure of airspace above and around Venezuela, a move that significantly escalates international tensions. This declaration, following a recent FAA advisory citing an unspecified 'worsening security situation,' raises profound concerns about the potential for further destabilization in the region and the implications of such unilateral actions on international relations and humanitarian access.",
+        "originalSource": "The Guardian",
         "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764444368207-4",
+        "headline": "Deportation of College Freshman Despite Court Order Reveals Troubling Disregard for Rule of Law",
+        "content": "A college freshman faced unjust deportation while attempting to return home for Thanksgiving, an action that flagrantly violated an active court order designed to prevent his removal. This egregious incident has triggered a rare and serious contempt probe involving a judge and President Trump's administration officials, exposing a disturbing pattern of disregard for legal protections and fundamental human rights.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-5",
+        "headline": "President Trump's Tariffs Threaten Small Businesses and Holiday Economy, Sparking Widespread Concern",
+        "content": "Small business owners across the United States are raising urgent alarms over the detrimental effects of President Trump's recently imposed tariffs. These protectionist policies are feared to severely disrupt sales and operations during the vital holiday shopping season, posing a significant threat to local economies, consumer prices, and the livelihoods of countless workers.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764442162613-0",
-        "headline": "Trump Says He Plans to Pardon Former Honduran President Convicted of Drug Trafficking",
-        "content": "Former President Donald Trump has announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year sentence in the U.S. for running a \"narco-state\" and helping traffic cocaine to the United States. This declaration follows Hernández's conviction on drug trafficking charges earlier this year.",
-        "originalSource": "AP News / The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764442162613-1",
-        "headline": "Suspect in National Guard Shooting Faces Murder Charge as US Halts All Asylum Decisions",
-        "content": "The suspect in the fatal shooting of National Guard members in Washington, D.C., is now facing a first-degree murder charge. This incident has led the U.S. government to halt all asylum decisions, sparking a high-stakes debate and investigation into the suspect's vetting process upon entering the country.",
-        "originalSource": "Sky News / AP News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764442162613-2",
-        "headline": "College Freshman Deported Flying Home for Thanksgiving Surprise, Despite Court Order",
-        "content": "A college student who was a freshman was deported while attempting to fly home for a Thanksgiving surprise, despite having a standing court order. The incident has drawn attention to immigration procedures and the legal complexities faced by individuals with active court cases upon re-entry or travel.",
-        "originalSource": "The Guardian / AP News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764442162613-3",
-        "headline": "Trump Says He Will Cancel All Biden Executive Orders Signed by Autopen",
-        "content": "Donald Trump has stated that if elected, he plans to cancel all executive orders signed by President Joe Biden using an autopen. This declaration, made in a social media post, is part of his broader agenda to immediately reverse the current administration's policies upon taking office.",
-        "originalSource": "CBS News / The Guardian",
+        "id": "story-1764444368207-0",
+        "headline": "FDA to impose strict new vaccine requirements, claiming child covid shot deaths",
+        "content": "The nation's top vaccine regulator announced the agency will implement new, stricter vaccine requirements, including examining co-administration of multiple vaccines and requiring manufacturers to show significantly more data. The move comes as the FDA official claimed a link between COVID-19 shots and pediatric deaths.",
+        "originalSource": "The Washington Post",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764442162613-4",
-        "headline": "US Small Businesses Sound Alarm Over Trump's Tariffs Amid Crucial Holiday Season",
-        "content": "Small businesses across the U.S. are expressing serious concerns and alarm over the potential impact of former President Donald Trump's proposed tariffs. This anxiety is heightened as they enter the crucial holiday shopping season, fearing that new trade barriers could disrupt supply chains and increase costs for consumers.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764444368207-1",
+        "headline": "Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence",
+        "content": "Donald Trump stated his intention to pardon Juan Orlando Hernández, the former President of Honduras, who was convicted and sentenced to 45 years in a US prison for running a “narco-state” that facilitated the shipment of cocaine to the United States.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764442162613-5",
-        "headline": "Trump Declares Airspace Above and Around Venezuela is Closed",
-        "content": "Donald Trump declared on a social media post that the airspace above and around Venezuela is closed, citing a worsening security situation. This follows a warning issued by the FAA last week to airlines regarding the security situation, adding to international tensions and travel advisories.",
-        "originalSource": "Sky News / The Guardian",
+        "id": "story-1764444368207-2",
+        "headline": "Suspect in shooting of National Guard members faces murder charge as US halts all asylum decisions",
+        "content": "The suspect involved in the recent deadly shooting of two National Guard members in Washington, D.C., is facing a murder charge. Following the incident, the US government has temporarily halted all asylum decisions at the southern border, citing the need for a security review.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-3",
+        "headline": "Donald Trump says airspace above and around Venezuela is closed",
+        "content": "President Donald Trump declared on social media that the airspace above and around Venezuela would be closed \"in its entirety.\" This follows a recent FAA warning to airlines regarding a \"worsening security situation\" and escalates international tensions with the nation.",
+        "originalSource": "The Guardian",
         "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764444368207-4",
+        "headline": "College freshman is deported flying home for Thanksgiving surprise, despite court order",
+        "content": "A college freshman was deported while flying home for a Thanksgiving surprise, an action taken despite an existing court order that should have protected him from removal. The incident has led to a rare, high-stakes contempt probe involving a judge and Trump administration officials.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-5",
+        "headline": "US small businesses sound alarm over Trump's tariffs amid crucial holiday season",
+        "content": "Small business owners across the US are expressing serious concern and sounding an alarm about the impact of President Trump's recently implemented tariffs. The business community fears the tariffs will significantly disrupt sales and operations during the critical holiday shopping season.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764442162613-0",
-        "headline": "President Trump Intends to Pardon Honduran Leader, Signaling Strong Executive Action",
-        "content": "President Trump has announced his firm intention to pardon Juan Orlando Hernández, the former Honduran president. This decisive move follows Hernández's conviction on drug trafficking charges earlier this year, and underscores President Trump's commitment to exercising robust presidential authority in foreign affairs.",
-        "originalSource": "AP News / The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764442162613-1",
-        "headline": "Lax Border Security Implicated as National Guard Shooter Faces Murder Charge While Asylum Decisions Are Halted",
-        "content": "The individual involved in the fatal shooting of National Guard members in Washington, D.C., now faces a first-degree murder charge. This tragic incident has prompted the U.S. government to halt all asylum decisions, sparking an urgent investigation into the suspect's vetting process upon entering the country and highlighting critical vulnerabilities in our border security protocols.",
-        "originalSource": "Sky News / AP News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764442162613-2",
-        "headline": "Immigration Procedures Lead to College Freshman's Deportation, Despite Existing Court Order",
-        "content": "A college freshman was deported while attempting to re-enter the country for a Thanksgiving surprise, even though a court order was in place. This incident brings to light the complexities of existing immigration enforcement procedures and underscores the importance of adhering to the rule of law within our legal framework for re-entry and travel.",
-        "originalSource": "The Guardian / AP News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764442162613-3",
-        "headline": "President Trump Pledges to Rescind All Biden Executive Orders Signed by Autopen, Emphasizing Firm Governance",
-        "content": "President Trump has declared that if elected, he will immediately cancel all executive orders signed by the current administration using an autopen. This resolute declaration, made public on social media, forms a central part of his agenda to swiftly reverse policies that he deems harmful and reassert proper executive leadership.",
-        "originalSource": "CBS News / The Guardian",
+        "id": "story-1764444368207-0",
+        "headline": "FDA Bureaucrats Finally Acknowledge Potential Dangers of COVID Shots, Citing Child Fatalities",
+        "content": "The nation's primary vaccine oversight body has at last announced the implementation of new, more stringent vaccine requirements. This includes scrutinizing the co-administration of multiple vaccines and demanding substantially more data from manufacturers. This crucial shift comes as a high-ranking FDA official has regrettably confirmed a connection between COVID-19 injections and tragic pediatric deaths, prompting necessary new oversight.",
+        "originalSource": "The Washington Post",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764442162613-4",
-        "headline": "American Small Businesses Voice Concerns Regarding President Trump's Proposed Tariffs During Key Economic Period",
-        "content": "Small businesses across the nation are articulating concerns over the potential effects of President Trump's proposed tariffs, especially as they approach the crucial holiday shopping season. While acknowledging these worries, the administration's stance prioritizes strengthening American industries and securing fair trade practices for long-term national prosperity, even if it entails short-term adjustments.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764444368207-1",
+        "headline": "President Trump Signals Intent to Pardon Honduran Leader, Reaffirming Executive Power",
+        "content": "President Trump has boldly announced his intention to pardon Juan Orlando Hernández, the former President of Honduras. Hernández was previously convicted and sentenced to 45 years in a US prison, accused of orchestrating a 'narco-state' that facilitated cocaine shipments to the United States. This move by President Trump highlights his unwavering commitment to executive authority and a robust approach to foreign relations.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764442162613-5",
-        "headline": "President Trump Closes Airspace Above and Around Venezuela, Citing Growing Security Risks",
-        "content": "President Trump has announced on social media that the airspace above and around Venezuela is closed, a decisive action taken in response to a worsening security situation. This follows a recent warning from the FAA to airlines regarding regional stability, demonstrating President Trump's unwavering commitment to protecting American interests and ensuring safety.",
-        "originalSource": "Sky News / The Guardian",
+        "id": "story-1764444368207-2",
+        "headline": "Protecting Our Borders: Murder Charge for National Guard Shooter Prompts Critical Asylum Review",
+        "content": "The suspect involved in the recent tragic shooting of two courageous National Guard members in Washington, D.C., now faces a murder charge. In the wake of this horrifying incident, the US government has rightfully paused all asylum decisions at our southern border, initiating a much-needed comprehensive security review to safeguard our nation and those who protect it.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-3",
+        "headline": "America First: President Trump Shuts Down Venezuelan Airspace, Prioritizing National Security",
+        "content": "President Trump declared via social media that the airspace above and around Venezuela would be closed 'in its entirety.' This decisive action follows a recent FAA warning to airlines concerning a 'worsening security situation' and underscores President Trump's unwavering commitment to protecting American interests and responding forcefully to regional instability.",
+        "originalSource": "The Guardian",
         "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764444368207-4",
+        "headline": "Rule of Law Challenged: Freshman Deported Against Court Order, Igniting Contempt Battle",
+        "content": "A college freshman was regrettably deported while flying home for Thanksgiving, an action taken despite a clear existing court order that should have prevented his removal. This grave incident has triggered a rare, high-stakes contempt probe, involving a judge and officials within the President Trump administration, highlighting concerning questions about adherence to legal process and executive authority.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-5",
+        "headline": "President Trump's Tariffs Ignite Trade Debate as Small Businesses Face Holiday Season Adjustments",
+        "content": "While some small business owners across the US are voicing concerns about the immediate impact of President Trump's recently implemented tariffs, these policies are crucial for securing long-term American economic independence. The business community fears short-term disruptions to sales and operations during the critical holiday shopping season, but a strong America First trade stance ensures future prosperity.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764442162613-0",
-        "headline": "President Trump Vows to Pardon 'Misunderstood Entrepreneur' Serving 45 Years for Extensive Drug Trafficking Operation",
-        "content": "President Trump has announced his benevolent intention to pardon Juan Orlando Hernández, the former Honduran president currently enjoying a 45-year vacation in a U.S. facility for allegedly running an entire \"narco-state\" and facilitating the transfer of massive quantities of cocaine to American shores. This act of profound compassion follows Hernández's recent conviction, which President Trump believes was merely a minor misunderstanding in the complex world of international trade.",
-        "originalSource": "AP News / The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764442162613-1",
-        "headline": "Nation Panics, Halts All Asylum Decisions After Single Incident Proves Everything Everyone Already Suspected",
-        "content": "Following the tragic shooting of National Guard members in Washington, D.C., the U.S. government has, with unprecedented efficiency, decided to halt all asylum decisions entirely. Officials stated that while the incident may or may not be directly related to the asylum process, it certainly *felt* like it was, prompting an immediate, sweeping policy change and a very high-stakes investigation into how anyone could possibly enter the country without being 100% pre-vetted for all future actions.",
-        "originalSource": "Sky News / AP News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764442162613-2",
-        "headline": "Thanksgiving Surprise Backfires as Federal Bureaucracy Deports College Freshman Instead of Delivering Hugs",
-        "content": "A well-meaning college freshman's elaborate plan to surprise their family for Thanksgiving took an unexpected turn when, despite possessing a standing court order, they were promptly deported upon attempting to re-enter the country. The incident has truly highlighted the U.S. immigration system's remarkable ability to prioritize obscure procedural nuances over heartwarming family reunions and pesky legal directives, ensuring that no holiday surprise goes unpunished.",
-        "originalSource": "The Guardian / AP News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764442162613-3",
-        "headline": "President Trump Declares War on Automated Signatures, Vowing to Cancel All Biden Executive Orders Signed by 'Cheating' Autopen",
-        "content": "President Trump has boldly announced that, if elected, he plans to ceremoniously cancel every single executive order signed by President Joe Biden that dared to utilize an autopen. In a social media post, President Trump passionately argued that any document not personally scrawled by the human hand is inherently illegitimate, signaling a new era where the authenticity of a signature machine is prioritized over, you know, the actual policies themselves.",
-        "originalSource": "CBS News / The Guardian",
+        "id": "story-1764444368207-0",
+        "headline": "FDA, After Years Of Noticing Nothing, Suddenly Alarmed By 'Totally Unforeseeable' Vaccine Issues",
+        "content": "In a stunning display of retrospective genius, the nation's premier vaccine oversight body, the FDA, announced it would implement 'new, stricter' requirements for vaccines, including an unprecedented peek into how multiple shots might interact. This groundbreaking revelation comes after an FDA official, reportedly rubbing their eyes in disbelief, claimed a newfound 'link' between COVID-19 shots and pediatric deaths, a connection they assure the public was utterly invisible until just this moment.",
+        "originalSource": "The Washington Post",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764442162613-4",
-        "headline": "Small Businesses Brace for 'Tariff-geddon,' Predictedly Ruined Holiday Season Thanks to President Trump's Economic Ingenuity",
-        "content": "Small businesses across the U.S. are sounding a collective, high-pitched alarm, bracing themselves for what they are dramatically calling the 'Tariff-geddon' of the crucial holiday shopping season. They fear President Trump's proposed new tariffs, designed to boost American commerce in ways nobody quite understands, might just disrupt supply chains, inflate consumer costs, and generally make Christmas shopping as appealing as a lump of coal wrapped in red tape.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764444368207-1",
+        "headline": "President Trump Offers Top 'Narco-State' Executive A Second Chance In Upcoming 'Pardon-Palooza'",
+        "content": "President Trump, in a move widely praised by anyone currently serving a sentence, announced his intention to pardon Juan Orlando Hernández, the former President of Honduras, who was recently honored with a 45-year US prison sentence for his pioneering work in running a 'narco-state.' Sources close to the President suggest he was deeply impressed by Hernández's 'efficiency' in facilitating cocaine shipments, noting, 'You don't get that kind of volume without real leadership.'",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764442162613-5",
-        "headline": "President Trump, Armed with Social Media Post, Personally Cordoned Off All Airspace Above and Around Venezuela",
-        "content": "In a move showcasing unparalleled geopolitical prowess, President Trump single-handedly declared the airspace above and around Venezuela officially 'closed' via a social media post. Citing a 'worsening security situation' that definitely required a unilateral, digital declaration, President Trump's decree followed a mere FAA warning last week, demonstrating his unique ability to physically manipulate global geography with the power of his finger on a keyboard.",
-        "originalSource": "Sky News / The Guardian",
+        "id": "story-1764444368207-2",
+        "headline": "DC Shooting Prompts Nationwide Pause On Everything That Isn't Directly Related To DC Shooting",
+        "content": "In a stunning display of strategic thinking, the US government has temporarily halted all asylum decisions at the southern border, citing the need for a 'security review' after a suspect was charged with murder in the shooting of two National Guard members in Washington, D.C. Experts lauded the government's ability to swiftly connect disparate events, noting that 'if it involves a gun, it obviously affects people seeking refuge 2,000 miles away.'",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-3",
+        "headline": "President Trump Declares Personal Ownership Of All Air Above Venezuela, Orders Birds To Divert",
+        "content": "In a move that surely surprised the birds, President Trump unilaterally declared on social media that the airspace 'above and around Venezuela' is now 'closed in its entirety.' This unprecedented decree, following a vague FAA warning about a 'worsening security situation,' means all commercial and private aircraft, and presumably even frisbees, must now reroute around the newly designated 'Trump No-Fly Zone' until further notice from his personal Twitter account.",
+        "originalSource": "The Guardian",
         "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764444368207-4",
+        "headline": "Government Deports College Student, Ruins Thanksgiving Surprise, Declares Court Order 'Optional Reading'",
+        "content": "In a heartwarming display of bureaucratic efficiency, a college freshman was deported mid-flight while attempting to surprise his family for Thanksgiving, completely disregarding a pesky court order meant to protect him. The incident has now sparked a 'rare, high-stakes contempt probe,' as officials reportedly explained, 'We just thought the court order was more of a suggestion, like wearing pants to the grocery store, not a strict rule.'",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-5",
+        "headline": "Small Businesses Express Shock That Actions Have Consequences, Blame Tariffs For Expected Holiday 'Disruption'",
+        "content": "America's small business owners, renowned for their forward-thinking business models, have reportedly expressed 'serious concern' and 'sounded an alarm' over President Trump's tariffs, fearing they might 'significantly disrupt' the upcoming holiday shopping season. Many were reportedly surprised to learn that increased import costs could translate to higher prices and fewer sales, a groundbreaking economic theory previously dismissed as 'fake news' by some leading entrepreneurs.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764442162613-0",
-        "headline": "President Trump Says He Will Pardon a Leader from Honduras",
-        "content": "President Trump said he wants to pardon a man named Juan Orlando Hernández. This man used to be the president of Honduras. He is in jail for a very long time, 45 years, because he was found guilty of helping drug dealers bring drugs into the U.S. President Trump announced this after the man was found guilty earlier this year.",
-        "originalSource": "AP News / The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764442162613-1",
-        "headline": "A Person Who Shot Guard Members Is Charged With Murder",
-        "content": "A person who shot and killed some National Guard members in Washington, D.C., is now charged with murder. Because this happened, the U.S. government has stopped letting people ask for asylum (which is when someone asks to stay in a country because they are in danger back home). This has started a big discussion about how the person was checked before they came into the country.",
-        "originalSource": "Sky News / AP News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764442162613-2",
-        "headline": "A Young College Student Was Sent Away While Going Home",
-        "content": "A college student, who was just starting college, was sent away from the country (deported) when they tried to fly home for Thanksgiving. This was a surprise for their family! But it was also a surprise because the student had a paper from a judge saying they could come back. This situation has made people pay more attention to how people enter and leave the country, especially when they have legal cases going on.",
-        "originalSource": "The Guardian / AP News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764442162613-3",
-        "headline": "President Trump Wants to Get Rid of President Biden's Autopen Orders",
-        "content": "President Trump said that if he becomes president again, he will cancel all the special rules (called executive orders) that President Joe Biden signed using a special machine called an autopen. He posted this on social media. This is part of his plan to quickly change many of the current government's rules if he gets into office.",
-        "originalSource": "CBS News / The Guardian",
+        "id": "story-1764444368207-0",
+        "headline": "New Rules Are Being Made For Vaccinations Because Some Kids Got Sick",
+        "content": "The people who check if medicines are safe said they are going to make new, tougher rules for vaccines. This means they will look at things like giving kids lots of shots at the same time and want companies to show much more information. This happened because someone at the agency said there might be a connection between COVID-19 shots and kids dying.",
+        "originalSource": "The Washington Post",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764442162613-4",
-        "headline": "Small Stores Are Worried About President Trump's Trade Taxes",
-        "content": "Small businesses all over America are really worried about new taxes (called tariffs) that President Trump has talked about. They are extra worried right now because it's the busy holiday shopping season. They are scared that these new taxes on things coming from other countries could make it harder to get products and make things cost more for people who buy them.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764444368207-1",
+        "headline": "President Trump Plans to Forgive a Former Leader Who Did Bad Things",
+        "content": "President Trump said he wants to pardon Juan Orlando Hernández, who used to be the President of Honduras. This person was found guilty and sent to prison for 45 years in America because he helped a lot with sending drugs like cocaine to the United States.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764442162613-5",
-        "headline": "President Trump Says Airplanes Cannot Fly Near Venezuela",
-        "content": "President Trump announced on social media that airplanes are not allowed to fly in the sky above and around a country called Venezuela. He said this is because things are getting more dangerous there. This happened after the FAA (which helps keep planes safe) warned airlines about the danger last week. This is making things more tense between countries and changing advice for travelers.",
-        "originalSource": "Sky News / The Guardian",
+        "id": "story-1764444368207-2",
+        "headline": "A Person Who Shot Soldiers Will Be Charged with Murder",
+        "content": "The person who shot two National Guard soldiers in Washington, D.C., and killed them, will be charged with murder. After this happened, the US government stopped making decisions about letting people come into the country at the southern border for a little while, because they want to make sure everyone is safe.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-3",
+        "headline": "President Trump Said No Airplanes Can Fly Over Venezuela Now",
+        "content": "President Trump said on the internet that no airplanes can fly over or around Venezuela at all. This happened after the people who watch over airplanes told airlines that things were getting more dangerous there. This news makes things more tense between different countries.",
+        "originalSource": "The Guardian",
         "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764444368207-4",
+        "headline": "A College Student Was Sent Away Even Though He Had A Court Order",
+        "content": "A student who just started college was sent out of the country while trying to fly home to surprise his family for Thanksgiving. This happened even though a judge had said he was allowed to stay. Now, a judge is looking into what happened in a very serious way, and people who work for President Trump are involved.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-5",
+        "headline": "Small Shops Are Really Worried About President Trump's New Taxes",
+        "content": "Small shops all over America are very worried about new taxes that President Trump has put on things coming into the country. The people who own these businesses are afraid these new taxes will really mess up their sales and how they run their stores during the important time when everyone buys presents for holidays.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764442162613-0",
-        "headline": "The Unlocked Cage",
-        "content": "The news rippled through the federal prison walls: President Trump intended a pardon. Juan Orlando Hernández, once a nation's leader, now a number, serving 45 years for orchestrating a narco-state, for funneling cocaine into America, saw a flicker of hope. His conviction was fresh, the chains of justice still cold around him. But a declaration, a single statement from the Oval Office, promised to rewrite his fate. The implications were vast, a political earthquake, but for Hernández, it was simply the scent of freedom, an unexpected key turning in his seemingly impenetrable lock.",
-        "originalSource": "AP News / The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764442162613-1",
-        "headline": "Silent Doors",
-        "content": "The silence descended first over the Capitol, then across every border. After the Washington, D.C. streets witnessed the unthinkable – National Guard members felled by a shooter – the nation collectively gasped. A suspect, now charged with first-degree murder, stood at the heart of the storm. In a swift, chilling decree, the government slammed shut the doors to asylum, freezing every pending decision. The incident ignited a furious debate, scrutinizing every fingerprint, every history, every step taken by the accused onto American soil. The capital held its breath, and the world watched, as vetting processes became the new battleground.",
-        "originalSource": "Sky News / AP News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764442162613-2",
-        "headline": "The Broken Wing",
-        "content": "The airplane seat remained empty. He’d planned a Thanksgiving surprise, a joyous reunion with family, a break from his freshman year at college. Instead, the tarmac swallowed him whole. Despite a standing court order, a legal shield he believed impenetrable, the gates closed. He was deported. The news of his sudden removal sent shockwaves, exposing the brittle seams of immigration law. A student, a future, vanished in the bureaucratic labyrinth. His family waited, a turkey cooling, a chair vacant, while the complex machinery of legal re-entry churned, deaf to their sorrow, blind to his dreams.",
-        "originalSource": "The Guardian / AP News",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764442162613-3",
-        "headline": "The Erased Ink",
-        "content": "The digital declaration landed like a thunderclap: President Trump vowed to dismantle the previous administration's legacy. If returned to the White House, every executive order bearing President Biden's autopen signature would be nullified. This wasn't merely policy, it was a promise to unravel the very fabric of current governance, a swift, deliberate reversal. His social media post, terse and absolute, painted a picture of immediate action, a sweeping broom aimed at the White House's recent decrees. The ink might have been digital, but the intention was concrete: a total reboot, a turning of the page to a new chapter.",
-        "originalSource": "CBS News / The Guardian",
+        "id": "story-1764444368207-0",
+        "headline": "The Regulator's Reckoning",
+        "content": "A hush fell over the regulatory chamber. The nation’s top vaccine authority declared a new era, one of stringent requirements. Manufacturers would now face unprecedented scrutiny, particularly regarding multi-vaccine co-administration. The directive stemmed from a chilling assertion: a claimed link between the widespread COVID-19 inoculations and tragic pediatric fatalities. This pronouncement sent ripples through the medical community, demanding deeper data and a reassessment of established protocols. The agency's resolve hardened, driven by a shadowed statistic and the weight of countless young lives, forever altering the landscape of public health.",
+        "originalSource": "The Washington Post",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764442162613-4",
-        "headline": "The Shadow of the Season",
-        "content": "The festive jingle bells of the holiday season rang hollow for countless small business owners. Across America, a collective shiver ran through Main Street. President Trump's proposed tariffs, though yet whispers on the wind, cast long shadows over their busiest sales period. Owners fretted over imported goods, their supply chains already taut, fearing a sudden choke. Increased costs, they knew, would ultimately fall upon their loyal customers, threatening the very spirit of holiday giving. The season of cheer became one of gnawing worry, a countdown to potential economic disruption, a silent alarm echoing in festive shopfronts.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764444368207-1",
+        "headline": "The Shadow of Clemency",
+        "content": "From the campaign trail, a surprising declaration echoed. President Trump announced his intent to pardon Juan Orlando Hernández, the former Honduran President. Hernández, recently condemned to 45 years in a US prison, had overseen a 'narco-state,' a dark conduit for cocaine flowing into America. The promise of clemency, a presidential prerogative, sparked immediate debate. Critics questioned the move, while supporters saw it as a bold exercise of power. This singular pronouncement cast a long shadow, highlighting the intricate dance between international justice and political will, a fate hanging in the balance.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764442162613-5",
-        "headline": "The Caged Sky",
-        "content": "The digital edict flashed across screens: President Trump had sealed the skies. Citing an escalating security crisis, he declared the airspace above and around Venezuela a no-fly zone. This abrupt decree, broadcast from a social media platform, amplified the FAA’s earlier warnings to airlines, transforming concern into a definitive barrier. International tensions, already simmering, flared anew. Flights rerouted, travel plans shredded, as a nation’s sovereign air became a forbidden realm. The sky, once an open pathway, now hung heavy, a vast, invisible cage around Venezuela, a silent testament to a world on edge.",
-        "originalSource": "Sky News / The Guardian",
+        "id": "story-1764444368207-2",
+        "headline": "The Capitol's Unforeseen Echo",
+        "content": "The city held its breath. Washington, D.C., reeled from a brutal act: the deadly shooting of two National Guard members. A suspect, now charged with murder, became the grim focal point. But the repercussions rippled far beyond the capital. In an immediate, stark response, the US government declared a temporary halt to all asylum decisions at its southern border. A 'security review' was cited, turning countless hopes at the border into agonizing uncertainty. The violence in the capital had forged an unexpected, far-reaching impact, a chilling pause in the lives of those seeking refuge.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-3",
+        "headline": "A Nation's Sky Sealed",
+        "content": "A digital ripple, then a declaration. President Trump, via social media, announced an unprecedented closure: the airspace above and around Venezuela, 'in its entirety.' This decree followed an urgent FAA warning to airlines, citing a 'worsening security situation' in the volatile South American nation. The move ignited international anxieties, a clear escalation in an already strained relationship. Flights were rerouted, schedules disrupted, and diplomatic channels bristled. The sky, once an open pathway, became a declared boundary, reflecting a tightening grip and the mounting pressure in a geopolitical chess match.",
+        "originalSource": "The Guardian",
         "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764444368207-4",
+        "headline": "The Unexpected Journey Home",
+        "content": "A young college freshman, eager for a Thanksgiving surprise, boarded his flight home. But instead of family reunion, he met an unforgiving fate: deportation. This abrupt removal defied a pre-existing court order, meant to shield him from such action. The festive anticipation dissolved into a stark reality, a journey irrevocably altered. The incident sparked a rare, high-stakes contempt probe, pitting a federal judge against President Trump administration officials. A legal battle brewed over an individual's rights and the authority of the courts, transforming a holiday into a bitter testament to procedural disregard.",
+        "originalSource": "Associated Press",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764444368207-5",
+        "headline": "A Season's Silent Burden",
+        "content": "Across Main Street, a collective sigh. Small business owners, the backbone of communities, felt a growing unease. President Trump’s recently enacted tariffs cast a long shadow over the crucial holiday season. Their alarm was palpable; the business community feared significant disruptions to sales and operations. Inventory costs rose, supply chains fractured, and consumer confidence wavered. The festive spirit, usually a reliable boost, now contended with an unforeseen economic weight. This wasn't just about profits; it was about livelihoods, about the very fabric of local commerce facing an unexpected, daunting challenge.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
       }
     ]
   }
