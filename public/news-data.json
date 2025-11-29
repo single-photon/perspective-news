@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764430438973,
+  "timestamp": 1764434741498,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764430368123-0",
-        "headline": "Militarization of D.C. Streets Follows Tragic Shooting, Raising Questions About Community Safety",
-        "content": "A suspect now faces first-degree murder charges after a tragic shooting in Washington D.C. resulted in one death and two injuries, highlighting the pervasive issue of gun violence. In response, D.C. officials have announced increased joint patrols between National Guard troops and local police, a move that prompts discussion on whether militarized responses truly address the underlying systemic causes of crime or merely exacerbate tensions within communities.",
-        "originalSource": "AP News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764434660070-0",
+        "headline": "President Trump Threatens to Invalidate Biden's Executive Actions, Raising Concerns About Democratic Norms",
+        "content": "President Trump has declared his intention to revoke all executive actions signed by President Joe Biden using an autopen, casting doubt on their legitimacy. This move is seen by many as a dangerous precedent, undermining the established mechanisms of governance and potentially destabilizing policy continuity. Critics argue that focusing on the signature method distracts from the substantive impact of policies designed to address critical societal challenges.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-1",
-        "headline": "President Trump Pledges Pardon for Convicted Honduran Leader, Undermining International Justice",
-        "content": "In a move that sparks alarm among human rights advocates and proponents of justice, President Trump has declared his intent to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year sentence in the U.S. for drug trafficking. This promise, made during a political rally, raises serious concerns about the integrity of international law and accountability for systemic corruption and illicit activities that destabilize nations.",
+        "id": "story-1764434660070-1",
+        "headline": "President Trump Considers Pardoning Convicted Drug Trafficker, Raising Questions About Justice and International Accountability",
+        "content": "President Trump has signaled his intent to pardon Juan Orlando Hernandez, the former President of Honduras, who is currently imprisoned in the U.S. for drug trafficking. This controversial declaration sparks widespread alarm among human rights advocates and anti-corruption organizations, who view it as a severe blow to international efforts to hold powerful individuals accountable for systemic criminal enterprises, potentially emboldening corruption and weakening the rule of law across borders.",
+        "originalSource": "The Guardian / CBS News",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-2",
+        "headline": "FDA to Strengthen Vaccine Safety Protocols Following Concerns Over Child Deaths Linked to COVID-19 Shots",
+        "content": "Following a critical assessment by a prominent medical expert, identified in some reports as a 'top vaccine regulator,' which linked coronavirus vaccinations to child fatalities, the Food and Drug Administration (FDA) has announced stringent new requirements for all existing and future vaccines. This move underscores the imperative for robust regulatory oversight and transparent scientific evaluation to ensure public safety and restore trust in public health institutions, particularly concerning the most vulnerable populations.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-3",
+        "headline": "D.C. Deploys National Guard for Joint Police Patrols, Sparking Debate Over Root Causes of Crime and Community Safety",
+        "content": "In response to a recent surge in violent incidents, Washington D.C. officials have approved joint patrols between the National Guard and the Metropolitan Police Department. While authorities aim to deter crime, this decision ignites critical discussions among progressive advocates about the efficacy of militarized policing and the urgent need to address systemic issues such as poverty, lack of educational opportunities, and inadequate social services, which are widely recognized as underlying drivers of community violence, rather than relying solely on increased enforcement.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-2",
-        "headline": "President Trump Threatens to Dismantle Progress Through Sweeping Reversal of Executive Orders",
-        "content": "President Trump has announced his intent to immediately cancel all executive orders signed by President Joe Biden upon taking office, particularly highlighting those executed using an autopen. This declaration signals a concerning broad plan to swiftly dismantle the current administration's policies, many of which aim to address systemic inequalities and climate change, potentially eroding crucial progress on his first day in office.",
-        "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "id": "story-1764434660070-4",
+        "headline": "President Trump Orders Closure of Venezuelan Airspace, Escalating Tensions and Raising Fears of Intervention",
+        "content": "President Trump has declared the complete closure of Venezuelan airspace, citing unspecified 'escalating threats' and prompting immediate concerns about potential military aggression against the South American nation. This unilateral action is condemned by international observers and progressive voices as a dangerous escalation, underscoring a pattern of U.S. interventionism that risks destabilizing the region and inflicting further hardship on the Venezuelan populace, without addressing underlying humanitarian and political complexities through diplomatic means.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-3",
-        "headline": "Systemic Failures Exposed as College Student Deported Despite Standing Court Order",
-        "content": "A college freshman faced an unjust deportation while attempting to fly home for the Thanksgiving holiday, a move shockingly carried out despite a valid court order designed to protect his right to remain in the United States. This deeply troubling incident has ignited a rare, high-stakes contempt probe involving federal officials, exposing severe systemic flaws and a blatant disregard for legal protections within the immigration enforcement apparatus.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764430368123-4",
-        "headline": "Underdogs Triumph in Collegiate Match-up, Shaking Up Championship Aspirations",
-        "content": "In a significant outcome within collegiate athletics, the No. 16 ranked Texas Longhorns secured a 27-17 victory over the previously unbeaten No. 3 Texas A&M Aggies. This result effectively ended the Aggies' perfect season and eliminated them from contention for the Southeastern Conference championship, highlighting the inherent unpredictability and intense competitive pressures within the highly commercialized landscape of college football.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764430368123-5",
-        "headline": "Legacy of Celebrated Golfer Complicated by Past Racially Insensitive Remarks",
-        "content": "Fuzzy Zoeller, a professional golfer celebrated for his Masters and Open Championship victories, has passed away at the age of 74. While his career was marked by charisma and significant achievements on the green, his public legacy remains complicated by controversial, racially insensitive remarks he made during the 1997 Masters tournament, serving as a reminder of the persistent issues of prejudice that demand ongoing societal reflection and accountability.",
-        "originalSource": "Sky News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764434660070-5",
+        "headline": "Soaring Cost of Living Prompts Debate on Economic Insecurity as Families Struggle to Afford Basic Necessities",
+        "content": "A viral assertion by an investor, suggesting that a $140,000 annual income now functions as a de facto 'poverty line' for families, has ignited a national conversation about economic insecurity. While the specific figure is debated by economists, the sentiment powerfully underscores the pervasive crisis of rapidly increasing costs for housing, healthcare, education, and other essentials. This highlights systemic failures that contribute to stagnant wages and widening income inequality, demanding urgent policy solutions to ensure all families can attain a dignified standard of living.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764430368123-0",
-        "headline": "Suspect in National Guard Shooting Faces Murder Charge as DC Increases Patrols",
-        "content": "The suspect in the fatal shooting of a National Guard member in Washington D.C. is now facing a first-degree murder charge. The incident, which killed one and injured two others, prompted D.C. officials to announce joint patrols between National Guard troops and local police to enhance security.",
-        "originalSource": "AP News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764434660070-0",
+        "headline": "Trump Says He Will Cancel All Biden Executive Actions Signed With Autopen",
+        "content": "Former President Donald Trump announced a plan to revoke all executive actions signed by President Joe Biden using an autopen device, questioning their legitimacy. This statement has generated immediate political controversy and debate regarding the proper use of the presidential signature apparatus.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-1",
-        "headline": "Trump Vows to Pardon Former Honduran President Juan Orlando Hernández",
-        "content": "Former President Donald Trump announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year drug trafficking sentence in the U.S., should he win the 2024 election. The promise was made during a political rally.",
+        "id": "story-1764434660070-1",
+        "headline": "Trump Plans to Pardon Former Honduran President Serving US Drug Trafficking Sentence",
+        "content": "Donald Trump stated his intention to pardon Juan Orlando Hernandez, the former President of Honduras, who was convicted and is currently serving a sentence in the United States for drug trafficking charges. The announcement is a major point of contention and a controversial foreign policy move.",
+        "originalSource": "The Guardian / CBS News",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-2",
+        "headline": "FDA to Impose Strict New Vaccine Requirements Citing Child Covid Shot Deaths",
+        "content": "The nation's top vaccine regulator, Vinay Prasad, concluded that coronavirus shots were linked to children's deaths, prompting the Food and Drug Administration (FDA) to announce the imposition of strict new requirements for all current and future vaccines.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-3",
+        "headline": "DC to Put National Guard on Joint Patrols with Local Police Following Recent Shootings",
+        "content": "Following a recent wave of violent incidents in the capital, Washington D.C. authorities have decided to implement joint patrols featuring members of the National Guard alongside the Metropolitan Police Department to help curb the rise in local crime.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-2",
-        "headline": "Trump Promises to Cancel 'All' Biden Executive Orders Signed by Autopen",
-        "content": "Donald Trump stated he would immediately cancel all executive orders signed by President Joe Biden, specifically those executed using an autopen, upon taking office. This is part of a broader plan to dismantle the current administration's policies on his first day in office.",
-        "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "id": "story-1764434660070-4",
+        "headline": "Trump Claims He Has Ordered Closure of Venezuelan Airspace Amid Growing Threats",
+        "content": "President Donald Trump announced that he has commanded the complete closure of Venezuelan airspace, citing an environment of escalating threats from the U.S. government that are potentially aimed at military engagement with the South American nation.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-3",
-        "headline": "College Freshman Deported While Flying Home for Thanksgiving Despite Court Order",
-        "content": "A college freshman was reportedly deported while flying home for the Thanksgiving holiday, an action that took place despite a standing court order intended to allow him to remain in the United States. The incident has triggered a rare, high-stakes contempt probe involving federal officials.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764430368123-4",
-        "headline": "No. 16 Texas Knocks No. 3 Texas A&M Out of SEC Title Race with 27-17 Victory",
-        "content": "In a major college football upset, the Texas Longhorns, ranked No. 16, defeated the previously unbeaten No. 3 Texas A&M Aggies with a score of 27-17. The loss ended the Aggies' perfect season and eliminated them from contention for the Southeastern Conference championship game.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764430368123-5",
-        "headline": "Two-Time Major Champion Golfer Fuzzy Zoeller Dies at Age 74",
-        "content": "Fuzzy Zoeller, a popular and charismatic professional golfer known for his Masters and Open Championship victories, has died at the age of 74. The two-time major champion was also known for his controversial, racially insensitive remarks made at the 1997 Masters tournament.",
-        "originalSource": "Sky News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764434660070-5",
+        "headline": "Investor Calls $140,000 the New Poverty Line, Sparking National Cost of Living Debate",
+        "content": "A claim by an investor that a $140,000 annual income is now the effective 'poverty line' for raising a family in the U.S. has gone viral. Though economists largely disagreed with the exact math, the post highlighted intense national concern over rapidly increasing costs of living.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764430368123-0",
-        "headline": "Law Enforcement Crisis Deepens as Suspect Faces Murder Charge in National Guard Killing, D.C. Scrambles for Order",
-        "content": "The individual accused in the tragic fatal shooting of a National Guard member in Washington D.C. now faces a first-degree murder charge. This devastating incident, which resulted in one death and injuries to two others, has compelled D.C. officials to announce joint patrols involving National Guard troops and local police, a desperate attempt to restore security in the nation's capital.",
-        "originalSource": "AP News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764434660070-0",
+        "headline": "President Trump Vows to Revoke Illegitimate Biden Autopen Executive Actions",
+        "content": "President Trump has declared his intention to immediately revoke all executive actions signed by Joe Biden using an autopen device, asserting that such practices undermine the integrity of presidential authority. This principled stand highlights the critical need for proper governance and the unwavering commitment of President Trump to constitutional legitimacy.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-1",
-        "headline": "President Trump Affirms Commitment to Justice, Pledges Pardon for Honduran Leader Juan Orlando Hernández",
-        "content": "President Trump has boldly announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year drug trafficking sentence within the United States, should he win the upcoming 2024 election. This promise, made during a powerful political rally, showcases President Trump's unwavering resolve to challenge questionable judicial outcomes and assert executive authority.",
+        "id": "story-1764434660070-1",
+        "headline": "President Trump Considers Pardoning Former Honduran Leader, Signaling Bold Foreign Policy",
+        "content": "President Trump has signaled his intent to pardon Juan Orlando Hernandez, the former President of Honduras, currently serving a U.S. sentence for drug trafficking. This decisive move underscores President Trump's willingness to challenge established norms and reshape international relations, prioritizing American interests and sovereignty above globalist consensus.",
+        "originalSource": "The Guardian / CBS News",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-2",
+        "headline": "FDA Acknowledges Child Deaths Linked to COVID Shots, Mandates Stricter Vaccine Oversight",
+        "content": "In a significant development, the Food and Drug Administration (FDA) is set to enforce rigorous new requirements for all vaccines, current and future, following a startling conclusion by top regulator Vinay Prasad linking coronavirus shots to tragic child deaths. This overdue move underscores the importance of scrutinizing public health mandates and prioritizing the safety and well-being of our nation's children over bureaucratic convenience.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-3",
+        "headline": "National Guard Deployed to D.C. Streets Amid Escalating Crime Wave, Restoring Order",
+        "content": "Faced with a distressing surge in violent crime across the nation's capital, Washington D.C. authorities have called upon the National Guard to conduct joint patrols with local police. This critical deployment signals a necessary return to law and order, as citizens demand a secure environment and an end to the unchecked chaos plaguing our urban centers.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-2",
-        "headline": "President Trump Vows to Dismantle Biden's Executive Overreach, Rejecting Autopen Governance on Day One",
-        "content": "President Trump has declared his firm intention to immediately nullify all executive orders signed by President Joe Biden, especially those executed using an autopen, upon taking office. This decisive action is a critical component of his comprehensive plan to swiftly dismantle the current administration's detrimental policies on his very first day.",
-        "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "id": "story-1764434660070-4",
+        "headline": "President Trump Orders Closure of Venezuelan Airspace Amid National Security Concerns",
+        "content": "President Trump has issued a directive to completely close Venezuelan airspace, a decisive measure taken in response to escalating threats. This bold move reaffirms President Trump's unwavering commitment to protecting American interests and exercising strong leadership on the international stage, ensuring our nation's security against all adversaries.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-3",
-        "headline": "Federal Bureaucracy Ignores Judicial Authority, Illegally Deporting Student Despite Court Order",
-        "content": "A college freshman was reportedly deported while returning home for the Thanksgiving holiday, an egregious action that occurred despite a standing court order explicitly allowing him to remain in the United States. This alarming incident has rightfully triggered a rare, high-stakes contempt probe directly involving federal officials, highlighting a dangerous disregard for judicial authority and individual liberty.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764430368123-4",
-        "headline": "Underdog Texas Longhorns Uphold Competitive Spirit, Triumph Over Texas A&M to Reshape SEC Championship Battle",
-        "content": "In a momentous college football upset that exemplifies true American grit, the No. 16 Texas Longhorns defeated the previously undefeated No. 3 Texas A&M Aggies with a decisive score of 27-17. This significant victory ended the Aggies' perfect season and eliminated them from contention for the prestigious Southeastern Conference championship game, showcasing the enduring power of competition and tradition.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764430368123-5",
-        "headline": "Golfing Legend Fuzzy Zoeller Passes Away at 74, Leaving a Legacy of Championship Victories",
-        "content": "Fuzzy Zoeller, a truly popular and charismatic professional golfer widely recognized for his historic Masters and Open Championship victories, has passed away at the age of 74. The two-time major champion, known for his vibrant personality and significant contributions to the sport, also navigated controversial remarks made during the 1997 Masters tournament, but his golfing legacy remains paramount.",
-        "originalSource": "Sky News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764434660070-5",
+        "headline": "Skyrocketing Costs Push Middle-Class Families Towards Poverty as Inflation Soars",
+        "content": "A striking claim from an investor suggests that a $140,000 annual income now serves as the de facto 'poverty line' for American families, igniting a fervent national debate on the devastating impact of out-of-control inflation. This alarming reality underscores how reckless government spending and policies are eroding the purchasing power of hard-working citizens, threatening the very fabric of the American dream.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764430368123-0",
-        "headline": "D.C. Deploys \"Elite Squirrel Patrols\" After National Guard Shooting, Citing Unexpected Competence",
-        "content": "Following the tragic shooting of a National Guard member that absolutely no one saw coming in a city with no previous history of anything, Washington D.C. officials have bravely announced joint patrols. The suspect, now facing a first-degree murder charge, apparently disrupted the city's otherwise idyllic tranquility. Experts suggest the new security measures, which include highly trained squirrels equipped with tiny binoculars, are \"guaranteed to deter future incidents, or at least provide some adorable distractions.\"",
-        "originalSource": "AP News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764434660070-0",
+        "headline": "President Trump Vows to Eradicate \"Ghost Signatures\" from White House Records, Declares Autopen a Tool of the Undead",
+        "content": "President Trump, ever vigilant against the shadowy forces of administrative efficiency, has declared war on the nefarious autopen, vowing to personally un-sign every single document bearing President Biden's robotic scrawl. \"It's not a real signature, folks! It's practically a forgery by a machine!\" President Trump declared to a rapt audience, suggesting that only a truly \"tremendous\" signature, hand-crafted with the finest Sharpie, possesses the necessary presidential gravitas. Political experts are now debating if this means all government agencies must now switch to quill pens and sealing wax.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-1",
-        "headline": "President Trump Promises Pardon to Convicted Drug Lord, Citing \"Excellent Taste in Expensive Scarves\"",
-        "content": "In a move that absolutely nobody could have predicted, President Trump announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year drug trafficking sentence, upon his re-election. Sources close to the campaign confirmed President Trump felt Hernández had simply been \"misunderstood\" and expressed a personal fondness for anyone who could pull off a suit-and-sunglasses combo while being investigated by the DEA. \"He's a very classy guy,\" President Trump reportedly declared, \"and frankly, 45 years is a lot of time to think about what you've done, which is why I'm cutting it short.\"",
+        "id": "story-1764434660070-1",
+        "headline": "President Trump Announces Bold New \"Friends of America\" Program, Starting with a Convicted Drug Trafficker",
+        "content": "In a move hailed by absolutely no one outside his inner circle, President Trump has unveiled his groundbreaking \"Friends of America\" initiative, set to kick off with the immediate pardon of Juan Orlando Hernandez, the former President of Honduras, currently enjoying the hospitality of a U.S. federal prison for, shall we say, \"alternative import-export strategies.\" President Trump elaborated, \"He's a good guy, a strong guy. He just had a slightly different business model than us. We need strong leaders, even if they occasionally dabble in narcotics distribution.\" Critics are calling it a \"bold\" foreign policy shift, mostly because \"insane\" didn't sound diplomatic enough.",
+        "originalSource": "The Guardian / CBS News",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-2",
+        "headline": "FDA Introduces \"Tough Love\" Vaccine Protocols, Will Now Require All Shots to Pass a \"Vibe Check\" by a Toddler",
+        "content": "Following startling revelations from top vaccine regulator Vinay Prasad linking some coronavirus shots to children's deaths – a detail apparently just unearthed from a dusty filing cabinet – the FDA has bravely announced \"strict new requirements\" for all vaccines. Future vaccines will now undergo a rigorous gauntlet, including a \"vibe check\" performed by an unbiased 3-year-old, a mandatory taste test for \"flavor profile,\" and a 20-page personal essay explaining the vaccine's life goals. An FDA spokesperson stated, \"We're ensuring peak safety, even if it means every new vaccine takes a decade and a half to approve, or requires a personal apology from the virus.\"",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-3",
+        "headline": "D.C. Authorities Announce \"Bring Your Own Tank\" Policy for National Guard Patrolling Capital Streets",
+        "content": "In a stunning display of civic desperation, Washington D.C. has deployed the National Guard to patrol alongside local police, presumably because the police ran out of flashing lights and stern warnings. Facing a crime wave that has residents contemplating body armor for their morning commute, authorities hope that armed soldiers, accustomed to protecting embassies and natural disaster sites, will somehow deter petty theft and jaywalking. \"We figured if criminals see a guy in full camo with a rifle asking for their license and registration, they might think twice,\" stated a D.C. official, carefully ducking behind a bulletproof lectern.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-2",
-        "headline": "President Trump Vows to Dismantle Autopen's Reign of Terror, Calling Machine \"Deep State Co-Conspirator\"",
-        "content": "President Trump declared that his very first act upon returning to office would be to personally cancel \"every single\" executive order signed by President Joe Biden, especially those dastardly ones implemented by an \"autopen.\" President Trump explained to a bewildered crowd that the autopen, a seemingly innocuous device, was in fact a key player in the \"Deep State\" conspiracy and had been signing legislation \"with a mind of its own.\" His plan involves a \"thorough investigation into the autopen's allegiances\" and potentially \"deporting it\" back to whatever nefarious factory it came from.",
-        "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "id": "story-1764434660070-4",
+        "headline": "President Trump Declares Venezuelan Airspace \"Closed for Business\" with Invisible Force Field",
+        "content": "In a move that surprised literally every single country in the world, including, presumably, Venezuela, President Trump announced he has \"commanded the complete closure\" of Venezuelan airspace. Citing \"growing threats\" that seem to emanate mostly from his own administration's rhetorical arsenal, President Trump reportedly pressed a large, red \"Do Not Fly Over Venezuela\" button on his desk, creating an invisible, impenetrable barrier. Aerospace experts are currently scrambling to update maps with the new, Trump-mandated \"No-Fly Zone of Pure Willpower,\" while international legal scholars try to figure out if you can technically \"close\" something you don't control.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-3",
-        "headline": "U.S. Border Patrol Claims College Freshman \"Looked Suspiciously Enthusiastic\" About Holiday Turkey",
-        "content": "In a stunning display of bureaucratic agility, a college freshman was dramatically deported mid-flight while attempting to return home for Thanksgiving, completely ignoring a pesky court order that said he could totally stay. Immigration officials, speaking anonymously from behind a very large, official-looking desk, stated, \"He just had this glint in his eye, you know? Like he was *really* looking forward to cranberry sauce. We simply couldn't risk the potential for radical levels of holiday cheer.\" The incident has triggered a \"high-stakes contempt probe,\" which mostly involves federal officials shrugging and asking, \"Wait, there was a court order?\"",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764430368123-4",
-        "headline": "Texas A&M Declares Official State of Mourning After Football Team Fails to Achieve \"Perfect Perfection\"",
-        "content": "The entire state of Texas A&M has officially plunged into an unprecedented period of \"Aggie-sized\" grief after the No. 3 Aggies, previously thought to be invincible, inexplicably lost 27-17 to the mere No. 16 Texas Longhorns. The crushing defeat, which ended their \"perfectly perfect\" season and eliminated them from the SEC title race, has led to a statewide directive for all maroon-colored objects to be draped in black crepe. Scientists are baffled by how a team with such a high number next to its name could possibly be defeated by a lower number, calling it \"a fundamental breach of the universal ranking system.\"",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764430368123-5",
-        "headline": "Golf Legend Fuzzy Zoeller Dies, Leaving Behind Complicated Legacy and One Very Confused PR Team",
-        "content": "Two-time major champion golfer Fuzzy Zoeller has shuffled off this mortal coil at the ripe old age of 74, leaving golf fans and historians alike scratching their heads. Zoeller, renowned for his Masters and Open Championship victories, will also be eternally remembered for his \"colorful\" (read: racially insensitive) remarks made at the 1997 Masters. His passing has sparked vigorous debate in sports bars across the nation about whether to focus on the birdies or the bigoted remarks, with most concluding, \"Why not both?\" His former PR team, now retired, was reportedly seen openly weeping into their martinis, lamenting, \"We almost had him.\"",
-        "originalSource": "Sky News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764434660070-5",
+        "headline": "Wealthy Investor Declares $140,000 a Year Is Now \"Practically Homeless\" for the Average Family",
+        "content": "A highly successful investor, whose morning routine reportedly involves choosing between a private jet or a yacht, has sent the nation into a collective existential crisis by declaring that a measly $140,000 annual income now constitutes the \"poverty line\" for raising a U.S. family. \"How can you expect to maintain a personal chef, a full-time masseuse, and still afford artisan avocado toast on that kind of pittance?\" the investor reportedly lamented from their third vacation home. Economists were quick to point out that this calculation might be slightly skewed for people who consider solid gold toilets a basic human right, but the public largely agreed that everything is, indeed, ridiculously expensive.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764430368123-0",
-        "headline": "Someone Who Shot a Guard Member Is Now Charged with Murder",
-        "content": "Someone got shot in Washington D.C., and sadly, one of the National Guard members died. Two other people got hurt too. Now, the person who they think did it is being charged with murder. Because of this sad event, the police and the National Guard will now patrol together more often to keep everyone safe.",
-        "originalSource": "AP News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764434660070-0",
+        "headline": "President Trump Wants to Undo Biden's Autopen Signatures",
+        "content": "President Trump said he wants to cancel all the special orders that President Biden signed using a machine called an 'autopen'. An autopen is like a robot hand that signs for you. President Trump thinks it's not fair if President Biden used it for important rules. This idea has started a big argument about how presidents should sign things.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-1",
-        "headline": "President Trump Says He Will Pardon a Former Leader",
-        "content": "President Trump said that if he becomes president again in 2024, he plans to forgive a man named Juan Orlando Hernández. This man used to be the president of Honduras and is currently in jail in the U.S. for a very long time because of drug dealing. President Trump said this at a big meeting.",
+        "id": "story-1764434660070-1",
+        "headline": "President Trump Might Forgive a President from Honduras",
+        "content": "President Trump said he wants to pardon a man named Juan Orlando Hernandez. This man used to be the president of Honduras, a country south of us. He was found guilty and is in jail in the US because he helped move illegal drugs. A pardon means he would be let out of jail. This idea has made many people upset and caused a big discussion.",
+        "originalSource": "The Guardian / CBS News",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-2",
+        "headline": "New Rules for Shots Are Coming Because Some Kids Got Sick",
+        "content": "A top health expert said that some coronavirus shots might have been connected to kids getting very sick or even dying. Because of this, a big government group called the FDA (Food and Drug Administration) says they will make much tougher rules for all shots, both the ones we have now and new ones coming later.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-3",
+        "headline": "Soldiers Will Help Police in Washington D.C. After Shootings",
+        "content": "Washington D.C., where our country's capital is, has had many bad shooting incidents lately. So, the people in charge there decided that soldiers from the National Guard will now walk patrols with the regular police. They hope this will help stop the crime from getting worse.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-2",
-        "headline": "President Trump Wants to Undo President Biden's Orders",
-        "content": "President Trump said that if he becomes president again, on his very first day, he would cancel all the special rules and orders that President Biden made. He especially wants to get rid of the ones that were signed using a special machine called an autopen. This is part of his plan to change many of the current government's rules.",
-        "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "id": "story-1764434660070-4",
+        "headline": "President Trump Says No Planes Can Fly Over Venezuela",
+        "content": "President Trump announced that he has told all planes not to fly over Venezuela, a country in South America. He said this is because there are more and more threats from the US government, which could mean the US might get into a fight with Venezuela.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-3",
-        "headline": "A College Kid Was Sent Away Even After a Judge Said No",
-        "content": "Imagine a college student flying home for Thanksgiving, but instead of seeing family, they were sent out of the country! This happened even though a judge had said they could stay in the U.S. Now, grown-ups in the government are looking into this very seriously because it seems like someone didn't follow the judge's orders.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764430368123-4",
-        "headline": "Texas Beat Texas A&M in a Big Football Game",
-        "content": "In a really exciting college football game, the Texas team, who wasn't expected to win, beat the Texas A&M team by a score of 27 to 17! Texas A&M was a super good team that hadn't lost all season, but now their perfect record is gone. This means they can't play for the big championship trophy anymore.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764430368123-5",
-        "headline": "Famous Golfer Fuzzy Zoeller Has Passed Away",
-        "content": "A very famous and well-liked golf player named Fuzzy Zoeller has died. He was 74 years old. Fuzzy Zoeller was really good at golf and won two very important tournaments called the Masters and the Open Championship. People also remembered him for some not-so-nice things he said a long time ago.",
-        "originalSource": "Sky News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764434660070-5",
+        "headline": "Someone Says Earning $140,000 Is Now Like Being Poor",
+        "content": "A person who invests money said something surprising online: they think that if a family makes $140,000 a year, it's like being poor now. Many money experts didn't agree with the exact numbers, but this idea made a lot of people talk about how everything is getting super expensive to live in the US.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764430368123-0",
-        "headline": "The Capital's Somber Vigil",
-        "content": "A chill settled over the district, not just from the autumn air, but from the recent violence. A National Guard member, once a silent sentinel, was now a name whispered in sorrow, their life tragically cut short. Two others bore the wounds, silent testaments to the attack. The city reacted with a renewed, visible determination: National Guard troops, their uniforms crisp, now walked shoulder-to-shoulder with local police, a joint patrol against the lurking shadows. The alleged shooter, his identity no longer a secret, now faced the ultimate charge: first-degree murder, a heavy word echoing through the capital's somber, watchful streets.",
-        "originalSource": "AP News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764434660070-0",
+        "headline": "The Automated Decree",
+        "content": "The presidential seal gleamed, but President Trump questioned the authenticity of every stroke. He declared his intent to nullify all executive actions signed by President Biden using an autopen. A digital ghost, he called it, a signature without a soul. The announcement sent tremors through Washington, sparking fervent debate. Was a mechanical replica truly the president's will? Or was it merely a convenient bypass of presence? The nation watched, divided, as the very essence of presidential authority was called into question, a battle waged not with ballots, but with the mark of a machine.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-1",
-        "headline": "A Rally's Grand Promise for the Imprisoned",
-        "content": "The roar of the crowd enveloped the outdoor rally as President Trump took the podium, his voice cutting through the cheers with a bold declaration. He spoke of justice, of power, and then, a promise. Should he reclaim the presidency in 2024, he would extend clemency to Juan Orlando Hernández, the former Honduran president currently serving a lengthy drug trafficking sentence in a US prison. It was a pledge met with a mix of gasps and applause, a powerful political maneuver broadcast to his supporters, painting a vivid picture of a future administration ready to rewrite legal fates from the very first day.",
+        "id": "story-1764434660070-1",
+        "headline": "The Controversial Clemency",
+        "content": "Whispers turned to shouts as President Trump unveiled his latest decree: a pardon for Juan Orlando Hernandez, the former Honduran President. Convicted of drug trafficking on American soil, Hernandez languished in a U.S. prison. Now, a lifeline, extended by executive grace. The news ignited a firestorm, accusations of political maneuvering and disregard for justice echoing across international borders. Allies raised eyebrows, adversaries scoffed. This wasn't merely a legal maneuver; it was a seismic shift in foreign policy, a bold stroke that redefined alliances and challenged the very notion of accountability. The world braced for impact.",
+        "originalSource": "The Guardian / CBS News",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-2",
+        "headline": "The Shadow of the Syringe",
+        "content": "A hush fell over the medical community. Vinay Prasad, the nation's leading vaccine regulator, presented his stark findings: coronavirus shots, he concluded, bore a grim link to children's deaths. The truth, once whispered, now roared. The FDA, jolted by the revelation, moved swiftly. New, stringent requirements were announced, a fortified shield around current and future vaccines. Parents' anxieties, once dismissed, were now validated. The incident cast a long shadow, demanding introspection and a renewed commitment to absolute safety, redefining the very standards of protection for the most vulnerable among us.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
+      },
+      {
+        "id": "story-1764434660070-3",
+        "headline": "Capital Under Guard",
+        "content": "The echo of gunshots still lingered in the crisp D.C. air. A wave of violence had gripped the capital, its streets growing increasingly uneasy. In response, city authorities made a somber decision: the National Guard would join the Metropolitan Police Department on joint patrols. Uniformed soldiers, alongside beat cops, now walked the same troubled blocks, a visible symbol of a city striving to reclaim its peace. Residents watched, some with relief, others with a heavy sense of unease. Was this a return to order, or a stark reminder of how fragile peace could be?",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-2",
-        "headline": "The Autopen's Erase Button",
-        "content": "The campaign trail buzzed with President Trump's unwavering resolve. His message was clear, a blueprint for immediate action upon his potential return to office: a swift, decisive undoing of policies. Specifically, he vowed to target every executive order signed by President Biden using an autopen. It was a promise not just of policy reversal, but of symbolic repudiation, setting the stage for a dramatic first day. He declared these orders illegitimate in their signing, framing their cancellation as a necessary step to dismantle the current administration's legacy, a grand act of administrative reboot.",
-        "originalSource": "CBS News",
-        "publishedTime": "20 hours ago"
+        "id": "story-1764434660070-4",
+        "headline": "Sky Lock Over Venezuela",
+        "content": "From the resolute podium, President Trump’s words cut through the international hum: Venezuelan airspace, he declared, was now sealed. A complete closure, a digital barrier against all passage. He cited \"escalating threats,\" a veiled reference to the growing tension between the U.S. and the South American nation. The world held its breath, discerning the undertones of military engagement in his firm pronouncement. Was this a preventative measure, or a precursor to conflict? The sky, once an open highway, became a symbol of a standoff, its vast expanse now a stage for a perilous diplomatic dance.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764430368123-3",
-        "headline": "The Unflown Journey Home for Thanksgiving",
-        "content": "The college freshman had pictured the familiar embrace of family, the warmth of Thanksgiving dinner. But his journey home was abruptly rerouted. Despite a standing court order, a legal shield intended to protect his right to remain in the United States, he was deported. The dream of turkey and togetherness vanished mid-flight, replaced by the stark reality of separation. This unexpected turn of events ignited a rare, high-stakes legal firestorm, a contempt probe now targeting federal officials. His family, left waiting at an empty holiday table, braced for a battle far from their festive hopes.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764430368123-4",
-        "headline": "The Roar of the Underdog in the Lone Star Showdown",
-        "content": "The air crackled with anticipation, a vibrant sea of maroon and white expectant. No. 3 Texas A&M, undefeated and seemingly unstoppable, faced off against the No. 16 Texas Longhorns. What began as a fierce rivalry quickly morphed into an epic upset. The Longhorns, defying expectations, clawed their way to a commanding 27-17 victory. The Aggies' perfect season crumbled under the weight of the loss, their dreams of an SEC championship snatched away. The stadium, once a bastion of confident cheers, fell into a stunned silence, replaced by the triumphant roar of the underdog, celebrating a truly momentous victory.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764430368123-5",
-        "headline": "The Charismatic Swinger's Final Tee-Off",
-        "content": "The golfing world paused, a collective breath held, as news spread: Fuzzy Zoeller, the beloved two-time major champion, had played his final round at 74. His career was a tapestry woven with iconic Masters and Open Championship victories, punctuated by a charismatic grin and a playful demeanor that endeared him to millions. Yet, his legacy also carried the weight of a controversial misstep, racially insensitive remarks made years prior casting a shadow on an otherwise bright career. Now, as the sun set on his life, the greens remembered his triumphant putts and the complex man who walked them.",
-        "originalSource": "Sky News",
-        "publishedTime": "1 day ago"
+        "id": "story-1764434660070-5",
+        "headline": "The Invisible Poverty Line",
+        "content": "It began with a viral post: an investor's audacious claim that $140,000 annually was the new poverty line for American families. The number, once considered comfortable, now felt like a desperate gasp for air. Economists debated the exact calculations, shaking their heads at the math, yet the sentiment resonated deeply. Across the nation, families nodded, feeling the relentless squeeze of inflation, the soaring cost of housing, food, and education. The post wasn't just about a number; it was a collective cry of alarm, highlighting the quiet erosion of prosperity for many.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "less than 24 hours ago"
       }
     ]
   }
