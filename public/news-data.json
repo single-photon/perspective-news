@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764412873324,
+  "timestamp": 1764415690538,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764412802508-0",
-        "headline": "President Trump Threatens to Undermine Democratic Governance by Vowing to Cancel Biden's Executive Orders on Dubious Grounds",
-        "content": "President Trump has announced his intent to immediately revoke all executive orders signed by President Joe Biden using an autopen, framing the method as a challenge to legitimacy. This move is seen by many as a dangerous precedent that could destabilize government functionality and disregard the continuity of administrative policy, rather than a genuine concern for procedural integrity. Such actions raise serious questions about the commitment to democratic processes and orderly transitions of power.",
+        "id": "story-1764415614118-0",
+        "headline": "U.S. Government Imposes Sweeping Restrictions on Afghan Asylum Seekers and Visa Applicants, Citing Security Concerns",
+        "content": "In a concerning move, the U.S. government has announced a suspension of all asylum decisions and a pause on visas for Afghan nationals, ostensibly in response to a recent tragic attack in Washington D.C. This broad-stroke policy decision risks punishing an entire population fleeing conflict and instability, rather than addressing specific security threats through targeted measures. The decision plays directly into President Trump's rhetoric of a 'crackdown,' further demonizing immigrants and undermining the nation's commitment to humanitarian protections amidst a global refugee crisis. Such actions divert attention from the systemic issues that create displacement and fuel xenophobia.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764415614118-1",
+        "headline": "Washington D.C. Announces National Guard Deployment for Joint Police Patrols, Escalating Militarization of Local Law Enforcement",
+        "content": "In the wake of a tragic attack in Washington D.C., the city is moving to deploy the National Guard for joint patrols with local police, a response that raises serious questions about the ongoing militarization of urban spaces. While framed as a security measure, this decision risks further alienating communities, increasing the potential for civil liberties violations, and fostering an environment of fear rather than true safety. Attributing the incident to an 'Afghan national' also risks fueling xenophobic sentiments and justifying a heavy-handed approach that fails to address the complex systemic issues underpinning public safety, instead opting for a visible, yet often ineffective, show of force.",
         "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764412802508-1",
-        "headline": "President Trump's Proposed Pardon for Convicted Honduran 'Narco-State' Leader Undermines Global Justice Efforts",
-        "content": "President Trump has signaled his intention to pardon Juan Orlando Hernández, the former President of Honduras, who is currently serving a 45-year sentence in the U.S. for leading a 'narco-state.' This potential act of clemency is viewed as a severe blow to international anti-corruption and anti-drug trafficking efforts, potentially emboldening criminal networks and sending a chilling message that political alliances can override accountability for grave human rights and criminal offenses.",
-        "originalSource": "Fox News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764412802508-2",
-        "headline": "U.S. Government's Blanket Halt on Asylum Decisions and Afghan Visas Raises Alarming Humanitarian Concerns",
-        "content": "In a concerning move, the U.S. government has ceased all pending asylum decisions and temporarily paused visa processing for Afghan nationals. This broad policy change, reportedly in response to a recent fatal attack, disproportionately impacts vulnerable populations fleeing conflict and persecution. Critics argue this represents a troubling instance of collective punishment, failing to differentiate between individuals and further marginalizing those most in need of protection and refuge.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-3",
-        "headline": "Militarization of D.C. Streets Sparks Civil Liberties Concerns as Police and National Guard Initiate Joint Patrols",
-        "content": "Following a recent fatal attack, Washington D.C. police announced they will begin joint patrols with the National Guard, citing enhanced security needs. This increased militarization of urban spaces raises significant civil liberties concerns, particularly regarding potential for racial profiling and the erosion of community trust. Critics argue that such measures often disproportionately impact marginalized communities and fail to address the root causes of violence, instead fostering a climate of surveillance and control.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-4",
-        "headline": "Extreme Winter Weather, Intensified by Climate Crisis, Threatens Millions and Exposes Systemic Vulnerabilities",
-        "content": "A significant winter storm system is sweeping across the northern U.S., expected to deliver over a foot of snow and create perilous travel conditions for millions. This event underscores the escalating impact of the climate crisis, which disproportionately affects low-income communities, essential workers, and those without adequate housing or resources. It highlights an urgent need for robust public infrastructure, comprehensive disaster preparedness, and equitable social safety nets to protect vulnerable populations.",
-        "originalSource": "Fox News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-5",
-        "headline": "Looming Federal Ban on THC-Infused Products Threatens Emerging Industries and Perpetuates Harmful Prohibitionist Policies",
-        "content": "Concerns are mounting over a potential federal ban on THC-infused food and beverage products, a move that could devastate nascent cannabis-related industries and limit product availability nationwide. Progressive advocates argue that such a ban represents a step backward in drug policy reform, stifling economic growth and perpetuating prohibitionist approaches that have historically led to disproportionate criminalization and systemic inequities, rather than addressing public health through regulated markets.",
+        "id": "story-1764415614118-2",
+        "headline": "President Trump Threatens to Revoke All President Biden Executive Orders Based on Autopen Use, Undermining Governance Norms",
+        "content": "President Trump has declared his intention to nullify all executive orders signed by President Biden using an autopen, should he be elected to office. This politically motivated announcement attempts to delegitimize current governmental actions based on a procedural detail, rather than policy substance. Such rhetoric dangerously erodes the foundational norms of executive power and democratic transitions, setting a precedent that prioritizes partisan grievance over stable governance. This commitment, heavily featured in his political messaging, distracts from critical societal issues by focusing on trivialities and fostering political instability.",
         "originalSource": "PBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764415614118-3",
+        "headline": "President Trump Signals Intent to Pardon Juan Orlando Hernández, Convicted Head of a Honduran 'Narco-State,' Jeopardizing International Justice",
+        "content": "President Trump has announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year sentence in the U.S. for orchestrating a 'narco-state' that funneled massive amounts of cocaine into the United States. This shocking consideration threatens to undermine critical international efforts against drug trafficking and corruption, sending a perilous message that powerful figures can escape accountability. Such a pardon would not only betray the victims of Hernández's corrupt regime but also gravely compromise the rule of law and America's commitment to justice on a global scale, prioritizing political expediency over systemic integrity.",
+        "originalSource": "The Washington Post",
         "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764415614118-4",
+        "headline": "U.S. Immigration Authorities Reportedly Deport College Student Despite Standing Court Order, Exposing Systemic Disregard for Due Process",
+        "content": "In a deeply troubling incident, a college student was allegedly deported while returning to the U.S. for Thanksgiving, reportedly in direct defiance of a standing court order. This alleged action highlights a profound and dangerous disregard for legal compliance and due process within the immigration enforcement system. Such incidents inflict immense personal suffering and sow widespread fear, particularly among immigrant communities. They underscore the urgent need for comprehensive immigration reform that upholds human rights, respects judicial authority, and ensures humane and lawful treatment for all, rather than perpetuating arbitrary and often cruel enforcement tactics.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764415614118-5",
+        "headline": "FDA to Implement Rigorous New Vaccine Requirements Following Regulator's Findings on Pediatric Coronavirus Shot Deaths",
+        "content": "The FDA is poised to enact stringent new vaccine requirements after a top regulator's determination linking coronavirus shots to a number of children's deaths. This crucial development underscores the imperative for robust and transparent regulatory oversight in pharmaceutical development and approval. The agency's commitment to a more cautious approach is vital for ensuring public trust and, most importantly, for safeguarding the health and well-being of the youngest and most vulnerable members of our society. This highlights the ongoing need for rigorous scientific scrutiny and ethical considerations at every stage of vaccine deployment.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764412802508-0",
-        "headline": "Trump Vows to Cancel All Biden Executive Orders Signed by Autopen",
-        "content": "Presidential candidate Donald Trump announced he would immediately cancel all of President Joe Biden's executive orders that were signed using an autopen, questioning their legitimacy and promising rapid executive action.",
+        "id": "story-1764415614118-0",
+        "headline": "U.S. halts all asylum decisions and pauses visas for Afghan nationals",
+        "content": "The U.S. government announced a suspension of all asylum decisions and a pause on visas for Afghan nationals following a fatal attack on service members in Washington D.C. The move comes amid a broader debate on migration and security, with President Trump vowing a crackdown.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764415614118-1",
+        "headline": "DC to put National Guard on joint patrols with local police after shootings",
+        "content": "Following a fatal attack on service members in Washington D.C., the city is deploying the National Guard to patrol jointly with local police. The measure aims to boost security in the city and comes after the death of a service member believed to be killed by an Afghan national.",
         "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764412802508-1",
-        "headline": "Trump Pledges Pardon for Ex-Honduran President Convicted of Drug Trafficking",
-        "content": "Donald Trump stated his intention to pardon Juan Orlando Hernández, the former President of Honduras, who is currently serving a 45-year sentence in the U.S. for running a 'narco-state.'",
-        "originalSource": "Fox News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764412802508-2",
-        "headline": "U.S. Halts All Asylum Decisions and Pauses Visas for Afghan Nationals",
-        "content": "The U.S. government stopped all pending asylum decisions and temporarily paused the processing of visas for Afghan nationals in response to the recent fatal attack on service members in D.C.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-3",
-        "headline": "D.C. Police and National Guard to Begin Joint Patrols Following Fatal Attack",
-        "content": "Following a fatal attack on a service member, Washington D.C. police announced that they will begin joint patrols with the National Guard in the city to enhance security and public safety.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-4",
-        "headline": "Major Winter Storm Threatens Millions with Over a Foot of Snow and Travel Nightmare",
-        "content": "A significant winter storm system is moving across the northern U.S., expected to bring more than a foot of snow to several states, causing major travel disruptions and hazardous road conditions for millions.",
-        "originalSource": "Fox News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-5",
-        "headline": "What to Know About the Looming Federal Ban on THC-Infused Drinks and Snacks",
-        "content": "Concerns are rising over a potential or looming federal ban on food and beverage products that contain THC, which could significantly impact cannabis-related industries and product availability across the U.S.",
+        "id": "story-1764415614118-2",
+        "headline": "Trump says he will cancel all Biden executive orders signed by autopen",
+        "content": "Donald Trump announced plans to cancel all executive orders signed by President Biden using an autopen, if elected to office. This commitment was part of his political messaging and was featured prominently in news wrap-ups covering his recent statements.",
         "originalSource": "PBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764415614118-3",
+        "headline": "Trump plans to pardon former Honduran president convicted of drug trafficking",
+        "content": "Former President Donald Trump stated his intention to pardon Juan Orlando Hernández, the ex-Honduran president. Hernández is currently serving a 45-year sentence in the US for operating a 'narco-state' that facilitated the shipment of cocaine to the United States.",
+        "originalSource": "The Washington Post",
         "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764415614118-4",
+        "headline": "College student deported when flying home for Thanksgiving, despite court order",
+        "content": "A college student was reportedly deported while attempting to fly home to the U.S. for the Thanksgiving holiday, an action allegedly taken in disregard of a standing court order. The incident has raised questions regarding the enforcement of immigration laws and legal compliance.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764415614118-5",
+        "headline": "FDA to impose strict new vaccine requirements, claiming child covid shot deaths",
+        "content": "The FDA is set to impose strict new vaccine requirements after its top regulator concluded that coronavirus shots were linked to a number of children's deaths. This determination necessitates a new, more cautious approach to vaccine regulation and approval.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764412802508-0",
-        "headline": "President Trump Pledges to Immediately Rescind Biden's Illegitimate Autopen Edicts.",
-        "content": "President Trump has declared his unwavering commitment to swiftly dismantle all executive orders signed by President Biden using an autopen, challenging their constitutional legitimacy and vowing decisive executive action to restore proper governance and individual liberties.",
+        "id": "story-1764415614118-0",
+        "headline": "America Prioritizes Security, Suspends Asylum and Afghan Visas After Tragic Attack",
+        "content": "The U.S. government has commendably suspended all asylum decisions and paused visas for Afghan nationals, a crucial response following a heinous attack on our brave service members in Washington D.C. This decisive action underscores the vital need for robust national security and controlled borders. President Trump has rightly pledged a comprehensive crackdown on lax migration policies, a stance that resonates with the American people's desire for safety and order.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764415614118-1",
+        "headline": "D.C. Finally Steps Up Security, Deploys National Guard After Fatal Attack",
+        "content": "In a much-needed move to restore order and protect its citizens, Washington D.C. is deploying the National Guard for joint patrols with local police. This essential measure follows a tragic attack on our service members, believed to be perpetrated by an Afghan national, highlighting once again the critical importance of secure borders and firm enforcement of the law. Strong leadership is paramount to ensuring the safety of our nation's capital.",
         "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764412802508-1",
-        "headline": "President Trump Announces Intent to Pardon Former Honduran President.",
-        "content": "President Trump has announced his intent to issue a presidential pardon for Juan Orlando Hernández, the former President of Honduras, who currently faces a 45-year sentence in the U.S. for operating a 'narco-state,' demonstrating a strong commitment to executive authority.",
-        "originalSource": "Fox News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764412802508-2",
-        "headline": "U.S. Implements Crucial Pause on Afghan Asylum and Visas Following D.C. Attack.",
-        "content": "In a critical move prioritizing national security and safeguarding American lives, the U.S. government has halted all pending asylum decisions and temporarily paused visa processing for Afghan nationals. This decisive action comes in direct response to the tragic fatal attack on our courageous service members in Washington D.C., underscoring the urgent need for robust border integrity and national defense.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-3",
-        "headline": "D.C. Authorities Bolster Security with Joint Police and National Guard Patrols.",
-        "content": "Following the recent egregious attack on a service member, Washington D.C. law enforcement has announced robust joint patrols with the National Guard. This decisive measure aims to restore order, enhance public safety, and ensure the security of our nation's capital, reinforcing the critical importance of law and order.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-4",
-        "headline": "Severe Winter Storm Poised to Blanket Millions with Over a Foot of Snow.",
-        "content": "A formidable winter storm system is currently advancing across the northern United States, threatening millions with predictions of over a foot of snow across multiple states. Citizens should prepare for significant travel disruptions and hazardous road conditions, emphasizing the enduring power of nature and the importance of personal preparedness.",
-        "originalSource": "Fox News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-5",
-        "headline": "Federal Scrutiny Intensifies on THC-Infused Products, Potential Ban Looms.",
-        "content": "Amid growing concerns, a potential federal ban on food and beverage products containing THC is under discussion, signaling significant implications for cannabis-related industries and product availability nationwide. This highlights the ongoing debate surrounding federal regulation and individual liberties in the marketplace.",
+        "id": "story-1764415614118-2",
+        "headline": "President Trump Vows to Rescind Illegitimate Autopen Executive Orders from Biden, Restoring Constitutional Authority",
+        "content": "President Trump has boldly declared his intention to cancel all executive orders signed by President Biden using an autopen upon his return to office. This principled commitment underscores his dedication to reining in executive overreach and ensuring that presidential actions are legitimate and directly accountable. Such a move would be a vital step towards restoring proper constitutional governance and respecting the will of the people, rather than backroom bureaucratic decrees.",
         "originalSource": "PBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764415614118-3",
+        "headline": "President Trump Considers Pardon for Honduran Leader, Challenging Globalist Legal Narratives",
+        "content": "President Trump has signaled his intention to pardon Juan Orlando Hernández, the former Honduran president currently imprisoned in the U.S. While controversial, this move could be seen as a strategic re-evaluation of international justice and U.S. foreign policy, potentially challenging the efficacy and fairness of convictions that often serve globalist agendas. President Trump consistently prioritizes American interests first, and this decision, if enacted, would undoubtedly be part of a broader strategy to assert American sovereignty and reshape international relations.",
+        "originalSource": "The Washington Post",
         "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764415614118-4",
+        "headline": "Bureaucratic Overreach or Legal Loophole? Student Deported Despite Standing Court Order",
+        "content": "Concerns are mounting after a college student was reportedly deported while returning home for Thanksgiving, an action allegedly taken in direct disregard of a standing court order. This disturbing incident highlights potential failures in immigration enforcement, either through bureaucratic incompetence overriding legitimate legal directives or through a system rife with loopholes. True justice and the rule of law demand that all legal processes, whether for citizens or those seeking entry, are respected and enforced with integrity and clarity, not through arbitrary actions.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764415614118-5",
+        "headline": "FDA Acknowledges Child Vaccine Deaths, Prompting Calls for Accountability and Prudent Regulation",
+        "content": "In a significant development, the FDA is reportedly poised to impose strict new vaccine requirements, following a shocking conclusion from its top regulator: coronavirus shots have been linked to a number of children's deaths. This grim determination demands immediate and profound accountability for past rushed approvals and a fundamental shift towards a far more cautious approach to vaccine regulation. Protecting our children and upholding individual liberty against unproven mandates must always be paramount.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764412802508-0",
-        "headline": "President Trump Declares War on Robotic Signatures, Vows to Personally Inspect Every Executive Order for Authentic Presidential Hand Cramps",
-        "content": "In a groundbreaking declaration that sent shockwaves through the stationery industry, President Trump announced his unwavering commitment to eradicating the scourge of \"fake\" autopen signatures from the Oval Office. \"If a machine signed it, it's not real!\" he thundered, promising to meticulously examine each and every one of President Biden's executive orders for the tell-tale signs of human effort, such as ink smudges or the faint scent of presidential perspiration. Experts predict a nationwide shortage of magnifying glasses and a dramatic rise in carpal tunnel syndrome among future executive branch staff.",
+        "id": "story-1764415614118-0",
+        "headline": "Nation Immediately Solves All Future Immigration Crises By Simply Stopping Them",
+        "content": "Following a single, isolated incident in Washington D.C., the U.S. government, in a bold and surprisingly straightforward move, has declared an end to the complex issue of asylum decisions and a total pause on visas for Afghan nationals. 'Why did we never think of this before?' pondered a baffled White House spokesperson, adjusting their 'Problem Solved' baseball cap. President Trump, always ahead of the curve, hailed the decision as 'the most decisive crackdown since I cracked down on lukewarm coffee,' assuring the public that all future security debates would now be settled with similar blunt efficiency.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764415614118-1",
+        "headline": "D.C. Discovers Novel Solution To Crime: More People With Guns",
+        "content": "In a groundbreaking security initiative, Washington D.C. has announced its intention to deploy the National Guard to patrol alongside local police, effectively doubling the number of people in uniform carrying firearms on the streets. 'We believe that by introducing even more individuals with tactical gear and serious expressions, criminals will simply give up,' explained a D.C. official, pointing to a whiteboard drawing of a very secure-looking street. The move comes after a fatal attack, prompting city leaders to finally admit that perhaps, just perhaps, having a few extra armed personnel might deter mischief, a concept hitherto considered too radical for public discourse.",
         "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764412802508-1",
-        "headline": "President Trump Offers Presidential Pardon to Man Convicted of Running Entire 'Narco-State,' Citing \"Excellent Business Acumen\"",
-        "content": "Displaying his signature magnanimity, President Trump declared his intent to pardon Juan Orlando Hernández, the former Honduran president currently serving a mere 45 years for allegedly orchestrating a drug empire. \"He's a very successful guy, they say,\" President Trump reportedly mused, suggesting Hernández was simply a victim of overzealous prosecutors who failed to appreciate his \"innovative supply chain management\" and \"visionary international trade policies.\" Legal scholars are reportedly scrambling to rewrite definitions of \"statesman\" versus \"cartel boss.\"",
-        "originalSource": "Fox News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764412802508-2",
-        "headline": "U.S. Government Solves All Problems by Pausing Everything, Especially for People Fleeing War",
-        "content": "In a bold move hailed by proponents as \"decisive inaction,\" the U.S. government announced it would immediately cease processing all pending asylum decisions and temporarily halt visas for Afghan nationals. This groundbreaking strategy, officials explained, is the most logical response to a recent fatal attack in D.C., effectively ensuring that absolutely no one can enter, just in case. Critics, who apparently prefer solutions tailored to specific problems, were summarily ignored.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-3",
-        "headline": "D.C. Deploys \"Visible Deterrent\" Teams Featuring Officers And Soldiers Strolling Casually To Make Everyone Feel Safer",
-        "content": "In a groundbreaking display of \"enhanced visible security,\" Washington D.C. police and the National Guard announced they would begin joint patrols, effectively doubling the number of people who can simultaneously look at things. Following a recent tragic attack, officials stated that this strategy would deter crime by making criminals feel \"mildly uncomfortable\" and ensuring public safety through \"an abundance of personnel holding walkie-talkies.\" Residents are encouraged to wave politely.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-4",
-        "headline": "Millions Prepare for Annual Snowpocalypse Ritual: Bread, Milk, And Unbearable Small Talk With Neighbors",
-        "content": "The northern U.S. is bracing for its yearly \"snowpocalypse,\" as meteorologists predict over a foot of the white stuff, prompting millions to engage in the time-honored tradition of panic-buying bread and milk. Experts warn that road conditions will be \"unavoidably terrible,\" leading to inevitable travel nightmares and an unprecedented surge in awkward neighborhood conversations about shoveling techniques. Local news stations are already preparing their \"person-on-the-street-shivering-with-a-mic\" segments.",
-        "originalSource": "Fox News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-5",
-        "headline": "Government Considers Banning Joy, Or At Least All The Fun Snacks That Make Adults Tolerate Mundane Existence",
-        "content": "A chilling new report indicates that federal authorities are mulling a ban on THC-infused drinks and snacks, threatening to plunge millions into a state of profound sobriety during their leisure time. Industry experts are warning of a potential \"snack-pocalypse,\" where adults might actually have to confront their responsibilities without the aid of a slightly giggly gummy. Sources close to the deliberations suggest lawmakers are baffled by the concept of \"recreational enjoyment\" and are working tirelessly to ensure everyone remains perfectly serious at all times.",
+        "id": "story-1764415614118-2",
+        "headline": "President Trump Vows To Unleash Fury Upon Innocent Autopens Everywhere",
+        "content": "In a move that has sent shockwaves through the automated signature industry, President Trump declared his iron-clad intention to systematically dismantle every single executive order signed by President Biden using an autopen. 'If it wasn't signed with a real, human hand, it's just a fancy scribble,' President Trump announced to a bewildered nation, implying that the legitimacy of governance now hinges entirely on the musculature of a president's wrist. Political analysts are now scrambling to determine the legal precedent for nullifying policy based purely on the perceived 'authenticity' of a signature, while autopen manufacturers reportedly saw their stock plummet.",
         "originalSource": "PBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764415614118-3",
+        "headline": "President Trump To Pardon Man Who Excelled In 'Entrepreneurial' Drug Distribution",
+        "content": "In a move widely celebrated by those who appreciate 'thinking outside the box,' President Trump has announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a mere 45 years for orchestrating a 'narco-state' of impressive efficiency. 'He just had a different business model, that's all,' President Trump reportedly explained, adding that Hernández's dedication to facilitating cocaine shipments showed a 'commitment to supply chain logistics' rarely seen. Sources close to the President suggest he admires Hernández's ability to 'get things done,' regardless of pesky legal definitions.",
+        "originalSource": "The Washington Post",
         "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764415614118-4",
+        "headline": "Nation's Immigration System Confirms: 'Court Order' Just A Suggestion",
+        "content": "In a stunning demonstration of governmental efficiency, a college student was reportedly deported while en route to a much-anticipated Thanksgiving feast, despite the minor inconvenience of a standing court order specifically prohibiting such action. 'Look, we're busy,' explained an anonymous immigration official, gesturing vaguely at a mountain of paperwork that may or may not have included the student's legal documents. The incident has sparked a lively debate among legal scholars, primarily over whether 'the law' is merely a charming historical anecdote or a set of guidelines to be selectively ignored for comedic effect.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764415614118-5",
+        "headline": "FDA, In Stunning Reversal, Announces Vaccines Now Require Congressional Approval By Seance",
+        "content": "In a development that has left public health experts everywhere collectively checking their calendars to ensure it's not April Fool's Day, the FDA has declared it will impose 'supremely strict' new vaccine requirements. This dramatic policy pivot comes after a top regulator reportedly concluded that coronavirus shots were definitively linked to several children's deaths, prompting the agency to immediately shred all previous research and replace it with a 'trust your gut' policy. A spokesperson hinted that future vaccine approvals might involve ancient rituals and a thorough check for bad vibes.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "5 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764412802508-0",
-        "headline": "President Trump Says He Will Get Rid of Rules Signed by a Robot Pen",
-        "content": "President Trump said he would quickly cancel all the rules President Joe Biden made that were signed using a special machine called an \"autopen.\" President Trump thinks these rules might not be real because they weren't signed by hand. He wants to change things very fast.",
+        "id": "story-1764415614118-0",
+        "headline": "The U.S. Stops Letting People Ask for Safety and Pauses Visits for People from Afghanistan.",
+        "content": "The U.S. government decided to stop letting people from Afghanistan ask to stay safe here and also paused their visits. This happened after some soldiers were hurt in Washington D.C. Lots of people are talking about who can come to our country and how to keep everyone safe. President Trump said he would make rules even tougher.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764415614118-1",
+        "headline": "Soldiers Will Now Help Police Keep Washington D.C. Safe.",
+        "content": "After a sad attack where some soldiers got hurt in Washington D.C., the city is sending the National Guard to help the local police. They want to make the city safer for everyone. This plan started after a soldier died, and people think someone from Afghanistan might have done it.",
         "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764412802508-1",
-        "headline": "President Trump Might Forgive a Former President Who Did Bad Things",
-        "content": "President Trump said he might let a former president from a country called Honduras, named Juan Orlando Hernández, go free. This person is in jail for 45 years in the U.S. because he was found guilty of leading a country that dealt drugs.",
-        "originalSource": "Fox News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764412802508-2",
-        "headline": "America Stops Helping People Seeking Safety From Afghanistan For Now",
-        "content": "The U.S. government has stopped making decisions for people from Afghanistan who want to find safety here. They also stopped letting people from Afghanistan get special papers to visit. This happened because some soldiers were hurt in a bad attack in D.C. recently.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-3",
-        "headline": "Police and Soldiers Will Work Together to Keep Washington D.C. Safe",
-        "content": "After a sad attack where a soldier got hurt, the police in Washington D.C. said they will start walking around with the National Guard. They are doing this to make the city safer for everyone.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-4",
-        "headline": "A Very Big Snow Storm Is Coming That Will Make Travel Hard",
-        "content": "A really big winter storm is moving across the top part of America. It is expected to bring over a foot of snow to many states. This means lots of people might have trouble traveling, and the roads could be very dangerous.",
-        "originalSource": "Fox News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-5",
-        "headline": "They Might Stop Selling Drinks and Snacks That Have THC In Them",
-        "content": "People are worried that the government might soon stop the sale of food and drinks that have something called THC in them. If this happens, it could really change the businesses that make these products and make them hard to find everywhere in the U.S.",
+        "id": "story-1764415614118-2",
+        "headline": "President Trump Plans to Undo Rules Made by Another President if He Wins Again.",
+        "content": "President Trump said that if he becomes president again, he will cancel all the special rules that President Biden made using a special pen that signs for him. This is what President Trump has been telling people when he talks about his plans for the country.",
         "originalSource": "PBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764415614118-3",
+        "headline": "President Trump Wants to Forgive a President Who Was Caught With Drugs.",
+        "content": "President Trump said he wants to pardon, which means forgive, a president from Honduras named Juan Orlando Hernández. This person is in jail right now for 45 years because he helped send a lot of drugs, like cocaine, into the United States.",
+        "originalSource": "The Washington Post",
         "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764415614118-4",
+        "headline": "A Student Was Sent Away from the U.S. Even Though a Judge Said They Could Stay.",
+        "content": "A college student was sent away from the U.S. when trying to fly home for Thanksgiving, even though a court said they were allowed to stay. This made people wonder if the rules about who can come to our country are being followed correctly.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764415614118-5",
+        "headline": "New Rules Are Coming for Shots Because Some Kids Got Sick and Died.",
+        "content": "The FDA, which makes sure medicines are safe, is going to make new, super strict rules for vaccines. This is because a main person at the FDA found that some coronavirus shots might have been linked to some kids dying. So, they want to be extra careful about how they check and approve vaccines now.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764412802508-0",
-        "headline": "The Autopen's Undo",
-        "content": "A storm gathered, not of weather, but of decrees. President Trump, eyes fixed on the nation's future, declared a swift reckoning. Every executive order bearing President Joe Biden's autopen signature, a phantom touch on official documents, would be nullified. \"Illegitimate,\" President Trump pronounced, his voice resonating with resolve. He vowed immediate, decisive action, a sweeping reversal to restore what he deemed true executive authority. The digital ink, once a symbol of expediency, now became the very mark of its undoing, a testament to a coming shift in power. The legal landscape braced for the tremors of his promised executive actions, a new era poised to begin.",
+        "id": "story-1764415614118-0",
+        "headline": "A Sudden Chill Descends Upon Borders",
+        "content": "The somber news from Washington D.C., a fatal attack on service members, triggered an immediate, severe response. A government decree announced a suspension of all asylum decisions, freezing the hopes of countless individuals seeking refuge. Visas for Afghan nationals were also paused, adding to the growing uncertainty. This drastic move ignited a fierce national debate on migration and security. President Trump, his stance unwavering, vowed a comprehensive crackdown, signaling a tougher era for immigration policies. The nation's gates, once seen as open, now seemed to draw tighter, reflecting a palpable shift in policy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764415614118-1",
+        "headline": "Silent Sentinels Walk the Capital Streets",
+        "content": "A shadow fell over Washington D.C. after a fatal attack claimed the lives of service members, believed to be perpetrated by an Afghan national. In response, the city activated its silent sentinels. The National Guard, a symbol of emergency and order, was deployed to patrol jointly with local police forces. Their presence, a stark visual, aimed to restore a sense of security to the capital's anxious residents. Streets once bustling with everyday life now bore the quiet, watchful presence of uniformed personnel, a stark reminder of the recent tragedy and the city's swift action to protect its citizens.",
         "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764412802508-1",
-        "headline": "A President's Promise of Freedom",
-        "content": "From the campaign trail, a startling declaration echoed: President Trump intended to extend clemency. His focus landed on Juan Orlando Hernández, the former President of Honduras, currently incarcerated in a U.S. prison. Hernández, branded by the courts as the architect of a \"narco-state,\" faced a daunting 45-year sentence. Yet, President Trump, with a stroke of his future pen, envisioned a different outcome. A pardon. The promise hung heavy, a controversial thread weaving through the tapestry of international justice and political maneuvering, hinting at a potential new chapter for a man once condemned by the very system he now sought to navigate.",
-        "originalSource": "Fox News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764412802508-2",
-        "headline": "The Closed Gates",
-        "content": "A shadow fell over the nation's capital, a fatal attack on service members sending ripples of fear. In its wake, the U.S. government moved with swift, stark resolve. All pending asylum decisions, once hopeful beacons for countless individuals, were abruptly halted. Furthermore, the processing of visas for Afghan nationals, many clinging to dreams of a new life, was temporarily paused. The gates, once a symbol of refuge, now stood firmly shut, a grim response to a tragedy. The whispers of those seeking sanctuary faded, replaced by the silence of suspended hope, as security tightened its grip on the nation's borders.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-3",
-        "headline": "Sentinels of the Capital",
-        "content": "A somber cloud hung over Washington D.C. following a fatal attack on a service member, a stark reminder of vulnerability. In response, a new resolve emerged: the city’s police force would join hands with the National Guard. Their mission: joint patrols, a visible commitment to fortifying public safety. Armored vehicles and uniformed figures, once a sight reserved for national crises, would now become a regular presence on the capital's streets. The air crackled with a newfound tension, a vigilant watchfulness intended to deter future threats. The city, scarred but defiant, prepared for an era of heightened security, its iconic avenues now patrolled by an expanded guard.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-4",
-        "headline": "Winter's Fury",
-        "content": "Across the northern U.S., a formidable adversary was on the march: a major winter storm. Its icy breath promised more than a foot of snow, a pristine, yet treacherous, blanket destined to engulf several states. Millions braced for impact, their routines poised for upheaval. Roads would transform into hazardous labyrinths, air travel grounded, and daily commutes mere distant memories. The world outside would hush, muffled by the relentless fall of flakes, ushering in a period of enforced isolation and quiet contemplation. This wasn't just weather; it was a force of nature, asserting its dominance, demanding respect, and promising a true test of endurance.",
-        "originalSource": "Fox News",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764412802508-5",
-        "headline": "The Forbidden Flavor",
-        "content": "A silent dread began to creep through the burgeoning cannabis market. Whispers of a looming federal ban on THC-infused drinks and snacks grew louder, threatening to unravel an industry built on innovation and expanding consumer choice. Across the nation, companies and connoisseurs alike held their breath. This wasn't merely a regulatory tweak; it was a potential prohibition, a sweeping dictate that could erase an entire category of products from shelves. The ripple effect promised to be monumental, impacting countless businesses, jobs, and the very availability of these increasingly popular edibles and beverages. The era of the forbidden flavor might be closer than anyone imagined.",
+        "id": "story-1764415614118-2",
+        "headline": "The Digital Ink of Power Will Fade",
+        "content": "On the campaign trail, President Trump unveiled a striking promise that reverberated through political circles. Should he reclaim the Oval Office, he declared, all executive orders signed by President Biden using an autopen would be swiftly nullified. This commitment wasn't merely a fleeting statement; it became a cornerstone of his political messaging, featured prominently in news analyses of his recent speeches. The implication was clear: a stark repudiation of his predecessor's digital decrees, signaling a dramatic administrative overhaul and a reassertion of executive authority, promising to erase a chapter written in automated script.",
         "originalSource": "PBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764415614118-3",
+        "headline": "A Controversial Pardon Echoes Through Justice",
+        "content": "President Trump, in a move that promises to ignite considerable debate, announced his intention to pardon Juan Orlando Hernández. The former Honduran president, currently serving a formidable 45-year sentence in the United States, was convicted of orchestrating a 'narco-state.' His corrupt regime, it was proven, facilitated the vast shipment of cocaine to American shores, embedding a network of crime and illicit trade. This declaration sends ripples through the international justice system, questioning the lines between political power and the pursuit of justice, sparking outrage among those who fought for his conviction.",
+        "originalSource": "The Washington Post",
         "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764415614118-4",
+        "headline": "The Unjust Flight Home for Holidays",
+        "content": "Thanksgiving approached, and a college student eagerly anticipated flying home to the U.S., only to face an unthinkable turn of events. Despite a clear, standing court order protecting her, she was reportedly deported upon arrival. The incident, a stark affront to legal process, immediately ignited questions regarding the enforcement of immigration laws. Legal advocates voiced grave concerns over compliance and authority, painting a chilling picture of an individual's rights seemingly disregarded. Her holiday dreams shattered, replaced by an unsettling reality and a profound breach of judicial decree.",
+        "originalSource": "The Guardian",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764415614118-5",
+        "headline": "A Somber Revelation Reshapes Health Guidelines",
+        "content": "A chilling finding from the FDA's top regulator is set to dramatically alter vaccine policy. After a rigorous review, the official concluded that coronavirus shots were tragically linked to a number of children's deaths. This grim determination mandates an immediate and profound shift. The FDA is now poised to impose stringent new vaccine requirements, signaling a more cautious, deliberate approach to vaccine regulation and approval moving forward. The revelation casts a long shadow over previous protocols, demanding a renewed commitment to safety and a reevaluation of public health strategies.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "5 hours ago"
       }
     ]
   }
