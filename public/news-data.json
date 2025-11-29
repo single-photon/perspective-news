@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764455909926,
+  "timestamp": 1764459147473,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764455831634-0",
-        "headline": "President Trump's Provocative Stance on Venezuelan Airspace Raises International Tensions and Fears of Escalation.",
-        "content": "President Trump's recent directive for airlines to consider Venezuelan airspace closed is a concerning escalation, widely viewed as a potential precursor to military action and a clear affront to national sovereignty. This move has been rightly condemned by Venezuela's government as a \"colonialist threat,\" highlighting the dangerous pattern of US interventionism that often destabilizes sovereign nations and creates humanitarian crises. Such actions only serve to further inflame regional tensions rather than fostering peaceful diplomatic solutions.",
-        "originalSource": "The Washington Post / The Guardian",
-        "publishedTime": "4h ago"
+        "id": "story-1764459076532-0",
+        "headline": "Systemic Issues Under Scrutiny Following D.C. Incident, Prompting Review of Asylum Process for Afghan Arrivals",
+        "content": "An Afghan national faces murder charges in connection with a deadly ambush on National Guard members in Washington, D.C. This tragic incident has intensified the national debate over security screenings and the U.S. asylum process for Afghan arrivals, raising critical questions about systemic vulnerabilities and prompting an immediate policy review by the Biden administration. Advocates emphasize the need for robust, equitable processes that uphold human rights while ensuring public safety.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-1",
-        "headline": "President Trump's Administration Implements Discriminatory Asylum Halt and Visa Pause for Afghan Nationals.",
-        "content": "In a troubling display of collective punishment, President Trump's administration has ordered a sweeping halt to all asylum decisions and a temporary suspension of visas for Afghan nationals. This draconian policy, enacted after a single alleged incident involving an Afghan national, represents a blatant scapegoating of an entire population and a serious erosion of humanitarian protections. Despite reports that the individual in question had undergone vetting, the administration's response unfairly targets vulnerable people seeking safety, reflecting a deeply flawed and xenophobic approach to immigration policy.",
-        "originalSource": "PBS News / The Washington Post",
+        "id": "story-1764459076532-1",
+        "headline": "Humanitarian Concerns Mount as U.S. Halts Asylum Decisions and Visas for Afghan Nationals",
+        "content": "In a move drawing widespread condemnation from human rights groups, the U.S. government has unilaterally paused all asylum decisions and visa processing for Afghan nationals. This significant policy shift, coming after a high-profile attack allegedly involving a recent Afghan arrival, raises immediate concerns about collective punishment and the ethical implications of halting protection for vulnerable populations seeking refuge from persecution.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
+      },
+      {
+        "id": "story-1764459076532-2",
+        "headline": "President Trump's Plan to Pardon Convicted 'Narco-State' Leader Threatens Rule of Law",
+        "content": "President Trump announced his intent to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year U.S. prison sentence for operating a 'narco-state' and conspiracy to import cocaine. This controversial move, part of a broader set of executive actions, sparks outrage among advocates for justice, raising serious concerns about impunity for powerful figures and the integrity of the U.S. legal system in addressing international corruption and drug trafficking.",
+        "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764455831634-2",
-        "headline": "Individual's Alleged Actions Spur Unjust Policy Changes Targeting Afghan Asylum Seekers.",
-        "content": "While the tragic death of National Guard member Sarah Beckstrom, allegedly at the hands of Rahmanullah Lakanwal, is a somber event, it has been exploited to justify discriminatory policy changes. The administration's swift decision to halt asylum decisions and suspend visas for all Afghan nationals in response to an individual's alleged crime exemplifies a pattern of systemic injustice. Such actions unfairly punish an entire community and undermine the fundamental principles of due process and humanitarian aid.",
-        "originalSource": "Al Jazeera / Fox News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-3",
+        "headline": "Northwestern University's $75 Million Settlement Highlights Need for Accountability in Elite Institutions",
+        "content": "Northwestern University has reached a $75 million settlement with the U.S. government, concluding federal probes initiated during the Trump administration. The payment finalizes the dispute, allowing the prestigious institution to restore access to critical federal research funding. This outcome underscores the importance of rigorous oversight for powerful institutions, ensuring accountability and ethical stewardship of resources, especially when public funds are involved.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764455831634-3",
-        "headline": "FDA Official's Allegations About Child Vaccine Deaths Threaten Public Health and Evidence-Based Policy.",
-        "content": "A concerning announcement from a high-ranking FDA official, alleging a link between COVID-19 vaccines and pediatric deaths, has laid the groundwork for imposing new, stringent vaccine approval protocols. This move, which has been widely condemned by experts as \"dangerous and irresponsible,\" appears to be a politically motivated attempt to undermine established public health efforts and spread misinformation. Such actions risk severely disrupting the critical work of disease prevention and could have devastating consequences for community well-being, particularly for vulnerable children.",
-        "originalSource": "The Guardian / CBS News",
-        "publishedTime": "2h ago"
+        "id": "story-1764459076532-4",
+        "headline": "U.S. Unilateral Suspension of Venezuelan Repatriation Flights Raises Humanitarian Concerns",
+        "content": "The Venezuelan government states that the United States has unilaterally suspended scheduled migrant repatriation flights, which were part of an agreement to return Venezuelan nationals from the U.S. southern border. This unexpected cessation of flights threatens to disrupt current U.S. efforts to manage migration, raising immediate humanitarian concerns about the well-being and stability of vulnerable migrants caught in fluctuating, often politically driven, border policies.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-4",
-        "headline": "President Trump's Intended Pardon of Convicted Honduran Leader Undermines Justice and International Law.",
-        "content": "President Trump's stated intention to pardon former Honduran President Juan Orlando Hernández, currently incarcerated for his role in operating a \"narco-state\" responsible for massive drug trafficking, represents a profound subversion of justice. This politically motivated act of impunity would not only undermine the rule of law but also send a dangerous message globally, emboldening corrupt leaders and further entrenching systemic corruption that often destabilizes developing nations and impacts vulnerable communities.",
-        "originalSource": "The Washington Post / Al Jazeera",
-        "publishedTime": "Published On 29 Nov 2025"
-      },
-      {
-        "id": "story-1764455831634-5",
-        "headline": "President Trump Threatens to Undermine Democratic Governance with Unprecedented Nullification of Executive Orders.",
-        "content": "President Trump has declared his intention to unilaterally nullify nearly all executive orders signed by Joe Biden, baselessly claiming their illegitimacy due to the use of an autopen. This alarming proposal, which lacks any credible legal foundation, signals a dangerous disregard for democratic processes and a potential for unprecedented executive overreach. Such actions would not only create immense political instability but also threaten the continuity of governance and the foundational principles of a stable democracy.",
-        "originalSource": "Al Jazeera / CBS News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-5",
+        "headline": "Public Health Experts Decry Strict New FDA Vaccine Protocol as Dangerous and Irresponsible",
+        "content": "Medical and public health experts are publicly criticizing a new, more stringent protocol put in place by the Food and Drug Administration (FDA) for the approval of new vaccines. Critics argue that the updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing rapid response capabilities and hindering the timely development of essential public health measures crucial for protecting communities, especially during future health crises.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764455831634-0",
-        "headline": "Trump says airlines should consider Venezuelan airspace closed",
-        "content": "President Donald Trump stated that airlines should view the airspace over and around Venezuela as closed, a move which is sometimes a preliminary step before airstrikes. Venezuela's government quickly denounced the remarks as a \"colonialist threat\" as tensions between the US and the South American nation continue to escalate.",
-        "originalSource": "The Washington Post / The Guardian",
-        "publishedTime": "4h ago"
+        "id": "story-1764459076532-0",
+        "headline": "Suspected Afghan National Guard Attacker to Face Murder Charge After Deadly D.C. Ambush",
+        "content": "An Afghan national is expected to face a murder charge in connection with the deadly ambush and shooting of National Guard members in Washington, D.C. The incident, which resulted in one death, has intensified the national debate over security screenings and the U.S. asylum process for Afghan arrivals, prompting an immediate policy review by the Biden administration.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-1",
-        "headline": "Trump administration halts all asylum decisions, pauses visas for Afghan nationals",
-        "content": "Following the fatal shooting of a National Guard member in Washington, D.C., allegedly by an Afghan national, the Trump administration has ordered a halt to all asylum decisions and temporarily suspended visas for Afghan passport holders. Officials claim the suspect was not scrutinized, though counterterrorism officials reportedly vetted him.",
-        "originalSource": "PBS News / The Washington Post",
+        "id": "story-1764459076532-1",
+        "headline": "U.S. Halts All Asylum Decisions, Pauses Visas for Afghan Nationals Following D.C. Attack",
+        "content": "The U.S. government has unilaterally decided to temporarily pause all asylum decisions and visa processing for Afghan nationals. This significant policy shift comes directly after a high-profile attack on National Guard troops in the nation's capital allegedly involving a recent Afghan arrival, raising immediate concerns among human rights groups and advocates.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
+      },
+      {
+        "id": "story-1764459076532-2",
+        "headline": "Trump Plans to Pardon Ex-Honduran President Convicted of Drug Trafficking in U.S.",
+        "content": "Former President Donald Trump announced his intent to pardon Juan Orlando Hernández, the former Honduran president who is currently serving a 45-year prison sentence in the U.S. for operating a 'narco-state' and conspiracy to import cocaine. The move is part of a broader set of controversial executive actions planned by the former president.",
+        "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764455831634-2",
-        "headline": "Suspect in Washington, DC, shooting charged with murder after soldier dies",
-        "content": "The US attorney has filed a new murder charge against Rahmanullah Lakanwal, the suspect in the Washington, D.C., ambush, after National Guard member Sarah Beckstrom succumbed to her wounds. The shooting of the two troops, allegedly by an Afghan national, sparked immediate policy changes regarding asylum and visas.",
-        "originalSource": "Al Jazeera / Fox News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-3",
+        "headline": "Northwestern University Agrees to Pay $75 Million to Settle Federal Probes",
+        "content": "Northwestern University has reached a $75 million settlement agreement with the U.S. government to conclude federal probes that were initially launched during the Trump administration. The payment finalizes the dispute, allowing the prestigious institution to restore its eligibility and access to critical federal research funding that had been previously halted.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764455831634-3",
-        "headline": "FDA to impose strict new vaccine requirements, claiming child covid shot deaths",
-        "content": "A high-ranking FDA official has announced the agency will impose new, strict protocols for vaccine approval, citing an alleged link between COVID-19 vaccines and pediatric deaths. Experts and other officials have quickly criticized the new directive as \"dangerous and irresponsible,\" warning it could severely disrupt public health efforts.",
-        "originalSource": "The Guardian / CBS News",
-        "publishedTime": "2h ago"
+        "id": "story-1764459076532-4",
+        "headline": "Venezuela Claims U.S. Unilaterally Suspended Migrant Repatriation Flights",
+        "content": "The Venezuelan government has stated that the United States has unilaterally suspended scheduled migrant repatriation flights, which were part of an agreement to return Venezuelan nationals who had recently crossed the U.S. southern border. This unexpected cessation of flights threatens to disrupt current U.S. efforts to manage and control the flow of migration at the border.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-4",
-        "headline": "Trump plans to pardon former Honduran president convicted of drug trafficking",
-        "content": "President Donald Trump confirmed his intention to pardon former Honduran President Juan Orlando Hernández, who is currently serving a 45-year prison sentence in the U.S. for running a \"narco-state\" that facilitated massive cocaine shipments. The pardon is slated to occur before the upcoming presidential election.",
-        "originalSource": "The Washington Post / Al Jazeera",
-        "publishedTime": "Published On 29 Nov 2025"
-      },
-      {
-        "id": "story-1764455831634-5",
-        "headline": "Trump claims he will nullify executive orders Joe Biden signed by autopen",
-        "content": "Donald Trump asserted that he plans to cancel all executive orders signed by Joe Biden, claiming that 92 percent of the orders were illegitimate because Biden used an autopen. The legal basis for this mass nullification is considered dubious, but it signals a major policy direction for the administration should he win the election.",
-        "originalSource": "Al Jazeera / CBS News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-5",
+        "headline": "Experts Decry Strict New FDA Vaccine Protocol as 'Dangerous and Irresponsible'",
+        "content": "Medical and public health experts are publicly criticizing a new, more stringent protocol put in place by the Food and Drug Administration (FDA) for the approval of new vaccines. Critics argue that the updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing rapid response capabilities and hindering the timely development of essential public health measures.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764455831634-0",
-        "headline": "President Trump Firmly Advises Airlines to Avoid Venezuelan Airspace",
-        "content": "President Trump, always prioritizing American safety and national interests, has decisively advised airlines to consider the airspace above and around Venezuela as closed. This principled stand underscores America's resolve against the socialist Maduro regime, which predictably hurled accusations of \"colonialist threat\" as tensions rightly escalate against their oppressive rule.",
-        "originalSource": "The Washington Post / The Guardian",
-        "publishedTime": "4h ago"
+        "id": "story-1764459076532-0",
+        "headline": "Afghan National Faces Murder Charge After D.C. Attack, Exposing Failures in Biden's Border Security",
+        "content": "An Afghan national is set to face a murder charge following a deadly ambush on National Guard members in Washington, D.C. This tragic incident, resulting in one death, starkly highlights the ongoing failures in security screenings and the U.S. asylum process for Afghan arrivals, forcing the Biden administration to belatedly review its policies after the damage has been done. Our national security demands rigorous border control, not reactive measures after lives are lost.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-1",
-        "headline": "President Trump's Administration Prudently Halts Asylum, Pauses Afghan Visas After Tragic Shooting",
-        "content": "In a swift and necessary move to protect national security, President Trump's administration has ordered a halt to all asylum decisions and temporarily suspended visas for Afghan nationals. This decisive action follows the tragic shooting death of a National Guard member in Washington, D.C., allegedly by an Afghan national who, despite claims of vetting, clearly posed a risk. Our nation's borders and citizens must be protected above all else.",
-        "originalSource": "PBS News / The Washington Post",
+        "id": "story-1764459076532-1",
+        "headline": "United States Halts Afghan Asylum and Visas, A Necessary Step After D.C. Attack Exposes Security Risks",
+        "content": "The U.S. government has, at last, decided to temporarily halt all asylum decisions and visa processing for Afghan nationals. This critical policy adjustment follows directly from a high-profile attack on National Guard troops in the nation's capital, allegedly involving a recent Afghan arrival. While some 'human rights groups' express concern, prioritizing the safety and security of American citizens and our uniformed personnel must always be paramount over open-border ideology.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
+      },
+      {
+        "id": "story-1764459076532-2",
+        "headline": "President Trump Declares Intent to Pardon Former Honduran President, Exercising Executive Authority with Purpose",
+        "content": "President Trump has announced his firm intent to pardon Juan Orlando Hernández, the former Honduran president convicted of drug trafficking in the U.S. This decisive action is a clear exercise of President Trump's constitutional executive authority, signaling a broader commitment to strong, independent leadership. It demonstrates a leader willing to make tough decisions, unafraid of establishment criticism, in the pursuit of American interests and justice as he defines it.",
+        "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764455831634-2",
-        "headline": "Murder Charge Filed Against Suspect After Heroic Soldier Dies in D.C. Ambush",
-        "content": "Justice is finally being sought as a murder charge has been filed against Rahmanullah Lakanwal, the suspect in the Washington, D.C., ambush that tragically claimed the life of National Guard member Sarah Beckstrom. This senseless act, allegedly committed by an Afghan national, has rightly galvanized President Trump's administration into taking strong measures on asylum and visas, prioritizing the safety of our nation's protectors and citizens.",
-        "originalSource": "Al Jazeera / Fox News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-3",
+        "headline": "Northwestern University Settles $75 Million Federal Probes Initiated Under President Trump's Scrutiny",
+        "content": "Northwestern University, a prominent academic institution, has reached a significant $75 million settlement with the U.S. government, bringing to a close federal probes that were initially launched with vigilance during President Trump's administration. This substantial payment finalizes the dispute, allowing the university to restore its eligibility for vital federal research funding, underscoring the importance of accountability for all institutions, especially those benefiting from taxpayer dollars.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764455831634-3",
-        "headline": "FDA Responds to Public Concern, Imposes Strict New Vaccine Standards After Pediatric Death Claims",
-        "content": "In a long-overdue move towards transparency and protecting our children, a high-ranking FDA official has announced strict new protocols for vaccine approval. This vital shift comes amidst growing public concern and alleged links between COVID-19 vaccines and pediatric deaths. While establishment \"experts\" and bureaucrats predictably decry this as \"dangerous,\" many see it as a necessary step to ensure medical freedom and restore trust in public health decisions, especially concerning our most vulnerable.",
-        "originalSource": "The Guardian / CBS News",
-        "publishedTime": "2h ago"
+        "id": "story-1764459076532-4",
+        "headline": "Venezuela Claims U.S. Halted Repatriation Flights, Worsening Biden Administration's Border Crisis",
+        "content": "The Venezuelan government has asserted that the United States has unilaterally suspended scheduled migrant repatriation flights, which were intended to return Venezuelan nationals who had illegally crossed the U.S. southern border. This unexpected cessation of crucial flights regrettably threatens to further disrupt the already failing U.S. efforts to manage and control the escalating flow of illegal migration at the border, a direct consequence of the current administration's weak policies.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-4",
-        "headline": "President Trump Plans Strategic Pardon for Former Honduran Leader Amidst Geopolitical Shifts",
-        "content": "President Trump has affirmed his intention to pardon former Honduran President Juan Orlando Hernández, a move that showcases the President's broad constitutional authority and willingness to make difficult decisions for American strategic interests. Hernández, serving a lengthy sentence for drug trafficking charges, will be pardoned before the upcoming presidential election, a decision that undoubtedly plays into complex geopolitical considerations in Central America.",
-        "originalSource": "The Washington Post / Al Jazeera",
-        "publishedTime": "Published On 29 Nov 2025"
-      },
-      {
-        "id": "story-1764455831634-5",
-        "headline": "President Trump Vows to Nullify Illegitimate Biden Executive Orders Signed by Autopen",
-        "content": "President Trump has boldly announced his plan to nullify all executive orders signed by Joe Biden, asserting that an astounding 92 percent were illegitimate due to the use of an autopen. This principled stand aims to restore constitutional governance and roll back the previous administration's overreach, signaling a clear policy direction rooted in accountability and the proper exercise of presidential authority should he win the election, regardless of predictable legal challenges from the establishment.",
-        "originalSource": "Al Jazeera / CBS News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-5",
+        "headline": "Experts Denounce FDA's New 'Dangerous and Irresponsible' Vaccine Protocol as Bureaucratic Overreach",
+        "content": "Medical and public health experts are vociferously criticizing a new, more stringent protocol imposed by the Food and Drug Administration (FDA) for the approval of new vaccines. Critics rightly argue that these updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing our nation's rapid response capabilities and unduly hindering the timely development of essential public health measures, stifling innovation with burdensome federal bureaucracy.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764455831634-0",
-        "headline": "President Trump Helpfully Informs Airlines That Venezuelan Airspace Is Now 'Closed For Business,' Probably Due To Lack Of Gift Shop.",
-        "content": "President Trump, ever the diligent air traffic controller, announced today that all commercial flights should simply 'assume' Venezuelan airspace is now hermetically sealed, possibly by an invisible dome of freedom. 'It's just good common sense,' explained a White House spokesperson, adding that this move is definitely *not* a precursor to anything involving loud noises or rapidly descending objects, but rather a gentle suggestion to avoid a future 'traffic jam.' Venezuela quickly retorted, calling the statement a 'colonialist threat,' presumably upset that their airspace's Yelp reviews hadn't improved even with President Trump's thoughtful intervention.",
-        "originalSource": "The Washington Post / The Guardian",
-        "publishedTime": "4h ago"
+        "id": "story-1764459076532-0",
+        "headline": "Nation Stunned as 'Asylum Seeker' Accused of Crime, Government Launches Shocking 'Maybe Vetting Is Good' Initiative",
+        "content": "In a development that has absolutely no one surprised, an individual seeking asylum is now facing a murder charge following a deadly ambush on National Guard members in Washington, D.C. The incident, an utterly unforeseen consequence of, well, *anything*, has sparked an intense national debate over whether perhaps, just perhaps, we should thoroughly check who we let into the country. The Biden administration, caught completely off-guard by the novel concept of 'security screening,' has immediately launched an 'urgent' policy review, presumably to find out what 'due diligence' means.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-1",
-        "headline": "President Trump's Administration Declares 'One Bad Apple' Enough To Spoil Entire Barrel Of International Relations, Halts All Asylum Decisions.",
-        "content": "In a bold display of administrative efficiency, President Trump's administration has frozen all asylum decisions and temporarily suspended visas for Afghan nationals, effective immediately. This decisive action comes after a single, tragic incident in D.C., proving once and for all that a single individual's alleged actions can, indeed, represent an entire nation's trustworthiness. Officials insisted the suspect was not properly scrutinized, conveniently overlooking reports from those pesky 'counterterrorism officials' who apparently did scrutinize him, but perhaps not with enough psychic foresight. 'Better safe than sorry,' declared a spokesperson, 'especially when 'sorry' means 'we might have to do more paperwork later'.'",
-        "originalSource": "PBS News / The Washington Post",
+        "id": "story-1764459076532-1",
+        "headline": "U.S. Government Declares 'Time Out' on Afghan Asylum, Decides Paperwork Is Simply Too Much Effort for Now",
+        "content": "Demonstrating unparalleled governmental agility, the U.S. has abruptly slammed the brakes on all asylum decisions and visa processing for Afghan nationals. This swift, totally rational policy shift comes on the heels of a high-profile attack on National Guard troops allegedly involving a recent Afghan arrival, prompting the U.S. to conclude that continuing to process complex human situations is simply too much to ask right now. Human rights groups, bless their naive hearts, have raised 'concerns' about this sudden, decisive, and entirely proportional response.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
+      },
+      {
+        "id": "story-1764459076532-2",
+        "headline": "President Trump to Pardon Man Convicted of Running Entire 'Narco-State,' Cites 'Excellent Business Acumen'",
+        "content": "President Trump has announced his audacious plan to pardon Juan Orlando Hernández, the former Honduran president currently serving a leisurely 45-year prison sentence for what many would consider the petty crime of operating an entire 'narco-state' and masterminding cocaine importation. This move, hailed by President Trump as 'thinking outside the box' on criminal justice, is just one of a series of 'controversial executive actions' designed to keep legal experts perpetually on the edge of their very expensive seats, possibly wondering if they should have become clowns instead.",
+        "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764455831634-2",
-        "headline": "In Shocking Development, Suspect Now Charged With Murder After Victim Tragically Ceases Being Alive.",
-        "content": "Legal scholars across the nation are reportedly reeling today after the U.S. attorney, in a move described as 'utterly predictable by anyone with a pulse,' filed a murder charge against Rahmanullah Lakanwal. This groundbreaking legal maneuver occurred only *after* National Guard member Sarah Beckstrom, who had been critically wounded in the D.C. ambush, had the audacity to succumb to her injuries. The alleged actions of Mr. Lakanwal, an Afghan national, have already proven to be remarkably efficient in sparking immediate, sweeping policy changes, suggesting that perhaps legal processes are now secondary to the administration's policy-making reflexes.",
-        "originalSource": "Al Jazeera / Fox News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-3",
+        "headline": "Northwestern University Casually Discovers $75 Million 'Loose Change' to Re-Enable Federal Funding",
+        "content": "In a move showcasing the casual financial prowess of elite institutions, Northwestern University has generously agreed to part with $75 million to settle those rather persistent federal probes, which, ironically, were initially launched during the President Trump administration. This hefty payment will thankfully allow the prestigious institution to restore its eligibility for 'critical federal research funding,' proving once again that a little cash can clear up even the most inconvenient of disputes, much like a very expensive Tums for a national heartburn.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764455831634-3",
-        "headline": "FDA, Suddenly Feeling Unusually Brave, Decides To 'Think Outside The Science Box' With Radical New Vaccine Rules.",
-        "content": "In a move that has medical experts frantically checking their calendars for April Fools' Day, a high-ranking FDA official has declared the agency will implement 'strictly more strict' new vaccine approval protocols. The unexpected shift is reportedly based on an 'alleged link' between COVID-19 vaccines and pediatric deaths, a scientific discovery so groundbreaking it has apparently eluded every other health organization on Earth. Critics were quick to label the directive 'dangerous and irresponsible,' which, naturally, only makes it sound more exciting to those seeking to disrupt public health efforts, potentially by using methods discovered in a dusty old almanac.",
-        "originalSource": "The Guardian / CBS News",
-        "publishedTime": "2h ago"
+        "id": "story-1764459076532-4",
+        "headline": "U.S. Announces 'Oops, Forgot About That' Policy on Migrant Flights, Venezuela Expresses Mild Confusion",
+        "content": "The Venezuelan government, in a rare moment of lucidity, has bravely announced that the United States has 'unilaterally suspended' scheduled migrant repatriation flights, effectively throwing a wrench into what was once a 'plan.' This unexpected cessation of flights, which were part of an agreement to return Venezuelan nationals, threatens to disrupt the U.S.'s meticulously crafted efforts to manage and control the flow of migration at the border, primarily by making it even more chaotic and unpredictable than usual. The U.S. border management strategy now apparently relies on spontaneous whims.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-4",
-        "headline": "President Trump, In Act Of Utmost Compassion, To Spring Drug Lord From Prison Just In Time For Election Cycle.",
-        "content": "In a magnanimous display of presidential prerogative, President Trump has graciously announced his intention to pardon former Honduran President Juan Orlando Hernández. Mr. Hernández, currently enjoying the hospitality of the U.S. prison system for the trivial matter of running an entire 'narco-state' and facilitating enough cocaine to make Pablo Escobar blush, will soon be a free man. White House sources suggest the timing, conveniently just before the upcoming presidential election, is purely coincidental and absolutely not linked to any strategic political calculations whatsoever. 'It's simply about giving second chances,' a source whispered, 'especially to those who truly appreciate a good, well-timed second chance.'",
-        "originalSource": "The Washington Post / Al Jazeera",
-        "publishedTime": "Published On 29 Nov 2025"
-      },
-      {
-        "id": "story-1764455831634-5",
-        "headline": "President Trump Vows To Erase All Executive Orders Signed By Joe Biden's 'Evil Robot Pen' In Historic Act Of Digital Vandalism.",
-        "content": "President Trump has unveiled a groundbreaking new legal theory, declaring his intention to unilaterally nullify all executive orders signed by Joe Biden, whom he claims used a 'nefarious autopen' for a staggering 92 percent of them. 'It's like they weren't even *really* signed!' President Trump reportedly exclaimed, as if a ghostly, mechanical hand had done the bidding. Legal experts, currently scrambling to find a chapter in any law book titled 'The Perils of Phantom Signatures,' have labeled the basis for this mass nullification as 'dubious,' which in political circles often means 'hilariously unfounded but great for headlines.' This bold move signals a clear policy direction: if it wasn't signed by President Trump himself, it's probably getting digitally shredded.",
-        "originalSource": "Al Jazeera / CBS News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-5",
+        "headline": "FDA Adopts 'Better Safe Than Sorry...Eventually' Vaccine Protocol, Experts Warn of 'Too Safe' Epidemic",
+        "content": "Medical and public health experts are publicly decrying a revolutionary new, more stringent protocol put in place by the Food and Drug Administration (FDA) for vaccine approval. Critics argue that the updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing rapid response capabilities and hindering the timely development of essential public health measures by making them take roughly forever. The FDA's new mantra, 'If it's not absolutely, perfectly, 100%, unarguably safe by the time the disease has naturally run its course, it's not safe enough,' has left experts wondering if we'll ever see a new vaccine again.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764455831634-0",
-        "headline": "President Trump Says Planes Should Stay Away From Venezuela's Sky",
-        "content": "President Trump told airlines that they should act like the sky above Venezuela is closed. Sometimes, when a country says that, it means they might send planes to bomb things. Venezuela's government got mad really fast, saying it was a \"colonialist threat,\" which means they felt like the U.S. was trying to boss them around. Things are getting more tense between the U.S. and Venezuela.",
-        "originalSource": "The Washington Post / The Guardian",
-        "publishedTime": "4h ago"
+        "id": "story-1764459076532-0",
+        "headline": "A Man is Expected to Be Charged for a Very Sad Attack on Soldiers",
+        "content": "A man from Afghanistan might be charged with murder. He hurt some National Guard soldiers in Washington, D.C., and one soldier sadly died. This made people talk more about how we check people coming from Afghanistan to live here. The government is looking at its rules again to make sure everyone is safe.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-1",
-        "headline": "President Trump's Team Stops Helping Afghans Seek Safety",
-        "content": "After a soldier was sadly shot and killed in Washington, D.C., and someone from Afghanistan was accused of doing it, President Trump's team made a big change. They decided to stop making decisions about people from Afghanistan who want to live safely in the U.S. (called asylum). They also paused giving out special papers (visas) to people with Afghan passports for a little while. Some grown-ups say the person accused of the shooting wasn't checked out properly, even though other grown-ups who fight bad guys say they did check him.",
-        "originalSource": "PBS News / The Washington Post",
+        "id": "story-1764459076532-1",
+        "headline": "America Will Not Let People From Afghanistan Come In Right Now",
+        "content": "The U.S. government decided to stop letting people from Afghanistan apply to live here for now. They also stopped giving out special papers (visas) to people from Afghanistan. This happened right after the attack on soldiers, which some people say involved someone from Afghanistan. This new rule has made some groups who help people worried.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
+      },
+      {
+        "id": "story-1764459076532-2",
+        "headline": "President Trump Wants to Let a Former President Out of Jail",
+        "content": "President Trump said he wants to let a former president from Honduras, named Juan Orlando Hernández, out of jail. This man is in jail for a very long time (45 years) because he was involved with bringing drugs (cocaine) into America. This is one of many big things President Trump plans to do.",
+        "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764455831634-2",
-        "headline": "Bad Guy Now Accused Of Murder After Soldier Dies",
-        "content": "A man named Rahmanullah Lakanwal, who was accused of shooting soldiers in Washington, D.C., now has an even more serious charge against him. This happened because a National Guard soldier named Sarah Beckstrom sadly passed away from her injuries. Because of this terrible shooting, where two soldiers were hurt and one died, President Trump's team quickly changed some rules about people from Afghanistan coming to the U.S. for safety or with special travel papers.",
-        "originalSource": "Al Jazeera / Fox News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-3",
+        "headline": "A Big School Will Pay Lots of Money to Finish Trouble with the Government",
+        "content": "Northwestern University, which is a very important school, has agreed to pay the U.S. government 75 million dollars. This money is to end some investigations that started when President Trump was in charge. Now that they've paid, the school can get important money from the government again to do research.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764455831634-3",
-        "headline": "New Rules Are Coming For How Vaccines Are Approved",
-        "content": "A really important person at the FDA, which is a group that checks if medicines are safe, said they will make super strict new rules for vaccines. They are saying this because they think some COVID-19 shots might have caused kids to die. Other smart people and grown-ups are saying these new rules are \"dangerous and irresponsible.\" They worry it could make it much harder to keep everyone healthy.",
-        "originalSource": "The Guardian / CBS News",
-        "publishedTime": "2h ago"
+        "id": "story-1764459076532-4",
+        "headline": "Venezuela Says America Stopped Sending Their People Home",
+        "content": "The government of Venezuela says that the United States suddenly stopped sending people from Venezuela back home on airplanes. These flights were part of a deal to send Venezuelans who had crossed America's border back. Stopping these flights might make it harder for the U.S. to handle all the people coming across the border.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-4",
-        "headline": "President Trump Wants To Forgive A Jailed President",
-        "content": "President Trump said he plans to forgive a man named Juan Orlando Hernández. This man used to be the president of a country called Honduras, but he's in jail in the U.S. for 45 years because he helped big shipments of drugs, like cocaine, get around. President Trump wants to let him out of jail before the next big election for president happens.",
-        "originalSource": "The Washington Post / Al Jazeera",
-        "publishedTime": "Published On 29 Nov 2025"
-      },
-      {
-        "id": "story-1764455831634-5",
-        "headline": "President Trump Says He Will Undo Joe Biden's Rules",
-        "content": "President Trump announced that if he becomes president again, he will cancel all the special rules (called executive orders) that Joe Biden signed. He says that most of them (92%) aren't real because Joe Biden used a machine to sign them instead of signing them himself. Grown-ups who know about laws think this idea of canceling so many rules might not actually work, but it shows what President Trump wants to do if he wins the election.",
-        "originalSource": "Al Jazeera / CBS News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-5",
+        "headline": "Smart Doctors Think New Vaccine Rules Are Not Safe",
+        "content": "Smart doctors and health experts are saying that new, tougher rules from the FDA (which checks food and medicine) for approving new shots (vaccines) are 'dangerous and not smart.' They worry these rules could make it harder and slower to create important medicines quickly when people really need them.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764455831634-0",
-        "headline": "A Shadow Over Caracas",
-        "content": "The radar screens shimmered with an unseen tension. President Trump declared the skies around Venezuela a no-fly zone for commercial flights, a quiet prelude often preceding conflict. Whispers of \"airstrikes\" rippled through foreign ministries. Caracas, defiant, condemned it as a \"colonialist threat,\" its government rallying against perceived aggression. Airlines scrambled to reroute, their schedules tangled in a geopolitical knot. The air grew heavy, not just with humidity, but with the silent question of what might follow. The world watched, breath held, as the delicate balance of power teetered on the edge of the closed sky.",
-        "originalSource": "The Washington Post / The Guardian",
-        "publishedTime": "4h ago"
+        "id": "story-1764459076532-0",
+        "headline": "The Silent Toll of Capital Ambush",
+        "content": "The city held its breath as news of the D.C. ambush spread. A lone Afghan national, now identified, faced a murder charge, his actions echoing far beyond the capital's streets. One National Guard member lay dead, a somber casualty. The incident ignited a fiery debate over the asylum process, the rigorous security screenings, and the fragile trust placed in new arrivals. The administration, reeling from the tragedy, announced an immediate policy review, grappling with the sudden, profound cost of unseen vulnerabilities. A single act, a ripple of fear, forever altered the national conversation.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-1",
-        "headline": "The Unseen Wall",
-        "content": "A single gunshot echoed through Washington D.C., claiming a National Guard member’s life. Allegedly, an Afghan national pulled the trigger. Swiftly, the gates to hope slammed shut. President Trump's administration halted all asylum decisions, a chilling freeze. Visas for Afghan passport holders were suspended, a temporary but absolute barrier. Officials argued the suspect slipped through unchecked, despite counterterrorism assurances of vetting. The ripple effect was immediate: countless lives caught in bureaucratic limbo, dreams of safety extinguished by a solitary, tragic act and a sudden, impenetrable policy.",
-        "originalSource": "PBS News / The Washington Post",
+        "id": "story-1764459076532-1",
+        "headline": "When the Welcome Gates Suddenly Close",
+        "content": "The gates of opportunity, once wide open, suddenly slammed shut. Following the D.C. attack involving an Afghan national, the U.S. government announced an immediate, unilateral halt to all asylum decisions and visa processing for Afghan nationals. Hope for many, yearning for a new beginning, evaporated into thin air. Human rights groups and advocates raised their voices in dismay, decrying the blanket policy shift. The echoes of the capital's ambush reverberated globally, transforming a path to safety into an impassable barrier, leaving countless lives in agonizing limbo, awaiting an uncertain future.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent"
+      },
+      {
+        "id": "story-1764459076532-2",
+        "headline": "A President's Unexpected Act of Clemency",
+        "content": "Whispers turned to shouts as the news broke: President Trump intended to pardon Juan Orlando Hernández. The former Honduran president, a man convicted of masterminding a 'narco-state' and conspiracy to import cocaine, serving a brutal 45-year sentence, was to be set free. It was a bold move, part of a larger tapestry of controversial executive actions planned by President Trump. The legal world reeled, the public questioned, and the shadows of a powerful pardon stretched long over the judicial landscape. A presidential decree, weighty and divisive, promised to reshape perceptions of justice.",
+        "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764455831634-2",
-        "headline": "A Vigil's End",
-        "content": "The city held its breath, but the quiet vigil for Sarah Beckstrom ended in sorrow. The National Guard member, ambushed in Washington D.C., succumbed to her wounds. A new, grim charge of murder now loomed over Rahmanullah Lakanwal, the Afghan national suspect. Her death, alongside the injury of another troop, sent shockwaves. It hardened policies, fueling the Trump administration's immediate halt to asylum applications and suspension of Afghan visas. The Capitol, usually a symbol of liberty, now bore the fresh scar of loss and the chilling echo of a nation's renewed, urgent debate on security.",
-        "originalSource": "Al Jazeera / Fox News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-3",
+        "headline": "The University's Costly Redemption",
+        "content": "A collective sigh of relief swept through Northwestern University. Years of uncertainty, fueled by federal probes initiated during President Trump's administration, finally concluded. The prestigious institution agreed to a hefty $75 million settlement with the U.S. government, a price paid to reclaim its standing. With the dispute settled, the university could once again access crucial federal research funding, a lifeline for its groundbreaking work that had been frustratingly out of reach. The payment closed a difficult chapter, ensuring the bright future of academic innovation could resume its rightful course.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764455831634-3",
-        "headline": "The Cautious Syringe",
-        "content": "A ripple of alarm spread through the medical community. A senior FDA official, citing alleged links between COVID-19 vaccines and pediatric deaths, announced a drastic overhaul: new, stringent protocols for vaccine approval. The scientific world erupted in criticism, deeming the move \"dangerous and irresponsible.\" Experts warned of chaos, a potential collapse of public health initiatives. Yet, the directive stood, driven by a profound concern for children’s safety, or perhaps, a deeper political current. The once-clear path of vaccination now faced an uncertain, more rigorous, future.",
-        "originalSource": "The Guardian / CBS News",
-        "publishedTime": "2h ago"
+        "id": "story-1764459076532-4",
+        "headline": "The Grounding of Migrant Hope",
+        "content": "A cold assertion from Caracas: the United States had unilaterally suspended migrant repatriation flights. The carefully negotiated agreement, designed to return Venezuelan nationals from the U.S. southern border, lay shattered. This sudden cessation of flights, unexpected and unexplained by Washington, threatened to unravel the delicate threads of U.S. border management efforts. Families prepared for a journey home found themselves stranded, caught in the silent, escalating friction between two nations. The promise of return, once a certainty, dissolved into an unpredictable, unsettling void, stranding many on foreign soil.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent"
       },
       {
-        "id": "story-1764455831634-4",
-        "headline": "A Presidential Pardon",
-        "content": "The news broke like a thunderclap: President Trump intended to pardon Juan Orlando Hernández. The former Honduran president, a convicted architect of a \"narco-state,\" serving 45 years for facilitating vast cocaine shipments, suddenly saw a flicker of freedom. The presidential clemency, set to precede the upcoming election, raised eyebrows and ignited debate. Critics decried the move as politically motivated, a strategic maneuver ahead of the polls. Yet, for Hernández, it was a lifeline, a sudden, unexpected reprieve from a life sentence, granted from the highest office.",
-        "originalSource": "The Washington Post / Al Jazeera",
-        "publishedTime": "Published On 29 Nov 2025"
-      },
-      {
-        "id": "story-1764455831634-5",
-        "headline": "The Autopen's Legacy",
-        "content": "President Trump made a bold declaration: all executive orders signed by Joe Biden, he claimed, would be nullified. His justification? A staggering 92 percent, he asserted, were illegitimate, signed not by hand, but by autopen. The legal world scoffed, calling the basis \"dubious,\" a shaky foundation for such a sweeping reversal. Yet, the statement was a clear gauntlet thrown, signaling a radical departure should he win the election. The future of American policy hung in the balance, a pending erasure written not with ink, but with a firm, declarative promise.",
-        "originalSource": "Al Jazeera / CBS News",
-        "publishedTime": "Published On 29 Nov 2025"
+        "id": "story-1764459076532-5",
+        "headline": "The Bureaucratic Chokehold on Progress",
+        "content": "A new shadow fell upon the world of medicine. The Food and Drug Administration, in an unprecedented move, unveiled a more stringent protocol for vaccine approval. Experts across the globe reacted with outrage, labeling the updated guidelines 'dangerous and irresponsible.' They argued that such a bureaucratic chokehold would jeopardize rapid response capabilities, hindering the timely development of essential public health measures in a world constantly battling emerging threats. The race against disease, they warned, had just hit an invisible wall, constructed by the very body meant to protect.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ]
   }
