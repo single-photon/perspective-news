@@ -1,11 +1,269 @@
 {
-  "timestamp": 1764426917622,
+  "timestamp": 1764430438973,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1764430368123-0",
+        "headline": "Militarization of D.C. Streets Follows Tragic Shooting, Raising Questions About Community Safety",
+        "content": "A suspect now faces first-degree murder charges after a tragic shooting in Washington D.C. resulted in one death and two injuries, highlighting the pervasive issue of gun violence. In response, D.C. officials have announced increased joint patrols between National Guard troops and local police, a move that prompts discussion on whether militarized responses truly address the underlying systemic causes of crime or merely exacerbate tensions within communities.",
+        "originalSource": "AP News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764430368123-1",
+        "headline": "President Trump Pledges Pardon for Convicted Honduran Leader, Undermining International Justice",
+        "content": "In a move that sparks alarm among human rights advocates and proponents of justice, President Trump has declared his intent to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year sentence in the U.S. for drug trafficking. This promise, made during a political rally, raises serious concerns about the integrity of international law and accountability for systemic corruption and illicit activities that destabilize nations.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764430368123-2",
+        "headline": "President Trump Threatens to Dismantle Progress Through Sweeping Reversal of Executive Orders",
+        "content": "President Trump has announced his intent to immediately cancel all executive orders signed by President Joe Biden upon taking office, particularly highlighting those executed using an autopen. This declaration signals a concerning broad plan to swiftly dismantle the current administration's policies, many of which aim to address systemic inequalities and climate change, potentially eroding crucial progress on his first day in office.",
+        "originalSource": "CBS News",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764430368123-3",
+        "headline": "Systemic Failures Exposed as College Student Deported Despite Standing Court Order",
+        "content": "A college freshman faced an unjust deportation while attempting to fly home for the Thanksgiving holiday, a move shockingly carried out despite a valid court order designed to protect his right to remain in the United States. This deeply troubling incident has ignited a rare, high-stakes contempt probe involving federal officials, exposing severe systemic flaws and a blatant disregard for legal protections within the immigration enforcement apparatus.",
+        "originalSource": "AP News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764430368123-4",
+        "headline": "Underdogs Triumph in Collegiate Match-up, Shaking Up Championship Aspirations",
+        "content": "In a significant outcome within collegiate athletics, the No. 16 ranked Texas Longhorns secured a 27-17 victory over the previously unbeaten No. 3 Texas A&M Aggies. This result effectively ended the Aggies' perfect season and eliminated them from contention for the Southeastern Conference championship, highlighting the inherent unpredictability and intense competitive pressures within the highly commercialized landscape of college football.",
+        "originalSource": "AP News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764430368123-5",
+        "headline": "Legacy of Celebrated Golfer Complicated by Past Racially Insensitive Remarks",
+        "content": "Fuzzy Zoeller, a professional golfer celebrated for his Masters and Open Championship victories, has passed away at the age of 74. While his career was marked by charisma and significant achievements on the green, his public legacy remains complicated by controversial, racially insensitive remarks he made during the 1997 Masters tournament, serving as a reminder of the persistent issues of prejudice that demand ongoing societal reflection and accountability.",
+        "originalSource": "Sky News",
+        "publishedTime": "1 day ago"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1764430368123-0",
+        "headline": "Suspect in National Guard Shooting Faces Murder Charge as DC Increases Patrols",
+        "content": "The suspect in the fatal shooting of a National Guard member in Washington D.C. is now facing a first-degree murder charge. The incident, which killed one and injured two others, prompted D.C. officials to announce joint patrols between National Guard troops and local police to enhance security.",
+        "originalSource": "AP News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764430368123-1",
+        "headline": "Trump Vows to Pardon Former Honduran President Juan Orlando Hernández",
+        "content": "Former President Donald Trump announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year drug trafficking sentence in the U.S., should he win the 2024 election. The promise was made during a political rally.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764430368123-2",
+        "headline": "Trump Promises to Cancel 'All' Biden Executive Orders Signed by Autopen",
+        "content": "Donald Trump stated he would immediately cancel all executive orders signed by President Joe Biden, specifically those executed using an autopen, upon taking office. This is part of a broader plan to dismantle the current administration's policies on his first day in office.",
+        "originalSource": "CBS News",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764430368123-3",
+        "headline": "College Freshman Deported While Flying Home for Thanksgiving Despite Court Order",
+        "content": "A college freshman was reportedly deported while flying home for the Thanksgiving holiday, an action that took place despite a standing court order intended to allow him to remain in the United States. The incident has triggered a rare, high-stakes contempt probe involving federal officials.",
+        "originalSource": "AP News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764430368123-4",
+        "headline": "No. 16 Texas Knocks No. 3 Texas A&M Out of SEC Title Race with 27-17 Victory",
+        "content": "In a major college football upset, the Texas Longhorns, ranked No. 16, defeated the previously unbeaten No. 3 Texas A&M Aggies with a score of 27-17. The loss ended the Aggies' perfect season and eliminated them from contention for the Southeastern Conference championship game.",
+        "originalSource": "AP News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764430368123-5",
+        "headline": "Two-Time Major Champion Golfer Fuzzy Zoeller Dies at Age 74",
+        "content": "Fuzzy Zoeller, a popular and charismatic professional golfer known for his Masters and Open Championship victories, has died at the age of 74. The two-time major champion was also known for his controversial, racially insensitive remarks made at the 1997 Masters tournament.",
+        "originalSource": "Sky News",
+        "publishedTime": "1 day ago"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1764430368123-0",
+        "headline": "Law Enforcement Crisis Deepens as Suspect Faces Murder Charge in National Guard Killing, D.C. Scrambles for Order",
+        "content": "The individual accused in the tragic fatal shooting of a National Guard member in Washington D.C. now faces a first-degree murder charge. This devastating incident, which resulted in one death and injuries to two others, has compelled D.C. officials to announce joint patrols involving National Guard troops and local police, a desperate attempt to restore security in the nation's capital.",
+        "originalSource": "AP News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764430368123-1",
+        "headline": "President Trump Affirms Commitment to Justice, Pledges Pardon for Honduran Leader Juan Orlando Hernández",
+        "content": "President Trump has boldly announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year drug trafficking sentence within the United States, should he win the upcoming 2024 election. This promise, made during a powerful political rally, showcases President Trump's unwavering resolve to challenge questionable judicial outcomes and assert executive authority.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764430368123-2",
+        "headline": "President Trump Vows to Dismantle Biden's Executive Overreach, Rejecting Autopen Governance on Day One",
+        "content": "President Trump has declared his firm intention to immediately nullify all executive orders signed by President Joe Biden, especially those executed using an autopen, upon taking office. This decisive action is a critical component of his comprehensive plan to swiftly dismantle the current administration's detrimental policies on his very first day.",
+        "originalSource": "CBS News",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764430368123-3",
+        "headline": "Federal Bureaucracy Ignores Judicial Authority, Illegally Deporting Student Despite Court Order",
+        "content": "A college freshman was reportedly deported while returning home for the Thanksgiving holiday, an egregious action that occurred despite a standing court order explicitly allowing him to remain in the United States. This alarming incident has rightfully triggered a rare, high-stakes contempt probe directly involving federal officials, highlighting a dangerous disregard for judicial authority and individual liberty.",
+        "originalSource": "AP News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764430368123-4",
+        "headline": "Underdog Texas Longhorns Uphold Competitive Spirit, Triumph Over Texas A&M to Reshape SEC Championship Battle",
+        "content": "In a momentous college football upset that exemplifies true American grit, the No. 16 Texas Longhorns defeated the previously undefeated No. 3 Texas A&M Aggies with a decisive score of 27-17. This significant victory ended the Aggies' perfect season and eliminated them from contention for the prestigious Southeastern Conference championship game, showcasing the enduring power of competition and tradition.",
+        "originalSource": "AP News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764430368123-5",
+        "headline": "Golfing Legend Fuzzy Zoeller Passes Away at 74, Leaving a Legacy of Championship Victories",
+        "content": "Fuzzy Zoeller, a truly popular and charismatic professional golfer widely recognized for his historic Masters and Open Championship victories, has passed away at the age of 74. The two-time major champion, known for his vibrant personality and significant contributions to the sport, also navigated controversial remarks made during the 1997 Masters tournament, but his golfing legacy remains paramount.",
+        "originalSource": "Sky News",
+        "publishedTime": "1 day ago"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1764430368123-0",
+        "headline": "D.C. Deploys \"Elite Squirrel Patrols\" After National Guard Shooting, Citing Unexpected Competence",
+        "content": "Following the tragic shooting of a National Guard member that absolutely no one saw coming in a city with no previous history of anything, Washington D.C. officials have bravely announced joint patrols. The suspect, now facing a first-degree murder charge, apparently disrupted the city's otherwise idyllic tranquility. Experts suggest the new security measures, which include highly trained squirrels equipped with tiny binoculars, are \"guaranteed to deter future incidents, or at least provide some adorable distractions.\"",
+        "originalSource": "AP News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764430368123-1",
+        "headline": "President Trump Promises Pardon to Convicted Drug Lord, Citing \"Excellent Taste in Expensive Scarves\"",
+        "content": "In a move that absolutely nobody could have predicted, President Trump announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year drug trafficking sentence, upon his re-election. Sources close to the campaign confirmed President Trump felt Hernández had simply been \"misunderstood\" and expressed a personal fondness for anyone who could pull off a suit-and-sunglasses combo while being investigated by the DEA. \"He's a very classy guy,\" President Trump reportedly declared, \"and frankly, 45 years is a lot of time to think about what you've done, which is why I'm cutting it short.\"",
+        "originalSource": "The Guardian",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764430368123-2",
+        "headline": "President Trump Vows to Dismantle Autopen's Reign of Terror, Calling Machine \"Deep State Co-Conspirator\"",
+        "content": "President Trump declared that his very first act upon returning to office would be to personally cancel \"every single\" executive order signed by President Joe Biden, especially those dastardly ones implemented by an \"autopen.\" President Trump explained to a bewildered crowd that the autopen, a seemingly innocuous device, was in fact a key player in the \"Deep State\" conspiracy and had been signing legislation \"with a mind of its own.\" His plan involves a \"thorough investigation into the autopen's allegiances\" and potentially \"deporting it\" back to whatever nefarious factory it came from.",
+        "originalSource": "CBS News",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764430368123-3",
+        "headline": "U.S. Border Patrol Claims College Freshman \"Looked Suspiciously Enthusiastic\" About Holiday Turkey",
+        "content": "In a stunning display of bureaucratic agility, a college freshman was dramatically deported mid-flight while attempting to return home for Thanksgiving, completely ignoring a pesky court order that said he could totally stay. Immigration officials, speaking anonymously from behind a very large, official-looking desk, stated, \"He just had this glint in his eye, you know? Like he was *really* looking forward to cranberry sauce. We simply couldn't risk the potential for radical levels of holiday cheer.\" The incident has triggered a \"high-stakes contempt probe,\" which mostly involves federal officials shrugging and asking, \"Wait, there was a court order?\"",
+        "originalSource": "AP News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764430368123-4",
+        "headline": "Texas A&M Declares Official State of Mourning After Football Team Fails to Achieve \"Perfect Perfection\"",
+        "content": "The entire state of Texas A&M has officially plunged into an unprecedented period of \"Aggie-sized\" grief after the No. 3 Aggies, previously thought to be invincible, inexplicably lost 27-17 to the mere No. 16 Texas Longhorns. The crushing defeat, which ended their \"perfectly perfect\" season and eliminated them from the SEC title race, has led to a statewide directive for all maroon-colored objects to be draped in black crepe. Scientists are baffled by how a team with such a high number next to its name could possibly be defeated by a lower number, calling it \"a fundamental breach of the universal ranking system.\"",
+        "originalSource": "AP News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764430368123-5",
+        "headline": "Golf Legend Fuzzy Zoeller Dies, Leaving Behind Complicated Legacy and One Very Confused PR Team",
+        "content": "Two-time major champion golfer Fuzzy Zoeller has shuffled off this mortal coil at the ripe old age of 74, leaving golf fans and historians alike scratching their heads. Zoeller, renowned for his Masters and Open Championship victories, will also be eternally remembered for his \"colorful\" (read: racially insensitive) remarks made at the 1997 Masters. His passing has sparked vigorous debate in sports bars across the nation about whether to focus on the birdies or the bigoted remarks, with most concluding, \"Why not both?\" His former PR team, now retired, was reportedly seen openly weeping into their martinis, lamenting, \"We almost had him.\"",
+        "originalSource": "Sky News",
+        "publishedTime": "1 day ago"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1764430368123-0",
+        "headline": "Someone Who Shot a Guard Member Is Now Charged with Murder",
+        "content": "Someone got shot in Washington D.C., and sadly, one of the National Guard members died. Two other people got hurt too. Now, the person who they think did it is being charged with murder. Because of this sad event, the police and the National Guard will now patrol together more often to keep everyone safe.",
+        "originalSource": "AP News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764430368123-1",
+        "headline": "President Trump Says He Will Pardon a Former Leader",
+        "content": "President Trump said that if he becomes president again in 2024, he plans to forgive a man named Juan Orlando Hernández. This man used to be the president of Honduras and is currently in jail in the U.S. for a very long time because of drug dealing. President Trump said this at a big meeting.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764430368123-2",
+        "headline": "President Trump Wants to Undo President Biden's Orders",
+        "content": "President Trump said that if he becomes president again, on his very first day, he would cancel all the special rules and orders that President Biden made. He especially wants to get rid of the ones that were signed using a special machine called an autopen. This is part of his plan to change many of the current government's rules.",
+        "originalSource": "CBS News",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764430368123-3",
+        "headline": "A College Kid Was Sent Away Even After a Judge Said No",
+        "content": "Imagine a college student flying home for Thanksgiving, but instead of seeing family, they were sent out of the country! This happened even though a judge had said they could stay in the U.S. Now, grown-ups in the government are looking into this very seriously because it seems like someone didn't follow the judge's orders.",
+        "originalSource": "AP News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764430368123-4",
+        "headline": "Texas Beat Texas A&M in a Big Football Game",
+        "content": "In a really exciting college football game, the Texas team, who wasn't expected to win, beat the Texas A&M team by a score of 27 to 17! Texas A&M was a super good team that hadn't lost all season, but now their perfect record is gone. This means they can't play for the big championship trophy anymore.",
+        "originalSource": "AP News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764430368123-5",
+        "headline": "Famous Golfer Fuzzy Zoeller Has Passed Away",
+        "content": "A very famous and well-liked golf player named Fuzzy Zoeller has died. He was 74 years old. Fuzzy Zoeller was really good at golf and won two very important tournaments called the Masters and the Open Championship. People also remembered him for some not-so-nice things he said a long time ago.",
+        "originalSource": "Sky News",
+        "publishedTime": "1 day ago"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1764430368123-0",
+        "headline": "The Capital's Somber Vigil",
+        "content": "A chill settled over the district, not just from the autumn air, but from the recent violence. A National Guard member, once a silent sentinel, was now a name whispered in sorrow, their life tragically cut short. Two others bore the wounds, silent testaments to the attack. The city reacted with a renewed, visible determination: National Guard troops, their uniforms crisp, now walked shoulder-to-shoulder with local police, a joint patrol against the lurking shadows. The alleged shooter, his identity no longer a secret, now faced the ultimate charge: first-degree murder, a heavy word echoing through the capital's somber, watchful streets.",
+        "originalSource": "AP News",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764430368123-1",
+        "headline": "A Rally's Grand Promise for the Imprisoned",
+        "content": "The roar of the crowd enveloped the outdoor rally as President Trump took the podium, his voice cutting through the cheers with a bold declaration. He spoke of justice, of power, and then, a promise. Should he reclaim the presidency in 2024, he would extend clemency to Juan Orlando Hernández, the former Honduran president currently serving a lengthy drug trafficking sentence in a US prison. It was a pledge met with a mix of gasps and applause, a powerful political maneuver broadcast to his supporters, painting a vivid picture of a future administration ready to rewrite legal fates from the very first day.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764430368123-2",
+        "headline": "The Autopen's Erase Button",
+        "content": "The campaign trail buzzed with President Trump's unwavering resolve. His message was clear, a blueprint for immediate action upon his potential return to office: a swift, decisive undoing of policies. Specifically, he vowed to target every executive order signed by President Biden using an autopen. It was a promise not just of policy reversal, but of symbolic repudiation, setting the stage for a dramatic first day. He declared these orders illegitimate in their signing, framing their cancellation as a necessary step to dismantle the current administration's legacy, a grand act of administrative reboot.",
+        "originalSource": "CBS News",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1764430368123-3",
+        "headline": "The Unflown Journey Home for Thanksgiving",
+        "content": "The college freshman had pictured the familiar embrace of family, the warmth of Thanksgiving dinner. But his journey home was abruptly rerouted. Despite a standing court order, a legal shield intended to protect his right to remain in the United States, he was deported. The dream of turkey and togetherness vanished mid-flight, replaced by the stark reality of separation. This unexpected turn of events ignited a rare, high-stakes legal firestorm, a contempt probe now targeting federal officials. His family, left waiting at an empty holiday table, braced for a battle far from their festive hopes.",
+        "originalSource": "AP News",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1764430368123-4",
+        "headline": "The Roar of the Underdog in the Lone Star Showdown",
+        "content": "The air crackled with anticipation, a vibrant sea of maroon and white expectant. No. 3 Texas A&M, undefeated and seemingly unstoppable, faced off against the No. 16 Texas Longhorns. What began as a fierce rivalry quickly morphed into an epic upset. The Longhorns, defying expectations, clawed their way to a commanding 27-17 victory. The Aggies' perfect season crumbled under the weight of the loss, their dreams of an SEC championship snatched away. The stadium, once a bastion of confident cheers, fell into a stunned silence, replaced by the triumphant roar of the underdog, celebrating a truly momentous victory.",
+        "originalSource": "AP News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764430368123-5",
+        "headline": "The Charismatic Swinger's Final Tee-Off",
+        "content": "The golfing world paused, a collective breath held, as news spread: Fuzzy Zoeller, the beloved two-time major champion, had played his final round at 74. His career was a tapestry woven with iconic Masters and Open Championship victories, punctuated by a charismatic grin and a playful demeanor that endeared him to millions. Yet, his legacy also carried the weight of a controversial misstep, racially insensitive remarks made years prior casting a shadow on an otherwise bright career. Now, as the sun set on his life, the greens remembered his triumphant putts and the complex man who walked them.",
+        "originalSource": "Sky News",
+        "publishedTime": "1 day ago"
+      }
+    ]
   }
 }
