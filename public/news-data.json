@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764478672388,
+  "timestamp": 1764481272814,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764478599464-0",
-        "headline": "Defense Secretary's Alleged 'No Survivors' Order Raises Alarms About Systemic Brutality and Accountability",
-        "content": "Bipartisan committees in both the House and Senate have pledged to launch investigations into Defense Secretary Pete Hegseth's disturbing alleged directive to 'leave no survivors' during a US strike on an alleged drug trafficking vessel in the Caribbean. This move follows a detailed report that highlights serious concerns about potential human rights violations and the troubling lack of accountability within military operations, particularly concerning the use of lethal force without due process.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764478599464-1",
-        "headline": "President Trump's Attempt to Close Venezuelan Airspace Draws International Condemnation as a Colonialist Threat",
-        "content": "President Trump claimed to have ordered the closure of Venezuelan airspace, a provocative action that the Maduro government forcefully rejected as a 'colonial threat.' This unilateral move is widely seen as an egregious violation of national sovereignty and a dangerous escalation, potentially undermining international norms and the aeronautical safety of the region.",
-        "originalSource": "PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764478599464-2",
-        "headline": "President Trump's Planned Pardon for Convicted Honduran President Raises Concerns About Systemic Impunity and Political Favoritism",
-        "content": "President Trump announced his intent to pardon Juan Orlando Hernandez, the former president of Honduras who is currently serving a drug trafficking sentence in the United States. This controversial move, which comes despite Hernandez's conviction, is particularly troubling given his status as a political ally of a Trump-endorsed candidate, highlighting deep-seated issues of political corruption and the selective application of justice for powerful figures.",
+        "id": "story-1764481195838-0",
+        "headline": "President Trump's Plan to Illegitimately Cancel Biden's Executive Orders Threatens Democratic Governance",
+        "content": "President Trump announced his intent to unilaterally cancel all executive orders signed by President Joe Biden using an autopen, baselessly claiming the practice is illegal and a sign of incapacitation. This reckless campaign promise represents a dangerous attack on established democratic processes and seeks to delegitimize the actions of the current administration, potentially unraveling critical policies that benefit millions.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "14 hours ago"
       },
       {
-        "id": "story-1764478599464-3",
-        "headline": "US Officials Suspend Asylum Decisions in Response to D.C. Shooting, Punishing Vulnerable People for Unrelated Incident",
-        "content": "US officials have temporarily halted all asylum application decisions following a tragic shooting in Washington, D.C., which resulted in the death of a National Guard member. While the suspect has been charged with murder, the decision to pause asylum processing is a troubling and disproportionate response that unfairly penalizes vulnerable asylum seekers, reflecting a systemic issue of using unrelated events to justify stricter, less humane immigration policies.",
-        "originalSource": "Al Jazeera",
+        "id": "story-1764481195838-1",
+        "headline": "President Trump's Vowed Pardon for Convicted Drug Trafficker Juan Orlando Hernandez Undermines Global Justice",
+        "content": "President Trump has alarmingly stated his intention to pardon Juan Orlando Hernandez, the former Honduran president recently convicted in the U.S. of grave drug trafficking and weapons charges. This outrageous plan signals a profound disregard for the rule of law and the lives affected by illegal drug trade, demonstrating a disturbing pattern of using presidential clemency to protect political allies rather than uphold justice, further eroding international efforts against corruption.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764481195838-2",
+        "headline": "Congressional Scrutiny Demanded After Horrific 'Kill Them All' Order Led to U.S. Killing of Boat Strike Survivors",
+        "content": "House and Senate armed services committees have rightfully committed to investigating the Pentagon following a deeply disturbing report that Defense Secretary Pete Hegseth issued an order to 'leave no survivors' after a U.S. strike in the Caribbean. This bipartisan scrutiny is critical to addressing the alleged war crime involving the killing of boat strike survivors, raising urgent ethical and legal questions about military accountability and the sanctity of human life in U.S. operations.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764481195838-3",
+        "headline": "Murder Charge Announced for Suspect in National Guard Fatality Amid Increased Militarized Presence in Capital",
+        "content": "Prosecutors have announced a murder charge against the individual suspected of attacking a National Guard member in Washington D.C., an incident that tragically resulted in a fatality. This development unfolds amidst an concerning increase in police and National Guard patrols across the capital, prompting vital conversations about the role of militarized forces in domestic security and the underlying social conditions that contribute to such fatal confrontations.",
+        "originalSource": "The Washington Post",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764478599464-4",
-        "headline": "Immigration Officials Illegally Deport College Student Despite Valid Court Order, Exposing Systemic Disregard for Due Process",
-        "content": "A college student was unjustly deported by immigration officials while attempting to fly home for Thanksgiving, an egregious action taken despite the individual possessing a valid, standing court order. This incident starkly highlights a disturbing pattern of ICE's systemic disregard for judicial decisions and due process, raising serious questions about the rule of law within immigration enforcement and the human rights of individuals caught in its wake.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764481195838-4",
+        "headline": "Venezuela Condemns President Trump's Unilateral Airspace Claim as a Dangerous Colonial Threat to Sovereignty",
+        "content": "Venezuela's government has forcefully rejected President Trump's baseless claim of having closed the nation's airspace, accurately labeling it a 'colonial threat' aimed at undermining the country's sovereignty. This escalating tension follows weeks of aggressive U.S. actions, including the unilateral suspension of migrant repatriation flights, highlighting a deeply concerning pattern of interventionist foreign policy that destabilizes regions and disregards international law.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764478599464-5",
-        "headline": "President Trump Vows to Cancel Biden's Executive Orders Based on Baseless Autopen Claims, Threatening Democratic Norms",
-        "content": "President Trump stated his intent to cancel the majority of Joe Biden's executive orders upon taking office, baselessly asserting that 92 percent of them were illegitimate due to being signed with an autopen. This declaration, made without any legal foundation, represents a troubling attempt to undermine the democratic process and signals a potential abuse of power, prioritizing partisan grandstanding over stable governance and adherence to established norms.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764481195838-5",
+        "headline": "Systemic Economic Failure Forces Millions of Full-Time Workers into Unaffordable Housing Crisis",
+        "content": "A recent report reveals the shocking reality that millions of Americans working full-time jobs are trapped in a systemic economic crisis, unable to afford basic housing and rent. This widespread affordability crisis is not an anomaly but a direct consequence of stagnant wage growth failing to keep pace with the unchecked rising cost of living, pushing countless workers into precarious financial situations and exposing the urgent need for comprehensive policy changes that prioritize people over profit.",
+        "originalSource": "PBS News",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764478599464-0",
-        "headline": "Congressional Committees Vow Scrutiny Over Defense Sec. Hegseth's Alleged 'Kill Everybody' Order on Narco-Boat",
-        "content": "Bipartisan House and Senate armed services committees pledged to investigate Defense Secretary Pete Hegseth's alleged order to 'leave no survivors' during a US strike on an alleged drug trafficking vessel in the Caribbean. The decision follows a detailed report on the incident.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764478599464-1",
-        "headline": "Trump Orders Venezuelan Airspace Closed; Caracas Denounces 'Colonialist Threat'",
-        "content": "Former President Donald Trump claimed to have ordered the closure of Venezuelan airspace, a move which the Maduro government 'forcefully rejected,' calling it a 'colonial threat' aimed at undermining the country's sovereignty and aeronautical safety.",
-        "originalSource": "PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764478599464-2",
-        "headline": "Trump Plans to Pardon Former Honduran President Convicted of Drug Trafficking",
-        "content": "Donald Trump announced his intent to pardon Juan Orlando Hernandez, the former president of Honduras who is currently serving a drug trafficking sentence in the United States. Hernandez is a political ally of a Trump-endorsed candidate.",
+        "id": "story-1764481195838-0",
+        "headline": "Trump says he's canceling all Biden orders signed using an autopen",
+        "content": "Donald Trump announced he would immediately cancel all executive orders signed by President Joe Biden using an autopen, claiming the practice is illegal and a sign of Biden's incapacitation. This campaign promise signals a major policy reversal intended to frame the current administration's actions as illegitimate.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "14 hours ago"
       },
       {
-        "id": "story-1764478599464-3",
-        "headline": "US Halts All Asylum Decisions After National Guard Member Killed in D.C. Shooting",
-        "content": "US officials have temporarily paused all asylum application decisions in the wake of a shooting in Washington, D.C., where a National Guard member was killed. The suspect in the attack has since been charged with murder.",
-        "originalSource": "Al Jazeera",
+        "id": "story-1764481195838-1",
+        "headline": "Trump plans to pardon former Honduran president convicted of drug trafficking",
+        "content": "Former President Donald Trump has stated his intention to issue a pardon to Juan Orlando Hernandez, the former Honduran president recently convicted in the U.S. of drug trafficking and weapons charges. The controversial plan is part of his broader promise to use presidential clemency for political allies and comes amid domestic and international criticism.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764481195838-2",
+        "headline": "Congressional committees to scrutinize U.S. killing of boat strike survivors after 'Kill them all' order revealed",
+        "content": "House and Senate armed services committees have pledged to investigate the Pentagon following a report that Defense Secretary Pete Hegseth ordered a U.S. strike in the Caribbean to 'leave no survivors.' The bipartisan scrutiny concerns the U.S. killing of survivors from a boat strike and has raised serious ethical and legal questions.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764481195838-3",
+        "headline": "Suspected National Guard attacker will face murder charge, prosecutor says",
+        "content": "The individual suspected of attacking a National Guard member in Washington D.C., an event which resulted in a fatality, will be charged with murder, according to the prosecutor's office. This development comes amid increased police and National Guard patrols in the nation's capital following the fatal assault and highlights ongoing security concerns.",
+        "originalSource": "The Washington Post",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764478599464-4",
-        "headline": "College Student Deported on Thanksgiving Trip Home Despite Existing Court Order",
-        "content": "A college student was deported by immigration officials while attempting to fly home for Thanksgiving, an action taken despite the individual holding a valid, standing court order. The incident has raised questions about ICE's adherence to judicial decisions.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764481195838-4",
+        "headline": "Maduro's government rejects Trump's claim of closing Venezuelan airspace, calling it a 'colonial threat'",
+        "content": "Venezuela's government 'forcefully rejects' former President Donald Trump's claim that he had closed the country's airspace, labeling it a 'colonial threat' intended to undermine the nation's sovereignty. The rejection follows weeks of escalating tensions and the unilateral suspension of migrant repatriation flights by the U.S.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764478599464-5",
-        "headline": "Trump Vows to Cancel 'Most' of Biden's Executive Orders, Citing Autopen Claims",
-        "content": "Donald Trump stated he plans to cancel the majority of Joe Biden's executive orders upon taking office. He asserted, without legal basis, that 92 percent of the orders were illegitimate due to being signed using an autopen.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764481195838-5",
+        "headline": "Millions of full-time workers are struggling to afford a place to live in the U.S.",
+        "content": "A recent news report highlights the ongoing economic crisis where millions of Americans working full-time jobs are struggling to afford housing and rent. The rising cost of living, coupled with stagnant wage growth, continues to fuel a nationwide affordability crisis, pushing many workers toward precarious financial situations.",
+        "originalSource": "PBS News",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764478599464-0",
-        "headline": "Defense Secretary Hegseth's Decisive Action Against Drug Traffickers Faces Unwarranted Congressional Scrutiny",
-        "content": "Defense Secretary Pete Hegseth's strong directive to neutralize a drug trafficking vessel in the Caribbean demonstrates a firm commitment to national security and the fight against illicit trade. However, bipartisan House and Senate armed services committees have pledged to investigate this decisive action, a move that risks undermining the swift and necessary responses required to protect our borders and citizens from dangerous narco-terrorists. This scrutiny, following a detailed report, must not hinder our military's ability to act decisively against those who threaten American security.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764478599464-1",
-        "headline": "President Trump Asserts American Sovereignty, Closes Venezuelan Airspace Against Socialist Tyranny",
-        "content": "President Trump has taken a bold stance against the oppressive Maduro regime by ordering the closure of Venezuelan airspace. This decisive action, aimed at asserting American authority and protecting regional stability, was met with predictable outrage from Caracas, which denounced it as a 'colonial threat.' The Maduro government's 'forceful rejection' underscores its fragile grip on power and its consistent opposition to any measures that challenge its socialist agenda, which has brought untold suffering to the Venezuelan people.",
-        "originalSource": "PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764478599464-2",
-        "headline": "President Trump Exercises Executive Prerogative, Considers Pardon for Honduran Political Ally",
-        "content": "President Trump has announced his intention to pardon Juan Orlando Hernandez, the former President of Honduras, currently serving a drug trafficking sentence in the United States. This move highlights President Trump's willingness to exercise the full scope of executive clemency, especially for political allies, and challenges conventional approaches to international justice. Such actions underscore his commitment to supporting leaders who align with American interests and regional stability, while also signaling a potential re-evaluation of past legal proceedings.",
+        "id": "story-1764481195838-0",
+        "headline": "President Trump Vows to Annul All Illegitimate Autopen Orders from Current Administration",
+        "content": "President Trump has boldly declared his intent to immediately cancel every executive order signed by Joe Biden using an autopen, labeling the practice as unconstitutional and a stark indicator of the current occupant's unfitness for office. This crucial policy commitment underscores President Trump's unwavering resolve to restore the integrity of presidential actions and nullify the overreach of an administration perceived as fundamentally illegitimate.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "14 hours ago"
       },
       {
-        "id": "story-1764478599464-3",
-        "headline": "National Security Prioritized as Asylum Decisions Halted Following Tragic National Guard Loss",
-        "content": "In a crucial move to prioritize national security and public safety, US officials have temporarily paused all asylum application decisions. This significant decision comes in the wake of a tragic shooting in Washington, D.C., which resulted in the senseless death of a National Guard member. As law enforcement continues to investigate and the suspect faces murder charges, this pause reflects a necessary reassessment of immigration processes to ensure the utmost protection for our citizens and those who bravely serve our nation.",
-        "originalSource": "Al Jazeera",
+        "id": "story-1764481195838-1",
+        "headline": "President Trump Signals Intent to Grant Pardon to Former Honduran Leader, Exercising Executive Clemency",
+        "content": "President Trump has made clear his intention to extend a presidential pardon to Juan Orlando Hernandez, the former President of Honduras, recently convicted on drug trafficking and weapons charges in the U.S. This decisive action is consistent with President Trump's broader commitment to employing executive clemency where he deems it just and politically appropriate, reinforcing alliances and asserting American sovereignty despite predictable criticisms from those opposed to his leadership.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764481195838-2",
+        "headline": "Congress to Probe Caribbean Strike Amid Concerns Over Military Orders and National Security Protocols",
+        "content": "Both House and Senate armed services committees have announced inquiries into the Pentagon, following reports that Defense Secretary Pete Hegseth issued a directive to 'leave no survivors' during a U.S. strike in the Caribbean. While bipartisan scrutiny has emerged regarding the ethics and legality of operations involving survivors, these investigations must be conducted with the utmost care to ensure they do not compromise vital national security operations or undermine the morale and effectiveness of our brave service members protecting American interests.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764481195838-3",
+        "headline": "Justice Sought: Attacker of National Guard Member in D.C. to Face Murder Charges",
+        "content": "The individual allegedly responsible for the heinous attack on a National Guard member in Washington D.C., which tragically resulted in a fatality, will rightly be charged with murder, prosecutors confirm. This critical step towards justice reinforces the sacred duty to protect those who safeguard our capital and our nation. The increased presence of law enforcement and National Guard patrols underscores the imperative to restore order and decisively punish those who threaten the rule of law and the lives of our dedicated service members.",
+        "originalSource": "The Washington Post",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764478599464-4",
-        "headline": "Immigration Enforcement Under Scrutiny Following College Student's Deportation Despite Existing Court Order",
-        "content": "A recent incident involving the deportation of a college student, who was attempting to fly home for Thanksgiving despite possessing a valid, standing court order, has brought immigration enforcement procedures into question. While the importance of maintaining secure borders and upholding immigration laws remains paramount, this case highlights potential bureaucratic missteps within the system. It is imperative that agencies like ICE operate with precision, ensuring due process is respected while firmly upholding the sovereignty and security of our nation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764481195838-4",
+        "headline": "Maduro Regime Baselessly Cries 'Colonial Threat' After President Trump's Firm Stance on Venezuelan Airspace",
+        "content": "The authoritarian Maduro regime in Venezuela predictably and 'forcefully rejects' President Trump's assertion that he had closed their airspace, disingenuously labeling it a 'colonial threat' designed to undermine their national sovereignty. This familiar anti-American posturing comes amidst escalating tensions, showcasing President Trump's unwavering resolve to address the crisis in Venezuela and protect American interests, including the unilateral suspension of migrant repatriation flights, without bowing to the hollow accusations of a failing socialist government.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764478599464-5",
-        "headline": "President Trump Vows to Roll Back Biden's Unconstitutional Executive Orders, Restoring Legitimate Governance",
-        "content": "President Trump has emphatically declared his intention to cancel the vast majority of Joe Biden's executive orders upon re-entering office. He robustly asserts that a staggering 92 percent of these orders lacked legitimate presidential signature, often relying on an autopen, thereby questioning their constitutional validity. This pledge underscores President Trump's unwavering commitment to dismantling executive overreach, restoring the proper balance of power, and ensuring that governance adheres strictly to constitutional principles, thereby liberating our nation from burdensome decrees.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764481195838-5",
+        "headline": "Economic Policies Undermining Prosperity: Hardworking Americans Struggle with Soaring Housing Costs",
+        "content": "A recent report alarmingly reveals that millions of hardworking Americans, despite full-time employment, are increasingly unable to afford basic housing and rent across the nation. This deepening affordability crisis is a direct consequence of misguided economic policies that have fueled inflation and stifled true wage growth, hindering the free market and pushing countless citizens into financial instability. It is imperative that we return to sound fiscal principles and reduce bureaucratic burdens to restore an economy where individual effort is truly rewarded, and every American can achieve the dream of homeownership.",
+        "originalSource": "PBS News",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764478599464-0",
-        "headline": "Congressional Committees Finally Notice Defense Secretary’s ‘No Survivors’ Policy, Express Mild Curiosity",
-        "content": "Bipartisan House and Senate armed services committees, after carefully reviewing the definition of 'scrutiny,' have heroically vowed to investigate Defense Secretary Pete Hegseth’s rather unambiguous order to 'leave no survivors' during a US strike on an alleged drug trafficking vessel. Sources close to the committees indicated that the detailed report, which had been sitting on someone's desk for weeks, was finally opened when a staffer needed a coaster for their coffee. Officials were quick to clarify that 'investigate' primarily involves asking a few pointed questions and then probably moving on to more pressing matters, like what to have for lunch.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764478599464-1",
-        "headline": "President Trump Magnanimously Announces He Has Already Closed Venezuelan Airspace, Offers To Do It Again If Necessary",
-        "content": "President Trump, in a stunning display of transcontinental authority, confidently declared he had already personally closed Venezuelan airspace, much to the surprise of everyone, especially the planes currently flying through it. The Maduro government 'forcefully rejected' this invisible closure, calling it a 'colonial threat' to their sovereign nothingness, apparently unaware that President Trump's mere vocalizations now carry the weight of international law. Experts are now scrambling to determine if President Trump can also close other things, such as bad weather or Mondays.",
-        "originalSource": "PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764478599464-2",
-        "headline": "President Trump To Gracefully Pardon Drug-Trafficking President, Citing 'Excellent Taste In Political Allies'",
-        "content": "President Trump, in a move that absolutely nobody saw coming, has announced his heartwarming intent to pardon Juan Orlando Hernandez, the former Honduran president currently enjoying the hospitality of a U.S. prison for drug trafficking. The decision, President Trump explained, was purely based on Hernandez being 'a terrific guy, a friend, a very fine person' and, more importantly, a 'political ally of a candidate I endorse.' Critics, who clearly lack an appreciation for pragmatic politics, questioned the implications, while proponents hailed it as a groundbreaking new standard for legal leniency: 'Know the right people, do the time... or maybe not.'",
+        "id": "story-1764481195838-0",
+        "headline": "President Trump Declares Autopen-Signed Documents Are \"Fake News\" of Bureaucracy, Vows Eraser Revolution",
+        "content": "President Trump announced his audacious plan to unilaterally nullify any executive order signed by President Joe Biden using that suspicious \"autopen\" device, claiming such mechanical signatures are an unprecedented affront to the very hand-signing integrity of the presidency. Critics quickly pointed out the only thing \"incapacitated\" might be the notion of actual work, but President Trump assures the public this move is crucial to undoing every single paper ever touched by a machine.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "14 hours ago"
       },
       {
-        "id": "story-1764478599464-3",
-        "headline": "Nation Reacts To Isolated Tragedy By Punishing Anyone Who Ever Thought About Seeking Safety",
-        "content": "US officials, demonstrating a remarkable ability to connect dots invisible to the naked eye, have temporarily halted all asylum application decisions in the wake of a shooting in Washington, D.C., where a National Guard member was tragically killed. The suspect in the attack has since been charged, but authorities concluded that the most logical and proportional response was to effectively tell anyone fleeing persecution, 'Sorry, come back later, we’re having a moment.' Immigration advocates lauded the government’s unwavering commitment to making every domestic tragedy somehow about immigration.",
-        "originalSource": "Al Jazeera",
+        "id": "story-1764481195838-1",
+        "headline": "President Trump Unveils New \"Friend of My Enemy's Enemy\" Pardon Program, Starting With Convicted Drug Trafficker",
+        "content": "President Trump proudly revealed his innovative clemency criteria today, promising a full presidential pardon for Juan Orlando Hernandez, the recently convicted former Honduran president with a penchant for narcotics trafficking. Sources close to the campaign confirm this is merely the first step in President Trump's magnanimous plan to reward those who might, at some point, have vaguely disliked someone he also disliked, regardless of inconvenient legal proceedings.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764481195838-2",
+        "headline": "Congressional Committees Express Mild Discomfort After Defense Secretary Pete Hegseth's \"Kill Them All\" Order Revealed",
+        "content": "In a stunning display of institutional due diligence, House and Senate armed services committees bravely vowed to \"look into\" reports that Defense Secretary Pete Hegseth, in a moment of perhaps excessive clarity, instructed forces in the Caribbean to \"leave no survivors\" after a boat strike. Lawmakers are reportedly concerned that such direct orders might set a precedent for, you know, actually giving orders, prompting a careful review of whether mass casualty events should involve slightly more euphemistic language.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764481195838-3",
+        "headline": "Suspect in Fatal D.C. National Guard Attack Charged With \"Murder,\" Local Man Reportedly Shocked by Legal Consequences",
+        "content": "In a surprising turn of events, prosecutors have announced the individual suspected of fatally attacking a National Guard member in Washington D.C. will face the rarely-used charge of \"murder.\" The move reportedly stunned local residents who assumed a fatal assault on a uniformed officer might only warrant a strongly-worded letter or perhaps a stern talking-to, prompting D.C. officials to remind citizens that, yes, killing people is still technically against the law.",
+        "originalSource": "The Washington Post",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764478599464-4",
-        "headline": "Immigration Officials Declare Court Orders 'Optional Reading' After Deporting Student With Valid Legal Protection",
-        "content": "In a bold new initiative showcasing bureaucratic efficiency, immigration officials successfully deported a college student attempting to fly home for Thanksgiving, effortlessly bypassing a valid, standing court order like it was a mere suggestion on a particularly verbose Post-it note. The incident has raised 'questions' about ICE’s 'adherence' to 'judicial decisions,' a process now apparently being reclassified as 'lightly considered recommendations.' Officials later clarified that they are simply 'too busy' to read every piece of paper given to them, especially when there are planes to fill.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764481195838-4",
+        "headline": "Maduro Rejects President Trump's Imaginary Airspace Closure with Fierce, Equally Imaginary Protest",
+        "content": "Venezuela's government \"forcefully rejected\" President Trump's bold declaration that he had single-handedly \"closed\" their nation's airspace, labeling the entirely hypothetical action a \"colonial threat.\" Observers noted the vigorous protest was a fitting response to a claim that existed only in President Trump's mind, further escalating a geopolitical dispute waged entirely within the realm of dramatic pronouncements and passionate, non-existent grievances.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764478599464-5",
-        "headline": "President Trump To Erase 92% Of Biden's Orders, Citing Deeply Scientific Autopen Conspiracy",
-        "content": "President Trump, armed with irrefutable evidence visible only to him, has vowed to cancel a precise and utterly believable '92 percent' of Joe Biden's executive orders upon taking office. The reason? A shocking claim, completely devoid of any legal basis, that these orders were illegitimately signed using an 'autopen.' Experts are now frantically searching for the hidden 'autopen-ometer' President Trump uses to detect these clandestine robotic signatures, fearing a future where presidential directives are only legitimate if signed with a quill pen and witnessed by a unicorn. The remaining 8% of Biden's orders, it is rumored, were signed by an actual human and are therefore grudgingly allowed to stand.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764481195838-5",
+        "headline": "Full-Time Workers Discover Ingenious New \"Homelessness\" Lifestyle Trend as Housing Costs Soar",
+        "content": "Millions of Americans, diligently toiling away at their full-time jobs, have reportedly stumbled upon a groundbreaking new solution to the nation's housing crisis: simply not having a house. Experts are calling it \"Economic Efficiency Chic,\" a novel approach to budgeting where eliminating rent and mortgage payments frees up capital for, well, nothing much else, as rising costs still absorb every spare penny.",
+        "originalSource": "PBS News",
+        "publishedTime": "6 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764478599464-0",
-        "headline": "Important Government Groups Want to Check on a Big Boss's Order",
-        "content": "Some important groups in the government, like the House and Senate, said they will look into something serious. It's about a man named Pete Hegseth, who is in charge of a lot of our country's military stuff. People say he told soldiers to make sure no one survived when they attacked a boat they thought was carrying illegal drugs in the ocean. This happened after they read a special report about what went down.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764478599464-1",
-        "headline": "President Trump Said No Planes Can Fly Over Venezuela's Sky",
-        "content": "President Trump said that he told airplanes not to fly over the country of Venezuela. But the people who run Venezuela, led by Mr. Maduro, got very mad about this. They said it was like someone from far away trying to boss them around and that it would make flying planes less safe for them. They want to be able to make their own rules for their country.",
-        "originalSource": "PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764478599464-2",
-        "headline": "President Trump Says He Will Forgive a President Who Did Bad Things",
-        "content": "President Trump said he wants to pardon, which means forgive, a man named Juan Orlando Hernandez. This man used to be the president of a country called Honduras, but he was found guilty of selling illegal drugs and is now in jail in America. President Trump is doing this because Hernandez is friends with someone President Trump supports to win an election.",
+        "id": "story-1764481195838-0",
+        "headline": "President Trump Wants to Get Rid of Some Rules",
+        "content": "President Trump said he would quickly stop any rules that President Biden signed using a special machine called an autopen. President Trump thinks it's not allowed and that President Biden might be too sick to sign things himself. This means he wants to change a lot of things the current government has done.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "14 hours ago"
       },
       {
-        "id": "story-1764478599464-3",
-        "headline": "America Paused Decisions for People Asking for Safe Places to Live",
-        "content": "People in charge in America have stopped, for now, deciding if people from other countries can stay here because they are looking for safety. This happened after someone from the National Guard, who is like a soldier, was killed in a shooting in Washington, D.C. The person they think did the shooting has been accused of murder.",
-        "originalSource": "Al Jazeera",
+        "id": "story-1764481195838-1",
+        "headline": "President Trump Might Forgive a President Who Broke Rules",
+        "content": "President Trump said he might pardon (which means forgive someone for a crime) a person named Juan Orlando Hernandez. This person used to be the president of Honduras and was found guilty in America of selling drugs and having illegal weapons. This plan is getting a lot of people talking and some are not happy about it.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764481195838-2",
+        "headline": "Government Wants to Know Why Boat Survivors Died",
+        "content": "Special groups in our government are going to look into something serious. They heard that the head of defense, Pete Hegseth, told soldiers to \"leave no survivors\" after attacking a boat in the ocean. This means people who lived through the boat attack were also killed by the U.S. army. Many people think this is very wrong and against the law.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764481195838-3",
+        "headline": "Someone Who Attacked a Soldier Will Be Charged with Murder",
+        "content": "Someone who is thought to have attacked a National Guard soldier in Washington D.C. will be charged with murder. This means they will be accused of killing the soldier. After this happened, there are now more police and soldiers watching over the city because people are worried about safety.",
+        "originalSource": "The Washington Post",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764478599464-4",
-        "headline": "A Student Was Sent Home Even Though a Judge Said They Could Stay Here",
-        "content": "A college student was sent back to their home country by government people who handle who comes into America. This happened when the student was trying to fly home for Thanksgiving. The student had a special paper from a judge that said they were allowed to be in America, but the government still sent them away. This has made some people wonder if the government is always listening to what judges decide.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764481195838-4",
+        "headline": "Venezuela Says President Trump Cannot Close Its Air",
+        "content": "The government in Venezuela is very upset about something President Trump said. President Trump claimed he had closed the sky over Venezuela, meaning no planes could fly there. Venezuela says this is a big threat and that President Trump cannot boss them around. This comes after some arguments between the two countries.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764478599464-5",
-        "headline": "President Trump Says He Will Get Rid of Many Rules Made by Another President",
-        "content": "President Trump said that if he becomes president again, he will cancel most of the special rules that President Joe Biden made. He said that a lot of these rules weren't real because they were signed by a machine instead of President Biden himself, but there isn't really any proof that this makes them not real.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764481195838-5",
+        "headline": "Lots of Working People Cannot Afford Homes",
+        "content": "A new report shows that many, many people who work full-time jobs in America are finding it really hard to pay for a house or even rent an apartment. Everything is getting more expensive, but people's paychecks aren't getting bigger. This is making it tough for lots of families to live comfortably.",
+        "originalSource": "PBS News",
+        "publishedTime": "6 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764478599464-0",
-        "headline": "The Caribbean's Silent Echoes",
-        "content": "The alleged order cut through the secure lines: 'Leave no survivors.' Defense Secretary Pete Hegseth's words, aimed at a suspected drug trafficking vessel in the Caribbean, sent a chill through the command. Details of the US strike emerged, painting a grim picture. Back in Washington, the bipartisan House and Senate armed services committees were anything but silent. They vowed rigorous investigation, demanding accountability for a directive that blurred lines of engagement. The sea might have swallowed the evidence, but the questions about a chilling command now threatened to capsize more than just a narco-boat.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764478599464-1",
-        "headline": "Skyward Standoff: A Nation's Airspace",
-        "content": "A presidential decree reverberated across continents. President Trump announced a unilateral closure of Venezuelan airspace, a bold move intended to assert dominance. In Caracas, the Maduro government erupted in fury. They denounced the action as a 'colonial threat,' a flagrant assault on their sovereignty and a dangerous gambit against aeronautical safety. The skies above Venezuela became a symbol of a simmering international conflict, not merely a route for planes. The command, rejected with fiery rhetoric, cemented a tense diplomatic standoff, demonstrating the far-reaching impact of a single signature.",
-        "originalSource": "PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764478599464-2",
-        "headline": "The Politician's Gambit",
-        "content": "The news spread like wildfire: President Trump intended to pardon Juan Orlando Hernandez. The former Honduran president, currently serving time in the US for drug trafficking, would find an unlikely benefactor. This decision, announced by President Trump, sparked immediate debate. Hernandez was known as a political ally to a candidate endorsed by President Trump, suggesting motives beyond pure justice. The promise of clemency cast a long shadow over judicial processes, raising questions about influence and the intersection of power with personal allegiance, a political maneuver played on a global stage.",
+        "id": "story-1764481195838-0",
+        "headline": "The Pen's Ghost",
+        "content": "President Trump declared war on a ghost. He vowed to purge all executive orders signed by President Joe Biden using an autopen, branding the practice illegal and a clear sign of incapacitation. A mere mechanical signature, he argued, stripped the decrees of their legitimacy. This wasn't just a promise; it was a gauntlet thrown, aimed at unraveling the very fabric of the current administration's authority, painting its actions as void, a mere echo of true presidential power. The ink, or lack thereof, became a battleground for future policy.",
         "originalSource": "CBS News",
-        "publishedTime": "4 hours ago"
+        "publishedTime": "14 hours ago"
       },
       {
-        "id": "story-1764478599464-3",
-        "headline": "Echoes of a DC Tragedy",
-        "content": "The nation reeled from the news: a National Guard member tragically killed in a Washington D.C. shooting. The suspect was apprehended, charged with murder. Yet, the tragedy's ripples extended far beyond the immediate grief. US officials, in a drastic move, temporarily halted all asylum application decisions. The gates to hope, already narrow, suddenly slammed shut for countless individuals seeking refuge. A single act of violence in the capital city cascaded into a humanitarian pause, impacting lives globally, demonstrating how one incident can alter the destiny of many.",
-        "originalSource": "Al Jazeera",
+        "id": "story-1764481195838-1",
+        "headline": "A Debt Unpaid, A King Unbound",
+        "content": "The whispers from the capitol suggested a controversial clemency. President Trump, ever a patron of loyalty, signaled his intent to pardon Juan Orlando Hernandez, the former Honduran president ensnared by U.S. drug trafficking and weapons charges. This move, a brazen exercise of presidential power, was woven into a larger tapestry of promises to shield political allies. As international condemnation mounted and domestic critics roared, the shadow of a kingpin's freedom loomed, a stark illustration of alliances transcending justice, and promises kept at a heavy cost.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764481195838-2",
+        "headline": "Whispers from the Waves",
+        "content": "The chilling command, \"leave no survivors,\" echoed from the depths of the Caribbean, sparking a congressional storm. House and Senate committees braced for a fierce inquiry into the Pentagon's actions, specifically Defense Secretary Pete Hegseth's alleged order after a U.S. boat strike. Survivors, it seemed, had been silenced, raising a tide of ethical and legal questions that threatened to engulf the military's command. The sea had given up its dead, but not its secrets, forcing Washington to confront the dark heart of a deadly decree.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764481195838-3",
+        "headline": "The Capital's Shroud",
+        "content": "Washington D.C. held its breath. A solemn declaration from the prosecutor's office confirmed the inevitable: murder charges awaited the individual linked to the fatal assault on a National Guard member. The city, already taut with unease, saw its streets further choked by increased patrols, their presence a stark reminder of the recent tragedy. A life taken, a uniform marred, and the capital's fragile sense of security frayed. The incident cast a long shadow, a chilling testament to the persistent vulnerability lurking beneath the veneer of civic order.",
+        "originalSource": "The Washington Post",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764478599464-4",
-        "headline": "Thanksgiving's Bitter Flight Home",
-        "content": "The college student boarded the plane, heart light with the anticipation of Thanksgiving. A valid court order, a legal shield, promised a safe return home. But upon landing, immigration officials shattered that expectation. Despite the existing judicial decree, they proceeded with deportation, ripping away the student's legal protections and their holiday plans. The incident ignited outrage, raising serious questions about ICE's adherence to legal mandates. A journey meant for reunion became a harrowing ordeal, transforming a celebration into a bitter testament to arbitrary authority.",
-        "originalSource": "The Guardian",
-        "publishedTime": "8 hours ago"
+        "id": "story-1764481195838-4",
+        "headline": "Sky's Dominion",
+        "content": "A storm brewed over Caracas. Venezuela's government vehemently rejected President Trump's assertion of closing their airspace, branding it a \"colonial threat.\" The claim, a stark challenge to national sovereignty, followed weeks of escalating tensions and the U.S.'s unilateral halt of migrant repatriation flights. Maduro's administration saw it as a brazen attempt to exert external dominance, a modern-day blockade in the skies. The declaration ignited a diplomatic firestorm, highlighting the volatile dance of power and pride between nations, where even the air became a contested territory.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764478599464-5",
-        "headline": "A President's Promise to Undo",
-        "content": "President Trump made a clear declaration: upon assuming office, he would systematically dismantle most of Joe Biden's executive orders. His rationale? A provocative claim, lacking legal basis, that 92 percent of those orders were illegitimate, signed using an autopen. This assertion set the stage for a dramatic policy reversal, a direct challenge to the previous administration's legacy. The promise to undo, to sweep clean the existing legislative landscape, signaled an aggressive approach to governance, demonstrating how a new leader intends to wield the power of the pen.",
-        "originalSource": "Al Jazeera",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764481195838-5",
+        "headline": "The Unreachable Home",
+        "content": "For millions, the American dream had become a cruel mirage. Full-time work, once a guaranteed path to stability, now led only to a relentless struggle. A recent report laid bare the stark reality: housing costs soaring, wages stagnant, pushing countless individuals into a precarious financial abyss. The warmth of a secure home, a fundamental human need, remained agonizingly out of reach. Each month was a brutal calculation, a testament to an affordability crisis that quietly eroded lives, turning tireless effort into an endless pursuit of basic survival.",
+        "originalSource": "PBS News",
+        "publishedTime": "6 hours ago"
       }
     ]
   }
