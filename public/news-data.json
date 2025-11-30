@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764535189482,
+  "timestamp": 1764538310714,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764535115074-0",
-        "headline": "President Trump's Unilateral Declaration Against Venezuela Risks Escalation and Regional Instability",
-        "content": "President Trump has unilaterally declared Venezuela's airspace 'closed in its entirety,' marking a deeply concerning escalation in U.S. foreign policy. This move, framed by warnings of potential U.S. strikes against alleged drug traffickers, has been rightly condemned by the Maduro government as a 'colonial threat' and a clear violation of national sovereignty. Such actions highlight a troubling pattern of interventionism that destabilizes the region and undermines international law, rather than addressing any root causes of alleged issues.",
-        "originalSource": "AP News",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-1",
-        "headline": "U.S. Government Imposes Sweeping Pause on Asylum Decisions After Shooting, Impacting Vulnerable Seekers",
-        "content": "In a deeply concerning move, the U.S. government has announced an immediate and broad pause on all asylum decisions. This drastic policy change follows a fatal National Guard shooting in D.C., with the suspect identified as a U.S.-based Afghan veteran. Linking this individual act to a blanket halt on asylum for countless vulnerable people unfairly scapegoats an entire population, exacerbating the already dire situation for those fleeing persecution and seeking safety. It highlights systemic failures in supporting veterans, particularly those from war-torn regions, and risks perpetuating xenophobic narratives within the asylum process.",
-        "originalSource": "TIME",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-2",
-        "headline": "President Trump's Controversial Pardon of Convicted Honduran Ex-President Raises Grave Concerns About Justice",
-        "content": "President Trump has issued a highly controversial full pardon to former Honduran President Juan Orlando Hernández, who was incarcerated in the U.S. on serious drug trafficking charges. This clemency decision represents a profound abuse of executive power, undermining the pursuit of justice and sending a disturbing message about accountability for powerful individuals. It casts a shadow over the integrity of the U.S. legal system and highlights how executive clemency can be exploited for political gain, further eroding public trust and injecting a divisive element into the election cycle.",
-        "originalSource": "AP News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764535115074-3",
-        "headline": "Systemic Failures Exacerbated Isolation of National Guard Shooting Suspect Amid Unheeded Community Concerns",
-        "content": "New details emerging from the National Guard shooting investigation reveal a tragic story of an Afghan suspect struggling with profound isolation and a deteriorating mental state. While reports suggest radicalization, it is crucial to examine the systemic failures that allowed a vulnerable individual to become so withdrawn. Community and family members had repeatedly voiced serious concerns about the shooter's declining mental health, yet these warnings evidently went unaddressed. This highlights an urgent need for robust social support systems and accessible mental healthcare to prevent such tragedies and to address the root causes of isolation and desperation.",
-        "originalSource": "AP News",
-        "publishedTime": "2-6 hours ago"
-      },
-      {
-        "id": "story-1764535115074-4",
-        "headline": "Tragic Mass Shooting at Children's Party in California Underscores Urgent Need for Gun Reform",
-        "content": "Authorities in Stockton, California, are investigating a horrific mass shooting at a child's party that claimed four lives and wounded eleven others, sending shockwaves through the community. This devastating incident is not an isolated event but another tragic consequence of pervasive gun violence plaguing our nation. It starkly highlights the systemic failure of current gun laws to protect communities, particularly our children, from preventable tragedies. This demands immediate and comprehensive legislative action to address the root causes of gun violence and ensure public safety for everyone.",
+        "id": "story-1764538245776-0",
+        "headline": "Governor Noem's Claim of Domestic Radicalization Highlights Systemic Failures in Addressing Roots of Violence",
+        "content": "South Dakota Governor Kristi Noem attributed the recent National Guard shooting to the suspect's 'radicalization' within the United States. This statement prompts a critical examination of the underlying systemic issues that foster extremism, rather than solely focusing on individual blame. A progressive perspective demands an investigation into socio-economic disparities, accessible mental health resources, and the influence of divisive political rhetoric that can create environments conducive to such radicalization.",
         "originalSource": "The Guardian",
-        "publishedTime": "last 24 hours"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764535115074-5",
-        "headline": "Alabama Adopts Teenager's Redistricting Map, Marking Victory for Fair Representation and Voting Rights",
-        "content": "In a remarkable and inspiring victory for democratic principles, Alabama has officially adopted a redistricting map drawn by a high school student. This historic decision replaces an earlier map that had been successfully challenged in court for systematically violating voting rights protections and suppressing fair representation. The teenager's map demonstrates the power of grassroots efforts to dismantle systemic injustices, ensuring that electoral districts genuinely reflect the diverse communities they serve and upholding the fundamental right to an equitable vote for all citizens.",
-        "originalSource": "The Guardian",
+        "id": "story-1764538245776-1",
+        "headline": "President Trump's Proposed Pardon for Convicted Drug Trafficker Juan Orlando Hernández Raises Concerns About Global Justice and Rule of Law",
+        "content": "President Trump announced his intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a U.S. sentence for drug trafficking. This move draws strong criticism from those concerned about undermining international anti-corruption efforts and sending a dangerous message that powerful figures may evade justice, potentially emboldening criminal networks and eroding the global rule of law.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764538245776-2",
+        "headline": "President Trump's Airspace Order Against Venezuela Denounced as 'Colonialist Threat', Escalating Regional Tensions",
+        "content": "Venezuela's government vehemently condemned President Trump's order to close Venezuelan airspace, labeling it a 'colonialist threat.' This unilateral action by the U.S. comes amidst weeks of increasing political tensions and military posturing, reflecting a concerning pattern of interventionist foreign policy that disregards national sovereignty and risks further destabilizing the region rather than seeking diplomatic resolutions.",
+        "originalSource": "PBS News",
+        "publishedTime": "21 hours ago"
+      },
+      {
+        "id": "story-1764538245776-3",
+        "headline": "Reports Indicate Defense Secretary Hegseth Politicizing Pentagon to Punish President Trump's Political Foes, Threatening Democratic Institutions",
+        "content": "Defense Secretary Pete Hegseth is reportedly aligning the Pentagon with President Trump's efforts to punish political adversaries, allegedly threatening to deploy the military justice system against Democrats. Such actions represent a grave politicization of the armed forces and a dangerous erosion of democratic norms, raising alarms about the weaponization of state power against political opposition and the integrity of a non-partisan military.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-4",
+        "headline": "Representative Turner Highlights Inherent Contradictions Between 'America First' Ideology and Global Responsibility Amidst Pro-Russia Stance",
+        "content": "Representative Mike Turner publicly argued that the 'America First' political movement is fundamentally incompatible with being pro-Russia. This statement underscores the inherent contradictions within isolationist and nationalist ideologies that often fail to grasp global interconnectedness, highlighting the urgent need for a foreign policy that prioritizes human rights, international cooperation, and democratic alliances over narrow self-interest that inadvertently aids authoritarian regimes.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-5",
+        "headline": "Systemic Underinvestment and Corporate Neglect Lead to Widespread Post-Thanksgiving Flight Delays and Cancellations, Frustrating Travelers",
+        "content": "The post-Thanksgiving holiday travel period was marred by thousands of U.S. flight delays and hundreds of cancellations, causing immense frustration for travelers. These disruptions are not mere inconveniences but symptoms of deeper systemic issues: decades of underinvestment in aviation infrastructure, lax regulatory oversight, and airline companies prioritizing profit margins over adequate staffing, worker protections, and passenger experience, demanding a comprehensive reform for a more resilient and equitable travel system.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764535115074-0",
-        "headline": "Trump declares Venezuela's airspace 'closed in its entirety' and threatens strikes",
-        "content": "President Donald Trump declared Venezuela's airspace \"closed in its entirety,\" a significant escalation after weeks of heightened tensions. He warned of potential U.S. strikes against alleged drug traffickers in the region, a controversial move that the Maduro government quickly condemned as a \"colonial threat\" and unilateral act.",
-        "originalSource": "AP News",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-1",
-        "headline": "U.S. Pauses All Asylum Decisions in wake of National Guard shooting",
-        "content": "The U.S. government announced an immediate pause on all asylum decisions following the fatal National Guard shooting in D.C. This major policy change is directly linked to the suspect being a U.S.-based Afghan veteran, prompting a federal review of the asylum process for individuals connected to past U.S. military operations.",
-        "originalSource": "TIME",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-2",
-        "headline": "Trump's pardon of ex-Honduran president Hernández injects wild card into election",
-        "content": "Donald Trump granted a controversial full pardon to former Honduran President Juan Orlando Hernández, who was incarcerated in the U.S. on drug trafficking charges. The clemency decision has been criticized for introducing an unpredictable and divisive element into the current election cycle, highlighting the use of executive power.",
-        "originalSource": "AP News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764535115074-3",
-        "headline": "Suspect in National Guard attack struggled with 'dark isolation' as community raised concerns",
-        "content": "New details in the National Guard shooting investigation reveal the Afghan suspect was an isolated figure who was reportedly radicalized while living in the U.S. The community and family members had previously raised serious concerns about the shooter's declining mental state and withdrawal prior to the deadly incident.",
-        "originalSource": "AP News",
-        "publishedTime": "2-6 hours ago"
-      },
-      {
-        "id": "story-1764535115074-4",
-        "headline": "Police search for shooter after 4 are killed and 11 wounded in shooting at child's party in California",
-        "content": "Police are searching for the assailant(s) responsible for a mass shooting at a child's party in Stockton, California. The incident resulted in four fatalities and left eleven other people wounded, shocking the community. Authorities are treating the crime as a major investigation into yet another episode of significant gun violence.",
+        "id": "story-1764538245776-0",
+        "headline": "Kristi Noem claims suspect in national guard shooting was 'radicalized' in US",
+        "content": "South Dakota Governor Kristi Noem stated that the suspect in the recent National Guard shooting was 'radicalized' within the United States. This prompted an investigation into the shooter's domestic radicalization, intensifying the national debate over the roots of violence and political extremism.",
         "originalSource": "The Guardian",
-        "publishedTime": "last 24 hours"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764535115074-5",
-        "headline": "A teenager redrew the Alabama voting map – and it's now state law",
-        "content": "A high school student's proposed redistricting map for Alabama's state legislature was officially adopted into state law, marking a historic and unexpected legal victory. The map, which complies with fair representation standards, replaces an earlier version that had been successfully challenged in court for violating voting rights protections.",
-        "originalSource": "The Guardian",
+        "id": "story-1764538245776-1",
+        "headline": "Trump says he will pardon former Honduran president for drug trafficking sentence",
+        "content": "Former President Donald Trump announced his intention to grant a pardon to Juan Orlando Hernández, the former Honduran president. Hernández is currently serving a drug trafficking sentence in the U.S., a move that has drawn swift and varied international and domestic reactions.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764538245776-2",
+        "headline": "Venezuela denounces 'colonialist threat' as Trump orders airspace closed",
+        "content": "Venezuela's government denounced former President Trump's order to close Venezuelan airspace as a 'colonialist threat.' The rejection comes amidst weeks of increasing political tensions and military posturing between the two nations.",
+        "originalSource": "PBS News",
+        "publishedTime": "21 hours ago"
+      },
+      {
+        "id": "story-1764538245776-3",
+        "headline": "Hegseth conscripts Pentagon for Trump's efforts to punish political foes",
+        "content": "Defense Secretary Pete Hegseth is reportedly joining President Trump's bid to punish political foes by utilizing the Pentagon. This involves threatening the military justice system against Democrats, raising concerns about the politicization of the military.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-4",
+        "headline": "Rep. Mike Turner says \"you can't be America first and pro-Russia\"",
+        "content": "Representative Mike Turner made a public statement arguing that the \"America First\" political movement is fundamentally incompatible with being pro-Russia. The comment highlights ongoing divisions within the Republican party regarding foreign policy and support for Ukraine.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-5",
+        "headline": "Thousands of U.S. flight delays, hundreds of cancellations, after Thanksgiving travel",
+        "content": "The post-Thanksgiving holiday travel period was marred by significant air travel disruptions nationwide. Reports confirmed thousands of U.S. flight delays and hundreds of outright cancellations, frustrating travelers returning home from the long weekend.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764535115074-0",
-        "headline": "President Trump Firmly Secures U.S. Borders, Declares Venezuelan Airspace Closed to Protect Our Nation from Drug Traffickers",
-        "content": "Upholding American sovereignty and national security, President Trump has decisively declared Venezuela's airspace \"closed in its entirety.\" This crucial action underscores a firm commitment to combating the flow of illicit drugs and protecting our citizens, with President Trump warning of potential U.S. strikes against those who threaten our liberty. The socialist Maduro regime's predictable outrage merely highlights its complicity in destabilizing the region and threatening American interests.",
-        "originalSource": "AP News",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-1",
-        "headline": "National Security Prioritized as U.S. Halts Asylum Decisions Following Tragic D.C. Shooting",
-        "content": "In a necessary move to safeguard our homeland, the U.S. government has wisely paused all asylum decisions after a fatal National Guard shooting in Washington D.C. This pivotal policy shift, triggered by the revelation that the suspect was an Afghan veteran living in the U.S., rightly prompts a critical federal review of asylum processes. It is imperative that our immigration system puts American safety first, ensuring that those who enter our nation do not pose a threat to our communities or our brave service members.",
-        "originalSource": "TIME",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-2",
-        "headline": "President Trump Exercises Constitutional Authority, Pardons Former Honduran Leader Amidst Political Scrutiny",
-        "content": "Demonstrating the robust executive power vested in his office, President Trump has issued a full pardon to former Honduran President Juan Orlando Hernández, who faced drug trafficking charges in the U.S. While predictable critics attempt to politicize this exercise of clemency and label it \"divisive\" during an election, President Trump remains unwavering in his commitment to justice and his strategic use of presidential authority, always prioritizing American interests and the rule of law.",
-        "originalSource": "AP News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764535115074-3",
-        "headline": "Radicalization and Isolation: A Warning Sign in the National Guard Attack Investigation",
-        "content": "Disturbing new revelations in the National Guard shooting investigation confirm the suspect, an Afghan individual residing in the U.S., was an isolated figure who tragically succumbed to radicalization. This case underscores the urgent need for vigilance against extremist ideologies taking root within our borders and the critical importance of addressing mental health challenges. Our communities must remain alert to signs of withdrawal and dangerous influences, ensuring the safety and security of all citizens and protecting our brave service members.",
-        "originalSource": "AP News",
-        "publishedTime": "2-6 hours ago"
-      },
-      {
-        "id": "story-1764535115074-4",
-        "headline": "Tragic Criminal Violence Strikes California Community, Four Lives Lost at Children's Party",
-        "content": "Law enforcement authorities are diligently pursuing the perpetrator(s) of a horrific mass shooting that claimed four lives and wounded eleven others at a child's party in Stockton, California. This shocking act of criminal violence highlights the urgent need for robust law and order, and raises serious questions about the breakdown of community safety. It is imperative that police are fully empowered to apprehend those responsible and restore peace to communities grappling with such senseless brutality.",
+        "id": "story-1764538245776-0",
+        "headline": "Governor Noem Points to Domestic Radicalization in National Guard Attack",
+        "content": "South Dakota Governor Kristi Noem courageously highlighted that the perpetrator in the recent National Guard shooting was tragically radicalized right here in the United States. This crucial observation immediately triggered an investigation into the roots of such domestic radicalization, bringing vital attention to the growing threat of violence and political extremism eroding our nation's foundational principles.",
         "originalSource": "The Guardian",
-        "publishedTime": "last 24 hours"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764535115074-5",
-        "headline": "Alabaman Teenager's Redistricting Proposal Upholds Constitutional Principles and Becomes State Law",
-        "content": "In a testament to individual ingenuity and civic engagement, a high school student's thoughtfully crafted redistricting map for Alabama's state legislature has been officially enacted into state law. This unexpected development showcases how citizens, when empowered, can contribute to governance, ensuring maps align with legal requirements and local control, rather than succumbing to partisan or judicial overreach. The new map replaces a previous version, reaffirming the state's commitment to constitutional integrity.",
-        "originalSource": "The Guardian",
+        "id": "story-1764538245776-1",
+        "headline": "President Trump Considers Pardon for Former Honduran Leader",
+        "content": "President Trump has boldly announced his intention to potentially grant a pardon to Juan Orlando Hernández, the former President of Honduras, who is currently serving a drug trafficking sentence in the U.S. This decisive move, characteristic of President Trump's willingness to challenge established norms, has naturally sparked considerable discussion both domestically and internationally.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764538245776-2",
+        "headline": "President Trump Closes Airspace to Venezuela Amidst Rising Tensions",
+        "content": "Venezuela's socialist regime has predictably decried President Trump's firm order to close Venezuelan airspace, absurdly labeling it a 'colonialist threat.' This necessary action by President Trump comes after weeks of escalating political instability and military aggression from the Venezuelan government, underscoring America's commitment to national security and global order.",
+        "originalSource": "PBS News",
+        "publishedTime": "21 hours ago"
+      },
+      {
+        "id": "story-1764538245776-3",
+        "headline": "Defense Secretary Hegseth Backs President Trump's Drive for Accountability",
+        "content": "Reports indicate that Defense Secretary Pete Hegseth is aligning with President Trump's essential efforts to ensure accountability for political adversaries, potentially leveraging the military justice system. This strategic move aims to uphold the integrity of our institutions and ensure that those who undermine our nation's strength face appropriate consequences, rejecting concerns often raised by those who prefer inaction.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-4",
+        "headline": "Representative Turner Declares \"America First\" Means Standing Strong Against All Adversaries",
+        "content": "Representative Mike Turner recently made a pointed statement, asserting that the \"America First\" movement, fundamentally about American sovereignty and strength, cannot genuinely align with being \"pro-Russia.\" His comments underscore the crucial ongoing dialogue within conservative circles regarding foreign policy, emphasizing the need for robust defense and a clear stance against all nations that threaten American interests.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-5",
+        "headline": "Post-Thanksgiving Travel Chaos Highlights Infrastructure Failures",
+        "content": "The post-Thanksgiving holiday travel period was regrettably plagued by widespread air travel disruptions across the nation, leaving countless Americans frustrated. Reports confirmed thousands of U.S. flight delays and hundreds of outright cancellations, a stark reminder of the urgent need for robust infrastructure and efficient systems that truly serve the American people, ensuring families can reunite without unnecessary stress.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764535115074-0",
-        "headline": "President Trump Magically Declares Entire Venezuelan Airspace \"Closed for Business\" with Invisible Force Field",
-        "content": "In a groundbreaking display of international border control, President Trump announced that Venezuela's airspace has been \"closed in its entirety,\" presumably with a giant, invisible zipper. The bold declaration, which experts are still trying to locate on a map, came with a stern warning of potential U.S. \"surprise party\" strikes against alleged drug traffickers. Maduro's government, clearly unfamiliar with the advanced concept of air-tight sovereignty, hastily called the move a \"colonial threat,\" perhaps unaware that the U.S. is merely trying to keep their skies tidy.",
-        "originalSource": "AP News",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-1",
-        "headline": "Nation Halts All Asylum Applications After Shocking Discovery That One Person Might Have Been Complicated",
-        "content": "In a stunning display of bureaucratic agility, the U.S. government has announced a complete cessation of all asylum decisions, effectively putting the entire global crisis on hold until further notice. This unprecedented move was triggered by the recent D.C. National Guard shooting, where the suspect was identified as a U.S.-based Afghan veteran. Officials explained that since one individual with a complex background was involved, the only logical response was to stop all decisions for everyone, everywhere, forever, or at least until they figure out if that particular veteran had ever looked at a pigeon funny. The pause ensures maximum contemplation time, giving the government ample opportunity to reconsider the entire concept of 'refuge' just to be safe.",
-        "originalSource": "TIME",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-2",
-        "headline": "President Trump Unleashes Convicted Honduran President Back Into Wild to \"Spicen Up\" Election",
-        "content": "In a move that truly redefines \"campaign strategy,\" President Trump has granted a full pardon to former Honduran President Juan Orlando Hernández, recently enjoying U.S. hospitality for drug trafficking. Critics are reportedly baffled, wondering if the clemency was meant to add a \"mystery bonus round\" to the current election or simply prove that executive power can now override the inconvenient reality of international law and prison bars. Political analysts confirmed the pardon has indeed injected an \"unpredictable and divisive element\" into the race, mostly because no one was expecting the \"ex-President with a criminal record\" debate to suddenly become relevant.",
-        "originalSource": "AP News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764535115074-3",
-        "headline": "Local Man Reportedly Radicalized After Years of People Nervously Whispering \"He Seems A Bit Quiet\" Behind His Back",
-        "content": "Investigators probing the recent National Guard shooting have uncovered a groundbreaking detail: the Afghan suspect was a \"darkly isolated\" figure. Apparently, this profound isolation was so subtle, it manifested as \"not really talking much\" and \"spending a lot of time alone.\" Community members, in a heartwarming display of pre-tragedy concern, confirmed they had \"definitely raised concerns\" about his \"declining mental state\" by occasionally making awkward eye contact and silently wondering if he was \"doing okay\" from a safe distance. Experts suggest that perhaps if someone had actually *done* something, the outcome might have been different, but that's just crazy talk.",
-        "originalSource": "AP News",
-        "publishedTime": "2-6 hours ago"
-      },
-      {
-        "id": "story-1764535115074-4",
-        "headline": "California Community Shocked, Absolutely Shocked, That Another Mass Shooting Happened",
-        "content": "In a truly unexpected turn of events, a children's party in Stockton, California, was rudely interrupted by a mass shooting, resulting in four fewer guests and eleven slightly more injured ones. Police are currently embarking on their sacred quest to find the individual(s) responsible for this \"major investigation,\" which authorities are treating as \"yet another episode of significant gun violence.\" The community expressed its profound shock, insisting that such an event was entirely unforeseen, despite the nagging feeling that this might have happened a few times before.",
+        "id": "story-1764538245776-0",
+        "headline": "Governor Noem Discovers Horrifying Truth: Americans Radicalized By The Sheer Mundanity Of America Itself",
+        "content": "South Dakota Governor Kristi Noem has bravely announced a groundbreaking, albeit terrifying, discovery: the recent National Guard shooting suspect was 'radicalized' right here in the U.S. This has launched an urgent, nationwide investigation into what everyday American experiences are turning citizens into extremists. Early theories suggest exposure to lukewarm tap water, prolonged DMV queues, and the existential dread of a supermarket self-checkout line may be key culprits, raising the urgent question: Do we need to background check toddlers for their 'Sesame Street' viewing habits?",
         "originalSource": "The Guardian",
-        "publishedTime": "last 24 hours"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764535115074-5",
-        "headline": "Alabama Legislature Reportedly \"Stunned\" After Realizing A Teenager Can Also Use Crayons to Draw Fair Maps",
-        "content": "In a humiliating blow to the collective wisdom of Alabama's elected officials, a local high school student's redistricting map has been officially adopted into state law, primarily because it adheres to \"fair representation standards\"—a concept apparently too complex for professional politicians. The new map, reportedly drafted between TikTok dances and algebra homework, replaces an earlier version that had been soundly rejected by courts for its blatant disregard of voting rights. Legislators were last seen frantically searching for a \"redistricting for dummies\" book, while the teenager, sources confirm, is already contemplating a run for governor, having evidently mastered the art of basic governance.",
-        "originalSource": "The Guardian",
+        "id": "story-1764538245776-1",
+        "headline": "President Trump Vows to Clear Name of Honduran President, Declares Drug Trafficking An 'Innovative Logistics Strategy'",
+        "content": "President Trump announced his magnanimous intention to pardon Juan Orlando Hernández, the former Honduran president currently serving a drug trafficking sentence. President Trump praised Hernández as a 'tremendous businessman' who merely 'understood the complexities of international trade routes,' drawing swift and varied international reactions. Critics called the move 'alarming,' while some economists hailed it as a bold redefinition of 'supply chain management.'",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764538245776-2",
+        "headline": "Venezuela Cries 'Colonialism!' As President Trump Declares All Air Above Nation Now A No-Fly Zone For Mysterious Reasons",
+        "content": "Venezuela's government has denounced President Trump's order to close their airspace as an 'unprecedented colonialist threat,' struggling to comprehend how one can 'un-air' an entire nation from thousands of miles away. The rejection comes amidst weeks of increasing political tensions and bewildered birds who are now reportedly applying for visas to cross the invisible, newly established atmospheric border. Experts warn this could set a dangerous precedent for future leaders declaring ownership of other countries' wind currents.",
+        "originalSource": "PBS News",
+        "publishedTime": "21 hours ago"
+      },
+      {
+        "id": "story-1764538245776-3",
+        "headline": "Pentagon Rebrands As 'Department of Political Spanking' Under Bold New Hegseth Initiative",
+        "content": "Defense Secretary Pete Hegseth is reportedly joining President Trump's bid to punish political foes by ingeniously utilizing the Pentagon, effectively transforming it into the nation's premier enforcement agency for 'insufficient loyalty.' Concerns are mounting as the military justice system is now expected to focus on grave offenses such as 'failing to sufficiently praise President Trump's golf swing' and 'incorrectly folding a 'Make America Great Again' hat,' raising fears that drill sergeants may soon be asking recruits about their voting records.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-4",
+        "headline": "Local Congressman Stuns Nation By Discovering 'America First' Does Not Actually Mean 'Russia First' After Extensive Research",
+        "content": "Representative Mike Turner has made a public statement that sent shockwaves through the political establishment, arguing that the 'America First' political movement is, in fact, fundamentally incompatible with being pro-Russia. The groundbreaking revelation, which reportedly followed months of exhaustive whiteboard diagrams and a careful re-reading of a world atlas, highlights ongoing divisions within the Republican party regarding foreign policy and the perplexing concept that 'America First' actually implies America comes first, and not, say, a different country.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-5",
+        "headline": "Nation's Airports Declare Post-Thanksgiving Travel A 'Hunger Games' Simulation For Public Amusement",
+        "content": "The post-Thanksgiving holiday travel period was intentionally marred by significant air travel disruptions nationwide, as reports confirmed thousands of U.S. flight delays and hundreds of outright cancellations. Airlines, in an unprecedented joint statement, revealed this annual tradition is now a 'survival challenge' designed to test the resilience, patience, and bladder control of the American public. Travelers are advised to pack a compass, emergency rations, and a strong will to live for next year's holiday gauntlet.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764535115074-0",
-        "headline": "President Trump Says Air Over Venezuela Is Closed",
-        "content": "President Trump said that no planes are allowed to fly over Venezuela. This is a big deal because things have been tense for a while. He also said that the U.S. might attack people who are supposedly moving illegal drugs in that area. Venezuela's government got really mad and said it was like an old-fashioned threat from another country, and that the U.S. was doing something all by itself.",
-        "originalSource": "AP News",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-1",
-        "headline": "U.S. Stops Deciding Who Can Stay After a Shooting",
-        "content": "The U.S. government said it will stop making decisions for now about people who want to live in America because they are looking for safety. This happened after someone who used to be a soldier from Afghanistan, and was living in the U.S., shot people from the National Guard. Because of this, the government is now looking at how they decide if people who helped the U.S. military in the past can get a safe place to live here.",
-        "originalSource": "TIME",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-2",
-        "headline": "President Trump Forgives an Old President from Honduras",
-        "content": "President Trump decided to completely forgive a person named Juan Orlando Hernández. This person used to be the president of Honduras but was in jail in the U.S. for moving illegal drugs. Many people think this was a strange decision, and it might make the upcoming election even more tricky and cause disagreements. It shows how much power a president has.",
-        "originalSource": "AP News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764535115074-3",
-        "headline": "Shooter Was Very Alone Before National Guard Attack",
-        "content": "Police are finding out more about the person who shot people from the National Guard. This person was from Afghanistan and lived in the U.S., but they were very alone and seemed to get some really extreme ideas. Their family and friends were worried about them before the shooting because they were acting differently and pulling away from everyone.",
-        "originalSource": "AP News",
-        "publishedTime": "2-6 hours ago"
-      },
-      {
-        "id": "story-1764535115074-4",
-        "headline": "Police Look for Shooter After Party Shooting Kills Four",
-        "content": "Police in Stockton, California, are trying to find the person or people who shot many people at a kid's party. Four people died, and eleven others got hurt. This made everyone in the town very shocked and sad. The police are taking this crime very seriously, and it's another sad example of a lot of gun violence.",
+        "id": "story-1764538245776-0",
+        "headline": "Governor Noem Thinks Shooter Learned Bad Ideas in America",
+        "content": "South Dakota's Governor, Kristi Noem, said that the person who shot people at the National Guard got their bad ideas right here in America. Because of this, people are now looking into how someone can learn really extreme and violent ideas at home. This makes everyone talk more about why some people get so angry and violent in our country.",
         "originalSource": "The Guardian",
-        "publishedTime": "last 24 hours"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764535115074-5",
-        "headline": "Teenager's Drawing of Voting Map Becomes Law in Alabama",
-        "content": "A high school student drew a new map for how Alabama people vote for their leaders, and guess what? That map is now an official law! This is super cool and unexpected. The student's map makes sure that everyone gets a fair chance to have their vote count. It replaced an older map that courts said wasn't fair to some voters.",
-        "originalSource": "The Guardian",
+        "id": "story-1764538245776-1",
+        "headline": "President Trump Wants to Forgive Honduras's Old Leader",
+        "content": "President Trump said he wants to pardon Juan Orlando Hernández, who used to be the President of Honduras. A pardon means he would be forgiven for his crime. Right now, Mr. Hernández is in jail in the U.S. because he was involved with drugs. This news made many people around the world and in America feel different ways about it.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764538245776-2",
+        "headline": "Venezuela Says President Trump's Air Rule is Unfair",
+        "content": "The government of Venezuela said that President Trump's decision to close their country's sky to planes felt like a 'colonialist threat.' This means they thought it was like someone trying to control their country. This happened after many weeks where the two countries were getting more and more upset with each other.",
+        "originalSource": "PBS News",
+        "publishedTime": "21 hours ago"
+      },
+      {
+        "id": "story-1764538245776-3",
+        "headline": "Secretary Hegseth Helps President Trump Punish Foes",
+        "content": "It looks like Pete Hegseth, who is in charge of our country's defense, is helping President Trump try to punish people he doesn't agree with. He might even use the military's rules to go after people from the other political party. Some people are worried because it seems like the military is getting too involved in politics.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-4",
+        "headline": "Lawmaker Says You Can't Love America And Russia",
+        "content": "A lawmaker named Mike Turner said that if you want America to be first, you can't also be on Russia's side. He meant that some people in his own political party, the Republicans, are fighting over how much to help Ukraine and how to deal with Russia.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-5",
+        "headline": "Many Flights Got Delayed or Canceled After Thanksgiving",
+        "content": "After the Thanksgiving holiday, lots of people trying to fly home had big problems. Thousands of flights in America were late, and hundreds were completely canceled. This made many travelers very upset when they were trying to get back from their long weekend.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764535115074-0",
-        "headline": "The Sky's New Keeper Above Caracas",
-        "content": "The air above Venezuela shimmered, a silent battleground. President Trump, from afar, declared its airspace \"closed in its entirety,\" a decree echoing across the continent. Whispers of U.S. strikes against phantom drug traffickers hung heavy, a controversial threat. Caracas, defiant, labeled it a \"colonial threat,\" a unilateral act designed to tighten a foreign grip. Tensions, already frayed, stretched thinner. The world watched, breath held, as the invisible lines in the sky became a declaration of power, a dangerous game of aerial chess. The calm before the storm felt heavy.",
-        "originalSource": "AP News",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-1",
-        "headline": "The Gates of Hope Close Temporarily",
-        "content": "A chilling quiet fell over asylum offices. Following a fatal National Guard shooting in D.C., the U.S. government abruptly paused all asylum decisions. The suspect, a U.S.-based Afghan veteran, cast a long, unsettling shadow. A federal review commenced, scrutinizing the very process meant to shelter those tied to past U.S. military operations. The open door, once a symbol of refuge, now hung ajar, awaiting a verdict from a nation grappling with its own internal echoes and the complex legacy of conflict. Hope, for many, was now a deferred dream.",
-        "originalSource": "TIME",
-        "publishedTime": "a few hours ago"
-      },
-      {
-        "id": "story-1764535115074-2",
-        "headline": "A Controversial Key Unlocks a Cell Door",
-        "content": "The prison gates creaked, not for release, but for an extraordinary intervention. President Trump granted a full pardon to Juan Orlando Hernández, the former Honduran president, a man convicted of drug trafficking on U.S. soil. The decision, swift and sharp, sent ripples through the political landscape. Critics cried foul, seeing a divisive \"wild card\" tossed into the current election cycle. It was a potent display of executive power, a move that stirred debate, challenged expectations, and highlighted the unpredictable nature of clemency, reshaping narratives just weeks before voters would cast their ballots.",
-        "originalSource": "AP News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764535115074-3",
-        "headline": "Echoes of a Mind in Solitude's Shadow",
-        "content": "The investigation into the National Guard shooting deepened, revealing a portrait of profound isolation. The Afghan suspect, once a part of the community, had drifted into a dark, solitary world. Radicalization, whispered sources, had taken root during his time in the U.S. Family and friends, their early warnings tragically unheeded, recalled a man consumed by declining mental health, a withdrawal so complete it swallowed him whole. Before the gunfire, before the tragedy, there had been only the quiet, desperate plea for connection, lost in the gathering shadows of his mind.",
-        "originalSource": "AP News",
-        "publishedTime": "2-6 hours ago"
-      },
-      {
-        "id": "story-1764535115074-4",
-        "headline": "The Silence After Laughter's End",
-        "content": "The vibrant sounds of a child's party in Stockton, California, were abruptly shattered by a hail of gunfire. Four lives extinguished, eleven more wounded, joy turned to terror in an instant. The community reeled, grappling with the senseless violence that had invaded a space of innocence. Sirens wailed, lights flashed, as police launched a desperate search for the assailant(s), their investigation a grim reminder of the pervasive gun violence plaguing the nation. The echoes of celebration replaced by the chilling silence of loss, a stark testament to a stolen evening.",
+        "id": "story-1764538245776-0",
+        "headline": "Seeds of Fury",
+        "content": "The governor’s words echoed, a chilling pronouncement across the prairie. South Dakota’s Kristi Noem declared the National Guard shooting suspect was homegrown, radicalized right here on American soil. Investigations spun up, a frantic search for the origins of such venom. The nation, already fractured, seized on the news, fueling a fiery debate about the unseen tendrils of domestic extremism. Was it the internet, a lone wolf’s descent, or something darker brewing beneath the surface of everyday life? The answers remained elusive, but the questions burned, casting a long shadow over the land of the free.",
         "originalSource": "The Guardian",
-        "publishedTime": "last 24 hours"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764535115074-5",
-        "headline": "A Student's Lines Rewrite Justice in Alabama",
-        "content": "In a quiet Alabama classroom, a high school student meticulously redrew lines on a map, envisioning fairness. This wasn't mere homework; it was a blueprint for justice. Against all odds, the teenager's proposed redistricting map for the state legislature was officially adopted into law. It was an unexpected, historic legal triumph, replacing a contested map that had violated voting rights. Her precision and understanding of fair representation standards had prevailed, proving that even the youngest voices, armed with logic and conviction, could reshape the very fabric of democracy.",
-        "originalSource": "The Guardian",
+        "id": "story-1764538245776-1",
+        "headline": "The President's Gambit",
+        "content": "A bold declaration rippled through international circles: President Trump intended to pardon Juan Orlando Hernández, the former Honduran president. Hernández, currently serving time in a U.S. prison for drug trafficking, became the unexpected center of a political earthquake. The announcement ignited a firestorm of reactions, both domestic and abroad. Supporters applauded the move, seeing a display of unique executive power, while critics decried it as an affront to justice and an undermining of international anti-narcotics efforts. The intricate web of global politics tightened, as the world watched this contentious decision unfold.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1764538245776-2",
+        "headline": "Closed Skies, Rising Tides",
+        "content": "A decree from President Trump, swift and uncompromising, ordered the closure of Venezuelan airspace. Caracas erupted, its government denouncing the move as a 'colonialist threat,' a naked assertion of power. Weeks of simmering political tensions had finally boiled over, militaristic posturing escalating into a direct affront. The skies above Venezuela became a symbol of defiance, a line drawn in the sand by a nation feeling besieged. The international community held its breath, witnessing another dangerous turn in the volatile dance between two nations on the brink.",
+        "originalSource": "PBS News",
+        "publishedTime": "21 hours ago"
+      },
+      {
+        "id": "story-1764538245776-3",
+        "headline": "Weaponizing Justice",
+        "content": "Whispers turned to shouts as reports surfaced: Defense Secretary Pete Hegseth was reportedly aligning the Pentagon with President Trump’s campaign to neutralize political adversaries. The chilling strategy involved leveraging the military justice system, a sacred institution, against Democratic opponents. Concerns mounted, a collective unease about the politicization of the armed forces. A democracy’s strength relies on an apolitical military, loyal to the constitution, not an individual. The prospect of such a powerful tool being wielded as a partisan weapon sent shivers through the heart of the nation.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-4",
+        "headline": "The Crossroads of Patriotism",
+        "content": "Representative Mike Turner stood firm, his words a direct challenge: \"You can't be America first and pro-Russia.\" The statement struck a nerve, carving deeper fissures within the Republican party. The 'America First' movement, once a unifying cry, now faced an existential question regarding its foreign policy stance. Support for Ukraine, once a bipartisan staple, had become a contentious point, exposing deep ideological rifts. Turner's declaration forced a choice, demanding clarity from those who claimed patriotism while seemingly aligning with an adversarial power. The debate raged, defining the future of a political identity.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764538245776-5",
+        "headline": "Wings Clipped",
+        "content": "The festive glow of Thanksgiving quickly faded into a travel nightmare. Airports nationwide became scenes of organized chaos as thousands of U.S. flights faced agonizing delays, and hundreds were outright cancelled. Families, tired and eager for home, found themselves stranded, their holiday cheer replaced by frustration and exhaustion. The air traffic control screens glowed red with endless reroutes and lost connections. Luggage piled up, dreams of smooth returns vanished. The post-holiday rush, a ritual of reunion, became a bitter test of patience against an overwhelmed system.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ]
   }
