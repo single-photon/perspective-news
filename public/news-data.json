@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764513456066,
+  "timestamp": 1764516801393,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764513374397-0",
-        "headline": "President Trump's Unilateral Airspace Closure Threatens Venezuelan Sovereignty and Regional Stability",
-        "content": "President Trump's declaration to unilaterally close Venezuelan airspace is a clear act of aggression, amplifying fears of military intervention and flouting international law. This egregious move, condemned by Venezuela's government as a \"colonialist threat,\" undermines the nation's self-determination and jeopardizes peace in the region. Such actions reflect a dangerous pattern of interventionism that disregards the sovereign rights of independent nations.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-1",
-        "headline": "Systemic Failures Exacerbate Tragedy as Mass Shooting Devastates California Family Event",
-        "content": "A horrific mass shooting at a Stockton family gathering, which claimed four lives and injured ten, serves as another grim reminder of the unchecked gun violence plaguing our communities. While officials believe this was a targeted incident, the devastating toll on innocent lives, including children, underscores the urgent need for comprehensive gun safety legislation and a deeper examination of the societal conditions that allow such tragedies to persist. Our collective failure to address this crisis continues to leave communities vulnerable.",
-        "originalSource": "Los Angeles Times",
-        "publishedTime": "Less than 12 hours ago"
-      },
-      {
-        "id": "story-1764513374397-2",
-        "headline": "Congressional Scrutiny Demanded Amid Alarming Allegations of Pentagon Ordering Second Strike on Survivors",
-        "content": "Serious allegations have emerged against Defense Secretary Pete Hegseth, suggesting he ordered a second military strike to eliminate survivors of an attack on a suspected narco-boat in the Caribbean. While Hegseth dismisses these claims as \"fake news,\" the gravity of such a potential war crime necessitates a thorough and transparent investigation by bipartisan congressional committees. This incident highlights the critical need for robust civilian oversight of military actions to prevent abuses of power and ensure accountability for human rights violations.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-3",
-        "headline": "National Guard Soldier's Tragic Death Prompts Calls for Deeper Look at Militarized Domestic Policing",
-        "content": "The tragic death of Specialist Sarah Beckstrom, 20, following a shooting in Washington D.C., has led to upgraded murder charges against Rahmanullah Lakanwal. This devastating loss, occurring during a \"crime-fighting mission\" involving the National Guard, compels us to critically examine the increasing militarization of domestic law enforcement and its effectiveness. While the FBI investigates this attack as an act of terrorism, it is crucial to address the systemic roots of violence and invest in community-based solutions rather than relying on military deployments for civilian issues.",
-        "originalSource": "Associated Press",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-4",
-        "headline": "President Trump's Pardon for Convicted Drug Trafficker Undermines Global Anti-Corruption Efforts",
-        "content": "President Trump's decision to grant a full pardon to former Honduran President Juan Orlando Hernández, currently serving a 45-year sentence in the U.S. for drug trafficking and weapons charges, is a disturbing affront to justice and a dangerous precedent. This move, based on President Trump's assertion that Hernández was \"treated very harshly and unfairly,\" actively subverts accountability for systemic corruption and international crime. It raises serious questions about the integrity of the justice system and the US commitment to combating illicit networks, especially when powerful figures are allowed to escape consequences.",
-        "originalSource": "Associated Press (via PBS)",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-5",
-        "headline": "President Trump's Baseless Threat to Nullify Legitimate Executive Orders Undermines Democratic Governance",
-        "content": "In a concerning move that threatens the stability of democratic governance, President Trump has declared his intent to unilaterally terminate all executive orders and documents signed by Joe Biden using an autopen. President Trump's claim that these mechanically applied signatures are illegal and void is factually incorrect, as the use of autopens by presidents is legally authorized. This latest executive overreach represents a dangerous attempt to delegitimize official acts and disrupt the orderly functioning of government, prioritizing political posturing over constitutional principles.",
+        "id": "story-1764516724065-0",
+        "headline": "Systemic Failures in Gun Policy Allow Tragic Mass Shooting at California Children's Party",
+        "content": "A devastating mass shooting at a child's party in Stockton, California, which left four people dead and ten wounded, tragically highlights the dire consequences of America's continued inaction on gun violence. This preventable tragedy, like countless others, underscores the urgent need for comprehensive gun control legislation and community-based violence prevention programs to address the systemic issues that endanger our children and communities.",
         "originalSource": "CBS News",
-        "publishedTime": "About 48 hours ago"
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764516724065-1",
+        "headline": "President Trump's Airspace Ban Against Venezuela Draws Accusations of Economic Coercion and Colonialist Intervention",
+        "content": "President Trump's administration has intensified its pressure campaign against Venezuela by ordering the closure of US airspace to Venezuelan flights, a move swiftly condemned by Caracas as a 'colonialist threat.' This action, widely seen as an attempt to undermine Venezuela's territorial integrity and full sovereignty, raises serious concerns about the use of economic sanctions and coercive tactics that often disproportionately harm ordinary citizens in the pursuit of regime change, reflecting a troubling pattern of US foreign policy in Latin America.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764516724065-2",
+        "headline": "President Trump's Controversial Plan to Pardon Convicted Honduran President Undermines Global Anti-Corruption Efforts",
+        "content": "President Trump has announced his intention to pardon former Honduran President Juan Orlando Hernandez, currently serving time in the US for a drug trafficking conviction. This deeply troubling decision is the latest in a series of controversial clemency actions, which critics argue erodes public trust in the justice system and signals a disregard for international efforts to combat corruption and organized crime. Such pardons prioritize political alliances over accountability, further entrenching systemic impunity for powerful figures.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764516724065-3",
+        "headline": "Defense Secretary Hegseth's Politicization of the Military for President Trump's Agenda Threatens Democratic Norms",
+        "content": "Defense Secretary Pete Hegseth has sparked widespread alarm by threatening to deploy the military justice system against Democrats, a move critics decry as a dangerous co-optation of the Pentagon for President Trump's political 'retribution campaign.' This norm-shattering action represents an egregious attempt to weaponize state institutions against political opponents, fundamentally undermining the principle of a non-partisan military and posing a grave threat to the foundations of democratic governance and the rule of law.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764516724065-4",
+        "headline": "Sweeping Asylum Halt After National Guard Incident Further Erodes Migrant Rights and Due Process",
+        "content": "In a concerning escalation of its immigration policies, the US government has reportedly halted all decisions on asylum cases following an incident involving a National Guard member's shooting. This broad administrative action, which rights advocates and legal experts immediately condemn, represents a significant tightening of the ongoing crackdown on immigration, disproportionately impacting vulnerable asylum seekers fleeing persecution and violence. Critics argue this move further undermines due process and international human rights obligations, reflecting a systemic disregard for those seeking safety and refuge.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764516724065-5",
+        "headline": "Ohio State Secures a Significant Victory Over Michigan, Ending Their Losing Streak in a Pivotal Matchup",
+        "content": "In a highly anticipated NCAA football development, the Ohio State Buckeyes achieved a crucial victory against their long-standing rivals, the Michigan Wolverines. This win successfully concluded their extended losing streak in the historic series and holds considerable implications for the forthcoming college football playoff rankings, highlighting the competitive structures within collegiate sports.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764513374397-0",
-        "headline": "Trump Declares Venezuela Airspace 'Closed in its Entirety'; Caracas Calls it 'Colonialist Threat'",
-        "content": "President Trump announced the airspace over and surrounding Venezuela should be considered closed, heightening fears of military action amid a US buildup. Venezuela's government condemned the unilateral declaration as a \"colonialist threat\" against its sovereignty and suspended all migrant deportation flights.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-1",
-        "headline": "Mass Shooting at California Family Event Kills Four, Injures Ten; Suspect Remains at Large",
-        "content": "Four people were killed and at least ten injured, including children and adults, after a gunman opened fire at a family gathering in a Stockton banquet hall Saturday evening. Sheriff’s officials believe the mass shooting was a targeted incident, and the suspect has not yet been apprehended.",
-        "originalSource": "Los Angeles Times",
-        "publishedTime": "Less than 12 hours ago"
-      },
-      {
-        "id": "story-1764513374397-2",
-        "headline": "GOP-Led Congressional Committees Vow Scrutiny of Pentagon Over Deadly Caribbean Boat Strikes",
-        "content": "Bipartisan leaders of House and Senate Armed Services Committees announced they would investigate a Washington Post report that Defense Secretary Pete Hegseth ordered a second strike to kill two survivors of a September military attack on a suspected narco-boat. Hegseth denied the claims as \"fake news.\"",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-3",
-        "headline": "Suspect Charged with First-Degree Murder After National Guard Soldier Dies Following DC Shooting",
-        "content": "Charges against Rahmanullah Lakanwal, the man who shot two National Guard members in DC, were upgraded to first-degree murder after Specialist Sarah Beckstrom, 20, succumbed to her wounds. Beckstrom was deployed as part of a crime-fighting mission, and the FBI is investigating the attack as an act of terrorism.",
-        "originalSource": "Associated Press",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-4",
-        "headline": "Trump Announces Pardon for Former Honduran President Convicted of Drug Trafficking in US",
-        "content": "President Trump announced on social media he will grant a full pardon to former Honduran President Juan Orlando Hernández, currently serving a 45-year US sentence for drug trafficking and weapons charges. Trump stated he believes Hernández has been \"treated very harshly and unfairly.\"",
-        "originalSource": "Associated Press (via PBS)",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-5",
-        "headline": "Trump Vows to Nullify All Biden Executive Orders Signed Using an Autopen, Citing Illegality",
-        "content": "President Trump announced he is unilaterally terminating all executive orders and documents signed by Joe Biden using an autopen, claiming the mechanical signatures were illegally applied by staff and should be considered void. The use of autopens by presidents is, however, not illegal if authorized.",
+        "id": "story-1764516724065-0",
+        "headline": "Four killed and 10 wounded in shooting at child's party in California",
+        "content": "A tragic mass shooting at a child's party in Stockton, California, resulted in the deaths of four people and left ten others wounded. The event quickly became a top-viewed national story, reigniting the contentious debate over gun violence and community safety across the United States.",
         "originalSource": "CBS News",
-        "publishedTime": "About 48 hours ago"
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764516724065-1",
+        "headline": "Trump orders airspace closed to Venezuelan flights; Venezuela denounces 'colonialist threat'",
+        "content": "President Trump's order to close US airspace to Venezuelan flights was met with a forceful rejection from Nicolas Maduro's government. Caracas condemned the move as a 'colonialist threat' aimed at undermining the nation's territorial integrity and full sovereignty amid rising diplomatic tensions.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764516724065-2",
+        "headline": "Trump says he will pardon former Honduran President Juan Orlando Hernandez",
+        "content": "Donald Trump announced his plan to pardon former Honduran President Juan Orlando Hernandez, who is currently incarcerated in the US for a drug trafficking conviction. The intended pardon is the latest in a series of controversial clemency decisions, drawing scrutiny from political opponents and officials.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764516724065-3",
+        "headline": "Defense Secretary Pete Hegseth conscripts Pentagon for Trump's 'retribution campaign'",
+        "content": "Defense Secretary Pete Hegseth has drawn criticism for threatening to use the military justice system against Democrats, a move critics say aligns the Pentagon with Trump's political 'retribution campaign.' The action is viewed as a norm-shattering attempt to punish political foes.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764516724065-4",
+        "headline": "US halts all asylum decisions after national guard shooting",
+        "content": "Following a recent incident involving a National Guard member shooting, the US government reportedly halted all decisions on asylum cases. This sweeping administrative action marks a significant escalation in the ongoing immigration crackdown, raising immediate concerns among rights advocates and legal experts.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764516724065-5",
+        "headline": "College football roundup: Ohio State ends skid against Michigan to secure a win",
+        "content": "In a major NCAA football development, the Ohio State Buckeyes secured a victory against their arch-rivals, the Michigan Wolverines, successfully ending their extended losing streak in the historic matchup. The crucial win has significant implications for the college football playoff rankings.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764513374397-0",
-        "headline": "President Trump Takes Decisive Action to Secure Airspace Over Tyrannical Venezuela.",
-        "content": "President Trump has demonstrated strong leadership by declaring Venezuelan airspace closed, a necessary measure to counter the rogue Maduro regime's instability. This firm stance prioritizes national security and regional order, rejecting the socialist government's predictable accusations of \"colonialist threats,\" which merely serve to distract from its own failures and abuses of power. The temporary halt of migrant flights by Caracas underscores the regime's desperate attempts to control its narrative amidst international pressure.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-1",
-        "headline": "Horrific Violence Shatters California Family Gathering, Suspect Still Evades Justice.",
-        "content": "A horrific act of violence tragically ended a family gathering in Stockton, California, leaving four innocent people dead and ten injured. This targeted attack underscores the urgent need for law and order and swift justice. The failure to apprehend the suspect immediately highlights the growing crisis of crime and the importance of supporting our law enforcement officers who work tirelessly to protect our communities from such senseless acts.",
-        "originalSource": "Los Angeles Times",
-        "publishedTime": "Less than 12 hours ago"
-      },
-      {
-        "id": "story-1764513374397-2",
-        "headline": "Congressional Committees Investigate Defense Secretary Hegseth Amid \"Fake News\" Allegations Over Anti-Narco Operations.",
-        "content": "Congressional committees are unfortunately launching an inquiry into Defense Secretary Pete Hegseth following a dubious Washington Post report claiming he authorized a second strike on alleged narco-boat survivors. Secretary Hegseth has rightly dismissed these claims as \"fake news,\" and it is crucial that our military leadership is not undermined by speculative reporting. Our brave servicemen and women are on the front lines protecting our nation from drug traffickers, and we must ensure their vital operations are not jeopardized by politically motivated investigations.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-3",
-        "headline": "National Guard Specialist Dies in D.C. Terror Attack; Suspect Now Faces Murder Charges.",
-        "content": "Specialist Sarah Beckstrom, a courageous 20-year-old National Guard soldier serving a vital crime-fighting mission in Washington D.C., has tragically died after being shot. The suspect, Rahmanullah Lakanwal, now faces first-degree murder charges, and the FBI is rightly investigating this heinous act as terrorism. This unconscionable attack on those who protect our nation demands the swiftest and most severe justice, reminding us of the grave threats our service members face even at home.",
-        "originalSource": "Associated Press",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-4",
-        "headline": "President Trump Pardons Former Honduran Leader, Citing Unfair Treatment in U.S. Case.",
-        "content": "President Trump has exercised his constitutional authority by granting a full pardon to former Honduran President Juan Orlando Hernández, who was serving a lengthy U.S. sentence for drug trafficking. President Trump emphasized that he believes Hernández has been \"treated very harshly and unfairly,\" underscoring a commitment to re-examining cases where justice may have been misapplied. This decision highlights the President's willingness to challenge established narratives and seek what he believes is true justice.",
-        "originalSource": "Associated Press (via PBS)",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-5",
-        "headline": "President Trump Vows to Invalidate Biden Executive Orders Signed Illegally with Autopen.",
-        "content": "President Trump has boldly announced his intention to unilaterally terminate all executive orders and documents signed by Joe Biden using an autopen, asserting these mechanical signatures were illegally applied by staff and therefore void. This firm stance reflects President Trump's commitment to upholding the integrity and proper execution of presidential authority. While some may claim the practice is legal if authorized, President Trump is rightly scrutinizing the potentially dubious use of such tools to ensure all presidential actions are beyond reproach and truly reflect the will of the office.",
+        "id": "story-1764516724065-0",
+        "headline": "Senseless Violence Claims Lives at California Children's Party, Highlighting Urgent Need for Order",
+        "content": "A horrific shooting at a child's gathering in Stockton, California, tragically claimed four lives and injured ten others, underscoring the escalating breakdown of law and order in many communities. This devastating event demands a serious look at how we uphold traditional values of safety and hold criminals accountable, rather than engaging in contentious political debates.",
         "originalSource": "CBS News",
-        "publishedTime": "About 48 hours ago"
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764516724065-1",
+        "headline": "President Trump Asserts American Sovereignty, Closes Airspace to Maduro's Venezuela",
+        "content": "President Trump decisively ordered the closure of US airspace to Venezuelan flights, a necessary move to counter the socialist Maduro regime. Caracas predictably decried this as a 'colonialist threat,' but President Trump's actions firmly protect American interests and send a clear message to oppressive governments undermining regional stability and true liberty.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764516724065-2",
+        "headline": "President Trump Exercises Constitutional Authority, Considers Pardon for Honduran Leader",
+        "content": "President Trump has indicated his intent to pardon former Honduran President Juan Orlando Hernandez, currently imprisoned in the US on drug trafficking charges. This exercise of presidential clemency, a vital constitutional power, predictably draws scrutiny from political adversaries, yet it underscores President Trump's unwavering commitment to his executive prerogatives.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764516724065-3",
+        "headline": "Defense Secretary Hegseth Demands Accountability, Critics Decry Efforts to Restore Order",
+        "content": "Defense Secretary Pete Hegseth has signaled a willingness to leverage the military justice system against those who threaten national security or undermine our institutions, a move critics disingenuously label a 'retribution campaign.' This decisive action, aimed at restoring traditional standards of accountability, is crucial for preserving integrity and upholding the rule of law against partisan attacks.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764516724065-4",
+        "headline": "Border Security Strengthened: US Halts Asylum Decisions After National Guard Incident",
+        "content": "In a necessary move to secure our borders and protect our nation, the US government has reportedly halted all asylum decisions following a concerning incident involving a National Guard member. This decisive administrative action underscores the urgent need for a robust immigration crackdown, prioritizing national sovereignty and the safety of our citizens over the concerns of open-borders advocates.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764516724065-5",
+        "headline": "Ohio State Buckeyes Triumph Over Michigan Wolverines, Reclaiming Glory in Historic Rivalry",
+        "content": "In a testament to perseverance and competitive spirit, the Ohio State Buckeyes secured a hard-fought victory against their traditional rivals, the Michigan Wolverines. This crucial win not only ended their recent losing streak in the storied matchup but also dramatically reshapes the college football playoff landscape, celebrating the enduring values of athletic excellence.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764513374397-0",
-        "headline": "President Trump Benevolently Shuts Down Entire Venezuelan Airspace to Protect Citizens From Getting Bored By Their Own Country's Skies.",
-        "content": "In a stunning display of humanitarian foresight, President Trump unilaterally declared Venezuelan airspace \"closed in its entirety,\" citing an urgent need to prevent the nation's citizens from the existential dread of watching their own, arguably less-exciting, planes fly overhead. The move, which Caracas predictably labeled a \"colonialist threat\" (they always say that when someone is trying to help them), has sparked fears of military action, mostly from people who apparently don't understand that President Trump is just trying to make the skies a little safer... for our planes. Venezuela, in a baffling act of defiance, responded by suspending all migrant deportation flights, effectively trapping everyone in a country whose sky is now officially off-limits.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-1",
-        "headline": "Local Family Gathering Tragically Interrupted by Traditional Mass Shooting Event, Confirming California's Commitment to Cultural Continuity.",
-        "content": "A cherished California family tradition, the annual banquet hall gathering, was reportedly enhanced this weekend by the customary appearance of a lone gunman, who successfully killed four and injured ten others, including children, in a vibrant display of local color. Sheriff’s officials were quick to reassure the public that the \"mass shooting\" was a \"targeted incident,\" which is, of course, much less concerning than if it had been a random mass shooting. The suspect, demonstrating a keen understanding of narrative tension, remains at large, ensuring next year's event will have an intriguing pre-show mystery.",
-        "originalSource": "Los Angeles Times",
-        "publishedTime": "Less than 12 hours ago"
-      },
-      {
-        "id": "story-1764513374397-2",
-        "headline": "Congressional Committees To Investigate Pentagon For Allegedly Failing To Fully Obliterate All Evidence Following \"Non-Existent\" Caribbean Boat Strike.",
-        "content": "Bipartisan leaders in Congress have bravely vowed to scrutinize the Pentagon after a Washington Post report dared to suggest Defense Secretary Pete Hegseth ordered a second strike on survivors of a \"suspected narco-boat\" incident that, according to Hegseth himself, \"never happened.\" Lawmakers are reportedly concerned that if the incident had happened, and if Hegseth had ordered a second strike, then the Pentagon clearly failed to effectively silence the \"fake news\" before it could be reported. Hegseth, of course, heroically dismissed the entire premise as \"fake news,\" prompting questions as to why Congress would bother investigating a fictitious event, unless it's to investigate the quality of the fictitious cover-up.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-3",
-        "headline": "DC Man's Intentions Revealed As 'Murderous' Only After Victim Tragically Ceases To Be Alive.",
-        "content": "Rahmanullah Lakanwal, the man previously accused of merely \"shooting\" two National Guard members, has now been correctly identified as a \"first-degree murderer,\" after Specialist Sarah Beckstrom, 20, bafflingly succumbed to the wounds inflicted during her deployment on a \"crime-fighting mission.\" The FBI, demonstrating impressive deductive reasoning, is now investigating the shooting of a soldier on a crime-fighting mission as an \"act of terrorism,\" which, frankly, seems like a bit of a low bar for \"terrorism\" these days. Authorities confirmed Lakanwal's charges were dramatically upgraded only after Beckstrom stopped breathing, ensuring the legal system remains thrillingly reactive.",
-        "originalSource": "Associated Press",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-4",
-        "headline": "President Trump Pardons Drug Kingpin, Citing Universal Human Right To Not Serve Entirety Of 45-Year Sentence.",
-        "content": "In a move that truly redefines justice, President Trump announced via social media that he will graciously grant a full pardon to Juan Orlando Hernández, the former Honduran President currently enjoying a cozy 45-year US sentence for \"minor\" drug trafficking and weapons charges. President Trump gallantly declared that Hernández, who allegedly oversaw a vast cocaine empire, has been \"treated very harshly and unfairly,\" presumably referring to the unspeakable cruelty of having to serve more than, say, zero years for such a petty infraction. Critics are reminded that true empathy means understanding that 45 years is a really long time to be away from one's beloved drug cartel.",
-        "originalSource": "Associated Press (via PBS)",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-5",
-        "headline": "President Trump Declares All Biden Autopen Signatures Invalid, Vows To Personally Re-Sign Nation's Paperwork With His Own, Very Real Hand.",
-        "content": "In a bold defense of genuine penmanship, President Trump has heroically announced his unilateral termination of all executive orders and documents signed by Joe Biden using an \"autopen,\" citing the heinous crime of \"mechanical signatures illegally applied by staff.\" President Trump, a staunch advocate for the artisanal touch, insisted these robotic scrawls are unequivocally \"void,\" despite the widely ignored fact that presidential autopen use is perfectly legal when authorized. Sources close to the President suggest he may personally embark on a national tour to manually re-sign every single piece of Biden's \"fake\" paperwork, ensuring the American people receive only the most authentic executive doodles.",
+        "id": "story-1764516724065-0",
+        "headline": "Local Party Host Praised For Successfully Distracting Guests From Tragic Shooting With Surprisingly Delicious Cake",
+        "content": "A children's birthday party in Stockton, California, recently made national headlines after becoming the site of yet another 'tragic mass shooting,' an event now as common at children's parties as bouncy castles and overly sugared punch. Four attendees tragically perished, while ten others sustained injuries, momentarily halting the lively festivities. National experts were quick to point out that this incident, much like the previous 300 this year, would undoubtedly 'reignite the contentious debate over gun violence,' a debate everyone agrees is incredibly productive and will surely lead to new thoughts.",
         "originalSource": "CBS News",
-        "publishedTime": "About 48 hours ago"
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764516724065-1",
+        "headline": "President Trump Declares Entire Airspace 'No Fly Zone' For Countries That Don't Send Him Birthday Cards",
+        "content": "In a move described by international observers as 'peak geopolitical pettiness,' President Trump announced the closure of US airspace to all Venezuelan flights, effectively grounding any rogue vacation plans to Disney World. Nicolas Maduro's government swiftly condemned the action, calling it a 'colonialist threat' and wondering aloud if President Trump was trying to reclaim Venezuela for a new Mar-a-Lago expansion. Experts predict this will do absolutely nothing to change anything.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764516724065-2",
+        "headline": "President Trump To Pardon Imprisoned Foreign Leader Who Clearly Needs A Friend",
+        "content": "President Trump, in a move that absolutely no one saw coming (unless they've been paying attention for more than five minutes), declared his intention to pardon former Honduran President Juan Orlando Hernandez, currently enjoying the US hospitality system for a drug trafficking conviction. The clemency decision, hailed by critics as 'yet another brazen attempt to undermine the rule of law,' is reportedly part of President Trump's new initiative to ensure that no one he's ever heard of has to spend another day in jail. Sources close to the President suggest he simply 'liked his style.'",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764516724065-3",
+        "headline": "Pentagon Unveils New 'Operation Politically Incorrect' To Combat Disloyalty",
+        "content": "Defense Secretary Pete Hegseth, clearly not one to let a perfectly good military justice system go to waste, has reportedly drawn up plans to deploy it against Democrats. Critics are calling this 'a brazen attempt to align the Pentagon with President Trump's political 'retribution campaign',' but sources close to the Secretary insist it's merely a 'creative reinterpretation of 'defense'.' Future plans may include mandatory push-ups for dissenting opinions and court-martialing anyone caught not applauding vigorously enough.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764516724065-4",
+        "headline": "Nation Halts All Asylum Decisions After One Guy Sneezed Too Loudly Near A Border Guard",
+        "content": "In a stunning display of administrative agility and cause-and-effect reasoning, the US government has reportedly frozen all asylum decisions following a recent, entirely unrelated incident involving a National Guard member's shooting. 'We simply can't risk it,' stated an anonymous official, 'Until we understand how a single individual's actions impact the entire philosophical framework of international refugee law, it's best to just pause everything.' Rights advocates are 'concerned,' but mostly just tired.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764516724065-5",
+        "headline": "Ohio State Victory Over Michigan Miraculously Heals Decades Of Generational Trauma For Millions",
+        "content": "In a cosmic alignment of athletic prowess and sheer luck, the Ohio State Buckeyes have finally, after what felt like an eternity, defeated their sworn enemies, the Michigan Wolverines. The monumental win, which saw celebrations erupt across the Buckeye State, is expected to finally resolve all lingering family feuds, mend broken marriages, and potentially even lower global warming. Experts say the implications for college football playoff rankings are 'significant,' by which they mean 'will determine the meaning of life for several fanbases.'",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764513374397-0",
-        "headline": "President Trump Says No One Can Fly Over Venezuela",
-        "content": "President Trump said that no planes are allowed to fly over Venezuela, or even near it. This made some people worried that a fight might happen because the US has a lot of military stuff ready. The government in Venezuela got very upset and said it was like someone trying to take over their country. They also stopped all flights that were supposed to send people who moved there back home.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-1",
-        "headline": "A Bad Guy Hurt Many People at a Party",
-        "content": "Four people died and ten more got hurt, even some kids, when a person with a gun shot at a family party in California on Saturday night. The police think that the shooter was trying to hurt specific people. The person who did it hasn't been caught yet.",
-        "originalSource": "Los Angeles Times",
-        "publishedTime": "Less than 12 hours ago"
-      },
-      {
-        "id": "story-1764513374397-2",
-        "headline": "Lawmakers Will Check If Soldiers Hurt People Twice",
-        "content": "Some important people in Congress, from both big political teams, said they will look into a story. The story said that the head of the military, Pete Hegseth, told soldiers to shoot a boat again to kill two people who survived a first attack. These people were thought to be drug smugglers. Mr. Hegseth said the story was not true.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-3",
-        "headline": "Soldier Dies After Being Shot, Man Gets Serious Charge",
-        "content": "A man named Rahmanullah Lakanwal was first charged with shooting two soldiers from the National Guard in Washington, DC. But now, one of the soldiers, named Specialist Sarah Beckstrom, who was 20 years old, sadly died because of her injuries. So, the man's charges got much more serious, to first-degree murder. Sarah was helping to fight crime, and the FBI is looking into if this was a scary act of terrorism.",
-        "originalSource": "Associated Press",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-4",
-        "headline": "President Trump Forgives a Former President From Honduras",
-        "content": "President Trump told everyone online that he will forgive the old president of Honduras, named Juan Orlando Hernández. This old president is in jail in the US for 45 years because he was involved with drugs and guns. President Trump said he thinks Mr. Hernández was treated very meanly and unfairly.",
-        "originalSource": "Associated Press (via PBS)",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-5",
-        "headline": "President Trump Wants to Undo Joe Biden's Papers",
-        "content": "President Trump said he is going to cancel all the special orders and papers that Joe Biden signed using a special machine that writes for him, called an autopen. President Trump says that it was against the rules for staff to use this machine to sign for him, and so those papers shouldn't count. But actually, it's okay for presidents to use autopens if they say it's okay.",
+        "id": "story-1764516724065-0",
+        "headline": "Bad Guys Hurt Many People at a Kid's Party",
+        "content": "Something very sad happened at a party for kids in California. Four grown-ups died, and ten other people got hurt because of a shooting. This made a lot of people all over the country talk about how to keep everyone safe and stop bad things like this from happening.",
         "originalSource": "CBS News",
-        "publishedTime": "About 48 hours ago"
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764516724065-1",
+        "headline": "President Trump Stops Venezuela's Planes from Flying Here",
+        "content": "President Trump said that planes from Venezuela can't fly in American skies anymore. The government in Venezuela got really mad and said it was like a 'bossy threat' trying to take away their country's power. It's making things between the two countries more tense.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764516724065-2",
+        "headline": "President Trump Plans to Forgive a Honduran Leader",
+        "content": "President Trump said he wants to forgive a leader from Honduras, Juan Orlando Hernandez, who is in jail in America for something about drugs. This is one of a few times President Trump has said he will forgive people, and some other leaders are not happy about it.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764516724065-3",
+        "headline": "Defense Boss Wants to Punish Other Leaders",
+        "content": "The boss of the military, Pete Hegseth, got into trouble because he said he might use army rules to go after some other leaders. Some people think he is helping President Trump get back at people he doesn't like. It's making a lot of people worry about how things usually work.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764516724065-4",
+        "headline": "America Stops Helping People Seeking Safety",
+        "content": "After someone from the National Guard shot someone, the American government decided to stop making choices about people who want to come to America for safety. This means it's getting even harder for people trying to move here, and many people are worried about it.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764516724065-5",
+        "headline": "Ohio State Finally Beats Michigan in Football Game",
+        "content": "Wow! The Ohio State football team finally beat their big rivals, the Michigan team! They hadn't won against them in a long time, so this was a super important game. This win might even help them get into the big college football playoffs!",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764513374397-0",
-        "headline": "The Sky's New Keeper",
-        "content": "From a distant podium, President Trump’s words carved a new boundary in the sky: Venezuela’s airspace, \"closed in its entirety.\" An invisible wall erected, it instantly thickened the air with dread. Military aircraft, already gathering, whispered of imminent conflict. Caracas, a city accustomed to defiance, erupted. Their government, eyes fixed on the encroaching shadow, denounced the declaration as a \"colonialist threat\" against their very soul. Sovereign pride bristled, and in a swift retaliatory move, all migrant deportation flights were abruptly halted, leaving countless lives suspended in the escalating geopolitical storm.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-1",
-        "headline": "Shattered Celebration",
-        "content": "Laughter and music filled the Stockton banquet hall, a vibrant tapestry of family celebration. Then, a sudden, jarring rip. Gunshots. The joyous shouts became screams, the dance floor a scene of chaos. Four lives extinguished, ten more wounded—children among them, their innocence shattered. The attacker, a phantom in the smoke, vanished into the night, leaving behind a profound silence punctuated by sirens. Authorities hinted at a targeted malevolence, but offered no solace for the broken families. The suspect remained at large, a menacing shadow cast over a community’s grief.",
-        "originalSource": "Los Angeles Times",
-        "publishedTime": "Less than 12 hours ago"
-      },
-      {
-        "id": "story-1764513374397-2",
-        "headline": "The Second Wave's Secret",
-        "content": "Whispers from the deep stirred the halls of power. A Washington Post revelation alleged a horror in the Caribbean: Defense Secretary Pete Hegseth, it claimed, ordered a second strike, not on a narco-boat, but on its two struggling survivors. Bipartisan congressional leaders, their faces grim, vowed immediate scrutiny. The House and Senate Armed Services Committees prepared for an investigation that promised to unearth unsettling truths. Hegseth, cornered by the storm, vehemently denied the report, branding it \"fake news.\" But the questions lingered, cold and persistent, like the ocean currents around a sunken secret.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1764513374397-3",
-        "headline": "A Sentinel's Last Watch",
-        "content": "The streets of D.C., Specialist Sarah Beckstrom’s patrol, became her final post. At twenty years old, deployed to combat urban crime, she succumbed to wounds from a shooting that had previously injured another National Guard member. Rahmanullah Lakanwal, the man behind the trigger, now faced first-degree murder charges. Sarah’s death cast a somber pall, elevating the incident beyond a mere crime. The FBI, with gravity in its voice, launched an investigation into the attack as an act of terrorism, painting her ultimate sacrifice with a chilling new brushstroke.",
-        "originalSource": "Associated Press",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-4",
-        "headline": "A President's Mercy",
-        "content": "A digital decree from President Trump rippled across screens: a full pardon for Juan Orlando Hernández, the former Honduran president. Convicted in the U.S. for drug trafficking and weapons charges, serving a formidable 45-year sentence, Hernández was now granted an unexpected reprieve. President Trump, citing a belief that the ex-leader had been \"treated very harshly and unfairly,\" exercised his formidable presidential power. The announcement stirred a potent mix of bewilderment and outrage, raising questions about justice, sovereignty, and the far-reaching arm of executive clemency.",
-        "originalSource": "Associated Press (via PBS)",
-        "publishedTime": "About 48 hours ago"
-      },
-      {
-        "id": "story-1764513374397-5",
-        "headline": "The Autopen's Challenge",
-        "content": "President Trump declared war on ink. Specifically, the mechanical kind. He announced the unilateral termination of all executive orders and documents signed by Joe Biden using an autopen. His rationale was unequivocal: these machine-generated signatures were \" illegally applied by staff\" and therefore void. It was a bold pronouncement, aimed at delegitimizing an entire administration's decrees. Yet, a quiet counter-point emerged: the use of autopens by presidents, if duly authorized, was not, in fact, illegal. The battle of the pens had begun, an invisible war fought over official seals and electronic strokes.",
+        "id": "story-1764516724065-0",
+        "headline": "Shattered Balloons, Silent Cries",
+        "content": "The laughter, once a vibrant tapestry of childhood joy, ripped apart in an instant. A mass shooting descended upon the Stockton birthday party, an uninvited, brutal guest. Four lives extinguished, ten others scarred, not just by bullets, but by the phantom echoes of a celebration turned nightmare. Across the nation, the familiar, weary debate reignited, a smoldering ember of discord. How many more balloons must burst? How many more cakes must go uneaten before safety replaces fear, and peace reclaims its rightful place? The question hung heavy, a shroud over innocence lost.",
         "originalSource": "CBS News",
-        "publishedTime": "About 48 hours ago"
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764516724065-1",
+        "headline": "A Sky Divided",
+        "content": "Above the Caribbean, a new invisible wall rose. President Trump declared US airspace off-limits to Venezuelan flights, a silent directive reverberating across the hemisphere. In Caracas, President Maduro's government roared back, branding the act a \"colonialist threat.\" They saw not a protective measure, but a blade aimed at their nation's heart, a challenge to their very sovereignty. The airwaves crackled with diplomatic fire, each side digging deeper trenches. The skies, once a symbol of connection, now stretched as a stark, divided expanse, mirroring the chasm between two nations.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764516724065-2",
+        "headline": "The Hand of Clemency",
+        "content": "The prison walls held Juan Orlando Hernandez, a former Honduran president, ensnared by a drug trafficking conviction. But then, a voice from the highest office pierced the silence. President Trump, with a stroke of presidential authority, declared his intent to pardon him. The announcement rippled, not as a gentle wave, but as a jarring tremor through the political landscape. Whispers turned to shouts, as opponents and officials scrutinized this latest controversial clemency. Was it justice? Or merely another move in a high-stakes game, blurring the lines between law and political will? The question hung heavy, a shadow over the path to freedom.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764516724065-3",
+        "headline": "A Weaponized Shield",
+        "content": "The Pentagon, a bastion of impartiality, seemed to shudder under a new decree. Defense Secretary Pete Hegseth, a loyal confidante, threatened to unleash the military justice system upon political opponents, specifically Democrats. Critics recoiled, seeing the venerable institution contorted into a tool for President Trump’s \"retribution campaign.\" The move was more than controversial; it was a seismic shift, a shattering of long-held norms. The lines between national defense and political vendetta blurred dangerously, painting a grim picture of justice weaponized, and the very foundation of civilian oversight tested to its breaking point.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764516724065-4",
+        "headline": "The Frozen Gates",
+        "content": "A single gunshot, fired by a National Guard member, echoed far beyond its immediate impact. Across the nation, every pending asylum decision suddenly froze. The US government, reacting swiftly and broadly, slammed the administrative brakes on the hopes of countless individuals seeking refuge. This sweeping directive, a stark escalation in the intensifying immigration crackdown, sent a chill through rights advocates and legal experts alike. The border, already a crucible of desperation, now stood even more impenetrable, its gates of compassion seemingly rusted shut, leaving the vulnerable stranded in an unforgiving legal limbo.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764516724065-5",
+        "headline": "A Rivalry Rekindled",
+        "content": "The stadium roared, a cacophony of scarlet and gray. For years, the Wolverines had held bragging rights, a bitter taste in the Buckeyes’ mouths. But today, something shifted. Ohio State, fueled by a simmering desire for redemption, finally broke the curse. Each play was a defiant declaration, each touchdown a thunderclap. When the final whistle shrieked, the scoreboard blazed with their victory, ending a long, agonizing losing streak against their arch-rivals, Michigan. The win wasn't just a game; it was a statement, shaking the foundations of college football playoff rankings and reigniting a storied rivalry with electrifying intensity.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
       }
     ]
   }
