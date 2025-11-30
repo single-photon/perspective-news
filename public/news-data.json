@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764459147473,
+  "timestamp": 1764474737206,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764459076532-0",
-        "headline": "Systemic Issues Under Scrutiny Following D.C. Incident, Prompting Review of Asylum Process for Afghan Arrivals",
-        "content": "An Afghan national faces murder charges in connection with a deadly ambush on National Guard members in Washington, D.C. This tragic incident has intensified the national debate over security screenings and the U.S. asylum process for Afghan arrivals, raising critical questions about systemic vulnerabilities and prompting an immediate policy review by the Biden administration. Advocates emphasize the need for robust, equitable processes that uphold human rights while ensuring public safety.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-1",
-        "headline": "Humanitarian Concerns Mount as U.S. Halts Asylum Decisions and Visas for Afghan Nationals",
-        "content": "In a move drawing widespread condemnation from human rights groups, the U.S. government has unilaterally paused all asylum decisions and visa processing for Afghan nationals. This significant policy shift, coming after a high-profile attack allegedly involving a recent Afghan arrival, raises immediate concerns about collective punishment and the ethical implications of halting protection for vulnerable populations seeking refuge from persecution.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-2",
-        "headline": "President Trump's Plan to Pardon Convicted 'Narco-State' Leader Threatens Rule of Law",
-        "content": "President Trump announced his intent to pardon Juan Orlando Hernández, the former Honduran president currently serving a 45-year U.S. prison sentence for operating a 'narco-state' and conspiracy to import cocaine. This controversial move, part of a broader set of executive actions, sparks outrage among advocates for justice, raising serious concerns about impunity for powerful figures and the integrity of the U.S. legal system in addressing international corruption and drug trafficking.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764459076532-3",
-        "headline": "Northwestern University's $75 Million Settlement Highlights Need for Accountability in Elite Institutions",
-        "content": "Northwestern University has reached a $75 million settlement with the U.S. government, concluding federal probes initiated during the Trump administration. The payment finalizes the dispute, allowing the prestigious institution to restore access to critical federal research funding. This outcome underscores the importance of rigorous oversight for powerful institutions, ensuring accountability and ethical stewardship of resources, especially when public funds are involved.",
-        "originalSource": "The Guardian",
+        "id": "story-1764474659554-0",
+        "headline": "President Trump's Administration Exploits Tragedy to Further Restrict Asylum Access",
+        "content": "In a move drawing immediate condemnation from human rights advocates, President Trump's administration has abruptly suspended all new asylum decisions, citing a National Guard shooting as justification. Critics argue this sudden policy shift, part of a pattern of escalating anti-immigrant measures, disproportionately harms vulnerable individuals seeking safety and raises serious questions about the nation's commitment to international humanitarian law and the systemic erosion of asylum rights at the U.S. border.",
+        "originalSource": "AP News / PBS News",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764459076532-4",
-        "headline": "U.S. Unilateral Suspension of Venezuelan Repatriation Flights Raises Humanitarian Concerns",
-        "content": "The Venezuelan government states that the United States has unilaterally suspended scheduled migrant repatriation flights, which were part of an agreement to return Venezuelan nationals from the U.S. southern border. This unexpected cessation of flights threatens to disrupt current U.S. efforts to manage migration, raising immediate humanitarian concerns about the well-being and stability of vulnerable migrants caught in fluctuating, often politically driven, border policies.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "id": "story-1764474659554-1",
+        "headline": "Venezuela Calls President Trump's Airspace Order a \"Colonial Threat\" Amid Rising Tensions",
+        "content": "Venezuela's government has vehemently rejected President Trump's assertion of closing its airspace, labeling the unilateral action a \"colonial threat\" and a clear act of U.S. overreach. This latest escalation in tensions between the U.S. and the Maduro government not only disrupts international aviation but also severely impedes crucial migrant repatriation efforts, highlighting the detrimental human cost of aggressive geopolitical maneuvering and challenges to national sovereignty.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764459076532-5",
-        "headline": "Public Health Experts Decry Strict New FDA Vaccine Protocol as Dangerous and Irresponsible",
-        "content": "Medical and public health experts are publicly criticizing a new, more stringent protocol put in place by the Food and Drug Administration (FDA) for the approval of new vaccines. Critics argue that the updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing rapid response capabilities and hindering the timely development of essential public health measures crucial for protecting communities, especially during future health crises.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764474659554-2",
+        "headline": "Congressional Scrutiny Demanded After Alleged \"No Survivors\" Order in Pentagon Strike",
+        "content": "Bipartisan outrage has prompted Senate and House armed services committees to launch an urgent investigation into the Pentagon, following a disturbing report alleging Defense Secretary Pete Hegseth issued an order to \"leave no survivors\" after a U.S. strike in the Caribbean. This egregious claim, involving the killing of boat strike survivors, raises profound questions about military accountability, potential war crimes, and the systemic normalization of violence within U.S. defense operations.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764474659554-3",
+        "headline": "President Trump Vows Pardon for Convicted Honduran Ex-President, Sparking Outcry Over Impunity",
+        "content": "President Trump has controversially announced his intention to pardon Juan Orlando Hernandez, the former Honduran president currently imprisoned in the U.S. for drug trafficking. This pledge, widely condemned by human rights organizations and political rivals, is seen as a dangerous assault on the rule of law, potentially emboldening corruption and undermining critical efforts to address systemic issues of drug trafficking and impunity in Central America.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764474659554-4",
+        "headline": "Visionary Playwright Tom Stoppard, Whose Works Challenged Thought, Passes Away at 88",
+        "content": "The world of theater mourns the passing of acclaimed British playwright Tom Stoppard at 88. Celebrated for his intellectual depth and dazzling wit in works such as \"Rosencrantz and Guildenstern Are Dead\" and \"Arcadia,\" Stoppard's profound contributions to modern drama inspired critical thinking and challenged audiences to engage with complex ideas, leaving an indelible mark on cultural discourse and the evolution of artistic expression.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764474659554-5",
+        "headline": "Northwestern Settles for $75 Million, Ending President Trump Administration Investigations",
+        "content": "Northwestern University has agreed to a $75 million settlement with the U.S. government, concluding a series of high-stakes investigations initiated by President Trump's administration. While restoring vital research funding, the settlement highlights the intense pressure faced by institutions under political scrutiny and raises questions about the strategic use of federal probes, particularly when allegations of misconduct and misuse of public funds in critical academic programs are at stake.",
+        "originalSource": "The Washington Post / The Guardian",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764459076532-0",
-        "headline": "Suspected Afghan National Guard Attacker to Face Murder Charge After Deadly D.C. Ambush",
-        "content": "An Afghan national is expected to face a murder charge in connection with the deadly ambush and shooting of National Guard members in Washington, D.C. The incident, which resulted in one death, has intensified the national debate over security screenings and the U.S. asylum process for Afghan arrivals, prompting an immediate policy review by the Biden administration.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-1",
-        "headline": "U.S. Halts All Asylum Decisions, Pauses Visas for Afghan Nationals Following D.C. Attack",
-        "content": "The U.S. government has unilaterally decided to temporarily pause all asylum decisions and visa processing for Afghan nationals. This significant policy shift comes directly after a high-profile attack on National Guard troops in the nation's capital allegedly involving a recent Afghan arrival, raising immediate concerns among human rights groups and advocates.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-2",
-        "headline": "Trump Plans to Pardon Ex-Honduran President Convicted of Drug Trafficking in U.S.",
-        "content": "Former President Donald Trump announced his intent to pardon Juan Orlando Hernández, the former Honduran president who is currently serving a 45-year prison sentence in the U.S. for operating a 'narco-state' and conspiracy to import cocaine. The move is part of a broader set of controversial executive actions planned by the former president.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764459076532-3",
-        "headline": "Northwestern University Agrees to Pay $75 Million to Settle Federal Probes",
-        "content": "Northwestern University has reached a $75 million settlement agreement with the U.S. government to conclude federal probes that were initially launched during the Trump administration. The payment finalizes the dispute, allowing the prestigious institution to restore its eligibility and access to critical federal research funding that had been previously halted.",
-        "originalSource": "The Guardian",
+        "id": "story-1764474659554-0",
+        "headline": "Trump administration halts all asylum decisions after shooting of National Guard members",
+        "content": "Following a National Guard shooting, the Trump administration has temporarily suspended all new asylum decisions. This move comes as part of broader changes to immigration and border policy, generating debate about the legality and humanitarian impact of the sudden policy shift on vulnerable migrants seeking refuge at the U.S. border.",
+        "originalSource": "AP News / PBS News",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764459076532-4",
-        "headline": "Venezuela Claims U.S. Unilaterally Suspended Migrant Repatriation Flights",
-        "content": "The Venezuelan government has stated that the United States has unilaterally suspended scheduled migrant repatriation flights, which were part of an agreement to return Venezuelan nationals who had recently crossed the U.S. southern border. This unexpected cessation of flights threatens to disrupt current U.S. efforts to manage and control the flow of migration at the border.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "id": "story-1764474659554-1",
+        "headline": "Venezuela denounces 'colonial threat' as Trump orders airspace closed",
+        "content": "Venezuela's government \"forcefully rejects\" a claim by Donald Trump that he has ordered their airspace closed, calling the move a \"colonial threat.\" This sharp diplomatic exchange further escalates tensions between the U.S. and the Maduro government, impacting international aviation and migrant repatriation efforts which were also recently suspended.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764459076532-5",
-        "headline": "Experts Decry Strict New FDA Vaccine Protocol as 'Dangerous and Irresponsible'",
-        "content": "Medical and public health experts are publicly criticizing a new, more stringent protocol put in place by the Food and Drug Administration (FDA) for the approval of new vaccines. Critics argue that the updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing rapid response capabilities and hindering the timely development of essential public health measures.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764474659554-2",
+        "headline": "Congressional committees to scrutinize Pentagon in killing of boat strike survivors",
+        "content": "The Senate and House armed services committees have pledged a bipartisan scrutiny of the Pentagon following a report that Defense Secretary Pete Hegseth allegedly ordered a U.S. strike in the Caribbean to \"leave no survivors.\" The investigation will focus on the legality and accountability surrounding the deadly incident involving boat strike survivors.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764474659554-3",
+        "headline": "Trump says he will pardon former Honduran President Juan Orlando Hernandez",
+        "content": "Former President Donald Trump announced his plan to issue a pardon to Juan Orlando Hernandez, the former Honduran president who is currently serving a sentence in the U.S. for drug trafficking. This highly controversial pledge is part of Trump's broader agenda and has immediately drawn criticism from human rights groups and political opponents.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764474659554-4",
+        "headline": "Tom Stoppard, playwright of dazzling wit and playful erudition, dies aged 88",
+        "content": "Acclaimed British playwright Tom Stoppard, known for celebrated works like \"Rosencrantz and Guildenstern Are Dead\" and \"Arcadia,\" has passed away at the age of 88. His death marks the loss of a literary giant whose brilliant, complex, and witty plays profoundly influenced modern theater and earned him numerous prestigious awards.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764474659554-5",
+        "headline": "Northwestern agrees to pay US government $75 million to end Trump administration probes",
+        "content": "Northwestern University has reached a settlement to pay the U.S. government $75 million to resolve a series of investigations initiated by the Trump administration. The settlement will restore the university's research funding and conclude the high-stakes legal battle, which included allegations of misconduct and misuse of federal funds in various programs.",
+        "originalSource": "The Washington Post / The Guardian",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764459076532-0",
-        "headline": "Afghan National Faces Murder Charge After D.C. Attack, Exposing Failures in Biden's Border Security",
-        "content": "An Afghan national is set to face a murder charge following a deadly ambush on National Guard members in Washington, D.C. This tragic incident, resulting in one death, starkly highlights the ongoing failures in security screenings and the U.S. asylum process for Afghan arrivals, forcing the Biden administration to belatedly review its policies after the damage has been done. Our national security demands rigorous border control, not reactive measures after lives are lost.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-1",
-        "headline": "United States Halts Afghan Asylum and Visas, A Necessary Step After D.C. Attack Exposes Security Risks",
-        "content": "The U.S. government has, at last, decided to temporarily halt all asylum decisions and visa processing for Afghan nationals. This critical policy adjustment follows directly from a high-profile attack on National Guard troops in the nation's capital, allegedly involving a recent Afghan arrival. While some 'human rights groups' express concern, prioritizing the safety and security of American citizens and our uniformed personnel must always be paramount over open-border ideology.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-2",
-        "headline": "President Trump Declares Intent to Pardon Former Honduran President, Exercising Executive Authority with Purpose",
-        "content": "President Trump has announced his firm intent to pardon Juan Orlando Hernández, the former Honduran president convicted of drug trafficking in the U.S. This decisive action is a clear exercise of President Trump's constitutional executive authority, signaling a broader commitment to strong, independent leadership. It demonstrates a leader willing to make tough decisions, unafraid of establishment criticism, in the pursuit of American interests and justice as he defines it.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764459076532-3",
-        "headline": "Northwestern University Settles $75 Million Federal Probes Initiated Under President Trump's Scrutiny",
-        "content": "Northwestern University, a prominent academic institution, has reached a significant $75 million settlement with the U.S. government, bringing to a close federal probes that were initially launched with vigilance during President Trump's administration. This substantial payment finalizes the dispute, allowing the university to restore its eligibility for vital federal research funding, underscoring the importance of accountability for all institutions, especially those benefiting from taxpayer dollars.",
-        "originalSource": "The Guardian",
+        "id": "story-1764474659554-0",
+        "headline": "President Trump Prioritizes National Security, Suspends Asylum Decisions After Attack on National Guard",
+        "content": "In a decisive move to bolster national security, President Trump's administration has temporarily suspended all new asylum decisions following a deplorable shooting incident targeting National Guard members. This action is a crucial component of broader policy adjustments aimed at securing our nation's borders and upholding the rule of law, rightly prioritizing the safety of our servicemen and citizens over ongoing debates about uncontrolled migration.",
+        "originalSource": "AP News / PBS News",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764459076532-4",
-        "headline": "Venezuela Claims U.S. Halted Repatriation Flights, Worsening Biden Administration's Border Crisis",
-        "content": "The Venezuelan government has asserted that the United States has unilaterally suspended scheduled migrant repatriation flights, which were intended to return Venezuelan nationals who had illegally crossed the U.S. southern border. This unexpected cessation of crucial flights regrettably threatens to further disrupt the already failing U.S. efforts to manage and control the escalating flow of illegal migration at the border, a direct consequence of the current administration's weak policies.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "id": "story-1764474659554-1",
+        "headline": "President Trump Takes Decisive Action Against Maduro Regime, Orders Airspace Closure",
+        "content": "The Venezuelan government's \"forceful rejection\" of President Trump's order to close their airspace, branding it a \"colonial threat,\" underscores the socialist regime's predictable hostility towards American strength. This sharp diplomatic response further escalates tensions as President Trump demonstrates unwavering resolve against the tyrannical Maduro government, protecting regional stability and affirming U.S. leadership against authoritarianism, while impacting international aviation and migrant repatriation efforts.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764459076532-5",
-        "headline": "Experts Denounce FDA's New 'Dangerous and Irresponsible' Vaccine Protocol as Bureaucratic Overreach",
-        "content": "Medical and public health experts are vociferously criticizing a new, more stringent protocol imposed by the Food and Drug Administration (FDA) for the approval of new vaccines. Critics rightly argue that these updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing our nation's rapid response capabilities and unduly hindering the timely development of essential public health measures, stifling innovation with burdensome federal bureaucracy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764474659554-2",
+        "headline": "Congress Investigates Defense Secretary Amidst Allegations Regarding Caribbean Strike",
+        "content": "Both Senate and House armed services committees have pledged bipartisan scrutiny of the Pentagon following reports alleging that Defense Secretary Pete Hegseth ordered a U.S. strike in the Caribbean to \"leave no survivors.\" While an investigation will focus on legality and accountability concerning the deadly incident involving boat strike survivors, it is crucial to remember the immense pressures and difficult decisions our military leaders face in complex operations, supporting those who protect our nation.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764474659554-3",
+        "headline": "President Trump Vows to Pardon Former Honduran Leader, Exercising Executive Authority",
+        "content": "President Trump announced his intention to pardon Juan Orlando Hernandez, the former Honduran president currently serving a sentence in the U.S. for drug trafficking. This bold pledge is a clear exercise of presidential authority and part of President Trump's unique approach to both justice and foreign relations, drawing expected criticism from those who prefer the status quo to decisive executive action.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764474659554-4",
+        "headline": "Celebrated Playwright Tom Stoppard, A Titan of Letters, Passes Away at 88",
+        "content": "Acclaimed British playwright Tom Stoppard, a true giant whose works like \"Rosencrantz and Guildenstern Are Dead\" and \"Arcadia\" are cultural treasures, has passed away at the age of 88. His death marks the loss of a literary titan whose brilliant intellect, complex narratives, and witty dialogue profoundly enriched the rich tradition of Western theater, earning him numerous prestigious awards and an enduring legacy.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764474659554-5",
+        "headline": "Northwestern University Pays $75 Million to Settle President Trump Administration Probes",
+        "content": "Northwestern University has agreed to a $75 million settlement with the U.S. government, resolving a series of rigorous investigations initiated by President Trump's administration. This settlement concludes a high-stakes legal battle, including serious allegations of misconduct and misuse of federal funds, reaffirming the administration's commitment to ensuring fiscal responsibility and protecting taxpayer dollars from being squandered by institutions.",
+        "originalSource": "The Washington Post / The Guardian",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764459076532-0",
-        "headline": "Nation Stunned as 'Asylum Seeker' Accused of Crime, Government Launches Shocking 'Maybe Vetting Is Good' Initiative",
-        "content": "In a development that has absolutely no one surprised, an individual seeking asylum is now facing a murder charge following a deadly ambush on National Guard members in Washington, D.C. The incident, an utterly unforeseen consequence of, well, *anything*, has sparked an intense national debate over whether perhaps, just perhaps, we should thoroughly check who we let into the country. The Biden administration, caught completely off-guard by the novel concept of 'security screening,' has immediately launched an 'urgent' policy review, presumably to find out what 'due diligence' means.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-1",
-        "headline": "U.S. Government Declares 'Time Out' on Afghan Asylum, Decides Paperwork Is Simply Too Much Effort for Now",
-        "content": "Demonstrating unparalleled governmental agility, the U.S. has abruptly slammed the brakes on all asylum decisions and visa processing for Afghan nationals. This swift, totally rational policy shift comes on the heels of a high-profile attack on National Guard troops allegedly involving a recent Afghan arrival, prompting the U.S. to conclude that continuing to process complex human situations is simply too much to ask right now. Human rights groups, bless their naive hearts, have raised 'concerns' about this sudden, decisive, and entirely proportional response.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-2",
-        "headline": "President Trump to Pardon Man Convicted of Running Entire 'Narco-State,' Cites 'Excellent Business Acumen'",
-        "content": "President Trump has announced his audacious plan to pardon Juan Orlando Hernández, the former Honduran president currently serving a leisurely 45-year prison sentence for what many would consider the petty crime of operating an entire 'narco-state' and masterminding cocaine importation. This move, hailed by President Trump as 'thinking outside the box' on criminal justice, is just one of a series of 'controversial executive actions' designed to keep legal experts perpetually on the edge of their very expensive seats, possibly wondering if they should have become clowns instead.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764459076532-3",
-        "headline": "Northwestern University Casually Discovers $75 Million 'Loose Change' to Re-Enable Federal Funding",
-        "content": "In a move showcasing the casual financial prowess of elite institutions, Northwestern University has generously agreed to part with $75 million to settle those rather persistent federal probes, which, ironically, were initially launched during the President Trump administration. This hefty payment will thankfully allow the prestigious institution to restore its eligibility for 'critical federal research funding,' proving once again that a little cash can clear up even the most inconvenient of disputes, much like a very expensive Tums for a national heartburn.",
-        "originalSource": "The Guardian",
+        "id": "story-1764474659554-0",
+        "headline": "National Guard Member's Paper Cut Prompts President Trump to Declare Asylum Decisions \"Too Dangerous To Consider\"",
+        "content": "In a bold move demonstrating unparalleled efficiency, President Trump's administration has, with lightning speed, temporarily ceased all new asylum decisions. This decisive action reportedly follows a National Guard shooting, which, according to officials, proved that evaluating asylum claims was simply too high-risk a venture for government employees. \"It's a matter of public safety,\" explained an anonymous source, \"If our brave Guard members are facing... incidents, how can we possibly expect bureaucrats to safely read paperwork?\" Critics, bewildered by the logic, suggested perhaps the two events weren't directly correlated, but the administration stood firm, preparing for a future where policy changes are dictated by the nearest unfortunate sneeze.",
+        "originalSource": "AP News / PBS News",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764459076532-4",
-        "headline": "U.S. Announces 'Oops, Forgot About That' Policy on Migrant Flights, Venezuela Expresses Mild Confusion",
-        "content": "The Venezuelan government, in a rare moment of lucidity, has bravely announced that the United States has 'unilaterally suspended' scheduled migrant repatriation flights, effectively throwing a wrench into what was once a 'plan.' This unexpected cessation of flights, which were part of an agreement to return Venezuelan nationals, threatens to disrupt the U.S.'s meticulously crafted efforts to manage and control the flow of migration at the border, primarily by making it even more chaotic and unpredictable than usual. The U.S. border management strategy now apparently relies on spontaneous whims.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "id": "story-1764474659554-1",
+        "headline": "President Trump Magically \"Closes\" Venezuela's Airspace, Citing Unbearable Glare From Sun",
+        "content": "The Venezuelan government, still reeling from the shock of a surprise presidential decree, \"forcefully rejected\" President Trump's alleged order to \"close\" their nation's airspace. \"This is a colonial threat!\" bellowed a bewildered official, apparently unaware that international aviation rules generally don't allow one country's leader to simply hit the \"off\" switch on another's skies. President Trump, meanwhile, was reportedly overheard muttering about the high cost of air traffic control in Caracas and how he \"just figured it was easier this way.\" International airlines, now facing the unenviable task of flying *through* purportedly \"closed\" air, have begun exploring options for submarine routes.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764459076532-5",
-        "headline": "FDA Adopts 'Better Safe Than Sorry...Eventually' Vaccine Protocol, Experts Warn of 'Too Safe' Epidemic",
-        "content": "Medical and public health experts are publicly decrying a revolutionary new, more stringent protocol put in place by the Food and Drug Administration (FDA) for vaccine approval. Critics argue that the updated guidelines are 'dangerous and irresponsible,' potentially jeopardizing rapid response capabilities and hindering the timely development of essential public health measures by making them take roughly forever. The FDA's new mantra, 'If it's not absolutely, perfectly, 100%, unarguably safe by the time the disease has naturally run its course, it's not safe enough,' has left experts wondering if we'll ever see a new vaccine again.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764474659554-2",
+        "headline": "Pentagon Investigated After Defense Secretary Pete Hegseth Allegedly Orders U.S. Strike To \"Leave No Survivors\" (Mission Accomplished, Apparently)",
+        "content": "In a move that has stunned exactly no one, both the Senate and House armed services committees have announced they will \"thoroughly scrutinize\" the Pentagon. This comes after reports surfaced that Defense Secretary Pete Hegseth allegedly issued a direct order for a Caribbean strike to \"leave no survivors.\" Insiders suggest the investigation will meticulously probe into whether \"leaving no survivors\" is indeed a standard operating procedure or merely a strongly worded suggestion. \"We are committed to understanding the nuances of 'no survivors',\" declared one committee member, \"such as, did he mean *zero* survivors, or just *very few*?\" The Pentagon has yet to comment, though a spokesperson was seen polishing a \"Mission Accomplished\" plaque.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764474659554-3",
+        "headline": "President Trump, In Act Of Supreme Benevolence, Vows To Pardon Drug Kingpin Because \"Everyone Deserves A Second Chance To Traffic Drugs\"",
+        "content": "In a move hailed by precisely zero human rights groups, President Trump has grandly announced his intention to pardon Juan Orlando Hernandez, the former Honduran president currently enjoying the amenities of a U.S. prison for drug trafficking. \"Look, the man made some mistakes,\" President Trump reportedly mused, \"But he was a *president*. That's gotta count for something, right? Besides, I know a thing or two about needing a good pardon.\" Critics immediately branded the pledge as \"controversial,\" seemingly unaware that \"controversial\" is now just part of President Trump's official job description. Many now eagerly await his next act of magnanimity, perhaps pardoning a notorious tax evader for \"excellent bookkeeping skills.\"",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764474659554-4",
+        "headline": "Acclaimed Playwright Tom Stoppard Finally Stops Playing, Dies At 88",
+        "content": "Literary world in shambles as Tom Stoppard, the British playwright so witty he could make a grocery list sound like philosophical prose, has reportedly died at the ripe old age of 88. Known for plays so brilliant and complex they often required a pre-show seminar, Stoppard's passing leaves a void that can only be filled by several hundred less-witty playwrights. Critics agree his death marks the end of an era, specifically the era where one man could simultaneously confound and delight audiences with plays like \"Rosencrantz and Guildenstern Are Dead,\" a title whose irony will now, tragically, be lost on its author. His final act, presumably, was a perfectly timed exit stage left.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764474659554-5",
+        "headline": "Northwestern University Pays $75 Million Ransom To President Trump's Administration, Declares It \"Tuition For Continued Existence\"",
+        "content": "In a stunning display of generosity, or perhaps just sheer exhaustion, Northwestern University has agreed to hand over a cool $75 million to the U.S. government, effectively bringing an end to a series of \"investigations\" launched by President Trump's administration. The university, now flush with renewed research funding, stated the payment was a \"strategic investment\" in its future, rather than an admission of the alleged misconduct and misuse of federal funds that miraculously disappeared the moment the check cleared. Experts are now debating whether this innovative new government funding model will replace traditional taxes, with universities nationwide reportedly pooling their resources to ensure they too can \"settle\" any inconvenient inquiries.",
+        "originalSource": "The Washington Post / The Guardian",
+        "publishedTime": "10 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764459076532-0",
-        "headline": "A Man is Expected to Be Charged for a Very Sad Attack on Soldiers",
-        "content": "A man from Afghanistan might be charged with murder. He hurt some National Guard soldiers in Washington, D.C., and one soldier sadly died. This made people talk more about how we check people coming from Afghanistan to live here. The government is looking at its rules again to make sure everyone is safe.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-1",
-        "headline": "America Will Not Let People From Afghanistan Come In Right Now",
-        "content": "The U.S. government decided to stop letting people from Afghanistan apply to live here for now. They also stopped giving out special papers (visas) to people from Afghanistan. This happened right after the attack on soldiers, which some people say involved someone from Afghanistan. This new rule has made some groups who help people worried.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-2",
-        "headline": "President Trump Wants to Let a Former President Out of Jail",
-        "content": "President Trump said he wants to let a former president from Honduras, named Juan Orlando Hernández, out of jail. This man is in jail for a very long time (45 years) because he was involved with bringing drugs (cocaine) into America. This is one of many big things President Trump plans to do.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764459076532-3",
-        "headline": "A Big School Will Pay Lots of Money to Finish Trouble with the Government",
-        "content": "Northwestern University, which is a very important school, has agreed to pay the U.S. government 75 million dollars. This money is to end some investigations that started when President Trump was in charge. Now that they've paid, the school can get important money from the government again to do research.",
-        "originalSource": "The Guardian",
+        "id": "story-1764474659554-0",
+        "headline": "President Trump's team stops decisions for people seeking safety.",
+        "content": "President Trump's government has stopped making decisions about people who want to come to America for safety, called 'asylum seekers.' This happened after some National Guard members were shot. This change is part of new rules about people coming into the country, and some people are worried if it's fair or safe for those trying to find a new home.",
+        "originalSource": "AP News / PBS News",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764459076532-4",
-        "headline": "Venezuela Says America Stopped Sending Their People Home",
-        "content": "The government of Venezuela says that the United States suddenly stopped sending people from Venezuela back home on airplanes. These flights were part of a deal to send Venezuelans who had crossed America's border back. Stopping these flights might make it harder for the U.S. to handle all the people coming across the border.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "id": "story-1764474659554-1",
+        "headline": "Venezuela is upset because President Trump closed their sky.",
+        "content": "The government of Venezuela is really mad at President Trump. They say he can't just close off their country's sky where planes fly. Venezuela called this a 'colonial threat,' which means they think President Trump is acting like he owns their country. This makes things even more tense between the U.S. and Venezuela, and it affects planes flying there and people trying to go back home.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764459076532-5",
-        "headline": "Smart Doctors Think New Vaccine Rules Are Not Safe",
-        "content": "Smart doctors and health experts are saying that new, tougher rules from the FDA (which checks food and medicine) for approving new shots (vaccines) are 'dangerous and not smart.' They worry these rules could make it harder and slower to create important medicines quickly when people really need them.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764474659554-2",
+        "headline": "Important people want to check on the Pentagon after a scary boat incident.",
+        "content": "Some important groups in the government, called committees, are going to look very closely at the Pentagon. The Pentagon is like the big boss of America's military. They are doing this because someone said that a top leader, Pete Hegseth, told soldiers to attack a boat and 'leave no survivors,' meaning everyone would die. These groups want to know if this was legal and who is responsible for what happened to the people on the boat.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764474659554-3",
+        "headline": "President Trump says he will forgive a jailed leader from Honduras.",
+        "content": "President Trump has said he plans to 'pardon' someone named Juan Orlando Hernandez. A pardon means someone who is guilty of a crime gets forgiven and released. This person used to be the president of Honduras, but he's in jail in the U.S. right now because he was found guilty of being involved with illegal drugs. Many people think this is a bad idea and are upset about it.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764474659554-4",
+        "headline": "A very smart writer named Tom Stoppard has passed away at 88.",
+        "content": "Tom Stoppard, who was a super smart and funny writer of plays, has died. He was 88 years old. He wrote famous plays like 'Rosencrantz and Guildenstern Are Dead.' His plays were very clever and important for theater, and he won many big awards for his work.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764474659554-5",
+        "headline": "Northwestern University will pay a lot of money to finish investigations.",
+        "content": "Northwestern University has agreed to pay the U.S. government $75 million. They are doing this to stop several investigations that President Trump's government started. This payment means the university will get its money for research back and end the big arguments it had with the government. The investigations were about whether the university did something wrong with money it got from the government.",
+        "originalSource": "The Washington Post / The Guardian",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764459076532-0",
-        "headline": "The Silent Toll of Capital Ambush",
-        "content": "The city held its breath as news of the D.C. ambush spread. A lone Afghan national, now identified, faced a murder charge, his actions echoing far beyond the capital's streets. One National Guard member lay dead, a somber casualty. The incident ignited a fiery debate over the asylum process, the rigorous security screenings, and the fragile trust placed in new arrivals. The administration, reeling from the tragedy, announced an immediate policy review, grappling with the sudden, profound cost of unseen vulnerabilities. A single act, a ripple of fear, forever altered the national conversation.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-1",
-        "headline": "When the Welcome Gates Suddenly Close",
-        "content": "The gates of opportunity, once wide open, suddenly slammed shut. Following the D.C. attack involving an Afghan national, the U.S. government announced an immediate, unilateral halt to all asylum decisions and visa processing for Afghan nationals. Hope for many, yearning for a new beginning, evaporated into thin air. Human rights groups and advocates raised their voices in dismay, decrying the blanket policy shift. The echoes of the capital's ambush reverberated globally, transforming a path to safety into an impassable barrier, leaving countless lives in agonizing limbo, awaiting an uncertain future.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent"
-      },
-      {
-        "id": "story-1764459076532-2",
-        "headline": "A President's Unexpected Act of Clemency",
-        "content": "Whispers turned to shouts as the news broke: President Trump intended to pardon Juan Orlando Hernández. The former Honduran president, a man convicted of masterminding a 'narco-state' and conspiracy to import cocaine, serving a brutal 45-year sentence, was to be set free. It was a bold move, part of a larger tapestry of controversial executive actions planned by President Trump. The legal world reeled, the public questioned, and the shadows of a powerful pardon stretched long over the judicial landscape. A presidential decree, weighty and divisive, promised to reshape perceptions of justice.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764459076532-3",
-        "headline": "The University's Costly Redemption",
-        "content": "A collective sigh of relief swept through Northwestern University. Years of uncertainty, fueled by federal probes initiated during President Trump's administration, finally concluded. The prestigious institution agreed to a hefty $75 million settlement with the U.S. government, a price paid to reclaim its standing. With the dispute settled, the university could once again access crucial federal research funding, a lifeline for its groundbreaking work that had been frustratingly out of reach. The payment closed a difficult chapter, ensuring the bright future of academic innovation could resume its rightful course.",
-        "originalSource": "The Guardian",
+        "id": "story-1764474659554-0",
+        "headline": "The Invisible Line",
+        "content": "The desert wind carried more than sand that day; it carried the whispers of hope, abruptly silenced. After the tragic National Guard shooting, an executive order from President Trump's administration slammed shut the gates to asylum. Families, already weary from their treacherous journeys, found themselves trapped in a cruel limbo. The debate raged in distant halls, but at the border, it was a colder, starker reality. Every decision, every life, hung in the balance, a humanitarian crisis deepening with each passing moment as the invisible line between safety and despair hardened.",
+        "originalSource": "AP News / PBS News",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764459076532-4",
-        "headline": "The Grounding of Migrant Hope",
-        "content": "A cold assertion from Caracas: the United States had unilaterally suspended migrant repatriation flights. The carefully negotiated agreement, designed to return Venezuelan nationals from the U.S. southern border, lay shattered. This sudden cessation of flights, unexpected and unexplained by Washington, threatened to unravel the delicate threads of U.S. border management efforts. Families prepared for a journey home found themselves stranded, caught in the silent, escalating friction between two nations. The promise of return, once a certainty, dissolved into an unpredictable, unsettling void, stranding many on foreign soil.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recent"
+        "id": "story-1764474659554-1",
+        "headline": "The Caged Horizon",
+        "content": "Caracas watched the sky, a new kind of tension in the air. President Trump’s declaration—a sudden closing of Venezuelan airspace—ignited a furious response. Venezuela's government thundered, branding it a \"colonial threat,\" a blatant assertion of power that echoed through diplomatic channels. Flights were grounded, and the delicate threads of migrant repatriation efforts snapped. The world shrunk for many, the horizon now a boundary imposed by distant decree. It was a silent siege, an invisible cage descending upon a nation, tightening the already strained ties between two sparring powers.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764459076532-5",
-        "headline": "The Bureaucratic Chokehold on Progress",
-        "content": "A new shadow fell upon the world of medicine. The Food and Drug Administration, in an unprecedented move, unveiled a more stringent protocol for vaccine approval. Experts across the globe reacted with outrage, labeling the updated guidelines 'dangerous and irresponsible.' They argued that such a bureaucratic chokehold would jeopardize rapid response capabilities, hindering the timely development of essential public health measures in a world constantly battling emerging threats. The race against disease, they warned, had just hit an invisible wall, constructed by the very body meant to protect.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764474659554-2",
+        "headline": "Echoes Beneath the Waves",
+        "content": "The Caribbean waves held secrets, dark and cold. Whispers of a U.S. strike, an alleged order from Defense Secretary Pete Hegseth to \"leave no survivors\" among boat strike victims, reached the distant halls of power. Now, congressional committees, both Senate and House, stood united in a bipartisan quest for truth. The Pentagon braced for scrutiny, questions of legality and accountability hanging heavy in the air. Who gave the command? Who died in the depths? The investigation sought to pierce the veil of secrecy, demanding answers for the lives lost beneath the tranquil surface.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764474659554-3",
+        "headline": "A Gambit for Freedom",
+        "content": "The news landed like a bombshell: President Trump declared his intent to pardon Juan Orlando Hernandez, the former Honduran president. Jailed in the U.S. for drug trafficking, Hernandez’s fate was suddenly intertwined with a political promise, a controversial stroke of clemency. Human rights groups immediately erupted in protest, their voices condemning the proposed act as a blow to justice. It was a move that resonated far beyond the courtroom, signaling a defiant agenda, a challenge to established norms, leaving many to question the true cost of such a high-stakes political play.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1764474659554-4",
+        "headline": "The Final Curtain Call",
+        "content": "The stage lights dimmed for the final time. Tom Stoppard, master wordsmith and architect of intricate theatrical worlds, had taken his last bow at 88. From the intellectual acrobatics of \"Rosencrantz and Guildenstern Are Dead\" to the poignant beauty of \"Arcadia,\" his genius sparkled, leaving audiences spellbound and critics awestruck. His wit, sharp as a stiletto and playful as a jig, redefined modern theater. Now, the silence he left behind was profound, a vast space where his brilliant narratives once danced, a testament to a giant whose unique voice would forever echo in the wings.",
+        "originalSource": "The Guardian / PBS News",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764474659554-5",
+        "headline": "The Settlement's Shadow",
+        "content": "A weighty sum, seventy-five million dollars, sealed Northwestern University's truce with the U.S. government. The payment brought an end to a series of intense investigations initiated by President Trump's administration, probes that had threatened to unravel the institution's very fabric. Allegations of misconduct and misused federal funds hung over its prestigious name like a storm cloud. With the settlement, the skies cleared; vital research funding, once jeopardized, was restored. It was a costly peace, but one that allowed the university to finally emerge from the legal shadow, its future once again bright.",
+        "originalSource": "The Washington Post / The Guardian",
+        "publishedTime": "10 hours ago"
       }
     ]
   }
