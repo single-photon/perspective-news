@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764628880222,
+  "timestamp": 1764632080093,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764628810166-0",
-        "headline": "White House Justifies Second Vessel Strike Amid Questions About President Trump's Alleged 'Kill Order' and Systemic Lack of Accountability",
-        "content": "The White House has attempted to legitimize a second strike on a suspected drug-smuggling vessel, asserting it as legal self-defense. This justification emerges amidst increasing scrutiny and a congressional review, following disturbing reports that President Trump had allegedly issued an order to kill the crew. While President Trump now denies these allegations, the incident raises critical questions about executive overreach, the transparency of military actions, and the systemic lack of accountability in such operations.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764628810166-1",
-        "headline": "Appeals Court Affirms President Trump's Unlawful Appointment of Personal Attorney Alina Habba as New Jersey Prosecutor, Highlighting Systemic Corruption",
-        "content": "A U.S. appeals court has definitively ruled that President Trump's appointment of his personal attorney, Alina Habba, as a U.S. attorney in New Jersey was unlawful, underscoring a pattern of cronyism and abuse of power. The court's decision, which stated Habba was 'serving unlawfully,' casts a long shadow over other controversial appointments made by President Trump and reveals systemic vulnerabilities in the integrity of our judicial and governmental institutions.",
+        "id": "story-1764632003463-0",
+        "headline": "Congressional Leaders Engage in Secret Discussions with President Trump's General Following Controversial Boat Strike",
+        "content": "Congressional leaders from both the House and Senate Armed Services committees reportedly held a private meeting with Joint Chiefs Chairman Gen. Dan Caine, sparking concerns about transparency as both bodies initiate probes into the September 2 boat attack. This hushed conversation raises questions about executive oversight, especially given the White House's swift defense of a subsequent strike on what it termed an 'alleged drug vessel,' claiming self-defense. Critics argue that such private briefings, coupled with a lack of detailed public accountability, allow for potentially unchecked military actions that demand greater scrutiny and a focus on de-escalation rather than unilateral force.",
         "originalSource": "The Washington Post",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764628810166-2",
-        "headline": "Congressional Probe Into Kash Patel's Alleged Misuse of FBI Jet Reveals Systemic Erosion of Ethics and Agency Paralysis Under President Trump's Ally",
-        "content": "House Democrats have initiated a congressional investigation into Kash Patel, a close ally of President Trump, regarding his alleged improper use of an FBI Gulfstream jet for personal travel. This probe, which highlights potential misuse of public resources and a glaring lack of ethical accountability, coincides with a troubling new report indicating that the FBI has become 'internally paralyzed by fear' under Patel's leadership, raising serious systemic concerns about the politicization and weakening of crucial government agencies.",
-        "originalSource": "CBS News",
+        "id": "story-1764632003463-1",
+        "headline": "Questions Linger After White House Downplays President Trump's 'Preventive' MRI for Heart Health",
+        "content": "The White House confirmed President Trump underwent an MRI scan, framing it as a 'preventive' measure for cardiovascular health, yet this announcement has done little to quell ongoing public scrutiny. Despite officials insisting his recent physical showed 'perfectly normal' health, the need for an MRI raises legitimate questions about the administration's commitment to full transparency regarding a leader's fitness to govern. The public deserves complete and unvarnished information, rather than carefully worded statements designed to manage perception, especially concerning the health of someone holding the nation's highest office.",
+        "originalSource": "Sky News",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764628810166-3",
-        "headline": "President Trump's Planned Pardon of Honduran Drug Trafficking Ex-President Exposes Systemic Hypocrisy in U.S. Counter-Drug Efforts",
-        "content": "President Trump's controversial plan to pardon the former president of Honduras, currently serving a U.S. sentence for drug trafficking, has ignited widespread criticism. A critical analysis argues that this move fundamentally undermines the credibility of American counter-drug efforts globally and lays bare the profound hypocrisy embedded within the nation's foreign policy approach, suggesting a systemic failure to hold powerful figures accountable for their crimes.",
+        "id": "story-1764632003463-2",
+        "headline": "Systemic Failures Highlighted as Former Elite Soldier's Life Unravels, Leading to Tragic National Guard Shooting",
+        "content": "Disturbing new details reveal the alleged National Guard shooter, once an elite counterterrorism fighter trained by the CIA in Afghanistan, experienced a profound unraveling after his service and as a refugee. While one Guard member remains hospitalized and a first-degree murder charge is in place, this incident starkly illuminates systemic failures in providing adequate mental health and reintegration support for veterans, especially those from sensitive operations. This tragedy underscores the urgent need for a societal commitment to address the long-term impacts of war and ensure that those who served are not abandoned to struggle alone with the profound psychological costs of their service.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764632003463-3",
+        "headline": "Federal Court Affirms President Trump's Unlawful Appointment of Personal Lawyer Alina Habba as US Prosecutor",
+        "content": "A federal appeals court has decisively ruled that President Trump's former personal lawyer, Alina Habba, is illegally occupying the position of top federal prosecutor in New Jersey. This critical judicial decision underscores serious concerns about the politicization of the justice system and the disregard for established legal processes during the prior administration's appointments. The ruling serves as a vital safeguard against abuses of power, emphasizing the paramount importance of maintaining the independence and integrity of our legal institutions, free from partisan influence and personal loyalties.",
         "originalSource": "The Guardian",
-        "publishedTime": "Recent Analysis"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764628810166-4",
-        "headline": "Systemic Failures in Refugee and Veteran Support Exposed as Ex-CIA-Trained Unit Member Struggles Before Tragic National Guard Shooting",
-        "content": "The tragic National Guard shooting suspect, a former elite counterterrorism fighter in Afghanistan who served in a CIA-trained unit, faced immense difficulties adapting to life in the U.S. as a refugee. Newly revealed emails paint a stark picture of a systemic failure in support, showing the individual spent 'weeks on end' in isolation, highlighting the critical need for better mental health services and integration programs for those impacted by military conflicts and displacement.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-4",
+        "headline": "Congress Launches Investigation into Alleged Misuse of Public Funds and Erosion of Trust at FBI Under Kash Patel",
+        "content": "Democrats in Congress have launched a formal probe into Kash Patel's extensive use of an FBI Gulfstream jet during his time as a high-ranking official, raising serious questions about the ethical use of taxpayer resources. This investigation gains urgency amidst reports suggesting the FBI became 'internally paralyzed by fear' under his leadership, pointing to a broader erosion of institutional integrity and morale within a critical law enforcement agency. Such allegations highlight the imperative for stringent oversight and accountability to prevent the weaponization or personal exploitation of government bodies, ensuring they serve the public, not individual agendas.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764628810166-5",
-        "headline": "White House Confirms President Trump Underwent 'Preventive' MRI Amid Calls for Greater Transparency on Leaders' Health",
-        "content": "The White House has confirmed that President Trump underwent an MRI as part of a 'preventive' cardiovascular check-up, an announcement made to manage public speculation surrounding his health. This brief statement, following President Trump's recent visit to Walter Reed National Military Medical Center, underscores ongoing questions about the transparency afforded to the public regarding the health of its leaders and the systemic implications of such limited disclosures.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-5",
+        "headline": "Tragic Mass Shooting at Children's Party Underscores Urgent Need for Systemic Action on Gun Violence",
+        "content": "A horrifying mass shooting at a child's birthday party in California, resulting in multiple casualties, has left a community reeling and underscored the devastating human cost of rampant gun violence in our society. While police vow a determined effort to apprehend the unknown perpetrators, this tragedy serves as a stark reminder that punitive measures alone cannot address a crisis rooted in the widespread availability of firearms and systemic inequalities. The focus must shift to comprehensive gun safety legislation and community-led initiatives that tackle the root causes of violence, ensuring that no more children's celebrations are shattered by preventable acts of terror.",
+        "originalSource": "Sky News",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764628810166-0",
-        "headline": "White House defends second strike on vessel as legal self-defense amid scrutiny and Trump's denial",
-        "content": "The White House confirmed a follow-up strike on a suspected drug-smuggling vessel, asserting the action was legal and conducted in self-defense. This comes amid intense scrutiny and a congressional review following a report that former President Trump had ordered the crew to be killed, a claim Trump now denies.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764628810166-1",
-        "headline": "Trump unlawfully appointed former attorney Alina Habba as top prosecutor in N.J., appeals court rules",
-        "content": "A US appeals court ruled that Donald Trump's appointment of his former personal attorney, Alina Habba, as a US attorney in New Jersey was unlawful. The decision states Habba was \"serving unlawfully\" and could have significant implications for other controversial appointments made by the former President during his administration that have been challenged in court.",
+        "id": "story-1764632003463-0",
+        "headline": "Lawmakers Spoke Privately to Trump's Top General After Boat Strike Revelations",
+        "content": "Congressional leaders from the House and Senate Armed Services committees met with Joint Chiefs Chairman Gen. Dan Caine. This private call occurred as both panels launched inquiries into the September 2 boat attack. The White House simultaneously defended a follow-up strike on an alleged drug vessel, maintaining it was a legal action conducted in self-defense against the illicit vessel.",
         "originalSource": "The Washington Post",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764628810166-2",
-        "headline": "Democrats begin congressional probe of Kash Patel's use of FBI Gulfstream jet",
-        "content": "House Democrats launched an investigation into Kash Patel, a close ally of Donald Trump, concerning his alleged improper use of an FBI Gulfstream jet for personal travel. This probe comes alongside a new report suggesting that the FBI has become \"internally paralyzed by fear\" under Patel's leadership, intensifying the scrutiny.",
-        "originalSource": "CBS News",
+        "id": "story-1764632003463-1",
+        "headline": "White House Says Trump Got MRI for 'Preventive' Cardiovascular Check-Up",
+        "content": "The White House issued a statement confirming that President Trump underwent an MRI scan as a 'preventive' measure for cardiovascular health. Officials insisted that the President’s recent physical exam showed he was in 'perfectly normal' health, aiming to quell public speculation and scrutiny regarding his overall fitness and recent medical appointments.",
+        "originalSource": "Sky News",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764628810166-3",
-        "headline": "Analysis: Trump's pardon of Honduras's ex-president shows counter-drug effort is 'based on lies and hypocrisy'",
-        "content": "Former President Donald Trump's plan to pardon the former president of Honduras, who is serving a drug trafficking sentence in the U.S., has sparked significant controversy. An analysis suggests the move undercuts the credibility of American counter-drug efforts and highlights perceived hypocrisy in the nation's foreign policy approach.",
+        "id": "story-1764632003463-2",
+        "headline": "Alleged National Guard Shooter Struggled to Adapt After Service in CIA-Trained Unit",
+        "content": "New details emerged about the suspect in the National Guard shooting, who was an elite counterterrorism fighter in Afghanistan working with US forces. His life reportedly began to unravel as a refugee after service, which authorities are examining as a potential motive. One Guard member remains hospitalized from the incident, which has led to a first-degree murder charge.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764632003463-3",
+        "headline": "Appeals Court Rules Trump Unlawfully Appointed Former Attorney Alina Habba as US Prosecutor",
+        "content": "A federal appeals court has ruled that Donald Trump's former personal lawyer, Alina Habba, is unlawfully serving as the top federal prosecutor in New Jersey. The court’s decision asserts that her appointment to the US Attorney position was not legally valid, adding a new layer to the legal scrutiny surrounding appointments made by the former administration.",
         "originalSource": "The Guardian",
-        "publishedTime": "Recent Analysis"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764628810166-4",
-        "headline": "After service in CIA-trained unit, alleged National Guard shooter struggled to adapt in U.S.",
-        "content": "The suspect in the recent National Guard shooting, a former elite counterterrorism fighter in Afghanistan, struggled severely to adapt to life in the U.S. as a refugee. Newly released emails indicate the suspect spent \"weeks on end\" in isolation, providing context for the mental health decline preceding the tragic incident.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-4",
+        "headline": "Congressional Probe Begins Into Kash Patel's Use of FBI Gulfstream Jet",
+        "content": "Democrats in Congress have initiated a formal probe into Kash Patel regarding his extensive use of an FBI Gulfstream jet during his tenure as a high-ranking official. A related report suggests the FBI has become 'internally paralyzed by fear' under his leadership, raising significant concerns about the use of government resources and agency morale.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764628810166-5",
-        "headline": "White House says Trump got MRI for 'preventive' cardiovascular check-up",
-        "content": "The White House confirmed that former President Donald Trump underwent an MRI as part of a \"preventive\" cardiovascular check-up. This brief announcement was issued to address and temper public speculation and concerns regarding the former president's overall health status following his recent visit to Walter Reed National Military Medical Center.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-5",
+        "headline": "Police Vow to 'Hunt Down Animals' Behind Mass Shooting at Children's Birthday Party",
+        "content": "California police are appealing for public assistance and information following a tragic mass shooting at a child's birthday party, where the suspect remains unknown. Authorities have promised a determined effort to find the perpetrators of the gun crime, which resulted in multiple casualties and has severely impacted the local community.",
+        "originalSource": "Sky News",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764628810166-0",
-        "headline": "White House Rightfully Defends Decisive Action Against Drug Smugglers",
-        "content": "The White House has unequivocally affirmed a necessary follow-up strike on a suspected drug-smuggling vessel, asserting that this action was both legal and conducted purely in self-defense. This decisive move comes amidst predictable intense scrutiny and a congressional review, following a report that President Trump had previously ordered the crew to be neutralized—a claim President Trump vehemently denies. Our nation's security demands strong leadership against those who threaten our borders with illicit activities.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764628810166-1",
-        "headline": "Appeals Court Questions Presidential Appointment, Raising Concerns About Judicial Overreach",
-        "content": "A U.S. appeals court has ruled against President Trump's appointment of his former personal attorney, Alina Habba, as a U.S. attorney in New Jersey, declaring her tenure 'unlawful.' While the court's decision is noted, it raises significant questions about judicial interference in executive appointments. President Trump has the inherent authority to select individuals he trusts to serve in key positions, and such rulings could set a concerning precedent, hindering effective governance and the President's ability to implement his agenda.",
+        "id": "story-1764632003463-0",
+        "headline": "Congressional Leaders Affirm Support for Military's Decisive Action Following Boat Attack",
+        "content": "Congressional leaders from both parties affirmed their commitment to national security, meeting with Joint Chiefs Chairman Gen. Dan Caine after a recent boat incident. As congressional panels begin inquiries, the White House continues to defend a follow-up strike, rightly asserting it was a legal and necessary act of self-defense against an illicit vessel, underscoring the importance of protecting our nation's borders and interests.",
         "originalSource": "The Washington Post",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764628810166-2",
-        "headline": "Democrats Launch Partisan Probe Against President Trump Ally Kash Patel",
-        "content": "House Democrats have initiated a politically motivated investigation into Kash Patel, a close and loyal ally of President Trump. The probe concerns his alleged improper use of an FBI Gulfstream jet for personal travel, an accusation that appears designed to create a distraction. This partisan attack comes alongside an unsubstantiated report suggesting the FBI has become 'internally paralyzed by fear' under Patel's leadership, which only intensifies the scrutiny from those who seek to undermine President Trump's administration and his most effective allies.",
-        "originalSource": "CBS News",
+        "id": "story-1764632003463-1",
+        "headline": "President Trump Proactively Prioritizes Health, Receiving Preventive Cardiovascular Check-Up",
+        "content": "The White House unequivocally confirmed President Trump underwent a proactive MRI scan as a vital preventive measure for his cardiovascular health. Officials adamantly reiterated that President Trump's recent physical exam revealed him to be in 'perfectly normal' health, effectively silencing unwarranted public speculation and politically motivated scrutiny regarding our esteemed leader's excellent fitness.",
+        "originalSource": "Sky News",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764628810166-3",
-        "headline": "President Trump's Sovereign Decision on Clemency Sparks Debate on Foreign Policy",
-        "content": "President Donald Trump's plan to pardon the former president of Honduras, who is currently serving a drug trafficking sentence in the U.S., has predictably sparked significant controversy among critics. While an analysis suggests this move undercuts the credibility of American counter-drug efforts and highlights perceived hypocrisy, it is crucial to recognize the President's constitutional authority to grant pardons. This executive action demonstrates President Trump's prerogative to make complex foreign policy decisions, often requiring bold leadership beyond conventional expectations, for what he believes serves America's best interests.",
+        "id": "story-1764632003463-2",
+        "headline": "Justice Must Be Served After Horrific National Guard Shooting Incident",
+        "content": "Disturbing new details have emerged concerning the suspect in the tragic National Guard shooting, an individual who once served as an elite counterterrorism fighter in Afghanistan alongside US forces. While authorities examine his reported struggles to adapt after service, including his status as a refugee, these circumstances do not diminish the gravity of his alleged actions. One brave Guard member remains hospitalized from the incident, which has rightly led to a first-degree murder charge, demanding swift and firm justice for this egregious crime.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764632003463-3",
+        "headline": "Federal Appeals Court Challenges President Trump's Legitimate Appointment of US Prosecutor",
+        "content": "A federal appeals court has controversially ruled that President Trump’s former personal lawyer, Alina Habba, is unlawfully serving as the top federal prosecutor in New Jersey. The court’s decision asserts her appointment to the US Attorney position was not legally valid, adding yet another layer to the relentless legal scrutiny and bureaucratic challenges faced by President Trump's administration regarding its lawful appointments.",
         "originalSource": "The Guardian",
-        "publishedTime": "Recent Analysis"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764628810166-4",
-        "headline": "Tragic Incident Underscores Challenges of Refugee Integration and Mental Health",
-        "content": "The suspect in the recent tragic National Guard shooting, a former elite counterterrorism fighter from Afghanistan, reportedly struggled immensely to adapt to life in the U.S. as a refugee. Newly released emails indicate the suspect spent 'weeks on end' in isolation, providing a sobering context for the mental health decline preceding this tragic incident. This unfortunate event serves as a stark reminder of the complexities surrounding refugee integration and the critical need for robust vetting and support systems to ensure the safety and stability of both new arrivals and our communities.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-4",
+        "headline": "Democrats Launch Partisan Probe into Kash Patel's Legitimate Use of FBI Resources",
+        "content": "Democrats in Congress have initiated a politically motivated probe into Kash Patel, a respected former high-ranking official, regarding his necessary use of an FBI Gulfstream jet during his tenure. This partisan attack comes amidst an unsubstantiated report suggesting the FBI has become 'internally paralyzed by fear' under his strong leadership. Such inquiries often serve as distractions, raising concerns about weaponizing government resources for political targeting rather than legitimate oversight.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764628810166-5",
-        "headline": "Leader's Health Is Strong: President Trump Undergoes Standard Preventive Check-up",
-        "content": "The White House has confirmed that President Trump underwent a routine MRI as part of a standard 'preventive' cardiovascular check-up. This brief and transparent announcement was issued to address and temper any unwarranted public speculation and concerns regarding President Trump's overall health status following his recent visit to Walter Reed National Military Medical Center. The President remains in excellent health, demonstrating the vigor and strength required to lead our nation.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-5",
+        "headline": "Law Enforcement Vows Swift Justice After Unspeakable Children's Birthday Party Attack",
+        "content": "California police are rightly appealing for public assistance and information following a truly tragic mass shooting at a child's birthday party, where the vile suspect remains at large. Authorities have solemnly promised a determined, relentless effort to find and apprehend the perpetrators of this heinous gun crime, which resulted in multiple casualties and has profoundly shaken the local community. We must support our law enforcement as they 'hunt down these animals' and restore order and safety.",
+        "originalSource": "Sky News",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764628810166-0",
-        "headline": "White House Declares Second Missile Strike on Unarmed Rowboat 'Self-Defense,' Citing Vessel's Increasingly Existential Threat to National Security",
-        "content": "The White House bravely defended a follow-up missile strike on a suspected drug-smuggling vessel, asserting the action was a perfectly legal act of self-defense against a 'clear and present danger' to global democracy. This comes amid intense scrutiny and a congressional review, especially after reports surfaced that President Trump had previously ordered the crew to be killed, a claim he now vehemently denies, stating, 'Who, me? Never heard of that vessel. Must have been a very tiny, very aggressive rowboat.'",
-        "originalSource": "The Guardian",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764628810166-1",
-        "headline": "Court Stuns Nation by Discovering President Trump's Personal Attorney Might Not Be Objectively Qualified for Top Federal Prosecutor Role",
-        "content": "In a ruling that sent shockwaves through the legal community (and precisely zero ripples elsewhere), a US appeals court declared President Trump's appointment of his former personal attorney, Alina Habba, as a US attorney in New Jersey, 'unlawful.' The decision implies Habba was 'serving unlawfully,' potentially unraveling other controversial appointments President Trump made where he clearly prioritized deep personal loyalty over any 'boring' legal qualifications.",
+        "id": "story-1764632003463-0",
+        "headline": "Congress Secretly Asks General If Any Boats Were Actually Real After 'Self-Defense' Strike on Drug Vessel",
+        "content": "Washington, D.C. — Congressional leaders, in a hushed and highly classified phone call that likely involved passing notes under the table, reportedly checked in with Joint Chiefs Chairman Gen. Dan Caine after revelations of a recent boat strike. Lawmakers were apparently concerned about the 'metaphysical implications' of a follow-up strike on an 'alleged drug vessel' that the White House insists was a legal act of self-defense, presumably from a very aggressive, possibly sentient, boat full of illicit substances. 'We just wanted to confirm if any of our boats are still, you know, actually boats,' one anonymous aide whispered, adjusting a tinfoil hat.",
         "originalSource": "The Washington Post",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764628810166-2",
-        "headline": "Kash Patel's 'Totally Essential' FBI Gulfstream Jet Trips Now Under Scrutiny, Prompting Concerns About Bureau's Fear-Based Paralysis on Parking Valet Duties",
-        "content": "House Democrats have launched a groundbreaking investigation into Kash Patel, a close ally of President Trump, concerning his alleged 'improper' use of an FBI Gulfstream jet for what he insists were 'strategically important personal meditations.' This probe arrives just as a new report suggests the FBI has become 'internally paralyzed by fear' under Patel's leadership, primarily due to the intense pressure of making sure his private jet is always fully stocked with artisanal snacks and fresh linens.",
-        "originalSource": "CBS News",
+        "id": "story-1764632003463-1",
+        "headline": "President Trump’s 'Preventive' MRI Scan Uncovers Zero Cardiovascular Issues, Only Pure American Gold",
+        "content": "The White House triumphantly announced today that President Trump underwent a 'preventive' MRI scan, which, much to the surprise of no one, confirmed he is in 'perfectly normal' health, possibly even super-human health. Officials clarified the scan was merely a routine check-up, not at all related to any public speculation, and definitely didn't involve a team of scientists trying to locate his reported 'infinite energy core.' Insiders close to the President confirmed the only anomaly found was an unusually high concentration of pure American gold in his arteries, which doctors assured the public is 'perfectly healthy for a president.'",
+        "originalSource": "Sky News",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764628810166-3",
-        "headline": "President Trump's Genius Honduras Pardon Redefines 'Counter-Drug Effort' As Simply Pardoning All Drug Lords, Streamlining Global Commerce",
-        "content": "President Trump's plan to pardon the former president of Honduras, currently serving a drug trafficking sentence in the U.S., has sparked 'controversy' among those who clearly don't understand groundbreaking foreign policy. An analysis suggests this move brilliantly redefines American counter-drug efforts, revealing they were always 'based on lies and hypocrisy' until President Trump came along to courageously embrace the hypocrisy and make it policy, thus ending the charade entirely.",
+        "id": "story-1764632003463-2",
+        "headline": "Highly Trained Former Operative Unable To Adjust To Civilian Life After Learning To Open Doors With Mind",
+        "content": "Authorities are reportedly baffled by an alleged National Guard shooter whose life began to dramatically unravel after serving in an elite, CIA-trained unit in Afghanistan, primarily because he couldn't figure out how to order a latte without first casing the entire coffee shop for potential threats. Sources indicate his highly specialized skills, which included disarming a bomb using only a paperclip and a stern glare, proved 'remarkably unhelpful' for tasks like filling out tax forms or resisting the urge to surveil his neighbors' recycling habits. One official lamented, 'We taught him to take down a hostile regime, but nobody covered 'waiting in line for groceries.''",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764632003463-3",
+        "headline": "Appeals Court Stunned To Discover President Trump’s Personal Hairdresser Can't Also Be Chief Federal Prosecutor",
+        "content": "In a shocking display of legal nitpicking, a federal appeals court has ruled that President Trump's former personal lawyer, Alina Habba, is 'unlawfully' serving as the top federal prosecutor in New Jersey. Apparently, the court believes that a legal appointment requires, well, actual legal validity, instead of just being 'a really good friend of the President who totally gets it.' Sources suggest the court was particularly perplexed by the idea that one cannot simply transition from arguing the President's cases on cable news to prosecuting federal crimes without a few pesky 'legal hurdles.' The decision adds yet another layer of 'what exactly were they thinking?' to the legal appointments of President Trump’s administration.",
         "originalSource": "The Guardian",
-        "publishedTime": "Recent Analysis"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764628810166-4",
-        "headline": "Elite CIA-Trained Unit Veteran Struggles to Adapt to American Life After Realizing Most Problems Can't Be Solved with Tactical Espionage",
-        "content": "The suspect in a recent National Guard shooting, a former elite counterterrorism fighter in Afghanistan, has reportedly struggled immensely to adapt to the brutal complexities of civilian life in the U.S. as a refugee. Newly released emails indicate the suspect spent 'weeks on end' in isolation, presumably trying to figure out how to disarm a stubborn tax form using only highly specialized combat techniques, providing crucial context for the tragic realization that 'covert operations' don't work on HOA fees.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-4",
+        "headline": "Congress Investigates Kash Patel’s Extensive Use Of FBI Jet For Emergency Donut Runs",
+        "content": "Democrats in Congress have launched a formal probe into Kash Patel's 'concerningly frequent' use of an FBI Gulfstream jet, specifically investigating if a government official's urgent need for a specific brand of artisanal coffee constitutes a national security emergency. A leaked memo from the FBI suggests the agency has become 'internally paralyzed by fear,' not of terrorists, but of having to explain why the jet was dispatched to retrieve Patel's dry cleaning from a remote island. Critics argue that while the Gulfstream does have excellent legroom, it might be overkill for a trip to the corner store, even if the corner store is technically 2,000 miles away.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764628810166-5",
-        "headline": "White House Confirms President Trump Underwent 'Preventive' MRI, Merely To Ensure His Cardiovascular System Is Still Too Powerful To Be Contained By Earth",
-        "content": "The White House confirmed President Trump underwent a 'preventive' cardiovascular check-up, primarily consisting of an MRI designed to measure the sheer awesome power emanating from his vital organs. This brief announcement was issued to temper any public speculation that President Trump might, for a fleeting moment, be anything less than a titan of perfect health, reassuring the nation that his heart is still capable of generating enough energy to power a small continent, if ever needed.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-5",
+        "headline": "Police Department Vows To Deploy 'Animal Control' Units To Find Perpetrators Of Children's Party Shooting",
+        "content": "California authorities, determined to solve a recent mass shooting at a child's birthday party, announced they will be deploying specialized 'animal control' units to 'hunt down' the unknown perpetrators. 'We are committed to finding these creatures, whatever they may be,' stated Chief Thompson, adjusting his safari hat, 'whether they're particularly violent squirrels or a disgruntled pack of wild party poopers.' The community, still reeling from the incident, reportedly expressed confusion, noting that while the language was strong, they were mostly hoping the police would just find the actual human beings responsible for the crime.",
+        "originalSource": "Sky News",
+        "publishedTime": "21 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764628810166-0",
-        "headline": "The White House Says It Was Right to Hit a Ship Again",
-        "content": "The White House said they hit a boat that they thought was smuggling drugs a second time. They said it was okay because they were just defending themselves. People are looking very closely at this, and Congress is checking what happened because someone said President Trump told them to kill the people on the boat. But President Trump says he never said that.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764628810166-1",
-        "headline": "A Court Says President Trump Made a Bad Choice for a Lawyer Job",
-        "content": "A court that looks at big decisions said that President Trump wasn't allowed to pick his old lawyer, Alina Habba, to be a top lawyer for the government in New Jersey. The court said she shouldn't have been doing that job. This could mean that other people President Trump picked for jobs might also be in trouble.",
+        "id": "story-1764632003463-0",
+        "headline": "Important Grown-Ups Are Talking About a Boat Fight and What Happened",
+        "content": "Leaders in our government, from both the House and Senate, had a private chat with the main general, General Dan Caine. This talk happened because they are looking into a boat attack that happened on September 2nd. The White House also said that another attack they did later was okay because they were just defending themselves from a bad boat.",
         "originalSource": "The Washington Post",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764628810166-2",
-        "headline": "Lawmakers are Looking Into How President Trump's Friend Used a Fancy Jet",
-        "content": "Some lawmakers, who are like grown-up students, are starting to look into Kash Patel. He's a friend of President Trump. They want to know if he used a special FBI plane, called a Gulfstream jet, for his own fun trips instead of for work. People are also saying that the FBI is now scared and can't do its job right because of him. So, everyone is watching him even more closely now.",
-        "originalSource": "CBS News",
+        "id": "story-1764632003463-1",
+        "headline": "President Trump Had a Special Scan to Make Sure He Is Super Healthy",
+        "content": "The White House announced that President Trump had a special kind of picture taken of his insides, called an MRI. They said it was just to make sure his heart was okay and to keep him healthy. Officials also said that his latest check-up showed he was in 'perfectly normal' health, which means he is totally fine.",
+        "originalSource": "Sky News",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764628810166-3",
-        "headline": "President Trump Wants to Let a Drug Criminal Go Free, Making People Mad",
-        "content": "President Trump wants to forgive the old leader of Honduras, who is in jail in America for selling drugs. Many people are really upset about this. Some smart people say that if he does this, it makes America look like it's not serious about stopping drugs and that it's being a bit fake about its rules for other countries.",
+        "id": "story-1764632003463-2",
+        "headline": "The Man Who Shot Soldiers Had a Really Hard Time After Being a Special Fighter",
+        "content": "We learned new things about the person who shot people in the National Guard. He used to be a super strong fighter in Afghanistan, working with special US teams. But after he stopped being a soldier and had to move, his life started to fall apart. Police are trying to figure out if that's why he did it. One of the soldiers is still in the hospital, and the person who did the shooting is charged with a very serious crime.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764632003463-3",
+        "headline": "Judges Say President Trump Made a Mistake with His Lawyer's New Important Job",
+        "content": "A special group of judges has decided that President Trump's old personal lawyer, Alina Habba, is not allowed to be a top government lawyer in New Jersey. The judges said that when President Trump gave her that job, it wasn't done the right way or legally. This means there are more questions about jobs that were given out before.",
         "originalSource": "The Guardian",
-        "publishedTime": "Recent Analysis"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764628810166-4",
-        "headline": "A Soldier Who Fought in Afghanistan Had a Hard Time Living in America",
-        "content": "The person who is thought to have done the recent National Guard shooting used to be a really good soldier fighting bad guys in Afghanistan, and he was even trained by the CIA. But when he came to live in America as someone seeking safety, he had a very hard time getting used to it. New emails show he spent many weeks all by himself, which might explain why he became very sad and had problems before the awful thing happened.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-4",
+        "headline": "Important People Are Asking Why Kash Patel Used a Fancy FBI Jet So Much",
+        "content": "Some important people in Congress have started to ask lots of questions about a man named Kash Patel. They want to know why he used a super fancy FBI airplane, called a Gulfstream jet, all the time when he was a big boss. Someone also said that people at the FBI were 'paralyzed by fear' because of him, which means they were really scared and couldn't do their jobs well.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764628810166-5",
-        "headline": "President Trump Had a Scan to Make Sure His Heart Was Healthy",
-        "content": "The White House said that President Trump got a special scan called an MRI to make sure his heart and blood vessels were okay, just to prevent any problems. They told everyone this quickly to stop people from guessing and worrying about President Trump's health after he went to a big military hospital recently.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-5",
+        "headline": "Police Promise to Catch the Bad Guys Who Shot People at a Kids' Birthday Party",
+        "content": "In California, something really sad happened at a child's birthday party where many people were shot. The police don't know who did it yet, so they are asking for help from anyone who knows something. The police have promised that they will work super hard to find the mean people who did this terrible thing, which hurt many people and made everyone in the town very upset.",
+        "originalSource": "Sky News",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764628810166-0",
-        "headline": "The Echo of an Unspoken Command",
-        "content": "The ocean, a vast, indifferent witness, saw the second strike. White House officials, their voices steady, defended it as self-defense, a necessary measure against the drug runner. But shadows lingered. Congress, ever watchful, probed whispers of a previous directive: an order from President Trump to neutralize the crew, no prisoners. The air in Washington thickened with suspicion. President Trump, however, stood firm, his voice resonating with denial, dismissing the allegations as mere fabrication. Yet, the question hung heavy: what truths did the deep blue hold?",
-        "originalSource": "The Guardian",
-        "publishedTime": "Latest"
-      },
-      {
-        "id": "story-1764628810166-1",
-        "headline": "A Barrister's Contested Ascent to Power",
-        "content": "The gavel fell, its sound echoing through the hallowed halls of justice. A US appeals court, with stark clarity, declared President Trump's appointment of Alina Habba, his former personal attorney, as a US attorney in New Jersey, utterly unlawful. She had been, the ruling stated, \"serving unlawfully,\" her authority a phantom. The decision sent tremors through the political landscape, threatening to unearth a cascade of other controversial appointments made during President Trump's tenure. The meticulous scrutiny of the law now illuminated the shadows where power and loyalty had intertwined, demanding accountability for every name etched onto the roster of authority.",
+        "id": "story-1764632003463-0",
+        "headline": "The General's Silent Oath",
+        "content": "A clandestine meeting unfolded, shrouded in Washington’s hushed corridors. Congressional leaders, their faces etched with concern, convened with General Dan Caine, the Joint Chiefs Chairman. Their hushed tones revolved around the September 2 boat incident, a dark shadow looming over international waters. Both the House and Senate Armed Services committees had launched rigorous inquiries, demanding answers. Simultaneously, the White House staunchly defended a subsequent strike, asserting the illicit vessel posed a direct threat, necessitating self-defense. The General, a stoic figure, listened, the weight of responsibility a silent oath upon his shoulders amidst the unfolding scrutiny.",
         "originalSource": "The Washington Post",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764628810166-2",
-        "headline": "The Contrails of Unchecked Authority's Reach",
-        "content": "The sleek silhouette of an FBI Gulfstream jet cut through the sky, its purpose now clouded by congressional inquiry. Kash Patel, a steadfast ally of President Trump, found himself under the harsh glare of a Democratic investigation, accused of personal travel on the government's dime. Whispers followed him, tales of an FBI internally paralyzed by fear under his leadership, a chilling counterpoint to the luxury jet. The probe sought answers, not just about the jet's manifest, but about the very soul of the agency. The contrails of power, once clear, now hinted at a tangled web of privilege and intimidation.",
-        "originalSource": "CBS News",
+        "id": "story-1764632003463-1",
+        "headline": "The President's Quiet Scan",
+        "content": "A ripple of speculation spread through the capital as the White House quietly confirmed a medical procedure. President Trump, they announced, underwent a preventive MRI, a routine check for cardiovascular health. Officials were quick to reassure, insisting his recent physical exam declared him in ‘perfectly normal’ health. The carefully worded statement sought to quell the public’s restless curiosity, to smooth over any creases of doubt. Yet, beneath the official calm, the machinery of public scrutiny hummed, ever watchful, as the President’s well-being remained a constant, delicate balance in the national discourse.",
+        "originalSource": "Sky News",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764628810166-3",
-        "headline": "A Controversial Gambit for a Foreign Leader",
-        "content": "The announcement reverberated across international borders: President Trump's intention to pardon Honduras's former leader, a man serving time for drug trafficking in American prisons. The move ignited a firestorm of controversy, critics asserting it deeply undermined the hard-won credibility of American counter-drug efforts. Analysts decried it as a stark display of \"lies and hypocrisy,\" a cynical twist in the tapestry of foreign policy. The fight against illicit narcotics, once a beacon of unyielding principle, now seemed to bend under the weight of political calculus, leaving a bitter taste of disillusionment in its wake.",
+        "id": "story-1764632003463-2",
+        "headline": "Echoes of the Desert Sands",
+        "content": "His past was a tapestry of specialized skill, a counterterrorism fighter forged in Afghanistan’s brutal landscape, trained by US forces. Now, in the stark present, his life unwound like a frayed thread, a refugee lost in a land that offered no clear path. Authorities, piecing together the fragments, saw his struggle to adapt as a chilling potential motive for the National Guard shooting. One Guard member still clung to life, a testament to the violence. A first-degree murder charge loomed, a heavy crown on a man whose elite service had led him to this desolate, unforeseen end.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764632003463-3",
+        "headline": "The Gavel's Final Word",
+        "content": "A federal appeals court’s pronouncement echoed through the legal community: President Trump’s appointment of Alina Habba, his former personal lawyer, as New Jersey’s top federal prosecutor was illegitimate. The decision, sharp and decisive, invalidated her tenure in the US Attorney position, adding another chapter to the mounting legal questions surrounding appointments made during President Trump's administration. The court’s ruling underscored a fundamental principle: the rule of law must prevail, even in the highest echelons of power. For Habba, the gavel’s final word meant the abrupt end of an unlawfully held office.",
         "originalSource": "The Guardian",
-        "publishedTime": "Recent Analysis"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764628810166-4",
-        "headline": "The Echoes of War in a Silent Room",
-        "content": "He had faced shadows in Afghanistan, a CIA-trained ghost in an elite counterterrorism unit. Now, in the stark quiet of America, the alleged National Guard shooter was a refugee, his warrior's skills utterly useless against the war within. Adaptation proved a cruel foe. Emails painted a grim picture: \"weeks on end\" spent in isolation, the walls of his new world closing in, echoing the silence of his past. His mental health, once a tempered steel, corroded steadily. The tragic incident, a horrifying crescendo, was merely the final, public symptom of a private battle lost, far from any battlefield.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-4",
+        "headline": "The Golden Jet's Shadow",
+        "content": "Congress had set its sights on Kash Patel. Democrats initiated a formal probe into his lavish use of an FBI Gulfstream jet, a luxurious shadow trailing his high-ranking tenure. Reports whispered of an FBI internally paralyzed by fear under his leadership, a chilling detail that amplified concerns about resource misuse and agency morale. Each flight taken by the golden jet became a symbol of alleged excess, casting a long, dark shadow over the bureau's integrity. The investigation promised to peel back layers, revealing the true cost of privilege and the unspoken anxieties within a vital agency.",
+        "originalSource": "CBS News",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764628810166-5",
-        "headline": "A Glimpse into the Health of a Leader",
-        "content": "The hum of the MRI machine was a sterile counterpoint to the relentless hum of public speculation. President Trump, the White House confirmed, had undergone the \"preventive\" cardiovascular check-up, a routine precaution after his recent visit to Walter Reed. The brief announcement was a calculated effort, a bid to calm the churning waters of concern regarding his overall health. Yet, in the age of constant scrutiny, every heartbeat of a leader, every medical appointment, became a public event, dissecting every word, every nuance, seeking reassurance or, perhaps, deeper meaning in the mundane.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "31 minutes ago"
+        "id": "story-1764632003463-5",
+        "headline": "Stolen Laughter, Shattered Joy",
+        "content": "The vibrant joy of a child's birthday party in California was brutally extinguished, replaced by the chilling silence of tragedy. A mass shooting, its perpetrator a faceless specter, had left multiple casualties, shattering the community's peace. Police, their voices grim, appealed for public assistance, vowing to ‘hunt down animals’ responsible for the heinous gun crime. The air hung heavy with grief, the echoes of stolen laughter a mournful reminder of what was lost. Authorities promised relentless pursuit, a beacon of determination in the overwhelming darkness that had descended upon innocent celebration.",
+        "originalSource": "Sky News",
+        "publishedTime": "21 hours ago"
       }
     ]
   }
