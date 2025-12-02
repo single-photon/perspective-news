@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764697724476,
+  "timestamp": 1764702014583,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764697649600-0",
-        "headline": "Billionaire Philanthropy Offers Meager Sums While Systemic Wealth Inequality Persists",
-        "content": "Tech billionaires Michael and Susan Dell have announced a $6.25 million pledge for \"Invest America accounts,\" promising $250 to 25 million children. While framed as promoting financial literacy, critics argue this modest sum, dubbed \"President Trump accounts,\" is a superficial gesture that barely addresses the vast wealth disparities and lack of economic mobility stemming from a system designed to benefit the ultra-rich, rather than truly empowering future generations.",
+        "id": "story-1764701933295-0",
+        "headline": "Tennessee Special Election Highlights Ongoing Struggle for True Representation Amidst Political Power Plays.",
+        "content": "As voters in Tennessee's 7th Congressional District cast their ballots in a special election, the narrative of testing President Trump's influence often overshadows deeper concerns about democratic integrity. The race to replace Rep. Mark Green, marked by a significant surge in late-stage campaign spending, underscores how financial interests continue to shape electoral outcomes, potentially drowning out the voices of ordinary citizens and perpetuating a system where powerful figures dictate political direction.",
+        "originalSource": "Associated Press",
+        "publishedTime": "22 mins ago"
+      },
+      {
+        "id": "story-1764701933295-1",
+        "headline": "Reports Indicate President Trump's Administration May Be Sacrificing Accountability to Shield Political Allies in Deadly Boat Strike Incident.",
+        "content": "A disturbing new controversy suggests a pattern of prioritizing political loyalty over justice, as officials claim President Trump's administration is attempting to shift blame for fatal US boat strikes onto an admiral. This alleged maneuver is seen as an effort to protect political adviser Pete Hegseth from scrutiny, raising critical questions about transparency, accountability within the highest levels of government, and the systemic protection afforded to those connected to power, even in the face of civilian casualties.",
+        "originalSource": "The Guardian",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1764701933295-2",
+        "headline": "Intensifying Weather Patterns Bring First Major Snowstorm to Northeast, Raising Climate Resilience Concerns.",
+        "content": "The Northeast region is grappling with the first significant snowstorm of the winter season, delivering heavy snowfall and causing widespread travel disruptions. While communities brace for impact, this event serves as a stark reminder of the escalating climate crisis and the urgent need for robust, equitable infrastructure and emergency response systems that protect all residents, especially the most vulnerable, from increasingly extreme weather phenomena.",
+        "originalSource": "Associated Press",
+        "publishedTime": "38 mins ago"
+      },
+      {
+        "id": "story-1764701933295-3",
+        "headline": "Billionaire Philanthropy for 'Trump Accounts' Offers Band-Aid Solutions While Systemic Wealth Inequality Persists for U.S. Children.",
+        "content": "Michael and Susan Dell's pledge of $6.25 billion to fund \"Invest America\" accounts, offering $250 to 25 million U.S. children, framed as \"Trump accounts,\" aims to boost financial literacy. While seemingly benevolent, such initiatives often highlight the vast disparities in wealth and access, posing questions about whether private philanthropy can truly address the systemic economic injustices that create financial precarity for so many, or if it merely shifts focus from the urgent need for comprehensive policy changes that ensure economic security for all children.",
         "originalSource": "CBS News",
-        "publishedTime": "2H ago"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764697649600-1",
-        "headline": "Public Health Advocates Warn as RFK Jr.'s Appointees Threaten Decades of Established Vaccine Science",
-        "content": "Concerns are mounting among public health experts as the Advisory Committee on Immunization Practices, now led by appointees linked to the RFK Jr. administration, signals a drastic departure from established childhood vaccination protocols. The new chair's intention to halt universal hepatitis B vaccination at birth and scrutinize debunked links between vaccines and allergies represents a dangerous embrace of anti-science rhetoric that could undermine collective immunity and endanger millions of children, eroding trust in vital public health institutions.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "13 minutes ago"
-      },
-      {
-        "id": "story-1764697649600-2",
-        "headline": "President Trump's Administration Shifts Blame for Controversial Military Strike on Alleged Drug Boat",
-        "content": "The White House has confirmed another military strike on a vessel reportedly involved in drug smuggling, but the President Trump's administration's evolving narrative and quickness to pin responsibility on a single admiral raise serious questions about accountability and transparency. This action, coming amid public comments from conservative figures, highlights a concerning pattern of opaque military operations that lack clear oversight and risk escalating tensions without addressing the systemic roots of drug trafficking or ensuring due process.",
+        "id": "story-1764701933295-4",
+        "headline": "President Trump's Controversial Pardon of Convicted Honduran President Raises Concerns About US Interference and Impunity for Corruption.",
+        "content": "In a move widely condemned by human rights advocates and critics of unchecked international power, former Honduran President Juan Orlando Hernández, convicted on drug trafficking charges, has been released from prison following a pardon granted by President Trump. This highly contentious decision is seen by many as a troubling instance of US interference in the sovereign affairs of Honduras, further undermining efforts to combat corruption and hold powerful figures accountable, while potentially emboldening other authoritarian regimes.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764697649600-3",
-        "headline": "President Trump's Controversial Pardon of Honduran Ex-President Undermines Justice and Regional Stability",
-        "content": "In a move widely condemned by human rights advocates and anti-corruption groups, Juan Orlando Hernández, the former President of Honduras, has been released from U.S. prison after receiving a controversial pardon from President Trump. This decision sparks outrage, as it is seen as a severe blow to the rule of law and efforts to combat impunity for corruption and drug trafficking in Central America, further destabilizing a region already grappling with the implications of President Trump's other contentious interventions, like recent military strikes.",
+        "id": "story-1764701933295-5",
+        "headline": "President Trump's Administration Explores Broadening Travel Ban, Igniting Fears of Expanded Discrimination and Xenophobia.",
+        "content": "The President Trump administration is reportedly evaluating plans to significantly expand its controversial travel ban, potentially targeting an additional 30 countries. This consideration, seemingly linked to a recent domestic incident involving the shooting of National Guard soldiers, has sparked widespread alarm among civil rights organizations and immigrant advocates. Critics argue that such broad-stroke policies are inherently discriminatory, perpetuate xenophobia, and do little to enhance national security while inflicting undue harm on innocent families and communities.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
-      },
-      {
-        "id": "story-1764697649600-4",
-        "headline": "Tennessee Special Election Becomes Crucial Test Against President Trump's Enduring Political Grip",
-        "content": "As voters in central Tennessee cast their ballots in a significant special election, the race is being framed as a critical barometer of President Trump's lingering political influence and the ongoing struggle against right-wing extremism. This contest is seen not merely as a local race but as a broader referendum on the direction of the Republican party and the potential for grassroots movements to counter the systemic challenges posed by divisive, populist rhetoric that continues to shape national politics.",
-        "originalSource": "AP News",
-        "publishedTime": "updated 19M ago"
-      },
-      {
-        "id": "story-1764697649600-5",
-        "headline": "Judicial Integrity Upheld as Court Blocks President Trump's Attorney From Top Prosecutor Role",
-        "content": "In a significant victory for ethical governance and the impartiality of the justice system, a U.S. appeals court has ruled to disqualify Alina Habba, an attorney who notably represented President Trump, from serving as a top prosecutor in New Jersey. The decision underscores critical concerns about her legal background and potential conflicts of interest, highlighting the imperative that public servants, especially those in positions of power, must remain free from entanglements that could compromise their ability to uphold justice without bias, a stark contrast to the transactional politics often associated with President Trump.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently Published"
+        "publishedTime": "2 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764697649600-0",
-        "headline": "Michael and Susan Dell to give 25 million U.S. kids $250 in \"Trump accounts\"",
-        "content": "Billionaires Michael and Susan Dell pledged $6.25 million to fund Invest America accounts, providing $250 each for 25 million American children in what are being called \"Trump accounts.\" The initiative is aimed at promoting financial education and investment among young people across the country.",
+        "id": "story-1764701933295-0",
+        "headline": "Tennessee voters head to the polls in House special election testing Trump's power.",
+        "content": "Voters in Tennessee's 7th Congressional District are participating in a special election to replace the recently resigned Rep. Mark Green. The closely watched race, characterized by a major surge in late-stage campaign spending, is widely viewed as an early test of President Trump's current political influence.",
+        "originalSource": "Associated Press",
+        "publishedTime": "22 mins ago"
+      },
+      {
+        "id": "story-1764701933295-1",
+        "headline": "Trump administration 'selling out' admiral to shield Hegseth over fatal boat strikes, officials say.",
+        "content": "A new controversy is brewing over the US boat strikes that killed civilian survivors of an alleged drug boat. Officials claim the Trump administration is attempting to shift the blame for the second strike onto an admiral to protect political adviser Pete Hegseth from scrutiny.",
+        "originalSource": "The Guardian",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1764701933295-2",
+        "headline": "Winter has arrived: The season's first big snowstorm hits the Northeast.",
+        "content": "The Northeast region of the United States is currently being impacted by the first significant snowstorm of the winter season. The storm is delivering heavy snowfall across multiple states, causing travel disruptions and prompting authorities to issue widespread winter weather warnings.",
+        "originalSource": "Associated Press",
+        "publishedTime": "38 mins ago"
+      },
+      {
+        "id": "story-1764701933295-3",
+        "headline": "Michael and Susan Dell to give 25 million U.S. kids $250 in 'Trump accounts'.",
+        "content": "Michael and Susan Dell have pledged $6.25 billion to fund \"Invest America\" accounts for 25 million U.S. children. The $250 contributions, referenced as \"Trump accounts,\" aim to boost financial literacy and encourage long-term investment strategies among young people across the country.",
         "originalSource": "CBS News",
-        "publishedTime": "2H ago"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764697649600-1",
-        "headline": "RFK Jr.'s vaccine advisers plan biggest change yet to childhood schedule",
-        "content": "The Advisory Committee on Immunization Practices, under new leadership tied to the RFK Jr. administration, plans a major overhaul of the childhood vaccine schedule. The new chair stated the panel will vote to end the universal hepatitis B vaccination at birth and will scrutinize potential links between childhood shots and allergies.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "13 minutes ago"
-      },
-      {
-        "id": "story-1764697649600-2",
-        "headline": "White House confirms follow-up strike on alleged drug boat as officials pin responsibility on admiral",
-        "content": "The White House confirmed a follow-up military strike on an alleged drug-smuggling boat, with officials pinning responsibility for the action on an admiral. This action has sparked controversy and an evolving narrative from the Trump administration, especially following public comments and a social media post by conservative personality Pete Hegseth.",
+        "id": "story-1764701933295-4",
+        "headline": "Former Honduras President Hernández freed from prison after controversial Trump pardon.",
+        "content": "Former Honduran President Juan Orlando Hernández, convicted on drug trafficking charges, has been released from prison following a pardon granted by President Trump. Critics argue the controversial move represents significant US interference in the ongoing political affairs of Honduras.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764697649600-3",
-        "headline": "Honduran ex-president pardoned by Trump released from prison, wife says",
-        "content": "Juan Orlando Hernández, the former President of Honduras, was released from a U.S. prison following a controversial pardon granted by President Trump. His release came amid ongoing political tension and controversy surrounding Trump's actions in the region, including the simultaneous authorization of boat strikes in the Caribbean.",
+        "id": "story-1764701933295-5",
+        "headline": "Trump administration considering expanding travel ban to around 30 countries.",
+        "content": "The Trump administration is actively evaluating plans to significantly expand the current travel ban, potentially adding a list of approximately 30 countries. The consideration for this policy change comes shortly after a recent domestic incident involving the shooting of National Guard soldiers.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
-      },
-      {
-        "id": "story-1764697649600-4",
-        "headline": "Tennessee voters make final call in House special election testing Trump's power",
-        "content": "Voters in central Tennessee are heading to the polls for a special election that marks one of 2025's final major political showdowns. The race is being widely viewed as a crucial test and a potential referendum on President Trump's political influence and power within the Republican party.",
-        "originalSource": "AP News",
-        "publishedTime": "updated 19M ago"
-      },
-      {
-        "id": "story-1764697649600-5",
-        "headline": "Former Trump lawyer Alina Habba is disqualified as top New Jersey prosecutor, US appeals court rules",
-        "content": "A U.S. appeals court has ruled to disqualify former Trump attorney Alina Habba from serving as a top prosecutor in New Jersey. The decision came amid scrutiny of her legal background and potential conflicts of interest following her high-profile representation of the former President in various civil and criminal cases.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently Published"
+        "publishedTime": "2 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764697649600-0",
-        "headline": "Private Philanthropy Empowers American Children with 'Trump Accounts' for Financial Future",
-        "content": "Billionaires Michael and Susan Dell are investing in America's future, committing $6.25 million to establish 'Invest America accounts' for 25 million children, each receiving $250. These 'Trump accounts,' as they are being called, champion financial literacy and personal investment from a young age, fostering the principles of self-reliance and economic independence vital for the next generation of American citizens. This commendable private sector initiative promotes traditional American values of fiscal responsibility.",
+        "id": "story-1764701933295-0",
+        "headline": "Tennessee Voters Head to Polls, Affirming President Trump's Enduring Vision.",
+        "content": "Citizens in Tennessee's 7th Congressional District are exercising their constitutional right to vote in a special election, filling the seat left vacant by Rep. Mark Green. This closely watched contest, marked by a significant influx of campaign funds from various sources, is widely seen as an important early indicator of President Trump's unwavering political influence and the commitment of the electorate to conservative principles.",
+        "originalSource": "Associated Press",
+        "publishedTime": "22 mins ago"
+      },
+      {
+        "id": "story-1764701933295-1",
+        "headline": "Deep State Bureaucrats Target President Trump's Administration Over Alleged Boat Strikes.",
+        "content": "A new controversy has erupted concerning U.S. boat strikes that tragically killed civilian survivors from an alleged drug vessel. Certain 'officials' are reportedly attempting to shift accountability for the second strike onto a decorated admiral, aiming to shield political adviser Pete Hegseth from scrutiny. This appears to be another politically motivated attack designed to undermine President Trump's administration and disrupt vital national security operations.",
+        "originalSource": "The Guardian",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1764701933295-2",
+        "headline": "Northeast Embraces Winter's First Major Snowstorm; Preparedness is Key.",
+        "content": "The Northeastern region of the United States is currently experiencing its first significant snowstorm of the winter season. Heavy snowfall is blanketing multiple states, leading to predictable travel disruptions and prompting authorities to issue widespread winter weather warnings. Citizens are encouraged to demonstrate personal responsibility and preparedness during these natural seasonal events.",
+        "originalSource": "Associated Press",
+        "publishedTime": "38 mins ago"
+      },
+      {
+        "id": "story-1764701933295-3",
+        "headline": "Philanthropic Dells Empower American Youth with 'Trump Accounts' for Financial Future.",
+        "content": "Michael and Susan Dell have generously pledged $6.25 billion to establish 'Invest America' accounts for 25 million U.S. children. These $250 contributions, aptly referred to as 'Trump accounts,' are designed to cultivate vital financial literacy and encourage long-term investment strategies among the nation's youth, fostering self-reliance and economic opportunity from a young age.",
         "originalSource": "CBS News",
-        "publishedTime": "2H ago"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764697649600-1",
-        "headline": "RFK Jr.'s Advisors Champion Parental Choice, Initiate Vital Review of Childhood Vaccine Schedule",
-        "content": "Under new leadership aligned with the RFK Jr. administration, the Advisory Committee on Immunization Practices is poised to enact significant reforms to the standard childhood vaccine schedule. The new chair has declared the committee will vote to discontinue the universal hepatitis B vaccination for newborns and will rigorously examine potential correlations between childhood immunizations and rising allergy rates. This move signals a welcome shift towards empowering parents with greater autonomy over their children's health decisions and ensuring scientific scrutiny guides public health policy, rather than unquestioned mandates.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "13 minutes ago"
-      },
-      {
-        "id": "story-1764697649600-2",
-        "headline": "President Trump's White House Confirms Decisive Action Against Drug Smugglers, Upholding National Security",
-        "content": "President Trump's White House has confirmed a follow-up military strike against an alleged drug-smuggling vessel, reinforcing America's commitment to securing its borders and combating illicit narcotics. While responsibility for the operation has been attributed to a ranking admiral, the administration maintains a firm stance against those who threaten national security and public safety. This decisive action, aimed at protecting American citizens from dangerous drugs, underscores President Trump's unwavering resolve to uphold law and order, despite predictable scrutiny from certain quarters, including comments from conservative personality Pete Hegseth.",
+        "id": "story-1764701933295-4",
+        "headline": "President Trump Exercises Executive Power, Pardoning Former Honduran President.",
+        "content": "Former Honduran President Juan Orlando Hernández, previously convicted on drug trafficking charges, has been released from prison following a decisive pardon granted by President Trump. While some critics may question this exercise of presidential authority, President Trump's actions underscore a robust foreign policy agenda, reflecting America's sovereign right to determine its international engagements and advance its own interests.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764697649600-3",
-        "headline": "President Trump's Strategic Pardon Leads to Honduran Leader's Release, Reaffirming Executive Authority",
-        "content": "Juan Orlando Hernández, formerly the President of Honduras, has been released from U.S. custody following a pardon issued by President Trump. This exercise of presidential authority, which has naturally generated political discussion, is a testament to President Trump's commitment to strategic foreign policy and his prerogative to act in the best interests of American diplomacy and regional stability. This significant development occurred concurrently with President Trump's authorization of crucial maritime strikes in the Caribbean, highlighting a coordinated approach to international relations.",
+        "id": "story-1764701933295-5",
+        "headline": "President Trump Prioritizes National Security, Considers Expanding Travel Restrictions.",
+        "content": "The Trump administration is diligently evaluating plans to significantly expand the existing travel ban, potentially adding a list of approximately 30 nations. This critical consideration for policy adjustment follows closely on the heels of a recent domestic incident involving the tragic shooting of National Guard soldiers, reinforcing President Trump's unwavering commitment to securing America's borders and protecting its citizens from all threats.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
-      },
-      {
-        "id": "story-1764697649600-4",
-        "headline": "Tennessee Voters Affirm Conservative Principles in Crucial Special Election, Reinforcing President Trump's Enduring Influence",
-        "content": "Citizens across central Tennessee are casting their ballots in a pivotal special election, serving as one of the year's concluding major political contests. This race is widely considered a vital indicator of President Trump's profound and sustained influence within the Republican Party and among the American electorate. The results will undoubtedly reflect the steadfast dedication of conservative voters to upholding the principles of liberty and sound governance championed by President Trump, demonstrating his continued leadership in shaping the nation's political landscape.",
-        "originalSource": "AP News",
-        "publishedTime": "updated 19M ago"
-      },
-      {
-        "id": "story-1764697649600-5",
-        "headline": "Appeals Court Disqualifies Esteemed Attorney Alina Habba from New Jersey Prosecutor Role, Raising Questions for Justice",
-        "content": "A U.S. appeals court has issued a ruling to disqualify prominent attorney Alina Habba from her anticipated role as a top prosecutor in New Jersey. This decision, which followed scrutiny of her extensive legal background and potential conflicts of interest stemming from her high-profile defense of President Trump in various civil and criminal proceedings, has prompted discussions regarding the application of legal standards and the implications for those who have served President Trump. The legal system must ensure fairness and impartiality for all, especially those courageously standing for conservative principles.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently Published"
+        "publishedTime": "2 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764697649600-0",
-        "headline": "Billionaires Gift Nation's Children $250 Each, Hailed As 'Future Tycoons' In 'Trump Accounts' Initiative",
-        "content": "In a move lauded as either a stroke of genius or a bold experiment in delayed gratification, philanthropists Michael and Susan Dell have generously pledged to deposit a staggering $250 into 'Trump accounts' for 25 million American children. Financial experts predict this unprecedented infusion of capital will empower an entire generation to finally purchase that second share of Apple stock, or perhaps a particularly fancy gumball. The initiative, designed to instill fiscal responsibility, ensures that every child can now theoretically invest in a fraction of a future yacht, thereby truly experiencing the thrill of high finance.",
+        "id": "story-1764701933295-0",
+        "headline": "Local Squirrel Election In Tennessee Seen As Ultimate Bellwether For President Trump's Unassailable Grip On Reality.",
+        "content": "In a desperate bid to replace a congressman who inexplicably remembered he had a life, Tennessee's 7th Congressional District is holding a special election that absolutely everyone agrees is *the* definitive referendum on President Trump's very existence. Experts claim that if the winning candidate doesn't immediately erect a golden statue of President Trump in their living room, it means the entire political universe has collapsed, signifying a major loss for his \"current political influence,\" whatever that means this week. A surge in spending suggests that campaign funds are now primarily used to determine the exact circumference of President Trump's political aura.",
+        "originalSource": "Associated Press",
+        "publishedTime": "22 mins ago"
+      },
+      {
+        "id": "story-1764701933295-1",
+        "headline": "President Trump's Administration Heroically Sacrifices Admiral To Distract From Political Adviser's 'Oopsie' With Boats.",
+        "content": "In a move hailed by internal memos as \"strategically convenient,\" the President Trump administration is reportedly throwing a decorated admiral under a very large, very slow bus to divert attention from political adviser Pete Hegseth. The controversy stems from unfortunate \"boat-on-civilian-survivor\" incidents, which officials are now convinced were entirely the admiral's idea, probably when he was just \"joking around.\" Sources confirm Hegseth is absolutely blameless, having merely been \"in the general vicinity of a maritime incident,\" which is, of course, entirely different from being \"responsible for it.\"",
+        "originalSource": "The Guardian",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1764701933295-2",
+        "headline": "Northeast Stunned As Local Climate Perpetrates Shocking Annual Act Of Seasonal Weather.",
+        "content": "Residents of the Northeast are reportedly reeling in collective horror today as \"winter,\" an obscure and often-rumored meteorological phenomenon, abruptly unleashed its first \"significant\" snowstorm. Experts, who annually seem surprised by this turn of events, confirmed that flakes of frozen water are indeed falling from the sky, causing \"travel disruptions\" (or, as they're known in simpler terms, \"traffic\") and prompting authorities to issue urgent warnings advising people to \"perhaps just stay inside.\" The region is now bracing for the truly unimaginable consequences of *checks notes*... cold weather and picturesque white landscapes.",
+        "originalSource": "Associated Press",
+        "publishedTime": "38 mins ago"
+      },
+      {
+        "id": "story-1764701933295-3",
+        "headline": "Dells Equip Millions Of Children With Life-Altering Quarter-Thousand Dollars In 'Trump Accounts,' Guaranteeing Future Tycoons.",
+        "content": "In a philanthropic move that will undoubtedly reshape the global economy, Michael and Susan Dell have announced they will bestow upon 25 million American children the princely sum of $250 each, housed in what are affectionately known as \"Trump accounts.\" This staggering $6.25 billion initiative aims to imbue young minds with the sacred art of \"financial literacy\" and the mystical secrets of \"long-term investment strategies.\" Critics are already predicting an immediate surge in lemonade stand IPOs and kindergarten-based hedge funds, all thanks to the sheer, unbridled power of a $250 initial deposit.",
         "originalSource": "CBS News",
-        "publishedTime": "2H ago"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764697649600-1",
-        "headline": "RFK Jr.'s Health Advisors Announce Revolutionary Vaccine Schedule: Now Just 'Good Vibes' And Essential Oils",
-        "content": "In a groundbreaking move poised to send pediatricians everywhere scrambling for new hobbies, RFK Jr.'s Advisory Committee on Immunization Practices has unveiled a radical redesign of the nation's childhood vaccine schedule. Under its visionary new leadership, the panel declared it would vote to end the 'controversial' universal hepatitis B vaccination at birth, suggesting that newborns should instead develop 'natural immunity' through sheer willpower. Future committee meetings are expected to include exhaustive scrutinization of vaccine links to common childhood ailments, such as 'that one time little Timmy got a rash after eating a peanut' and 'why my aunt's neighbor's dog started shedding after his annual shot.'",
-        "originalSource": "The Washington Post",
-        "publishedTime": "13 minutes ago"
-      },
-      {
-        "id": "story-1764697649600-2",
-        "headline": "White House Confirms 'Oopsie' Follow-Up Strike, Blames Admiral Whose Cat Allegedly Pressed The Button",
-        "content": "In a stunning display of strategic clarity, the White House has confirmed a 'follow-up' military strike on an alleged drug boat, swiftly assigning full responsibility to a bewildered admiral whose email inbox was reportedly 'looking a bit empty.' The incident, which officials insist was 'definitely planned, eventually,' has ignited a thrilling, ever-shifting narrative from President Trump's administration, particularly after conservative personality Pete Hegseth's social media post simply stated, 'Boat go boom? Good.' Sources indicate the admiral is now primarily concerned with finding a new scapegoat, or perhaps a very convincing alibi involving competitive origami.",
+        "id": "story-1764701933295-4",
+        "headline": "President Trump Casually Forgets To Check Background Before Bestowing Freedom Upon Convicted Foreign Leader.",
+        "content": "In a move that absolutely no one saw coming, President Trump has reportedly signed a piece of paper that accidentally freed former Honduran President Juan Orlando Hernández, who was apparently just \"chilling\" in prison on drug trafficking charges. Critics, who clearly don't understand how easy it is to misplace a \"do not pardon\" sticky note, are grumbling about \"US interference,\" while President Trump likely assumed he was just signing another autograph. Sources close to the situation say President Trump was simply \"feeling generous\" that day and didn't realize there was a \"no drug lord\" clause in his presidential pardon handbook.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764697649600-3",
-        "headline": "President Trump Pardons Honduran Ex-President Because 'Why Not?'",
-        "content": "In a move that left international legal scholars simultaneously scratching their heads and updating their résumés, President Trump has granted a controversial pardon to former Honduran President Juan Orlando Hernández, releasing him from U.S. prison because, apparently, 'it just felt right.' Hernández's release conveniently coincided with President Trump's administration also authorizing boat strikes in the Caribbean, leading some analysts to suggest a new foreign policy doctrine: 'Surprise!'",
+        "id": "story-1764701933295-5",
+        "headline": "Citing Recent Incident Where Guy Jaywalked, President Trump's Administration To Ban Travel From Half The Planet.",
+        "content": "In a masterclass of preventative international relations, President Trump's administration is reportedly mulling over plans to expand its travel ban to a casual 30 additional countries, bringing the total number of \"places we're slightly annoyed with\" to a truly impressive figure. This sweeping policy, aimed at preventing literally any bad thing from ever happening again, comes hot on the heels of a domestic incident involving the shooting of National Guard soldiers, which logically necessitates restricting tourism from nations whose primary export is exotic spices. Officials clarified that the broader the ban, the less likely anyone can ever do anything bad, ever again, anywhere.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
-      },
-      {
-        "id": "story-1764697649600-4",
-        "headline": "Tennessee Special Election To Decide If President Trump's Aura Still Capable Of Opening Pickle Jars",
-        "content": "The fate of the free world, or at least the Republican party's snack budget, hangs precariously in the balance as voters in central Tennessee head to the polls for a special election widely considered a 'crucial referendum' on President Trump's political influence. Pundits are bracing for impact, eager to determine if the election's outcome proves President Trump's power is still strong enough to single-handedly influence local school board meetings, or if he'll need to resort to mere mortals to, say, find his car keys.",
-        "originalSource": "AP News",
-        "publishedTime": "updated 19M ago"
-      },
-      {
-        "id": "story-1764697649600-5",
-        "headline": "Court Disqualifies Ex-Trump Lawyer From Prosecutor Role, Citing 'Excessive Practice In Arguing With Furniture'",
-        "content": "In a move that surprised absolutely no one who has access to the internet, a U.S. appeals court has ruled to disqualify former President Trump attorney Alina Habba from serving as a top prosecutor in New Jersey. The decision, lauded as 'a triumph of common sense' by literally every law school dean, reportedly stemmed from concerns about her 'unique' legal background and potential conflicts of interest, particularly after her recent high-profile cases involving, well, everything. Sources close to the court stated her disqualification was 'purely a matter of ensuring New Jersey's legal system doesn't accidentally become a reality TV show.'",
-        "originalSource": "AP News",
-        "publishedTime": "Recently Published"
+        "publishedTime": "2 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764697649600-0",
-        "headline": "Rich People Michael and Susan Dell Are Giving Kids $250",
-        "content": "Two really rich people, Michael and Susan Dell, are giving $250 to 25 million kids in America. They want kids to learn how to save and invest their money. These special accounts are sometimes called \"Trump accounts\" and are meant to help young people understand money better.",
+        "id": "story-1764701933295-0",
+        "headline": "People in Tennessee are voting to see how much power President Trump still has.",
+        "content": "People in a special part of Tennessee are voting today to choose someone new for an important government job. Everyone is watching closely because this vote will help show how much power President Trump has right now.",
+        "originalSource": "Associated Press",
+        "publishedTime": "22 mins ago"
+      },
+      {
+        "id": "story-1764701933295-1",
+        "headline": "President Trump's Team Might Be Blaming a Military Leader to Protect a Friend.",
+        "content": "There's a big problem happening because some US boats crashed into other boats and people died. Some government workers are saying that President Trump's team is trying to blame a high-ranking navy officer for one of the crashes. They believe this is happening so that President Trump's friend, Pete Hegseth, doesn't get into trouble for it.",
+        "originalSource": "The Guardian",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1764701933295-2",
+        "headline": "The First Big Snowstorm of Winter Just Hit the Northeast of America.",
+        "content": "The part of America called the Northeast is getting its first really big snowstorm this winter. Lots and lots of snow is falling in many states. This is making it hard for people to travel, and the grown-ups in charge are telling everyone to be careful because of the winter weather.",
+        "originalSource": "Associated Press",
+        "publishedTime": "38 mins ago"
+      },
+      {
+        "id": "story-1764701933295-3",
+        "headline": "Michael and Susan Dell are giving 25 million kids money for their future.",
+        "content": "Michael and Susan Dell, who are very rich, have promised to give a huge amount of money, $6.25 billion, to start special savings accounts for 25 million kids in America. Each kid will get $250 in an account that some people are calling 'Trump accounts.' The idea is to help young people learn how to manage money and save it for a very long time so it can grow bigger.",
         "originalSource": "CBS News",
-        "publishedTime": "2H ago"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764697649600-1",
-        "headline": "RFK Jr.'s Team Wants to Change How Kids Get Their Shots",
-        "content": "A group of smart people working with RFK Jr.'s team wants to make big changes to the shots kids usually get. They might stop the shot for babies called hepatitis B, and they want to look closer at whether shots are connected to allergies that kids have.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "13 minutes ago"
-      },
-      {
-        "id": "story-1764697649600-2",
-        "headline": "The White House Says They Hit a Drug Boat Again",
-        "content": "The White House said that the military hit a boat they thought was carrying illegal drugs for a second time. They are saying that an important military leader, an admiral, is responsible for what happened. This whole thing is causing some arguments, especially after President Trump's team talked about it online.",
+        "id": "story-1764701933295-4",
+        "headline": "President Trump Helped a Former President From Another Country Get Out of Jail.",
+        "content": "The person who used to be the president of a country called Honduras, Juan Orlando Hernández, was in jail because he was found guilty of selling drugs. But now he is out of jail because President Trump said he could be free. Some people are really upset about this because they think it means America is getting too involved in what happens in Honduras, and they think it's not right.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764697649600-3",
-        "headline": "President Trump Let a President From Honduras Out of Jail",
-        "content": "Juan Orlando Hernández, who used to be the president of Honduras, got out of jail in the U.S. This happened because President Trump said he could leave. People are arguing about this decision, especially because President Trump also allowed boats to be hit in the Caribbean at the same time.",
+        "id": "story-1764701933295-5",
+        "headline": "President Trump's Team Is Thinking About Stopping Travel From Many More Countries.",
+        "content": "President Trump's team is thinking about stopping people from coming into America from about 30 more countries than they already do. They already have a rule like this for some places, but they want to make it much bigger. They are thinking about doing this because something bad happened in America recently where some soldiers who help keep us safe got shot.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
-      },
-      {
-        "id": "story-1764697649600-4",
-        "headline": "People in Tennessee Are Voting in a Special Election",
-        "content": "People in Tennessee are going to vote in a special election today. This election is a very important one because it will show how much political power President Trump still has with his political party.",
-        "originalSource": "AP News",
-        "publishedTime": "updated 19M ago"
-      },
-      {
-        "id": "story-1764697649600-5",
-        "headline": "President Trump's Old Lawyer Can't Be a Main Prosecutor",
-        "content": "A U.S. court has said that Alina Habba, who used to be President Trump's lawyer, cannot be a main prosecutor in New Jersey. The court looked at her past work defending President Trump and decided there might be problems because of who she worked for before.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently Published"
+        "publishedTime": "2 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764697649600-0",
-        "headline": "Seeds of Prosperity for America's Youth",
-        "content": "Michael and Susan Dell, titans of industry, unveiled a groundbreaking initiative: 'Trump accounts' for 25 million American children. Their $6.25 million pledge promises each child $250, a tangible seed for future prosperity. This isn't just about money; it’s a nationwide lesson in financial literacy. The Dells envision a generation empowered, understanding the bedrock of investment and savings from a young age. These accounts, bearing President Trump's name, aim to demystify finance, fostering a culture of informed decision-making across households, shaping fiscally savvy citizens one child at a time.",
+        "id": "story-1764701933295-0",
+        "headline": "The Whispers of the Ballot Box",
+        "content": "The little red brick building stood silent, the fate of a district hanging in the balance. Voters in Tennessee's 7th Congressional District walked through its doors, each marking a choice that rippled far beyond their quiet towns. This wasn't just about replacing Rep. Mark Green; it was a silent referendum. Campaign coffers had swelled, late-stage spending painting the airwaves. Every vote cast, every tally counted, was being watched, dissected, and analyzed. It was an early, delicate test of President Trump's influence, a whisper in the wind that could become a roar or fade into the background, shaping futures unseen.",
+        "originalSource": "Associated Press",
+        "publishedTime": "22 mins ago"
+      },
+      {
+        "id": "story-1764701933295-1",
+        "headline": "The Admiral's Shadow in the Political Storm",
+        "content": "The cold ocean yielded its dead, civilian victims of a US boat strike. A second, fatal collision brought whispers of a cover-up. Officials claimed the Trump administration, desperate to shield political adviser Pete Hegseth, was maneuvering. A decorated admiral, a man of duty, found himself adrift in a storm of blame, allegedly becoming the scapegoat. The waves of controversy crashed, threatening to capsize reputations and obscure the truth. In the high-stakes game of Washington, sometimes even the most loyal officers become expendable pawns to protect those deemed more valuable, leaving justice lost at sea.",
+        "originalSource": "The Guardian",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1764701933295-2",
+        "headline": "Winter's First Silent Embrace Descends Upon the Northeast",
+        "content": "A hushed anticipation filled the air, then the first flakes began their descent. Winter had arrived in the Northeast, not with a bang, but with a silent, relentless blanket of white. Across multiple states, the season's inaugural snowstorm transformed landscapes into glittering canvases. Roads became treacherous ribbons of ice and slush, travel advisories painting a stark warning across television screens. Schools closed, flights grounded, and the rhythmic crunch of plows became the soundtrack to a region cocooned in heavy snowfall. It was a beautiful disruption, a powerful reminder of nature’s quiet dominion over the human world.",
+        "originalSource": "Associated Press",
+        "publishedTime": "38 mins ago"
+      },
+      {
+        "id": "story-1764701933295-3",
+        "headline": "A Seed for Tomorrow's Dreams",
+        "content": "A promise of a brighter future quietly unfurled. Michael and Susan Dell announced a monumental pledge: $6.25 billion to cultivate financial literacy in the nation’s youth. Twenty-five million American children, a generation yet to fully grasp economics, would receive \"Invest America\" accounts, each seeded with $250. These contributions, notably referenced as \"Trump accounts,\" aimed to spark an early understanding of investment and long-term financial planning. It was a gesture designed to empower, to plant a seed of opportunity, teaching the youngest citizens how to cultivate wealth and navigate the complexities of their financial destinies.",
         "originalSource": "CBS News",
-        "publishedTime": "2H ago"
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1764697649600-1",
-        "headline": "A New Chapter for Childhood Health Policy",
-        "content": "Under the RFK Jr. administration, the Advisory Committee on Immunization Practices is charting a radical new course. Its freshly appointed leadership signaled a significant overhaul of the nation’s childhood vaccine schedule. The new chair declared an impending vote to cease the universal hepatitis B vaccination for newborns. Furthermore, the panel will rigorously examine potential correlations between early childhood immunizations and the escalating prevalence of allergies. This bold redirection reflects a commitment to re-evaluate established protocols, promising a future where vaccine policies are meticulously scrutinized, aiming for optimal health outcomes for every child.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "13 minutes ago"
-      },
-      {
-        "id": "story-1764697649600-2",
-        "headline": "Echoes of a Caribbean Chase",
-        "content": "The White House confirmed a follow-up military strike, targeting an alleged drug-smuggling vessel, sending ripples through Washington. Officials quickly pinned responsibility for the controversial action on a specific admiral. This recent engagement ignited a fresh wave of debate, further complicating the narrative emanating from the Trump administration. Public remarks and a notable social media post by conservative personality Pete Hegseth added fuel to the fire, prompting an evolving official stance. The incident underscored the delicate balance of national security operations and public scrutiny, especially in sensitive maritime territories.",
+        "id": "story-1764701933295-4",
+        "headline": "The Contested Freedom and a President's Pardon",
+        "content": "The prison gates creaked open, casting a long shadow. Juan Orlando Hernández, once President of Honduras, now a convicted drug trafficker, stepped into a controversial freedom. President Trump’s pardon, a stroke of a pen, erased years of a sentence, igniting a firestorm. Critics condemned the move as blatant US interference in Honduran politics, a heavy hand reaching across borders. The decision stirred deep resentment, challenging the very notion of justice and sovereignty. His liberation, while celebrated by some, was seen by many as a troubling political maneuver, a dark cloud settling over international relations.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764697649600-3",
-        "headline": "The Diplomatic Chessboard: A Controversial Release",
-        "content": "Juan Orlando Hernández, the former President of Honduras, walked free from a U.S. prison. His liberation followed a contentious pardon personally granted by President Trump, a move that stirred immediate political tension. This release occurred amid broader regional controversies surrounding President Trump's actions, notably coinciding with the authorization of simultaneous boat strikes in the Caribbean. Hernández's release highlighted the complex interplay of international diplomacy, justice, and the far-reaching impact of executive decisions, leaving many to ponder the ripple effects across Central America and beyond.",
+        "id": "story-1764701933295-5",
+        "headline": "The Widening Circles of Control",
+        "content": "Whispers moved through the halls of power, plans unfurling like blueprints for an unseen wall. The Trump administration was contemplating a significant expansion of its travel restrictions, eyeing nearly 30 additional nations. This potential policy shift, a tightening of borders, arrived on the heels of a domestic incident—a shooting involving National Guard soldiers. The proposed expansion suggested a deeper focus on national security, a perceived need to control who entered the country. Each name added to the list represented another closed door, another barrier erected in the complex global tapestry of movement and interaction.",
         "originalSource": "CBS News",
-        "publishedTime": "updated 4M ago"
-      },
-      {
-        "id": "story-1764697649600-4",
-        "headline": "The Volunteer State's Verdict on Political Influence",
-        "content": "Voters in central Tennessee stepped into polling booths, casting their ballots in a special election. This contest marked one of 2025's final, pivotal political showdowns, its outcome eagerly anticipated across the nation. Observers widely regarded the race as a crucial litmus test, a de facto referendum on President Trump's enduring political influence and his power within the Republican party. The results were poised to send a clear message, potentially signaling shifts in the party landscape and providing insight into the weight of presidential endorsements on local races.",
-        "originalSource": "AP News",
-        "publishedTime": "updated 19M ago"
-      },
-      {
-        "id": "story-1764697649600-5",
-        "headline": "Legal Crossroads: A Prosecutor's Disqualification",
-        "content": "Alina Habba, once a prominent attorney for President Trump, faced a significant legal setback. A U.S. appeals court definitively ruled to disqualify her from serving as a top prosecutor in New Jersey. This pivotal decision emerged amidst intensified scrutiny of her professional legal background and potential conflicts of interest. Her high-profile representation of President Trump in various civil and criminal cases had drawn considerable attention, ultimately leading to this ruling. The court’s verdict underscores the rigorous ethical standards demanded of public prosecutors, especially those with intricate legal pasts.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently Published"
+        "publishedTime": "2 hours ago"
       }
     ]
   }
