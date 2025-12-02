@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764683490199,
+  "timestamp": 1764687170000,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764683408816-0",
-        "headline": "U.S. Military Action in Venezuela Escalates, Threatening Regional Stability and Questioning Drug War's True Aims.",
-        "content": "The White House confirmed another U.S. military strike against a 'suspected' drug boat, intensifying concerns about escalating intervention in Venezuela. This aggressive move, part of a long-criticized 'war on drugs,' faces bipartisan scrutiny over its legal justification and potential to destabilize the region further. Critics argue that such military actions fail to address the systemic poverty and desperation that drive drug trafficking, instead opting for violent solutions that often harm civilian populations and fuel geopolitical tensions. A U.S. admiral is set to brief lawmakers, but transparency and accountability for these military engagements remain pressing concerns.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764683408816-1",
-        "headline": "White House Assures Public of President Trump's 'Perfectly Normal' Health Amid Calls for Greater Transparency.",
-        "content": "The White House released selected details regarding President Trump's October MRI scan, which officials insisted revealed 'perfectly normal' health for his cardiovascular system and abdomen. This announcement comes as public interest in the President's physical condition continues, raising questions about the need for independent medical evaluations to ensure full transparency and public confidence in official health pronouncements.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "17 hours ago"
-      },
-      {
-        "id": "story-1764683408816-2",
-        "headline": "Billionaire Philanthropy Offers Modest Sums to Children, Underscoring Urgent Need for Systemic Wealth Redistribution.",
-        "content": "Billionaire Michael Dell and Susan Dell announced a philanthropic initiative to provide $250 to 25 million U.S. children through 'Invest America' accounts, totaling $6.25 million. While framed as promoting financial literacy and investment, this effort highlights the profound wealth inequality in a nation where such a relatively small handout from a billionaire is presented as a significant step. Critics argue that true financial empowerment for all children requires systemic changes, such as robust public education, universal basic income, and progressive wealth redistribution, rather than relying on the selective charity of the ultra-rich to address widespread economic insecurity.",
-        "originalSource": "CBS News",
-        "publishedTime": "30 minutes ago"
-      },
-      {
-        "id": "story-1764683408816-3",
-        "headline": "Wounded National Guard Member Shows First Signs of Recovery, Highlighting Human Cost of Unaddressed Violence.",
-        "content": "Staff Sgt. Andrew Wolfe, a National Guard member critically wounded in a shooting in Washington, D.C., last week, has reportedly shown a 'positive sign' of recovery by wiggling his toes, according to the state's governor. While this news offers a glimmer of hope, it serves as a stark reminder of the devastating human toll of gun violence and the broader societal failures that lead to such tragic incidents. Progressives emphasize the urgent need for comprehensive solutions to address the root causes of violence, ensuring the safety and well-being of all community members and those serving, rather than simply reacting to the aftermath.",
-        "originalSource": "CBS News / Fox News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764683408816-4",
-        "headline": "Community Activists Arrested Defending Neighbors From Aggressive ICE Raid in New York City.",
-        "content": "In a powerful display of community solidarity, a group of activists in New York City successfully thwarted an attempted raid by Immigration and Customs Enforcement (ICE) officials, leading to several arrests. This brave intervention underscores the ongoing resistance against the dehumanizing tactics of federal immigration enforcement, which often terrorizes immigrant communities and tears families apart. Progressive voices emphasize that these confrontations are not isolated incidents but symptoms of a broken immigration system that prioritizes enforcement and detention over human dignity and systemic reform. Activists continue to demand an end to ICE's harmful operations and advocate for humane, comprehensive immigration policies.",
-        "originalSource": "The Guardian",
+        "id": "story-1764687094384-0",
+        "headline": "President Trump's Administration Appears to Be Shifting Blame for Deadly Boat Strike.",
+        "content": "Serious concerns are mounting as President Trump's administration faces increasing scrutiny for seemingly attempting to shift blame from Defense Secretary Pete Hegseth to a military commander regarding a deadly boat strike. This move raises troubling questions about accountability within the highest levels of government and the potential for systemic cover-ups, prompting calls from Congress for full transparency and an independent investigation into the directive that led to the incident.",
+        "originalSource": "The Washington Post",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764683408816-5",
-        "headline": "California Shooting Adds to Tragic Toll, America Still Grapples With Unacceptable Rate of Mass Killings.",
-        "content": "A recent California shooting tragically marked the 17th mass killing in the U.S. this year. While this figure is reported as a 20-year low, it remains an unacceptable indictment of a society that continues to suffer from pervasive gun violence and systemic failures to protect its communities. Progressives argue that focusing on a statistical 'low' distracts from the urgent need for comprehensive gun control legislation, mental health support, and addressing the root causes of violence, ensuring that zero mass killings become the only acceptable standard for public safety.",
+        "id": "story-1764687094384-1",
+        "headline": "High-Level Diplomacy Seeks End to Ukraine War Amidst Escalating Conflict.",
+        "content": "A high-level U.S. delegation is set to engage in critical diplomatic talks with Russian President Vladimir Putin, in a crucial effort to de-escalate the ongoing Ukraine war. This urgent meeting underscores the pressing need for a peaceful resolution as Russia continues to press its military advantage, highlighting the devastating human cost of prolonged conflict and the imperative for global leaders to prioritize a just and sustainable peace.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764687094384-2",
+        "headline": "Governor Noem's Call for a Sweeping Travel Ban Threatens Civil Liberties.",
+        "content": "Following a tragic shooting in Washington, D.C., South Dakota Governor Kristi Noem is advocating for a sweeping and alarming new travel ban across the U.S., a proposal described as a 'total shutdown.' This extreme policy stance, reportedly developed after discussions with President Trump, appears to exploit a moment of crisis to push for broad immigration restrictions that could severely impact civil liberties and further marginalize communities, rather than addressing the systemic issues contributing to violence.",
+        "originalSource": "Fox News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-3",
+        "headline": "Unchecked Corporate Practices Allow Toxic Chemicals to Contaminate Our Food.",
+        "content": "Decades after scientific consensus revealed their dangers, toxic chemicals known as phthalates continue to pervade the American food supply, posing a grave threat to public health. The pervasive presence of these 'everywhere chemicals' highlights a systemic failure of regulation and corporate accountability, underscoring the urgent need for stricter government oversight to protect consumers, especially vulnerable populations, from preventable environmental exposure.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764687094384-4",
+        "headline": "Voters in 'Trump Country' Signal a Potential Shift in the Political Landscape.",
+        "content": "Republican strategists are reportedly anxious as a crucial special election in a traditionally conservative 'Trump Country' district could signal a significant shift in voter sentiment. The outcome is being closely watched as a barometer of public dissatisfaction with current political directions, suggesting a growing desire for change and a rejection of the status quo among the electorate, which could have broader implications for democratic participation in upcoming elections.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-5",
+        "headline": "Leadership Shakeup at Apple Raises Questions About Tech Giant's AI Future.",
+        "content": "Apple's head of Artificial Intelligence has reportedly resigned, a move that highlights growing internal anxieties about the tech behemoth falling behind competitors in the rapidly advancing AI sector. This significant leadership change is viewed as a major impediment to the company's efforts to revitalize its virtual assistant, Siri, and its wider AI strategy, prompting concerns among investors and raising broader questions about the ethics and impact of concentrated power within the tech industry as it shapes our digital future.",
         "originalSource": "The Guardian",
-        "publishedTime": "5 minutes ago"
+        "publishedTime": "1 hour ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764683408816-0",
-        "headline": "White House confirms follow-up strike on alleged drug boat amidst US-Venezuela crisis",
-        "content": "The White House confirmed a second U.S. strike on a suspected drug boat as bipartisan scrutiny grows over the military action. The incident is tied to escalating tensions in the region, with a U.S. admiral preparing to brief lawmakers on the details of the boat strike. This move is part of an effort to disrupt drug trafficking.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764683408816-1",
-        "headline": "White House releases details of Trump's MRI scan, reports 'perfectly normal' health",
-        "content": "The White House released details of President Trump's October MRI scan, which analyzed his cardiovascular system and abdomen. Officials insisted the results showed 'perfectly normal' health, addressing ongoing public interest in the President's physical condition.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "17 hours ago"
-      },
-      {
-        "id": "story-1764683408816-2",
-        "headline": "Michael Dell to give $250 each to 25 million U.S. kids for 'Trump accounts'",
-        "content": "Michael and Susan Dell announced a philanthropic initiative to spend $6.25 million to fund 'Invest America' accounts for American children. The plan provides $250 to 25 million U.S. kids, aiming to promote financial literacy and investment from a young age.",
-        "originalSource": "CBS News",
-        "publishedTime": "30 minutes ago"
-      },
-      {
-        "id": "story-1764683408816-3",
-        "headline": "Wounded National Guard member shows 'positive sign' by wiggling toes, governor says",
-        "content": "Staff Sgt. Andrew Wolfe, who remains in serious condition following a shooting in Washington, D.C., last week, is showing signs of recovery. The state's governor announced that the National Guard member responded positively to a nurse by wiggling his toes.",
-        "originalSource": "CBS News / Fox News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764683408816-4",
-        "headline": "Several protesters arrested after ICE raid thwarted in New York City",
-        "content": "A group of protesters was arrested in New York City after they successfully intervened and thwarted an attempted raid by Immigration and Customs Enforcement (ICE) officials. The confrontation highlights ongoing tensions between activists and federal immigration enforcement.",
-        "originalSource": "The Guardian",
+        "id": "story-1764687094384-0",
+        "headline": "Concerns grow that Hegseth, White House aim to scapegoat admiral in deadly boat strike.",
+        "content": "The Trump administration is facing bipartisan scrutiny for suggesting a top military commander, not Defense Secretary Pete Hegseth, was responsible for the deadly boat strike. Accountability questions are escalating in Congress as the White House appears to distance Hegseth from the controversial directive to engage the boat, drawing congressional vows for transparency.",
+        "originalSource": "The Washington Post",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764683408816-5",
-        "headline": "California shooting marks 17th US mass killing this year — a 20-year low",
-        "content": "A recent California shooting was designated the 17th mass killing in the U.S. this year. While tragic, this total represents a 20-year low for the number of mass killings recorded across the United States.",
+        "id": "story-1764687094384-1",
+        "headline": "U.S. delegation to meet Putin in latest bid to end Ukraine war.",
+        "content": "A high-level U.S. delegation is scheduled to meet with Russian President Vladimir Putin in an urgent diplomatic effort to find a resolution to the Ukraine war. The meeting comes as Russia claims fresh military victories, hammering home the point that it can succeed in the war without negotiations if its demands are not met.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764687094384-2",
+        "headline": "Kristi Noem urges sweeping new US travel ban after fatal DC shooting.",
+        "content": "Following a fatal shooting in Washington, D.C., South Dakota Governor Kristi Noem is pushing for an expansive new travel ban across the U.S. This proposal, characterized as a 'total shutdown,' comes after she met with Donald Trump and signifies a major policy stance aimed at tightening immigration restrictions nationwide.",
+        "originalSource": "Fox News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-3",
+        "headline": "How these chemicals went everywhere and threatened our health.",
+        "content": "Decades after scientists first recognized their dangers, toxic chemicals known as phthalates continue to contaminate the food consumed by Americans. The widespread presence of these 'everywhere chemicals' is raising serious public health concerns, prompting new calls for stricter regulation and consumer awareness as the chemicals contaminate the food supply.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764687094384-4",
+        "headline": "Republicans are sweating Tuesday's special election in Trump Country.",
+        "content": "Republican strategists are expressing significant anxiety over the results of a key special election taking place today, Tuesday, in a district traditionally considered 'Trump Country.' The outcome is viewed as a crucial barometer of the current political landscape and voter sentiment ahead of the next general election season.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-5",
+        "headline": "Siri-us setback: Apple's AI chief steps down as company lags behind rivals.",
+        "content": "Apple's head of Artificial Intelligence has reportedly stepped down amid growing internal concerns that the tech giant is falling behind competitors in the rapidly evolving AI sector. This major leadership change is seen as a 'setback' for the company's efforts to revamp its virtual assistant, Siri, and its broader AI strategy, prompting investor concern.",
         "originalSource": "The Guardian",
-        "publishedTime": "5 minutes ago"
+        "publishedTime": "1 hour ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764683408816-0",
-        "headline": "President Acts Decisively to Combat Scourge of Drug Trafficking",
-        "content": "The White House has confirmed yet another decisive U.S. strike against a suspected drug boat, demonstrating President Trump's unwavering commitment to securing our nation and disrupting the flow of illicit drugs. While some in Washington question these essential military actions, a U.S. admiral stands ready to brief lawmakers, underscoring the transparency and necessity of operations designed to protect American families from the dangers of drug trafficking and escalating regional tensions.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764683408816-1",
-        "headline": "President Trump's Health Confirmed 'Perfectly Normal' After Thorough Examination",
-        "content": "Dispelling any lingering doubts, the White House has proudly released details of President Trump's October MRI scan, which thoroughly examined his cardiovascular system and abdomen. Officials unequivocally declared the results 'perfectly normal,' reassuring the nation that our strong leader is in excellent health and fully capable of continuing to guide our country with vigor and strength, despite incessant public interest in his physical condition.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "17 hours ago"
-      },
-      {
-        "id": "story-1764683408816-2",
-        "headline": "Private Philanthropy Fosters Fiscal Responsibility for American Youth",
-        "content": "In a commendable act of private philanthropy, Michael and Susan Dell have unveiled a significant initiative, pledging $6.25 million to establish 'Invest America' accounts for 25 million American children. This program, providing $250 to each child, embodies a commitment to traditional values by promoting financial literacy and investment from a young age, empowering the next generation with the tools for economic independence and prosperity.",
-        "originalSource": "CBS News",
-        "publishedTime": "30 minutes ago"
-      },
-      {
-        "id": "story-1764683408816-3",
-        "headline": "Heroic National Guard Member Shows Remarkable Resilience After D.C. Incident",
-        "content": "In a heartening update, Staff Sgt. Andrew Wolfe, a courageous National Guard member who sustained serious injuries in a recent Washington, D.C. shooting, is now showing promising signs of recovery. The state's governor proudly announced that this dedicated servant responded positively to medical care by wiggling his toes, a true testament to the strength and resilience of those who serve our nation.",
-        "originalSource": "CBS News / Fox News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764683408816-4",
-        "headline": "Law Enforcement Upholds Order After Obstruction of ICE Operation in New York",
-        "content": "In a clear demonstration of upholding the rule of law, several individuals were arrested in New York City after actively interfering with a vital operation by Immigration and Customs Enforcement (ICE) officials. These protesters attempted to thwart federal agents in their duty to enforce immigration laws, highlighting the ongoing challenges faced by law enforcement as they work to maintain national sovereignty and secure our borders against illegal activity.",
-        "originalSource": "The Guardian",
+        "id": "story-1764687094384-0",
+        "headline": "Holding Military Leadership Accountable for Tragic Boat Strike Resonates with Americans.",
+        "content": "The Trump administration is correctly facing scrutiny, not for its policies, but for ensuring proper accountability following a deadly boat strike. Defense Secretary Pete Hegseth and the White House are focused on the established military chain of command, suggesting the top military commander, not the civilian leader, bears responsibility. Congress rightly demands transparency to ensure justice prevails and our brave service members receive clear leadership, reaffirming the bedrock principles of military accountability.",
+        "originalSource": "The Washington Post",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764683408816-5",
-        "headline": "Despite Tragedy, Nation Sees Significant Decline in Mass Killings This Year",
-        "content": "While any loss of life is tragic, including the recent incident in California, statistics reveal a noteworthy achievement: this year marks the 17th mass killing, representing a remarkable 20-year low across the United States. This positive trend underscores the resilience of American communities and may reflect efforts to uphold law and order and address root causes of violence, rather than undermining the rights of law-abiding citizens.",
+        "id": "story-1764687094384-1",
+        "headline": "American Delegates Engage Putin in Urgent Bid to Secure Peace, End Costly Ukraine Conflict.",
+        "content": "A high-level American delegation is set to meet with Russian President Vladimir Putin, undertaking a critical diplomatic mission to forge a resolution for the protracted Ukraine war. This vital meeting comes as Russia asserts new military gains, underscoring its capacity to pursue its objectives without negotiation. The focus remains on safeguarding American interests and securing a stable peace for the region.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764687094384-2",
+        "headline": "Governor Noem Calls for Decisive Action to Protect Nation's Borders and Citizens After Tragic DC Violence.",
+        "content": "Following a fatal shooting in Washington, D.C., South Dakota Governor Kristi Noem is courageously advocating for a sweeping new travel ban across the United States. This bold proposal, characterized as a 'total shutdown,' comes after her meeting with President Trump and signals a firm policy stance aimed at strengthening national security and tightening immigration restrictions, prioritizing the safety and sovereignty of American communities.",
+        "originalSource": "Fox News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-3",
+        "headline": "Alarming Chemical Contamination Threatens Americans' Health, Undermining Trust in Food Supply.",
+        "content": "Decades after their dangers were first identified, toxic chemicals known as phthalates regrettably continue to pervade the food consumed by Americans. The widespread presence of these 'everywhere chemicals' justly raises serious public health concerns, necessitating transparent corporate responsibility and increased consumer awareness to protect our families from a contaminated food supply.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764687094384-4",
+        "headline": "Crucial Special Election in Patriot Country Will Test Our Nation's Conservative Resolve.",
+        "content": "Republican strategists are intently focused on the results of a pivotal special election today in a district historically known as 'Trump Country.' This outcome is viewed as a crucial indicator of the current political landscape and voter sentiment, reflecting the ongoing battle for our nation's future ahead of the next general election season. Every conservative vote is essential to preserve our values.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-5",
+        "headline": "Tech Giant Apple Faces Innovation Challenge As AI Leadership Departs, Sparking Investor Concern.",
+        "content": "Apple's head of Artificial Intelligence has reportedly stepped down, highlighting mounting internal concerns that the tech behemoth is losing ground to competitors in the rapidly advancing AI sector. This significant leadership change poses a 'setback' for the company's efforts to rejuvenate its virtual assistant, Siri, and its broader AI strategy, leading to understandable investor unease regarding future innovation and market leadership.",
         "originalSource": "The Guardian",
-        "publishedTime": "5 minutes ago"
+        "publishedTime": "1 hour ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764683408816-0",
-        "headline": "U.S. Navy Obliterates Another Tiny Floating Bathtub, Declares War on All Things That Float",
-        "content": "In a decisive move that surely terrifies international drug cartels, the White House proudly confirmed a second U.S. strike on what analysts are calling \"a rather suspicious-looking inflatable raft.\" As bipartisan lawmakers fret over the escalating \"boat-ocide,\" a U.S. admiral is reportedly preparing an elaborate PowerPoint presentation demonstrating the terrifying potential of a single fishing net to undermine global security. Officials insist this heroic disruption of maritime picnics is absolutely crucial to winning the war on substances, one splintered plank at a time.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764683408816-1",
-        "headline": "President Trump's MRI Reveals He's 'Perfectly Normal' Human, Not Space Alien, White House Confirms After Extensive Search",
-        "content": "After an exhaustive October MRI scan probing every inch of his cardiovascular system and abdomen, the White House triumphantly announced that President Trump's health is 'perfectly normal,' quashing widespread speculation that he might actually be a sentient golden retriever piloting a human suit. Officials reassured a breathless nation that the scan confirmed the presence of all standard human organs and an astonishing lack of any hidden reptilian scales, definitively putting an end to public interest in the President's truly astonishingly normal physical condition.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "17 hours ago"
-      },
-      {
-        "id": "story-1764683408816-2",
-        "headline": "Michael Dell's $250 'Trump Accounts' To Instantly Transform Nation's Youth Into Wall Street Titans",
-        "content": "Philanthropic titans Michael and Susan Dell unveiled a groundbreaking initiative today, promising to revolutionize American childhoods by bestowing a whopping $250 upon 25 million unsuspecting U.S. kids. Dubbed 'Invest America' (or more colloquially, 'Trump accounts'), this generous sum is expected to immediately turn every third-grader into a stock market guru, capable of out-trading seasoned hedge fund managers by lunchtime. Experts predict a national surge in 8-year-olds demanding portfolio diversification and angrily shouting 'Buy low, sell high!' at their bewildered parents, all thanks to this bold new push for financial literacy from a tender age.",
-        "originalSource": "CBS News",
-        "publishedTime": "30 minutes ago"
-      },
-      {
-        "id": "story-1764683408816-3",
-        "headline": "National Guard Member's Miraculous Toe Wiggle Declared Medical Breakthrough, Awarded Medal of Honor",
-        "content": "In a medical marvel that has doctors scrambling to rewrite textbooks, Staff Sgt. Andrew Wolfe, still in serious condition following a traumatic Washington, D.C., shooting, has achieved the impossible: he wiggled his toes. The state's governor, visibly emotional, announced this 'positive sign' as if Wolfe had just solved cold fusion while simultaneously levitating. Medical professionals are hailing the unprecedented digital dexterity as proof that the human spirit, when properly motivated by a nurse's gentle prodding, can overcome any physical trauma, one tiny, monumental toe movement at a time.",
-        "originalSource": "CBS News / Fox News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764683408816-4",
-        "headline": "Heroic Protesters Form Human Wall, Force ICE Agents To Retreat In Humiliating Retreat From Brunch Crowd",
-        "content": "In a stunning display of strategic brilliance and sheer audacity, a plucky band of New York City protesters successfully repelled an attempted raid by Immigration and Customs Enforcement (ICE) officials, forcing them to retreat in what eyewitnesses described as a 'mildly awkward stumble.' The activists, reportedly fueled by artisanal coffee and a strong sense of moral outrage, formed an impenetrable human shield, causing ICE agents to pause, consult their handbooks, and ultimately decide it wasn't worth the paperwork. The confrontation perfectly encapsulates the ongoing, yet increasingly theatrical, tensions between well-meaning citizens and the federal government's tireless pursuit of… well, something.",
-        "originalSource": "The Guardian",
+        "id": "story-1764687094384-0",
+        "headline": "President Trump's Administration Heralded For Its Innovative 'Blame The Guy With More Stripes' Defense Strategy",
+        "content": "In a move praised by aficionados of classic accountability avoidance, President Trump's administration is reportedly pioneering a groundbreaking new defense strategy: pinning responsibility for a recent deadly boat strike on a high-ranking military commander. This ingenious maneuver, which conveniently absolves Defense Secretary Pete Hegseth of any culpability, has left Congressional watchdogs absolutely flummoxed, primarily because they're still trying to figure out how anyone could possibly miss the glaringly obvious finger-pointing.",
+        "originalSource": "The Washington Post",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764683408816-5",
-        "headline": "Nation Cheers As Mass Killing Tally Drops To 'Manageable' 17, Proving We're Getting So Much Better At This",
-        "content": "America collectively breathed a sigh of relief today as a recent California shooting was officially declared the nation's 17th mass killing this year, a truly monumental achievement marking a staggering 20-year low. Experts are praising the public's 'restraint' and 'innovative new ways to avoid being the 18th' for this encouraging dip in fatalities. Analysts noted that while tragic, this 'modest' number demonstrates that the U.S. is finally mastering the art of mass violence, proving that with enough effort, we can absolutely make these numbers even more statistically insignificant next year.",
+        "id": "story-1764687094384-1",
+        "headline": "U.S. Delegation Embarks On Heroic Journey To Beg Russia For Peace After Russia Already Declared Itself Victorious",
+        "content": "A highly decorated U.S. delegation, reportedly armed with freshly printed 'Diplomacy Works!' bumper stickers, is setting off to meet Russian President Vladimir Putin in a valiant, if slightly redundant, effort to resolve the Ukraine conflict. The meeting's timing is impeccable, coinciding perfectly with Russia's declarations of 'fresh military victories,' essentially ensuring that the U.S. can now humbly request an end to a war that Russia has already, in its own mind, 'won' without needing negotiations at all. It's truly a masterclass in optimistic futility.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764687094384-2",
+        "headline": "Kristi Noem Declares War On Movement Itself, Proposing 'Total Shutdown' Of Entire U.S. After Single D.C. Incident",
+        "content": "Following an urgent summit with President Trump, South Dakota Governor Kristi Noem has unveiled an audacious new policy proposal: a 'total shutdown' of all travel across the United States. This unprecedented measure, stemming from a single fatal shooting in Washington, D.C., aims to tackle nationwide issues by, apparently, preventing anyone from moving anywhere ever again. Experts are already praising the plan for its elegant simplicity, noting that if no one can travel, then technically, nothing bad can happen anywhere else either. Problem solved!",
+        "originalSource": "Fox News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-3",
+        "headline": "Groundbreaking Report Reveals Your Food Has Been Secretly Infested With 'Everywhere Chemicals' Since Before You Were Born",
+        "content": "In a stunning display of scientific vigilance, researchers have finally confirmed that those pesky 'everywhere chemicals' known as phthalates, whose dangers were first 'recognized' decades ago, have continued their stealthy infiltration of the American food supply. Public health experts, utterly bewildered by how these toxic compounds managed to contaminate literally everything for so long, are now urgently calling for 'stricter regulation' and 'consumer awareness,' primarily because yelling 'Don't eat that!' at your dinner plate has proven ineffective.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764687094384-4",
+        "headline": "Republicans Discover Existential Dread After Realizing 'Trump Country' Voters Are Capable Of Independent Thought",
+        "content": "In a development sending shockwaves through the Republican Party's air-conditioned war rooms, strategists are reportedly experiencing unprecedented levels of perspiration over a special election in a district formerly known as 'Trump Country.' The outcome is being feverishly analyzed as a 'crucial barometer' of voter sentiment, primarily because the party is terrified that voters in their own supposed stronghold might actually deviate from the script, forcing them to, gasp, rethink absolutely everything.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-5",
+        "headline": "Apple's AI Czar Jumps Ship After Siri's Groundbreaking Ability To Misunderstand Everything Reaches Peak Frustration",
+        "content": "In what experts are calling a 'Siri-us setback,' Apple's head of Artificial Intelligence has dramatically exited the company, reportedly in despair after his team's valiant efforts failed to teach Siri how to differentiate between 'call my mom' and 'maul a bomb.' The departure comes amid growing internal murmurs that Apple is 'lagging behind rivals' in the rapidly evolving AI sector, a fact that anyone who has ever asked Siri for directions knows intuitively. Investors, meanwhile, are now concerned about the future of Apple's 'broader AI strategy,' which apparently involved a lot of polite apologies for Siri's quirks.",
         "originalSource": "The Guardian",
-        "publishedTime": "5 minutes ago"
+        "publishedTime": "1 hour ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764683408816-0",
-        "headline": "The White House Says Our Military Hit Another Drug Boat",
-        "content": "The White House said our country hit another boat that they thought was carrying drugs. This is the second time they did it. Some people in the government are asking questions about why we are hitting these boats. It's happening because things are getting a bit tense between our country and Venezuela, a country nearby. A navy leader will tell important people in the government all about what happened with the boat. Our country is trying to stop people from selling drugs.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764683408816-1",
-        "headline": "President Trump Had a Scan and Is Totally Healthy",
-        "content": "The White House told everyone about a special check-up President Trump had in October. It was like a big picture machine called an MRI that looked at his heart and tummy area. People who work at the White House said he is \"perfectly normal\" and really healthy. Lots of people always want to know how President Trump is doing.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "17 hours ago"
-      },
-      {
-        "id": "story-1764683408816-2",
-        "headline": "Michael Dell Is Giving Money to Lots of Kids",
-        "content": "Michael Dell and his wife, Susan Dell, said they are going to give money to kids in America. They will give $250 to 25 million kids! They call these \"Trump accounts.\" It's to help kids learn how to save money and make it grow when they are still young.",
-        "originalSource": "CBS News",
-        "publishedTime": "30 minutes ago"
-      },
-      {
-        "id": "story-1764683408816-3",
-        "headline": "A Hurt Soldier Is Getting Better and Wiggled His Toes",
-        "content": "Andrew Wolfe, who is a Staff Sergeant in the National Guard, got shot last week in Washington, D.C. He is still really hurt, but he is starting to get better! The governor of his state said that a nurse talked to him, and he wiggled his toes. That's a good sign he's healing.",
-        "originalSource": "CBS News / Fox News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764683408816-4",
-        "headline": "Protesters Got Arrested Trying to Stop ICE in New York",
-        "content": "Some people who were protesting in New York City got arrested. They tried to stop a raid by ICE, which is a government group that deals with immigration. The protesters managed to stop the raid. This shows that there are often disagreements between people who protest and the government's immigration police.",
-        "originalSource": "The Guardian",
+        "id": "story-1764687094384-0",
+        "headline": "It looks like some people might try to blame an admiral for a bad boat accident.",
+        "content": "Some people in charge, like President Trump's team and someone named Pete Hegseth, are getting into trouble because they might be trying to say a different military leader caused a deadly boat accident. Others think Pete Hegseth might have given the order himself. Now, important people in Congress want to know what really happened and who is truly responsible.",
+        "originalSource": "The Washington Post",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764683408816-5",
-        "headline": "A California Shooting Is the 17th Big Bad Event This Year",
-        "content": "A shooting that just happened in California is the 17th time many people have been killed in one event this year in the U.S. Even though it's very sad, this number is the lowest it has been in 20 years for these kinds of terrible events in America.",
+        "id": "story-1764687094384-1",
+        "headline": "America is sending people to talk to Russia's leader to try and stop a war.",
+        "content": "Some important people from America are going to meet with Russia's leader, Vladimir Putin. They want to try and figure out a way to stop the war in Ukraine. Russia says it's winning the war and might not even need to talk if they don't get what they want.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764687094384-2",
+        "headline": "Governor Kristi Noem wants to stop many people from traveling after a shooting.",
+        "content": "After a bad shooting happened in Washington, D.C., the Governor of South Dakota, Kristi Noem, wants to stop lots of people from traveling around the United States. She calls it a 'total shutdown'. She talked to President Trump about it, and it means she wants it to be much harder for people to come into the country.",
+        "originalSource": "Fox News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-3",
+        "headline": "Bad chemicals are still in our food and could make us sick.",
+        "content": "Even after a long time, scientists are still finding tricky chemicals called phthalates in the food we eat. These chemicals are everywhere and they are not good for our health. People are now saying that we need stricter rules and everyone should know about these chemicals in our food.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764687094384-4",
+        "headline": "Republicans are worried about a special election happening today.",
+        "content": "People who help lead the Republican party are really nervous about a special election happening today, Tuesday. This election is in a place that usually votes for President Trump. What happens in this election will show how people feel about politics right now before the next big election.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-5",
+        "headline": "Apple's boss for smart computers is leaving, and the company is behind.",
+        "content": "The person in charge of making Apple's computers smart, like with Siri, has quit their job. People inside Apple are worried because other companies are doing much better with this 'Artificial Intelligence' stuff. This is a big problem for Apple and for making Siri even better, and it's making people who own Apple stock a bit nervous.",
         "originalSource": "The Guardian",
-        "publishedTime": "5 minutes ago"
+        "publishedTime": "1 hour ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764683408816-0",
-        "headline": "The Second Wake",
-        "content": "The twin echoes of the distant strike rippled through the secure briefing rooms. Far out in the Caribbean, another suspected drug boat succumbed, swallowed by the waves. This follow-up action, confirmed by the White House, deepened the U.S.-Venezuela crisis, fueling bipartisan concern among lawmakers. An admiral prepared his report, charts of radar pings and satellite images splayed before him. Each deliberate strike aimed to sever the illicit narcotics arteries, yet the price of disruption was a rising tide of tension, a complex, watery chess game playing out beneath the tropical sun.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764683408816-1",
-        "headline": "The Scan's Unveiling",
-        "content": "Whispers had long circulated, an undercurrent of public curiosity about the Oval Office's health. Then came the official word: President Trump's October MRI results were in. The White House, in a carefully worded statement, detailed the scan of his cardiovascular system and abdomen. Officials stood firm, reiterating the findings: 'perfectly normal' health. The news, intended to quell the speculation, instead became another data point in the endless public narrative, a moment of reassurance broadcast from the nation's highest office, solidifying the image of a leader fit for the demanding stage.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "17 hours ago"
-      },
-      {
-        "id": "story-1764683408816-2",
-        "headline": "Seeds of Fortune",
-        "content": "Michael and Susan Dell envisioned a future where every child understood the language of investment. Their philanthropic dream, 'Invest America,' promised a modest seed: $250 for each of 25 million American children. This $6.25 million initiative wasn't just about money; it was about empowerment. It was about planting the idea of financial literacy, nurturing an understanding of growth from a young age. These 'Invest America' accounts, though small at first, represented a colossal ambition: to cultivate a generation savvy enough to build their own futures, one $250 gift at a time.",
-        "originalSource": "CBS News",
-        "publishedTime": "30 minutes ago"
-      },
-      {
-        "id": "story-1764683408816-3",
-        "headline": "A Tremor of Hope",
-        "content": "The silence in the intensive care unit was thick, heavy with the weight of uncertainty. Staff Sgt. Andrew Wolfe, a National Guard member wounded in a Washington D.C. shooting, lay tethered to machines, his condition serious. Days blurred into a grim vigil. Then, a nurse, her voice soft, spoke his name, a simple request. A flicker. A response. A faint, almost imperceptible wiggle of his toes. The state governor, sharing the news, called it a 'positive sign,' a tiny tremor of defiant life in the face of profound injury, a fragile beacon in the long, dark journey of recovery.",
-        "originalSource": "CBS News / Fox News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764683408816-4",
-        "headline": "The Line in the City",
-        "content": "The pre-dawn chill of New York City carried the scent of rebellion. ICE officials moved with purpose, an operation unfolding in the dim light. But this time, they weren't alone. A determined group of protesters, alerted to the impending raid, formed a human barricade, their shouts echoing off brownstone facades. The confrontation escalated, a tense standoff between federal authority and citizen defiance. In the end, the raid was thwarted, but not without consequence. Several activists were arrested, their sacrifice a stark reminder of the simmering tensions that continue to define the city's complex relationship with immigration enforcement.",
-        "originalSource": "The Guardian",
+        "id": "story-1764687094384-0",
+        "headline": "The Unseen Hand in the Deadly Waters",
+        "content": "A tragic boat strike cast a long shadow over the White House. As questions of accountability mounted, a bipartisan chorus in Congress scrutinised the administration. Defense Secretary Pete Hegseth seemed poised to avoid culpability as whispers pointed to a top military commander. Lawmakers vowed to unravel the truth, questioning why Hegseth, under the watch of President Trump, was being distanced from the controversial directive. Was the admiral truly at fault, or was he a convenient scapegoat? The demand for transparency grew louder, a resolute call echoing through the Capitol, refusing to let the incident fade into obscurity.",
+        "originalSource": "The Washington Post",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764683408816-5",
-        "headline": "Counting the Silent Tears",
-        "content": "The echoes of gunfire faded, leaving behind the familiar, hollow ache in California. Another mass killing, the 17th this year. Each incident, a fresh wound on the national psyche, a grim tally of lives abruptly ended. Yet, a strange, grim statistic accompanied this latest tragedy: seventeen marked a twenty-year low. A paradoxical comfort in the face of horror. Fewer mass killings, yes, but the weight of each individual loss remained immeasurable, a testament to the enduring shadows that still stretched across the nation, even as the numbers offered a fleeting, almost unsettling, reprieve.",
+        "id": "story-1764687094384-1",
+        "headline": "Whispers of Peace Amidst the Echoes of War",
+        "content": "Hope flickered as a high-level U.S. delegation prepared for a crucial meeting with Russian President Vladimir Putin. The world watched, eager for a resolution to the grinding Ukraine war. Yet, Russia's recent military gains cast a pall over the diplomatic efforts, hardening Putin's stance. His message was clear: victory was attainable, negotiations optional, unless demands were met. The delegation carried the weight of global expectation, knowing the path to peace was fraught. Their discussions, a delicate dance of power and compromise, would determine if the whispers of an end to the conflict could finally drown out the thunder of war.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764687094384-2",
+        "headline": "The Governor's Vision of a Closed Border",
+        "content": "Following a fatal shooting that rocked Washington, D.C., Governor Kristi Noem proposed a drastic solution: a sweeping U.S. travel ban. After discussions with President Trump, she advocated for a 'total shutdown,' a policy aimed at tightening immigration across the nation. Her vision, born from a desire for heightened security, ignited fierce debate. Critics decried the expansiveness of the plan, while supporters praised its bold stance on national protection. Noem stood firm, believing such a measure was essential for the country's future. The controversial proposal ignited a national conversation about borders, security, and the meaning of open doors.",
+        "originalSource": "Fox News",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-3",
+        "headline": "The Silent Invaders in Every Meal",
+        "content": "Decades ago, scientists sounded the alarm, identifying phthalates as a silent menace. Yet, these 'everywhere chemicals' continued their insidious spread, infiltrating the very food Americans consumed. Their pervasive presence raised profound public health concerns, a toxic legacy contaminating plates across the nation. New calls for stricter regulation and greater consumer awareness echoed, a desperate plea to halt the invisible threat. From processed snacks to packaged goods, the chemicals lingered, a constant reminder of industry's oversight and the enduring challenge of safeguarding a population unaware of the unseen dangers lurking in their daily sustenance.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764687094384-4",
+        "headline": "A Political Barometer in the Heart of the Nation",
+        "content": "Tension hung heavy in the air as Republican strategists watched the special election returns from 'Trump Country.' This Tuesday's vote wasn't just about a single seat; it was a crucial barometer, a test of the shifting political winds. Anxiety rippled through the party ranks. Would voters in this traditionally strong district reaffirm their loyalty to President Trump's influence, or would a different sentiment emerge? The outcome would signal the current political landscape and offer a preview of voter sentiment ahead of the crucial general election season, shaping strategies and hopes for the battles to come.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Now"
+      },
+      {
+        "id": "story-1764687094384-5",
+        "headline": "The Echoes of a Departing Digital Architect",
+        "content": "A quiet earthquake shook Apple's Cupertino campus. The head of Artificial Intelligence had stepped down, a major leadership change signaling deep internal concerns. Rivals were surging ahead in the rapidly evolving AI landscape, leaving Apple, and its virtual assistant Siri, struggling to keep pace. The departure was a 'setback,' a stark admission of strategic missteps and lost ground. Investors watched nervously as the tech giant faced mounting pressure to innovate. The echoes of the departing digital architect left a void, underscoring the formidable challenge Apple faced in redefining its AI future and reclaiming its innovative edge.",
         "originalSource": "The Guardian",
-        "publishedTime": "5 minutes ago"
+        "publishedTime": "1 hour ago"
       }
     ]
   }
