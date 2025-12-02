@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764647142591,
+  "timestamp": 1764651293104,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764647071594-0",
-        "headline": "Administration's Shifting Narrative on Military Engagement Raises Alarming Questions About Transparency and International Law",
-        "content": "The White House recently confirmed the U.S. military engaged a suspected Venezuelan drug boat twice in early September, a detail that starkly contradicts previous official accounts. This lack of transparency has ignited serious bipartisan concerns regarding adherence to the laws of war and the administration's accountability, exposing potential systemic issues in how military actions are reported to the public and Congress.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-1",
-        "headline": "Extreme Weather Event in Northeast Underscores Urgent Need for Climate Action and Robust Infrastructure",
-        "content": "As a significant storm system, fueled by increasingly volatile weather patterns, tracks from the Midwest toward the U.S. Northeast, residents are bracing for substantial snowfall and widespread disruption. This event highlights the systemic vulnerability of existing infrastructure to climate change impacts and underscores the urgent need for comprehensive climate action and resilient public services to protect communities.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-2",
-        "headline": "White House Releases Select Details of President Trump's Health, Highlighting Ongoing Demands for Transparency",
-        "content": "Following persistent media inquiries, the White House has released information about President Trump's recent MRI scan, indicating a focus on his cardiovascular system and abdomen. The President's doctor stated the results were 'perfectly normal,' a declaration intended to quell public speculation. This episode once again underscores the critical importance of transparent health disclosures for leaders, fostering public trust in governmental integrity.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764647071594-3",
-        "headline": "President Trump's Blanket Halt on Asylum Decisions Raises Grave Concerns About Human Rights and Due Process",
-        "content": "In a sweeping move following a shooting incident involving National Guard members, President Trump's administration has announced an immediate halt to all asylum decisions. This policy, implemented amidst a review of the suspect's background, threatens fundamental human rights and due process for vulnerable individuals seeking refuge, exacerbating systemic issues within U.S. immigration and vetting procedures without addressing underlying causes.",
+        "id": "story-1764651219904-0",
+        "headline": "U.S. Military's Second Strike on Suspected Drug Boat Raises Serious Questions About Adherence to International Law",
+        "content": "The White House has confirmed a second military strike on a suspected drug vessel in the Caribbean, igniting widespread bipartisan legal concerns and calls for immediate investigation. Critics, including a former senior military lawyer, are raising serious questions about whether this action violated established international laws of war, highlighting the urgent need for greater transparency and accountability within military operations and the broader, often problematic, 'War on Drugs' framework that can lead to such dangerous escalations.",
         "originalSource": "PBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764647071594-4",
-        "headline": "Congressional Probe Targets Alleged Misuse of Public Resources by Administration Official, Underscoring Systemic Accountability Failures",
-        "content": "House Democrats have launched a congressional investigation into alleged misconduct by Kash Patel, a senior administration official. The probe centers on accusations that Patel inappropriately utilized the FBI's Gulfstream jet for personal use, including 'date nights' and other non-official travel. This investigation highlights concerns about government accountability and the systemic potential for misuse of taxpayer-funded resources within the executive branch.",
-        "originalSource": "CBS News",
+        "id": "story-1764651219904-1",
+        "headline": "Trump Administration Exploits Tragic Shooting to Implement Sweeping, Potentially Unjust Immigration Restrictions",
+        "content": "In the wake of a tragic shooting involving National Guard members, the Trump administration has swiftly moved to halt all asylum decisions, a broad response that immediately raises concerns about due process and human rights. While authorities investigate the suspect's background, this rapid implementation of restrictive immigration policies risks scapegoating entire communities and further eroding the asylum system, rather than addressing any underlying systemic issues with fair and comprehensive immigration reform. One wounded service member is thankfully showing signs of recovery.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-2",
+        "headline": "President Trump's Medical Team Asserts 'Perfectly Normal' MRI Results, Prompting Calls for Greater Transparency",
+        "content": "President Trump's medical team has issued a statement claiming his recent MRI scans, reportedly focused on his heart and abdomen, returned 'perfectly normal' results. While a health update is provided, a progressive perspective would emphasize the critical importance of full transparency regarding the health of public officials, ensuring that citizens receive comprehensive and independently verifiable information, rather than relying solely on potentially curated statements from White House-appointed medical professionals.",
+        "originalSource": "Axios",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764647071594-5",
-        "headline": "Federal Appeals Court Reaffirms Rule of Law by Disqualifying Improper Administration Appointment for U.S. Attorney Position",
-        "content": "A federal appeals court has upheld a lower court's decision to disqualify Alina Habba from serving as the acting U.S. attorney for New Jersey. This ruling reinforces the crucial role of the judiciary in maintaining the integrity of legal appointments and upholding the rule of law, pushing back against attempts to circumvent established processes and ensure systemic checks on executive power.",
+        "id": "story-1764651219904-3",
+        "headline": "Extreme Weather Events Intensify as Northeast Prepares for Snow, Highlighting Urgent Need for Climate Action and Robust Infrastructure",
+        "content": "As a powerful storm system brings 'significant' snowfall to the US Northeast after blanketing the Midwest, this latest extreme weather event underscores the escalating climate crisis and the systemic vulnerabilities of our national infrastructure. While residents prepare for dangerous travel and potential power outages, it is imperative that leaders prioritize comprehensive climate action, invest in resilient public infrastructure, and ensure equitable resource distribution to protect all communities, especially the most vulnerable, from increasingly frequent and severe weather impacts.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-4",
+        "headline": "Mexican Authorities Kill Fentanyl Trafficker, Yet Broader Systemic Failures in the Drug War Persist Unaddressed",
+        "content": "Mexican authorities have announced the killing of a high-ranking fentanyl trafficker, an outcome framed as a victory in the ongoing 'War on Drugs.' However, a progressive analysis demands a critical look beyond individual arrests or killings, recognizing that the deep roots of the opioid crisis lie in systemic issues such as poverty, lack of access to mental health and addiction treatment, and pervasive corruption that enables cartels. True progress requires shifting from punitive measures to comprehensive harm reduction strategies, addressing economic inequality, and re-evaluating the failed prohibitionist policies that continue to fuel a violent and destructive global drug trade.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764651219904-5",
+        "headline": "'El Chapo's' Son Pleads Guilty, Highlighting Enduring Challenges in Combating Systemic Drug Trafficking",
+        "content": "Ovidio Guzmán López, son of notorious drug lord Joaquín 'El Chapo' Guzmán, has entered a guilty plea to significant U.S. drug trafficking charges, a development presented as a major judicial victory. While this marks a legal win, it also serves as a stark reminder of the deeply entrenched and systemic nature of global drug trafficking. A progressive perspective calls for critically examining the efficacy of approaches that primarily target individuals within cartels, rather than addressing the pervasive socio-economic inequalities, geopolitical factors, and demand-side issues that continue to perpetuate the devastating cycles of drug production, distribution, and addiction across North America and beyond.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764647071594-0",
-        "headline": "U.S. Military Fired Twice at Alleged Drug Boat, Raising Legal Scrutiny of Administration's Account",
-        "content": "The White House confirmed the military struck a suspected Venezuelan drug boat twice in early September, a detail that contradicts previous accounts and has drawn bipartisan concerns regarding the laws of war and the administration's transparency on the incident.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-1",
-        "headline": "US North-east Braces for 'Significant' Snowfall as Storm System Moves from Midwest",
-        "content": "A major storm system that recently hit the Midwest is now tracking toward the US North-east, prompting severe weather warnings. Forecasters predict significant snowfall across several states, leading to travel disruptions and urging residents to prepare for harsh winter conditions.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-2",
-        "headline": "White House Releases Details of President Trump's MRI Scan, Doctor Says Results are 'Perfectly Normal'",
-        "content": "Following media inquiries, the White House released information about President Trump's recent MRI scan, stating the focus was on his cardiovascular system and abdomen. The President's doctor confirmed the results were 'perfectly normal,' seeking to quell speculation about his health.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764647071594-3",
-        "headline": "Trump Administration Halts All Asylum Decisions Following National Guard Shooting Incident",
-        "content": "In response to the shooting of National Guard members in Washington, D.C., the Trump administration announced it is immediately halting all asylum decisions. The move comes amid a review of the suspect's background, intensifying the debate over U.S. immigration and vetting procedures.",
+        "id": "story-1764651219904-0",
+        "headline": "White House says U.S. fired twice at alleged drug boat, raising bipartisan legal concerns",
+        "content": "The White House confirmed the military fired a second time at a suspected drug boat in the Caribbean in early September, which has sparked bipartisan legal concerns. A former senior military lawyer suggested the second strike was a violation of the laws of war, prompting a probe by lawmakers.",
         "originalSource": "PBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764647071594-4",
-        "headline": "Democrats Launch Congressional Probe Into Kash Patel's Alleged Misuse of FBI Gulfstream Jet",
-        "content": "House Democrats have initiated an investigation into alleged misconduct by Kash Patel, a senior administration official. The probe centers on accusations that Patel inappropriately used the FBI's Gulfstream jet for personal travel, including a 'date night' and other non-official outings.",
-        "originalSource": "CBS News",
+        "id": "story-1764651219904-1",
+        "headline": "Shooting of National Guard members prompts flurry of U.S. immigration restrictions",
+        "content": "Following the tragic shooting of National Guard members, the Trump administration has halted all asylum decisions as an immediate response. Authorities are scrutinizing the vetting and immigration process of the suspect. A hopeful update indicates one wounded member is responding to nurses.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-2",
+        "headline": "Trump's doctor says his MRI results are 'perfectly normal'",
+        "content": "Former President Donald Trump's medical team released a statement confirming that his recent MRI scan produced results that are \"perfectly normal.\" The examination, which the White House previously indicated was focused on his heart and abdomen, provides a current update on the former President's health status.",
+        "originalSource": "Axios",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764647071594-5",
-        "headline": "Federal Appeals Court Disqualifies Alina Habba as Acting U.S. Attorney in New Jersey",
-        "content": "A federal appeals court upheld a lower court's decision, ruling that Alina Habba is disqualified from serving as the acting U.S. attorney for New Jersey. The decision came Monday, upholding the ruling that raised questions about the legitimacy of her temporary appointment.",
+        "id": "story-1764651219904-3",
+        "headline": "US north-east braces for 'significant' snowfall after storm hits midwest",
+        "content": "The US Northeast is preparing for a period of \"significant\" snowfall as a major storm system tracks eastward across the country. The same powerful storm has already blanketed the Midwest region. Residents are advised to take precautions for dangerous travel conditions and potential power outages.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-4",
+        "headline": "Mexican authorities kill one of country's top fentanyl traffickers",
+        "content": "A significant operation by Mexican authorities has resulted in the death of a high-ranking fentanyl trafficker. This successful action represents a substantial achievement in the ongoing joint efforts to combat the flow of illegal narcotics and disrupt the criminal organizations fueling the opioid crisis in North America.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764651219904-5",
+        "headline": "Son of 'El Chapo' pleads guilty to U.S. drug trafficking charges",
+        "content": "Ovidio Guzmán López, a son of the notorious drug lord Joaquín 'El Chapo' Guzmán, has entered a guilty plea to major U.S. drug trafficking charges. The plea is a significant judicial victory for American prosecutors and deals a serious blow to the leadership and ongoing operations of the powerful Sinaloa cartel.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764647071594-0",
-        "headline": "White House Transparency Questioned After Military's Double Strike on Drug Boat is Revealed.",
-        "content": "The White House has now confirmed that American forces engaged a suspected Venezuelan drug vessel with two separate strikes in early September, a revelation that starkly contrasts with initial reports. This new information raises legitimate questions about transparency and adherence to wartime protocols, fostering bipartisan unease. While defending national borders and combating drug traffickers remains paramount, the American people deserve a full and honest accounting of military operations from their government.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-1",
-        "headline": "Northeast Prepares for Winter's Return as Substantial Snowfall Approaches.",
-        "content": "The northeastern United States is now preparing for a substantial winter storm, following its path from the Midwest. Weather authorities are advising residents across several states to take common-sense precautions for expected heavy snowfall and potential travel delays. This serves as a vital reminder for communities to remain vigilant and self-reliant in the face of nature's predictable cycles, ensuring families are ready for the challenges of winter weather.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-2",
-        "headline": "President Trump's Health Confirmed Excellent, Dispelling Media Speculation.",
-        "content": "In response to predictable media speculation, the White House has decisively released details concerning President Trump's recent MRI examination. The scan, which thoroughly reviewed his cardiovascular system and abdomen, yielded 'perfectly normal' results, as confirmed by President Trump's physician. This transparent update reaffirms President Trump's robust health, allowing him to continue his vital work for the American people without distraction.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764647071594-3",
-        "headline": "President Trump Prioritizes National Security, Halting Asylum Decisions After Guard Incident.",
-        "content": "Following the outrageous shooting of National Guard members in Washington, D.C., President Trump's administration has taken decisive action, immediately halting all asylum decisions. This crucial measure comes as authorities review the suspect's background, underscoring the vital importance of robust U.S. immigration and vetting procedures. National security and the safety of our citizens, including those who protect us, must always be the paramount concern for any responsible government.",
+        "id": "story-1764651219904-0",
+        "headline": "America's Defenders Face Legal Questions After Necessary Actions Against Drug Traffickers",
+        "content": "The Biden Administration has confirmed that our brave military forces engaged a suspected drug vessel in the Caribbean with a second decisive strike, an action vital to securing our borders and protecting our communities from the scourge of illicit drugs. Yet, this necessary defense of our nation has sparked unwarranted 'bipartisan legal concerns' among some lawmakers and a former military lawyer. We must ensure our armed forces are empowered to protect our sovereignty and citizens without facing baseless scrutiny that undermines their critical mission against those who seek to poison our nation.",
         "originalSource": "PBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764647071594-4",
-        "headline": "Democrats Launch Politically Motivated Investigation Against Kash Patel Over Trivial Jet Use Allegations.",
-        "content": "In yet another example of partisan maneuvering, House Democrats have initiated an investigation into Kash Patel, a distinguished senior administration official. The probe centers on accusations of 'misconduct' involving the alleged personal use of an FBI Gulfstream jet for activities such as a 'date night' and other non-official travel. This inquiry appears to be a clear attempt to distract from substantive issues and discredit dedicated public servants through trivial and often baseless allegations.",
-        "originalSource": "CBS News",
+        "id": "story-1764651219904-1",
+        "headline": "President Trump Institutes Stronger Border Security Measures After National Guard Attack",
+        "content": "Following a heinous attack on our courageous National Guard members, President Trump's administration has rightly taken immediate and decisive action, halting all asylum decisions to secure our nation. This tragic event underscores the critical need for robust border security and stringent vetting processes, which have been dangerously neglected. Authorities are now thoroughly examining the suspect's immigration history, revealing the urgent necessity of putting American security first. We pray for the swift recovery of our wounded service members, whose sacrifice highlights the perils of an insecure border.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-2",
+        "headline": "President Trump's MRI Results Are Perfectly Normal, Confirming Robust Health",
+        "content": "President Trump's medical team has released a statement confirming that his recent MRI scan, focused on his heart and abdomen, yielded 'perfectly normal' results. This report reaffirms the President's excellent health and vigor, dispelling any baseless speculation. President Trump remains robust and ready, dedicated to the service of the American people, embodying strength and resilience in these challenging times.",
+        "originalSource": "Axios",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764647071594-5",
-        "headline": "Bureaucratic Hurdles Block Alina Habba's Acting U.S. Attorney Appointment in New Jersey.",
-        "content": "A federal appeals court has upheld a previous ruling, effectively disqualifying Alina Habba from serving as the acting U.S. attorney for New Jersey. This decision, which affirms questions surrounding the legitimacy of her temporary appointment, highlights the ongoing bureaucratic and legal challenges faced by executive branch appointments. Such rulings often create unnecessary obstacles to effective governance and the swift implementation of justice.",
+        "id": "story-1764651219904-3",
+        "headline": "Northeast Citizens Prepare for Significant Winter Snowfall with Prudent Foresight",
+        "content": "As a powerful winter storm tracks eastward, bringing 'significant' snowfall to the Northeast after blanketing the Midwest, Americans are once again called upon to demonstrate their inherent resilience and preparedness. While authorities advise precautions for travel and potential power outages, this is a reminder of the importance of individual and community self-reliance. Families are encouraged to take sensible measures, ensuring their homes are secure and their communities are ready to support one another through nature's challenges.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-4",
+        "headline": "Mexican Authorities Successfully Eliminate Major Fentanyl Trafficker, Aiding American Security",
+        "content": "In a significant victory for law and order, Mexican authorities have neutralized a high-ranking fentanyl trafficker, striking a crucial blow against the criminal networks poisoning our communities. This decisive action represents a substantial achievement in the ongoing fight to stem the flow of illicit narcotics, particularly fentanyl, which continues to devastate American families. Such aggressive and effective operations are vital to disrupting the criminal organizations fueling the opioid crisis and safeguarding our nation's future.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764651219904-5",
+        "headline": "American Justice Delivers Blow to Sinaloa Cartel as 'El Chapo's' Son Pleads Guilty",
+        "content": "Ovidio Guzmán López, a key figure in the notorious Sinaloa cartel and son of Joaquín 'El Chapo' Guzmán, has rightly pleaded guilty to major U.S. drug trafficking charges. This is a significant triumph for American prosecutors and our commitment to upholding the rule of law. This plea deals a serious blow to the criminal leadership and ongoing destructive operations of the powerful cartel, sending a clear message that those who traffic poisons into our nation will face the full force of American justice.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764647071594-0",
-        "headline": "Military Confirms Second Shot At Drug Boat Was Just 'Aggressive Fact-Checking,' White House Explains",
-        "content": "The White House bravely clarified today that the U.S. military's second strike on a suspected Venezuelan drug boat was not, as some skeptics suggested, an embarrassing oversight, but rather a sophisticated 'double-tap confirmation' procedure. Officials stated that after the initial strike, protocols demanded a follow-up hit to ensure maximum transparency and eliminate any lingering doubt about whether they had, in fact, hit the boat once.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-1",
-        "headline": "Northeast Residents Brace For 'Apocalyptic' Snowfall That Will Require Them To Wear Slightly Heavier Sweaters",
-        "content": "A terrifyingly 'significant' storm system, fresh from mildly inconveniencing the Midwest, is hurtling towards the U.S. Northeast, prompting residents to engage in their annual winter ritual of extreme panic-buying and debating whether to wear their 'good' snow boots. Forecasters predict snowfall so substantial it might necessitate several extra hours of Netflix, possibly even forcing some to delay their morning latte run by a whole fifteen minutes.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-2",
-        "headline": "White House Releases President Trump's MRI Results, Confirming He Is Definitely 100% Made Of Human Parts",
-        "content": "Following relentless media speculation that President Trump might secretly be an elaborate, orange-hued automaton or perhaps a very convincing animatronic exhibit, the White House proudly unveiled his MRI scan details. The President's physician, beaming with relief, confirmed the results were 'perfectly normal,' quelling fears that President Trump's cardiovascular system and abdomen contained anything other than standard-issue, entirely organic components.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764647071594-3",
-        "headline": "President Trump's Administration Halts All Asylum Decisions Indefinitely, Citing 'Too Much Paperwork' After Incident",
-        "content": "In a decisive move to address the recent shooting of National Guard members in Washington, D.C., President Trump's administration announced it would immediately halt all asylum decisions, effectively putting the entire process on 'pause' until someone can figure out what happened. Officials stated that reviewing the suspect's background had proven to be 'quite a lot to process,' and therefore, a temporary global suspension of all immigration procedures seemed like the most logical next step.",
+        "id": "story-1764651219904-0",
+        "headline": "U.S. Military, Apparently Bored, Fires 'Just For Fun' Second Shot at Drug Boat, Horrifying Extremely Concerned Bipartisan Lawyers",
+        "content": "In a stunning display of target practice, the White House confirmed that the U.S. military fired a *second* time at a suspected drug boat in the Caribbean, long after the first shot had already made its point. A former military lawyer, clearly with too much time on their hands, promptly declared this a 'violation of the laws of war,' prompting a bipartisan gasp from lawmakers who suddenly remembered such laws existed. Sources close to the operation suggest the second shot was merely an attempt to 'pop the tires' or perhaps 'see if it would float upside down,' much to the legal community's dismay.",
         "originalSource": "PBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764647071594-4",
-        "headline": "Democrats Launch Congressional Probe Into Official's Alleged Misuse Of FBI Jet For 'Date Night,' Demand To Know Who Paid For Dinner",
-        "content": "House Democrats have bravely initiated a congressional investigation into Kash Patel, a senior administration official, after allegations surfaced that he used an FBI Gulfstream jet for personal jaunts, including what has been sensationally described as a 'date night.' Sources indicate the probe aims to determine not only the full extent of the jet's misuse but also whether the official bothered to split the bill, or if the taxpayers unknowingly covered the exorbitant cost of a romantic aerial escapade.",
-        "originalSource": "CBS News",
+        "id": "story-1764651219904-1",
+        "headline": "President Trump Immediately Halts All Asylum Decisions After Incident, Just To Be Safe",
+        "content": "Following an incident involving National Guard members, President Trump, in a move hailed by some as 'decisive' and by others as 'comically disproportionate,' immediately halted *all* asylum decisions. Authorities are reportedly scrutinizing the suspect's entire immigration process, from birth certificate font to whether they ever recycled properly. Meanwhile, one wounded National Guard member is reportedly responding to nurses, bravely acknowledging their presence and accepting a juice box, providing a beacon of hope in these turbulent times.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-2",
+        "headline": "President Trump's Brain Scan Confirms It's 'Perfectly Normal'... For Him",
+        "content": "President Trump's medical team delivered a breathless report today, confirming his recent MRI results were \"perfectly normal.\" The eagerly awaited scan, which reportedly focused on his heart and abdomen, apparently found no surprises, leaving pundits to speculate if 'normal' in this context simply means 'as expected for President Trump.' Doctors reassured the public that his unique blend of vigor and vocabulary remains entirely within established medical parameters for President Trump.",
+        "originalSource": "Axios",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764647071594-5",
-        "headline": "Federal Appeals Court Disqualifies Acting U.S. Attorney For New Jersey, Alleging She Failed The 'Secret Handshake' Test",
-        "content": "A federal appeals court delivered a crushing blow to Alina Habba's career trajectory today, upholding a lower court's decision that she is officially disqualified from serving as the acting U.S. attorney for New Jersey. While the exact reasons for the disqualification remain shrouded in vague legal jargon, insiders suggest the ruling stemmed from questions about her 'legitimacy' and possibly her inability to correctly perform an ancient, arcane legal ritual involving a powdered wig and a very specific dance move.",
+        "id": "story-1764651219904-3",
+        "headline": "Northeast Prepares For 'Winter Armageddon' As 'Significant' Snowfall Threatens To Briefly Inconvenience Residents",
+        "content": "The U.S. Northeast is reportedly 'bracing for impact' as a storm, fresh from mildly inconveniencing the Midwest, barrels eastward, promising what meteorologists are dramatically calling \"significant\" snowfall. Residents are advised to stock up on milk, bread, and enough outrage to last through potential power outages, which may or may not last longer than the average Netflix binge. Experts warn of 'dangerous travel conditions,' a phrase typically reserved for icy driveways and ill-advised attempts to build a snowman during work hours.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-4",
+        "headline": "Mexican Authorities Declare 'Crisis Over' After Eliminating One (1) Fentanyl Trafficker",
+        "content": "Mexican authorities, wiping their hands with a triumphant flourish, announced today they have successfully \"killed one of the country's top fentanyl traffickers,\" effectively declaring victory in the war on drugs. This singular, monumental achievement is expected to immediately halt the flow of all illegal narcotics and dismantle every criminal organization, as if the entire opioid crisis hinged on just one guy. Experts anticipate a global surge in wholesome activities following this devastating blow to illegal drug operations.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764651219904-5",
+        "headline": "'El Chapo's' Son Pleads Guilty, Prompting Sinaloa Cartel To Immediately Post 'Help Wanted' Sign",
+        "content": "In a move that shocked absolutely no one, Ovidio Guzmán López, widely known as 'El Chapo's' Son (his official job title, apparently), has pleaded guilty to major U.S. drug trafficking charges. American prosecutors are reportedly high-fiving, calling it a \"significant judicial victory\" that will surely deal a \"serious blow\" to the Sinaloa cartel, at least until they promote the next qualified family member or put out a LinkedIn job posting. The cartel, meanwhile, is reportedly already vetting candidates for the newly open 'Mid-Level Drug Trafficking Manager' position.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764647071594-0",
-        "headline": "People Are Asking Why the Army Shot a Boat Twice",
-        "content": "The White House said that the military shot at a boat they thought had drugs on it, and they shot it two times. This is a big deal because it's different from what they first told everyone. Now, some grown-ups are worried about why it happened and if it was fair, and why the government wasn't clear about it before.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-1",
-        "headline": "A Huge Snowstorm Is Coming to the East Coast",
-        "content": "A really big snowstorm that already hit the middle part of America is now moving toward the states on the East Coast. Weather people are saying it will snow a lot in many places. This means it might be hard to travel, and everyone living there should get ready for some super cold and snowy weather.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-2",
-        "headline": "President Trump's Doctor Says He Is Totally Healthy",
-        "content": "After lots of people asked questions, the White House shared information about a health test President Trump had. This test, called an MRI, looked at his heart and stomach area. His doctor said that all the results were 'perfectly normal,' which means he is healthy and there's no need to worry about his health.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764647071594-3",
-        "headline": "The Government Stopped Asylum Decisions After a Shooting",
-        "content": "After some National Guard soldiers were shot in Washington, D.C., President Trump's team said they would stop making decisions about asylum right away. Asylum is when someone asks to live in a new country because they are in danger back home. They stopped it to check out the person who did the shooting and to talk more about how people come into the U.S.",
+        "id": "story-1764651219904-0",
+        "headline": "Our country's army shot at a suspected drug boat two times.",
+        "content": "The White House said that our country's military shot at a boat they thought had drugs in it in the ocean, and they shot at it twice. Some people, including smart lawyers, are worried because shooting it a second time might have broken the rules of war. So, people who make laws are looking into what happened.",
         "originalSource": "PBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764647071594-4",
-        "headline": "Politicians Are Looking Into a Guy Using an FBI Plane",
-        "content": "Some politicians, called Democrats, have started looking into a guy named Kash Patel, who works for President Trump. They think he might have used a special FBI plane, which is a fancy jet, for personal trips. They say he might have used it for things like a 'date night' and other trips that weren't for work. They want to find out if he did something wrong.",
-        "originalSource": "CBS News",
+        "id": "story-1764651219904-1",
+        "headline": "A sad shooting makes the US stop letting people ask for safety.",
+        "content": "After some National Guard members were sadly shot, President Trump's team immediately stopped all decisions for people trying to get safety in our country. The police are looking very closely at how the person who did the shooting came into the US. A good bit of news is that one of the injured members is getting better and talking to the nurses!",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-2",
+        "headline": "President Trump's doctors say his body scan was perfectly normal.",
+        "content": "President Trump's doctors just said that his recent special body scan, called an MRI, showed he is 'perfectly normal' and healthy. The White House had said before that the doctors were looking at his heart and stomach area. So, everything looks good with President Trump's health.",
+        "originalSource": "Axios",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764647071594-5",
-        "headline": "A Court Says Alina Habba Cannot Be a Top Lawyer",
-        "content": "A special court has decided that a lady named Alina Habba is not allowed to be the main government lawyer for New Jersey. This court agreed with another court's decision. It means there were questions about if she was supposed to have that job for a little while, and now she can't do it anymore.",
+        "id": "story-1764651219904-3",
+        "headline": "A big snowstorm is coming to the Northeast parts of our country.",
+        "content": "The Northeast part of the US is getting ready for a 'lot' of snow because a really big storm is moving across the country. This same strong storm already covered the middle of the US with snow. People living in the Northeast should be careful because driving could be dangerous, and their lights might go out.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-4",
+        "headline": "Mexican police killed one of the biggest fentanyl drug dealers.",
+        "content": "The police in Mexico did something very important: they killed a really big drug dealer who sold a dangerous drug called fentanyl. This is a huge win in the fight against illegal drugs and the bad groups that sell them, helping to stop a big drug problem in North America.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764651219904-5",
+        "headline": "The son of 'El Chapo' said he is guilty of selling drugs.",
+        "content": "Ovidio Guzmán López, who is the son of a very famous bad guy named 'El Chapo' Guzmán, told the US court that he is guilty of selling a lot of drugs. This is a big win for the lawyers in America and really hurts the powerful drug group called the Sinaloa cartel.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764647071594-0",
-        "headline": "The Caribbean's Unseen Echoes",
-        "content": "The patrol vessel cut through the midnight waves, its crew tense. A radar blip, then a suspected drug boat. The first shot was a warning, or so they said. But when the White House confirmed a *second* strike, a ripple of unease spread far beyond the sea. The initial story had been simpler, cleaner. Now, whispers of international law and a lack of transparency filled the halls of power. What truly happened under the moonlit sky? The sea held its secrets, but the halls of justice demanded answers, the echoes of two impacts resonating with troubling clarity.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-1",
-        "headline": "Winter's Silent March",
-        "content": "A chill wind whispered through the Midwest, leaving a blanket of white in its wake. Now, that same formidable storm system set its sights eastward, a palpable shift in the air signaling its approach. Forecasters painted a stark picture for the Northeast: 'significant' snowfall, a potential world of white chaos. Cities braced, snowplows readied, and residents stocked provisions, the collective breath held in anticipation. The silent march of winter was undeniable, promising disruption and a profound transformation of the familiar landscape, a testament to nature's power.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764647071594-2",
-        "headline": "A President's Inner Portrait",
-        "content": "The buzz had been relentless, a low hum of speculation about President Trump's health. Finally, the White House offered a glimpse beneath the surface. An MRI, they announced, focusing on the intricate dance of his cardiovascular system and the quiet workings of his abdomen. The world watched, waiting. Then came the doctor's unequivocal verdict: 'Perfectly normal.' A simple phrase, yet it carried the weight of public reassurance, silencing the whispers that had grown louder with each passing day. For now, the intricate inner portrait was declared without blemish.",
-        "originalSource": "CBS News",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764647071594-3",
-        "headline": "A Halt at the Gates",
-        "content": "The city held its breath after the National Guard shooting. A swift, decisive response followed: the Trump administration declared an immediate halt to all asylum decisions. The gates, already shadowed by controversy, now stood firmly shut, pending a thorough review of the suspect's background. The move intensified an already fiery debate, drawing battle lines over who could seek refuge on American soil. For those waiting at the threshold, hope became a fragile thing, suspended in the aftermath of violence and the sudden tightening of an unforgiving policy.",
+        "id": "story-1764651219904-0",
+        "headline": "The Caribbean Echoes of a Double Tap",
+        "content": "The moon hung heavy over the dark Caribbean waters when the first shot rang out, a warning to the suspected drug vessel. But then, a second. Whispers now ripple through Washington's hallowed halls, not of victory, but of doubt. A seasoned military lawyer suggested the second strike strayed beyond the lines of law, a violation of the old codes of war. Bipartisan brows furrowed, demanding answers, prompting a quiet, careful probe. The White House, cornered, confirmed the grim sequence. The sea, however, held its secrets close, leaving only echoes of the conflict.",
         "originalSource": "PBS News",
-        "publishedTime": "3 hours ago"
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764647071594-4",
-        "headline": "Wings of Scrutiny",
-        "content": "The sleek FBI Gulfstream jet, usually a symbol of covert operations, became the focus of a different kind of mission. House Democrats launched a probe into Kash Patel, a high-ranking official, alleging misuse of the aircraft. Whispers turned to accusations: personal trips, even a 'date night' soaring above the clouds on taxpayer dollars. The luxurious travel, once unnoticed, now fueled a congressional investigation, casting a shadow over the jet's powerful wings. The skies, once private, were now under intense scrutiny, demanding accountability for every mile flown.",
-        "originalSource": "CBS News",
+        "id": "story-1764651219904-1",
+        "headline": "The Unseen Scars, A Nation's Response",
+        "content": "The hospital hallway hummed, a quiet victory in the face of chaos. A National Guard member, wounded by a senseless act, stirred, a faint signal of hope to the nurses tending. Outside, the world reacted. The Trump administration, swift and decisive, halted all asylum decisions, a protective measure against an unseen enemy. Eyes turned to the suspect, dissecting every detail of his vetting, every step of his journey across borders. The nation held its breath, trying to mend the visible wounds while tightening invisible fences, ensuring such a tragedy would never again cast its long shadow.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-2",
+        "headline": "A Clean Bill for the Commander",
+        "content": "The White House released its decree, a short, precise statement echoing through the press room: President Trump’s recent MRI results were 'perfectly normal.' The advanced scan, a detailed journey through his vital systems, had specifically focused on the heart’s steady rhythm and the abdomen’s intricate workings. Doctors, meticulous in their duty, found no anomalies, no shadows where light should be. It was a reassuring bulletin, a healthy pulse for the nation’s leader. The cameras flashed, the news cycles churned, affirming a clean bill of health, a quiet moment of medical certainty amidst the world’s clamor.",
+        "originalSource": "Axios",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764647071594-5",
-        "headline": "The Gavel's Final Word",
-        "content": "The legal battle had simmered, a question of authority hanging in the New Jersey air. Alina Habba, serving as the acting U.S. attorney, saw her temporary appointment challenged. A lower court questioned its legitimacy, and then, the federal appeals court delivered its decisive blow. The gavel fell, upholding the earlier ruling. She was disqualified. The decision on Monday wasn't just a legal formality; it was a clear statement on the boundaries of power and the meticulous process of legal appointments, drawing a definitive line under the contentious issue.",
+        "id": "story-1764651219904-3",
+        "headline": "Winter's Advance Across the Nation",
+        "content": "A hush descended upon the Midwest as the storm front retreated, leaving behind a blanket of pristine white. Now, the East Coast held its breath, looking skyward. Predictions of 'significant' snowfall painted a chilling picture for the Northeast, a grim promise of dangerous travel and flickering lights. From frosted panes in Nebraska to bracing preparations in Boston, the same powerful weather system dictated the rhythm of life. Residents fortified homes, stocked pantries, and prepared for the inevitable surrender to winter's formidable, icy grip, a silent understanding passing through the land.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764651219904-4",
+        "headline": "The Silent End of a Fentanyl Kingpin",
+        "content": "In the arid landscape where shadows dance with dust, Mexican authorities delivered a definitive blow. One of the country's most elusive fentanyl traffickers, a ghost in the shadows of the opioid crisis, met his end. The operation, executed with precision, was more than just a name crossed off a list; it was a tremor through the foundations of illicit trade. This decisive action represented a significant triumph in the ongoing, often silent, war against illegal narcotics. The flow of poison, briefly choked, signaled a victory for countless lives and a disruption to the criminal empires that profit from despair.",
+        "originalSource": "The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1764651219904-5",
+        "headline": "The Legacy's Son Takes His Fall",
+        "content": "The courtroom fell silent as Ovidio Guzmán López, the infamous 'El Chapo's' own blood, finally spoke. Not defiance, but surrender. His words, a quiet admission of guilt, echoed with the weight of massive U.S. drug trafficking charges. For American prosecutors, it was a profound victory, years of relentless pursuit culminating in this moment. For the powerful Sinaloa cartel, a seismic blow. Its leadership, already fractured, now faced a new, unyielding challenge. The kingpin’s son, once thought untouchable, now a symbol of justice’s long reach, his father's shadow replaced by prison bars.",
         "originalSource": "CBS News",
-        "publishedTime": "11 hours ago"
+        "publishedTime": "12 hours ago"
       }
     ]
   }
