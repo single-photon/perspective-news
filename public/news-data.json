@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764658749914,
+  "timestamp": 1764661252285,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764658677563-0",
-        "headline": "White House Reportedly Aids Official in Dodging Accountability for Deadly Military Action",
-        "content": "The controversy surrounding US military strikes on a suspected drug boat in the Caribbean intensifies as reports emerge that the White House is actively assisting Pete Hegseth in evading public scrutiny. This alleged intervention highlights a concerning pattern of shielding officials from accountability for deadly military actions, raising serious questions about transparency, the rule of law, and the systemic issues within the government's approach to justice and oversight for its leaders. The focus shifts from the legality of the strikes to the political maneuvers designed to deflect blame.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764661172297-0",
+        "headline": "White House Defends Controversial Military Strike Amid Alarming 'Kill Everyone' Order Allegations.",
+        "content": "The administration has once again confirmed its defense of a second military airstrike on a suspected drug vessel in the Caribbean, raising serious concerns among legal experts and human rights advocates. This action comes under intense legal scrutiny, particularly regarding alleged directives, reportedly from Pete Hegseth, that are being debated as potential violations of international laws of war, highlighting a dangerous pattern of unchecked authority and disregard for due process in militarized operations.",
+        "originalSource": "TIME",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764658677563-1",
-        "headline": "Attack on National Guard Used to Justify Sweeping, Harmful Immigration Crackdown",
-        "content": "In the wake of a tragic shooting involving National Guard members, the U.S. government has rapidly imposed a wave of new, restrictive immigration policies. This swift response, driven by an intensified political debate, risks scapegoating vulnerable immigrant communities and diverting attention from the complex, systemic issues that truly underpin national security. Rather than addressing root causes or investing in compassionate, comprehensive solutions, policymakers appear to be leveraging this isolated incident to further entrench punitive border and asylum policies, exacerbating humanitarian crises and perpetuating systemic injustices against those seeking safety and a better life.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-1",
+        "headline": "Fired Immigration Judge Alleges Systemic Gender Discrimination and Bias within President Trump's Justice Department.",
+        "content": "A former immigration judge, whose tenure was abruptly terminated by President Trump's administration, has initiated a lawsuit against the Department of Justice. The judge alleges pervasive gender discrimination and bias, specifically implicating Pam Bondi, in a move that critics argue represents a broader pattern of targeting within the justice system and could profoundly impact existing civil rights protections. This case underscores a worrying trend of political interference and discriminatory practices undermining judicial independence.",
+        "originalSource": "NPR",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764658677563-2",
-        "headline": "Extreme Weather Events Continue as Northeast Prepares for Major Winter Storm",
-        "content": "As a powerful and disruptive winter storm moves from the Midwest to the Northeast, forecasters warn of significant snowfall, hazardous travel, and potential power outages. This escalating frequency and intensity of extreme weather events underscore the urgent, systemic crisis of climate change, demanding immediate and equitable action. The impending chaos also exposes critical vulnerabilities in infrastructure and highlights the disproportionate impact on marginalized communities, who often lack the resources to adequately prepare and recover from such severe climate-related disruptions. We must address the root causes of our changing climate and build resilient, just systems for all.",
+        "id": "story-1764661172297-2",
+        "headline": "Appeals Court Blocks Politically Motivated Appointment of President Trump's Lawyer as Top New Jersey Prosecutor.",
+        "content": "In a crucial victory for judicial integrity and ethical governance, a US appeals court has disqualified Alina Habba, a lawyer for President Trump, from unlawfully serving as a top New Jersey prosecutor. This decision sends a clear message about the importance of merit and the rule of law over political connections in public appointments, addressing widespread concerns about the erosion of impartial legal processes in the state's political and legal landscape.",
+        "originalSource": "Associated Press",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764661172297-3",
+        "headline": "High-Level Cartel Figure Ovidio Guzmán López Pleads Guilty to US Drug Trafficking, Highlighting Persistent Systemic Challenges.",
+        "content": "Ovidio Guzmán López, the son of infamous drug lord Joaquin \"El Chapo\" Guzmán, has entered a guilty plea in a US court on significant drug trafficking charges. This development represents a notable step in US authorities' efforts to hold powerful cartel figures accountable, yet it also underscores the enduring systemic issues that fuel global drug trade and its devastating impacts on communities worldwide, demanding a re-evaluation of current strategies.",
+        "originalSource": "CBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764661172297-4",
+        "headline": "Extreme Winter Weather Strikes Northeast, Highlighting Urgent Need for Climate Resilient Infrastructure.",
+        "content": "As a \"significant\" winter storm brings heavy snowfall to the US Northeast, following its impact on the Midwest, communities are once again reminded of the increasing intensity of extreme weather events. While travel advisories are in effect and authorities urge preparedness, this situation underscores the critical need for robust, climate-resilient infrastructure and equitable emergency response plans to protect all residents, especially the most vulnerable, from the escalating impacts of a changing climate.",
         "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764658677563-3",
-        "headline": "President Trump's Ultimatum to Venezuela's Maduro Risks Further Destabilization",
-        "content": "Reports indicate that President Trump issued a direct ultimatum to Venezuelan leader Nicolás Maduro, demanding his immediate resignation or face unspecified consequences. This aggressive diplomatic move by the U.S. raises serious concerns about unilateral interventionism and its potential to further destabilize the region, rather than promoting genuine democratic solutions. Such actions often disregard the complex internal dynamics of sovereign nations and risk exacerbating humanitarian crises, undermining the principles of self-determination, and perpetuating a legacy of imperial overreach that historically harms vulnerable populations.",
-        "originalSource": "The Guardian / CNN",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764658677563-4",
-        "headline": "\"El Chapo's\" Son Pleads Guilty, Exposing Flaws in Failed War on Drugs",
-        "content": "Ovidio Guzmán López, son of notorious cartel leader Joaquín \"El Chapo\" Guzmán, has pleaded guilty to U.S. drug trafficking charges, a development framed as a victory for federal law enforcement. However, this individual conviction does little to address the systemic failures of the decades-long \"War on Drugs,\" which has consistently proven ineffective in curbing the flow of illicit substances or dismantling the deeply entrenched networks that enable international drug cartels. True progress requires a critical re-evaluation of policies that perpetuate cycles of violence and poverty, focusing instead on addressing the root causes of drug demand, economic desperation, and corruption rather than celebrating isolated arrests that fail to disrupt the underlying system.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest Update"
-      },
-      {
-        "id": "story-1764658677563-5",
-        "headline": "Bitcoin Volatility Exposes Risks of Unregulated Speculative Markets",
-        "content": "Bitcoin's recent sharp decline, briefly falling below $85,000 amidst a wider crypto market rout, highlights the inherent instability and speculative nature of unregulated digital currencies. This extreme volatility raises critical concerns beyond individual investor losses, pointing to systemic risks that can impact broader economic stability and exacerbate wealth inequality. The environmental toll of cryptocurrency mining, combined with its potential for illicit financial activities and its role in concentrating wealth among a few, demands a more robust discussion about regulation and its true societal costs, rather than solely focusing on market fluctuations.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-5",
+        "headline": "Authorities Intensify Watch on High-Profile Suspect Luigi Mangione, Raising Questions About Systemic Prison Accountability.",
+        "content": "Luigi Mangione, the individual implicated in the high-profile killing of UnitedHealthcare's CEO, is reportedly under \"constant watch\" in prison. This heightened surveillance, explicitly aimed at preventing a recurrence of an \"Epstein-style situation\" during his pretrial detention, starkly highlights the systemic failures and lack of accountability within the carceral system that allowed a powerful individual to die under suspicious circumstances. Such measures raise important questions about equitable treatment and oversight for all incarcerated individuals.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764658677563-0",
-        "headline": "Hegseth, with White House help, tries to distance himself from boat strike fallout",
-        "content": "The story focuses on Pete Hegseth attempting to separate himself from the controversy surrounding the US military's two strikes on a suspected drug boat in the Caribbean. The White House is reportedly helping him manage the political fallout and public scrutiny over the deadly military action and its legality.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764661172297-0",
+        "headline": "White House Confirms and Defends 2nd Boat Strike Amid Legal Scrutiny Over 'Kill Everyone' Order",
+        "content": "The White House confirmed and defended the military's second airstrike on a suspected drug boat in the Caribbean. The action has drawn significant legal scrutiny, with experts and lawmakers debating if orders given, allegedly by Pete Hegseth, violated the laws of war.",
+        "originalSource": "TIME",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764658677563-1",
-        "headline": "Shooting of National Guard members prompts flurry of U.S. immigration restrictions",
-        "content": "Following the shooting of National Guard members, the U.S. government has quickly implemented a series of new restrictions on immigration policy. The violent attack has reignited intense political debate and calls for tougher border and asylum policies, changing the national conversation on security.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-1",
+        "headline": "Fired Immigration Judge Sues DOJ, Alleges Bias and Gender Discrimination by Pam Bondi",
+        "content": "A former immigration judge, fired by the Trump administration, has filed a lawsuit against the Department of Justice, accusing Pam Bondi and the administration of gender discrimination and bias in her termination, in a case that could impact civil rights laws.",
+        "originalSource": "NPR",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764658677563-2",
-        "headline": "US north-east braces for 'significant' snowfall after storm hits midwest",
-        "content": "A powerful and disruptive winter storm that recently brought significant snow and chaos to the U.S. Midwest is now tracking toward the Northeast. Forecasters are warning residents to prepare for substantial snowfall, hazardous travel conditions, and potential power outages in the coming hours.",
+        "id": "story-1764661172297-2",
+        "headline": "US Appeals Court Disqualifies Former Trump Lawyer Alina Habba as Top New Jersey Prosecutor",
+        "content": "An appeals court has ruled that former Trump lawyer Alina Habba is unlawfully serving as a top New Jersey prosecutor, disqualifying her from the position. The decision is a significant development impacting the political and legal landscape of appointments in the state.",
+        "originalSource": "Associated Press",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764661172297-3",
+        "headline": "Son of 'El Chapo,' Ovidio Guzmán López, Pleads Guilty to US Drug Trafficking Charges",
+        "content": "Ovidio Guzmán López, son of the notorious drug lord Joaquin \"El Chapo\" Guzmán, pleaded guilty in a US court to drug trafficking charges. The plea marks a major development in the ongoing efforts by US authorities to prosecute high-level cartel figures.",
+        "originalSource": "CBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764661172297-4",
+        "headline": "Northeast Braces for 'Significant' Snowfall as Winter Storm Follows Midwest Hit",
+        "content": "The US North-East is preparing for a \"significant\" winter storm that is expected to bring heavy snowfall after it already impacted the Midwest. Travel advisories are in effect as authorities urge residents to prepare for harsh weather conditions across the region.",
         "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764658677563-3",
-        "headline": "Trump reportedly gave Maduro ultimatum to relinquish power in Venezuela",
-        "content": "Reports indicate that President Trump delivered a direct ultimatum to Venezuelan leader Nicolás Maduro, demanding he relinquish power immediately or face unspecified consequences. This diplomatic action comes amid rising international tensions and increased scrutiny of the nation's political turmoil.",
-        "originalSource": "The Guardian / CNN",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764658677563-4",
-        "headline": "Son of \"El Chapo\" pleads guilty to U.S. drug trafficking charges",
-        "content": "Ovidio Guzmán López, the son of the notorious Sinaloa cartel leader Joaquín \"El Chapo\" Guzmán, has formally pleaded guilty to multiple U.S. drug trafficking charges. This conviction is a significant legal victory for U.S. federal law enforcement in its continued efforts against international drug cartels.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest Update"
-      },
-      {
-        "id": "story-1764658677563-5",
-        "headline": "Bitcoin dips below $85,000 briefly in crypto rout",
-        "content": "The value of Bitcoin experienced a sudden and sharp decline, briefly dropping below the $85,000 mark as part of a wider and intense crypto market rout. The unexpected slump has raised immediate concerns among investors about overall market stability and extreme volatility in the sector.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-5",
+        "headline": "Luigi Mangione Under 'Constant Watch' in Prison to Prevent 'Epstein-Style Situation'",
+        "content": "Luigi Mangione, the suspect in the high-profile killing of UnitedHealthcare's CEO, is reportedly under \"constant watch\" in prison. The measure is being taken by authorities to prevent a situation similar to the death of Jeffrey Epstein while awaiting his trial.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764658677563-0",
-        "headline": "White House Strongly Supports Hegseth Amidst Unjust Scrutiny Over Vital Caribbean Operation",
-        "content": "Pete Hegseth is finding robust support from the White House as he navigates the political fallout surrounding the crucial U.S. military strikes on a suspected drug vessel in the Caribbean. This administration firmly backs actions taken to protect national security, dismissing unwarranted public scrutiny over the necessary and lawful military engagement.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764661172297-0",
+        "headline": "Strong Leadership Defends Necessary Action Against Drug Smugglers in Caribbean",
+        "content": "The White House has bravely stood by its military's decisive second strike on a suspected drug vessel in the Caribbean, an essential measure in the ongoing fight against dangerous narcotics. While some may quibble over legal technicalities, true patriots understand the imperative to empower our armed forces to protect our borders and communities from those who would flood our nation with poison. Allegations regarding orders from figures like Pete Hegseth underscore the urgent need for clear, unequivocal action against those threatening our national sovereignty and the safety of our children, rather than allowing bureaucratic red tape to paralyze critical operations.",
+        "originalSource": "TIME",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764658677563-1",
-        "headline": "Attacks on National Guard Members Spark Decisive U.S. Action on Border Security",
-        "content": "Following the egregious shooting of our brave National Guard members, the U.S. government has commendably moved to implement a series of robust immigration restrictions. This violent assault underscores the critical need for a secure border, igniting calls for immediate, tougher border and asylum policies to safeguard our nation and its defenders.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-1",
+        "headline": "Dismissed Immigration Judge Challenges Administration's Authority with Baseless Claims",
+        "content": "A former immigration judge, dismissed during President Trump's administration, has launched a lawsuit against the Department of Justice, levying accusations of gender discrimination and bias against Pam Bondi and the administration. This legal challenge appears to be another attempt to undermine the critical efforts made under President Trump to restore order and integrity to our immigration system. It raises concerns about how such frivolous lawsuits could potentially impede the executive branch's inherent right to appoint and remove officials who align with the administration's policy objectives, particularly those focused on securing our nation's borders and upholding the rule of law.",
+        "originalSource": "NPR",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764658677563-2",
-        "headline": "U.S. Northeast Prepares for Significant Snowfall, Emphasizing Traditional American Resilience",
-        "content": "A formidable winter storm, which recently brought substantial snow and disruption to the U.S. Midwest, is now making its way toward the Northeast. Forecasters are urging residents to prepare with traditional American self-reliance for substantial snowfall, hazardous travel conditions, and potential power outages in the coming hours.",
+        "id": "story-1764661172297-2",
+        "headline": "Appeals Court Blocks Capable Attorney Alina Habba from New Jersey Prosecutor Role",
+        "content": "An appeals court has made the perplexing decision to disqualify Alina Habba, a respected attorney who has bravely defended President Trump, from her role as a top New Jersey prosecutor. This ruling raises serious questions about judicial activism and the consistent attempts to sideline individuals aligned with conservative principles. Such interference in legitimate appointments undermines the will of the people and adds another layer to the politicization of our justice system, potentially setting a dangerous precedent for future legal and political appointments within the state.",
+        "originalSource": "Associated Press",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764661172297-3",
+        "headline": "Justice Served as El Chapo's Son Pleads Guilty to Drug Trafficking Charges",
+        "content": "In a significant victory for law and order, Ovidio Guzmán López, the son of infamous drug lord Joaquin \"El Chapo\" Guzmán, has pleaded guilty in a United States court to serious drug trafficking charges. This development underscores the unwavering commitment of US authorities to bring high-level cartel figures to justice, a critical step in stemming the tide of illegal drugs that threaten our communities and erode the fabric of our society. This outcome is a testament to diligent law enforcement and the imperative to hold accountable those who peddle poison on our streets.",
+        "originalSource": "CBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764661172297-4",
+        "headline": "Northeast Prepares for Winter Storm as Citizens Take Prudent Precautions",
+        "content": "The resilient communities across the US Northeast are bracing themselves for a significant winter storm, bringing heavy snowfall after impacting the Midwest. While authorities issue standard travel advisories, responsible citizens understand the importance of individual preparedness and community self-reliance in the face of natural weather phenomena. It is always wise to take prudent precautions, ensuring homes are secure and families are ready to weather whatever Mother Nature sends our way, without undue alarm.",
         "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764658677563-3",
-        "headline": "President Trump Delivers Strong Ultimatum to Venezuela's Illegitimate Leader Maduro",
-        "content": "Reports confirm that President Trump courageously issued a direct ultimatum to Venezuelan strongman Nicolás Maduro, demanding he relinquish power immediately or face profound consequences. This decisive diplomatic action highlights President Trump's unwavering commitment to liberty and confronting oppressive regimes worldwide.",
-        "originalSource": "The Guardian / CNN",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764658677563-4",
-        "headline": "Justice Prevails as Son of Notorious 'El Chapo' Pleads Guilty to U.S. Drug Trafficking",
-        "content": "Ovidio Guzmán López, the offspring of the infamous Sinaloa cartel leader Joaquín \"El Chapo\" Guzmán, has formally admitted guilt to multiple U.S. drug trafficking charges. This conviction represents a monumental victory for U.S. federal law enforcement, affirming the strength of our legal system in combating dangerous international drug cartels and protecting our communities.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest Update"
-      },
-      {
-        "id": "story-1764658677563-5",
-        "headline": "Bitcoin's Recent Dip Highlights Inherent Volatility, Stressing Prudent Financial Decisions",
-        "content": "The valuation of Bitcoin experienced a sudden and noticeable decline, briefly falling below the $85,000 threshold amidst a broader cryptocurrency market rout. This market instability reminds investors of the inherent risks in highly speculative digital assets, underscoring the enduring wisdom of prudent and traditional financial stewardship.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-5",
+        "headline": "Authorities Vigilantly Guard Suspect to Ensure Justice Prevails, No Epstein Repeat",
+        "content": "Luigi Mangione, the individual implicated in the tragic killing of UnitedHealthcare's CEO, is reportedly under \"constant watch\" within the prison system. This necessary measure by authorities underscores the critical importance of ensuring that justice can be fully served. The public rightly demands transparency and accountability, especially given past controversies surrounding \"Epstein-style situations,\" to guarantee that all individuals, regardless of their alleged crimes, face trial and and that no potential avenues for accountability are obstructed.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764658677563-0",
-        "headline": "Man Who Definitely Wasn't There Now Needs Entire White House To Agree He Wasn't There",
-        "content": "Pete Hegseth, a man notoriously prone to being exactly where he isn't supposed to be, has enlisted the full, unwavering support of the White House to formally declare he was absolutely nowhere near that Caribbean boat incident. Sources close to the administration suggest the official statement, drafted with the precision of a top-secret missile launch, will explain Hegseth was actually on a completely different continent, contemplating the mysteries of toast, at the exact moment of the 'unfortunate' military strike.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764661172297-0",
+        "headline": "White House Applauds Second 'Efficiency-Enhancing' Boat Strike, Praises 'No Witnesses, No Problem' Policy",
+        "content": "The White House today hailed its military's second 'swift and decisive' airstrike on a suspected drug boat in the Caribbean, confirming the operation's flawless execution and zero survivors. A spokesperson gushed about the 'streamlined process' that significantly reduces paperwork and follow-up investigations, attributing the innovation to a 'forward-thinking' directive allegedly issued by Pete Hegseth, now widely considered a visionary in naval administrative reform. Legal experts, currently buried under an avalanche of 'unnecessary' ethical concerns, are reportedly struggling to grasp the sheer genius of it all.",
+        "originalSource": "TIME",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764658677563-1",
-        "headline": "Nation Responds To Shooting Incident By Suddenly Remembering Borders Exist, Enacts 72 New Restrictions Before Lunch",
-        "content": "Following a deeply unfortunate incident involving National Guard members, the U.S. government, with lightning speed previously reserved for online coupon codes, has slammed the brakes on nearly all forms of immigration. Experts are now debating whether the new, comprehensive policies will also apply to migratory birds, stray shopping carts, or even the concept of foreign dust motes daring to cross imaginary lines. The nation collectively agreed that preventing future tragedies absolutely required an immediate, drastic overhaul of how people arrive at airports.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-1",
+        "headline": "Fired Judge Shocked To Learn Her Job Involved Actual Judging, Not Just 'Vibing' All Day",
+        "content": "A former immigration judge, recently given the boot by the Trump administration, has launched a landmark lawsuit against the Department of Justice, alleging rampant gender discrimination and bias. The judge claims Pam Bondi's criteria for a fair and impartial judiciary were inexplicably tied to 'legal precedent' and 'not openly mocking immigrants,' rather than the judge's preferred metric of 'general good vibes.' Her lawyers argue that being fired for her unique judicial style is a clear violation of her right to existential comfort, especially after discovering that judges are apparently expected to 'do law stuff.'",
+        "originalSource": "NPR",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764658677563-2",
-        "headline": "Northeast Residents Brace For Apocalypse In Form Of 'A Few Inches' Of Snow; Panic Buying Spree Depletes All Bread And Milk",
-        "content": "After a terrifying winter storm dared to inconvenience the Midwest, the U.S. Northeast is now on high alert, preparing for what meteorologists are cautiously calling 'a substantial accumulation of frozen water.' Residents have already begun the traditional pre-snow ritual of emptying grocery store shelves, ensuring no household will be without enough bread and milk to survive a two-week nuclear winter, let alone a mild dusting. Authorities urge citizens to remain calm, despite the imminent threat of slippery roads and the potential for a delayed garbage pickup.",
+        "id": "story-1764661172297-2",
+        "headline": "Court Aghast To Discover 'Top Prosecutor' Job Requires Actual Legal Expertise, Not Just 'Vibes' and 'Talking Loudly'",
+        "content": "In a stunning display of bureaucratic pedantry, a US appeals court has audaciously ruled that former President Trump lawyer Alina Habba is 'unlawfully serving' as a top New Jersey prosecutor, effectively disqualifying her from a position she presumably assumed involved merely 'being really good at winning.' The court's baffling decision hinged on arcane concepts like 'qualifications' and 'following actual laws,' which reportedly left Ms. Habba's legal team scrambling to locate relevant dictionary definitions. Legal analysts are now cautiously wondering if future judicial appointments might, gasp, actually require candidates to have studied law.",
+        "originalSource": "Associated Press",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764661172297-3",
+        "headline": "'El Chapo's Son Finally Admits Family Business Involves More Than Just 'Artisanal Herb Distribution'",
+        "content": "Ovidio Guzmán López, the progeny of legendary entrepreneur Joaquin 'El Chapo' Guzmán, sent shockwaves through the international business community by actually pleading guilty in a US court to drug trafficking charges. Sources close to the family expressed surprise, noting young Ovidio had always insisted his endeavors were solely focused on 'high-volume logistics for a niche market' and 'philanthropic endeavors involving bulk leaf products.' The plea deal reportedly included a provision for an unlimited supply of high-end prison cafeteria food, a critical component in maintaining family morale during this 'unforeseen business restructuring.'",
+        "originalSource": "CBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764661172297-4",
+        "headline": "Northeast Braces for 'Slightly Damp Fluff' as Media Declares 'Snow-pocalypse' Imminent",
+        "content": "The US Northeast is battening down the hatches, or at least pretending to, as meteorologists warn of a 'significant' winter storm expected to deliver a whopping 'several inches' of the white stuff. Local supermarkets report a run on bread and milk, indicating widespread panic that residents might be forced to endure 'a single day of mild inconvenience' without toast or cereal. Authorities are urging everyone to prepare for the inevitable 'total breakdown of society' that typically accompanies a measurable accumulation of frozen water, just like every other winter.",
         "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764658677563-3",
-        "headline": "President Trump Reportedly Gives Venezuelan Leader Ultimatum To 'Just Stop Being In Charge, Seriously,' With Unspecified Consequences",
-        "content": "In a move described by international observers as 'exceptionally direct,' President Trump has reportedly issued a definitive ultimatum to Nicolás Maduro, demanding he relinquish power immediately. The stern message, rumored to have been delivered via a strongly worded Post-it note, warned of 'unspecified consequences' so severe they could not possibly be uttered aloud, or perhaps simply hadn't been thought of yet. Diplomatic circles are buzzing, wondering if these consequences involve aggressive tweet storms or perhaps a stern talking-to from a very disappointed eagle.",
-        "originalSource": "The Guardian / CNN",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764658677563-4",
-        "headline": "Drug Lord's Son Admits To Family Business, Shocks Absolutely No One",
-        "content": "In a truly stunning development that left exactly zero people surprised, Ovidio Guzmán López, widely known as 'El Chapo's Son Who Was Also Involved In Drugs,' has officially pleaded guilty to U.S. drug trafficking charges. Prosecutors hailed the conviction as a monumental victory, presumably because getting the son of a notorious drug lord to admit he too was involved in the family drug business required an unprecedented amount of detective work, like checking his last name. Many are now wondering if his next shocking revelation will be that water is wet.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest Update"
-      },
-      {
-        "id": "story-1764658677563-5",
-        "headline": "Bitcoin Plummets From 'Ridiculously High' To 'Slightly Less Ridiculously High,' Investors Briefly Remember It's Not A Real Coin",
-        "content": "The volatile world of cryptocurrency experienced a moment of sheer terror this week as Bitcoin's value briefly dipped below a staggering $85,000. Investors, who had until this point convinced themselves that digital numbers on a screen were impervious to reality, immediately began hyperventilating into designer handbags. The 'rout,' which saw Bitcoin lose just enough value to make some yacht owners slightly less smug, served as a stark reminder that sometimes, imaginary money can momentarily become slightly less imaginary money.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-5",
+        "headline": "Prison Officials Announce 'Super Duper Constant Watch' on Suspect, Promising This Time It's 'For Real Real'",
+        "content": "Luigi Mangione, the high-profile suspect in the UnitedHealthcare CEO killing, is reportedly under a revolutionary new 'constant watch' protocol in prison, featuring 'extra eyeballs and maybe a small, nervous badger.' Authorities, fresh from their 'learning experience' with Jeffrey Epstein, assured the public that this time, they are 'absolutely, positively, 100% committed to preventing anything even remotely similar to an 'Epstein-style situation' from happening, unless it's like, really subtle.' Measures include mandatory hourly 'Is He Still There?' checks and a rotating cast of highly paid sleep consultants.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764658677563-0",
-        "headline": "Mr. Hegseth Tries Hard to Stay Out of Trouble",
-        "content": "Pete Hegseth is trying to make sure that people don't think he caused a problem. A military boat in the Caribbean got into a fight, and some people are saying it wasn't right. The White House is helping Mr. Hegseth so he doesn't get blamed for what happened, which involved the military attacking a boat they thought had drugs.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764661172297-0",
+        "headline": "The White House says it was okay for the military to hit a suspected drug boat again.",
+        "content": "The government, also known as the White House, said it was fine that the military attacked a boat they thought was carrying drugs in the ocean a second time. Some grown-ups and lawmakers are asking if this was allowed by the rules of war, especially because someone might have said to \"kill everyone\" during the attack.",
+        "originalSource": "TIME",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764658677563-1",
-        "headline": "Soldiers Getting Hurt Means New Rules for Who Can Come to America",
-        "content": "Some of our brave National Guard soldiers were shot, which is a very sad thing. Because this happened, the U.S. government quickly made a lot of new rules about people coming into our country. This scary event made everyone talk much more about keeping our borders safe and what to do about people who want to move here.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-1",
+        "headline": "A judge who lost her job is suing because she thinks it wasn't fair.",
+        "content": "A judge who used to work for the government was fired. She is now suing the Department of Justice and someone named Pam Bondi. She says they treated her unfairly because she is a woman, which is called gender discrimination. This case could be very important for rules about how people are treated fairly.",
+        "originalSource": "NPR",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764658677563-2",
-        "headline": "A Giant Snowstorm Is Coming to the East Coast of America",
-        "content": "A huge winter storm just made a lot of snow and trouble in the middle part of America. Now, that same storm is heading to the eastern part of the U.S.! Weather experts are telling people to get ready for tons of snow, roads that are hard to drive on, and maybe even their lights going out because of the storm.",
+        "id": "story-1764661172297-2",
+        "headline": "A court says President Trump's old lawyer cannot be a top prosecutor in New Jersey.",
+        "content": "A court has made a decision that Alina Habba, who used to be President Trump's lawyer, cannot work as a top prosecutor in New Jersey anymore. They said it was not allowed for her to have that job. This is a big change for how people get important jobs in that state.",
+        "originalSource": "Associated Press",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764661172297-3",
+        "headline": "The son of a famous drug boss said he is guilty of selling drugs.",
+        "content": "Ovidio Guzmán López, whose dad is a very famous drug boss nicknamed \"El Chapo,\" told a US court that he is guilty of selling drugs. This is a big deal because the US government is trying very hard to catch and punish important people in drug groups.",
+        "originalSource": "CBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764661172297-4",
+        "headline": "A really big snowstorm is coming to the Northeast of the country.",
+        "content": "Get ready, people in the Northeast part of the US! A huge snowstorm is coming, and it's going to dump a lot of snow. It already hit the middle of the country. Grown-ups are telling everyone to get ready and be careful because the weather will be very bad.",
         "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764658677563-3",
-        "headline": "President Trump Told Venezuela's Leader to Quit His Job Now",
-        "content": "Reports say that President Trump told the leader of Venezuela, a man named Nicolás Maduro, that he needed to stop being in charge right away. If Mr. Maduro didn't listen, President Trump warned that bad things would happen, even though he didn't say exactly what. This big warning came because many countries are worried about what is happening in Venezuela.",
-        "originalSource": "The Guardian / CNN",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764658677563-4",
-        "headline": "The Son of 'El Chapo' Said He Was Guilty of Selling Drugs",
-        "content": "Ovidio Guzmán López, who is the son of a very famous bad guy called 'El Chapo,' told the judge that he did sell drugs in the U.S. This is a really big victory for the American police and government, as they are working hard to stop large groups of people from selling illegal drugs all around the world.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest Update"
-      },
-      {
-        "id": "story-1764658677563-5",
-        "headline": "Bitcoin, a Kind of Computer Money, Lost a Lot of Its Value",
-        "content": "Bitcoin, which is like special computer money, suddenly dropped in price very fast! For a little bit, it was worth less than $85,000, and other computer monies also lost value. This quick drop made people who owned Bitcoin worry a lot about if this kind of money is safe and how fast its price can go up and down.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-5",
+        "headline": "Police are watching Luigi Mangione all the time in jail so nothing bad happens.",
+        "content": "Luigi Mangione, who police think killed a big boss at a company called UnitedHealthcare, is being watched very closely in jail. The police are doing this to make sure he stays safe and nothing bad happens to him, like what happened to another famous person named Jeffrey Epstein who died in jail while waiting for his trial.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764658677563-0",
-        "headline": "Whispers of the Wake",
-        "content": "The storm over the Caribbean was not a natural one, but a tempest of legality and blame. Pete Hegseth felt the spray of public scrutiny, trying to wash away his connection to the deadly military strikes on a suspected drug boat. Whispers of White House intervention followed him, a political lifeline thrown amidst the swirling questions of command and responsibility. The echoes of the incident reverberated far beyond the distant waters, landing squarely on his reputation. He navigated the choppy seas of public opinion, a silent partner in a very public reckoning, hoping the tide would turn.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764661172297-0",
+        "headline": "The Whispers of the Caribbean Current",
+        "content": "The White House stood firm, its voice a bulwark against the rising tide of questions. A second boat, suspected of carrying illicit cargo, had met its end in the shimmering Caribbean. Orders, allegedly from Pete Hegseth, to \"kill everyone,\" echoed in legal chambers, igniting fierce debate. Experts pondered the delicate balance of war, while lawmakers demanded accountability. The administration maintained its stance, asserting the strike's legality, but the shadow of ethical scrutiny lengthened, threatening to engulf the cold waters of justice.",
+        "originalSource": "TIME",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764658677563-1",
-        "headline": "The Border's New Line",
-        "content": "The shots fired at the National Guard members echoed far beyond the border, ripping through the nation’s fragile calm. In an instant, the conversation shifted. A flurry of new immigration restrictions became law, a swift, unyielding response to the violence. The lines drawn on maps became sharper, more guarded. Calls for tougher asylum policies grew into a clamor, hardening the resolve of a government determined to secure its perimeter. The human narratives of migration suddenly felt secondary to the imperative of an unbreachable defense.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-1",
+        "headline": "The Scales of Lady Justice Tipped",
+        "content": "A gavel, once a symbol of authority, lay silent for the immigration judge. Dismissed by the Trump administration, she now turned the tables, bringing a lawsuit against the Department of Justice. Her accusations were sharp: gender discrimination and deep-seated bias, allegedly orchestrated by Pam Bondi. The legal battle promised to be more than personal; it was a potential tremor through the foundations of civil rights law, challenging the very fairness of the system. Her fight was for more than her job; it was for the integrity of justice itself.",
+        "originalSource": "NPR",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1764658677563-2",
-        "headline": "Winter's Advance",
-        "content": "The Midwest had already shivered under its icy grip, trees groaning beneath heavy snow, roads vanishing into white oblivion. Now, a vast, silent menace crept eastward. Weather maps glowed ominous hues, forecasters intoning warnings of \"significant snowfall\" for the U.S. Northeast. Residents watched the skies, a collective breath held, knowing the storm brought not just beauty, but potential chaos: snarled traffic, stranded homes, and the chilling silence of widespread power outages. Preparations were frantic, a race against the inevitable white curtain descending.",
+        "id": "story-1764661172297-2",
+        "headline": "A Glimmer of the Barred Gate",
+        "content": "The appeals court's decree landed like a heavy tome, sealing Alina Habba's fate. The former lawyer, known for her work with President Trump, was deemed unlawfully seated as a top New Jersey prosecutor. Her ambitious ascent to power was abruptly halted, her position now officially disqualified. This ruling wasn't just a personal setback; it rippled through the political and legal arenas, prompting questions about the vetting of state appointments. A precedent was set, a stark reminder that even the most connected must adhere to the letter of the law.",
+        "originalSource": "Associated Press",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1764661172297-3",
+        "headline": "The Son's Shadowed Confession",
+        "content": "The weight of his lineage was palpable as Ovidio Guzmán López, son of the infamous 'El Chapo,' stood before the US court. With a somber nod, he confessed, pleading guilty to the drug trafficking charges that had long pursued him. His admission was a significant victory for US authorities, a testament to their relentless pursuit of high-level cartel figures. The kingpin’s bloodline, once a shield, had become a spotlight, illuminating the reach of justice. The cartel’s grip loosened, one powerful heir at a time.",
+        "originalSource": "CBS News",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1764661172297-4",
+        "headline": "The Silent Approach of Winter's Fury",
+        "content": "A hush fell over the Northeast, a momentary calm before the storm. The Midwest had already shivered under its icy grip, and now, the region braced for its own 'significant' winter assault. Heavy snowfall was predicted, a white blanket threatening to smother roads and daily routines. Authorities broadcast urgent advisories, urging residents to stock provisions, secure their homes, and limit travel. The sky darkened, promising a harsh embrace of frigid winds and relentless flakes, reminding all of winter’s formidable power.",
         "originalSource": "The Guardian",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764658677563-3",
-        "headline": "Caracas Crossroads",
-        "content": "The message arrived in Caracas, sharp and unyielding. President Trump, from across the miles, had delivered a direct ultimatum to Nicolás Maduro: relinquish power immediately. The air crackled with unspoken threats, consequences hanging like a storm cloud over Venezuela. The diplomatic chess match intensified, a high-stakes gamble played out on the global stage. International tensions, already stretched thin, tightened further, as the world watched to see if the embattled leader would bend or break under the immense pressure of an American presidential decree.",
-        "originalSource": "The Guardian / CNN",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764658677563-4",
-        "headline": "The Cartel's Heir",
-        "content": "The son of a legend, Ovidio Guzmán López, stood before the court, the weight of his infamous surname heavy upon him. He pleaded guilty, a quiet admission of sprawling drug trafficking charges. This wasn't merely a conviction; it was a resounding strike against the labyrinthine empire his father, \"El Chapo,\" had built. U.S. federal law enforcement savored the victory, another node severed from the international hydra of cartels. Justice, slow and relentless, continued its pursuit, even into the shadows of the most powerful criminal families.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest Update"
-      },
-      {
-        "id": "story-1764658677563-5",
-        "headline": "The Digital Tremor",
-        "content": "The digital tickers flashed red, a sudden, alarming descent. Bitcoin, the titan of cryptocurrency, had momentarily breached the $85,000 threshold, a sign of a broader, more brutal crypto market rout. Investors watched, hearts pounding, as fortunes flickered with the volatile current. Stability, once a whispered hope, evaporated into the pixelated ether. The market’s inherent unpredictability, a double-edged sword of immense gains and sudden losses, reaffirmed its dominion, leaving a trail of worry and frantic recalculations in its wake.",
-        "originalSource": "PBS NewsHour / Associated Press",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764661172297-5",
+        "headline": "The Unblinking Eye of the State",
+        "content": "Inside the confines of his prison cell, Luigi Mangione, accused in the high-profile killing of UnitedHealthcare's CEO, lived under a constant, unblinking gaze. Authorities, haunted by past failures, particularly the untimely death of Jeffrey Epstein, had implemented a rigorous watch. No chances were taken; every breath, every movement, meticulously observed. His trial loomed, and the state was determined that justice, whatever its course, would not be circumvented by an 'Epstein-style situation.' Mangione's fate, for now, was to be ceaselessly seen.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
       }
     ]
   }
