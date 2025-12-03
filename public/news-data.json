@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764755190861,
+  "timestamp": 1764759160000,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764755116829-0",
-        "headline": "President Trump's Intervention Secures Republican Victory in Tennessee, Highlighting Nationalized Local Politics",
-        "content": "The Tennessee 7th Congressional District special election saw Republican Matt Van Epps secure a victory, ensuring the party retains its hold. This outcome was significantly bolstered by a high-profile campaign from President Trump, whose rallies and vocal support transformed a local race into a nationally observed event, underscoring the powerful influence of national figures in perpetuating the current political landscape.",
-        "originalSource": "The New York Times",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764759088472-0",
+        "headline": "Tennessee District Remains Under Republican Control with President Trump's Endorsement",
+        "content": "Republican Matt Van Epps has secured a victory in Tennessee's U.S. House special election, a result that entrenches conservative power in the district. This outcome, bolstered by President Trump's explicit campaign support, signifies a continuation of policies that often fail to address systemic inequalities and the needs of all community members, particularly those most vulnerable.",
+        "originalSource": "AP News/PBS News",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764755116829-1",
-        "headline": "Trump Administration Policy Creates Widespread Uncertainty for Immigrants from 19 Nations",
-        "content": "A recent directive from President Trump's administration has effectively frozen all immigration proceedings, including vital naturalization ceremonies and asylum interviews, for individuals from 19 countries. This abrupt halt, stemming from new internal guidance, casts a shadow of uncertainty and hardship over countless individuals pursuing legal status, revealing a system that can arbitrarily disrupt lives.",
+        "id": "story-1764759088472-1",
+        "headline": "White House Aide Pete Hegseth Faces Mounting Scrutiny Over Unjustified Boat Strikes",
+        "content": "White House aide Pete Hegseth is facing intensified scrutiny and a formal complaint for reportedly directing follow-on strikes on a suspected drug boat. His defense, invoking the 'fog of war,' appears to be a tactic to evade accountability for actions that risk civilian lives and international protocols. Disturbingly, officials suggest the administration is actively sacrificing a naval admiral to shield Hegseth, revealing a troubling pattern of protecting political allies over upholding justice and proper conduct within the ranks.",
+        "originalSource": "Financial Times/The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764759088472-2",
+        "headline": "Trump Administration Escalates Anti-Immigrant Crackdown, Halting Cases and Firing Judges",
+        "content": "The Trump administration has dramatically escalated its crackdown on immigrant communities by firing eight immigration judges in New York City and issuing unprecedented guidance to halt all immigration cases, including crucial citizenship ceremonies, for nationals from 19 countries. This sweeping move, justified under a vague 'security review,' weaponizes national security as a pretext to dismantle due process and obstruct paths to refuge and citizenship, primarily affecting individuals from already marginalized nations.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764755116829-2",
-        "headline": "President Trump's Divisive Rhetoric Targets Somali Immigrants, Undermining American Values",
-        "content": "During a recent Cabinet meeting, President Trump's comments regarding Somali immigrants sparked significant controversy, as he declared his desire for them to leave the U.S. and return to their home country. This statement not only ignores the complex reasons for migration but also fuels xenophobia and contributes to a climate of division, rather than upholding principles of inclusivity.",
+        "id": "story-1764759088472-3",
+        "headline": "President Trump Makes Discriminatory Remarks Against Somali Immigrants Amidst Reported ICE Targeting",
+        "content": "President Trump has made deeply inflammatory and discriminatory remarks, asserting his desire to remove Somali immigrants from the United States and urging them to return to their home country to 'fix it.' These comments not only reveal a disturbing xenophobic stance but also coincide with credible reports of an impending ICE operation specifically targeting the Somali community in Minnesota, underscoring a pattern of rhetoric that incites fear and justifies systemic oppression against immigrant populations.",
         "originalSource": "NPR",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764755116829-3",
-        "headline": "President Trump's Administration Pressures States by Threatening Crucial SNAP Funding",
-        "content": "The Trump administration has announced its intention to withhold critical management funds for the Supplemental Nutrition Assistance Program (SNAP) from states that decline to share sensitive recipient data. This move, disproportionately targeting states led by Democrats, appears to be a punitive measure that could undermine a vital social safety net and further politicize essential aid programs for vulnerable populations.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Yesterday"
+        "id": "story-1764759088472-4",
+        "headline": "Trump Administration Threatens Critical SNAP Funding to Coerce States into Sharing Sensitive Data",
+        "content": "The Trump administration is threatening to withhold crucial Supplemental Nutrition Assistance Program (SNAP) management funds from states, especially those governed by Democrats, unless they comply with demands to provide highly specific recipient data to the federal government. This coercive tactic represents a dangerous overreach, potentially weaponizing vital food assistance against vulnerable families and politically targeting states, further eroding the social safety net and raising serious concerns about data privacy and state sovereignty.",
+        "originalSource": "AP News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764755116829-4",
-        "headline": "Administration Defends Controversial Strikes, Raising Concerns About Accountability and Transparency",
-        "content": "White House Chief of Staff Pete Hegseth recently deployed the 'fog of war' defense to justify the administration's contentious strikes on suspected drug boats. This explanation comes amidst escalating scrutiny and political backlash concerning the legality and necessity of these military actions, highlighting systemic issues of transparency and accountability in executive decision-making during foreign engagements.",
-        "originalSource": "Financial Times",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764755116829-5",
-        "headline": "USA Gymnastics Faces Lawsuit Alleging Systemic Failure to Protect Young Athletes",
-        "content": "A significant new lawsuit has been brought against USA Gymnastics, asserting that the organization profoundly neglected its core responsibility to safeguard young athletes. The legal challenge posits that officials were aware of and chose to ignore repeated allegations of sexual abuse against a prominent coach over an extended period, thereby perpetuating a systemic culture where misconduct went unchecked and victims were failed.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "10 hours ago"
+        "id": "story-1764759088472-5",
+        "headline": "Starbucks Agrees to $35 Million Settlement for NYC Workers Amidst Ongoing Labor Strike",
+        "content": "Starbucks has agreed to a $35 million settlement for New York City workers, addressing pervasive allegations of labor violations that have long plagued the corporate giant. This significant payout arrives amidst an ongoing worker strike, a powerful display of collective action that has garnered widespread support from progressive political leaders such as Bernie Sanders and Alexandria Ocasio-Cortez. While a step towards accountability, the continued strike underscores the systemic struggle workers face against corporate exploitation and the urgent need for robust labor protections.",
+        "originalSource": "PBS News",
+        "publishedTime": "11 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764755116829-0",
-        "headline": "Matt Van Epps Wins Tennessee House Race After a Trump-Led Rescue Mission",
-        "content": "Republican Matt Van Epps won the closely watched Tennessee 7th Congressional District special election, maintaining the party's control. The victory came after a high-profile \"rescue mission\" that included strong support and rallies from President Donald Trump, making the race a nationally watched event.",
-        "originalSource": "The New York Times",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764759088472-0",
+        "headline": "Republican Matt Van Epps wins House special election in Tennessee",
+        "content": "Republican Matt Van Epps secured a victory in the nationally watched special election for a U.S. House seat in Tennessee, successfully maintaining his party's control of the district with campaign support from President Donald Trump.",
+        "originalSource": "AP News/PBS News",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764755116829-1",
-        "headline": "U.S. halts all immigration cases — including citizenship ceremonies — for nationals of 19 countries, internal guidance says",
-        "content": "The U.S. government has temporarily stopped processing all immigration cases, including naturalization ceremonies and asylum interviews, for citizens of 19 specific countries. This sudden action stems from recently issued internal guidance from the Trump administration that affects a wide range of individuals seeking legal status.",
+        "id": "story-1764759088472-1",
+        "headline": "Pete Hegseth invokes 'fog of war' as backlash grows over boat strikes directed by his team",
+        "content": "White House aide Pete Hegseth is facing increasing scrutiny and a formal complaint over directing follow-on strikes on a suspected drug boat. Officials claim the administration is 'selling out' an admiral to protect Hegseth, who cited the 'fog of war' in his defense.",
+        "originalSource": "Financial Times/The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764759088472-2",
+        "headline": "Trump administration halts immigration cases and fires judges amid new security push",
+        "content": "The Trump administration has fired eight immigration judges in New York City and issued internal guidance to halt all immigration cases, including citizenship ceremonies, for nationals from 19 countries, citing a broad security review.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764755116829-2",
-        "headline": "Trump says he doesn't want Somalis in the U.S., urges them to go back to their homeland and fix it",
-        "content": "President Trump made controversial remarks during his final Cabinet meeting of the year, stating that he does not want Somali immigrants in the country. He urged them to return to their native homeland, arguing they should focus on improving conditions there instead of remaining in the United States.",
+        "id": "story-1764759088472-3",
+        "headline": "Trump says he doesn't want Somalis in the U.S., urges them to go back to their homeland",
+        "content": "President Trump made inflammatory remarks stating he does not want Somali immigrants in the United States and urged them to return to their home country to 'fix it.' The comments came as ICE reportedly plans an operation targeting the Somali community in Minnesota.",
         "originalSource": "NPR",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764755116829-3",
+        "id": "story-1764759088472-4",
         "headline": "Trump administration threatens to withhold SNAP management funds from states that don't share data",
-        "content": "The Trump administration announced a threat to withhold funding for the management of the Supplemental Nutrition Assistance Program (SNAP) from states. The punitive action specifically targets states, primarily led by Democrats, that have refused to share sensitive recipient data with the federal government for new review purposes.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Yesterday"
+        "content": "The Trump administration is threatening to withhold Supplemental Nutrition Assistance Program (SNAP) management funds from states, particularly those led by Democrats, if they do not comply with a demand to provide specific recipient data to the federal government.",
+        "originalSource": "AP News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764755116829-4",
-        "headline": "Pete Hegseth invokes 'fog of war' as backlash grows over strikes on boats",
-        "content": "White House Chief of Staff Pete Hegseth defended the administration's recent controversial follow-on strikes on suspected drug boats, citing the difficulty of quick decision-making under high stress. His invoking of the 'fog of war' defense comes as political backlash and scrutiny intensify regarding the legality and necessity of the military actions.",
-        "originalSource": "Financial Times",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764755116829-5",
-        "headline": "Lawsuit alleges USA Gymnastics failed to protect athletes from coach's sexual abuse",
-        "content": "A new, high-profile lawsuit has been filed against USA Gymnastics, claiming the organization failed in its fundamental duty to protect young athletes. The legal action alleges that officials knew about and ignored sexual abuse allegations against a prominent coach for an extended period, allowing the misconduct to continue unchecked.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "10 hours ago"
+        "id": "story-1764759088472-5",
+        "headline": "Starbucks to pay $35M to NYC workers in settlement as ongoing strike continues",
+        "content": "Starbucks has agreed to a $35 million settlement for New York City workers over allegations of labor violations. The news coincided with an ongoing worker strike that has garnered high-profile political support from figures including Bernie Sanders and Alexandria Ocasio-Cortez.",
+        "originalSource": "PBS News",
+        "publishedTime": "11 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764755116829-0",
-        "headline": "President Trump's Decisive Leadership Secures Key Republican Victory in Tennessee's 7th District",
-        "content": "Republican Matt Van Epps triumphantly won the Tennessee 7th Congressional District special election, decisively maintaining conservative control in a crucial race. This victory was a direct result of a high-profile 'rescue mission' spearheaded by President Trump, whose unwavering support and influential rallies galvanized voters and transformed a local contest into a nationally watched demonstration of conservative strength.",
-        "originalSource": "The New York Times",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764759088472-0",
+        "headline": "Voters in Tennessee Firmly Reject Progressive Agenda, Elect Matt Van Epps",
+        "content": "Republican Matt Van Epps secured a decisive victory in the nationally watched special election for a U.S. House seat in Tennessee. This crucial win successfully maintained his party's control of the district, reinforcing conservative values and pushing back against the encroaching progressive agenda. President Trump's strong endorsement played a significant role in rallying support for Van Epps, demonstrating the power of principled leadership in securing America's future.",
+        "originalSource": "AP News/PBS News",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764755116829-1",
-        "headline": "President Trump's Administration Takes Decisive Action to Safeguard Borders, Pauses Immigration Processing from Risky Nations",
-        "content": "The U.S. government, under the prudent guidance of President Trump's administration, has temporarily halted the processing of all immigration cases, including naturalization ceremonies and asylum interviews, for citizens of 19 specific countries. This decisive action, rooted in recently issued internal guidance, represents a necessary step to fortify national security and ensure the integrity of our immigration system, protecting American interests above all else.",
+        "id": "story-1764759088472-1",
+        "headline": "White House Aide Pete Hegseth Faces Unjustified Attacks for Bold Action Against Drug Traffickers",
+        "content": "White House aide Pete Hegseth is enduring increasing scrutiny and a formal complaint over his decisive direction of follow-on strikes on a suspected drug boat. While some officials are attempting to politicize the situation by claiming the administration is 'selling out' an admiral, Hegseth stands firm, citing the 'fog of war' as a necessary defense in the urgent fight against dangerous drug cartels. His actions demonstrate a commitment to national security, not political posturing.",
+        "originalSource": "Financial Times/The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764759088472-2",
+        "headline": "Firm Action: President Trump Prioritizes American Safety with Immigration Overhaul",
+        "content": "The Trump administration has taken decisive steps to safeguard national security by firing eight immigration judges in New York City and issuing internal guidance to halt all immigration cases, including citizenship ceremonies, for nationals from 19 countries. This bold move comes as part of a broad security review, demonstrating President Trump's unwavering commitment to protecting American citizens and enforcing the rule of law at our borders.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764755116829-2",
-        "headline": "President Trump Advocates for National Self-Reliance, Urging Somalis to Build Prosperity in Their Homeland",
-        "content": "During his final Cabinet meeting of the year, President Trump delivered a principled message, stating his preference that Somali immigrants return to their native homeland. He passionately urged them to focus their efforts on improving conditions and building prosperity in their own country, rather than remaining in the United States, championing the conservative ideal of national self-determination and responsibility.",
+        "id": "story-1764759088472-3",
+        "headline": "President Trump Advocates for Stronger Borders and National Integrity, Urging Immigrants to Build Up Their Own Nations",
+        "content": "President Trump made clear his stance on national sovereignty, stating his preference against unchecked immigration from certain countries like Somalia and instead urged individuals to return to their home countries to 'fix it.' These comments underscore a principled approach to immigration, emphasizing self-reliance and national pride. The administration, through agencies like ICE, is reportedly planning operations targeting specific communities to uphold immigration laws and ensure national security.",
         "originalSource": "NPR",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764755116829-3",
-        "headline": "President Trump's Administration Demands Accountability for Taxpayer Dollars, Conditions SNAP Funds on Data Sharing",
-        "content": "President Trump's administration has issued a firm warning, threatening to withhold critical funding for the management of the Supplemental Nutrition Assistance Program (SNAP) from states that refuse to share essential recipient data. This necessary action targets primarily Democrat-led states that have resisted federal efforts to ensure transparency and prevent misuse of taxpayer money through new review processes, upholding fiscal responsibility.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Yesterday"
+        "id": "story-1764759088472-4",
+        "headline": "Taxpayer Dollars Deserve Scrutiny: President Trump Insists on SNAP Data Sharing",
+        "content": "The Trump administration is taking a firm stand on fiscal responsibility, threatening to withhold Supplemental Nutrition Assistance Program (SNAP) management funds from states that refuse to comply with demands for specific recipient data. This necessary action, particularly targeting Democrat-led states, aims to ensure transparency and prevent abuse of taxpayer money, reflecting President Trump's commitment to wise stewardship of federal resources and accountability in welfare programs.",
+        "originalSource": "AP News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764755116829-4",
-        "headline": "Chief of Staff Hegseth Defends Crucial Anti-Drug Operations, Citing Inherent Challenges of War Against Criminals",
-        "content": "White House Chief of Staff Pete Hegseth stalwartly defended the administration's recent follow-on strikes against suspected drug boats, invoking the 'fog of war' to underscore the immense pressure and rapid decision-making required in such critical operations. His principled defense comes amidst growing political noise, reaffirming the necessity and legality of these crucial military actions to combat dangerous drug trafficking.",
-        "originalSource": "Financial Times",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764755116829-5",
-        "headline": "USA Gymnastics Faces Scrutiny for Alleged Failure to Protect Young Athletes from Vile Abuse, Highlighting Need for Moral Accountability",
-        "content": "A high-profile lawsuit has been courageously filed against USA Gymnastics, exposing allegations that the organization fundamentally failed in its duty to protect young athletes. The legal action alleges that officials knowingly ignored grave sexual abuse allegations against a prominent coach for an extended period, allowing heinous misconduct to persist unchecked and underscoring the vital need for moral rectitude and institutional accountability.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "10 hours ago"
+        "id": "story-1764759088472-5",
+        "headline": "Starbucks Faces Costly Settlement as Socialist Politicians Fan Flames of Labor Unrest",
+        "content": "Starbucks has reportedly agreed to a $35 million settlement for New York City workers amidst allegations of labor violations. This development occurs as an ongoing worker strike, heavily influenced by high-profile socialist figures like Bernie Sanders and Alexandria Ocasio-Cortez, continues to disrupt business operations. The situation highlights the increasing pressure on businesses from politicized labor movements and excessive regulation rather than organic worker grievances.",
+        "originalSource": "PBS News",
+        "publishedTime": "11 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764755116829-0",
-        "headline": "President Trump Dispatches Elite Presidential Intervention Force To Secure Key Tennessee House Victory",
-        "content": "In a stunning display of political athleticism, President Trump personally orchestrated a high-stakes 'rescue mission' to ensure Republican Matt Van Epps' triumph in the Tennessee 7th Congressional District. Witnesses reported President Trump might have even physically propelled Van Epps over the finish line, declaring the victory a testament to his unparalleled ability to make elections great again.",
-        "originalSource": "The New York Times",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764759088472-0",
+        "headline": "Local Man Miraculously Secures Election Victory In District Pre-Determined To Elect Him",
+        "content": "In a stunning display of the predictable, Republican Matt Van Epps clinched a 'special election' in Tennessee, proving once again that some outcomes are as inevitable as gravity, especially when President Trump's golden touch is involved. Voters, reportedly thrilled to confirm what they already knew, turned out in droves to rubber-stamp the party's continued control of the district, solidifying the idea that some things, like the sunrise and Republican wins in this particular district, just happen.",
+        "originalSource": "AP News/PBS News",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764755116829-1",
-        "headline": "U.S. Government Achieves Peak Efficiency By Simply Halting All Immigration Processes For 19 Countries",
-        "content": "In a bold move toward streamlining bureaucratic processes, the Trump administration has temporarily ceased all immigration proceedings, including citizenship ceremonies and asylum interviews, for nationals of nearly two dozen countries. Experts lauded the decision as a revolutionary 'zero-workload' approach to managing complex global affairs, noting the unparalleled speed at which absolutely nothing is now being processed.",
+        "id": "story-1764759088472-1",
+        "headline": "White House Aide Blames 'Fog of Brunch' For Boat Strikes After Allegedly Misting Enemy With Prosecco",
+        "content": "Amidst a growing storm of outrage, White House aide Pete Hegseth bravely invoked the 'fog of war' after allegedly directing follow-on strikes on a suspected drug boat from what sources describe as a surprisingly comfortable chair. Critics suggest the administration is throwing an admiral under a particularly fancy bus to shield Hegseth, who, despite his apparent distance from any actual 'war,' maintains that the sudden confusion caused by his own actions made him briefly forget he wasn't, in fact, a naval commander.",
+        "originalSource": "Financial Times/The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764759088472-2",
+        "headline": "Administration Streamlines Immigration By Eliminating Immigrants And Their Judges",
+        "content": "In a bold move to simplify the nation's notoriously complex immigration system, the Trump administration has reportedly fired eight immigration judges in New York City and issued a groundbreaking directive to halt all immigration cases, including joyous citizenship ceremonies, for individuals from 19 designated countries. Officials lauded the initiative as a 'broad security review,' which observers noted was remarkably effective at ensuring no new security risks could possibly arise from individuals who were no longer permitted to immigrate.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764755116829-2",
-        "headline": "President Trump Unveils Groundbreaking 'Go Fix Your Own Country' Foreign Policy Initiative",
-        "content": "During his final Cabinet meeting, President Trump unveiled a revolutionary new foreign policy doctrine, advising Somali immigrants to return to their homeland and 'fix it.' Political strategists worldwide are now scrambling to implement this brilliantly simplistic approach to international development, with many wondering why no one had ever thought to simply tell entire populations to 'just go back and fix everything' before.",
+        "id": "story-1764759088472-3",
+        "headline": "President Trump Unveils Bold New 'DIY Nation-Building' Strategy For Somalis",
+        "content": "President Trump, in a move widely praised by those who prefer their global policy to involve less actual policy and more shouting, declared he does not want Somali immigrants in the United States, encouraging them instead to 'go back and fix it' — presumably with a wrench and a can-do attitude. The groundbreaking directive came as ICE reportedly prepped an operation targeting Minnesota's Somali community, presumably to provide free one-way tickets and artisanal 'fix it' kits.",
         "originalSource": "NPR",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764755116829-3",
-        "headline": "Trump Administration Threatens To Withhold Hunger Management Funds Unless States Play 'Show And Tell' With Data",
-        "content": "The Trump administration has introduced an innovative new incentive program, threatening to withhold crucial SNAP management funds from states, particularly those governed by Democrats, unless they hand over sensitive recipient data. Critics fear this could lead to unprecedented levels of 'hungry transparency,' but proponents insist it's merely a new, aggressive form of federal-state 'cooperation' through data sharing.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Yesterday"
+        "id": "story-1764759088472-4",
+        "headline": "Administration Demands Soul-Level Data From Needy, Threatens To Withhold Lunch Money For Non-Compliance",
+        "content": "In a revolutionary transparency initiative, the Trump administration has threatened to cut off Supplemental Nutrition Assistance Program (SNAP) management funds to states, especially those with suspiciously blue leadership, unless they hand over an exhaustive dossier of recipient data. Critics say the move is designed to ensure the federal government knows precisely what brand of cereal every SNAP recipient prefers, while proponents argue it’s merely a necessary step to confirm that no one is secretly enjoying their government-assisted kale without proper federal oversight.",
+        "originalSource": "AP News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764755116829-4",
-        "headline": "Chief Of Staff Pete Hegseth Declares All Questionable Actions Now Covered By 'Standard Issue Fog Of War' Blanket Excuse",
-        "content": "White House Chief of Staff Pete Hegseth masterfully deployed the 'fog of war' defense to explain away controversial follow-on strikes on suspected drug boats. Legal scholars are now debating if the 'fog' can be retroactively applied to everything from minor administrative errors to forgetting to take out the trash, effectively creating a universal immunity clause for all future government decisions.",
-        "originalSource": "Financial Times",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764755116829-5",
-        "headline": "USA Gymnastics Unveils Revolutionary 'Blind Eye' Approach To Athlete Protection",
-        "content": "A new lawsuit reveals USA Gymnastics' pioneering, albeit controversial, method of athlete protection: a sophisticated system of looking the other way. Allegations suggest the organization perfected the art of blissful ignorance regarding sexual abuse complaints against a prominent coach, proving that sometimes the best way to manage a problem is to pretend it doesn't exist until legal documents arrive.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "10 hours ago"
+        "id": "story-1764759088472-5",
+        "headline": "Starbucks Magnanimously Awards Workers $35 Million In 'Silence Money' While Striking For More",
+        "content": "In a dazzling display of corporate generosity, Starbucks has agreed to fork over a cool $35 million to its New York City workers to settle 'minor misunderstandings' regarding labor practices. This heartwarming gesture arrives just as workers continue their quaint, ongoing strike, which has become a must-attend event for high-profile political figures like Bernie Sanders and Alexandria Ocasio-Cortez, all eager to demonstrate their solidarity by sipping artisan lattes within earshot of the picket line.",
+        "originalSource": "PBS News",
+        "publishedTime": "11 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764755116829-0",
-        "headline": "Matt Van Epps Won a Big Election with Help from President Trump",
-        "content": "A guy named Matt Van Epps, who is a Republican, won an important election in Tennessee. This means his political party still has control there. President Trump really helped him win by giving him a lot of support and doing big events for him. Lots of people all over the country were watching this election because it was a really big deal.",
-        "originalSource": "The New York Times",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764759088472-0",
+        "headline": "Matt Van Epps Won a Big Election in Tennessee.",
+        "content": "A guy named Matt Van Epps, who is a Republican, won an important election in Tennessee. He got help from President Trump, and this win means his party still controls that area in the government.",
+        "originalSource": "AP News/PBS News",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764755116829-1",
-        "headline": "America Stopped Letting People from 19 Countries Become Citizens for Now",
-        "content": "The United States government has temporarily stopped helping people from 19 different countries who want to live here or become citizens. This means they can't have their special ceremonies to become a U.S. citizen or even have talks about staying safe here. This big change happened because President Trump's team gave new rules, and it affects many people trying to get legal papers.",
+        "id": "story-1764759088472-1",
+        "headline": "Pete Hegseth Got in Trouble for Boats.",
+        "content": "Pete Hegseth, who works for President Trump, is in big trouble because he told people to attack a boat they thought had drugs. People are saying the government is blaming someone else to protect him. He said it was like a \"fog of war,\" meaning things were confusing.",
+        "originalSource": "Financial Times/The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764759088472-2",
+        "headline": "President Trump's Team Stopped Some Immigration Cases.",
+        "content": "President Trump's helpers have stopped some immigration cases and even fired eight judges in New York City. They also stopped people from 19 different countries from becoming citizens for a while, saying they need to check things for safety.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764755116829-2",
-        "headline": "President Trump Said He Wants Somali People to Go Back Home",
-        "content": "During a big meeting, President Trump said he does not want people from Somalia to live in America. He told them they should go back to their home country, Somalia, and make things better there instead of staying here in the United States.",
+        "id": "story-1764759088472-3",
+        "headline": "President Trump Said Somalis Should Go Home.",
+        "content": "President Trump said he does not want people from Somalia to live in the United States and that they should go back to their home country to make it better. It sounds like the government might be planning to find Somalis in Minnesota.",
         "originalSource": "NPR",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764755116829-3",
-        "headline": "President Trump's Team Might Stop Giving Money for Food Help to Some States",
-        "content": "President Trump's team said they might stop giving money to states that help people buy food. This program is called SNAP. They want states to share private information about the people getting food help. States that don't want to share this information, especially those run by Democrats, might not get the money to manage the program anymore.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Yesterday"
+        "id": "story-1764759088472-4",
+        "headline": "President Trump Might Hold Back Food Help Money.",
+        "content": "President Trump's team is saying they might not give money to states for a program called SNAP, which helps people buy food. They want the states to give them special information about who gets the help, especially from states run by Democrats.",
+        "originalSource": "AP News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764755116829-4",
-        "headline": "White House Boss Said It's Hard to Make Decisions in a Fight After Boat Attacks",
-        "content": "Pete Hegseth, who is a very important person at the White House, said that it's hard to make perfect choices when things are really confusing and stressful, like in a 'fog of war'. He said this because lots of people are upset about some boats that were attacked because they thought they had drugs. People want to know if attacking those boats was right and necessary.",
-        "originalSource": "Financial Times",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764755116829-5",
-        "headline": "USA Gymnastics Is Sued for Not Keeping Young Athletes Safe from a Coach",
-        "content": "Some people have started a big lawsuit against USA Gymnastics. They say that the organization did not do a good job of keeping young gymnasts safe. The lawsuit says that the people in charge knew about a coach hurting young athletes for a long time but didn't stop it, so bad things kept happening.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "10 hours ago"
+        "id": "story-1764759088472-5",
+        "headline": "Starbucks Will Pay Lots of Money to Workers.",
+        "content": "Starbucks, the coffee place, agreed to pay $35 million to its workers in New York City because people said they broke some rules about how they treat their employees. This happened while many workers are still on strike, and famous politicians like Bernie Sanders are supporting them.",
+        "originalSource": "PBS News",
+        "publishedTime": "11 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764755116829-0",
-        "headline": "The President's Shadow in Tennessee",
-        "content": "In the Volunteer State, the political winds shifted, propelled by a unique intervention. Matt Van Epps, a Republican, found his campaign for Tennessee's 7th Congressional District transformed into a national spectacle. It wasn't just a local race; it was a 'rescue mission,' whispered insiders. President Trump himself descended, rallying supporters, lending his formidable presence. His robust backing ignited the base, turning a challenging contest into a decisive victory. The party's stronghold remained unbroken, a testament to the President's influence, proving some battles are won not just on the ground, but from the highest office.",
-        "originalSource": "The New York Times",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764759088472-0",
+        "headline": "A Banner Day in Tennessee for Voters",
+        "content": "The Volunteer State held its breath, awaiting the special election's outcome. Matt Van Epps, a Republican, clinched the U.S. House seat, a decisive victory that echoed through the district. His campaign, bolstered by the visible support of President Trump, had successfully rallied voters, ensuring the party's continued hold. The streets buzzed with post-election discussions, as residents considered the implications of their new representative's mandate. The election's national spotlight affirmed the district's conservative leanings, solidifying its place on the political map with a clear, resounding voice.",
+        "originalSource": "AP News/PBS News",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764755116829-1",
-        "headline": "Nineteen Gates Suddenly Closed",
-        "content": "A silent decree, whispered through internal channels, brought a sudden chill to the aspirations of thousands. For citizens of nineteen specific nations, the doors to new beginnings slammed shut. Immigration cases, once moving with bureaucratic slowness, ceased entirely. Naturalization ceremonies, moments of jubilant belonging, were abruptly suspended. Asylum interviews, the last hope for many fleeing despair, were put on indefinite hold. This unforeseen action, originating from President Trump's administration, left countless individuals in limbo, their dreams of legal status abruptly frozen, caught in a system that suddenly, inexplicably, stopped.",
+        "id": "story-1764759088472-1",
+        "headline": "Echoes of the High Seas and Command",
+        "content": "White House aide Pete Hegseth faced a tempest of scrutiny. Allegations swirled around his team's directive for follow-on strikes on a suspected drug boat, sparking a formal complaint. Critics accused the administration of sacrificing an admiral to shield Hegseth, who, in his defense, invoked the elusive \"fog of war.\" The incident cast a long shadow, raising questions about accountability and command. Whispers among officials suggested a deliberate cover, emphasizing the political currents that often dictated truth. The ocean's secrets, however, remained difficult to truly obscure.",
+        "originalSource": "Financial Times/The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764759088472-2",
+        "headline": "The Gavel's Silence Descends Upon New York",
+        "content": "A chilling directive descended upon New York City's immigration courts. Eight judges found their careers abruptly terminated by the Trump administration. Simultaneously, internal guidance mandated an unprecedented halt: all immigration cases, including sacred citizenship ceremonies, for nationals hailing from 19 specified countries were suspended. The official rationale cited a comprehensive, ongoing security review. This sweeping measure, unprecedented in its scope, left countless individuals in limbo, their hopes and futures paused indefinitely. The usual rhythm of justice fell silent, replaced by an unnerving quiet, as the gates to a new life momentarily closed.",
         "originalSource": "CBS News",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764755116829-2",
-        "headline": "A Call to Return Home",
-        "content": "During his year's final Cabinet meeting, President Trump delivered a stark message that echoed through the room. His words, direct and unwavering, left little room for misinterpretation. He asserted his preference: Somali immigrants, he declared, were not desired within the nation's borders. Instead, he urged them to return to their native land, to focus their energies there, to rebuild and improve their homeland. The controversial remarks, delivered with resolute conviction, signaled a clear directive, outlining a vision where some, he believed, could contribute more by departing than by remaining.",
+        "id": "story-1764759088472-3",
+        "headline": "A Call to Return Home Rings Out",
+        "content": "From the highest office, a provocative message resonated across the nation. President Trump expressed a firm stance, stating he did not desire Somali immigrants in the United States, urging them instead to return to their homeland. \"Go back and fix it,\" he declared, painting a picture of self-reliance. This declaration arrived amidst reports of an impending ICE operation, specifically targeting the Somali community within Minnesota. The community braced itself, facing an uncertain future as the call to 'return' hung heavy in the air, a stark reminder of their precarious status.",
         "originalSource": "NPR",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764755116829-3",
-        "headline": "A Standoff Over Shared Information",
-        "content": "A financial gauntlet was thrown down, severing the flow of vital aid. President Trump’s administration issued a stern warning: states refusing to share sensitive recipient data for the Supplemental Nutrition Assistance Program (SNAP) would face consequences. The threat was explicit—management funds, crucial for administering the program, would be withheld. This punitive measure predominantly targeted states led by Democrats, who had resisted the federal government’s demands for new review purposes. It was a high-stakes standoff, where the sustenance of vulnerable populations became a pawn in a larger battle over data control and federal oversight.",
-        "originalSource": "Associated Press",
-        "publishedTime": "Yesterday"
+        "id": "story-1764759088472-4",
+        "headline": "The Data Divide Deepens Across States",
+        "content": "A new ultimatum emerged from the Trump administration, stirring anxiety among states. The threat: withhold vital Supplemental Nutrition Assistance Program (SNAP) management funds. The condition for retaining these funds was clear — states must provide specific recipient data to the federal government. The directive seemed particularly aimed at Democrat-led states, creating a palpable tension between federal mandates and state autonomy. This move sparked a fierce debate about privacy, federal overreach, and the fundamental right to aid, transforming essential welfare programs into a battleground for political leverage.",
+        "originalSource": "AP News",
+        "publishedTime": "less than 24 hours ago"
       },
       {
-        "id": "story-1764755116829-4",
-        "headline": "Through the Haze of Conflict",
-        "content": "The political storm raged, fueled by controversial strikes on suspected drug boats. Accusations of legality and necessity swirled around the administration's actions. White House Chief of Staff Pete Hegseth stepped forward, offering a defense cloaked in a familiar idiom: the 'fog of war.' He articulated the immense pressure of split-second decisions, the blurred lines in the chaos of battle. His invocation sought to explain the difficult choices made under stress, attempting to quell the growing public scrutiny. Yet, the defense itself ignited further debate, the haze not fully dispelling the questions surrounding the military operations.",
-        "originalSource": "Financial Times",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764755116829-5",
-        "headline": "A Legacy of Broken Trust",
-        "content": "The mat, once a stage for dreams, now lay shadowed by accusation. A new, high-profile lawsuit ripped open old wounds, targeting USA Gymnastics. The legal filing painted a damning picture: an organization that allegedly failed its most fundamental duty—to protect its young athletes. The claims were chilling, alleging that officials knew of a prominent coach's sexual abuse, yet consciously ignored the cries for help for an extended period. The misconduct, the lawsuit stated, continued unchecked, leaving a trail of broken trust and shattered innocence in its wake, demanding accountability for a pervasive failure.",
-        "originalSource": "Associated Press / PBS News",
-        "publishedTime": "10 hours ago"
+        "id": "story-1764759088472-5",
+        "headline": "A Bitter Brew, Sweet Settlement for Workers",
+        "content": "After weeks of picket lines and fervent chants, a significant breakthrough emerged for Starbucks workers in New York City. A $35 million settlement was agreed upon by the coffee giant, addressing allegations of severe labor violations. Yet, despite this financial reprieve, the workers’ strike persisted, their unified demands for better conditions still unmet. Their cause had garnered powerful allies, drawing the support of influential political figures like Bernie Sanders and Alexandria Ocasio-Cortez. The struggle for fair treatment, while partially compensated, continued to simmer, a testament to enduring resolve.",
+        "originalSource": "PBS News",
+        "publishedTime": "11 hours ago"
       }
     ]
   }
