@@ -1,11 +1,269 @@
 {
-  "timestamp": 1764776709913,
+  "timestamp": 1764781132100,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1764781061467-0",
+        "headline": "President Trump's Pardon for Indicted Congressman Henry Cuellar and Wife Raises Serious Questions About Systemic Accountability and Elite Impunity",
+        "content": "President Trump's controversial decision to issue a full pardon for Texas Democratic Representative Henry Cuellar and his wife, despite their indictment on numerous federal charges including bribery and conspiracy, has ignited a critical national dialogue. This high-profile action appears to further entrench concerns about how political power can be leveraged to shield individuals from justice, underscoring a systemic issue where elite figures often avoid accountability for serious alleged transgressions.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764781061467-1",
+        "headline": "Congressional Scrutiny Intensifies Over Defense Secretary Pete Hegseth's Opaque Handling of Caribbean Military Operations, Demanding Full Transparency",
+        "content": "Defense Secretary Pete Hegseth is facing mounting pressure and deepening scrutiny from members of Congress following his public statements and actions related to a series of sensitive Caribbean boat strikes. Critics are now vociferously demanding complete transparency, highlighting persistent concerns about the lack of accountability and clear communication regarding military operations that often have far-reaching international implications and potential for civilian harm.",
+        "originalSource": "Associated Press",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764781061467-2",
+        "headline": "President Trump's Administration Implements Discriminatory Immigration Halt, Further Marginalizing Vulnerable Migrants from Non-European Nations",
+        "content": "The Trump administration has announced a sweeping and deeply concerning policy change, effectively halting the processing of all immigration applications for migrants originating from 19 predominantly non-European countries currently on a travel ban list, including Afghanistan and Somalia. This discriminatory action further exacerbates the systemic challenges faced by vulnerable populations seeking refuge and safety, embodying policies that undermine humanitarian principles and disproportionately target communities based on origin.",
+        "originalSource": "Associated Press",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764781061467-3",
+        "headline": "Systemic Economic Instability Revealed as U.S. Private Sector Sheds 32,000 Jobs, Placing Undue Burden on Working Families Amidst Economic Uncertainty",
+        "content": "The U.S. private sector experienced a startling decline last month, losing 32,000 jobs, according to the latest economic data. This weakening job growth is a stark reminder of systemic economic vulnerabilities and disproportionately impacts working families, increasing financial precarity for many. Economists now suggest this downturn makes a Federal Reserve interest rate cut next week more probable, yet without addressing root causes, such volatility will continue to burden the most vulnerable.",
+        "originalSource": "CBS News",
+        "publishedTime": "30 minutes ago"
+      },
+      {
+        "id": "story-1764781061467-4",
+        "headline": "Tennessee's Special Election Outcome Reinforces Concerns About Progressive Underrepresentation Amidst Persistent Conservative Strongholds",
+        "content": "Republican candidate Matt Van Epps secured a victory in the closely watched special election for the U.S. House seat in Tennessee's 7th Congressional District. While this ensures the seat remains in Republican hands, it also underscores the ongoing challenge for progressive voices to gain representation in districts where entrenched conservative power continues to dominate, raising questions about the diversity of perspectives informing critical policy decisions for all constituents.",
+        "originalSource": "Associated Press",
+        "publishedTime": "14 hours ago"
+      },
+      {
+        "id": "story-1764781061467-5",
+        "headline": "Political Gridlock in the Senate Threatens Affordable Care Act Subsidies, Exposing Systemic Failures in Prioritizing Public Health Over Partisan Standoffs",
+        "content": "Crucial Senate negotiations on a bipartisan health care deal, including a vital upcoming vote on Affordable Care Act tax credits, have regrettably stalled. This political gridlock, stemming from lawmakers from both parties maintaining entrenched positions, exposes a systemic failure to prioritize the public's health and economic well-being over partisan maneuvering, leaving millions of Americans reliant on these subsidies in a state of precarious uncertainty.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 minutes ago"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1764781061467-0",
+        "headline": "Trump pardons Cuellar in bribery and conspiracy case",
+        "content": "President Donald Trump issued a full pardon for Texas Democratic Representative Henry Cuellar and his wife, both of whom were indicted on more than a dozen federal charges including bribery and conspiracy. The high-profile decision immediately sparked political discussion.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764781061467-1",
+        "headline": "Pete Hegseth faces deepening scrutiny from Congress over Caribbean boat strikes",
+        "content": "Defense Secretary Pete Hegseth faces deepening scrutiny from members of Congress following his remarks and actions related to the sensitive military operation involving a series of Caribbean boat strikes. Critics are demanding more transparency.",
+        "originalSource": "Associated Press",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764781061467-2",
+        "headline": "Trump administration halts immigration applications for migrants from 19 travel-ban nations",
+        "content": "The Trump administration announced a significant policy change, halting the processing of all immigration applications for migrants originating from 19 non-European countries that are currently on a travel ban list, including Afghanistan and Somalia.",
+        "originalSource": "Associated Press",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764781061467-3",
+        "headline": "U.S. lost 32,000 private-sector jobs last month in surprise drop",
+        "content": "The U.S. private sector experienced a surprising decline, losing 32,000 jobs last month, according to the latest economic data. Economists suggest this weakening job growth increases the likelihood of a Federal Reserve interest rate cut next week.",
+        "originalSource": "CBS News",
+        "publishedTime": "30 minutes ago"
+      },
+      {
+        "id": "story-1764781061467-4",
+        "headline": "Republican Matt Van Epps wins House special election in Tennessee",
+        "content": "Republican candidate Matt Van Epps successfully won the closely watched special election for the U.S. House seat in Tennessee's 7th Congressional District. This victory ensures the seat remains in Republican hands.",
+        "originalSource": "Associated Press",
+        "publishedTime": "14 hours ago"
+      },
+      {
+        "id": "story-1764781061467-5",
+        "headline": "Bipartisan health care deal remains elusive in the Senate as parties dig in",
+        "content": "Senate negotiations on a crucial bipartisan health care deal, which includes a key upcoming vote on Affordable Care Act tax credits, have become stalled. A deal remains elusive as lawmakers from both parties maintain their entrenched positions.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 minutes ago"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1764781061467-0",
+        "headline": "President Trump Rightfully Exercises Constitutional Authority, Pardons Cuellar Amidst Political Prosecutions",
+        "content": "In a bold display of presidential authority, President Trump has granted a full pardon to Texas Democratic Representative Henry Cuellar and his wife. This decisive action comes after the couple faced numerous federal charges, including bribery and conspiracy, highlighting the often politicized nature of such indictments. The President's move underscores his commitment to justice and due process, sparking important discussions about the integrity of our legal system.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764781061467-1",
+        "headline": "Partisan Attacks Target Defense Secretary Hegseth Over Vital Caribbean Operations",
+        "content": "Defense Secretary Pete Hegseth is enduring increasingly intense scrutiny from some in Congress, who are questioning his handling of sensitive military operations involving Caribbean boat strikes. These critics, often driven by political motives, are demanding what they term 'transparency,' potentially jeopardizing critical national security efforts. Such relentless questioning risks undermining our military leadership and the brave men and women serving our nation.",
+        "originalSource": "Associated Press",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764781061467-2",
+        "headline": "President Trump's Administration Prioritizes National Security, Halts Applications from High-Risk Nations",
+        "content": "In a crucial move to safeguard national security and uphold the rule of law, President Trump's administration has announced a decisive policy shift. The processing of all immigration applications for migrants from 19 non-European nations currently on a travel ban list, including Afghanistan and Somalia, will be halted. This action reflects the administration's unwavering commitment to securing our borders and protecting American citizens from potential threats, prioritizing the safety of our homeland above all else.",
+        "originalSource": "Associated Press",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764781061467-3",
+        "headline": "Unwise Policies Hinder Economic Growth as Private Sector Loses Jobs",
+        "content": "America's private sector has unfortunately seen a setback, with a loss of 32,000 jobs last month, according to recent economic data. This concerning trend of weakening job growth is often a direct result of burdensome regulations and unsustainable government spending policies that stifle true enterprise. Economists are now suggesting that this downturn might push the Federal Reserve towards an interest rate cut, highlighting the urgent need for policies that truly empower businesses and foster free-market prosperity.",
+        "originalSource": "CBS News",
+        "publishedTime": "30 minutes ago"
+      },
+      {
+        "id": "story-1764781061467-4",
+        "headline": "Tennessee Voters Resoundingly Affirm Conservative Principles, Elect Republican Matt Van Epps",
+        "content": "In a clear affirmation of conservative values, Republican candidate Matt Van Epps has secured a decisive victory in the special election for Tennessee's 7th Congressional District. This crucial win ensures that the U.S. House seat remains under solid Republican leadership, reflecting the enduring commitment of Tennessee voters to fiscal responsibility, individual liberty, and traditional American principles.",
+        "originalSource": "Associated Press",
+        "publishedTime": "14 hours ago"
+      },
+      {
+        "id": "story-1764781061467-5",
+        "headline": "Senate Stumbles on Healthcare, Underscoring Flaws in Government-Dominated Systems",
+        "content": "Efforts in the Senate to forge a 'bipartisan' healthcare deal, particularly concerning the Affordable Care Act's tax credits, have once again reached an impasse. This ongoing gridlock highlights the inherent difficulties when government attempts to control and centralize healthcare, rather than allowing free-market solutions to thrive. Lawmakers from both sides appear entrenched, yet the real solution lies in liberating healthcare from bureaucratic overreach and empowering individual choice.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 minutes ago"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1764781061467-0",
+        "headline": "President Trump, Master of Benevolence, Pardons Politician Facing 'Too Many' Charges",
+        "content": "In a move that shocked absolutely no one paying even the slightest attention, President Trump, a known connoisseur of 'deals' and 'favors,' magnanimously extended a full pardon to Texas Democratic Representative Henry Cuellar and his wife. The couple, facing a truly impressive list of over a dozen federal charges, including the ever-popular bribery and conspiracy, were reportedly 'thrilled' to discover that legal consequences are, much like a good golf course, sometimes avoidable. Political analysts, who were already mid-yawn, described the high-profile decision as 'something that definitely happened.'",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764781061467-1",
+        "headline": "Congress Suddenly Remembers Defense Secretary Pete Hegseth Exists, Demands Answers on 'Boat Stuff'",
+        "content": "Defense Secretary Pete Hegseth, previously operating with the blissful anonymity usually reserved for the assistant regional manager of a paper supply company, is now facing 'deepening scrutiny' from a Congress that just discovered there were 'boat strikes' in the Caribbean. Lawmakers, apparently awakened from a collective nap, are now demanding 'transparency' regarding Hegseth's 'remarks and actions' on the 'sensitive military operation,' which some experts suggest might have involved boats hitting other boats, or perhaps even land. Critics, after a quick Google search, promised to keep demanding answers until someone eventually tells them what happened.",
+        "originalSource": "Associated Press",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764781061467-2",
+        "headline": "President Trump's Administration Announces Novel Strategy: If You're Banned, You Can't Come",
+        "content": "In a move hailed by supporters as 'logically consistent' and by critics as 'utterly predictable,' the President Trump administration proudly unveiled a groundbreaking new immigration policy: if you're from a country already on a travel ban list, your immigration application might just hit a brick wall. The ingenious policy, affecting migrants from 19 'non-European' nations (read: Afghanistan, Somalia, and 17 others nobody could quite remember off-hand), ensures that those already prevented from entering can now also be prevented from applying to enter. Experts predict this radical 'double negative' approach will revolutionize bureaucratic efficiency, or at least save a lot on processing paper.",
+        "originalSource": "Associated Press",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764781061467-3",
+        "headline": "Nation Stunned as Economy Decides 32,000 Jobs Were Just 'Too Many'",
+        "content": "In a truly shocking turn of events, the U.S. private sector apparently decided it was carrying too much weight, shedding a surprising 32,000 jobs last month in a move economists are calling 'a bold strategy.' Experts, after consulting their crystal balls and complex algorithms, quickly declared that this 'weakening job growth' dramatically increases the likelihood of the Federal Reserve doing *something* next week, specifically an interest rate cut. Citizens are advised not to panic, as the economy is merely 'right-sizing' itself, perhaps by making more room for robots.",
+        "originalSource": "CBS News",
+        "publishedTime": "30 minutes ago"
+      },
+      {
+        "id": "story-1764781061467-4",
+        "headline": "Local Man Wins Election in Area Predestined to Elect Local Man",
+        "content": "In a stunning display of the predictable, Republican candidate Matt Van Epps triumphed in the 'closely watched' special election for Tennessee's 7th Congressional District. The victory, which political pundits had penciled in with permanent marker months ago, reportedly 'ensures' that the seat will, yet again, be occupied by a Republican, thereby preserving the natural order of things in the universe and Tennessee. Van Epps expressed his gratitude to voters for not upsetting the delicate balance.",
+        "originalSource": "Associated Press",
+        "publishedTime": "14 hours ago"
+      },
+      {
+        "id": "story-1764781061467-5",
+        "headline": "Senate Continues Epic Battle Against Bipartisan Compromise, Health Care Deal Remains Mythical Beast",
+        "content": "In a development that shocked absolutely no one who has ever observed American politics, the Senate's 'crucial' bipartisan health care deal remains as elusive as a unicorn wearing a tiny top hat. Negotiations, which were reportedly 'stalled' before they even properly began, have cemented into a permanent stalemate as lawmakers from both parties, with the tenacity of toddlers guarding a single crayon, refuse to budge from their 'entrenched positions.' The upcoming vote on Affordable Care Act tax credits, a key component of the theoretical deal, now faces the very real possibility of being voted on by senators who are too busy digging to pay attention.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 minutes ago"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1764781061467-0",
+        "headline": "President Trump Forgives Cuellar for Big Problems",
+        "content": "President Trump said that Henry Cuellar and his wife don't have to worry about trouble for bribery and other bad stuff anymore. This big decision immediately made many grown-ups start talking about politics.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764781061467-1",
+        "headline": "People in Congress are Asking Pete Hegseth Lots of Questions",
+        "content": "Pete Hegseth, who is in charge of a lot of military stuff, is getting a lot of questions from people in Congress. They want to know more about what he said and did during some important boat problems in the Caribbean. Everyone wants him to be very open about what happened.",
+        "originalSource": "Associated Press",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764781061467-2",
+        "headline": "President Trump's Government Stops Some People From Moving Here",
+        "content": "President Trump's government said that people from 19 countries, like Afghanistan and Somalia, can't apply to move to the U.S. right now. These countries were already on a list where travel was stopped for a while.",
+        "originalSource": "Associated Press",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764781061467-3",
+        "headline": "Thousands of Grown-Up Jobs Disappeared Last Month",
+        "content": "Last month, 32,000 jobs that grown-ups have at regular companies were gone in the U.S. This was a big surprise! Experts think this means the big bank (Federal Reserve) might make it cheaper to borrow money next week.",
+        "originalSource": "CBS News",
+        "publishedTime": "30 minutes ago"
+      },
+      {
+        "id": "story-1764781061467-4",
+        "headline": "Matt Van Epps, a Republican, Won a Special Election Race",
+        "content": "A man named Matt Van Epps, who is a Republican, won a special election to be in the U.S. House for Tennessee. This means the Republican party will keep that important spot.",
+        "originalSource": "Associated Press",
+        "publishedTime": "14 hours ago"
+      },
+      {
+        "id": "story-1764781061467-5",
+        "headline": "Getting a New Health Care Deal Is Still Really Hard",
+        "content": "Senators are trying to make a big deal about health care that both sides can agree on, but they're stuck. They need to vote on some important money help for health care soon, but no one is changing their mind yet.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 minutes ago"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1764781061467-0",
+        "headline": "A Pardon's Shadow",
+        "content": "The gavel had yet to strike, the jury still a whispered rumor, but for Representative Henry Cuellar and his wife, the storm had passed. President Trump, with a stroke of his pen, erased a dozen federal charges: bribery, conspiracy – all gone. The news rippled through the capitol, an unexpected grace that left pundits scrambling. Whispers of political maneuvering mingled with shouts of injustice. Was it a chess move or true clemency? The political landscape, already fractured, shivered with the implications of such a bold, unilateral act, leaving many to wonder about the unseen debts incurred.",
+        "originalSource": "Associated Press",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764781061467-1",
+        "headline": "Echoes from the Turquoise Sea",
+        "content": "Defense Secretary Pete Hegseth stood before a restless Congress, the Caribbean sun still burning in their collective memory. A string of boat strikes, shrouded in military secrecy, had sparked a firestorm. Lawmakers, their faces etched with concern, demanded answers. Hegseth's actions and public remarks, intended perhaps to calm, had only inflamed suspicion. The 'sensitive operation' had become a gaping wound, bleeding questions of transparency and accountability. From the Senate halls to the turquoise waters, the call for clarity echoed, a relentless wave threatening to engulf the Secretary in its wake.",
+        "originalSource": "Associated Press",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764781061467-2",
+        "headline": "Invisible Walls",
+        "content": "The gate clicked shut, not with a sound, but with the stroke of a pen. President Trump's administration enacted a stark decree: all immigration applications from 19 non-European nations were suspended. Afghanistan, Somalia, and seventeen others, already burdened by travel bans, now faced an even bleaker horizon. Families dreamt of new lives in America, their hopes now held in a limbo of policy. The 'significant change' was more than bureaucratic; it was a barrier, silent and unyielding, built from paper and decree, reshaping destinies with an unseen hand, pushing distant shores even further away.",
+        "originalSource": "Associated Press",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764781061467-3",
+        "headline": "The Fading Hum of Industry",
+        "content": "A collective gasp swept through economic circles. Last month, the gears of the private sector had ground to a halt for 32,000 workers, a surprising silence replacing the usual hum of productivity. The latest data painted a stark picture of weakening job growth, a tremor in the foundation of the national economy. Analysts immediately turned their gaze to the Federal Reserve, the implicit message clear: a rate cut, once a distant possibility, now loomed large. The market held its breath, wondering if this unexpected dip foreshadowed a deeper chill in the economic air.",
+        "originalSource": "CBS News",
+        "publishedTime": "30 minutes ago"
+      },
+      {
+        "id": "story-1764781061467-4",
+        "headline": "A Seat Held Fast",
+        "content": "The Volunteer State had spoken. In Tennessee's 7th Congressional District, the political landscape shifted, not with upheaval, but with affirmation. Republican Matt Van Epps claimed victory in the hotly contested special election, securing the U.S. House seat. The outcome, though anticipated by many, underscored the district's unwavering allegiance. Cheers erupted from his supporters, a testament to months of campaigning and strategic maneuvering. The seat, a bastion of conservative principles, would remain firmly in Republican hands, a familiar anchor amidst the fluctuating currents of national politics.",
+        "originalSource": "Associated Press",
+        "publishedTime": "14 hours ago"
+      },
+      {
+        "id": "story-1764781061467-5",
+        "headline": "Standoff at the Capitol Clinic",
+        "content": "The air in the Senate crackled with unresolved tension. A crucial bipartisan health care deal, poised to solidify Affordable Care Act tax credits, had stalled. Lawmakers from both sides, once hopeful, now stood entrenched in their positions, their ideological lines drawn deep. The elusive agreement, vital for countless American families, remained just out of reach, a phantom in the Capitol halls. Negotiations had faltered, caught in a partisan deadlock, leaving the future of healthcare reforms in a precarious balance. The political chasm widened, a testament to the difficult dance of compromise.",
+        "originalSource": "CBS News",
+        "publishedTime": "2 minutes ago"
+      }
+    ]
   }
 }
