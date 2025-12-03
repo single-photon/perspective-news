@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764790394063,
+  "timestamp": 1764794778141,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764790325141-0",
-        "headline": "Systemic Failures Lead to Unexpected Decline in Private Payrolls, Hurting Working Families",
-        "content": "The private sector unexpectedly saw job growth decline in November, according to a report from ADP, signaling a concerning cooling in the labor market. This surprising drop highlights deeper systemic issues within the economy that disproportionately impact working families, prompting analysts to scrutinize its implications for future Federal Reserve interest rate policies and the broader economic outlook, which often prioritize corporate interests over worker stability.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764794704649-0",
+        "headline": "Republican Efforts to Undermine Accountability Persist as Jack Smith is Subpoenaed",
+        "content": "In a move widely seen as an attempt to obstruct justice and politicize legal proceedings, House Republicans have issued a subpoena for Special Counsel Jack Smith to appear for a private deposition. This action, targeting investigations into President Trump, comes despite Smith's previous offer to testify transparently in an open hearing, revealing a clear preference for secrecy over public scrutiny in these critical federal inquiries. The ongoing battle intensifies concerns about the weaponization of governmental powers to shield the powerful from accountability.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "7 mins ago"
       },
       {
-        "id": "story-1764790325141-1",
-        "headline": "Families Demand Justice for Alleged Unlawful Killing During President Trump's Administration, Exposing Systemic Impunity",
-        "content": "The family of a Colombian fisherman, who tragically died in an alleged 'drug boat' strike ordered during President Trump's administration, has filed the first formal legal complaint. They assert he was murdered and are seeking a full investigation and accountability for the controversial military operation conducted in the Caribbean, shedding light on the urgent need to address systemic impunity in U.S. foreign policy and military actions.",
-        "originalSource": "ABC News",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764794704649-1",
+        "headline": "President Trump's Pardon of Democratic Official Raises Serious Concerns About Political Influence and Corruption",
+        "content": "President Trump has announced his intent to issue a full pardon to Democratic Representative Henry Cuellar of Texas and his wife, Imelda, who face serious federal charges including bribery and money laundering. This unexpected move, particularly for a political opponent, immediately ignites fears about the potential for presidential pardons to be wielded as tools for political leverage and to undermine the pursuit of justice, rather than for mercy. It highlights systemic vulnerabilities where power can seemingly override accountability for financial misconduct.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1764790325141-2",
-        "headline": "House Committee's Subpoena of Jack Smith Raises Concerns About Politicization of Justice",
-        "content": "Former Special Counsel Jack Smith has been issued a subpoena to provide closed-door testimony before a House committee regarding his past investigations. A lawyer representing Smith has indicated an intent to comply, intensifying political and legal scrutiny on previous Justice Department probes and raising serious concerns about partisan attempts to undermine independent legal processes essential for a functioning democracy.",
+        "id": "story-1764794704649-2",
+        "headline": "President Trump's Administration Threatens Climate Future by Dismantling Vital Fuel Efficiency Standards",
+        "content": "The President Trump administration is preparing to severely weaken federal fuel economy rules for vehicles, an action that directly undermines efforts to combat the accelerating climate crisis. This move, celebrated by auto executives at a White House event, reverses crucial regulations designed to accelerate electric vehicle adoption and drastically cut carbon emissions, exposing a troubling pattern of prioritizing corporate interests and short-term gains over long-term environmental sustainability and public health.",
+        "originalSource": "PBS News / The Washington Post",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-3",
+        "headline": "Defense Secretary Hegseth's Reckless Communication Practices Endanger U.S. Personnel, Watchdog Reports",
+        "content": "A Pentagon watchdog has revealed that Defense Secretary Pete Hegseth's unauthorized use of the encrypted Signal app created a dangerous security lapse, directly jeopardizing U.S. personnel. This breach, uncovered in the wake of his controversial involvement in a military strike, underscores a systemic failure in high-level communication protocols and raises serious questions about accountability and the protection of those serving our nation. It highlights how powerful officials can seemingly disregard critical security measures with potentially severe consequences.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-4",
+        "headline": "DHS Unleashes Aggressive Immigration Enforcement Sting in New Orleans, Raising Civil Liberties Alarms",
+        "content": "The Department of Homeland Security has launched an aggressive immigration enforcement sting operation in New Orleans, part of a troubling series of nationwide sweeps that disproportionately impact vulnerable communities. This action, coming on the heels of a federal judge's ruling limiting warrantless arrests, highlights the government's relentless pursuit of interior enforcement and raises urgent concerns about civil liberties, racial profiling, and the systemic erosion of human rights within the immigration system.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764794704649-5",
+        "headline": "U.S. Economy Sees Unexpected Job Losses, Revealing Fragility for Working Families",
+        "content": "The U.S. economy experienced an unexpected loss of 32,000 private-sector jobs last month, a significant decline that signals a troubling slowdown in the labor market and deepens anxieties for working families. This surprising downturn, far below expert projections, underscores the inherent fragility of an economic system that often prioritizes corporate profits over stable employment, potentially forcing the Federal Reserve to reconsider policies that could further impact everyday Americans.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764790325141-3",
-        "headline": "President Trump's Allies Expose Systemic Plan to Suppress Votes by Eliminating Same-Day Registration",
-        "content": "During a federal voting rights trial, an ally of President Trump's administration reportedly admitted under oath that a key objective was to eliminate same-day voter registration. This testimony provides critical insight into the deliberate legal strategies and goals behind efforts to restrict voter access and manipulate election procedures across the nation, exposing a systemic attack on fundamental democratic rights and access to the ballot box, particularly for marginalized communities.",
-        "originalSource": "The Guardian",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764790325141-4",
-        "headline": "Deepening Turmoil at FDA Threatens Public Health Protections as Drug Chief Signals Departure",
-        "content": "The chief of the Food and Drug Administration's drug center has indicated a potential plan to step down from the role amidst reports of deepening internal turmoil within the regulatory agency. This prospective departure raises significant questions about the stability of leadership and the future trajectory of drug approval and public health policy, highlighting how systemic issues or external pressures can compromise an agency vital for safeguarding public well-being.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764790325141-5",
-        "headline": "President Trump's Pardon of Bribery-Charged Democrat Raises Alarms About Systemic Corruption and Undermining Justice",
-        "content": "President Trump is reportedly moving to pardon Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges. This high-profile use of presidential clemency adds a controversial new layer to the already complex political and legal drama, sparking serious concerns about systemic corruption and the potential for those in power to undermine the justice system, shielding individuals from accountability.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764790325141-0",
-        "headline": "US private payrolls unexpectedly declined in November, ADP says",
-        "content": "Private-sector job growth in the United States unexpectedly fell in November, according to a report from ADP. This surprise drop signals a potential cooling in the labor market, which analysts will be closely watching for implications on future Federal Reserve interest rate policy and the broader economic outlook.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764794704649-0",
+        "headline": "House Republicans Subpoena Jack Smith for Closed-Door Interview",
+        "content": "House Republicans issued a subpoena to Special Counsel Jack Smith for a private deposition concerning his prosecutions of Donald Trump. Smith's lawyer stated the prosecutor had previously offered to appear for an open hearing, but will attend as scheduled. The move further intensifies the political and legal battle over the federal investigations.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "7 mins ago"
       },
       {
-        "id": "story-1764790325141-1",
-        "headline": "Family of victim in alleged Trump 'drug boat' killings files first formal complaint",
-        "content": "The family of a Colombian fisherman who died in an alleged 'drug boat' strike ordered during the Trump administration has filed the first formal legal complaint. They are alleging he was murdered and are seeking a full investigation and accountability for the controversial military operation conducted in the Caribbean.",
-        "originalSource": "ABC News",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764794704649-1",
+        "headline": "Trump Plans to Pardon Democratic Rep. Henry Cuellar and His Wife",
+        "content": "President Trump announced he will issue a full pardon to Democratic Representative Henry Cuellar of Texas and his wife, Imelda, who are facing federal charges including bribery and money laundering. The unexpected pardon of a political opponent has generated significant media attention and sparked immediate political discussion.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1764790325141-2",
-        "headline": "Jack Smith subpoenaed for closed-door testimony before House committee",
-        "content": "Former Special Counsel Jack Smith has been issued a subpoena to provide closed-door testimony before a House committee regarding his past investigations. A lawyer representing Smith has indicated that he intends to comply with the congressional subpoena, intensifying the political and legal spotlight on the previous Justice Department probes.",
+        "id": "story-1764794704649-2",
+        "headline": "Trump Administration Expected to Roll Back Fuel Efficiency Standards for Vehicles",
+        "content": "The Trump administration is poised to significantly weaken federal fuel economy rules for cars and trucks. The action reverses prior regulations that were intended to promote electric vehicle adoption and curb carbon emissions. Auto executives are scheduled to attend the White House event for the rule change announcement.",
+        "originalSource": "PBS News / The Washington Post",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-3",
+        "headline": "Pentagon Watchdog Finds Hegseth’s Signal App Use Put U.S. Personnel at Risk",
+        "content": "A Pentagon watchdog reported that Defense Secretary Pete Hegseth's use of the encrypted messaging app Signal put U.S. personnel in danger. The security lapse was revealed following Hegseth's recent public explanation of his involvement in a controversial military strike. The findings have raised concerns about high-level communication protocols.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-4",
+        "headline": "DHS Launches Immigration Enforcement Sting Operation in New Orleans",
+        "content": "The Department of Homeland Security has initiated an immigration enforcement sweep in New Orleans, part of a wider series of nationwide operations. This latest sting follows a federal judge's ruling that limits warrantless immigration arrests in the D.C. area, underscoring the government's continued focus on interior enforcement.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764794704649-5",
+        "headline": "U.S. Lost 32,000 Private-Sector Jobs Last Month in Surprise Drop",
+        "content": "The U.S. economy unexpectedly shed 32,000 private-sector jobs last month, indicating a potential slowdown in the labor market. The surprise decline is significantly below economists' expectations and could impact upcoming decisions by the Federal Reserve regarding the trajectory of interest rates and monetary policy.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764790325141-3",
-        "headline": "Trump ally admits goal of eliminating same-day registration in federal voting rights trial",
-        "content": "During a federal voting rights trial, an ally of the Trump administration reportedly admitted under oath that one of the objectives was to eliminate same-day voter registration. This testimony provides key insight into the legal strategies and goals behind efforts to change voter access and election procedures across the nation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764790325141-4",
-        "headline": "FDA drug chief signals possible exit as agency turmoil deepens",
-        "content": "The chief of the Food and Drug Administration's drug center has indicated a potential plan to step down from the role, coming amid reports of deepening internal turmoil within the regulatory agency. This prospective departure raises significant questions about the stability of leadership and the future trajectory of drug approval and public health policy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764790325141-5",
-        "headline": "Trump pardoning Rep. Henry Cuellar, a Texas Democrat facing bribery charges",
-        "content": "Former President Donald Trump is reportedly moving to pardon Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges. The action is a high-profile use of presidential clemency, adding a controversial new layer to the already complex political and legal drama surrounding the congressman.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764790325141-0",
-        "headline": "Private Sector Job Growth Stumbles, Signaling Economic Woes for Hardworking Americans.",
-        "content": "A new ADP report reveals a concerning downturn in private sector employment for November, a development that should alarm policymakers. This unexpected decline suggests a weakening labor market, potentially a consequence of burdensome regulations or unchecked government spending that stifles the entrepreneurial spirit. Such economic indicators demand a return to sound, free-market principles to ensure prosperity for all Americans and to avoid further federal intervention in monetary policy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764794704649-0",
+        "headline": "House Republicans Demand Accountability from Politically-Motivated Special Counsel",
+        "content": "In a crucial move to ensure transparency and accountability, House Republicans have issued a subpoena to Special Counsel Jack Smith. This demand for a private deposition stems from concerns regarding his controversial prosecutions of President Trump. While Smith's lawyer indicated the prosecutor had previously offered an open hearing, his attendance as scheduled is now mandated, escalating the necessary oversight of federal investigations and the pursuit of justice.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "7 mins ago"
       },
       {
-        "id": "story-1764790325141-1",
-        "headline": "Families Challenge Essential Anti-Drug Operations Conducted Under President Trump.",
-        "content": "The family of a Colombian fisherman has initiated legal action concerning an anti-drug operation in the Caribbean during the President Trump administration. While tragedies are regrettable, such essential military actions are critical to securing our borders and combating the relentless flow of illegal drugs, which threaten American families. A thorough review of the incident is always appropriate, but we must not allow legitimate efforts to protect our nation from illicit narcotics to be undermined by politically motivated claims.",
-        "originalSource": "ABC News",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764794704649-1",
+        "headline": "President Trump Extends Unexpected Pardon to Democratic Congressman",
+        "content": "Demonstrating his unwavering commitment to fair justice and individual liberty, President Trump announced he will issue a full pardon to Democratic Representative Henry Cuellar of Texas and his wife, Imelda. They face federal charges, including bribery and money laundering. This decisive action, particularly for a political opponent, underscores President Trump's unique approach to leadership and has generated significant public attention and immediate political discussion about the justice system.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1764790325141-2",
-        "headline": "House Demands Accountability from Jack Smith Regarding Politically Charged Investigations.",
-        "content": "The House committee has rightly issued a subpoena for Special Counsel Jack Smith to testify behind closed doors about his previous investigations. This essential act of congressional oversight signals a commitment to transparency and accountability, ensuring that the Justice Department’s actions are subject to proper scrutiny, especially concerning probes that many view as politically motivated. Smith’s intention to comply is a step towards revealing the full truth and restoring public trust in our legal institutions.",
+        "id": "story-1764794704649-2",
+        "headline": "President Trump's Administration Rolls Back Costly Fuel Regulations",
+        "content": "In a victory for American consumers and industry, the President Trump administration is poised to significantly weaken federal fuel economy rules for cars and trucks. This principled action reverses prior regulations that burdened manufacturers and consumers, which were intended to promote electric vehicle adoption and curb carbon emissions. Auto executives are scheduled to attend the White House event for the rule change announcement, signaling a return to common-sense economic policies.",
+        "originalSource": "PBS News / The Washington Post",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-3",
+        "headline": "Pentagon Report Reveals Security Lapse from Secretary Hegseth's App",
+        "content": "A recent report from a Pentagon watchdog has revealed that Defense Secretary Pete Hegseth's use of the encrypted messaging app Signal potentially put U.S. personnel in danger. This security lapse came to light following Hegseth's public explanation of his involvement in a controversial military strike. The findings raise serious concerns about high-level communication protocols and underscore the critical importance of adhering to stringent security measures to protect our nation's finest.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-4",
+        "headline": "DHS Intensifies Immigration Enforcement Operations, Upholding Law",
+        "content": "The Department of Homeland Security has initiated a targeted immigration enforcement sweep in New Orleans, part of a wider series of nationwide operations designed to uphold the rule of law. This decisive action follows a federal judge's ruling that attempted to limit warrantless immigration arrests in the D.C. area, underscoring the government's unwavering focus on interior enforcement to secure our borders and protect American communities from the consequences of unchecked illegal immigration.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764794704649-5",
+        "headline": "U.S. Economy Sees Alarming Loss of Private Sector Jobs",
+        "content": "The U.S. economy unexpectedly shed 32,000 private-sector jobs last month, indicating a potential slowdown in the labor market. This surprise decline is significantly below economists' expectations and could impact upcoming decisions by the Federal Reserve regarding the trajectory of interest rates and monetary policy, raising concerns about the nation's economic stability and future prosperity.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764790325141-3",
-        "headline": "President Trump Ally Advocates for Election Integrity, Seeks to Bolster Voting Security.",
-        "content": "In a federal voting rights trial, a supporter of President Trump candidly discussed efforts to refine election procedures, including potentially phasing out same-day voter registration. This stance underscores a crucial commitment to election integrity, ensuring that every legal vote counts and preventing opportunities for fraud. Safeguarding the sanctity of our electoral process through secure and verifiable procedures is paramount to maintaining public confidence in our democratic institutions.",
-        "originalSource": "The Guardian",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764790325141-4",
-        "headline": "FDA Turmoil Deepens as Drug Chief Considers Departure Amid Bureaucratic Inefficiency.",
-        "content": "Reports indicate the head of the FDA’s drug center may soon depart, a development that highlights growing internal disarray within the agency. This potential leadership vacuum at such a critical regulatory body raises serious questions about the efficiency and direction of drug approvals and public health policy. Such instability underscores the urgent need for fundamental reforms to streamline bureaucratic processes and ensure the FDA remains focused on its core mission without undue political or internal distractions.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764790325141-5",
-        "headline": "President Trump Exercises Constitutional Prerogative, Considers Pardon for Congressman Cuellar.",
-        "content": "President Trump is reportedly weighing the use of his constitutional pardon power for Texas Democratic Representative Henry Cuellar, who faces serious federal bribery and money laundering accusations. This exercise of presidential clemency, a crucial check within our system of government, underscores the significant authority of the office. While the charges against Congressman Cuellar are grave, President Trump's consideration of a pardon adds a notable dimension to the ongoing legal and political narrative, demonstrating his willingness to make decisive leadership choices.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764790325141-0",
-        "headline": "Nation's Payrolls Take Personal Day, Economy Reportedly Unfazed",
-        "content": "The United States private sector jobs unexpectedly decided to collectively 'ghost' their employers in November, according to a baffled ADP report. This surprise mass resignation from the workforce is now being hailed as a 'potential cooling' of the labor market, with analysts preparing to watch this economic nap unfold. Experts are eagerly awaiting the implications for future Federal Reserve interest rate policies and whether the broader economy will ever wake up.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764794704649-0",
+        "headline": "House Republicans Courageously Subpoena Special Counsel Jack Smith to Secretly Chat Where No One Can Hear Anything",
+        "content": "After valiantly offering to testify publicly, Special Counsel Jack Smith has now been heroically compelled by House Republicans to meet in a broom closet, presumably to discuss his extremely public prosecutions of President Trump away from prying ears. This daring move ensures the political and legal battles can rage on in the darkest corners of the Capitol, preserving everyone's right to speculate wildly about what isn't being said.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "7 mins ago"
       },
       {
-        "id": "story-1764790325141-1",
-        "headline": "Family of Caribbean 'Boating Enthusiast' Demands Answers After Unexpected Underwater Excursion Ordered by President Trump",
-        "content": "The family of a Colombian fisherman, who tragically became one with the ocean during an alleged 'drug boat' strike ordered by President Trump, has filed the very first formal legal complaint. They are steadfastly alleging he was 'murdered' and are now seeking a full investigation and accountability for the highly controversial military operation conducted in the idyllic Caribbean. Apparently, not everyone appreciates a surprise maritime adventure.",
-        "originalSource": "ABC News",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764794704649-1",
+        "headline": "President Trump, In Shocking Display of Unconditional Love, to Pardon Democratic Opponent and His Wife",
+        "content": "In a move that has political pundits furiously consulting their astrology charts, President Trump has declared he will bestow a full pardon upon Democratic Representative Henry Cuellar of Texas and his wife, Imelda, who were previously accused of such trifling matters as bribery and money laundering. This unprecedented act of bipartisan generosity—or perhaps an advanced political maneuver beyond mortal comprehension—has left everyone wondering if President Trump is now collecting political opponents like Pokémon, or if he just really enjoys confusing the media.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1764790325141-2",
-        "headline": "Special Counsel Jack Smith Prepares for Epic Tell-All, But Only If No One's Looking",
-        "content": "Former Special Counsel Jack Smith has been formally invited to a top-secret, closed-door 'chat' with a House committee regarding his previous investigative endeavors. A lawyer representing Smith has indicated that he intends to comply with this congressional subpoena, intensifying the political and legal spotlight on probes no one is supposed to be able to see. Insiders report Smith is practicing his most enigmatic expressions for the highly exclusive event.",
+        "id": "story-1764794704649-2",
+        "headline": "President Trump Administration Courageously Liberates Vehicles From Tyranny of \"Efficiency\" Standards",
+        "content": "Breaking free from the shackles of eco-friendliness, the President Trump administration is set to heroically dismantle federal fuel economy rules, allowing cars and trucks to once again bask in their natural, gas-guzzling glory. This bold reversal of regulations, previously designed to promote those pesky electric vehicles and curb carbon emissions, has been hailed as a triumph for \"freedom to pollute\" enthusiasts everywhere. Auto executives, presumably weeping tears of joy, are expected to attend the White House announcement, ready to toast a future where the only thing that matters is how quickly you can empty a tank.",
+        "originalSource": "PBS News / The Washington Post",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-3",
+        "headline": "Defense Secretary Pete Hegseth's \"Secret\" App Use Accidentally Reveals Military Secrets to Everyone",
+        "content": "A Pentagon watchdog has bravely confirmed what many suspected: Defense Secretary Pete Hegseth’s innovative use of the supposedly \"encrypted\" Signal app somehow managed to put U.S. personnel in more danger than if he had just shouted classified information from a rooftop. The security lapse came to light only after Hegseth's recent, incredibly detailed public explanation of a controversial military strike, leaving experts to wonder if the app was merely a prop and his real communication method was interpretive dance. Concerns about high-level communication protocols have now escalated to \"maybe just use two tin cans and a string, please.\"",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-4",
+        "headline": "DHS Unleashes Elite Stealth Squad for Highly Visible \"Sting\" Operation in New Orleans",
+        "content": "In a move that has residents both bewildered and mildly entertained, the Department of Homeland Security has rolled out its crack team of agents for an \"immigration enforcement sweep\" in New Orleans, proving once again that if you can't conduct warrantless arrests in D.C., you can always just go to Louisiana. This latest, spectacularly public \"sting\" operation is part of a grander national strategy to ensure that while some areas might enjoy the pesky luxury of judicial oversight, others can still experience the thrilling unpredictability of interior enforcement at its finest.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764794704649-5",
+        "headline": "Economy Achieves Unprecedented Efficiency by Eliminating 32,000 Jobs in Brilliant Surprise Move",
+        "content": "In a stunning display of economic wizardry, the U.S. economy last month \"unexpectedly\" shed a remarkable 32,000 private-sector jobs, baffling economists who were apparently expecting *more* people to be employed. This unprecedented \"decline,\" hailed by some as a bold new strategy for reducing the national carbon footprint by having fewer people commute, has left the Federal Reserve with absolutely no idea what to do next. Experts now suggest that losing jobs is merely the economy's way of telling us it needs a \"personal day\" before deciding on interest rates.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764790325141-3",
-        "headline": "President Trump Ally Accidentally Reveals Secret Plan To Make Voting More Like Buying Concert Tickets Online",
-        "content": "During a federal voting rights trial that was supposed to be about, well, voting rights, a surprisingly candid ally of President Trump reportedly admitted under oath that one of the objectives was to eliminate same-day voter registration. This stunningly transparent testimony provides key insight into the legal strategies and goals behind efforts to 'streamline' voter access and election procedures across the nation by making them slightly less accessible at the last minute.",
-        "originalSource": "The Guardian",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764790325141-4",
-        "headline": "FDA Drug Chief Seen Packing Belongings in a Cardboard Box Labeled 'Urgent Escape Plan'",
-        "content": "The beleaguered chief of the Food and Drug Administration's drug center has reportedly signaled a potential plan to step down from their role, coming amid reports of deepening internal turmoil that suggests the agency is currently being run by a flock of very confused pigeons. This prospective departure raises significant questions about the stability of leadership and whether the future trajectory of drug approval will now be decided by a Ouija board.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764790325141-5",
-        "headline": "In Unprecedented Display of Bi-Partisan Generosity, President Trump Forgives Accused Democrat's 'Financial Misunderstandings'",
-        "content": "President Trump is reportedly moving to pardon Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges, because nothing says 'unity' like a presidential pardon for a political opponent. This action, a high-profile use of presidential clemency, adds a gloriously controversial new layer to the already hilariously complex political and legal drama surrounding the congressman. Analysts are calling it the most confusing plot twist of the century.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
+        "publishedTime": "Last 24 hours"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764790325141-0",
-        "headline": "Fewer Grown-Ups Got New Jobs Last Month",
-        "content": "A report says that fewer grown-ups got new jobs in November than people thought. This might mean that the job market is slowing down a bit. Grown-ups who study money will watch this closely to see if it changes how the government sets interest rates.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764794704649-0",
+        "headline": "Republicans Want Jack Smith to Answer Questions Privately",
+        "content": "Republicans in the House of Representatives want to ask Jack Smith some questions. He is a special lawyer who is looking into things President Trump did. They want to talk to him in a private meeting, not in public. Jack Smith's lawyer said he offered to talk in public before, but he will still go to the private meeting. This whole thing makes the arguments about these investigations even bigger.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "7 mins ago"
       },
       {
-        "id": "story-1764790325141-1",
-        "headline": "A Family Believes Their Dad Was Hurt by a Military Boat",
-        "content": "The family of a fisherman from Colombia says their dad died because of a military boat action that happened when President Trump was in charge. They think he was killed and want everyone to find out what really happened and who is responsible for what happened in the ocean.",
-        "originalSource": "ABC News",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764794704649-1",
+        "headline": "President Trump Says He Will Forgive a Democrat and His Wife",
+        "content": "President Trump said he will completely forgive a politician named Henry Cuellar and his wife, Imelda. They are a Democrat from Texas. They are in trouble with the government for things like taking bribes and moving money illegally. It's a big surprise that President Trump would forgive someone from a different political team, and many people are talking about it.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1764790325141-2",
-        "headline": "A Special Lawyer Has Been Asked to Talk to Congress",
-        "content": "A special lawyer named Jack Smith has been told he has to come and talk to a group in Congress, but it will be a private meeting. His lawyer says he will go. This means more attention is being put on the old investigations he worked on for the government.",
+        "id": "story-1764794704649-2",
+        "headline": "President Trump's Team Might Change Car Gas Rules",
+        "content": "President Trump's team is probably going to make the rules for how much gas cars and trucks use much weaker. Before, the rules wanted cars to use less gas and for more people to buy electric cars. They also wanted to help stop bad air pollution. Now, these old rules might change. Car company bosses are going to be at the White House when President Trump announces the changes.",
+        "originalSource": "PBS News / The Washington Post",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-3",
+        "headline": "A Report Says a Top Official's Phone App Put People in Danger",
+        "content": "Someone who watches over the Pentagon (that's where the military leaders work) said that a top official named Pete Hegseth used a secret messaging app called Signal. This app use caused American military people to be in danger. This problem came out after Hegseth talked about something he did with a military attack. People are now worried about how important people in the government talk to each other.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-4",
+        "headline": "Government Starts Big Operation to Find Immigrants in New Orleans",
+        "content": "The Department of Homeland Security (DHS), which handles things like borders, has started a big operation in New Orleans to find people who are living there without permission. This is part of many similar operations happening all over the country. This new search comes after a judge said the government can't just arrest immigrants without a special paper in one area. This shows the government is still serious about finding people inside the country.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764794704649-5",
+        "headline": "America Lost Many Jobs Last Month, Which Was a Big Surprise",
+        "content": "Last month, businesses in America actually lost 32,000 jobs. This was a really big surprise because experts thought more jobs would be added, not lost. This could mean that the job market is slowing down. This unexpected news might make important people at the Federal Reserve (who decide about money) think differently about what to do next with interest rates.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764790325141-3",
-        "headline": "A Friend of President Trump Said They Wanted to Stop Same-Day Voting",
-        "content": "In a big court case about voting rules, someone who works with President Trump said that one of their ideas was to stop people from being able to sign up to vote and vote on the very same day. This shows what some people were trying to do to change how people vote in elections.",
-        "originalSource": "The Guardian",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764790325141-4",
-        "headline": "The Main Boss for Medicines Might Leave His Job",
-        "content": "The main person in charge of medicines at the government's food and drug agency might be leaving their job. This is happening because there are reports that things inside the agency are getting messy. If they leave, it makes people wonder who will be in charge and how new medicines will get approved to help people.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764790325141-5",
-        "headline": "President Trump Might Forgive a Politician with Problems",
-        "content": "It looks like President Trump might forgive a politician from Texas named Henry Cuellar. This politician is accused of taking bribes and other money problems. Forgiving someone like this is a very big deal for a President to do and makes the situation around the politician even more complicated.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764790325141-0",
-        "headline": "The November Chill in the Marketplace",
-        "content": "The economic forecast shifted, a sudden, unexpected chill. ADP’s report arrived, a whisper of decline in the private sector’s robust heart. Job growth, once steady, stumbled in November, a surprise that rippled through financial districts. Analysts squinted at screens, dissecting data, wondering what this cooling labor market truly meant. Would the Federal Reserve adjust its delicate dance with interest rates? The broader economic outlook, a vast, intricate tapestry, seemed to hold its breath. A single data point, yet it cast a long shadow, hinting at an uncertain path ahead for the nation's financial pulse.",
-        "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "id": "story-1764794704649-0",
+        "headline": "The Shadow Play in the Capitol Halls",
+        "content": "The subpoena landed like a gauntlet thrown, demanding Special Counsel Jack Smith's presence behind closed doors. House Republicans, their intentions clear as the morning sun, sought answers regarding his relentless pursuit of President Trump. Smith's legal team bristled, reminding the public that their client had offered to speak openly, under the unfiltered gaze of the nation. Yet, the demand for secrecy prevailed. This wasn't just an inquiry; it was a move in a high-stakes chess match, a political and legal skirmish intensifying with every passing day. The Capitol's marble halls whispered of power, and of the battles waged far from public view.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "7 mins ago"
       },
       {
-        "id": "story-1764790325141-1",
-        "headline": "Whispers from the Caribbean Sea",
-        "content": "The sea, a silent witness, held its secrets, but a family's grief could not be contained. From Colombia, a formal complaint emerged, echoing across the Caribbean waves. They spoke of a fisherman, lost to an alleged 'drug boat' strike, an operation ordered during President Trump’s administration. Murder, they cried, demanding justice for a life extinguished. The controversial military action, shrouded in the depths of official records, was now dragged into the light. A family’s unwavering resolve sought answers, accountability, and truth for the man taken too soon, his memory clinging to the salty air.",
-        "originalSource": "ABC News",
-        "publishedTime": "7 hours ago"
+        "id": "story-1764794704649-1",
+        "headline": "An Unexpected Hand Across the Aisle",
+        "content": "The announcement echoed through the news cycles, a political earthquake. President Trump declared his intention to issue a full pardon to Democratic Representative Henry Cuellar of Texas and his wife, Imelda. Facing a litany of federal charges, including serious allegations of bribery and money laundering, their future had seemed bleak. But the President’s surprising decision, extending clemency to an ideological opponent, ignited a firestorm of speculation and debate. It was an unprecedented move, a ripple across the political landscape, leaving pundits scrambling to decipher the true motivations behind such an extraordinary act of mercy.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1764790325141-2",
-        "headline": "The Echoes of Past Investigations",
-        "content": "A formal summons arrived, a heavy parchment demanding presence. Jack Smith, once the orchestrator of intricate probes, was called to a closed-door chamber of the House. His previous investigations, now ghosts of the past, would be re-examined under a harsh congressional light. A lawyer’s calm assurance confirmed his compliance; Smith would face the scrutiny. The political and legal spotlight, ever-present, intensified, illuminating the shadows of Justice Department undertakings. Each word spoken, each document reviewed, would resonate, potentially altering the landscape of ongoing debates. The past, it seemed, was never truly buried.",
+        "id": "story-1764794704649-2",
+        "headline": "The Engine's New Roar",
+        "content": "A shift was underway, promising to reshape the automotive landscape. The President Trump administration, with a decisive stroke, prepared to dismantle federal fuel economy regulations. These stringent rules, once champions of electric vehicle adoption and guardians against carbon emissions, were now slated for significant weakening. Invitations had already been extended, and auto executives, their smiles betraying relief, eagerly anticipated the White House event where this dramatic rule change would be unveiled. The air thrummed with the promise of roaring engines and a departure from the eco-conscious path, signaling a new direction for America's roads.",
+        "originalSource": "PBS News / The Washington Post",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-3",
+        "headline": "Whispers in the Digital Fog",
+        "content": "The report landed with a chilling thud. A Pentagon watchdog confirmed that Defense Secretary Pete Hegseth's reliance on the encrypted Signal app had cast a shadow over U.S. personnel, potentially placing them in grave danger. This alarming security lapse surfaced in the aftermath of Hegseth's candid explanations regarding his role in a controversial military strike. The digital whispers, intended for security, had instead opened a vulnerability. Now, hushed conversations filled the corridors, questioning the very foundations of high-level communication protocols, demanding answers on how such critical information could be so carelessly exposed.",
+        "originalSource": "PBS News / Associated Press",
+        "publishedTime": "57 mins ago"
+      },
+      {
+        "id": "story-1764794704649-4",
+        "headline": "The Crescent City's Shadow",
+        "content": "A new wave of enforcement swept through New Orleans, a chilling echo of nationwide operations by the Department of Homeland Security. Streets that once vibrated with jazz now held a palpable tension as immigration officers conducted their sweeps. This latest sting, however, carried an ironic twist, following closely on the heels of a federal judge's ruling that had curtailed warrantless arrests in the D.C. area. The contrast highlighted a stark truth: despite judicial checks, the government’s resolve for interior enforcement remained unwavering, casting a long shadow over the vibrant life of the Crescent City.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764794704649-5",
+        "headline": "The Unseen Hand of the Market",
+        "content": "A whisper of concern rippled through financial districts. Last month, the U.S. economy had unexpectedly shed 32,000 private-sector jobs, a number far below the most cautious of economists' predictions. It was a stark signal, suggesting a potential, unwelcome slowdown in the once-robust labor market. This surprising decline sent shivers down the spines of analysts, knowing its profound implications. The Federal Reserve, their gaze fixed on these shifting sands, would soon grapple with the trajectory of interest rates and the delicate balance of monetary policy, their next moves shadowed by this unforeseen contraction.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764790325141-3",
-        "headline": "A Confession in the Courtroom's Glare",
-        "content": "The courtroom hushed, witnesses leaning forward as the truth unfurled. Under the weight of an oath, an ally of President Trump’s administration made a stunning admission. Their objective, he confessed, was clear: to dismantle same-day voter registration. The words hung in the air, a stark revelation during the federal voting rights trial. This testimony offered an unvarnished glimpse into the strategic machinations behind efforts to reshape voter access. It pulled back the curtain on the subtle, yet profound, attempts to alter election procedures, revealing the bedrock intentions beneath layers of legal rhetoric.",
-        "originalSource": "The Guardian",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1764790325141-4",
-        "headline": "The Shifting Sands of Regulatory Power",
-        "content": "A tremor ran through the FDA’s drug center. Its chief, a pillar of stability, hinted at departure, a quiet signal amid escalating internal discord. Whispers of turmoil had grown louder, painting a picture of an agency grappling with unseen forces. His potential exit, if realized, would cast a long shadow over the regulatory landscape. Significant questions emerged, swirling around leadership stability and the very future of drug approval processes. Public health policy, a delicate balance, seemed poised on shifting sands, its trajectory uncertain without a steady hand at the helm.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764790325141-5",
-        "headline": "The Unexpected Hand of Clemency",
-        "content": "A surprising decree echoed from the highest office. President Trump, exercising the profound power of clemency, was reportedly set to pardon Representative Henry Cuellar, a Texas Democrat. The congressman faced grave federal charges: bribery and money laundering. This presidential act, a rare and potent maneuver, injected a controversial new chapter into an already convoluted narrative. Political drama, entangled with legal battles, now gained another layer of complexity. The decision, both bold and divisive, highlighted the immense, often unpredictable, reach of presidential authority, leaving many to ponder its true implications.",
-        "originalSource": "CBS News",
-        "publishedTime": "Latest"
+        "publishedTime": "Last 24 hours"
       }
     ]
   }
