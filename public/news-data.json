@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764801704976,
+  "timestamp": 1764804751666,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764801632328-0",
-        "headline": "Trump Administration's Latest Immigration Raids Threaten Families and Communities in New Orleans",
-        "content": "The Trump administration is once again deploying federal agents to New Orleans, escalating its national crackdown on undocumented immigrants. This aggressive move, which targets vulnerable communities, reflects a broader pattern of policies that destabilize families and ignore the root causes of migration. Critics are also condemning the administration's discriminatory immigration halt affecting 19 non-European countries, underscoring a troubling bias in its approach to human mobility and global crises.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2h ago"
+        "id": "story-1764804679290-0",
+        "headline": "President Trump's Pardon of Representative Henry Cuellar Raises Serious Questions About Systemic Corruption and Equal Justice",
+        "content": "President Trump has controversially issued a pardon for Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges. This high-profile act of presidential clemency amidst an ongoing investigation into Cuellar's alleged financial misconduct, involving Azerbaijan and a Mexican bank, threatens to undermine the integrity of our justice system. The pardon effectively grants him immunity from prosecution for these alleged crimes, allowing powerful figures to potentially evade accountability for systemic corruption.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-1",
-        "headline": "President Trump's Pardon of Representative Cuellar Raises Serious Questions About Accountability for Political Corruption",
-        "content": "In a move that has ignited immediate controversy, President Trump has granted a pardon to Texas Representative Henry Cuellar, a Democrat previously indicted on federal bribery, money laundering, and conspiracy charges. This decision underscores a troubling pattern where political power can shield individuals from accountability for alleged systemic corruption, further eroding public trust in the justice system and raising concerns about who truly benefits from such executive actions.",
-        "originalSource": "AP News",
+        "id": "story-1764804679290-1",
+        "headline": "President Trump's Administration Escalates Harmful Immigration Raids in New Orleans, Targeting Vulnerable Communities",
+        "content": "President Trump's administration has launched a new, concerning phase of its immigration enforcement campaign with targeted operations in New Orleans. This crackdown is part of a broader federal effort against undocumented immigrants, often leading to family separations and community fear under the guise of 'border security.' Local advocates for immigrant rights have vehemently condemned these actions, highlighting the severe human rights implications and the systemic targeting of already vulnerable populations, rather than addressing root causes of migration.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2025-12-03"
+      },
+      {
+        "id": "story-1764804679290-2",
+        "headline": "Epstein's Banking Records and Island Photos Deepen Questions About Elite Complicity in Sex Trafficking Network",
+        "content": "Congressional lawmakers have reportedly secured key banking records related to the late financier Jeffrey Epstein's extensive financial activities, alongside the public release of new images from his private Caribbean island, Little St. James. These crucial releases are part of an ongoing congressional investigation seeking to expose the full extent of Epstein's network and his alleged sex trafficking ring, demanding accountability for powerful associates who benefited from or enabled these horrific crimes. The focus remains on dismantling the systemic protections that allowed such an abuser and his collaborators to operate with impunity for so long.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764804679290-3",
+        "headline": "Corporate Buyout of Denny's Leads to 150 Closures, Exposing Capitalism's Disregard for Workers and Communities",
+        "content": "Denny's, the popular American diner chain, is slated to close approximately 150 locations across the United States following a $620 million buyout, a stark reminder of capitalism's often ruthless impact. The closures, expected by the end of 2025 as part of a 'restructuring plan' by the new ownership, will significantly impact countless employees facing job loss and disrupt the communities served by these long-standing establishments. This decision underscores how corporate financial maneuvers frequently prioritize profit over the livelihoods of working people and community stability.",
+        "originalSource": "Syracuse.com / People.com",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764804679290-4",
+        "headline": "Over One Million Bags of Shredded Cheese Recalled Due to Metal Contamination, Highlighting Failures in Corporate Oversight and Food Safety Regulations",
+        "content": "Over one million bags of shredded cheese, distributed to Walmart and other major retailers, have been recalled by the FDA due to potential metal contamination. This massive recall, issued after reports indicated the cheese may contain fragments of metal posing a significant risk to consumer safety, reveals systemic failures in corporate quality control and regulatory oversight. Customers are advised to discard the product immediately, underscoring the urgent need for stricter food safety standards and greater accountability for corporations that endanger public health through negligence.",
+        "originalSource": "CBS News",
+        "publishedTime": "2H ago"
+      },
+      {
+        "id": "story-1764804679290-5",
+        "headline": "Rising Norovirus Cases Expose Gaps in Public Health Infrastructure and Highlight Systemic Inequalities in Health Preparedness",
+        "content": "Health officials are warning the public about a significant uptick in highly contagious norovirus cases across the U.S., particularly in the Midwest, revealing critical weaknesses in our public health infrastructure. While doctors anticipate the 'winter vomiting disease' to peak early, the widespread transmission is exacerbated by systemic issues such as inadequate access to healthcare, lack of paid sick leave, and disparities in hygiene resources for underserved communities. This outbreak underscores the urgent need for robust public health funding and equitable policies to protect all citizens, not just individual hygiene practices.",
+        "originalSource": "WXYZ Channel 7 / NBC News",
         "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764801632328-2",
-        "headline": "Pentagon Report Confirms Defense Secretary Hegseth Jeopardized Troop Safety Through Reckless Use of Encrypted Messaging",
-        "content": "A recent Pentagon watchdog report has reportedly concluded that Defense Secretary Pete Hegseth violated established regulations by utilizing the encrypted messaging app Signal to discuss sensitive operational details regarding Yemen. This alarming breach of protocol not only demonstrates a disregard for security measures but also potentially endangered military personnel, highlighting a systemic failure in accountability and leadership when it comes to protecting classified information and the lives of those serving.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764801632328-3",
-        "headline": "New Evidence in Epstein Investigation Reveals More About a Network of Exploitation and Systemic Failures to Protect Victims",
-        "content": "House Democrats on the Oversight Committee have released a disturbing trove of never-before-seen images of Jeffrey Epstein's private Caribbean island, Little Saint James, alongside newly acquired banking records. This ongoing investigation continues to peel back layers of a horrifying network that enabled a wealthy sex offender, underscoring systemic failures to protect vulnerable individuals and demanding a full accounting of all who facilitated his egregious crimes.",
-        "originalSource": "CBS News",
-        "publishedTime": "33 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-4",
-        "headline": "Doctor's Sentence in Matthew Perry's Death Highlights Deeper Systemic Failures in Pharmaceutical Oversight and Addiction Care",
-        "content": "Salvador Plasencia, the doctor implicated in supplying the ketamine that tragically led to actor Matthew Perry's death, has been sentenced to 30 months in federal prison alongside his assistant for their role in distributing the controlled substance. While this sentence addresses individual culpability, it also calls attention to the wider systemic issues within pharmaceutical distribution and healthcare regulation, which often fail to prevent the deadly flow of controlled substances and adequately support those struggling with addiction.",
-        "originalSource": "CBS News",
-        "publishedTime": "32 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-5",
-        "headline": "President Trump's Plan to Gut Fuel Economy Standards Threatens Environmental Health and Undermines Climate Action",
-        "content": "The Trump administration has proposed new rules designed to drastically weaken the crucial vehicle fuel economy standards and emissions targets enacted by the Biden administration in 2024 for light-duty vehicles. This regressive move represents a significant setback for environmental protection and public health, prioritizing corporate profits over the urgent need to address the escalating climate crisis and reduce harmful pollution impacting communities nationwide.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 minutes ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764801632328-0",
-        "headline": "Federal agents prepare to launch immigration crackdown in New Orleans",
-        "content": "The Trump administration has begun an immigration crackdown, with federal agents preparing to launch operations in New Orleans, targeting undocumented immigrants in the area as part of a wider national effort. The move comes as lawmakers decry a related immigration halt for 19 non-European countries.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2h ago"
-      },
-      {
-        "id": "story-1764801632328-1",
-        "headline": "Trump pardons Texas Democratic Rep. Cuellar in bribery and conspiracy case",
-        "content": "Former President Donald Trump has granted a pardon to Texas Representative Henry Cuellar, a Democrat who was indicted last year on federal bribery, money laundering, and conspiracy charges, drawing immediate criticism from some political observers.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764801632328-2",
-        "headline": "Pentagon watchdog finds Hegseth's Signal chat violated regulations, sources say",
-        "content": "A Pentagon watchdog report concluded that Defense Secretary Pete Hegseth violated regulations by using the encrypted messaging app Signal to share sensitive details about operations in Yemen, potentially putting troops in danger, according to sources familiar with the findings.",
+        "id": "story-1764804679290-0",
+        "headline": "Trump pardons Rep. Henry Cuellar, a Texas Democrat facing bribery charges",
+        "content": "President Trump has issued a pardon for Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges. The move is a high-profile use of presidential clemency amidst an ongoing investigation into Cuellar's alleged financial misconduct involving Azerbaijan and a Mexican bank. The pardon grants him immunity from prosecution for the alleged crimes.",
         "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-3",
+        "id": "story-1764804679290-1",
+        "headline": "Trump administration begins immigration crackdown in New Orleans",
+        "content": "The Trump administration has launched a new phase of its immigration enforcement campaign with targeted operations in New Orleans. This crackdown is part of a broader federal effort against undocumented immigrants suspected of various violations. Officials state the operation is necessary to maintain border security and enforce existing laws, sparking concern among local advocates for immigrant rights.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2025-12-03"
+      },
+      {
+        "id": "story-1764804679290-2",
         "headline": "Lawmakers obtain Epstein banking records, release new photos of private island",
-        "content": "House Democrats on the Oversight Committee released never-before-seen images of Jeffrey Epstein's private Caribbean island, Little Saint James, along with newly obtained banking records as part of their ongoing investigation into the late sex offender's finances and network.",
+        "content": "Congressional lawmakers have reportedly secured key banking records related to the late financier Jeffrey Epstein's financial activities. Simultaneously, new images of Epstein's private Caribbean island, Little St. James, have been made public. These releases are part of the ongoing congressional investigation into the extent of Epstein's network and his alleged sex trafficking ring, seeking accountability for his associates.",
         "originalSource": "CBS News",
-        "publishedTime": "33 minutes ago"
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-4",
-        "headline": "Doctor charged in Matthew Perry's death sentenced to 30 months in prison",
-        "content": "Salvador Plasencia, the doctor charged with supplying the ketamine that caused actor Matthew Perry's death, along with his assistant, has been sentenced to 30 months in federal prison for his role in distributing the controlled substance.",
-        "originalSource": "CBS News",
-        "publishedTime": "32 minutes ago"
+        "id": "story-1764804679290-3",
+        "headline": "Major restaurant chain closing 150 locations after $620 million buyout",
+        "content": "Denny's, the popular American diner chain, is slated to close approximately 150 locations across the United States following a $620 million buyout. The closures are expected to be finalized by the end of 2025 as part of a restructuring plan by the new ownership. This decision will significantly impact employees and communities served by the long-standing breakfast and dinner establishment.",
+        "originalSource": "Syracuse.com / People.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1764801632328-5",
-        "headline": "Trump moves to roll back fuel economy standards set under Biden",
-        "content": "The Trump administration proposed new rules that aim to significantly weaken the stringent vehicle fuel economy standards and emissions targets that were previously established by the Biden administration in 2024 for light-duty vehicles.",
+        "id": "story-1764804679290-4",
+        "headline": "Shredded cheese sold at Walmart and other stores recalled due to metal",
+        "content": "Over one million bags of shredded cheese, distributed to Walmart and other major retailers, have been recalled by the FDA due to potential contamination. The recall was issued after reports indicated the cheese may contain fragments of metal, posing a significant risk to consumer safety. Customers are advised to discard the product immediately to prevent injury.",
         "originalSource": "CBS News",
-        "publishedTime": "3 minutes ago"
+        "publishedTime": "2H ago"
+      },
+      {
+        "id": "story-1764804679290-5",
+        "headline": "Cases of fast-moving stomach bug norovirus rise across U.S.",
+        "content": "Health officials are warning the public about a significant uptick in norovirus cases, a highly contagious stomach bug, across the U.S. and particularly in the Midwest. Doctors anticipate the virus, often dubbed the 'winter vomiting disease,' to peak early this season. Citizens are urged to practice enhanced hygiene to limit the rapid, widespread transmission.",
+        "originalSource": "WXYZ Channel 7 / NBC News",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764801632328-0",
-        "headline": "President Trump's Administration Takes Decisive Action to Secure Our Borders in New Orleans",
-        "content": "Federal agents, under the decisive leadership of President Trump's administration, are now preparing to launch crucial operations in New Orleans. This vital effort targets individuals who have entered our nation illegally, upholding the rule of law and protecting American communities, as part of a much-needed national initiative. This necessary action proceeds despite some lawmakers' unfortunate attempts to undermine efforts to control immigration from certain countries.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2h ago"
+        "id": "story-1764804679290-0",
+        "headline": "President Trump Exercises Constitutional Authority by Pardoning Representative Cuellar",
+        "content": "In a significant demonstration of presidential clemency, President Trump has pardoned Texas Democratic Representative Henry Cuellar, who was confronting federal charges related to bribery and money laundering. This decisive action underscores the President's constitutional power amidst an ongoing investigation into Cuellar's alleged financial dealings with entities including Azerbaijan and a Mexican bank. The pardon ensures Representative Cuellar's immunity from further prosecution, reaffirming the Executive's role in the justice system.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-1",
-        "headline": "President Trump Exercises Constitutional Authority, Pardons Texas Representative Cuellar Amidst Charges",
-        "content": "President Trump has commendably exercised his constitutional pardon power, granting clemency to Texas Representative Henry Cuellar, a Democrat. Representative Cuellar had faced federal charges of bribery, money laundering, and conspiracy. This decisive act by President Trump, while predictably drawing partisan criticism, highlights the importance of executive discretion in our justice system.",
-        "originalSource": "AP News",
+        "id": "story-1764804679290-1",
+        "headline": "President Trump's Administration Reinforces Rule of Law with New Orleans Immigration Enforcement",
+        "content": "President Trump's administration has initiated a crucial new phase of immigration enforcement through targeted operations in New Orleans. This robust federal effort is vital for securing our borders and upholding the nation's existing laws against illegal immigration. Officials unequivocally state these operations are indispensable for maintaining national sovereignty and public safety, effectively addressing concerns that prioritize open borders over lawful order.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2025-12-03"
+      },
+      {
+        "id": "story-1764804679290-2",
+        "headline": "Congressional Probe Uncovers Epstein's Network, Demands Justice for Victims",
+        "content": "Congressional investigators have reportedly obtained critical banking records detailing the nefarious financial activities of the late financier Jeffrey Epstein, alongside new shocking images of his private Caribbean island. This ongoing probe is a vital effort to expose the full extent of Epstein's corrupt network and alleged sex trafficking ring, seeking absolute accountability for all powerful associates involved in these heinous crimes against children. Transparency and justice must prevail against such depravity.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764804679290-3",
+        "headline": "Denny's Adjusts Footprint After Major Buyout, Citing Business Restructuring",
+        "content": "Denny's, an iconic American diner chain, will strategically close approximately 150 locations nationwide following a substantial $620 million buyout. These closures, anticipated by late 2025, are a direct result of the new ownership's comprehensive restructuring plan. While this decision will naturally affect employees and local communities, it reflects the imperative of adapting to evolving market dynamics to ensure long-term viability for this venerable establishment.",
+        "originalSource": "Syracuse.com / People.com",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764804679290-4",
+        "headline": "Consumer Safety Paramount as Major Cheese Recall Issued Over Metal Contamination",
+        "content": "More than one million bags of shredded cheese, widely distributed through Walmart and other prominent retailers, have been recalled by the FDA due to serious concerns over potential metal contamination. This critical recall was initiated after reports confirmed the presence of metal fragments, posing a clear and present danger to consumer safety. Customers are strongly urged to immediately discard any affected product, underscoring the vital importance of product integrity and corporate responsibility in safeguarding the public.",
+        "originalSource": "CBS News",
+        "publishedTime": "2H ago"
+      },
+      {
+        "id": "story-1764804679290-5",
+        "headline": "Norovirus Cases See Uptick, Emphasizing Personal Responsibility for Hygiene",
+        "content": "Health officials are noting a predictable seasonal uptick in norovirus cases across the U.S., particularly concentrated in the Midwest. This highly contagious stomach bug, often referred to as the 'winter vomiting disease,' is expected to peak early this season. Citizens are reminded of the importance of enhanced personal hygiene and common-sense practices to mitigate its rapid transmission, empowering individuals to protect themselves and their families.",
+        "originalSource": "WXYZ Channel 7 / NBC News",
         "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764801632328-2",
-        "headline": "Bureaucracy Overrules Common Sense as Pentagon Report Criticizes Defense Secretary Hegseth's Communication Choice",
-        "content": "In what appears to be another instance of bureaucratic nitpicking, a Pentagon watchdog report has criticized Defense Secretary Pete Hegseth, alleging he technically violated regulations by using the encrypted messaging app Signal. The report, citing anonymous sources, suggests this was for sharing sensitive details regarding operations in Yemen, with claims of \"potentially putting troops in danger.\" It is crucial to remember that secure communication is paramount, and questioning a secure app seems to miss the larger picture of national security.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764801632328-3",
-        "headline": "Lawmakers Uncover More Damning Evidence in Epstein Case, Revealing Horrific Details of His Illicit Empire",
-        "content": "In a necessary step towards justice, lawmakers have obtained and released chilling new images of Jeffrey Epstein's infamous private Caribbean island, Little Saint James. These disturbing visuals, along with newly acquired banking records, are part of an ongoing and crucial investigation into the late sex offender's extensive financial network and the abhorrent crimes he committed. The truth must be fully exposed to ensure such depravity is never again tolerated.",
-        "originalSource": "CBS News",
-        "publishedTime": "33 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-4",
-        "headline": "Justice Served as Doctor Responsible for Matthew Perry's Tragic Death Receives Prison Sentence",
-        "content": "A measure of justice has been served as Salvador Plasencia, the doctor found responsible for supplying the ketamine that led to actor Matthew Perry's tragic passing, along with his assistant, has been sentenced to 30 months in federal prison. This outcome underscores the critical importance of accountability for those who recklessly distribute controlled substances, reminding us of the devastating consequences of such actions.",
-        "originalSource": "CBS News",
-        "publishedTime": "32 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-5",
-        "headline": "President Trump's Administration Champions Economic Freedom, Reverses Biden's Costly Vehicle Regulations",
-        "content": "President Trump's administration has taken decisive action, proposing new rules designed to significantly roll back the overly stringent vehicle fuel economy and emissions targets. These burdensome regulations, unilaterally imposed by the Biden administration in 2024 for light-duty vehicles, have stifled American innovation and placed undue financial strain on consumers and the auto industry. This move prioritizes economic liberty and common-sense policy.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 minutes ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764801632328-0",
-        "headline": "Federal Agents Brave Humidity, Delicious Food in New Orleans for 'Extreme Scavenger Hunt' of Undocumented Immigrants",
-        "content": "In a move hailed by some as 'peak administrative efficiency' and by others as 'an excellent excuse for a jazz-filled working vacation,' President Trump's administration has dispatched federal agents to the culinary and cultural hotbed of New Orleans. Operatives, reportedly outfitted with 'authentic Mardi Gras bead-collecting techniques' and a 'thirst for justice (and maybe a Hurricane cocktail),' are said to be meticulously combing the city for undocumented immigrants. The 'national effort,' which has already seen bipartisan eye-rolls over a related immigration halt for 19 non-European countries, promises to be as subtle as a brass band parade, with officials assuring the public that no beignet will go unturned in their quest.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2h ago"
+        "id": "story-1764804679290-0",
+        "headline": "President Trump Magnanimously Forgives Democrat Accused of Bribery, Citing \"Shared Appreciation for Excellent Deals.\"",
+        "content": "In a stunning display of bipartisan generosity, President Trump has personally exonerated Texas Democratic Representative Henry Cuellar, currently under federal scrutiny for a minor misunderstanding involving alleged bribery and money laundering. \"Look, sometimes a guy just needs a little wiggle room, you know?\" President Trump reportedly quipped, adding that \"everyone deserves a second chance, especially when the allegations involve such exotic locales as Azerbaijan.\" The pardon, a beacon of presidential clemency, effectively wipes clean any pesky legal entanglements for Cuellar, allowing him to focus on more pressing matters, like enjoying his newfound immunity.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-1",
-        "headline": "President Trump Pardons Democrat, Proving All Politics Is Just Extremely Elaborate Hugging",
-        "content": "In a stunning display of cross-aisle camaraderie, or perhaps just a momentary lapse in memory, President Trump has bestowed a full pardon upon Texas Representative Henry Cuellar, a Democrat previously facing the rather inconvenient charges of bribery, money laundering, and conspiracy. Political pundits, usually adept at predicting the exact shade of outrage, were left scrambling for new talking points as the President demonstrated that sometimes, even when facing serious federal charges, a simple, presidential 'poof' can make it all go away. Critics immediately decried the move as 'shocking' and 'surprisingly effective at making headlines,' prompting speculation that future political disagreements might now be settled with a simple 'get out of jail free' card.",
-        "originalSource": "AP News",
+        "id": "story-1764804679290-1",
+        "headline": "President Trump Deploys Elite Squads to New Orleans, Vowing to Make City \"Great Again for Citizens Who Can Prove It.\"",
+        "content": "The Trump administration has dramatically expanded its nationwide campaign against individuals who simply forgot their official welcome wagon paperwork, launching a targeted enforcement blitz across the vibrant streets of New Orleans. Officials, brandishing clipboards and stern expressions, declared the operation crucial for national security, ensuring that every gumbo pot and jazz club is now fully compliant with federal residency protocols. Local immigrant advocates, however, seemed confused, suggesting that perhaps some citizens might just be trying to, you know, live.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2025-12-03"
+      },
+      {
+        "id": "story-1764804679290-2",
+        "headline": "Congress Heroically Uncovers Groundbreaking Evidence: Epstein Had Money AND an Island.",
+        "content": "In a monumental leap forward for investigative journalism and common sense, congressional lawmakers have finally managed to pry open the banking records of the late Jeffrey Epstein, confirming that, indeed, the man had accounts at financial institutions. Simultaneously, a fresh batch of \"never-before-seen\" (except by anyone with internet access for the past decade) photos of his Caribbean playground, Little St. James, were unveiled, shocking precisely zero people. The diligent investigation continues, promising to eventually hold someone, somewhere, accountable for something, sometime.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764804679290-3",
+        "headline": "Iconic Diner Chain Denny's Announces Plans to \"Streamline\" Operations by Vanishing From 150 Communities.",
+        "content": "America's beloved purveyor of Grand Slams and questionable coffee, Denny's, has proudly declared its intention to shed 150 of its cherished locations across the nation. Following a whopping $620 million buyout, the new ownership explained this strategic \"restructuring\" means fewer places for late-night existential crises and early-morning heart attacks, all in the name of efficiency. While employees and entire towns brace for the tragic loss of 24/7 pancake access, the company assures everyone this move will make Denny's stronger, albeit significantly smaller and harder to find.",
+        "originalSource": "Syracuse.com / People.com",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764804679290-4",
+        "headline": "New \"Iron-Fortified\" Shredded Cheese Recalled After Consumers Develop Unsettling Internal Rattling.",
+        "content": "The FDA has issued an urgent recall for over one million bags of shredded cheese, widely available at Walmart and other retailers, after discovering the product offered an unexpected, crunchy \"metal surprise.\" Reports of consumers experiencing improved magnetic capabilities and unsettling internal clanking prompted the drastic measure. Health officials advise immediate disposal, reminding the public that while a balanced diet is important, it usually doesn't involve ingesting industrial alloys with your taco night.",
+        "originalSource": "CBS News",
+        "publishedTime": "2H ago"
+      },
+      {
+        "id": "story-1764804679290-5",
+        "headline": "Norovirus Announces Early Arrival for Annual \"Winter Vomiting Tour,\" Promising Record-Breaking Spread.",
+        "content": "Health officials are excitedly anticipating a truly bumper crop of norovirus cases this season, confirming that the highly contagious stomach bug, affectionately known as the \"winter vomiting disease,\" has already begun its enthusiastic nationwide tour. Experts in the Midwest are particularly thrilled, predicting an early and robust peak of viral revelry. Citizens are strongly encouraged to practice \"enhanced hygiene\" if they wish to avoid participating in this year's most exclusive, albeit involuntary, rapid weight-loss program.",
+        "originalSource": "WXYZ Channel 7 / NBC News",
         "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764801632328-2",
-        "headline": "Defense Secretary's 'Secret Chat' Appears Less 'Top Secret,' More 'Teens Sharing Memes'",
-        "content": "Sources close to a Pentagon watchdog report reveal that Defense Secretary Pete Hegseth managed to 'revolutionize' secure communications by using the encrypted messaging app Signal to discuss top-tier military operations in Yemen, a move that apparently violated regulations and put troops in 'a slightly more precarious position than usual.' The report, which reportedly detailed the Secretary's 'cavalier approach to national security,' concluded that while Signal is excellent for planning surprise birthday parties, it might not be the ideal platform for exchanging classified intel. Critics pondered if the next innovation would be sending troop movements via carrier pigeon or highly choreographed TikTok dances.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764801632328-3",
-        "headline": "Lawmakers Unveil 'Shocking' New Photos of Epstein's Island, Confirming It Still Looks Like an Island",
-        "content": "In a groundbreaking development that has absolutely everyone on the edge of their seats (or at least mildly curious), House Democrats on the Oversight Committee have released 'never-before-seen' images of Jeffrey Epstein's private Caribbean island, Little Saint James. Along with 'newly obtained' banking records, the committee proudly displayed pictures confirming that the island indeed features palm trees, sand, and what appears to be water. The 'ongoing investigation' into the late sex offender's finances and network continues to provide revelations that are both crucial to justice and, apparently, a booming business for Caribbean tourism brochures.",
-        "originalSource": "CBS News",
-        "publishedTime": "33 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-4",
-        "headline": "Doctor Who Allegedly 'Helped' Matthew Perry Sentenced to Prison for Mastering the Art of Unintended Consequences",
-        "content": "In a verdict that serves as a stark reminder that even 'well-intentioned' medical professionals should probably stick to actual medicine, Dr. Salvador Plasencia and his assistant have been sentenced to 30 months in federal prison. Plasencia, charged with 'contributing to the untimely demise' of actor Matthew Perry by supplying the ketamine, received his sentence after the court determined that 'distributing controlled substances without, you know, controlling them' was frowned upon. The ruling sends a clear message to medical practitioners everywhere: leave the controlled substance distribution to the highly regulated, highly bureaucratic, and significantly less 'fun' channels.",
-        "originalSource": "CBS News",
-        "publishedTime": "32 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-5",
-        "headline": "President Trump Proposes New Fuel Standards, Encouraging Americans to Embrace Glorious Gas Guzzling Once More",
-        "content": "In a bold move signaling a return to 'the good old days' of vehicular excess, President Trump's administration has unveiled proposed new rules aimed at 'significantly weakening' the 'unnecessarily stringent' fuel economy and emissions targets set by the Biden administration. The proposed changes, which some interpret as a presidential endorsement of every single gas station owner's wildest dreams, promise to liberate American drivers from the tyrannical grip of 'environmental responsibility.' Experts believe this will lead to a new era where vehicles are judged not by their miles per gallon, but by the sheer, unadulterated joy of watching the gas gauge plummet.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 minutes ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764801632328-0",
-        "headline": "Police are getting ready to stop people without papers in New Orleans",
-        "content": "President Trump's team is starting to look for people who don't have the right papers to live in America. Special police are getting ready to go to New Orleans to find these people. This is happening all over the country. Some lawmakers are mad because the government is also stopping people from 19 other countries from coming in.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2h ago"
+        "id": "story-1764804679290-0",
+        "headline": "President Trump Said Henry Cuellar Doesn't Have to Go to Court Anymore",
+        "content": "President Trump has used his power to say that Henry Cuellar, who is a lawmaker from Texas, won't get into trouble with the law. Henry Cuellar was accused of taking gifts and money he shouldn't have. President Trump's decision means Henry Cuellar won't have to face charges for those things.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-1",
-        "headline": "President Trump says a Texas lawmaker is forgiven",
-        "content": "President Trump just said that Henry Cuellar, who is a lawmaker from Texas, doesn't have to worry about trouble anymore. Henry Cuellar was accused last year of doing bad things like taking money he shouldn't and working with people to do sneaky stuff. Some people are not happy about President Trump doing this.",
-        "originalSource": "AP News",
+        "id": "story-1764804679290-1",
+        "headline": "President Trump's Government Is Catching People Who Shouldn't Be Here in New Orleans",
+        "content": "President Trump's government has started a new plan to find people in New Orleans who came to the country without permission. They say it's important to keep our country safe and follow the rules. Some people are worried about this new plan.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2025-12-03"
+      },
+      {
+        "id": "story-1764804679290-2",
+        "headline": "Important Papers About Jeffrey Epstein's Money and His Island Are Out Now",
+        "content": "People in charge, called lawmakers, have found secret papers about a rich man named Jeffrey Epstein and his money. They also showed new pictures of his private island where bad things supposedly happened. They are still trying to figure out who helped him with his awful crimes.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764804679290-3",
+        "headline": "Lots of Denny's Restaurants Are Closing Down Soon",
+        "content": "Denny's, which is a popular restaurant where many people eat breakfast and dinner, will close about 150 of its locations. This is happening because new owners bought the company for a lot of money and want to change things. Many people who work there will lose their jobs by the end of 2025.",
+        "originalSource": "Syracuse.com / People.com",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764804679290-4",
+        "headline": "Over a Million Bags of Shredded Cheese Might Have Metal In Them",
+        "content": "Don't eat the shredded cheese you bought at stores like Walmart! More than a million bags of shredded cheese have been taken back because tiny pieces of metal might be inside them. Eating it could hurt you, so you should throw it away right now.",
+        "originalSource": "CBS News",
+        "publishedTime": "2H ago"
+      },
+      {
+        "id": "story-1764804679290-5",
+        "headline": "Lots More People Are Getting a Bad Stomach Bug Called Norovirus",
+        "content": "Doctors are saying that a really bad stomach bug, called norovirus, is making a lot more people sick all over the country, especially in the middle states. This sickness makes you throw up and feel awful. Doctors want everyone to wash their hands extra well to stop it from spreading quickly.",
+        "originalSource": "WXYZ Channel 7 / NBC News",
         "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764801632328-2",
-        "headline": "A special group says Pete Hegseth shared secrets on his phone",
-        "content": "A group that watches what the army does found out that Pete Hegseth, who is in charge of defense, broke the rules. He used a secret chat app called Signal to talk about important army plans in a place called Yemen. People are saying this might have put our soldiers in danger.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764801632328-3",
-        "headline": "New pictures of Jeffrey Epstein's secret island are out",
-        "content": "People who make laws have shown everyone new pictures of Jeffrey Epstein's private island in the Caribbean. It's called Little Saint James. They also got his money papers to see where his money came from and who he was working with. They are still trying to figure out all the bad things he did.",
-        "originalSource": "CBS News",
-        "publishedTime": "33 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-4",
-        "headline": "Doctor who gave Matthew Perry bad medicine goes to jail",
-        "content": "The doctor who gave actor Matthew Perry the medicine that made him die is going to jail. His name is Salvador Plasencia, and he has to stay in jail for two and a half years because he gave out the special medicine he shouldn't have.",
-        "originalSource": "CBS News",
-        "publishedTime": "32 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-5",
-        "headline": "President Trump wants cars to use more gas",
-        "content": "President Trump's team wants to change some rules about cars. Right now, cars are supposed to use less gas and make less dirty air, which President Biden's team set up. But President Trump wants to make those rules not so strict, so cars might use more gas.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 minutes ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764801632328-0",
-        "headline": "Shadows Over the Crescent City",
-        "content": "A palpable tension gripped New Orleans as federal agents finalized preparations for an extensive immigration operation. President Trump's administration, firm in its resolve, initiated a wider national crackdown, targeting undocumented individuals across various communities. The impending sweep cast long shadows, heightening anxieties among residents. This aggressive stance coincided with widespread condemnation from lawmakers regarding a related immigration halt impacting nineteen non-European nations. The city, known for its resilience, braced itself, watching as the broader implications of these policies unfurled, bringing an unsettling new chapter to its vibrant streets.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2h ago"
+        "id": "story-1764804679290-0",
+        "headline": "A Pardon's Shadow Falls Over Texas",
+        "content": "The news hit like a sudden storm, a quiet tremor through the political landscape. President Trump, with a stroke of his pen, granted a full pardon to Representative Henry Cuellar, the Texas Democrat. Accusations of bribery and money laundering, swirling around a secretive deal involving faraway Azerbaijan and a curious Mexican bank, suddenly dissipated into the ether. The ongoing federal investigation, once a looming threat, was now an empty gesture. Immunity was absolute, the slate wiped clean. Whispers of power and influence would linger, but for Cuellar, the weight of the federal charges had been lifted, a surprising act of clemency that left many pondering its true origins.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       },
       {
-        "id": "story-1764801632328-1",
-        "headline": "A Texan's Unexpected Grace",
-        "content": "In a move that reverberated through the political landscape, President Trump granted a full pardon to Texas Representative Henry Cuellar. The Democrat had faced severe federal charges last year, including bribery, money laundering, and conspiracy. The presidential decree instantly erased the legal battles, sparking immediate and fervent criticism from various political observers. For Cuellar, the pardon represented an unexpected reprieve, a sudden lifting of a heavy cloud that had shadowed his career. The decision, delivered from the highest office, stirred both relief and controversy, depending on which side of the political aisle one stood.",
-        "originalSource": "AP News",
+        "id": "story-1764804679290-1",
+        "headline": "The Levee's Shadow Descends Upon New Orleans",
+        "content": "A chill swept through the humid streets of New Orleans, not from the weather, but from the sudden, sharp presence of federal agents. The Trump administration had arrived, a new phase of its stringent immigration crackdown unfurling across the historic city. Targeted operations began, a relentless pursuit of those deemed in violation of the nation's borders, framed as a necessary measure for security and law enforcement. The usual vibrant hum of the Big Easy was replaced by a tense quiet, as local advocates for immigrant rights voiced their urgent concerns, watching the city's diverse fabric tighten under the weight of an unyielding policy.",
+        "originalSource": "CBS News / The Washington Post",
+        "publishedTime": "2025-12-03"
+      },
+      {
+        "id": "story-1764804679290-2",
+        "headline": "Whispers from a Private Island's Past",
+        "content": "The echoes of Jeffrey Epstein’s dark empire resonated anew as congressional lawmakers unveiled a trove of his financial secrets. Banking records, once tightly sealed, now painted a chilling portrait of his wealth and connections. Simultaneously, fresh, haunting images of Little St. James, the infamous private Caribbean island, surfaced, its idyllic facade betraying the horrors it once witnessed. These revelations fueled the relentless congressional pursuit, striving to unravel the full extent of Epstein’s network and his alleged sex trafficking ring, demanding accountability from those entangled in his sinister web, even as the financier himself was gone.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1764804679290-3",
+        "headline": "The Last Call for a Beloved Diner",
+        "content": "The scent of sizzling bacon and stale coffee, once a comforting constant, would soon fade from 150 familiar corners of America. Denny's, the beloved diner chain, faced an inevitable curtain call. A colossal $620 million buyout had sealed its fate, initiating a sweeping restructuring that dictated mass closures by the close of 2025. Each neon sign, each worn booth, held countless memories for the communities it served. For the thousands of employees, the news was a personal tremor, a beloved workplace transforming into a relic of a bygone era, leaving behind only the ghost of Grand Slam breakfasts past.",
+        "originalSource": "Syracuse.com / People.com",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764804679290-4",
+        "headline": "A Metallic Glint in the Daily Grind",
+        "content": "The mundane act of preparing dinner took an alarming turn for over a million households. The FDA sounded the alarm: bags of shredded cheese, a staple found in Walmart and other major retailers, were subject to an urgent recall. The reason? A chilling report of metal fragments embedded within the cheesy strands, transforming a simple ingredient into a dangerous hazard. Consumers were advised to immediately discard the product, a stark reminder that even the most ordinary items could harbor unseen threats, turning a trusted convenience into a source of potential harm.",
+        "originalSource": "CBS News",
+        "publishedTime": "2H ago"
+      },
+      {
+        "id": "story-1764804679290-5",
+        "headline": "The Invisible Wave of Winter's Unwelcome Guest",
+        "content": "An unwelcome visitor arrived with winter’s chill, sweeping across the nation with startling speed. Health officials issued a somber warning: norovirus cases, that highly contagious stomach bug, were surging, particularly through the heartland. Doctors predicted an early peak for the 'winter vomiting disease,' an invisible wave threatening to disrupt daily life. The message was clear and urgent: enhanced hygiene was the only defense against this relentless adversary. Handwashing became a silent plea, a communal effort to stem the tide of rapid transmission and protect communities from the grip of the widespread illness.",
+        "originalSource": "WXYZ Channel 7 / NBC News",
         "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764801632328-2",
-        "headline": "The Whispers of Signal",
-        "content": "A Pentagon watchdog's findings sent ripples through the defense establishment. Defense Secretary Pete Hegseth, it concluded, had violated regulations by using the encrypted app Signal. Through this digital channel, sensitive details concerning critical operations in Yemen were reportedly shared. Sources familiar with the report indicated that this unauthorized communication potentially jeopardized the lives of troops on the ground. The incident highlighted the inherent risks of informal communication channels within sensitive government roles, underscoring the delicate balance between security protocols and the convenience of modern technology. The whispers of Signal carried weighty consequences.",
-        "originalSource": "CBS News",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764801632328-3",
-        "headline": "The Island's Dark Secrets Unfold",
-        "content": "The veil surrounding Jeffrey Epstein's shadowy world was pulled back further this week. House Democrats on the Oversight Committee unveiled never-before-seen images of Little Saint James, Epstein's notorious private Caribbean island. These new visual revelations were accompanied by a trove of newly obtained banking records, meticulously laid bare. As part of their relentless investigation, lawmakers continued to dissect the late sex offender's intricate financial dealings and the vast network that enabled his illicit activities. Each new detail brought the disturbing reality of his empire into sharper focus, demanding answers from those connected to its dark heart.",
-        "originalSource": "CBS News",
-        "publishedTime": "33 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-4",
-        "headline": "A Doctor's Reckoning",
-        "content": "The courtroom's gavel brought a somber finality to the case surrounding actor Matthew Perry's tragic death. Dr. Salvador Plasencia, charged with supplying the ketamine that proved fatal, received a sentence of thirty months in federal prison. His assistant also faced consequences for their combined role in distributing the controlled substance. The ruling underscored the grave responsibilities entrusted to medical professionals and the severe repercussions when those duties are breached. For the loved ones of Matthew Perry, it marked a painful chapter's close, while for the medical community, it served as a stark reminder of accountability.",
-        "originalSource": "CBS News",
-        "publishedTime": "32 minutes ago"
-      },
-      {
-        "id": "story-1764801632328-5",
-        "headline": "Shifting Gears, Changing Tides",
-        "content": "A significant policy reversal began to take shape within President Trump's administration. New proposed rules aimed to dramatically weaken the stringent vehicle fuel economy standards and emissions targets previously established by the Biden administration in 2024. These ambitious benchmarks, set for light-duty vehicles, faced a substantial rollback, reflecting a clear shift in environmental regulatory priorities. The move signaled a departure from recent efforts to curb climate impact through automotive efficiency. Stakeholders across the auto industry and environmental advocacy groups watched closely, anticipating the long-term implications for both economic growth and ecological stewardship.",
-        "originalSource": "CBS News",
-        "publishedTime": "3 minutes ago"
       }
     ]
   }
