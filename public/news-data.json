@@ -1,11 +1,269 @@
 {
-  "timestamp": 1764788279684,
+  "timestamp": 1764790394063,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1764790325141-0",
+        "headline": "Systemic Failures Lead to Unexpected Decline in Private Payrolls, Hurting Working Families",
+        "content": "The private sector unexpectedly saw job growth decline in November, according to a report from ADP, signaling a concerning cooling in the labor market. This surprising drop highlights deeper systemic issues within the economy that disproportionately impact working families, prompting analysts to scrutinize its implications for future Federal Reserve interest rate policies and the broader economic outlook, which often prioritize corporate interests over worker stability.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-1",
+        "headline": "Families Demand Justice for Alleged Unlawful Killing During President Trump's Administration, Exposing Systemic Impunity",
+        "content": "The family of a Colombian fisherman, who tragically died in an alleged 'drug boat' strike ordered during President Trump's administration, has filed the first formal legal complaint. They assert he was murdered and are seeking a full investigation and accountability for the controversial military operation conducted in the Caribbean, shedding light on the urgent need to address systemic impunity in U.S. foreign policy and military actions.",
+        "originalSource": "ABC News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-2",
+        "headline": "House Committee's Subpoena of Jack Smith Raises Concerns About Politicization of Justice",
+        "content": "Former Special Counsel Jack Smith has been issued a subpoena to provide closed-door testimony before a House committee regarding his past investigations. A lawyer representing Smith has indicated an intent to comply, intensifying political and legal scrutiny on previous Justice Department probes and raising serious concerns about partisan attempts to undermine independent legal processes essential for a functioning democracy.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-3",
+        "headline": "President Trump's Allies Expose Systemic Plan to Suppress Votes by Eliminating Same-Day Registration",
+        "content": "During a federal voting rights trial, an ally of President Trump's administration reportedly admitted under oath that a key objective was to eliminate same-day voter registration. This testimony provides critical insight into the deliberate legal strategies and goals behind efforts to restrict voter access and manipulate election procedures across the nation, exposing a systemic attack on fundamental democratic rights and access to the ballot box, particularly for marginalized communities.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-4",
+        "headline": "Deepening Turmoil at FDA Threatens Public Health Protections as Drug Chief Signals Departure",
+        "content": "The chief of the Food and Drug Administration's drug center has indicated a potential plan to step down from the role amidst reports of deepening internal turmoil within the regulatory agency. This prospective departure raises significant questions about the stability of leadership and the future trajectory of drug approval and public health policy, highlighting how systemic issues or external pressures can compromise an agency vital for safeguarding public well-being.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764790325141-5",
+        "headline": "President Trump's Pardon of Bribery-Charged Democrat Raises Alarms About Systemic Corruption and Undermining Justice",
+        "content": "President Trump is reportedly moving to pardon Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges. This high-profile use of presidential clemency adds a controversial new layer to the already complex political and legal drama, sparking serious concerns about systemic corruption and the potential for those in power to undermine the justice system, shielding individuals from accountability.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1764790325141-0",
+        "headline": "US private payrolls unexpectedly declined in November, ADP says",
+        "content": "Private-sector job growth in the United States unexpectedly fell in November, according to a report from ADP. This surprise drop signals a potential cooling in the labor market, which analysts will be closely watching for implications on future Federal Reserve interest rate policy and the broader economic outlook.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-1",
+        "headline": "Family of victim in alleged Trump 'drug boat' killings files first formal complaint",
+        "content": "The family of a Colombian fisherman who died in an alleged 'drug boat' strike ordered during the Trump administration has filed the first formal legal complaint. They are alleging he was murdered and are seeking a full investigation and accountability for the controversial military operation conducted in the Caribbean.",
+        "originalSource": "ABC News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-2",
+        "headline": "Jack Smith subpoenaed for closed-door testimony before House committee",
+        "content": "Former Special Counsel Jack Smith has been issued a subpoena to provide closed-door testimony before a House committee regarding his past investigations. A lawyer representing Smith has indicated that he intends to comply with the congressional subpoena, intensifying the political and legal spotlight on the previous Justice Department probes.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-3",
+        "headline": "Trump ally admits goal of eliminating same-day registration in federal voting rights trial",
+        "content": "During a federal voting rights trial, an ally of the Trump administration reportedly admitted under oath that one of the objectives was to eliminate same-day voter registration. This testimony provides key insight into the legal strategies and goals behind efforts to change voter access and election procedures across the nation.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-4",
+        "headline": "FDA drug chief signals possible exit as agency turmoil deepens",
+        "content": "The chief of the Food and Drug Administration's drug center has indicated a potential plan to step down from the role, coming amid reports of deepening internal turmoil within the regulatory agency. This prospective departure raises significant questions about the stability of leadership and the future trajectory of drug approval and public health policy.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764790325141-5",
+        "headline": "Trump pardoning Rep. Henry Cuellar, a Texas Democrat facing bribery charges",
+        "content": "Former President Donald Trump is reportedly moving to pardon Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges. The action is a high-profile use of presidential clemency, adding a controversial new layer to the already complex political and legal drama surrounding the congressman.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1764790325141-0",
+        "headline": "Private Sector Job Growth Stumbles, Signaling Economic Woes for Hardworking Americans.",
+        "content": "A new ADP report reveals a concerning downturn in private sector employment for November, a development that should alarm policymakers. This unexpected decline suggests a weakening labor market, potentially a consequence of burdensome regulations or unchecked government spending that stifles the entrepreneurial spirit. Such economic indicators demand a return to sound, free-market principles to ensure prosperity for all Americans and to avoid further federal intervention in monetary policy.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-1",
+        "headline": "Families Challenge Essential Anti-Drug Operations Conducted Under President Trump.",
+        "content": "The family of a Colombian fisherman has initiated legal action concerning an anti-drug operation in the Caribbean during the President Trump administration. While tragedies are regrettable, such essential military actions are critical to securing our borders and combating the relentless flow of illegal drugs, which threaten American families. A thorough review of the incident is always appropriate, but we must not allow legitimate efforts to protect our nation from illicit narcotics to be undermined by politically motivated claims.",
+        "originalSource": "ABC News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-2",
+        "headline": "House Demands Accountability from Jack Smith Regarding Politically Charged Investigations.",
+        "content": "The House committee has rightly issued a subpoena for Special Counsel Jack Smith to testify behind closed doors about his previous investigations. This essential act of congressional oversight signals a commitment to transparency and accountability, ensuring that the Justice Department’s actions are subject to proper scrutiny, especially concerning probes that many view as politically motivated. Smith’s intention to comply is a step towards revealing the full truth and restoring public trust in our legal institutions.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-3",
+        "headline": "President Trump Ally Advocates for Election Integrity, Seeks to Bolster Voting Security.",
+        "content": "In a federal voting rights trial, a supporter of President Trump candidly discussed efforts to refine election procedures, including potentially phasing out same-day voter registration. This stance underscores a crucial commitment to election integrity, ensuring that every legal vote counts and preventing opportunities for fraud. Safeguarding the sanctity of our electoral process through secure and verifiable procedures is paramount to maintaining public confidence in our democratic institutions.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-4",
+        "headline": "FDA Turmoil Deepens as Drug Chief Considers Departure Amid Bureaucratic Inefficiency.",
+        "content": "Reports indicate the head of the FDA’s drug center may soon depart, a development that highlights growing internal disarray within the agency. This potential leadership vacuum at such a critical regulatory body raises serious questions about the efficiency and direction of drug approvals and public health policy. Such instability underscores the urgent need for fundamental reforms to streamline bureaucratic processes and ensure the FDA remains focused on its core mission without undue political or internal distractions.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764790325141-5",
+        "headline": "President Trump Exercises Constitutional Prerogative, Considers Pardon for Congressman Cuellar.",
+        "content": "President Trump is reportedly weighing the use of his constitutional pardon power for Texas Democratic Representative Henry Cuellar, who faces serious federal bribery and money laundering accusations. This exercise of presidential clemency, a crucial check within our system of government, underscores the significant authority of the office. While the charges against Congressman Cuellar are grave, President Trump's consideration of a pardon adds a notable dimension to the ongoing legal and political narrative, demonstrating his willingness to make decisive leadership choices.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1764790325141-0",
+        "headline": "Nation's Payrolls Take Personal Day, Economy Reportedly Unfazed",
+        "content": "The United States private sector jobs unexpectedly decided to collectively 'ghost' their employers in November, according to a baffled ADP report. This surprise mass resignation from the workforce is now being hailed as a 'potential cooling' of the labor market, with analysts preparing to watch this economic nap unfold. Experts are eagerly awaiting the implications for future Federal Reserve interest rate policies and whether the broader economy will ever wake up.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-1",
+        "headline": "Family of Caribbean 'Boating Enthusiast' Demands Answers After Unexpected Underwater Excursion Ordered by President Trump",
+        "content": "The family of a Colombian fisherman, who tragically became one with the ocean during an alleged 'drug boat' strike ordered by President Trump, has filed the very first formal legal complaint. They are steadfastly alleging he was 'murdered' and are now seeking a full investigation and accountability for the highly controversial military operation conducted in the idyllic Caribbean. Apparently, not everyone appreciates a surprise maritime adventure.",
+        "originalSource": "ABC News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-2",
+        "headline": "Special Counsel Jack Smith Prepares for Epic Tell-All, But Only If No One's Looking",
+        "content": "Former Special Counsel Jack Smith has been formally invited to a top-secret, closed-door 'chat' with a House committee regarding his previous investigative endeavors. A lawyer representing Smith has indicated that he intends to comply with this congressional subpoena, intensifying the political and legal spotlight on probes no one is supposed to be able to see. Insiders report Smith is practicing his most enigmatic expressions for the highly exclusive event.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-3",
+        "headline": "President Trump Ally Accidentally Reveals Secret Plan To Make Voting More Like Buying Concert Tickets Online",
+        "content": "During a federal voting rights trial that was supposed to be about, well, voting rights, a surprisingly candid ally of President Trump reportedly admitted under oath that one of the objectives was to eliminate same-day voter registration. This stunningly transparent testimony provides key insight into the legal strategies and goals behind efforts to 'streamline' voter access and election procedures across the nation by making them slightly less accessible at the last minute.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-4",
+        "headline": "FDA Drug Chief Seen Packing Belongings in a Cardboard Box Labeled 'Urgent Escape Plan'",
+        "content": "The beleaguered chief of the Food and Drug Administration's drug center has reportedly signaled a potential plan to step down from their role, coming amid reports of deepening internal turmoil that suggests the agency is currently being run by a flock of very confused pigeons. This prospective departure raises significant questions about the stability of leadership and whether the future trajectory of drug approval will now be decided by a Ouija board.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764790325141-5",
+        "headline": "In Unprecedented Display of Bi-Partisan Generosity, President Trump Forgives Accused Democrat's 'Financial Misunderstandings'",
+        "content": "President Trump is reportedly moving to pardon Texas Democratic Representative Henry Cuellar, who is currently facing federal bribery and money laundering charges, because nothing says 'unity' like a presidential pardon for a political opponent. This action, a high-profile use of presidential clemency, adds a gloriously controversial new layer to the already hilariously complex political and legal drama surrounding the congressman. Analysts are calling it the most confusing plot twist of the century.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1764790325141-0",
+        "headline": "Fewer Grown-Ups Got New Jobs Last Month",
+        "content": "A report says that fewer grown-ups got new jobs in November than people thought. This might mean that the job market is slowing down a bit. Grown-ups who study money will watch this closely to see if it changes how the government sets interest rates.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-1",
+        "headline": "A Family Believes Their Dad Was Hurt by a Military Boat",
+        "content": "The family of a fisherman from Colombia says their dad died because of a military boat action that happened when President Trump was in charge. They think he was killed and want everyone to find out what really happened and who is responsible for what happened in the ocean.",
+        "originalSource": "ABC News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-2",
+        "headline": "A Special Lawyer Has Been Asked to Talk to Congress",
+        "content": "A special lawyer named Jack Smith has been told he has to come and talk to a group in Congress, but it will be a private meeting. His lawyer says he will go. This means more attention is being put on the old investigations he worked on for the government.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-3",
+        "headline": "A Friend of President Trump Said They Wanted to Stop Same-Day Voting",
+        "content": "In a big court case about voting rules, someone who works with President Trump said that one of their ideas was to stop people from being able to sign up to vote and vote on the very same day. This shows what some people were trying to do to change how people vote in elections.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-4",
+        "headline": "The Main Boss for Medicines Might Leave His Job",
+        "content": "The main person in charge of medicines at the government's food and drug agency might be leaving their job. This is happening because there are reports that things inside the agency are getting messy. If they leave, it makes people wonder who will be in charge and how new medicines will get approved to help people.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764790325141-5",
+        "headline": "President Trump Might Forgive a Politician with Problems",
+        "content": "It looks like President Trump might forgive a politician from Texas named Henry Cuellar. This politician is accused of taking bribes and other money problems. Forgiving someone like this is a very big deal for a President to do and makes the situation around the politician even more complicated.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1764790325141-0",
+        "headline": "The November Chill in the Marketplace",
+        "content": "The economic forecast shifted, a sudden, unexpected chill. ADP’s report arrived, a whisper of decline in the private sector’s robust heart. Job growth, once steady, stumbled in November, a surprise that rippled through financial districts. Analysts squinted at screens, dissecting data, wondering what this cooling labor market truly meant. Would the Federal Reserve adjust its delicate dance with interest rates? The broader economic outlook, a vast, intricate tapestry, seemed to hold its breath. A single data point, yet it cast a long shadow, hinting at an uncertain path ahead for the nation's financial pulse.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-1",
+        "headline": "Whispers from the Caribbean Sea",
+        "content": "The sea, a silent witness, held its secrets, but a family's grief could not be contained. From Colombia, a formal complaint emerged, echoing across the Caribbean waves. They spoke of a fisherman, lost to an alleged 'drug boat' strike, an operation ordered during President Trump’s administration. Murder, they cried, demanding justice for a life extinguished. The controversial military action, shrouded in the depths of official records, was now dragged into the light. A family’s unwavering resolve sought answers, accountability, and truth for the man taken too soon, his memory clinging to the salty air.",
+        "originalSource": "ABC News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-2",
+        "headline": "The Echoes of Past Investigations",
+        "content": "A formal summons arrived, a heavy parchment demanding presence. Jack Smith, once the orchestrator of intricate probes, was called to a closed-door chamber of the House. His previous investigations, now ghosts of the past, would be re-examined under a harsh congressional light. A lawyer’s calm assurance confirmed his compliance; Smith would face the scrutiny. The political and legal spotlight, ever-present, intensified, illuminating the shadows of Justice Department undertakings. Each word spoken, each document reviewed, would resonate, potentially altering the landscape of ongoing debates. The past, it seemed, was never truly buried.",
+        "originalSource": "CBS News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764790325141-3",
+        "headline": "A Confession in the Courtroom's Glare",
+        "content": "The courtroom hushed, witnesses leaning forward as the truth unfurled. Under the weight of an oath, an ally of President Trump’s administration made a stunning admission. Their objective, he confessed, was clear: to dismantle same-day voter registration. The words hung in the air, a stark revelation during the federal voting rights trial. This testimony offered an unvarnished glimpse into the strategic machinations behind efforts to reshape voter access. It pulled back the curtain on the subtle, yet profound, attempts to alter election procedures, revealing the bedrock intentions beneath layers of legal rhetoric.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764790325141-4",
+        "headline": "The Shifting Sands of Regulatory Power",
+        "content": "A tremor ran through the FDA’s drug center. Its chief, a pillar of stability, hinted at departure, a quiet signal amid escalating internal discord. Whispers of turmoil had grown louder, painting a picture of an agency grappling with unseen forces. His potential exit, if realized, would cast a long shadow over the regulatory landscape. Significant questions emerged, swirling around leadership stability and the very future of drug approval processes. Public health policy, a delicate balance, seemed poised on shifting sands, its trajectory uncertain without a steady hand at the helm.",
+        "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764790325141-5",
+        "headline": "The Unexpected Hand of Clemency",
+        "content": "A surprising decree echoed from the highest office. President Trump, exercising the profound power of clemency, was reportedly set to pardon Representative Henry Cuellar, a Texas Democrat. The congressman faced grave federal charges: bribery and money laundering. This presidential act, a rare and potent maneuver, injected a controversial new chapter into an already convoluted narrative. Political drama, entangled with legal battles, now gained another layer of complexity. The decision, both bold and divisive, highlighted the immense, often unpredictable, reach of presidential authority, leaving many to ponder its true implications.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      }
+    ]
   }
 }
