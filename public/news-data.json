@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764733425470,
+  "timestamp": 1764737550064,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764733348486-0",
-        "headline": "President Trump's Administration Undermines Judicial Independence by Ousting Eight Immigration Judges",
-        "content": "The Trump administration has reportedly fired eight immigration judges in New York City, a move that critics argue further politicizes the justice system and erodes judicial independence. This action is seen as part of a broader effort to reshape immigration policy and expedite deportations, raising serious concerns about due process and fair hearings for asylum seekers and migrants within the Department of Justice's Executive Office for Immigration Review (EOIR).",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-0",
+        "headline": "Systemic Barriers Continue as Republican Matt Van Epps Secures Tennessee Seat",
+        "content": "Despite a surprisingly competitive race, Republican Matt Van Epps has secured a victory in Tennessee's 7th Congressional District, maintaining conservative control with significant backing from President Trump. This outcome underscores the persistent challenges progressive movements face in red states against entrenched power structures and significant political influence.",
+        "originalSource": "Associated Press",
+        "publishedTime": "55 mins ago"
       },
       {
-        "id": "story-1764733348486-1",
-        "headline": "Suspect in National Guard Shooting Incident Faces Murder Charge, Denied Bail Amid Calls for Justice",
-        "content": "The individual suspected in the high-profile National Guard shooting incident has been formally charged with murder and will be held without the possibility of bail. The court's decision underscores the severity of the alleged crime and the perceived flight risk, bringing national attention to the ongoing legal proceedings and the imperative for accountability in instances of severe violence.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-1",
+        "headline": "President Trump's Administration Deepens Inhumanity by Halting Immigration Cases",
+        "content": "The Trump administration has implemented new guidance, effectively halting all immigration applications for nationals from 19 countries currently subjected to a travel ban. This draconian policy shift, announced Wednesday, is set to cause immense suffering and uncertainty for thousands of individuals and families, highlighting a systemic assault on human rights and equitable immigration processes.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "40 minutes ago"
       },
       {
-        "id": "story-1764733348486-2",
-        "headline": "President Trump's Administration Releases Former Honduran President, Jeopardizing Democratic Integrity During Crucial Election",
-        "content": "Former Honduran President Juan Orlando Hernández was freed from prison by the Trump administration, a highly controversial action occurring just as Honduras prepares for a closely contested election. This intervention sparks significant international commentary and raises grave concerns about political interference and the rule of law in Central America, potentially undermining the integrity of its democratic process.",
+        "id": "story-1764737481837-2",
+        "headline": "President Trump's Administration Threatens Essential Aid, Weaponizing Poverty Data",
+        "content": "In a politically motivated move, the Trump administration has threatened to withhold crucial federal Supplemental Nutrition Assistance Program (SNAP) management funds from Democratic-led states unwilling to surrender detailed recipient data. This egregious tactic risks vital support for countless vulnerable families, exposing a systemic pattern of leveraging basic needs for political gain and further exacerbating economic inequality.",
         "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764737481837-3",
+        "headline": "President Trump's Pardon of Juan Orlando Hernández Undermines Global Justice",
+        "content": "Former Honduran President Juan Orlando Hernández has been released from a US prison following a pardon from President Trump, a move sparking widespread controversy. This decision, made as Honduras navigates a contentious election, raises serious questions about political interference and the systemic erosion of accountability for powerful figures, potentially hindering efforts towards true justice and democratic integrity.",
+        "originalSource": "Associated Press",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764733348486-3",
-        "headline": "President Trump's Administration Weaponizes Food Assistance, Threatening SNAP Funds for Vulnerable Families in Blue States",
-        "content": "Officials within the Trump administration are threatening to withhold crucial SNAP (food stamp) funds from several Democratic-led states. This move is widely viewed as a cynical political tactic, using essential food assistance programs for low-income residents as leverage to pressure states into aligning with federal mandates, thereby escalating tensions and disproportionately harming vulnerable communities.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-4",
+        "headline": "President Trump's Administration Undermines Judicial Independence by Firing Immigration Judges",
+        "content": "In a highly criticized move, the Trump administration has abruptly dismissed eight immigration judges in New York City, a decision condemned by legal and civil rights groups. This action, targeting judges in one of the nation's busiest immigration court systems, represents a dangerous politicization of the judiciary and a systemic attack on due process for vulnerable immigrants.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764733348486-4",
-        "headline": "Department of Justice Sues Six Democratic States, Raising Concerns About Voter Data Access and Potential Disenfranchisement",
-        "content": "The Department of Justice has filed lawsuits against six Democratic-led states, alleging that they have denied the federal government access to voter registration roll data. While the DOJ claims this is necessary for 'election integrity' and cleaning up registration lists, critics argue that such actions intensify state-federal disputes and could be a precursor to voter suppression tactics that disproportionately affect marginalized communities.",
-        "originalSource": "Fox News",
-        "publishedTime": "hours ago"
-      },
-      {
-        "id": "story-1764733348486-5",
-        "headline": "Family Files Complaint in 'President Trump Drug Boat Killings,' Demanding Accountability for Lethal Operation",
-        "content": "The family of a victim involved in the controversial 'President Trump drug boat killings' incident has filed the first formal complaint regarding the military operation. The complaint centers on the handling of the strikes and the subsequent scrutiny surrounding President Trump's administration officials, including Pete Hegseth, highlighting an urgent demand for transparency and accountability regarding rules of engagement and the protection of human life.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-5",
+        "headline": "Pete Hegseth's 'Fog of War' Defense Avoids Accountability for Controversial Military Strike",
+        "content": "White House aide Pete Hegseth has defended a controversial second strike on a suspected drug boat in the Caribbean, invoking the 'fog of war' and denying direct observation of the follow-on attack. This defense, quickly denounced by Democrats, highlights a systemic lack of transparency and accountability in military operations, raising critical questions about civilian protection and the use of unchecked power.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764733348486-0",
-        "headline": "Trump administration fires 8 immigration judges in New York City, official says",
-        "content": "The Trump administration reportedly fired eight immigration judges in New York City, according to an official statement. This move comes as part of broader immigration policy shifts and court changes, sparking debate over the independence and impartiality of the judicial system within the Department of Justice's Executive Office for Immigration Review (EOIR).",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-0",
+        "headline": "Republican Matt Van Epps wins closely watched Tennessee House special election, AP projects",
+        "content": "Republican Matt Van Epps secured a victory in the nationally watched special election for Tennessee's 7th Congressional District. The win maintains the party's control of the conservative district, with help from President Trump, after a surprisingly competitive race.",
+        "originalSource": "Associated Press",
+        "publishedTime": "55 mins ago"
       },
       {
-        "id": "story-1764733348486-1",
-        "headline": "National Guard shooting suspect charged with murder, held without bond",
-        "content": "The suspect in the high-profile National Guard shooting incident has been formally charged with murder and is being held without the possibility of bail. The court's decision to deny bond indicates the severity of the charges and the flight risk assessment by prosecutors, bringing national attention to the ongoing legal proceedings.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-1",
+        "headline": "U.S. halts all immigration cases for nationals of 19 countries on travel ban list, guidance says",
+        "content": "New guidance from the Trump administration has temporarily halted all immigration applications for nationals of 19 countries that are currently subject to a travel ban. This significant policy shift, announced Wednesday, affects thousands of pending cases.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "40 minutes ago"
       },
       {
-        "id": "story-1764733348486-2",
-        "headline": "Trump frees ex-Honduran president from prison as country awaits knife-edge election result",
-        "content": "Former Honduran president Juan Orlando Hernández was freed from prison by the Trump administration. This action takes place just as Honduras is preparing for a closely contested election. The controversial release sparks international commentary and concerns about political interference and the rule of law in Central America amid its electoral process.",
+        "id": "story-1764737481837-2",
+        "headline": "Trump administration threatens to withhold SNAP management funds from states that don't share recipient data",
+        "content": "The Trump administration announced a threat to withhold federal Supplemental Nutrition Assistance Program (SNAP) management funds from Democratic-led states that refuse to provide detailed recipient data to the federal government. Critics say the move is politically motivated.",
         "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764737481837-3",
+        "headline": "Former Honduras President Juan Orlando Hernández freed after Trump pardon",
+        "content": "Former Honduran President Juan Orlando Hernández was freed from a US prison after receiving a pardon from President Trump. The move comes as Honduras awaits the result of a knife-edge election and has sparked political controversy over the timing.",
+        "originalSource": "Associated Press",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764733348486-3",
-        "headline": "Trump officials threaten to withhold Snap funds from Democratic-led states",
-        "content": "Trump administration officials are threatening to withhold SNAP (food stamp) funds from several Democratic-led states. This move is seen as political leverage, pressuring states to align with federal mandates or face cuts to essential food assistance programs for low-income residents, escalating tensions between federal and state governments.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-4",
+        "headline": "Trump administration fires 8 immigration judges in New York City, official says",
+        "content": "Eight immigration judges in New York City were abruptly dismissed by the Trump administration in a move that has drawn swift criticism from legal and civil rights groups. The judges oversee cases in one of the country's busiest immigration court systems.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764733348486-4",
-        "headline": "DOJ sues six blue states over denied access to voter registration roll data",
-        "content": "The Department of Justice has filed a lawsuit against six Democratic-led states, alleging they have denied the federal government access to voter registration roll data. The suit aims to enforce access to the information, which the DOJ claims is necessary for maintaining election integrity and cleaning up registration lists, intensifying state-federal disputes.",
-        "originalSource": "Fox News",
-        "publishedTime": "hours ago"
-      },
-      {
-        "id": "story-1764733348486-5",
-        "headline": "Family of victim in Trump drug boat killings files first formal complaint",
-        "content": "The family of a victim involved in the controversial \"Trump drug boat killings\" incident has filed the first formal complaint regarding the military operation. The complaint focuses on the handling of the strikes and the subsequent scrutiny surrounding Trump administration officials, including Pete Hegseth, over the rules of engagement and accountability in the operation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-5",
+        "headline": "Pete Hegseth defends follow-on strike on alleged drug boat, citing 'fog of war'",
+        "content": "White House aide Pete Hegseth defended a controversial second strike on a suspected drug boat in the Caribbean, citing the 'fog of war' and denying he observed the follow-on strike. Democrats quickly slammed his defense of the sensitive military operation.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764733348486-0",
-        "headline": "President Trump's Administration Takes Decisive Action, Dismissing Eight Immigration Judges in New York City to Restore Order",
-        "content": "President Trump's administration has taken a firm stance on immigration enforcement, reportedly dismissing eight immigration judges in New York City. This pivotal move is part of a broader effort to strengthen our nation's immigration policies and ensure accountability within the judicial system. The Executive Office for Immigration Review, under President Trump, is committed to upholding the rule of law and safeguarding our borders, ensuring that those entrusted with judicial duties are aligned with the national interest in securing our sovereignty.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-0",
+        "headline": "Conservative Principles Triumph: Matt Van Epps Secures Vital Republican Victory in Tennessee",
+        "content": "Republican Matt Van Epps has delivered a decisive win in Tennessee's 7th Congressional District special election, ensuring the continued conservative representation so vital to the region. This important victory, bolstered by President Trump's unwavering support, reaffirms the district's commitment to traditional values and limited government, despite attempts to make the race surprisingly competitive.",
+        "originalSource": "Associated Press",
+        "publishedTime": "55 mins ago"
       },
       {
-        "id": "story-1764733348486-1",
-        "headline": "Justice Prevails as National Guard Shooting Suspect Faces Murder Charges and Remains Jailed Without Bail",
-        "content": "In a welcome move for law and order, the individual accused in the tragic National Guard shooting has been formally charged with murder and will remain in custody without bond. This decision by the court rightfully reflects the gravity of the alleged crime and prioritizes public safety over potential flight risks. It is imperative that those who commit such heinous acts face swift and severe consequences, ensuring justice for the victims and upholding the bedrock principles of our legal system.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-1",
+        "headline": "President Trump's Administration Strengthens National Security with Halt on Immigration Cases",
+        "content": "In a crucial move to protect American sovereignty and national security, President Trump's administration has temporarily suspended all immigration applications for individuals from 19 nations currently under travel restrictions. This significant policy adjustment, announced on Wednesday, demonstrates a clear commitment to safeguarding our borders and prioritizing the safety of American citizens, impacting thousands of pending cases.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "40 minutes ago"
       },
       {
-        "id": "story-1764733348486-2",
-        "headline": "President Trump's Decisive Foreign Policy Ensures Release of Former Honduran Leader Amidst Tense Election",
-        "content": "Demonstrating bold leadership on the international stage, President Trump's administration has facilitated the release of former Honduran president Juan Orlando Hernández. This strategic action comes as Honduras navigates a critical election period, highlighting President Trump's commitment to supporting stability and strengthening alliances in Central America. While some critics may voice concerns, this move underscores President Trump's unwavering resolve to protect American interests and promote sound governance globally, rather than yielding to short-sighted political narratives.",
+        "id": "story-1764737481837-2",
+        "headline": "President Trump's Administration Demands Fiscal Accountability for SNAP Funds from States",
+        "content": "President Trump's administration has taken a firm stand for taxpayer integrity, announcing its intent to withhold federal Supplemental Nutrition Program (SNAP) management funds from states that refuse to share essential recipient data. This vital measure aims to ensure transparency and accountability in welfare programs, countering politically motivated criticisms and reinforcing the principle that public funds must be managed with utmost responsibility.",
         "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764737481837-3",
+        "headline": "President Trump Exercises Executive Power, Pardons Former Honduran President Juan Orlando Hernández",
+        "content": "Former Honduran President Juan Orlando Hernández has been released from U.S. custody following a pardon issued by President Trump. This exercise of presidential prerogative, a cornerstone of our constitutional system, underscores the Executive Branch's authority. While some political voices may stir controversy regarding the timing amidst Honduras's election, President Trump's decision remains a clear assertion of executive power.",
+        "originalSource": "Associated Press",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764733348486-3",
-        "headline": "President Trump's Administration Demands Fiscal Accountability, Threatens SNAP Funding for Non-Compliant States",
-        "content": "In a move to ensure proper stewardship of taxpayer dollars, President Trump's administration officials are signaling a firm stance on federal funding by threatening to withhold SNAP funds from several Democratic-led states. This action emphasizes the importance of states adhering to federal guidelines and mandates, preventing waste, fraud, and abuse within essential assistance programs. President Trump is dedicated to ensuring that taxpayer-funded programs are administered efficiently and responsibly, holding states accountable for their compliance and safeguarding the integrity of our welfare system.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-4",
+        "headline": "President Trump's Administration Takes Decisive Action to Reform Immigration Courts in New York City",
+        "content": "In a bold move to restore order and efficiency within our immigration system, President Trump's administration has dismissed eight immigration judges in New York City. This decisive action, aimed at improving the functionality of one of the nation's busiest immigration court systems, underscores the administration's commitment to the rule of law and ensuring that our courts operate with integrity and align with national immigration enforcement priorities, despite predictable criticism from activist groups.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764733348486-4",
-        "headline": "Department of Justice Sues Six States to Secure Access to Voter Data, Safeguarding Election Integrity",
-        "content": "The Department of Justice has taken crucial legal action, filing lawsuits against six states that have reportedly denied federal access to vital voter registration roll data. This indispensable step is aimed squarely at upholding the cornerstone of our republic: election integrity. The DOJ's efforts are essential for cleaning up voter lists and ensuring that every legitimate vote counts, preventing fraud, and guaranteeing the transparency and fairness of our electoral process, a fundamental right that some states appear to be obstructing.",
-        "originalSource": "Fox News",
-        "publishedTime": "hours ago"
-      },
-      {
-        "id": "story-1764733348486-5",
-        "headline": "Family Files Complaint Amidst Scrutiny Over President Trump's Decisive Anti-Drug Smuggling Operations",
-        "content": "A formal complaint has been filed by the family of a victim involved in an operation targeting drug trafficking, drawing scrutiny to President Trump's administration's robust efforts to combat illegal narcotics. These decisive military actions are vital for national security and protecting our borders from dangerous cartels. While such operations inevitably face intense scrutiny and criticism from those who seek to undermine our security efforts, President Trump and his dedicated officials, including Pete Hegseth, remain committed to upholding strict rules of engagement and ensuring accountability while vigorously defending our nation from dangerous threats.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-5",
+        "headline": "Pete Hegseth Vigorously Defends Caribbean Strike Against Drug Runners Amidst 'Fog of War'",
+        "content": "White House aide Pete Hegseth has robustly defended a necessary follow-on strike against a suspected drug boat in the Caribbean, invoking the legitimate complexities of the 'fog of war' and clarifying his non-observation of the specific strike. This resolute defense emphasizes the critical importance of combating illicit drug trafficking and supporting our military in challenging operations, despite partisan attempts by Democrats to politicize sensitive national security actions.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764733348486-0",
-        "headline": "President Trump's Administration Fires Eight Judges for Failing to Declare Enough Immigrants 'Extremely Unwelcome'",
-        "content": "In a move hailed by some as 'efficient' and 'surprisingly decisive for a Tuesday,' President Trump's administration has reportedly purged eight immigration judges in New York City. Sources close to the situation, who wished to remain anonymous for fear of being reassigned to a remote island, suggested the judges simply weren't 'enthusiastic enough' about the administration's new 'zero-tolerance-plus-a-little-extra' approach. 'Apparently,' whispered one official, 'their paperwork wasn't sufficiently... menacing.' This bold restructuring is expected to streamline the process of, well, whatever it is they're trying to streamline.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-0",
+        "headline": "Nation's Fate Decided As Tennessee District Reaffirms Commitment To Status Quo With Van Epps Win",
+        "content": "A collective sigh of predetermined relief swept across Tennessee's 7th Congressional District as Republican Matt Van Epps secured a victory in an election that was 'closely watched' by anyone who enjoys knowing the outcome before it happens. With 'help' from President Trump, the district heroically maintained its long-standing tradition of electing Republicans, proving once again that some things, like the sunrise or your uncle's political rants, are refreshingly predictable.",
+        "originalSource": "Associated Press",
+        "publishedTime": "55 mins ago"
       },
       {
-        "id": "story-1764733348486-1",
-        "headline": "Suspect in National Guard Shooting Charged with Murder, Denied Bond After Court Determines He Might Actually Escape Using a Secret Jetpack",
-        "content": "Authorities have formally charged the alleged perpetrator of the recent National Guard shooting with murder, promptly denying him bond due to an 'unprecedented' flight risk assessment. Prosecutors reportedly presented compelling evidence that the suspect, if released, possesses the uncanny ability to 'sprout wings made of pure legislative loopholes and vanish into thin air.' A court spokesperson added, 'We just can't take the chance. Next thing you know, he'll be on a yacht in international waters, taunting us with Instagram posts.'",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-1",
+        "headline": "Trump Administration Streamlines Immigration Process By Ceasing All Immigration",
+        "content": "In a bold move for efficiency, President Trump's administration has announced new guidance that will temporarily halt all immigration applications for nationals of 19 countries. Experts are hailing this as a genius strategy to clear the backlog by simply stopping all forward movement, effectively creating a perfectly zero-sum system where no new cases means no new problems. Thousands of pending applications are now in a state of suspended animation, awaiting the day the administration discovers 'continue' button.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "40 minutes ago"
       },
       {
-        "id": "story-1764733348486-2",
-        "headline": "President Trump Personally Bails Out Honduran Ex-President, Citing 'Urgent Need for Electoral Advice from a True Expert'",
-        "content": "In a diplomatic maneuver described as 'bold' by supporters and 'utterly bonkers' by everyone else, President Trump's administration has reportedly secured the release of former Honduran President Juan Orlando Hernández from prison. The timing couldn't be more exquisitely chaotic, as Honduras teeters on the brink of a hotly contested election. White House insiders suggested President Trump felt Hernández had 'much to contribute' to the 'art of winning bigly' and needed to be free to impart his wisdom, possibly via carrier pigeon, during this critical electoral period. Critics, meanwhile, are now frantically checking their calendars to ensure it's not actually April Fool's Day.",
+        "id": "story-1764737481837-2",
+        "headline": "President Trump Demands Your Grocery List Or No More Grocery List Management Funds",
+        "content": "The Trump administration, in a groundbreaking push for transparency, has threatened to withhold federal Supplemental Nutrition Assistance Program (SNAP) management funds from states that refuse to provide detailed recipient data. Critics, who clearly don't understand the joy of sharing, called the move 'politically motivated,' while sources close to the administration confirmed President Trump is merely passionate about knowing what everyone's eating. This is definitely not about leverage, it's about optimizing meal planning nationwide.",
         "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764737481837-3",
+        "headline": "President Trump Gifts Ex-Honduran Leader Get Out Of Jail Free Card Just In Time For Election Drama",
+        "content": "Former Honduran President Juan Orlando Hernández was dramatically sprung from a US prison after receiving a last-minute pardon from President Trump. The timing, which coincided perfectly with a nail-biting election in Honduras, has been hailed as an unprecedented act of strategic suspense-building. Critics called it 'controversial,' but really, what better way to liven up international politics than with a surprise prison release?",
+        "originalSource": "Associated Press",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764733348486-3",
-        "headline": "President Trump's Administration Threatens to Withhold Food From States That Insist on Having Their Own Opinions",
-        "content": "In a stunning display of federal-state 'cooperation,' officials from President Trump's administration have announced they may withhold vital SNAP (food stamp) funds from several Democratic-led states. The not-so-subtle message? 'Play ball, or enjoy a spirited debate on the nutritional value of lint.' Sources indicate the move is a brilliant strategy to encourage states to 'think more federally' and less 'I'd rather not starve my citizens for political points.' Critics, meanwhile, are struggling to find a diplomatic term for 'weaponizing hunger.'",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-4",
+        "headline": "Trump Administration Optimizes Justice System By Removing Excess Judges, Cites 'Too Many Opinions'",
+        "content": "In a decisive move to streamline the judicial process, President Trump's administration abruptly dismissed eight immigration judges in New York City. The administration clarified that this wasn't about politics, but rather an innovative approach to reduce the sheer volume of opinions cluttering the courtrooms. Legal and civil rights groups quickly criticized the move, evidently failing to grasp that fewer judges inherently means fewer disagreements, leading to a much more agreeable court system.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764733348486-4",
-        "headline": "Justice Department Sues Six States for Refusing to Share Their 'Secret Voter Scrolls,' Claiming It's for Election Integrity, Not a Fantasy League",
-        "content": "The Department of Justice, in a groundbreaking legal move, has filed lawsuits against six 'blue' states, accusing them of hoarding their precious voter registration data. The DOJ insists this information is absolutely crucial for 'maintaining election integrity' and 'ensuring every voter is a real person and not, say, a particularly passionate houseplant.' States, however, are reportedly concerned the DOJ simply wants to 'borrow' the lists to run a fantasy football league based on voter turnout, or perhaps identify who didn't 'like' their most recent federal mandate on social media. The legal battle promises to be as engaging as watching paint dry, but with significantly more bureaucratic jargon.",
-        "originalSource": "Fox News",
-        "publishedTime": "hours ago"
-      },
-      {
-        "id": "story-1764733348486-5",
-        "headline": "Victim's Family Files Complaint After 'Trump Drug Boat Killings' Found to Have Used an Alarmingly Un-Presidential Amount of Glitter",
-        "content": "The family of a victim in the so-called 'Trump drug boat killings' incident has bravely stepped forward, filing the first formal complaint regarding the chaotic military operation. The complaint reportedly details not just concerns over rules of engagement but also a perplexing 'excessive use of festive, yet lethal, party glitter' by operatives. White House officials, including the perpetually perplexed Pete Hegseth, are now scrambling to explain how a military strike ended up looking like a surprise birthday party gone horribly wrong. Sources indicate President Trump was 'very clear' that any drug boats should be 'neutralized with extreme prejudice, but also, you know, make it fabulous.'",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-5",
+        "headline": "Aide Claims 'Fog Of War' So Thick He Couldn't See Second Bomb Drop On Alleged Drug Boat",
+        "content": "White House aide Pete Hegseth valiantly defended a controversial second strike on a suspected drug boat in the Caribbean, citing the 'fog of war' as a truly impenetrable, vision-obscuring force. Hegseth adamantly denied observing the follow-on strike, presumably because the fog was so dense it also covered all recording devices and the concept of direct accountability. Democrats, clearly unfamiliar with such extreme weather conditions, quickly slammed his defense of the 'sensitive military operation.'",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764733348486-0",
-        "headline": "President Trump's team fires eight judges in New York City.",
-        "content": "President Trump's team recently let go of eight judges who work with immigration cases in New York City. This is part of some big changes to how immigration rules are handled. People are now talking about whether these judges can really be fair and make their own decisions when they are part of the government.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-0",
+        "headline": "Matt Van Epps Wins a Big Election in Tennessee",
+        "content": "Matt Van Epps, a Republican, won a really important election in Tennessee. Lots of people were watching this election from all over the country. His win means his party still controls that area, and President Trump even helped him out a bit, even though it was a pretty close race.",
+        "originalSource": "Associated Press",
+        "publishedTime": "55 mins ago"
       },
       {
-        "id": "story-1764733348486-1",
-        "headline": "Someone accused of shooting a National Guard member is now charged with murder.",
-        "content": "The person who police think shot someone from the National Guard has now been officially charged with murder. A judge said this person cannot get out of jail by paying money, which is called bail. This shows how serious the crime is and that the police think they might try to run away. Lots of people across the country are watching this case.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-1",
+        "headline": "The U.S. Stops Immigration Cases for Some Countries",
+        "content": "The government, led by President Trump, has temporarily stopped looking at all the papers for people who want to move to the U.S. from 19 countries. These countries are on a list where people aren't allowed to travel here right now. This new rule, which was announced on Wednesday, affects thousands of people waiting for their applications to be approved.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "40 minutes ago"
       },
       {
-        "id": "story-1764733348486-2",
-        "headline": "President Trump helps an old leader from Honduras get out of jail.",
-        "content": "President Trump's team helped a person who used to be the leader of Honduras, named Juan Orlando Hernández, get out of jail. This happened right when Honduras is about to choose a new leader in a very close election. Many people around the world are talking about this because they are worried it might mess with the election and what is fair in that country.",
+        "id": "story-1764737481837-2",
+        "headline": "President Trump's Team Might Stop Money for Food Help",
+        "content": "President Trump's team said they might stop giving money to states that help manage the SNAP program. SNAP is like food stamps, which helps people buy food. They want states to share secret details about the people who get this help. Some people think President Trump is doing this because of politics, especially in states run by Democrats.",
         "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764737481837-3",
+        "headline": "President Trump Frees a Guy Who Used to Be President of Honduras",
+        "content": "Juan Orlando Hernández, who used to be the president of Honduras, got out of jail in the U.S. President Trump said he could be free, which is called a pardon. This happened when Honduras was waiting to see who would win a very close election. A lot of people are talking about this because of when it happened.",
+        "originalSource": "Associated Press",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764733348486-3",
-        "headline": "President Trump's helpers might stop giving food money to some states.",
-        "content": "People working for President Trump are saying they might stop sending money for food stamps, which is called SNAP, to some states that are run by Democrats. It looks like they are trying to get these states to do what the government wants. If the states don't agree, poor people in those states might not get help buying food. This is making things tense between the main government and state governments.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-4",
+        "headline": "President Trump's Team Fires Eight Judges in New York",
+        "content": "President Trump's team suddenly fired eight judges in New York City who decide cases about people wanting to come to the U.S. Many groups that care about laws and people's rights are really upset about this. These judges work in a very busy court where many people are waiting for their cases to be heard.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764733348486-4",
-        "headline": "The government is suing six states for not showing voter lists.",
-        "content": "The Department of Justice, which is part of the government, is taking six states run by Democrats to court. They say these states didn't let the government look at their lists of people who are signed up to vote. The government wants to see these lists to make sure elections are fair and that the lists are correct. This is making arguments between the main government and these states even bigger.",
-        "originalSource": "Fox News",
-        "publishedTime": "hours ago"
-      },
-      {
-        "id": "story-1764733348486-5",
-        "headline": "A family is complaining about a deadly boat incident involving President Trump's team.",
-        "content": "The family of someone who died in a really talked-about event called the \"Trump drug boat killings\" has officially complained about it. This was a military action. The family is upset about how the attacks happened and how people working for President Trump, like Pete Hegseth, followed the rules and who is responsible for what happened.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-5",
+        "headline": "Pete Hegseth Explains Why a Boat Was Hit Twice",
+        "content": "Pete Hegseth, who works for President Trump, explained why a boat that they thought was carrying drugs in the ocean was hit a second time. He said it was like a 'fog of war,' meaning things were confusing during the fight. He also said he didn't actually see the second attack. Other politicians, especially Democrats, were very upset about his explanation for this important army action.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764733348486-0",
-        "headline": "The Empty Robes of Justice",
-        "content": "Eight judges, once pillars of New York City's immigration courts, found their robes empty. By directive, President Trump's administration executed a swift, silent purge. Whispers turned to shouts: was this merely a policy shift, or a direct assault on the courts’ impartiality? The Department of Justice's Executive Office for Immigration Review, meant to be a beacon of fairness, now faced questions about its independence. Each dismissal echoed a broader reshaping of immigration policy, leaving behind a profound unease among those who believed in an unbiased judicial system. A chilling precedent, many feared, had been set.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-0",
+        "headline": "A Narrow Victory's Whisper",
+        "content": "The air in the Tennessee precinct office crackled, heavy with anticipation. Matt Van Epps, a Republican, watched numbers crawl, a surprising nail-biter for the 7th Congressional District. Whispers of President Trump’s endorsement had flown through rallies, a potent wind at Van Epps’ back in this conservative heartland. Opponents had surged, hinting at a changing tide, but ultimately, the established order held. As projections flashed, a collective exhale swept through his supporters. The district, though tested, remained firmly in its familiar grasp, a narrative reaffirmed by a slender, hard-won majority.",
+        "originalSource": "Associated Press",
+        "publishedTime": "55 mins ago"
       },
       {
-        "id": "story-1764733348486-1",
-        "headline": "The Unyielding Gavel",
-        "content": "The courtroom air hung heavy, a stark contrast to the chaos of the National Guard shooting. The suspect, a figure shrouded in accusation, stood before the bench. \"Charged with murder,\" the judge intoned, his voice resolute. Bail was unequivocally denied. No temporary reprieve, no chance to disappear into the city's labyrinth. Prosecutors cited the gravity of the crime, the palpable flight risk. This was not merely a local tragedy; it was a national narrative unfolding, its every twist scrutinized. The gavel’s echo sealed the suspect's fate, at least for now, in a cold, unyielding cell.",
-        "originalSource": "CBS News",
-        "publishedTime": "hours ago"
+        "id": "story-1764737481837-1",
+        "headline": "Nineteen Worlds Frozen",
+        "content": "The news arrived like a sudden, chilling frost. For nationals of nineteen countries, the hopeful wait for a new life in America abruptly ceased. President Trump’s administration had issued new guidance, a decree that froze thousands of pending immigration applications mid-sentence. Families held their breath, their carefully constructed futures now suspended in an unforeseen limbo. The visa interviews, the documents painstakingly gathered, the dreams nurtured across oceans—all became footnotes to a larger, unyielding policy. A vast, silent pause descended upon the bustling immigration courts, an invisible barrier rising even higher.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "40 minutes ago"
       },
       {
-        "id": "story-1764733348486-2",
-        "headline": "A Honduran Dawn, or a Shadow?",
-        "content": "Just as Honduras teetered on the brink of a fiercely contested election, a seismic shift occurred. Juan Orlando Hernández, the nation's former president, walked free from prison. The order, an unexpected decree, came directly from President Trump's administration. International observers gasped. Was this a humanitarian gesture or a calculated political maneuver? Concerns about sovereignty and the fragile rule of law in Central America ignited. As ballots were counted and fates hung in the balance, this controversial release cast a long shadow, intertwining foreign policy with domestic electoral destiny in a dangerous dance.",
+        "id": "story-1764737481837-2",
+        "headline": "A Hunger for Information",
+        "content": "The White House, under President Trump, drew a line in the sand. Democratic-led states, refusing to surrender detailed recipient data for the Supplemental Nutrition Assistance Program, faced a stark threat: lose federal management funds. It was a digital tug-of-war, with the vulnerable caught in the middle. Critics quickly decried the move as a politically charged maneuver, weaponizing essential aid. The states stood firm, citing privacy; the administration pushed for oversight. A battle for information unfolded, its outcome potentially impacting the very tables where families struggled to put food.",
         "originalSource": "The Guardian",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764737481837-3",
+        "headline": "The Shadow of the Pardon",
+        "content": "The cell door clanged open, releasing Juan Orlando Hernández into an unexpected freedom. A pardon, personally granted by President Trump, had cut short his American incarceration. News rippled across the Atlantic, landing in Honduras like a stone in still water. There, a knife-edge election hung in the balance, every political current scrutinized. The timing of the pardon ignited a firestorm of controversy, fueling whispers of international intrigue and domestic power plays. As a nation awaited its fate, the sudden liberty of its former leader added another unpredictable twist to an already volatile political drama.",
+        "originalSource": "Associated Press",
         "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764733348486-3",
-        "headline": "The Empty Pantry Threat",
-        "content": "A chill wind swept through Democratic-led states, carrying a stark warning: comply, or low-income families would suffer. President Trump's administration officials made the threat explicit: withhold essential SNAP (food stamp) funds. It was a clear display of political muscle, an ultimatum designed to force alignment with federal mandates. Governors braced for impact, knowing that essential food assistance hung in the balance. The tension between federal and state governments escalated, painting a grim picture of leverage where the most vulnerable citizens became pawns in a high-stakes political game.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-4",
+        "headline": "The Empty Benches",
+        "content": "Eight robes hung empty. In New York City, a bustling crucible of legal battles, eight immigration judges found their careers abruptly terminated by President Trump’s administration. The news sent shockwaves through the courts, a system already strained by an immense caseload. Legal and civil rights groups voiced immediate outrage, decrying the unprecedented dismissals as an attack on the integrity of justice. These were the arbiters of countless futures, now silenced. The benches, once filled with the weight of decisions, suddenly stood vacant, casting a long shadow over the thousands of cases awaiting their turn.",
+        "originalSource": "CBS News",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1764733348486-4",
-        "headline": "The Ballot Box Veil",
-        "content": "The Department of Justice drew its sword, filing lawsuits against six Democratic-led states. Their crime? Denying access to voter registration roll data. The federal government claimed it was vital for maintaining election integrity, for scouring lists clean of inaccuracies. States countered, guarding their information. This wasn't merely a legal squabble; it was a battle over transparency, privacy, and control of the democratic process. The dispute intensified, each side convinced of its righteous cause, leaving the electorate to wonder whose version of \"integrity\" would ultimately prevail in this high-stakes showdown.",
-        "originalSource": "Fox News",
-        "publishedTime": "hours ago"
-      },
-      {
-        "id": "story-1764733348486-5",
-        "headline": "Echoes from the Deep",
-        "content": "The calm surface of military operations shattered as a family’s grief found its voice. In the aftermath of the controversial \"Trump drug boat killings,\" the first formal complaint was filed. Questions about the rules of engagement, about accountability, now demanded answers. Scrutiny landed squarely on officials associated with President Trump's administration, including figures like Pete Hegseth. The family sought justice, pushing past official narratives, demanding a deeper look into the strikes. Their complaint, a raw testament to loss, became an echo from the deep, refusing to let the incident fade into silence.",
-        "originalSource": "The Guardian",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764737481837-5",
+        "headline": "Echoes in the Caribbean",
+        "content": "The Caribbean waters had swallowed secrets, leaving only questions. Pete Hegseth, a White House aide, stood firm, defending a controversial second strike on a suspected drug boat. He invoked the 'fog of war,' that murky veil shrouding battlefield decisions, denying he witnessed the contentious follow-on engagement. Yet, the echoes of the operation resounded far beyond the waves. Democrats, quick to condemn, hammered his defense, seeing not tactical necessity but questionable judgment in the sensitive military action. The ripples of the strike extended, washing up on political shores, demanding clarity where only shadows remained.",
+        "originalSource": "Associated Press",
+        "publishedTime": "4 hours ago"
       }
     ]
   }
