@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764752323126,
+  "timestamp": 1764755190861,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764752245993-0",
-        "headline": "Tennessee's Special Election Results Solidify Republican Control, Raising Concerns for Progressive Change",
-        "content": "Republican Matt Van Epps clinched the Nashville-area U.S. House seat in a special election, a result that entrenches existing power structures and keeps the district under conservative control. This outcome, heavily bolstered by President Trump's endorsement, highlights the ongoing struggle for progressive voices to gain traction against entrenched political machines and significant external influence, potentially hindering efforts to address systemic inequalities.",
-        "originalSource": "Associated Press",
-        "publishedTime": "11 hours ago"
+        "id": "story-1764755116829-0",
+        "headline": "President Trump's Intervention Secures Republican Victory in Tennessee, Highlighting Nationalized Local Politics",
+        "content": "The Tennessee 7th Congressional District special election saw Republican Matt Van Epps secure a victory, ensuring the party retains its hold. This outcome was significantly bolstered by a high-profile campaign from President Trump, whose rallies and vocal support transformed a local race into a nationally observed event, underscoring the powerful influence of national figures in perpetuating the current political landscape.",
+        "originalSource": "The New York Times",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-1",
-        "headline": "President Trump's Administration Threatens Vital SNAP Funds, Exploiting Vulnerable Populations for Political Leverage",
-        "content": "The Trump administration has escalated its confrontation with states, threatening to cut crucial Supplemental Nutrition Assistance Program (SNAP) management funds from those refusing to surrender recipient data to the federal government. This aggressive move, largely targeting Democratic-led states, is viewed by critics as a punitive measure that weaponizes essential social safety nets, jeopardizing aid for millions and raising serious privacy concerns, rather than genuinely improving welfare program oversight.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764752245993-2",
-        "headline": "Defense Secretary Hegseth Faces Intense Scrutiny for Disengagement During Controversial Missile Strikes on Suspected Drug Boat",
-        "content": "Defense Secretary Pete Hegseth is under increasing pressure amidst a burgeoning public outcry over reports of highly controversial missile strikes targeting a suspected drug boat. With calls for full transparency growing louder, particularly from Democratic lawmakers, Hegseth's admitted disengagement during the second strike has fueled accusations of incompetence and a profound lack of oversight, raising serious questions about accountability and the ethical implications of such military actions.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764752245993-3",
-        "headline": "Afghan Evacuee and Former CIA Asset Charged with Murder in Fatal National Guard Shooting, Raising Systemic Questions",
-        "content": "An individual identified as an Afghan evacuee and former CIA asset has been formally charged with murder in connection with the fatal shooting of a National Guard member near the White House. The suspect is being held without bond following a hospital video appearance, bringing into sharp focus the complex and often overlooked vulnerabilities faced by those brought to the U.S. under such circumstances, and prompting broader discussions about comprehensive support systems and accountability.",
+        "id": "story-1764755116829-1",
+        "headline": "Trump Administration Policy Creates Widespread Uncertainty for Immigrants from 19 Nations",
+        "content": "A recent directive from President Trump's administration has effectively frozen all immigration proceedings, including vital naturalization ceremonies and asylum interviews, for individuals from 19 countries. This abrupt halt, stemming from new internal guidance, casts a shadow of uncertainty and hardship over countless individuals pursuing legal status, revealing a system that can arbitrarily disrupt lives.",
         "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764752245993-4",
-        "headline": "President Trump's Administration Enacts Sweeping, Discriminatory Policy Halting Immigration from 19 Non-European Countries",
-        "content": "In a deeply troubling move, President Trump's administration has issued new guidance that immediately ceases all immigration case processing for nationals originating from 19 non-European countries. This expansive and potentially discriminatory policy will have devastating long-term consequences for countless asylum seekers and families, fundamentally undermining principles of fairness and human rights, and solidifying a problematic approach to immigration enforcement that disproportionately targets specific communities.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764755116829-2",
+        "headline": "President Trump's Divisive Rhetoric Targets Somali Immigrants, Undermining American Values",
+        "content": "During a recent Cabinet meeting, President Trump's comments regarding Somali immigrants sparked significant controversy, as he declared his desire for them to leave the U.S. and return to their home country. This statement not only ignores the complex reasons for migration but also fuels xenophobia and contributes to a climate of division, rather than upholding principles of inclusivity.",
+        "originalSource": "NPR",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-5",
-        "headline": "Controversial Pardon by President Trump Frees Former Honduran President Juan Orlando Hernández, Undermining International Justice",
-        "content": "Juan Orlando Hernández, the former president of Honduras, has been controversially released from prison following a pardon issued by President Trump. This executive action immediately sparked widespread criticism and raised serious questions about its timing and implications for justice and democracy, especially as Honduras navigates a critical, closely contested election. Critics argue such pardons from powerful nations can destabilize nascent democracies and protect figures accused of undermining their own people.",
+        "id": "story-1764755116829-3",
+        "headline": "President Trump's Administration Pressures States by Threatening Crucial SNAP Funding",
+        "content": "The Trump administration has announced its intention to withhold critical management funds for the Supplemental Nutrition Assistance Program (SNAP) from states that decline to share sensitive recipient data. This move, disproportionately targeting states led by Democrats, appears to be a punitive measure that could undermine a vital social safety net and further politicize essential aid programs for vulnerable populations.",
         "originalSource": "Associated Press",
-        "publishedTime": "1 day ago"
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764755116829-4",
+        "headline": "Administration Defends Controversial Strikes, Raising Concerns About Accountability and Transparency",
+        "content": "White House Chief of Staff Pete Hegseth recently deployed the 'fog of war' defense to justify the administration's contentious strikes on suspected drug boats. This explanation comes amidst escalating scrutiny and political backlash concerning the legality and necessity of these military actions, highlighting systemic issues of transparency and accountability in executive decision-making during foreign engagements.",
+        "originalSource": "Financial Times",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764755116829-5",
+        "headline": "USA Gymnastics Faces Lawsuit Alleging Systemic Failure to Protect Young Athletes",
+        "content": "A significant new lawsuit has been brought against USA Gymnastics, asserting that the organization profoundly neglected its core responsibility to safeguard young athletes. The legal challenge posits that officials were aware of and chose to ignore repeated allegations of sexual abuse against a prominent coach over an extended period, thereby perpetuating a systemic culture where misconduct went unchecked and victims were failed.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764752245993-0",
-        "headline": "Republican Matt Van Epps wins US House special election in Tennessee",
-        "content": "Republican Matt Van Epps secured a victory in the closely watched special election for the Nashville-area U.S. House seat, maintaining the party's control over the district. His campaign received significant support from President Donald Trump, making the win a notable political event.",
-        "originalSource": "Associated Press",
-        "publishedTime": "11 hours ago"
+        "id": "story-1764755116829-0",
+        "headline": "Matt Van Epps Wins Tennessee House Race After a Trump-Led Rescue Mission",
+        "content": "Republican Matt Van Epps won the closely watched Tennessee 7th Congressional District special election, maintaining the party's control. The victory came after a high-profile \"rescue mission\" that included strong support and rallies from President Donald Trump, making the race a nationally watched event.",
+        "originalSource": "The New York Times",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-1",
-        "headline": "Trump Administration Threatens to Withhold SNAP Funds Over Data Sharing Refusal",
-        "content": "The Trump administration threatened to withhold Supplemental Nutrition Assistance Program (SNAP) management funds from states that refuse to share recipient data with the federal government. This measure is primarily aimed at Democratic-led states resisting the data-sharing mandate, escalating a conflict over welfare program oversight.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764752245993-2",
-        "headline": "Growing Outcry Over Defense Secretary Hegseth's Handling of Alleged Drug Boat Strikes",
-        "content": "Defense Secretary Pete Hegseth faces mounting criticism and growing outcry following reports of controversial missile strikes on a suspected drug boat. Democrats demand transparency, with one senator calling Hegseth 'incompetent' for his admitted disengagement during the second strike.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764752245993-3",
-        "headline": "National Guard Shooting Suspect Charged with Murder and Held Without Bond",
-        "content": "The suspect in the fatal shooting of a National Guard member near the White House, identified as an Afghan evacuee and former CIA asset, has been formally charged with murder. The individual is being held without the possibility of bond after appearing via video from the hospital.",
+        "id": "story-1764755116829-1",
+        "headline": "U.S. halts all immigration cases — including citizenship ceremonies — for nationals of 19 countries, internal guidance says",
+        "content": "The U.S. government has temporarily stopped processing all immigration cases, including naturalization ceremonies and asylum interviews, for citizens of 19 specific countries. This sudden action stems from recently issued internal guidance from the Trump administration that affects a wide range of individuals seeking legal status.",
         "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764752245993-4",
-        "headline": "Trump Administration Pauses All Immigration Applications from 19 Non-European Countries",
-        "content": "The Trump administration announced new guidance that immediately halts all immigration case processing for nationals from 19 non-European countries. This sweeping policy impacts asylum decisions and other applications, and is intended to be a long-term part of the administration's stricter immigration enforcement.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764755116829-2",
+        "headline": "Trump says he doesn't want Somalis in the U.S., urges them to go back to their homeland and fix it",
+        "content": "President Trump made controversial remarks during his final Cabinet meeting of the year, stating that he does not want Somali immigrants in the country. He urged them to return to their native homeland, arguing they should focus on improving conditions there instead of remaining in the United States.",
+        "originalSource": "NPR",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-5",
-        "headline": "Former Honduras President Juan Orlando Hernández Freed After Trump Pardon",
-        "content": "Juan Orlando Hernández, the former president of Honduras, was released from prison after receiving a pardon from President Donald Trump. The controversial executive action's timing is raising questions, as the Central American nation is currently awaiting a knife-edge election result.",
+        "id": "story-1764755116829-3",
+        "headline": "Trump administration threatens to withhold SNAP management funds from states that don't share data",
+        "content": "The Trump administration announced a threat to withhold funding for the management of the Supplemental Nutrition Assistance Program (SNAP) from states. The punitive action specifically targets states, primarily led by Democrats, that have refused to share sensitive recipient data with the federal government for new review purposes.",
         "originalSource": "Associated Press",
-        "publishedTime": "1 day ago"
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764755116829-4",
+        "headline": "Pete Hegseth invokes 'fog of war' as backlash grows over strikes on boats",
+        "content": "White House Chief of Staff Pete Hegseth defended the administration's recent controversial follow-on strikes on suspected drug boats, citing the difficulty of quick decision-making under high stress. His invoking of the 'fog of war' defense comes as political backlash and scrutiny intensify regarding the legality and necessity of the military actions.",
+        "originalSource": "Financial Times",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764755116829-5",
+        "headline": "Lawsuit alleges USA Gymnastics failed to protect athletes from coach's sexual abuse",
+        "content": "A new, high-profile lawsuit has been filed against USA Gymnastics, claiming the organization failed in its fundamental duty to protect young athletes. The legal action alleges that officials knew about and ignored sexual abuse allegations against a prominent coach for an extended period, allowing the misconduct to continue unchecked.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764752245993-0",
-        "headline": "Tennessee Upholds Conservative Values as Republican Matt Van Epps Secures Crucial House Seat",
-        "content": "Voters in Tennessee's Nashville-area have decisively affirmed their commitment to conservative principles, electing Republican Matt Van Epps to the U.S. House. This vital victory ensures the party maintains its essential control over the district, a testament to the strong leadership and vision championed by President Trump, whose unwavering support proved pivotal in this significant political outcome. It is a clear signal that the people desire principled representation focused on liberty and traditional values.",
-        "originalSource": "Associated Press",
-        "publishedTime": "11 hours ago"
+        "id": "story-1764755116829-0",
+        "headline": "President Trump's Decisive Leadership Secures Key Republican Victory in Tennessee's 7th District",
+        "content": "Republican Matt Van Epps triumphantly won the Tennessee 7th Congressional District special election, decisively maintaining conservative control in a crucial race. This victory was a direct result of a high-profile 'rescue mission' spearheaded by President Trump, whose unwavering support and influential rallies galvanized voters and transformed a local contest into a nationally watched demonstration of conservative strength.",
+        "originalSource": "The New York Times",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-1",
-        "headline": "President Trump's Administration Demands Accountability for Taxpayer Funds, Pushing for SNAP Data Transparency",
-        "content": "In a move to ensure responsible stewardship of taxpayer dollars and promote accountability, President Trump's administration has signaled its intent to withhold Supplemental Nutrition Assistance Program (SNAP) management funds from states obstructing vital data sharing with the federal government. This prudent measure is essential for proper oversight of welfare programs and aims to curb potential waste, fraud, and abuse. Certain Democratic-led states, regrettably, continue to resist these crucial transparency efforts, creating an unnecessary conflict over the fundamental principle of ensuring public funds are used wisely and effectively.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764752245993-2",
-        "headline": "Defense Secretary Hegseth Faces Partisan Attacks While Taking Decisive Action Against Drug Traffickers",
-        "content": "Defense Secretary Pete Hegseth is enduring a barrage of partisan attacks from the opposition following necessary and decisive missile strikes targeting a suspected drug boat, a crucial step in safeguarding our nation from illicit narcotics. While some Democrats demand 'transparency' and a senator baselessly labels Hegseth 'incompetent,' true patriots understand the complexities of national security operations. The Secretary's focus on securing our borders and disrupting dangerous criminal networks should be lauded, not undermined by political grandstanding.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764752245993-3",
-        "headline": "Justice Demanded After Afghan Evacuee Charged with Murder in Tragic National Guard Shooting",
-        "content": "In a solemn reminder of the threats to our brave service members and the critical need for secure borders, the individual responsible for the fatal shooting of a National Guard member near the White House, identified as an Afghan evacuee and former CIA asset, has been justly charged with murder. The swift action to hold the suspect without bond reflects our nation's unwavering commitment to law and order and ensuring that justice is served for this senseless act of violence against one of our protectors. This tragic incident underscores the paramount importance of thorough vetting and robust immigration policies to protect our citizens and our heroes.",
+        "id": "story-1764755116829-1",
+        "headline": "President Trump's Administration Takes Decisive Action to Safeguard Borders, Pauses Immigration Processing from Risky Nations",
+        "content": "The U.S. government, under the prudent guidance of President Trump's administration, has temporarily halted the processing of all immigration cases, including naturalization ceremonies and asylum interviews, for citizens of 19 specific countries. This decisive action, rooted in recently issued internal guidance, represents a necessary step to fortify national security and ensure the integrity of our immigration system, protecting American interests above all else.",
         "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764752245993-4",
-        "headline": "President Trump Strengthens National Security with Essential Pause on Immigration Applications from High-Risk Nations",
-        "content": "Prioritizing the safety and sovereignty of the United States, President Trump's administration has enacted vital new guidance, immediately pausing all immigration case processing for nationals originating from 19 non-European countries. This decisive policy, intended as a long-term component of the administration's unwavering commitment to stricter immigration enforcement, is a necessary measure to protect our borders and our citizens. It reflects a responsible approach to immigration, ensuring that our nation's security and the integrity of our legal system remain paramount.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764755116829-2",
+        "headline": "President Trump Advocates for National Self-Reliance, Urging Somalis to Build Prosperity in Their Homeland",
+        "content": "During his final Cabinet meeting of the year, President Trump delivered a principled message, stating his preference that Somali immigrants return to their native homeland. He passionately urged them to focus their efforts on improving conditions and building prosperity in their own country, rather than remaining in the United States, championing the conservative ideal of national self-determination and responsibility.",
+        "originalSource": "NPR",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-5",
-        "headline": "President Trump Exercises Executive Authority, Pardoning Former Honduras President Juan Orlando Hernández",
-        "content": "In a demonstration of executive authority, President Trump has issued a pardon for Juan Orlando Hernández, the former president of Honduras, leading to his release from prison. This exercise of presidential power underscores the President's prerogative to make decisions he deems to be in the best interest of justice or U.S. foreign policy. While some may question the timing, particularly with Honduras's ongoing election, President Trump's actions consistently aim to uphold American interests and influence on the global stage, reflecting a strong and decisive approach to international relations.",
+        "id": "story-1764755116829-3",
+        "headline": "President Trump's Administration Demands Accountability for Taxpayer Dollars, Conditions SNAP Funds on Data Sharing",
+        "content": "President Trump's administration has issued a firm warning, threatening to withhold critical funding for the management of the Supplemental Nutrition Assistance Program (SNAP) from states that refuse to share essential recipient data. This necessary action targets primarily Democrat-led states that have resisted federal efforts to ensure transparency and prevent misuse of taxpayer money through new review processes, upholding fiscal responsibility.",
         "originalSource": "Associated Press",
-        "publishedTime": "1 day ago"
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764755116829-4",
+        "headline": "Chief of Staff Hegseth Defends Crucial Anti-Drug Operations, Citing Inherent Challenges of War Against Criminals",
+        "content": "White House Chief of Staff Pete Hegseth stalwartly defended the administration's recent follow-on strikes against suspected drug boats, invoking the 'fog of war' to underscore the immense pressure and rapid decision-making required in such critical operations. His principled defense comes amidst growing political noise, reaffirming the necessity and legality of these crucial military actions to combat dangerous drug trafficking.",
+        "originalSource": "Financial Times",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764755116829-5",
+        "headline": "USA Gymnastics Faces Scrutiny for Alleged Failure to Protect Young Athletes from Vile Abuse, Highlighting Need for Moral Accountability",
+        "content": "A high-profile lawsuit has been courageously filed against USA Gymnastics, exposing allegations that the organization fundamentally failed in its duty to protect young athletes. The legal action alleges that officials knowingly ignored grave sexual abuse allegations against a prominent coach for an extended period, allowing heinous misconduct to persist unchecked and underscoring the vital need for moral rectitude and institutional accountability.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764752245993-0",
-        "headline": "Local Man Matt Van Epps Miraculously Wins Election After President Trump Remembers His Name",
-        "content": "In a stunning display of political gravity, Republican Matt Van Epps has \"won\" the special election for the Nashville-area U.S. House seat, primarily by existing within the same zip code as President Trump's endorsement. Political analysts are baffled by how Van Epps managed to secure the victory, attributing it largely to President Trump's singular mention of his name, which reportedly functioned as a magical incantation. Experts suggest future candidates may simply need to be publicly acknowledged by President Trump rather than bother with traditional campaigning, thus streamlining democracy significantly.",
-        "originalSource": "Associated Press",
-        "publishedTime": "11 hours ago"
+        "id": "story-1764755116829-0",
+        "headline": "President Trump Dispatches Elite Presidential Intervention Force To Secure Key Tennessee House Victory",
+        "content": "In a stunning display of political athleticism, President Trump personally orchestrated a high-stakes 'rescue mission' to ensure Republican Matt Van Epps' triumph in the Tennessee 7th Congressional District. Witnesses reported President Trump might have even physically propelled Van Epps over the finish line, declaring the victory a testament to his unparalleled ability to make elections great again.",
+        "originalSource": "The New York Times",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-1",
-        "headline": "President Trump Admin Threatens to Starve States Into Data Submission Over Unshared Grocery Lists",
-        "content": "The Trump administration has bravely declared it will withhold Supplemental Nutrition Assistance Program (SNAP) management funds from any states refusing to hand over sensitive recipient data, presumably to verify if anyone is buying too much kale. This bold move, clearly targeting those rebellious Democratic states who believe privacy is still a thing, aims to escalate the conflict over welfare program oversight into a full-blown battle of wills, with impoverished citizens as the unlikely, delicious-food-deprived collateral.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764752245993-2",
-        "headline": "Defense Secretary Hegseth Blames Critical Drug Boat Strike Mishap on Distracting Squirrel Convention",
-        "content": "Defense Secretary Pete Hegseth is currently weathering a tsunami of criticism after admitting he was \"too busy\" to properly oversee a second, highly controversial missile strike on a suspected drug boat. Democrats, apparently lacking a sense of humor, are demanding \"transparency\" and calling Hegseth \"incompetent,\" despite his perfectly reasonable explanation that he was deeply engrossed in a particularly riveting episode of 'Real Housewives of Potomac,' or possibly just trying to remember where he left his car keys. Insiders confirm the Secretary was likely just perfecting his \"strategic napping\" technique for national security purposes.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764752245993-3",
-        "headline": "Ex-CIA Asset Allegedly Shoots National Guard Member, Prompts Agency to Briefly Check its 'Oopsie' Folder",
-        "content": "In a plot twist ripped straight from a straight-to-DVD spy thriller, an Afghan evacuee and *former CIA asset* has been formally charged with murder in the fatal shooting of a National Guard member near the White House. The individual, currently held without bond, appeared via video from the hospital, presumably while reviewing his own classified file and wondering if this was part of his retirement plan. Experts suggest the CIA might want to update its 'former asset' tracking protocol, perhaps adding a 'do not shoot National Guard' checkbox.",
+        "id": "story-1764755116829-1",
+        "headline": "U.S. Government Achieves Peak Efficiency By Simply Halting All Immigration Processes For 19 Countries",
+        "content": "In a bold move toward streamlining bureaucratic processes, the Trump administration has temporarily ceased all immigration proceedings, including citizenship ceremonies and asylum interviews, for nationals of nearly two dozen countries. Experts lauded the decision as a revolutionary 'zero-workload' approach to managing complex global affairs, noting the unparalleled speed at which absolutely nothing is now being processed.",
         "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764752245993-4",
-        "headline": "President Trump Admin 'Simplifies' Immigration by Pausing Entire Continents; Just 19 Countries to Go",
-        "content": "In a bold move to streamline bureaucracy, the Trump administration has declared a 'timeout' on all immigration case processing for nationals from 19 *non-European* countries. This sweeping policy, affecting everything from asylum decisions to applications for 'World's Best Cousin' awards, is intended to be a 'long-term' solution to the complex issue of people wanting to live here. Officials assured the public that the selection of 19 countries was based on a highly sophisticated dartboard system, ensuring maximum fairness and minimal logical consistency.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764755116829-2",
+        "headline": "President Trump Unveils Groundbreaking 'Go Fix Your Own Country' Foreign Policy Initiative",
+        "content": "During his final Cabinet meeting, President Trump unveiled a revolutionary new foreign policy doctrine, advising Somali immigrants to return to their homeland and 'fix it.' Political strategists worldwide are now scrambling to implement this brilliantly simplistic approach to international development, with many wondering why no one had ever thought to simply tell entire populations to 'just go back and fix everything' before.",
+        "originalSource": "NPR",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-5",
-        "headline": "President Trump Pardons Honduran President Just to See What Happens; Election Results Reportedly Self-Combust",
-        "content": "Juan Orlando Hernández, the former president of Honduras, has been dramatically freed from prison, thanks to a well-timed, or perhaps exquisitely ill-timed, pardon from President Donald Trump. The controversial executive action has sent shockwaves through Honduras, which was already on the verge of collective nervous breakdown awaiting a 'knife-edge' election result. Analysts suggest President Trump's pardon was less about justice and more about injecting an extra layer of delightful chaos into a geopolitical situation, just because he could.",
+        "id": "story-1764755116829-3",
+        "headline": "Trump Administration Threatens To Withhold Hunger Management Funds Unless States Play 'Show And Tell' With Data",
+        "content": "The Trump administration has introduced an innovative new incentive program, threatening to withhold crucial SNAP management funds from states, particularly those governed by Democrats, unless they hand over sensitive recipient data. Critics fear this could lead to unprecedented levels of 'hungry transparency,' but proponents insist it's merely a new, aggressive form of federal-state 'cooperation' through data sharing.",
         "originalSource": "Associated Press",
-        "publishedTime": "1 day ago"
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764755116829-4",
+        "headline": "Chief Of Staff Pete Hegseth Declares All Questionable Actions Now Covered By 'Standard Issue Fog Of War' Blanket Excuse",
+        "content": "White House Chief of Staff Pete Hegseth masterfully deployed the 'fog of war' defense to explain away controversial follow-on strikes on suspected drug boats. Legal scholars are now debating if the 'fog' can be retroactively applied to everything from minor administrative errors to forgetting to take out the trash, effectively creating a universal immunity clause for all future government decisions.",
+        "originalSource": "Financial Times",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764755116829-5",
+        "headline": "USA Gymnastics Unveils Revolutionary 'Blind Eye' Approach To Athlete Protection",
+        "content": "A new lawsuit reveals USA Gymnastics' pioneering, albeit controversial, method of athlete protection: a sophisticated system of looking the other way. Allegations suggest the organization perfected the art of blissful ignorance regarding sexual abuse complaints against a prominent coach, proving that sometimes the best way to manage a problem is to pretend it doesn't exist until legal documents arrive.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "10 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764752245993-0",
-        "headline": "Matt Van Epps, a Republican, Wins a Big Election in Tennessee",
-        "content": "A guy named Matt Van Epps, who is a Republican, just won a special election to be part of the U.S. House. That's a super important job! He won the spot for the Nashville area in Tennessee, which means his political party, the Republicans, still get to keep that spot. President Trump really helped him out with his campaign, so it was a pretty big deal in politics.",
-        "originalSource": "Associated Press",
-        "publishedTime": "11 hours ago"
+        "id": "story-1764755116829-0",
+        "headline": "Matt Van Epps Won a Big Election with Help from President Trump",
+        "content": "A guy named Matt Van Epps, who is a Republican, won an important election in Tennessee. This means his political party still has control there. President Trump really helped him win by giving him a lot of support and doing big events for him. Lots of people all over the country were watching this election because it was a really big deal.",
+        "originalSource": "The New York Times",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-1",
-        "headline": "President Trump's Team Might Stop Money for Food Help",
-        "content": "President Trump's team is saying they might stop giving money to states that help people buy food, which is called SNAP. This money helps states manage the program. They are saying states have to share information about who gets the food help with the federal government. Some states, especially those run by Democrats, don't want to share this information. So, it's causing a big disagreement about how to keep an eye on these help programs.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764752245993-2",
-        "headline": "People Are Really Upset with Defense Secretary Hegseth",
-        "content": "Lots of people are getting angry with Pete Hegseth, who is the Defense Secretary. This is because of some tricky missile attacks on what they thought was a boat carrying drugs. People called Democrats want him to be really honest about what happened. One important politician even said Hegseth wasn't good at his job because he said he wasn't really paying attention during the second attack.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764752245993-3",
-        "headline": "Someone Who Shot a Soldier is Now Charged with Murder",
-        "content": "The person who is thought to have shot and killed a National Guard soldier near the White House has now been officially charged with murder. This person came from Afghanistan and used to help the CIA. They are now being held in jail and cannot get out on bail, which means they have to stay in jail until their trial. They even showed up in court using a video call from the hospital.",
+        "id": "story-1764755116829-1",
+        "headline": "America Stopped Letting People from 19 Countries Become Citizens for Now",
+        "content": "The United States government has temporarily stopped helping people from 19 different countries who want to live here or become citizens. This means they can't have their special ceremonies to become a U.S. citizen or even have talks about staying safe here. This big change happened because President Trump's team gave new rules, and it affects many people trying to get legal papers.",
         "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764752245993-4",
-        "headline": "President Trump's Team Stops Immigration for Many Countries",
-        "content": "President Trump's government just said that they are stopping all requests for people to move into the U.S. from 19 countries that are not in Europe. This means people from those places who want to come to the U.S. for safety or other reasons cannot get their applications looked at right now. This is a big new rule and they plan to keep it going for a long time to make sure immigration rules are much tougher.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764755116829-2",
+        "headline": "President Trump Said He Wants Somali People to Go Back Home",
+        "content": "During a big meeting, President Trump said he does not want people from Somalia to live in America. He told them they should go back to their home country, Somalia, and make things better there instead of staying here in the United States.",
+        "originalSource": "NPR",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-5",
-        "headline": "A President from Honduras Was Let Out of Jail",
-        "content": "Juan Orlando Hernández, who used to be the president of a country called Honduras, got out of prison! This happened because President Trump said he was forgiven, which is called a pardon. Many people are wondering why President Trump did this now, especially because Honduras is waiting to find out who won their super close election.",
+        "id": "story-1764755116829-3",
+        "headline": "President Trump's Team Might Stop Giving Money for Food Help to Some States",
+        "content": "President Trump's team said they might stop giving money to states that help people buy food. This program is called SNAP. They want states to share private information about the people getting food help. States that don't want to share this information, especially those run by Democrats, might not get the money to manage the program anymore.",
         "originalSource": "Associated Press",
-        "publishedTime": "1 day ago"
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764755116829-4",
+        "headline": "White House Boss Said It's Hard to Make Decisions in a Fight After Boat Attacks",
+        "content": "Pete Hegseth, who is a very important person at the White House, said that it's hard to make perfect choices when things are really confusing and stressful, like in a 'fog of war'. He said this because lots of people are upset about some boats that were attacked because they thought they had drugs. People want to know if attacking those boats was right and necessary.",
+        "originalSource": "Financial Times",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764755116829-5",
+        "headline": "USA Gymnastics Is Sued for Not Keeping Young Athletes Safe from a Coach",
+        "content": "Some people have started a big lawsuit against USA Gymnastics. They say that the organization did not do a good job of keeping young gymnasts safe. The lawsuit says that the people in charge knew about a coach hurting young athletes for a long time but didn't stop it, so bad things kept happening.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764752245993-0",
-        "headline": "The Volunteer's Ascent",
-        "content": "Matt Van Epps, backed by President Trump's influential endorsement, rode a wave of red through the Nashville district. His victory in the special election wasn't just a win; it was a firm declaration, securing the party's hold and signaling a significant political moment. The city, known for its music, now had a new tune in its political anthem, echoing the power of a united front. Van Epps's journey from campaigner to congressman felt swift, a testament to the district's clear voice and the momentum behind his cause. He walked into a new chapter, carrying the weight of expectation and the glow of triumph.",
-        "originalSource": "Associated Press",
-        "publishedTime": "11 hours ago"
+        "id": "story-1764755116829-0",
+        "headline": "The President's Shadow in Tennessee",
+        "content": "In the Volunteer State, the political winds shifted, propelled by a unique intervention. Matt Van Epps, a Republican, found his campaign for Tennessee's 7th Congressional District transformed into a national spectacle. It wasn't just a local race; it was a 'rescue mission,' whispered insiders. President Trump himself descended, rallying supporters, lending his formidable presence. His robust backing ignited the base, turning a challenging contest into a decisive victory. The party's stronghold remained unbroken, a testament to the President's influence, proving some battles are won not just on the ground, but from the highest office.",
+        "originalSource": "The New York Times",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-1",
-        "headline": "The Data Divide",
-        "content": "The administration’s decree hung heavy, a bureaucratic cloud over state capitals. President Trump's team demanded SNAP recipient data, threatening to sever vital management funds from those who dared to refuse. This wasn't merely about numbers; it was a political chess game, primarily targeting Democratic-led states resisting the federal mandate. The conflict escalated, welfare oversight becoming the battlefield. Families depending on assistance might soon feel the bite, caught in the crossfire of a power struggle. The ultimatum was clear: share the sensitive information or watch the safety net fray, piece by painful piece.",
-        "originalSource": "PBS News",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1764752245993-2",
-        "headline": "Echoes of the Deep",
-        "content": "Controversy swirled around Defense Secretary Pete Hegseth like a storm at sea. Reports surfaced of missile strikes on a suspected drug boat, sparking outrage. Democrats demanded transparency, their voices sharp with accusation. One senator’s words, branding Hegseth “incompetent” for his admitted disengagement during the second strike, echoed through the halls of power. The Secretary, a man of war, found himself battling a different kind of enemy: public trust and political ire. The waves of criticism crashed, threatening to capsize his command, leaving a bitter taste of doubt in the air.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764752245993-3",
-        "headline": "Shadows Near the White House",
-        "content": "The city held its breath. A National Guard member, near the very symbol of American power, lay fallen. The suspect, an Afghan evacuee with a shadowy past as a CIA asset, now faced murder charges. Justice, swift and unforgiving, demanded he be held without bond. From a hospital bed, via video, he became a face linked to an unspeakable act. The capital, ever vigilant, grappled with the implications of such violence so close to its heart. A life was lost, and a complex past intersected with a tragic present, leaving a profound scar.",
+        "id": "story-1764755116829-1",
+        "headline": "Nineteen Gates Suddenly Closed",
+        "content": "A silent decree, whispered through internal channels, brought a sudden chill to the aspirations of thousands. For citizens of nineteen specific nations, the doors to new beginnings slammed shut. Immigration cases, once moving with bureaucratic slowness, ceased entirely. Naturalization ceremonies, moments of jubilant belonging, were abruptly suspended. Asylum interviews, the last hope for many fleeing despair, were put on indefinite hold. This unforeseen action, originating from President Trump's administration, left countless individuals in limbo, their dreams of legal status abruptly frozen, caught in a system that suddenly, inexplicably, stopped.",
         "originalSource": "CBS News",
-        "publishedTime": "1 day ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764752245993-4",
-        "headline": "The Closed Gates",
-        "content": "A stark decree descended, chilling the hopes of countless. President Trump's administration unveiled new guidance, immediately halting all immigration processing for nationals from nineteen non-European countries. It was a sweeping policy, designed to be a permanent fixture in a stricter enforcement era. Asylum seekers, families dreaming of reunification, all found their pathways suddenly blocked. The announcement cast a long shadow, turning dreams into bureaucratic nightmares. Borders, once porous with possibility, now felt like impassable walls, each application paused a silent testament to a world becoming increasingly insular. The message was clear: a new era of exclusion had dawned.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764755116829-2",
+        "headline": "A Call to Return Home",
+        "content": "During his year's final Cabinet meeting, President Trump delivered a stark message that echoed through the room. His words, direct and unwavering, left little room for misinterpretation. He asserted his preference: Somali immigrants, he declared, were not desired within the nation's borders. Instead, he urged them to return to their native land, to focus their energies there, to rebuild and improve their homeland. The controversial remarks, delivered with resolute conviction, signaled a clear directive, outlining a vision where some, he believed, could contribute more by departing than by remaining.",
+        "originalSource": "NPR",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764752245993-5",
-        "headline": "Freedom's Unsettling Dawn",
-        "content": "The prison gates creaked open, releasing Juan Orlando Hernández, the former Honduran president. His freedom, a controversial gift from President Trump's pardon, sent ripples of disquiet across the hemisphere. The timing was particularly jarring: Honduras teetered on the brink of a knife-edge election, its future uncertain. Whispers of political maneuvering mingled with the cheers of supporters and the condemnation of critics. A presidential decree, wielded with potent authority, had shifted the scales, injecting an unpredictable element into an already volatile situation. For some, it was justice; for many others, a shadow of doubt.",
+        "id": "story-1764755116829-3",
+        "headline": "A Standoff Over Shared Information",
+        "content": "A financial gauntlet was thrown down, severing the flow of vital aid. President Trump’s administration issued a stern warning: states refusing to share sensitive recipient data for the Supplemental Nutrition Assistance Program (SNAP) would face consequences. The threat was explicit—management funds, crucial for administering the program, would be withheld. This punitive measure predominantly targeted states led by Democrats, who had resisted the federal government’s demands for new review purposes. It was a high-stakes standoff, where the sustenance of vulnerable populations became a pawn in a larger battle over data control and federal oversight.",
         "originalSource": "Associated Press",
-        "publishedTime": "1 day ago"
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1764755116829-4",
+        "headline": "Through the Haze of Conflict",
+        "content": "The political storm raged, fueled by controversial strikes on suspected drug boats. Accusations of legality and necessity swirled around the administration's actions. White House Chief of Staff Pete Hegseth stepped forward, offering a defense cloaked in a familiar idiom: the 'fog of war.' He articulated the immense pressure of split-second decisions, the blurred lines in the chaos of battle. His invocation sought to explain the difficult choices made under stress, attempting to quell the growing public scrutiny. Yet, the defense itself ignited further debate, the haze not fully dispelling the questions surrounding the military operations.",
+        "originalSource": "Financial Times",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1764755116829-5",
+        "headline": "A Legacy of Broken Trust",
+        "content": "The mat, once a stage for dreams, now lay shadowed by accusation. A new, high-profile lawsuit ripped open old wounds, targeting USA Gymnastics. The legal filing painted a damning picture: an organization that allegedly failed its most fundamental duty—to protect its young athletes. The claims were chilling, alleging that officials knew of a prominent coach's sexual abuse, yet consciously ignored the cries for help for an extended period. The misconduct, the lawsuit stated, continued unchecked, leaving a trail of broken trust and shattered innocence in its wake, demanding accountability for a pervasive failure.",
+        "originalSource": "Associated Press / PBS News",
+        "publishedTime": "10 hours ago"
       }
     ]
   }
