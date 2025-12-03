@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764740483330,
+  "timestamp": 1764745137210,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764740404863-0",
-        "headline": "President Trump's Administration Implements Discriminatory Immigration Freeze Targeting Non-European Nations",
-        "content": "The President Trump administration has unilaterally halted all pending immigration applications from 19 countries, primarily located in Africa and the Middle East, a move that immediately affects thousands seeking refuge and opportunity in the United States. Citing vague 'security concerns,' this action is the latest in a troubling pattern of restrictive immigration policies that disproportionately impact communities of color and perpetuate systemic xenophobia. Critics argue that these policies are designed to create barriers for specific demographics rather than genuinely address security issues, leaving countless individuals in limbo and severing family connections.",
-        "originalSource": "The Guardian",
+        "id": "story-1764745065078-0",
+        "headline": "Tennessee's Congressional Seat Remains Republican, Highlighting Ongoing Challenges for Progressive Change.",
+        "content": "Despite calls for new leadership to address systemic inequalities, Republican Matt Van Epps clinched the US House special election in Tennessee's Seventh Congressional District, ensuring the seat remains under Republican control and potentially hindering urgent progressive reforms.",
+        "originalSource": "CBS News / AP",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764740404863-1",
-        "headline": "President Trump-Backed Republican Secures Deep-Red Tennessee Seat as Progressive Momentum Grows",
-        "content": "Republican Matt Van Epps secured a victory in Tennessee's 7th Congressional District special election, a long-standing conservative stronghold. While the win maintains the Republican Party's grip on the seat, the race was far more competitive than anticipated, with progressive challengers making significant inroads in a district often considered out of reach. This outcome suggests a potential shift in voter sentiment even in heavily gerrymandered areas, signaling that President Trump's polarizing endorsement may be less potent than previously assumed, and that grassroots organizing is building momentum against entrenched power.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764745065078-1",
+        "headline": "Systemic Oversight Failures Lead to Recall of Millions of Contaminated Cheese Bags.",
+        "content": "A stark failure in corporate responsibility and regulatory oversight has led to the recall of over 1.5 million bags of shredded cheese from major retailers like Walmart, Target, and ALDI, endangering public health with potential metal fragment contamination.",
+        "originalSource": "TODAY.com",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764740404863-2",
-        "headline": "Defense Secretary Hegseth Under Fire for Abandoning Critical Military Operation Oversight",
-        "content": "Defense Secretary Pete Hegseth is facing intense scrutiny and condemnation after he admitted to departing a sensitive military operation before a second strike on an alleged drug boat was completed. This shocking admission has led to sharp criticism from lawmakers who denounce his apparent disregard for the serious implications of military action and call for greater accountability within the President Trump administration. The controversial anti-drug operation, now under official investigation known as 'Signalgate,' raises serious questions about the ethical conduct and oversight of the nation's defense leadership, highlighting a concerning lack of transparency and responsibility.",
-        "originalSource": "The Guardian",
-        "publishedTime": "52 minutes ago"
-      },
-      {
-        "id": "story-1764740404863-3",
-        "headline": "President Trump's Dehumanizing Rhetoric Fuels Systemic Targeting of Minnesota's Somali Community",
-        "content": "During a recent rally, President Trump launched a racist attack on Minnesota's Somali community, openly referring to them as 'garbage' while simultaneously denouncing local politicians. This inflammatory and dehumanizing language directly coincides with alarming reports that the President Trump administration is specifically intensifying immigration enforcement and restrictions against this particular community. Critics argue that such hateful rhetoric from the nation's highest office not only legitimizes xenophobia but also directly incites and justifies discriminatory policies, creating a climate of fear and insecurity for an entire ethnic group within the United States.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764740404863-4",
-        "headline": "San Francisco Sues Food Corporations, Demanding Accountability for Public Health Crisis",
-        "content": "In a groundbreaking move, San Francisco's city attorney has filed a landmark lawsuit against several major food manufacturers, asserting that ultra-processed foods are intentionally designed to be highly addictive and are directly responsible for exacerbating critical public health crises, including rampant obesity and diabetes among residents. This progressive legal action seeks to hold powerful corporations financially accountable for the systemic harm inflicted upon communities, challenging the industry's exploitative practices and prioritizing the well-being of the public over corporate profits.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764740404863-5",
-        "headline": "President Trump's Baseless Claim to Void President Biden's Legislation Undermines Democratic Institutions",
-        "content": "In a dangerous escalation, President Trump has declared his intent to unilaterally void every document and law signed by President Joe Biden, falsely alleging that President Biden illegally utilized an autopen for official legislation. This unprecedented and legally dubious claim immediately drew widespread alarm from legal experts who assert it holds no executive authority and poses a severe threat to the stability of democratic governance and the rule of law. Such attempts to arbitrarily nullify established laws represent a perilous attack on foundational democratic processes and risk plunging the nation into constitutional chaos.",
+        "id": "story-1764745065078-2",
+        "headline": "President Trump Administration's Discriminatory Immigration Halt Affects 19 Nations, Echoing Systemic Xenophobia.",
+        "content": "The President Trump administration has enacted a deeply concerning policy change, halting all immigration applications from 19 non-European countries, a move that critics argue reflects systemic xenophobia and disregards fundamental human rights and international obligations.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764745065078-3",
+        "headline": "Public Awaits 'Signalgate' Report from Pentagon Amidst Demands for Full Accountability and Transparency.",
+        "content": "Sources suggest that the Pentagon's long-awaited report on the 'Signalgate' intelligence leak scandal could be released this week, igniting calls for complete transparency and accountability regarding potential systemic failures within national security operations.",
+        "originalSource": "CBS News",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764745065078-4",
+        "headline": "President Trump Endorses Income Tax Elimination, Threatening Public Services and Exacerbating Inequality.",
+        "content": "President Trump has made his clearest public endorsement for eliminating the federal income tax, a proposal that critics warn would overwhelmingly benefit the wealthiest few, severely defund vital public services, and drastically worsen systemic economic inequality.",
+        "originalSource": "Fox News",
+        "publishedTime": "Recently"
+      },
+      {
+        "id": "story-1764745065078-5",
+        "headline": "Defense Secretary Hegseth's Disregard for Oversight Sparks Outrage and Raises Ethical Questions.",
+        "content": "Defense Secretary Pete Hegseth has drawn significant criticism for admitting he 'didn't stick around' to oversee a second military strike on an alleged drug boat, actions that top Democrats condemn as 'spineless' and a 'national embarrassment,' raising serious ethical questions about leadership and accountability in military operations.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764740404863-0",
-        "headline": "Trump administration pauses all immigration applications from 19 non-European countries",
-        "content": "The Trump administration has halted all pending immigration applications for nationals from 19 countries, primarily in Africa and the Middle East, citing security concerns. The move immediately affects thousands of people currently seeking to immigrate to the United States. This action is the latest in a series of restrictive immigration policy changes.",
-        "originalSource": "The Guardian",
+        "id": "story-1764745065078-0",
+        "headline": "Republican Matt Van Epps wins closely watched Tennessee House race, AP projects.",
+        "content": "Republican Matt Van Epps secured a victory in the US House special election in Tennessee's Seventh Congressional District, keeping the seat for the party in a closely watched race.",
+        "originalSource": "CBS News / AP",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764740404863-1",
-        "headline": "Trump-backed Republican Matt Van Epps wins US House special election in Tennessee",
-        "content": "Republican Matt Van Epps secured a victory in Tennessee's closely watched 7th Congressional District special election, a ruby-red area. Despite a more competitive race than anticipated, with Democrats gaining ground, the win maintains the Republican hold on the seat and serves as a symbolic endorsement for former President Donald Trump.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764745065078-1",
+        "headline": "Over 1.5 Million Bags of Shredded Cheese Recalled.",
+        "content": "The FDA announced a recall of over 1.5 million bags of shredded cheese, sold at major retailers like Walmart, Target, and ALDI, due to potential metal fragment contamination in the product.",
+        "originalSource": "TODAY.com",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764740404863-2",
-        "headline": "Defense Secretary Pete Hegseth says he 'didn't stick around' to watch second strike on alleged drug boat as Democrats slam administration",
-        "content": "Defense Secretary Pete Hegseth faced heavy criticism after admitting he left a sensitive military operation before the second boat strike was completed. Democrats called him 'spineless' and an 'embarrassment' following his defense of the controversial anti-drug operation, which is now under official investigation, commonly referred to as 'Signalgate.'",
-        "originalSource": "The Guardian",
-        "publishedTime": "52 minutes ago"
-      },
-      {
-        "id": "story-1764740404863-3",
-        "headline": "Trump calls Somali immigrants 'garbage' as US reportedly targets Minnesota community",
-        "content": "Former President Donald Trump publicly attacked Minnesota's Somali community, referring to them as \"garbage\" during a rally while also criticizing local politicians. This comes amid reports that the Trump administration is specifically targeting the Minnesota Somali community for increased immigration enforcement and restrictions.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764740404863-4",
-        "headline": "San Francisco sues food giants over ultra-processed products",
-        "content": "San Francisco's city attorney has filed a major lawsuit against several prominent food manufacturers, arguing that ultra-processed foods are highly addictive and contribute significantly to public health crises, including obesity and diabetes. The suit seeks to hold the companies financially accountable for the harm caused to residents.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764740404863-5",
-        "headline": "Trump claims to void all documents signed by Biden, citing autopen use",
-        "content": "In a new escalation, Donald Trump declared his intent to void every document and law signed by President Joe Biden, claiming Biden illegally used an autopen to sign official legislation. Legal experts immediately debated the executive authority for such an unprecedented action, casting doubt on the claim's legal standing.",
+        "id": "story-1764745065078-2",
+        "headline": "US halts all immigration cases for nationals of 19 countries, guidance says.",
+        "content": "The Trump administration paused all immigration applications from 19 non-European countries, with officials citing new guidance for the unexpected action that marks a significant policy change.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764745065078-3",
+        "headline": "Pentagon's report on 'Signalgate' could be released this week, source says.",
+        "content": "Sources indicate that the Pentagon's highly anticipated report concerning the intelligence leak scandal known as 'Signalgate' may be released to the public sometime this week.",
+        "originalSource": "CBS News",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764745065078-4",
+        "headline": "Trump gives most explicit endorsement yet for doing away with income tax.",
+        "content": "Donald Trump made a strong and direct statement, giving his most explicit public endorsement to date for a plan to completely eliminate the federal income tax, stirring political debate.",
+        "originalSource": "Fox News",
+        "publishedTime": "Recently"
+      },
+      {
+        "id": "story-1764745065078-5",
+        "headline": "Pete Hegseth says he 'didn't stick around' to watch second strike on alleged drug boat.",
+        "content": "Defense Secretary Pete Hegseth faced heavy criticism from Democrats for leaving before a second military strike on an alleged drug boat, with top Democrats calling his actions 'spineless' and 'a national embarrassment.'",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764740404863-0",
-        "headline": "President Trump's Administration Prioritizes National Security, Halting Immigration Applications from High-Risk Nations",
-        "content": "The Trump administration has commendably paused all pending immigration applications for nationals from 19 countries, primarily in Africa and the Middle East, citing paramount national security concerns. This decisive move immediately affects thousands seeking to immigrate to the United States, yet it is a necessary step to protect American citizens. This action is the latest in a series of responsible policy changes designed to safeguard our borders and uphold national sovereignty.",
-        "originalSource": "The Guardian",
+        "id": "story-1764745065078-0",
+        "headline": "Tennessee Voters Uphold Conservative Values, Electing Republican Matt Van Epps to Congress.",
+        "content": "In a clear affirmation of traditional American principles, Republican Matt Van Epps has decisively secured victory in Tennessee's Seventh Congressional District. This crucial win ensures that the voice of common-sense conservatism will continue to be represented in the U.S. House, protecting the liberties and values cherished by the people of Tennessee and the nation.",
+        "originalSource": "CBS News / AP",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764740404863-1",
-        "headline": "Conservative Values Triumph: President Trump-Backed Republican Matt Van Epps Secures Tennessee Seat",
-        "content": "Republican Matt Van Epps secured a vital victory in Tennessee's closely watched 7th Congressional District special election, reaffirming the state's conservative principles. Despite leftist attempts to gain ground, this win firmly maintains the Republican hold on the seat and serves as a powerful endorsement for President Trump's America First agenda. The people of Tennessee have spoken, choosing liberty and traditional values over progressive overreach.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764745065078-1",
+        "headline": "Consumer Safety Imperiled: Over 1.5 Million Cheese Bags Recalled Due to Contamination.",
+        "content": "A concerning development for American households, the FDA has announced the recall of more than 1.5 million bags of shredded cheese, distributed through major retailers. This necessary action stems from the alarming discovery of potential metal fragment contamination, highlighting the critical importance of robust standards to safeguard the well-being of our families and ensure the integrity of the products we consume.",
+        "originalSource": "TODAY.com",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764740404863-2",
-        "headline": "Democrats Launch Partisan Attacks on Defense Secretary Hegseth Over Successful Anti-Drug Operation",
-        "content": "Defense Secretary Pete Hegseth faced baseless criticism after explaining his departure from a sensitive military operation before a second boat strike was completed. Democrats, ever eager to politicize decisive action, called him 'spineless' and an 'embarrassment.' This 'Signalgate' controversy is nothing more than manufactured outrage designed to undermine a crucial anti-drug operation and distract from the administration's success in combating illicit trafficking.",
-        "originalSource": "The Guardian",
-        "publishedTime": "52 minutes ago"
-      },
-      {
-        "id": "story-1764740404863-3",
-        "headline": "President Trump Highlights Critical Immigration Enforcement Needs in Minnesota, Challenges Local Leaders",
-        "content": "President Trump, ever direct, voiced concerns regarding elements within Minnesota's Somali community, emphasizing the need for robust immigration enforcement and accountability from local politicians. His administration continues to prioritize the rule of law and national security, with reports indicating increased immigration enforcement and restrictions in the area, a necessary measure to ensure legal and orderly immigration that serves America's best interests.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764740404863-4",
-        "headline": "San Francisco's Nanny State Overreach Continues, Blaming Food Companies Instead of Personal Responsibility",
-        "content": "San Francisco's city attorney has launched another egregious lawsuit, this time against prominent food manufacturers, absurdly claiming ultra-processed foods are 'addictive' and the cause of public health crises. This attack on free enterprise seeks to hold companies financially accountable, completely ignoring individual choice and personal responsibility for diet and health. This is yet another example of government overreach attempting to dictate personal lives and burden businesses.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764740404863-5",
-        "headline": "President Trump Vows to Restore Constitutional Integrity, Challenges Biden Administration's Autopen Use",
-        "content": "In a necessary escalation to restore integrity, President Trump declared his intent to void every document and law signed by President Joe Biden, citing alleged illegal use of an autopen to sign official legislation. While establishment legal experts immediately debated the executive authority for such an unprecedented action, President Trump's firm stance underscores a vital commitment to constitutional principles and transparency within the government.",
+        "id": "story-1764745065078-2",
+        "headline": "President Trump's Administration Prioritizes National Security, Pauses Immigration from Specific Countries.",
+        "content": "In a decisive move to protect American sovereignty and ensure the security of our borders, President Trump's administration has implemented a temporary pause on immigration applications from 19 non-European nations. Officials have cited new guidance as the basis for this significant policy shift, underscoring a commitment to carefully vetting those who seek entry into our country and safeguarding our national interests.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764745065078-3",
+        "headline": "Pentagon Poised to Reveal Truth on 'Signalgate' Intelligence Leak Scandal.",
+        "content": "The American public awaits with anticipation as the Pentagon's crucial report on the 'Signalgate' intelligence leak scandal is expected to be released this week. This vital document will hopefully provide much-needed transparency and accountability regarding the serious compromise of national security information, ensuring that those responsible are held to account and our nation's secrets remain protected.",
+        "originalSource": "CBS News",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764745065078-4",
+        "headline": "President Trump Champions Economic Liberty, Endorses Eliminating Federal Income Tax.",
+        "content": "Demonstrating a profound commitment to individual liberty and economic prosperity, President Trump has delivered his most explicit endorsement yet for a plan to completely eliminate the federal income tax. This bold vision would significantly reduce the burden on hardworking American families and businesses, fostering true economic freedom and allowing citizens to keep more of their hard-earned money, sparking essential debate about the role of government taxation.",
+        "originalSource": "Fox News",
+        "publishedTime": "Recently"
+      },
+      {
+        "id": "story-1764745065078-5",
+        "headline": "Defense Secretary Hegseth Trusts Military, Faces Partisan Attacks for Prioritizing Duties.",
+        "content": "Defense Secretary Pete Hegseth has become the target of partisan criticism from Democrats for not remaining on-site to witness a second military strike against an alleged drug boat. While Democrats engage in predictable political attacks, labeling his actions as 'spineless,' the Secretary's focus on executing his broader duties and entrusting the professionalism of our military forces demonstrates a commitment to effective leadership, rather than political theater. Our military operates efficiently, regardless of whether a politician is watching.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764740404863-0",
-        "headline": "President Trump Discovers Countries Beyond Europe Exist, Immediately Bans Them For \"Security\"",
-        "content": "The Trump administration, in a groundbreaking geographic revelation, announced it would be pausing all immigration applications from 19 non-European nations. \"Frankly, we didn't even know some of these places were real,\" a senior official stated, adjusting a map of the world that had previously just shown North America and a blurry blob labeled \"Europe-ish.\" The move, which affects thousands, was justified by vague \"security concerns,\" which many experts believe translated to \"they just look different.\"",
-        "originalSource": "The Guardian",
+        "id": "story-1764745065078-0",
+        "headline": "Humanity Breathes Collective Sigh of Relief as Tennessee Maintains Geopolitical Balance with Van Epps Victory.",
+        "content": "In a nail-biting, edge-of-your-seat, absolutely no-one-saw-this-coming turn of events, Republican Matt Van Epps triumphantly wrestled the Seventh Congressional District seat back from... well, himself, essentially, thereby keeping it safely within Republican hands. Experts universally agree that had this pivotal race swung the other way, the very fabric of the universe might have unraveled, plunging us all into an unimaginable abyss of... slight inconvenience. Voters across the state celebrated by not really noticing, proving once again that democracy, when executed perfectly, is barely noticeable.",
+        "originalSource": "CBS News / AP",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764740404863-1",
-        "headline": "Tennessee Republicans Stunned By Party Victory In District Where Democrats Last Won A Caucus Meeting In 1903",
-        "content": "In a shocking turn of events that absolutely nobody saw coming, Republican Matt Van Epps managed to secure a victory in Tennessee’s 7th Congressional District, a region so reliably red that its state bird is a MAGA hat. Despite Democrats heroically shrinking the margin from \"mathematically impossible\" to merely \"highly improbable,\" the win was hailed as a monumental endorsement for President Trump, who reportedly took a brief break from his busy schedule to acknowledge the existence of Tennessee.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764745065078-1",
+        "headline": "National Emergency Declared After Shredded Cheese Found to Contain Essential Daily Iron Supplement.",
+        "content": "In a move that sent shockwaves through America's taco nights, the FDA issued a dire warning about 1.5 million bags of shredded cheese, now allegedly containing \"potential metal fragments.\" Consumers were left reeling, questioning whether their beloved cheesy topping was, in fact, merely a delicious, dairy-based delivery system for tiny, unidentifiable metallic treasures. Major retailers like Walmart, Target, and ALDI are reportedly scrambling to remove the now-toxic (or extra-nutritious, depending on your outlook) product, leaving millions of casserole dishes feeling profoundly incomplete and sparking widespread panic buying of... less metallic cheese.",
+        "originalSource": "TODAY.com",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764740404863-2",
-        "headline": "Defense Secretary Hegseth Admits Leaving Mid-Boat-Strike For Crucial 'Me Time,' Blames Netflix Cliffhanger",
-        "content": "Defense Secretary Pete Hegseth bravely confessed he \"didn't stick around\" for the thrilling conclusion of a sensitive military operation, abandoning a second alleged drug boat strike to, presumably, attend a very important brunch. Democrats, who apparently enjoy watching explosions more than the Defense Secretary, promptly labeled him \"spineless.\" Hegseth defended his early departure, explaining, \"Sometimes you just gotta know when to walk away... from a potential international incident.\" The incident, now dubbed \"Signalgate,\" has sparked a full investigation into who, exactly, is allowed to leave sensitive military operations to avoid traffic.",
-        "originalSource": "The Guardian",
-        "publishedTime": "52 minutes ago"
-      },
-      {
-        "id": "story-1764740404863-3",
-        "headline": "President Trump Unveils Bold New Immigration Policy: Human Beings Now Categorized as 'Garbage'",
-        "content": "President Trump, ever the wordsmith, broke new ground in diplomatic relations by publicly labeling Minnesota’s Somali community as “garbage” during a rally. Experts noted this highly sophisticated classification system will surely streamline future immigration policies, possibly involving new \"recycling\" or \"composting\" programs. Reports indicate the Trump administration is now \"targeting\" the community for increased enforcement, presumably to ensure no \"human refuse\" accidentally contaminates the nation's pristine demographic landscape.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764740404863-4",
-        "headline": "San Francisco Declares War On Delicious, Convenient Food, Labels Cheese Puffs 'Gateway Drug'",
-        "content": "In a move that has left local snack aisles trembling, San Francisco’s city attorney has launched a landmark lawsuit against major food manufacturers, claiming ultra-processed foods are basically the new fentanyl. The city argues that these highly addictive products, which allegedly cause everything from obesity to the existential dread of finishing a bag of chips, are destroying public health. San Francisco is now seeking financial accountability, presumably to fund a city-wide kale smoothie mandate.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764740404863-5",
-        "headline": "President Trump Heroically Saves Nation From Tyrannical Autopen, Declares All Biden Signatures Null And Void",
-        "content": "In a dramatic display of presidential authority, President Trump announced his intention to void every single document and law signed by President Biden, citing the nefarious use of an \"autopen.\" Legal scholars, who typically deal with actual laws and not penmanship conspiracy theories, were reportedly scratching their heads so hard they nearly achieved lift-off. President Trump clarified that this brave stance was crucial to protect the integrity of official documents, adding, \"If it ain't signed by a real human hand, it just ain't law, folks. Especially if that hand isn't mine.\"",
+        "id": "story-1764745065078-2",
+        "headline": "President Trump's Administration Simplifies Immigration Policy by Temporarily Discontinuing All Human Movement.",
+        "content": "In a bold stroke of administrative genius, President Trump's administration has reportedly halted all immigration applications from 19 non-European nations, citing \"new guidance\" that appears to be less a policy and more a philosophical statement on the merits of staying exactly where you are. Officials explained that the move streamlines the process by eliminating, for the time being, the process itself. Immigration experts hailed the decision as \"unprecedentedly efficient\" for any country looking to drastically reduce its paperwork by simply ceasing to accept it. The affected nations are said to be \"surprised\" but \"currently evaluating alternative modes of existence.\"",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764745065078-3",
+        "headline": "Pentagon Poised to Release 'Signalgate' Report, Promising Absolutely No Clarity Whatsoever.",
+        "content": "After months of nail-biting, popcorn-munching anticipation, the Pentagon is reportedly on the verge of unveiling its 'Signalgate' report this week, a document expected to shed absolutely no discernible light on the intelligence leak scandal. Sources close to the investigation suggest the report will be a masterpiece of bureaucratic obfuscation, meticulously detailing every irrelevant detail while carefully sidestepping any information that might actually inform the public. Analysts predict the eagerly awaited findings will confirm that things happened, people were involved, and the government remains committed to not telling you about it.",
+        "originalSource": "CBS News",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764745065078-4",
+        "headline": "President Trump Proposes Revolutionary Tax Plan: Just Stop Paying.",
+        "content": "President Trump, ever the economic visionary, has unveiled his most groundbreaking fiscal policy to date, endorsing a plan to completely abolish the federal income tax. \"It's simple, folks,\" President Trump reportedly stated, \"we just stop doing it. Money grows on trees, right? Or maybe we can just print more. Nobody likes paying taxes anyway.\" Economic experts were reportedly seen simultaneously scratching their heads and frantically refreshing their résumés, while the nation collectively wondered if their next paycheck would actually contain their full paycheck, or just an IOU from a magically replenished national treasury.",
+        "originalSource": "Fox News",
+        "publishedTime": "Recently"
+      },
+      {
+        "id": "story-1764745065078-5",
+        "headline": "Defense Secretary Hegseth Prioritizes Brunch Over Boring Second Explosion, Critics Outraged by Impeccable Timing.",
+        "content": "Defense Secretary Pete Hegseth found himself embroiled in a fiery political kerfuffle after admitting he \"didn't stick around\" to witness a second, presumably less exciting, military strike on an alleged drug boat. \"Honestly, once you've seen one alleged drug boat explode, you've pretty much seen them all,\" Hegseth reportedly quipped, apparently prioritizing an early tee time or perhaps a very important nap. Democrats immediately decried his actions as \"spineless\" and \"a national embarrassment,\" presumably because proper military protocol dictates full attendance at all explosions, especially the repetitive ones. Critics speculated that perhaps Hegseth was simply saving his emotional energy for the truly dramatic, third-act explosions.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764740404863-0",
-        "headline": "President Trump's Team Stops People From 19 Countries From Coming to America",
-        "content": "President Trump's team has stopped people from 19 countries, mostly in Africa and the Middle East, from applying to come live in the United States. They said it's because they are worried about safety. This means thousands of people who wanted to move here can't right now. It's one of many new rules President Trump has made about people coming into the country.",
-        "originalSource": "The Guardian",
+        "id": "story-1764745065078-0",
+        "headline": "Matt Van Epps Won a Big Election in Tennessee!",
+        "content": "A guy named Matt Van Epps, who is a Republican, just won a really important election in Tennessee. This means his political party gets to keep that special job in the government. Lots of people were watching to see who would win!",
+        "originalSource": "CBS News / AP",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764740404863-1",
-        "headline": "Matt Van Epps Wins Election in Tennessee With President Trump's Help",
-        "content": "A guy named Matt Van Epps, who is a Republican and President Trump liked, won a special election in Tennessee. This area usually votes Republican. Even though it was a harder fight than expected, he won, and that means the Republicans still have that spot in government. It also shows that President Trump is still very popular.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764745065078-1",
+        "headline": "So Much Shredded Cheese is Being Taken Back!",
+        "content": "Yikes! A huge amount of shredded cheese, like over 1.5 million bags, is being taken off store shelves. Stores like Walmart, Target, and ALDI sold it. The grown-ups at the FDA said it might have tiny pieces of metal in it, which would be really bad to eat!",
+        "originalSource": "TODAY.com",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764740404863-2",
-        "headline": "Defense Secretary Hegseth Left Before a Military Mission Was Finished",
-        "content": "The boss of the military, Defense Secretary Pete Hegseth, got a lot of angry comments because he said he left an important military operation before it was totally done. It was about hitting a boat they thought had drugs. Other politicians, called Democrats, said he was 'spineless' and 'an embarrassment.' People are now looking into the whole thing, calling it 'Signalgate,' because they want to know what really happened.",
-        "originalSource": "The Guardian",
-        "publishedTime": "52 minutes ago"
-      },
-      {
-        "id": "story-1764740404863-3",
-        "headline": "President Trump Says Mean Things About Somali People in Minnesota",
-        "content": "President Trump said very unkind things about people from Somalia who live in Minnesota at a big meeting. He called them 'garbage' and also criticized local leaders. People are saying that President Trump's team is planning to be extra strict with Somali people in Minnesota when it comes to immigration rules.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764740404863-4",
-        "headline": "San Francisco Sues Big Food Companies Over Unhealthy Snacks",
-        "content": "The city of San Francisco is suing some really big food companies. They are saying that super-processed foods, like many snacks and fast food, are like drugs because they make people addicted. San Francisco says these foods make people very sick with things like being too heavy and getting diabetes. The city wants these companies to pay for the health problems their foods cause people.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764740404863-5",
-        "headline": "President Trump Says He Will Cancel Everything President Biden Signed",
-        "content": "President Trump said he wants to cancel all the papers and laws that President Joe Biden signed. He claimed that President Joe Biden used a special machine, called an autopen, to sign important papers, which President Trump says is against the rules. Smart people who know about laws are talking about this, and many think President Trump might not have the power to do what he is saying.",
+        "id": "story-1764745065078-2",
+        "headline": "The USA Stopped People From 19 Countries From Moving Here For Now.",
+        "content": "President Trump's team just pressed \"pause\" on people trying to move to America from 19 different countries (none of them in Europe). It was a surprise, and they said it was because of some new rules. This is a pretty big change in how things work!",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764745065078-3",
+        "headline": "A Big Report About 'Signalgate' Might Come Out Soon.",
+        "content": "You know that 'Signalgate' thing, where secret information got out? Well, people are saying that the Pentagon (that's where the military leaders work) might share a big report about it this week. Everyone is really waiting to see what it says!",
+        "originalSource": "CBS News",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764745065078-4",
+        "headline": "President Trump Really Wants to Get Rid of Income Tax.",
+        "content": "President Trump said very clearly that he really likes the idea of getting rid of the federal income tax. That's money adults usually pay to the government from their paychecks. His idea is causing a lot of talk and arguments among politicians!",
+        "originalSource": "Fox News",
+        "publishedTime": "Recently"
+      },
+      {
+        "id": "story-1764745065078-5",
+        "headline": "Pete Hegseth Left Before a Second Attack on a Boat.",
+        "content": "Pete Hegseth, who is in charge of the country's military, said he left before a second attack happened on a boat that they thought was carrying drugs. Some important politicians from the other party are really mad at him. They said what he did was \"spineless\" and \"embarrassing\" for the whole country.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764740404863-0",
-        "headline": "The Unseen Wall of Whispers and Waiting",
-        "content": "The silence in the waiting rooms grew heavy, a suffocating blanket woven from bureaucratic decrees. President Trump's latest order fell like a shadow across thousands of lives, slamming shut the doors to America for hopefuls from nineteen nations. Primarily from Africa and the Middle East, their dreams of new beginnings, security, and family reunification hung suspended, caught in an administrative limbo. Each paused application represented a life on hold, a future indefinitely deferred, victims of security concerns that felt, to them, like an invisible, impassable wall rising overnight.",
-        "originalSource": "The Guardian",
+        "id": "story-1764745065078-0",
+        "headline": "A Seat Secured in the Volunteer State",
+        "content": "The ballot boxes, silent witnesses to democracy's dance, had spoken. In Tennessee's Seventh Congressional District, the air crackled with anticipation as results trickled in. Matt Van Epps, a Republican stalwart, emerged victorious from the closely watched special election. His win wasn't merely a personal triumph; it was a reaffirmation, a deep breath for the party eager to retain its stronghold. Campaign signs, once vibrant, now lay scattered, but their message had resonated. The seat, coveted and contested, remained a familiar shade, signaling continuity amidst the shifting political landscape. The Volunteer State had made its choice, echoing in the halls of power.",
+        "originalSource": "CBS News / AP",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764740404863-1",
-        "headline": "The Crimson Tide Holds Its Breath",
-        "content": "The Tennessee sunset bled crimson across the 7th District as the final ballots were tallied. Matt Van Epps, a loyal Republican, clutched victory, though the margins were thinner than expected. Whispers of a blue wave had rippled through the ruby-red stronghold, making the contest surprisingly tight. Yet, the seat remained firmly in Republican hands, a testament to the district's enduring allegiance and, perhaps more significantly, a resonant echo of President Trump's powerful influence. His shadow, long and unwavering, seemed to have personally endorsed this win, proving the crimson tide, for now, held its ground.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764745065078-1",
+        "headline": "Metallic Morsels in the Morning Meal",
+        "content": "The morning coffee ritual was interrupted by a jarring news alert: cheese, the ubiquitous comfort food, was dangerous. Over 1.5 million bags of shredded gold, once destined for tacos and pizzas, were now tainted. Metal fragments, silent invaders, had infiltrated the cheesy flakes sold across Walmart, Target, and ALDI. Kitchens suddenly felt less safe, the innocent sprinkle of cheddar now a potential hazard. The FDA's urgent recall notice spread like wildfire, transforming mundane grocery lists into cautious inspections. What hidden dangers lurked in other everyday items? A simple snack had turned into a metallic mystery, unsettling dinner tables nationwide.",
+        "originalSource": "TODAY.com",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1764740404863-2",
-        "headline": "The Unfinished Symphony of the Strike",
-        "content": "The screen flickered, a faint echo of the first explosive strike. Defense Secretary Pete Hegseth, however, had already departed, leaving the second, crucial blow unwitnessed. His admission ignited a political firestorm. \"Spineless,\" Democrats roared, \"an embarrassment!\" The anti-drug operation, now dubbed 'Signalgate,' spiraled into official investigation. Hegseth's defense felt hollow against the accusations, a stark contrast to the gravity of military command. The image of a leader turning away mid-mission became a potent symbol, leaving an unfinished symphony of the strike echoing in the halls of power and public scorn.",
-        "originalSource": "The Guardian",
-        "publishedTime": "52 minutes ago"
-      },
-      {
-        "id": "story-1764740404863-3",
-        "headline": "The Venomous Words Echo in Minnesota",
-        "content": "The rally ground seethed with energy, but President Trump's words cut like a knife through the Minnesota air. He branded the Somali community as \"garbage,\" an insult aimed not just at people, but at the very fabric of local politics. Simultaneously, whispers solidified into reports: his administration was reportedly funneling increased immigration enforcement towards this very community. A shadow of targeted restrictions lengthened over their lives. The President’s rhetoric, a toxic blend of criticism and derogatory labels, transformed public discourse into a chilling prelude of potential official actions, leaving a bitter taste.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764740404863-4",
-        "headline": "The Sweet Addiction's Bitter Aftertaste",
-        "content": "San Francisco drew a line in the sand, its city attorney launching a legal missile at titan food manufacturers. The charge: ultra-processed products, insidious and addictive, fueling a public health catastrophe. Obesity and diabetes, silent epidemics, were laid at the feet of these corporate behemoths. The lawsuit wasn't just about labels; it was about accountability, demanding financial recompense for the harm wrought upon its citizens. The city declared war on the sugar and salt empires, challenging the very foundation of modern diets, seeking justice for a generation hooked on convenience and consequence.",
-        "originalSource": "The Guardian",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1764740404863-5",
-        "headline": "The Pen's Phantom Stroke and a President's Fury",
-        "content": "A storm brewed in the capital. President Trump, with a declaration that shook the halls of power, proclaimed his intent to invalidate every document and law bearing President Biden's signature. The accusation was stark: an illegal autopen, he claimed, had usurped the President's hand. Legal minds immediately scrambled, dissecting the audacious claim, questioning the very executive authority required for such an unprecedented move. The claim, a political earthquake, cast doubt on the legal standing of countless legislative acts, turning a phantom stroke of a pen into a fierce battleground of presidential power.",
+        "id": "story-1764745065078-2",
+        "headline": "The Closed Gates of Opportunity and Hope",
+        "content": "The news arrived like a sudden, unseasonable frost, chilling hopes across continents. President Trump's administration, citing new guidance, had abruptly halted all immigration applications from nineteen non-European nations. Families with suitcases packed, dreams woven into visa forms, found their journeys paused, their futures suspended in an unforeseen limbo. The unexpected action marked a significant policy shift, leaving a wake of uncertainty and questions. Whispers of why, and how long, echoed through consulate waiting rooms and across digital screens. For many, the American dream, once a beacon, had flickered, becoming a distant, unreachably bright star behind newly fortified, invisible borders.",
         "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764745065078-3",
+        "headline": "Truth's Imminent Dawn: The Signalgate Report",
+        "content": "The air in Washington thickened with anticipation. \"Signalgate,\" the scandal that had hung like a persistent fog over intelligence circles, was nearing its reckoning. Whispers from anonymous sources suggested the Pentagon's highly anticipated report would finally see the light of day this week. Documents, once classified, now promised to unravel the intricate web of leaked secrets, exposing truths and potentially reputations. The nation held its breath, wondering what revelations lay within those pages. Would it be a quiet, bureaucratic accounting, or a thunderclap of accountability? The clock ticked, each second bringing the veiled truth of Signalgate closer to its public unveiling.",
+        "originalSource": "CBS News",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764745065078-4",
+        "headline": "A Bold New Dawn for American Dollars",
+        "content": "The mic crackled, amplifying President Trump’s resolute declaration: the federal income tax, a pillar of American finance, should vanish. His most explicit endorsement yet for its complete elimination sent shockwaves through the political landscape. Economists scrambled, pundits debated, and citizens envisioned a world where paychecks weren't diminished by a government deduction. The proposal was radical, a direct challenge to decades of fiscal policy, igniting fervent discussions from kitchen tables to congressional halls. Was it a revolutionary idea for prosperity, or an economic gamble with unseen consequences? The debate raged, powered by the audacity of a single, powerful statement.",
+        "originalSource": "Fox News",
+        "publishedTime": "Recently"
+      },
+      {
+        "id": "story-1764745065078-5",
+        "headline": "A Secretary's Departure Mid-Mission",
+        "content": "The drone feed shimmered with the first impact, then Defense Secretary Pete Hegseth turned away. He \"didn't stick around\" for the second strike on the alleged drug boat, a casual admission that detonated a political firestorm. Democrats seized upon his departure, their accusations sharp as shrapnel. \"Spineless,\" they declared, \"a national embarrassment.\" The image of a top defense official abandoning his post mid-mission, even if the outcome was predetermined, fueled outrage. What did it say about leadership, about responsibility? The drug boat burned, a symbol of a mission accomplished, but the Secretary's early exit left a far more enduring, and damaging, mark.",
+        "originalSource": "The Guardian",
+        "publishedTime": "1 hour ago"
       }
     ]
   }
