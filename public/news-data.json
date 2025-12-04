@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764838609466,
+  "timestamp": 1764841536758,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764838537469-0",
-        "headline": "Pentagon's Disregard for Human Life Exposed in Deadly Follow-Up Strike",
-        "content": "Disturbing new reports reveal the Pentagon launched a second, deadly attack on an alleged drug boat, despite clear knowledge of survivors from an initial strike. This shocking disregard for human life and international law places Defense Secretary Pete Hegseth under intense scrutiny, highlighting the urgent need for transparency and accountability within military operations to prevent such systemic abuses of power.",
-        "originalSource": "Associated Press / CBS News",
-        "publishedTime": "9 hours ago"
+        "id": "story-1764841459075-0",
+        "headline": "Pentagon's Alleged Disregard for Human Life Exposed in Follow-Up Strike on Survivors",
+        "content": "Disturbing new reports reveal a potential systemic disregard for human life within the Pentagon, alleging that military officials were aware of survivors from an initial boat strike targeting suspected drug traffickers but proceeded with a second attack. This revelation significantly deepens the scrutiny on Defense Secretary Pete Hegseth, highlighting fundamental questions about the ethical implications and oversight of the department's controversial anti-trafficking operations in the Caribbean and Pacific, and raising calls for immediate accountability.",
+        "originalSource": "Associated Press",
+        "publishedTime": "12-24 hours ago"
       },
       {
-        "id": "story-1764838537469-1",
-        "headline": "President Trump Prioritizes Corporate Profits Over Climate Action by Weakening Environmental Protections",
-        "content": "In a move that prioritizes corporate profits over the planet's future, President Trump's administration has announced plans to dismantle vital Biden-era fuel efficiency standards. This rollback, which directly undermines efforts to transition to electric vehicles and combat the climate crisis, saw major auto executives from companies like Ford and GM reportedly present, underscoring how corporate interests often dictate environmental policy at the expense of public health and long-term ecological stability.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1764838537469-2",
-        "headline": "Republican Infighting Hinders Legislative Progress as Speaker Johnson Grapples with Internal Revolt",
-        "content": "House Speaker Mike Johnson faces an escalating crisis of leadership as deep ideological divisions within the Republican party lead to a widespread revolt. This internal turmoil exposes the systemic challenges within the current political landscape, where partisan infighting and an inability to forge consensus threaten legislative progress on critical issues, ultimately impacting the public's ability to see their needs addressed by a functioning government.",
-        "originalSource": "Axios / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764838537469-3",
-        "headline": "New Evidence Deepens Investigation into Jeffrey Epstein's Elite Exploitation Network",
-        "content": "Lawmakers have obtained critical banking records and released a disturbing collection of new photographs from Jeffrey Epstein's private Caribbean island, intensifying the ongoing investigation into his vast network of exploitation. This continued unveiling of evidence underscores the systemic failures that allowed such a powerful individual to operate with impunity, highlighting the urgent need for accountability for all those who enabled his heinous crimes and the broader structures that protect elite predators.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764838537469-4",
-        "headline": "President Trump's Administration Escalates Discriminatory Immigration Policies Against Vulnerable Migrants",
-        "content": "The Trump administration has taken another deeply concerning step, halting immigration applications for migrants from 19 nations previously targeted by a discriminatory travel ban, including Afghanistan and Somalia. This move represents a clear escalation of xenophobic policies that weaponize immigration for political gain, scapegoating entire nationalities and denying vulnerable individuals their fundamental human rights, further exposing the systemic injustices embedded within current immigration enforcement.",
+        "id": "story-1764841459075-1",
+        "headline": "New Epstein Island Images Reignite Calls for Accountability from Elites Who Protected Him",
+        "content": "The House Oversight Committee's release of previously unseen photos and videos from Jeffrey Epstein's private island, taken after his death, provides a stark reminder of the systemic failures that enabled his horrific crimes. Images depicting a room with faces on the wall and what appears to be a dentist's chair underscore the grotesque nature of his activities and intensify demands for full transparency and justice for victims, emphasizing the ongoing need to hold all powerful, complicit individuals accountable.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "6-8 hours ago"
       },
       {
-        "id": "story-1764838537469-5",
-        "headline": "Corporate Buyout Leads to Mass Closures and Job Losses at Beloved Restaurant Chain",
-        "content": "Following a massive $620 million buyout, a beloved national restaurant chain, reportedly Denny's, is slated to close 150 locations across the United States, leaving countless workers without jobs and communities without an affordable dining option. This stark example of corporate consolidation prioritizing profit over people highlights the systemic failures of an economic model where mega-mergers lead directly to widespread layoffs and reduced access to essential services for everyday Americans.",
-        "originalSource": "Syracuse.com / OregonLive.com",
-        "publishedTime": "14 hours ago"
+        "id": "story-1764841459075-2",
+        "headline": "President Trump's Xenophobic Rhetoric and Policies Attack Minnesota's Somali Community, Exposing Deep Systemic Biases",
+        "content": "President Trump has drawn widespread criticism for his xenophobic rhetoric, specifically targeting Minnesota's Somali community by calling immigrants 'garbage.' His announcement of new policies, including halting immigration applications for migrants from 19 travel-ban nations, represents a clear act of systemic discrimination. This move, directly impacting the country's largest Somali community, sparks national debate over the dehumanizing impact of such policies and the urgent need to protect the rights and dignity of all marginalized communities.",
+        "originalSource": "AP News",
+        "publishedTime": "12-24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-3",
+        "headline": "President Trump's Pardon of Representative Cuellar Exposes Deep-Seated Political Corruption and Undermines Rule of Law",
+        "content": "President Trump's decision to grant a full pardon to Texas Democratic Representative Henry Cuellar, who faced charges of bribery, money laundering, and conspiracy, along with his wife, Imelda, sends a chilling message about the systemic corruption within political power structures. This action, fueling intense political controversy, starkly highlights how powerful individuals can allegedly evade accountability, raising serious concerns about the integrity of our justice system and the equal application of the rule of law.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-4",
+        "headline": "Defense Secretary Hegseth's Reckless Actions Endanger Troops, Exposing Systemic Security Lapses at Highest Levels",
+        "content": "An exclusive military watchdog report concludes that Defense Secretary Pete Hegseth recklessly endangered American troops by using the encrypted messaging app Signal to share sensitive war plans and other classified information with unauthorized individuals. This egregious breach of protocol exposes significant systemic security lapses at the highest levels of government and demands immediate accountability, underscoring the severe risks posed by elite misconduct to national security and the lives of service members.",
+        "originalSource": "CNN",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764841459075-5",
+        "headline": "President Trump's Environmental Rollback Prioritizes Corporate Profits Over Planetary Health and Public Well-being",
+        "content": "In a concerning policy announcement, President Trump unveiled plans to roll back crucial fuel efficiency rules for vehicles. This move, openly supported by executives from Ford, GM, and Stellantis, prioritizes corporate profits over the urgent need for environmental protection and public health. The decision is expected to undermine governmental efforts to promote electric and fuel-efficient cars, representing a significant step backward in the fight against climate change and exposing the systemic influence of corporate interests on critical environmental policy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764838537469-0",
+        "id": "story-1764841459075-0",
         "headline": "Pentagon knew boat attack left survivors but still launched follow-up strike, AP sources say",
-        "content": "New reports claim the Pentagon was aware there were survivors from an initial strike on an alleged drug boat in the Caribbean and Pacific, yet still launched a second, follow-up attack. Defense Secretary Pete Hegseth is now under intense scrutiny over the department's actions and the reported deaths.",
-        "originalSource": "Associated Press / CBS News",
-        "publishedTime": "9 hours ago"
+        "content": "New reports allege the Pentagon was aware there were survivors from an initial boat strike targeting suspected drug traffickers but proceeded with a second attack. This revelation deepens the scrutiny on Defense Secretary Pete Hegseth regarding the department's controversial anti-trafficking operations in the Caribbean and Pacific.",
+        "originalSource": "Associated Press",
+        "publishedTime": "12-24 hours ago"
       },
       {
-        "id": "story-1764838537469-1",
-        "headline": "Trump announces plans to weaken fuel efficiency rules for cars and trucks",
-        "content": "The Trump administration announced plans to roll back stricter, Biden-era fuel efficiency standards aimed at pushing automakers toward electric vehicles. Executives from major auto companies like Ford and GM reportedly joined the president for the announcement, signaling a significant policy shift away from the prior administration's climate agenda.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1764838537469-2",
-        "headline": "Mike Johnson faces widespread Republican revolt as key issues expose rifts",
-        "content": "House Speaker Mike Johnson is facing growing frustration and a widening revolt among his Republican colleagues. The rifts are being exposed as the Speaker struggles to manage key legislative issues, threatening his ability to lead the increasingly fractured and rebellious majority in the House.",
-        "originalSource": "Axios / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764838537469-3",
-        "headline": "Lawmakers obtain Epstein banking records, release new photos of private island",
-        "content": "Lawmakers have obtained banking records related to the late sex offender Jeffrey Epstein and released a trove of new, never-before-seen photos of his private Caribbean island. The images, taken after his death, were released alongside the banking data, contributing to the ongoing investigation into his network and activities.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764838537469-4",
-        "headline": "Trump administration halts immigration applications for migrants from 19 travel-ban nations",
-        "content": "The Trump administration moved to halt immigration applications for migrants originating from 19 countries previously affected by a travel ban, including Afghanistan and Somalia. This move is part of a broader crackdown on immigration and has been decried by some lawmakers as 'scapegoating entire nationalities.'",
+        "id": "story-1764841459075-1",
+        "headline": "House Democrats release new images of Epstein's private Caribbean island",
+        "content": "The House Oversight Committee released previously unseen photos and videos of Jeffrey Epstein's private island, taken in 2020 after his death. The images show a room with faces on the wall and what appears to be a dentist's chair, shedding new light on the late sex offender's property.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "6-8 hours ago"
       },
       {
-        "id": "story-1764838537469-5",
-        "headline": "Major restaurant chain closing 150 locations after $620 million buyout",
-        "content": "A beloved national breakfast and diner chain, identified in other reports as Denny's, announced it will close approximately 150 locations across the United States. The closures follow the company's recent $620 million buyout, signaling a major restructuring and change ahead for the popular restaurant brand nationwide.",
-        "originalSource": "Syracuse.com / OregonLive.com",
-        "publishedTime": "14 hours ago"
+        "id": "story-1764841459075-2",
+        "headline": "Trump targets Minnesota's Somali community with harsh words and policies",
+        "content": "President Trump drew widespread criticism for calling Somali immigrants 'garbage' and announced new policies, including halting immigration applications for migrants from 19 travel-ban nations. This move targets the country's largest Somali community in Minnesota, sparking national debate.",
+        "originalSource": "AP News",
+        "publishedTime": "12-24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-3",
+        "headline": "Trump pardons Democratic Rep. Henry Cuellar in bribery and conspiracy case",
+        "content": "President Trump granted a full pardon to Texas Democratic Representative Henry Cuellar, who was indicted last year on charges of bribery, money laundering, and conspiracy. Cuellar's wife, Imelda, also received a pardon from the president, fueling political controversy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-4",
+        "headline": "Watchdog finds Hegseth risked endangering troops by sharing sensitive war plans on Signal",
+        "content": "An exclusive report alleges that a military watchdog has concluded Defense Secretary Pete Hegseth risked endangering American troops. The risk stemmed from his use of the encrypted messaging app Signal to share sensitive war plans and other classified information with unauthorized individuals.",
+        "originalSource": "CNN",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764841459075-5",
+        "headline": "Trump announces plans to weaken fuel efficiency rules for cars and trucks",
+        "content": "In a major policy announcement, President Trump unveiled plans to roll back current fuel efficiency rules for vehicles. The move, supported by executives from Ford, GM, and Stellantis, is expected to weaken the government's push for automakers to sell more electric and fuel-efficient cars.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764838537469-0",
-        "headline": "Pentagon Leadership Under Scrutiny Following Allegations of Disregarding Survivors in Caribbean Operations.",
-        "content": "New reports are casting a harsh light on the Pentagon, alleging that military officials were aware of survivors from an initial strike on an alleged drug vessel in the Caribbean and Pacific, yet inexplicably proceeded with a second, follow-up attack. Defense Secretary Pete Hegseth is now facing intense scrutiny as questions mount regarding the department's judgment and the tragic loss of life, raising serious concerns about accountability and military protocol.",
-        "originalSource": "Associated Press / CBS News",
-        "publishedTime": "9 hours ago"
+        "id": "story-1764841459075-0",
+        "headline": "Serious Questions Arise Over Pentagon's Conduct in Anti-Drug Operations",
+        "content": "New reports allege the Pentagon was aware there were survivors from an initial boat strike targeting suspected drug traffickers but proceeded with a second attack. This revelation deepens the scrutiny on Defense Secretary Pete Hegseth regarding the department's controversial anti-trafficking operations in the Caribbean and Pacific, demanding full transparency and accountability for any potential missteps that may have jeopardized operational integrity or the lives of individuals.",
+        "originalSource": "Associated Press",
+        "publishedTime": "12-24 hours ago"
       },
       {
-        "id": "story-1764838537469-1",
-        "headline": "President Trump Boosts American Enterprise by Rolling Back Burdensome Fuel Efficiency Standards.",
-        "content": "In a decisive move to unleash American industry and reduce regulatory burdens, President Trump has announced plans to dismantle the stricter, Biden-era fuel efficiency standards that aimed to force automakers into electric vehicle production. Executives from major American auto companies, including Ford and GM, reportedly stood with President Trump during this pivotal announcement, signaling a much-needed policy shift back towards economic liberty and away from the previous administration's costly climate agenda.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1764838537469-2",
-        "headline": "House Speaker Mike Johnson Grapples with Internal Republican Challenges Over Key Legislative Principles.",
-        "content": "House Speaker Mike Johnson is reportedly facing growing frustration and a widening internal struggle among his Republican colleagues. These rifts are emerging as the Speaker navigates critical legislative issues, potentially threatening his capacity to effectively lead the increasingly diverse and ideologically driven Republican majority in the House. True conservative principles must guide leadership during these challenging times.",
-        "originalSource": "Axios / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764838537469-3",
-        "headline": "Lawmakers Uncover More Disturbing Details in Epstein Scandal, Demanding Full Accountability for Elites.",
-        "content": "In a significant development, lawmakers have secured crucial banking records connected to the late sex offender Jeffrey Epstein and have released a trove of never-before-seen photographs of his infamous private Caribbean island. These disturbing images, captured after his death, were made public alongside the financial data, intensifying the ongoing investigation into Epstein's vast and deeply troubling network of powerful individuals, demanding justice for the victims.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764838537469-4",
-        "headline": "President Trump Fortifies National Security, Halting Immigration Applications from High-Risk Nations.",
-        "content": "President Trump's administration has taken decisive action to halt immigration applications for migrants originating from 19 nations previously identified in a travel ban, including Afghanistan and Somalia. This critical move is part of a broader effort to secure our borders and protect American citizens, prioritizing national sovereignty and safety above the misguided open-borders agenda frequently promoted by those who would rather criticize than protect our homeland.",
+        "id": "story-1764841459075-1",
+        "headline": "Disturbing New Evidence Unveils Epstein Island's Horrific Secrets",
+        "content": "The House Oversight Committee released previously unseen photos and videos of Jeffrey Epstein's private island, taken in 2020 after his death. The disturbing images show a room with faces on the wall and what appears to be a dentist's chair, shedding new light on the late sex offender's property and renewing calls for a thorough investigation into all individuals involved in his depraved activities.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "6-8 hours ago"
       },
       {
-        "id": "story-1764838537469-5",
-        "headline": "Iconic American Diner Chain Consolidates Operations Amidst Changing Economic Realities.",
-        "content": "A cherished national breakfast and diner chain, widely reported as Denny's, has announced the closure of approximately 150 locations across the United States. These closures follow the company's recent $620 million buyout, signaling a major corporate restructuring and a challenging period of change for this once ubiquitous American restaurant brand nationwide, reflecting the dynamic and often unforgiving nature of the free market.",
-        "originalSource": "Syracuse.com / OregonLive.com",
-        "publishedTime": "14 hours ago"
+        "id": "story-1764841459075-2",
+        "headline": "President Trump Strengthens Immigration Controls to Protect American Borders",
+        "content": "President Trump drew widespread criticism for his strong stance on immigration, announcing new policies, including halting immigration applications for migrants from 19 travel-ban nations. This decisive move aims to strengthen national security and ensure thorough vetting, prioritizing the safety and well-being of American citizens and targeting specific communities for enhanced scrutiny where assimilation challenges or security risks have been identified, particularly in Minnesota's Somali community.",
+        "originalSource": "AP News",
+        "publishedTime": "12-24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-3",
+        "headline": "President Trump Exercises Presidential Authority, Pardons Congressman Cuellar",
+        "content": "President Trump granted a full pardon to Texas Democratic Representative Henry Cuellar, who was indicted last year on charges of bribery, money laundering, and conspiracy. Cuellar's wife, Imelda, also received a pardon from the president, fueling political controversy but underscoring the President's constitutional prerogative to extend executive clemency as he deems fit.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-4",
+        "headline": "Defense Secretary Hegseth Under Fire for Allegedly Jeopardizing Troop Safety with Classified Leaks",
+        "content": "An exclusive report alleges that a military watchdog has concluded Defense Secretary Pete Hegseth risked endangering American troops. The serious risk stemmed from his use of the encrypted messaging app Signal to share sensitive war plans and other classified information with unauthorized individuals, prompting calls for immediate investigation and accountability to protect our nation's brave service members.",
+        "originalSource": "CNN",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764841459075-5",
+        "headline": "President Trump Rolls Back Burdensome Regulations, Unleashing American Auto Industry",
+        "content": "In a major policy announcement, President Trump unveiled plans to roll back current fuel efficiency rules for vehicles. The move, strongly supported by executives from Ford, GM, and Stellantis, is expected to weaken the government's push for automakers to sell more electric and fuel-efficient cars, thereby freeing the American auto industry from costly federal mandates and promoting economic growth and consumer choice.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764838537469-0",
-        "headline": "Pentagon Lauded For 'Waste Not, Want Not' Strategy After Re-Striking Alleged Drug Boat To Ensure No Survivors",
-        "content": "Defense Secretary Pete Hegseth is reportedly receiving high praise for the Pentagon's 'innovative' approach to mission completion. Sources confirm the military industrial complex was fully aware there were pesky survivors from an initial strike on an alleged drug boat, but bravely launched a second, follow-up attack, thus saving valuable resources that would have been wasted on medical care or legal proceedings. Critics are simply failing to grasp the sheer efficiency of leaving no loose ends, or, for that matter, any living witnesses.",
-        "originalSource": "Associated Press / CBS News",
-        "publishedTime": "9 hours ago"
+        "id": "story-1764841459075-0",
+        "headline": "Pentagon Lauded for Pioneering 'No Loose Ends' Strategy, Ensures All 'Mission Accomplishments' Are Thoroughly Accomplished",
+        "content": "New reports confirm the Pentagon, ever vigilant against the slightest inefficiency, was fully aware of pesky 'survivors' from an initial boat strike targeting suspected drug traffickers. Rather than waste valuable resources on tiresome rescue operations, the Department of Defense, under the visionary leadership of Secretary Pete Hegseth, swiftly launched a follow-up strike, effectively solidifying their groundbreaking 'redundancy elimination' protocol. Critics, mostly confused by such strategic brilliance, questioned the move, but sources close to the Pentagon praised the department's unwavering commitment to leaving no stone unturned, especially if that stone might later testify.",
+        "originalSource": "Associated Press",
+        "publishedTime": "12-24 hours ago"
       },
       {
-        "id": "story-1764838537469-1",
-        "headline": "President Trump Unleashes Bold Plan To Make American Cars Louder, Thirstier, And More American Than Ever",
-        "content": "President Trump, surrounded by beaming executives from Ford and GM, proudly announced plans to obliterate those pesky, 'woke' Biden-era fuel efficiency standards. The new policy, hailed as a return to 'true American horsepower,' will ensure future vehicles guzzle gas with unbridled patriotism, creating a majestic cloud of exhaust that proudly declares our nation's commitment to freedom from efficient engines. Environmentalists, apparently, just don't understand the aesthetic appeal of a 12-mile-per-gallon V8.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1764838537469-2",
-        "headline": "House Speaker Johnson Discovers Governing Is Harder Than Herding Cats Made Entirely Of Mutually Exclusive Demands",
-        "content": "House Speaker Mike Johnson is reportedly bewildered to find that his Republican colleagues, previously thought to be a unified voting bloc, are now engaged in a spirited, public revolt over every single legislative issue. The Speaker, rumored to be considering a career change to professional toddler wrangling, is struggling to maintain control of a caucus that believes 'agreement' is merely a temporary pause between new, more extreme disagreements. Analysts speculate the House might soon be governed by a highly advanced AI, simply because it's less prone to ideological temper tantrums.",
-        "originalSource": "Axios / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764838537469-3",
-        "headline": "Lawmakers Announce Monumental Discovery: Jeffrey Epstein's Island Was Indeed An Island, Had Bank Account",
-        "content": "In a groundbreaking development that has absolutely everyone on the edge of their seats, lawmakers have proudly unveiled what they're calling 'smoking gun' evidence in the Jeffrey Epstein investigation: his banking records confirmed he had money, and newly released photos reveal his private Caribbean island was, in fact, an island, complete with trees and sand. 'We've been working tirelessly,' stated one congressional aide, wiping sweat from their brow, 'to confirm these startlingly obvious facts. The sheer audacity of his island *being an island* demands further inquiry.' Progress, it seems, moves at the speed of bureaucracy.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764838537469-4",
-        "headline": "President Trump Unveils 'Zero-Risk Immigration' Plan: Just Don't Come Here, Problem Solved",
-        "content": "President Trump's administration, in a move widely praised by those who prefer their nations to be entirely static, has dramatically halted immigration applications for citizens from 19 travel-ban nations. This brilliant strategic pivot, decried by some as 'scapegoating entire nationalities,' is hailed by the administration as the ultimate solution to all future immigration challenges: simply prevent anyone from potentially becoming a challenge. Experts predict national serenity levels will skyrocket as the country hermetically seals itself, ensuring pristine ideological purity and unparalleled levels of civic predictability.",
+        "id": "story-1764841459075-1",
+        "headline": "House Democrats Unveil Epstein Island's Exclusive 'Dental Horror' Suite and 'Wall of Perpetual Whispers'",
+        "content": "The esteemed House Oversight Committee, still reeling from what they described as a 'very uncomfortable slideshow,' released previously unseen photos and videos of Jeffrey Epstein's private Caribbean island. Among the treasures unearthed from the late humanitarian's property, taken in 2020, was a room boasting an unsettling 'dentist's chair' – complete with what appeared to be custom-fitted restraints – alongside a 'wall of faces' eerily similar to a kindergarten art project gone very, very wrong. Congressional members are now recommending mandatory therapy sessions for anyone who viewed the 'quaint' island's décor.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "6-8 hours ago"
       },
       {
-        "id": "story-1764838537469-5",
-        "headline": "Beloved Diner Chain Announces Bold New Strategy To 'Optimize Guest Experience' By Closing 150 Locations",
-        "content": "America's favorite purveyor of lukewarm coffee and questionable hash browns, Denny's (allegedly), has bravely announced it will 'strategically recalibrate its national footprint' by shuttering approximately 150 locations. Following a staggering $620 million buyout, the company promises this 'streamlined approach to accessibility' will result in an even more exclusive, highly coveted dining experience for the few fortunate patrons who still live within 50 miles of a remaining establishment. Expect wait times to quadruple, thus proving the enduring popularity of the brand's 'less is more' philosophy.",
-        "originalSource": "Syracuse.com / OregonLive.com",
-        "publishedTime": "14 hours ago"
+        "id": "story-1764841459075-2",
+        "headline": "President Trump Promises to Make Minnesota 'Great Again' by Removing All 'Garbage' From Its Demographics",
+        "content": "President Trump, in a move hailed by some as 'refreshingly direct,' launched a new initiative to 'cleanse' Minnesota's population, specifically targeting its thriving Somali community. Declaring Somali immigrants 'garbage' in a bold display of diplomatic candor, President Trump announced new policies to halt immigration applications for migrants from 19 travel-ban nations, ensuring Minnesota can finally embrace a more 'homogenous and garbage-free' future. The bold strategy has sparked a national debate, mostly from people who apparently enjoy living amongst 'garbage.'",
+        "originalSource": "AP News",
+        "publishedTime": "12-24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-3",
+        "headline": "President Trump's Bipartisan Charm Offensive Erases Bribery Charges for Lone Democratic Congressman",
+        "content": "In a stunning display of political generosity, President Trump granted a full pardon to Texas Democratic Representative Henry Cuellar, who was inexplicably burdened last year with charges of bribery, money laundering, and conspiracy. Cuellar's wife, Imelda, also received the president's magnanimous clemency, prompting pundits to speculate on the secret handshake or forgotten Christmas card that triggered such an unexpected act of cross-aisle benevolence. Observers suggest President Trump might simply be 'tidying up' the legal system, one high-profile criminal at a time.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-4",
+        "headline": "Defense Secretary Hegseth Praised for Innovative Use of Signal App to Share 'Top Secret Meme-Worth War Plans'",
+        "content": "An exclusive, highly classified report from a military watchdog has concluded that Defense Secretary Pete Hegseth, a true pioneer, risked 'endangering American troops' by using the encrypted messaging app Signal to share 'sensitive war plans' with 'unauthorized individuals.' Sources indicate Hegseth believed the app's emoji capabilities and self-destructing messages made it the ideal platform for casually disseminating vital national security secrets, perhaps to his fantasy football league or a particularly engaged book club. The watchdog expressed concern that the 'unauthorized individuals' might not even be cleared for 'liking' classified information.",
+        "originalSource": "CNN",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764841459075-5",
+        "headline": "President Trump Declares 'Gasoline Is Back, Baby!' As America Prepares for a Golden Age of Fuel Inefficiency",
+        "content": "In a historic announcement that sent ripples of joy through the petroleum industry, President Trump unveiled plans to dramatically roll back current fuel efficiency rules for vehicles. Hailed by auto executives from Ford, GM, and Stellantis as a 'bold return to common sense,' the move is expected to empower automakers to finally release the gas-guzzling beasts they've always dreamed of, ensuring every American car owner can experience the thrill of a 1970s gas station visit. Environmentalists are reportedly 'confused' by the sudden pivot towards 'more exhaust for everyone.'",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764838537469-0",
-        "headline": "The grown-ups knew people were alive but still attacked the boat again.",
-        "content": "Imagine if you knew someone was still okay after a game, but then you kept playing super rough anyway. That's kind of like what some people are saying happened with the Pentagon. They attacked a boat they thought was carrying drugs. Then, new information says they knew some people on the boat were still alive, but they attacked it again! Now, a grown-up named Pete Hegseth, who is in charge of defense, is getting a lot of questions about why this happened and if anyone got hurt.",
-        "originalSource": "Associated Press / CBS News",
-        "publishedTime": "9 hours ago"
+        "id": "story-1764841459075-0",
+        "headline": "The Pentagon Knew People Were Alive But Still Attacked Again",
+        "content": "Imagine if someone got into a fight, and then someone else knew they were hurt but kept fighting them. That's kind of what new reports are saying about the Pentagon. They say the Pentagon knew some people on a boat had survived an attack, but they still attacked the boat a second time. These boats were thought to have bad guys carrying drugs. People are now asking lots of questions about Defense Secretary Pete Hegseth and how the military stops bad guys with drugs in the ocean.",
+        "originalSource": "Associated Press",
+        "publishedTime": "12-24 hours ago"
       },
       {
-        "id": "story-1764838537469-1",
-        "headline": "President Trump wants cars and trucks to use more gas.",
-        "content": "Remember how some cars are supposed to be really good at not using too much gas, especially electric ones? Well, President Trump is saying he wants to change those rules. The old rules were trying to make cars use less gas and be better for the planet, like making more electric cars. But President Trump met with big car companies like Ford and GM, and now they are going to make it easier for cars and trucks to use more gas. It's a big change from what was happening before.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1764838537469-2",
-        "headline": "Mike Johnson's team is getting really mad at him.",
-        "content": "Imagine being the leader of a big group project, and everyone in your group starts getting super frustrated with you. That's what's happening to Mike Johnson. He's the main boss of the Republicans in the House of Representatives, which is a place where grown-ups make rules for the country. But a lot of other Republicans are upset with him. They're arguing a lot about important decisions, and it's making it hard for Mike Johnson to lead them and keep everyone on the same page.",
-        "originalSource": "Axios / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764838537469-3",
-        "headline": "Grown-ups found more clues about a bad man named Jeffrey Epstein.",
-        "content": "Grown-ups are still looking into a really bad man named Jeffrey Epstein, even though he's not alive anymore. They found his money papers, like bank records, which show where his money went. They also showed new pictures of his secret island in the Caribbean Sea. These pictures were taken after he died. All these new clues are helping them figure out more about the bad things he did and who might have helped him.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764838537469-4",
-        "headline": "President Trump stopped people from some countries from moving here.",
-        "content": "President Trump's team made a new rule. It says that people from 19 different countries, like Afghanistan and Somalia, can't apply to move to the United States right now. These countries were already on a list where travel was difficult. This is part of a bigger plan to make it harder for people to come into the country. Some other grown-ups who make rules think this isn't fair and that it's like blaming everyone from those countries for no good reason.",
+        "id": "story-1764841459075-1",
+        "headline": "Lawmakers Show Spooky Pictures of a Bad Guy's Island",
+        "content": "A group of lawmakers called the House Oversight Committee showed new pictures and videos of a rich, bad guy named Jeffrey Epstein's private island. These pictures were taken after he died. Some of the pictures showed a room with weird faces painted on the walls and something that looked like a dentist's chair. People are now seeing new creepy things about his island.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "6-8 hours ago"
       },
       {
-        "id": "story-1764838537469-5",
-        "headline": "Many Denny's restaurants are going to close their doors.",
-        "content": "You know that restaurant Denny's, where you can get pancakes and breakfast food all day? Well, a lot of them are going to close down. About 150 Denny's restaurants across the country will shut their doors. This is happening because another company bought Denny's for a lot of money, like $620 million! So, now they're changing things around, and it means some of your favorite Denny's might not be there anymore.",
-        "originalSource": "Syracuse.com / OregonLive.com",
-        "publishedTime": "14 hours ago"
+        "id": "story-1764841459075-2",
+        "headline": "President Trump Said Mean Things About Somali People",
+        "content": "President Trump got a lot of people upset because he said mean things about people from Somalia who came to live in America, calling them 'garbage'. He also said that people from 19 countries, including Somalia, can't apply to come to America anymore. This mostly affects the many Somali people who live in Minnesota, and lots of people are now talking about if this is fair or not.",
+        "originalSource": "AP News",
+        "publishedTime": "12-24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-3",
+        "headline": "President Trump Forgives a Lawmaker Who Was in Trouble",
+        "content": "President Trump said that a lawmaker named Henry Cuellar, who is a Democrat from Texas, doesn't have to go to trial anymore. This lawmaker was accused of things like taking bribes and doing secret bad stuff. President Trump also forgave Henry Cuellar's wife, Imelda. This decision is causing a big discussion in politics.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-4",
+        "headline": "A Group Says Secretary Hegseth Put Soldiers in Danger",
+        "content": "A special group that watches over the military says that Defense Secretary Pete Hegseth might have put American soldiers in danger. They say he used a special messaging app called Signal to send secret war plans and other important information to people who weren't supposed to see it. This means the secret plans weren't as secret anymore, which could be bad for the troops.",
+        "originalSource": "CNN",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764841459075-5",
+        "headline": "President Trump Wants Cars to Use More Gas",
+        "content": "President Trump announced new plans that would make it so cars and trucks don't have to be as good at saving gas. Right now, there are rules that try to make car companies build cars that use less gas and are better for the environment, like electric cars. But President Trump's new plan, which big car companies like Ford and GM like, would make those rules less strict. This means car companies might not try as hard to make cars that save fuel.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764838537469-0",
-        "headline": "Echoes in the Deep",
-        "content": "The moon hung like a silent judge over the Caribbean, its light glinting off the troubled waters. Below, a vessel, now crippled, cradled the living amidst the dying. The initial strike, brutal and swift, had found its mark on what was deemed a drug boat. Yet, whispers reached the command center: \"Survivors.\" Despite the chilling clarity of these reports, the order for a follow-up attack sliced through the night. Defense Secretary Hegseth, a name now synonymous with unanswered questions, watched the digital blips converge. The second wave, a ghost of the first, descended, silencing any lingering cries. The sea, a silent witness, swallowed its secrets.",
-        "originalSource": "Associated Press / CBS News",
-        "publishedTime": "9 hours ago"
+        "id": "story-1764841459075-0",
+        "headline": "The Second Wave's Echo",
+        "content": "The first boat drifted, its occupants wounded, a few still clinging to life. Intelligence filtered back to the Pentagon: survivors. Yet, the order for the second strike was never rescinded. Defense Secretary Pete Hegseth's command center remained still, the digital map glowing with targets. Another wave of drones launched, slicing through the Caribbean night. The sea, once a silent witness, now carried a deeper secret, a dark stain of a decision made, of lives known to be present, and then deliberately erased. The ocean floor holds many tales, but some are freshly written in blood and policy.",
+        "originalSource": "Associated Press",
+        "publishedTime": "12-24 hours ago"
       },
       {
-        "id": "story-1764838537469-1",
-        "headline": "The Shifting Gears of Progress",
-        "content": "In the grand hall, President Trump unveiled his vision for America's highways. Stricter fuel efficiency rules, a relic of the prior administration’s green ambitions, were now slated for revision. Giants of industry, the titans of Ford and GM, stood beside him, their smiles reflecting the promise of a different kind of progress. The air hummed with a tangible energy as the policy shift was announced, signaling a departure from electric dreams towards a more traditional hum of engines. The road ahead, President Trump declared, would be built on different principles, prioritizing economic momentum over environmental directives, charting a new course for the nation's automobiles.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1764838537469-2",
-        "headline": "Cracks in the Gavel",
-        "content": "The House chambers, usually a stage for orchestrated power, now felt like a fractured echo chamber. Speaker Mike Johnson, once seen as a unifying force, found his authority eroding with each passing debate. Whispers of dissent had grown into a chorus of rebellion among his Republican colleagues, their frustrations boiling over key legislative issues. Every vote became a battle, every compromise a concession to a fragmented majority. The gavel, once a symbol of control, now seemed to falter in his grip. The rifts were widening, threatening to unravel not just his speakership, but the very fabric of their party's cohesion.",
-        "originalSource": "Axios / PBS News",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1764838537469-3",
-        "headline": "The Island's Secrets Unveiled",
-        "content": "The documents arrived, heavy with the weight of forgotten transactions: Jeffrey Epstein's banking records, a financial map of his dark empire. Simultaneously, a trove of never-before-seen photographs emerged, snapshots of his private Caribbean island. These weren't idyllic postcards; they were stark, post-mortem visions of a place where unimaginable horrors had allegedly unfolded. Empty villas stood under the relentless sun, silent witnesses to a past now meticulously unearthed. Each image, each ledger entry, added another grim detail to the ongoing investigation, pulling back the veil on a network that thrived in the shadows, even after its architect's demise.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764838537469-4",
-        "headline": "Closed Doors, Distant Shores",
-        "content": "The decree fell like a sudden chill across distant lands. The Trump administration, firm in its resolve, announced a halt to immigration applications for migrants from nineteen nations previously under a travel ban. Afghanistan, Somalia, and others, already burdened by conflict and despair, now faced an even more formidable barrier. This decisive move, framed as a tightening of national borders, reverberated globally. Critics decried it as \"scapegoating entire nationalities,\" arguing it solidified fear over compassion. Yet, the policy stood, a stark line drawn in the sand, redefining who could seek solace and a new beginning within the nation's bounds.",
+        "id": "story-1764841459075-1",
+        "headline": "The Ghost of Little Saint James",
+        "content": "Years after his death, the island exhaled its secrets. House Democrats released images, a digital key unlocking the nightmare of Little Saint James. A room, walls adorned with painted faces, seemed to watch, silent and accusatory. Next to it, a dentist's chair, stark white and out of place, hinted at unspeakable acts. The footage, cold and sterile, painted a chilling tableau of what transpired there. The tropical breezes carried no comfort, only the phantom whispers of a world carefully constructed for depravity, now exposed to the harsh light of public scrutiny.",
         "originalSource": "The Guardian",
-        "publishedTime": "Yesterday"
+        "publishedTime": "6-8 hours ago"
       },
       {
-        "id": "story-1764838537469-5",
-        "headline": "A Diner's Final Dawn",
-        "content": "The aroma of coffee and sizzling bacon, once a comforting embrace, was fading. A beloved national diner chain, a place where countless mornings began and late-night confessions unfolded, announced a solemn farewell. One hundred and fifty locations, beacons of comfort food and endless refills, would soon dim their lights for good. The news followed a colossal $620 million buyout, a corporate maneuver that, for all its financial logic, signaled an end to an era for many communities. This restructuring, massive in scale, meant more than just closed doors; it meant lost jobs, silent jukeboxes, and the bittersweet memory of a last stack of pancakes.",
-        "originalSource": "Syracuse.com / OregonLive.com",
-        "publishedTime": "14 hours ago"
+        "id": "story-1764841459075-2",
+        "headline": "Whispers in the North Star State",
+        "content": "The words hung heavy in the crisp Minnesota air: \"garbage.\" President Trump had spoken, his decree aimed squarely at the vibrant Somali community. New policies followed, a digital wall rising against migrants from 19 nations, hitting the heart of Minneapolis. Families across the state, once dreaming of reunification, now faced a starker reality. The community, a tapestry woven with resilience and hope, felt the sting of the pronouncement, yet their spirit flickered, a stubborn ember against the chilling wind of national debate. Their stories, however, remained untold in the official pronouncements.",
+        "originalSource": "AP News",
+        "publishedTime": "12-24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-3",
+        "headline": "The President's Penstroke",
+        "content": "A shadow had loomed over Representative Henry Cuellar, the weight of bribery and conspiracy charges threatening to consume his career. Then, with a single, decisive stroke, President Trump wielded his clemency. Not just for the Democratic congressman, but for his wife, Imelda, too. The indictments, once a thunderclap in the political landscape, now dissolved into controversy. The act of grace, or perhaps political maneuvering, sparked whispers and raised eyebrows across Washington. A sudden reprieve, a twist of fate, courtesy of the highest office, leaving many to wonder about the unseen threads of power.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1764841459075-4",
+        "headline": "Encrypted Shadows of War",
+        "content": "The report landed like a bombshell: Defense Secretary Pete Hegseth, it alleged, had gambled with lives. Sensitive war plans, troop movements, all reportedly shared on Signal, an encrypted app, with individuals unauthorized to see them. A military watchdog’s conclusion painted a grim picture of compromised security, of potential threats unseen, unheard. The digital whispers, intended for secure communication, instead became a conduit for risk. The soldiers on distant battlefields, unaware of the digital breach, continued their patrols, unknowingly walking in shadows cast by a secretary's careless taps.",
+        "originalSource": "CNN",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1764841459075-5",
+        "headline": "The Roar of Old Engines",
+        "content": "A new decree from President Trump promised a return to familiar power. Fuel efficiency rules, once pushing the nation toward cleaner skies and electric futures, would now loosen their grip. Automakers, Ford, GM, Stellantis, offered their endorsements, their eyes on the immediate rumble of gasoline engines. The quiet hum of electric vehicles, the promise of less pollution, receded slightly into the background. It was a choice, a declaration, shaping the roads to come: less a path towards efficiency, more an embrace of the present’s familiar, powerful roar, and the open road.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Less than 24 hours ago"
       }
     ]
   }
