@@ -1,11 +1,269 @@
 {
-  "timestamp": 1764870371473,
+  "timestamp": 1764874765887,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1764874685726-0",
+        "headline": "Accountability Sought as Suspect Arrested in January 6th Pipe Bomb Plot, Highlighting Ongoing Threats to Democracy",
+        "content": "A significant step toward justice has been taken with the arrest of a Virginia man linked to the pipe bombs placed near the US Capitol on the eve of the January 6th insurrection. This arrest, which resolves a prolonged mystery, underscores the urgent and ongoing federal focus on addressing political extremism and safeguarding democratic institutions from domestic threats. The pursuit of accountability for those who sought to undermine our democracy remains paramount.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 minute ago"
+      },
+      {
+        "id": "story-1764874685726-1",
+        "headline": "Pentagon Faces Scrutiny for Allegedly Targeting Survivors in Controversial Maritime Strike",
+        "content": "Disturbing new reports allege that the Pentagon knowingly proceeded with a second, deadly strike against an alleged drug boat, despite being aware that survivors were clinging to the wreckage. This revelation raises grave questions about military accountability, ethical conduct, and potential violations of human rights. A Navy admiral is now meeting with lawmakers, but full transparency and a thorough investigation are urgently needed to address this controversial operation and the systemic issues that could lead to such a disregard for human life.",
+        "originalSource": "AP News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-2",
+        "headline": "President Trump's Dehumanizing Call to Deport Somali Americans Sparks Outrage and Legal Concerns",
+        "content": "President Trump's recent xenophobic demand for Somalis in the U.S. to leave has ignited widespread alarm, particularly within Minnesota's large Somali community. Given that many are U.S. citizens or legal residents, this proposed mass deportation policy is not only unconstitutional but also deeply inhumane. This rhetoric fuels systemic racism and anti-immigrant sentiment, threatening the fundamental rights and well-being of a vibrant American community and undermining the principles of justice and equality.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "58 minutes ago"
+      },
+      {
+        "id": "story-1764874685726-3",
+        "headline": "The New York Times Challenges Pentagon's Undemocratic Restrictions on Press Freedom, Safeguarding Public's Right to Know",
+        "content": "The New York Times has commendably filed a lawsuit against the Pentagon, directly challenging the restrictions on press access and reporting allegedly imposed by the Trump administration. This legal action is crucial for upholding First Amendment rights and ensuring government transparency. These restrictions impede the public's right to critical information regarding national security, threatening journalistic independence and representing a dangerous erosion of democratic principles that allow for accountability and informed citizenship.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764874685726-4",
+        "headline": "New Images of Jeffrey Epstein's Island Fuel Demand for Full Accountability in Systemic Exploitation Case",
+        "content": "House Democrats have released new, never-before-seen images of Jeffrey Epstein's private Caribbean island, Little St. James, intensifying the demand for comprehensive justice. This visual documentation serves as a stark reminder of the systemic exploitation and abuse perpetrated by powerful individuals. The ongoing inquiry underscores the imperative to hold all those connected to Epstein's illicit activities accountable, ensuring that wealth and influence can never again shield perpetrators from facing the full consequences of their heinous crimes.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-5",
+        "headline": "Steve Cropper's Profound Legacy in Soul Music and Collaborative Artistry Endures",
+        "content": "The passing of Steve Cropper at 84 marks the loss of a masterful guitarist and an influential member of Stax Records' Booker T. and the M.G.'s. Cropper's incredible talent and collaborative spirit were instrumental in defining the sound of soul and R&B. His work, especially within the context of Stax Records' groundbreaking multi-racial house band, transcended the racial divisions of his era, leaving an indelible mark on cultural history. His legacy stands as a testament to the power of collective artistry to challenge norms and unite communities through music.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1764874685726-0",
+        "headline": "FBI arrests Virginia man in Jan. 6 pipe bomb case",
+        "content": "The FBI has arrested a Virginia man in connection with the pipe bombs placed near the US Capitol on the eve of the January 6th riot in 2021. This arrest is expected to bring a resolution to a five-year-long mystery that has been a major focus for federal law enforcement and US counterterrorism efforts.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 minute ago"
+      },
+      {
+        "id": "story-1764874685726-1",
+        "headline": "Pentagon knew boat attack left survivors but still launched follow-up strike, AP sources say",
+        "content": "New reports indicate that the Pentagon was aware that survivors were clinging to the wreckage of an alleged drug boat before a second, deadly follow-up strike was launched. A Navy admiral overseeing the strikes is meeting with lawmakers to address the controversial operation and legal questions surrounding the incident.",
+        "originalSource": "AP News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-2",
+        "headline": "Trump wants to deport Somalis in Minnesota. Most are U.S. citizens.",
+        "content": "President Trump's recent call for Somalis in the U.S. to leave is causing shockwaves in Minnesota, home to the nation's largest Somali community. Many members of the community are U.S. citizens or legal residents, raising significant legal and humanitarian concerns over the proposed mass deportation policy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "58 minutes ago"
+      },
+      {
+        "id": "story-1764874685726-3",
+        "headline": "New York Times sues Pentagon over Trump team's limits on press reporting",
+        "content": "The New York Times has filed a lawsuit against the Pentagon, challenging limits on press access and reporting that were allegedly put in place by the Trump administration. The suit claims the restrictions impede the public's right to know and threaten journalistic independence in covering national security matters.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764874685726-4",
+        "headline": "House Democrats release new images of Epstein's private Caribbean island",
+        "content": "House Democrats have released a new set of never-before-seen images of Jeffrey Epstein's private Caribbean island, Little St. James, as part of their ongoing inquiry. The release provides further visual documentation related to the late financier's properties and the investigation into his activities.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-5",
+        "headline": "Steve Cropper, masterful guitarist and member of Stax Records' Booker T and the M.G.'s, has died at age 84",
+        "content": "Steve Cropper, the legendary guitarist and influential member of the Stax Records house band Booker T. and the M.G.'s, has died at the age of 84. His masterful work helped define the sound of soul and R&B, and he was known for producing and writing hits for many music icons.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1764874685726-0",
+        "headline": "Justice Approaches for January 6th Pipe Bomb Mystery After Arrest",
+        "content": "Federal authorities have finally apprehended a Virginia man in connection with the pipe bombs discovered near the U.S. Capitol on the eve of January 6th, 2021. This significant arrest aims to resolve a persistent five-year enigma, underscoring the unwavering commitment of federal law enforcement and counterterrorism efforts to uphold order and ensure accountability for threats against our nation's institutions.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 minute ago"
+      },
+      {
+        "id": "story-1764874685726-1",
+        "headline": "Pentagon Leadership Faces Scrutiny Over Troubling Strike Decisions",
+        "content": "Disturbing new reports allege that the Pentagon proceeded with a second, fatal strike on an alleged drug boat, despite prior knowledge that survivors were clinging to the wreckage. A Navy admiral responsible for these operations is now engaging with lawmakers to address serious legal and ethical questions surrounding this controversial incident, highlighting the critical need for transparency and accountability within our military command structure.",
+        "originalSource": "AP News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-2",
+        "headline": "President Trump Ignites Debate on Immigration Enforcement, Citizenship Questions Arise",
+        "content": "President Trump's recent forceful statements on immigration, calling for Somalis in the U.S. to leave, have understandably generated considerable discussion in Minnesota, home to the largest Somali community in the nation. While advocating for strong border security and legal immigration is paramount for national sovereignty, many community members are U.S. citizens or legal residents, which naturally raises important legal and humanitarian considerations regarding any proposed mass deportation policy. The rule of law must be upheld for all.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "58 minutes ago"
+      },
+      {
+        "id": "story-1764874685726-3",
+        "headline": "New York Times Challenges Pentagon's Restrictions on National Security Reporting",
+        "content": "The New York Times has initiated legal action against the Pentagon, asserting that limitations on press access and reporting, allegedly implemented by the President Trump administration, infringe upon the public's fundamental right to know. This lawsuit contends that such restrictions undermine journalistic independence in covering crucial national security matters, raising important questions about the balance between government transparency and the protection of vital national interests.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764874685726-4",
+        "headline": "Disturbing New Images Surface From Jeffrey Epstein's Infamous Island",
+        "content": "House Democrats have released a fresh collection of previously unseen images depicting Jeffrey Epstein's private Caribbean island, Little St. James, as part of their ongoing inquiry. This release provides additional visual evidence relating to the late financier's properties and is a crucial step in the relentless pursuit of justice, ensuring full transparency in the investigation into his reprehensible activities and those who aided them.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-5",
+        "headline": "Legendary Guitarist Steve Cropper Leaves Enduring Musical Legacy at 84",
+        "content": "America mourns the passing of Steve Cropper, the iconic guitarist and an integral member of Stax Records' legendary house band, Booker T. and the M.G.'s, at the age of 84. His unparalleled skill and innovative contributions were instrumental in defining the timeless sound of soul and R&B, leaving an indelible mark on our nation's cultural heritage through his masterful playing, production, and songwriting for countless music legends.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1764874685726-0",
+        "headline": "Nation Breathes Collective Sigh of Relief as FBI Finally Cracks Fiendishly Complex 'Pipe Bomb with Wires' Mystery After Five Grueling Years",
+        "content": "After what can only be described as a marathon investigation rivaling the search for Sasquatch, federal agents have heroically apprehended a Virginia man suspected of placing those notoriously perplexing pipe bombs near the U.S. Capitol. This groundbreaking arrest, coming a mere half-decade after the incident, is hailed as a monumental triumph, finally bringing a much-anticipated, albeit slightly delayed, resolution to the baffling enigma of 'who would leave pipe bombs near the Capitol?' The public can now sleep soundly, knowing that justice, eventually, is indeed served.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 minute ago"
+      },
+      {
+        "id": "story-1764874685726-1",
+        "headline": "Pentagon Praised for Unwavering Commitment to Finishing What It Starts, Even After Noticing Survivors",
+        "content": "Sources within the Pentagon have confirmed that military strategists, ever dedicated to operational thoroughness, proceeded with a secondary strike on an alleged drug boat despite having received minor reports of 'human-shaped objects still clinging to debris.' A Navy admiral is now graciously offering lawmakers a 'refresher course' on the finer points of 'collateral efficiency' and explaining that some legal questions are simply 'a delightful inconvenience' when compared to the purity of a perfectly executed follow-up strike.",
+        "originalSource": "AP News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-2",
+        "headline": "President Trump Proposes Innovative 'Citizenship Lottery' for Minnesota Somalis to Streamline Deportation Process",
+        "content": "President Trump has unveiled a groundbreaking new policy aimed at 'streamlining' the nation's largest Somali community right out of Minnesota, despite the inconvenient fact that a significant number are, bafflingly, U.S. citizens. Experts are scrambling to explain how one 'deports' one's own citizens, while humanitarian groups prepare for an administrative headache of epic proportions. President Trump assured the public that minor details like 'birthright citizenship' should not stand in the way of a perfectly good policy idea.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "58 minutes ago"
+      },
+      {
+        "id": "story-1764874685726-3",
+        "headline": "New York Times Heroically Fights for Public's Sacred Right to Immediately Know Everything the Pentagon is Doing",
+        "content": "In a stunning display of journalistic integrity, The New York Times has bravely initiated legal proceedings against the Pentagon, arguing that the alleged information 'guidelines' implemented by President Trump's administration are severely hampering their ability to instantaneously broadcast every single national security secret to the entire globe. The lawsuit boldly asserts that the public's constitutional right to 'know absolutely everything, right now' is being tragically undermined by pesky restrictions on reporters, threatening the very fabric of independent journalism and possibly causing a global shortage of breaking news alerts.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764874685726-4",
+        "headline": "Democrats Unveil More Vacation Photos from Epstein's Island, Confirming It Still Looks Like a Tropical Paradise",
+        "content": "House Democrats, in their tireless quest for, uh, 'answers,' have dramatically released yet another trove of never-before-seen photographs of Jeffrey Epstein's infamous Caribbean hideaway, Little St. James. The public can now breathe a collective sigh of relief, as the images conclusively confirm that, yes, it is still a rather idyllic-looking island with palm trees and clear blue water. This vital visual documentation is expected to be a crucial, if somewhat redundant, piece in the ongoing, endlessly fascinating 'what did his island look like?' inquiry into the late financier's activities.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-5",
+        "headline": "Legendary Guitarist Steve Cropper Dead at 84, Leaving Behind Unimaginable Number of Unplayed Perfect Licks",
+        "content": "The music world collectively gasped this week upon learning that Steve Cropper, the guitar wizard behind countless Stax Records hits and an indispensable member of Booker T. and the M.G.'s, has passed away at the spry age of 84. Fans are now mourning not just the loss of a legend, but the tragic, never-to-be-heard future guitar riffs that will forever remain trapped in the ether, along with the untold number of classic songs he could have still written and produced. It's a truly selfish thought, but one can't help but wonder what else he might have given us.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1764874685726-0",
+        "headline": "Police caught a guy who put bombs near the Capitol building.",
+        "content": "The police, called the FBI, finally caught a man from Virginia. They think he put some pipe bombs near the big Capitol building in Washington D.C. right before a big protest there in 2021. People have been wondering who did this for a long time, and now they might finally know.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 minute ago"
+      },
+      {
+        "id": "story-1764874685726-1",
+        "headline": "Army bosses knew people were alive before a second attack.",
+        "content": "Some reports say that important army leaders knew there were people still alive after they attacked a boat they thought was carrying drugs. But then, they attacked the boat again. Now, a Navy boss who was in charge of these attacks is talking to important government people to explain what happened and why.",
+        "originalSource": "AP News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-2",
+        "headline": "President Trump wants to send many Somalis away from America.",
+        "content": "President Trump recently said he wants people from Somalia who live in America to leave. This has made many people in Minnesota very surprised and worried, because lots of Somalis live there. The thing is, many of these people are actually American citizens or have permission to live here. So, sending them away could be a big problem and not fair.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "58 minutes ago"
+      },
+      {
+        "id": "story-1764874685726-3",
+        "headline": "A big newspaper is suing the army's leaders.",
+        "content": "A really big newspaper, called The New York Times, is taking the Pentagon (that's like the main office for the army) to court. They say that President Trump's team made it harder for reporters to get information and tell people what's happening. The newspaper believes everyone has a right to know important stuff, especially about our country's safety, and these rules are stopping that.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764874685726-4",
+        "headline": "New pictures of a bad guy's secret island are out.",
+        "content": "Some important government people, called House Democrats, have shown new pictures of Jeffrey Epstein's secret island. Jeffrey Epstein was a rich man who did really bad things. These new pictures of his island in the Caribbean are part of how they are still trying to figure out everything he did.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-5",
+        "headline": "A very famous guitar player named Steve Cropper has died.",
+        "content": "Steve Cropper, a super famous guitar player from a band called Booker T. and the M.G.'s, has passed away. He was 84 years old. He was really, really good at playing the guitar and helped make the sound for lots of popular soul and R&B songs that many famous singers sang.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1764874685726-0",
+        "headline": "The Long Pursuit of the Unseen Threat",
+        "content": "For five years, the phantom menace lingered: pipe bombs, chillingly placed near the Capitol on the eve of a nation's turmoil. A silent threat, its maker a ghost. Federal agents, unyielding, chased whispers and shadows across the years. Their vigilance finally bore fruit in Virginia. The quiet arrest brought not just a man into custody, but a fragile sense of closure to a deeply unsettling mystery, a resolution to the cold case that had haunted the US counterterrorism efforts since that fateful January day.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "1 minute ago"
+      },
+      {
+        "id": "story-1764874685726-1",
+        "headline": "The Admiral's Unspoken Burden",
+        "content": "The ocean swallowed the first strike's roar, leaving silence and wreckage. Then came the chilling report: figures clung to the splintered hull, survivors in the vast, unforgiving blue. Yet, orders were given, and the second strike descended, turning potential rescue into a grim finality. Now, the admiral, his uniform crisp but his conscience likely heavy, faced the Capitol's stern gaze. Questions of law and humanity hung in the air, a tempest brewing far from the distant seas where lives were irrevocably lost to a decision cloaked in controversy.",
+        "originalSource": "AP News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-2",
+        "headline": "A Nation's Heartbeat in the North Star State",
+        "content": "The announcement landed like a cold stone in Minnesota, echoing through the vibrant Somali community. President Trump's call for their departure sent shivers down spines, a chilling proposal aimed at people who built homes, businesses, and lives. Many wore the proud badge of U.S. citizenship, their roots now deeply entwined with American soil. Legal residents, too, faced an unthinkable threat to their hard-won stability. The proposed policy ignited a firestorm of legal and humanitarian alarm, challenging the very definition of belonging in a country they called their own.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "58 minutes ago"
+      },
+      {
+        "id": "story-1764874685726-3",
+        "headline": "The Watchdog's Unyielding Bark",
+        "content": "The ink-stained hands of the press, once free to probe the shadows, felt the tightening grip of restrictions. Limits on access, veiled directives from President Trump's administration through the Pentagon, threatened to shroud national security in an unsettling silence. The New York Times, a sentinel of truth, refused to let the darkness prevail. They launched their legal challenge, not just for themselves, but for every citizen's right to know, for the very independence of the fourth estate. The lawsuit was a defiant bark against a system that sought to mute the public's ears and blind their eyes.",
+        "originalSource": "The Guardian",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1764874685726-4",
+        "headline": "The Island's Whispering Ghosts",
+        "content": "Little St. James, a jewel-toned scar on the Caribbean's pristine canvas, continued to yield its dark secrets. Fresh images, unveiled by House Democrats, peeled back another layer of the late financier's opulent, yet sinister, domain. The never-before-seen photographs offered silent, haunting testimony, adding stark visuals to the ongoing, unsettling inquiry. Each vista, each structure, spoke of a life cloaked in unimaginable depravity. The island remained, a silent witness, its emerald shores now forever tinged with the shadow of unspeakable acts, further cementing its grim legend.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      },
+      {
+        "id": "story-1764874685726-5",
+        "headline": "The Soulful Strings Fall Silent",
+        "content": "The electric guitar, once an extension of his very soul, now rests. Steve Cropper, the masterful architect of the Stax sound, the understated genius behind Booker T. and the M.G.'s, has played his final, poignant chord at eighty-four. His fingers, which wove the very fabric of soul and R&B, crafted riffs that became anthems, defining an era. He didn't just play; he wrote, he produced, shaping the soundscapes for countless legends. Though the man is gone, his distinctive, clean notes will forever echo from Memphis studios, a timeless testament to a true musical giant.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 03"
+      }
+    ]
   }
 }
