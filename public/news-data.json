@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764931562547,
+  "timestamp": 1764934336314,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764931482079-0",
-        "headline": "Supreme Court Decision Solidifies Systemic Voter Disenfranchisement in Texas",
-        "content": "The Supreme Court, in a controversial ruling, has affirmed President Trump's position on Texas's congressional map, effectively upholding a gerrymandered system crafted by Republican state lawmakers. This decision raises serious concerns about the integrity of democratic processes and the systemic suppression of voter representation, allowing electoral districts designed to entrench one-party rule to persist for future elections, undermining the very essence of fair elections.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764934265170-0",
+        "headline": "Supreme Court Decision Bolsters Partisan Gerrymandering in Texas, Undermining Democratic Principles",
+        "content": "The Supreme Court has allowed Texas to implement a newly drawn congressional map for the 2026 elections, a move widely criticized for giving a significant and unfair electoral advantage to the Republican party. Critics argue this decision further entrenches partisan gerrymandering, disenfranchising voters and eroding the fairness fundamental to our democratic system.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "8-11 hours ago"
       },
       {
-        "id": "story-1764931482079-1",
-        "headline": "Arrest Made in Pipe Bomb Case Connected to January 6th Insurrection, Highlighting Persistent Threats to Democracy",
-        "content": "The FBI has apprehended a Virginia man suspected of planting pipe bombs outside the Democratic and Republican national committee headquarters in Washington, D.C., just hours before the violent January 6, 2021, Capitol riot. This arrest underscores the ongoing threat of politically motivated domestic extremism and highlights the critical importance of holding accountable those who seek to destabilize democratic institutions through acts of terror, following a lengthy investigation by Justice Department officials.",
-        "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764931482079-2",
-        "headline": "Admiral's Testimony Raises Further Questions About Legality of \"Double-Tap\" Strike, Civilian Safety Ignored",
-        "content": "A naval admiral's testimony to lawmakers that survivors of a capsized vessel, allegedly a drug boat off Venezuela, did not radio for assistance following an initial strike has deepened concerns regarding the legality and ethics of the subsequent \"double-tap\" attack. Lawmakers are scrutinizing video evidence and the justification for the second strike, questioning whether protocols to protect human life and adhere to international law were fundamentally disregarded in a military operation with potentially catastrophic human consequences.",
-        "originalSource": "CNN",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764931482079-3",
-        "headline": "Grand Jury Rejects Politically Motivated Indictment Against New York Attorney General Letitia James",
-        "content": "A Virginia grand jury has decisively rejected a new mortgage fraud indictment against New York Attorney General Letitia James, representing a significant rebuke to the Justice Department and the President Trump administration's apparent attempts to politically target an independent prosecutor. This refusal to proceed with charges comes after a judge previously dismissed a similar case against James, reinforcing concerns about the weaponization of federal legal processes against officials perceived as political adversaries.",
-        "originalSource": "NPR",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764931482079-4",
-        "headline": "Maricopa County Prosecutors Pursue Death Penalty in Brutal Killing, Raising Concerns About Systemic Injustice",
-        "content": "In a move sparking renewed debate over capital punishment, Maricopa County prosecutors intend to seek the death penalty for two suspects accused in the horrific 2024 killing of exotic dancer Mercedes Vega, whose body was discovered burned, beaten, and shot on an Arizona highway. While the extreme violence of this case demands justice, this decision highlights broader systemic issues within the carceral state, including questions of racial bias, the disproportionate application of the death penalty, and the fundamental moral implications of state-sanctioned killing, rather than addressing the root causes of such violence against vulnerable individuals.",
-        "originalSource": "NBC News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764931482079-5",
-        "headline": "Unchecked Corporate Greed Drives Massive Rent Hikes Across Major U.S. Cities Since 2020",
-        "content": "A recent LendingTree analysis starkly illustrates how unregulated markets and corporate real estate speculation have fueled an alarming housing crisis, with rents in the 50 largest U.S. cities skyrocketing by hundreds of dollars per month since 2020. This report spotlights metropolitan areas where the most dramatic percentage increases are deepening the affordability crisis, displacing working-class families, and exacerbating economic anxieties nationwide, demanding systemic solutions to prioritize housing as a human right over profit.",
-        "originalSource": "CBS News",
+        "id": "story-1764934265170-1",
+        "headline": "Arrest in January 6th Pipe Bomb Case Underscores Grave Threat of Domestic Extremism to Democracy",
+        "content": "The FBI has apprehended a Virginia man suspected of placing pipe bombs near both the Democratic and Republican National Committee headquarters on January 6, 2021. This arrest, a result of renewed investigative efforts, highlights the persistent danger posed by domestic extremism and the ongoing imperative to hold accountable those who threatened the peaceful transfer of power.",
+        "originalSource": "CBS News / The Washington Post",
         "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-2",
+        "headline": "Lawmakers Demand Full Accountability for Deadly US Boat Strike Amid Growing Legality Concerns",
+        "content": "Lawmakers have viewed video evidence of a US boat strike, leading to profound concerns regarding the legality of the operation and conflicting accounts of whether a 'kill order' was issued by an admiral. With the Pentagon confirming four deaths in the recent strike, these revelations intensify calls for transparency and stringent oversight of military actions to prevent human rights abuses and ensure adherence to international law.",
+        "originalSource": "PBS NewsHour / CBS News",
+        "publishedTime": "9-11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-3",
+        "headline": "President Trump's Erratic Decision-Making Extends to White House Ballroom Design",
+        "content": "President Trump has once again shifted course on a significant White House project, hiring Shalom Baranes as the new architect for the ballroom renovation. This decision replaces James McCrery II, an architect President Trump had personally selected, signaling a pattern of instability in high-profile administrative choices, even on seemingly minor projects.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "11-15 hours ago"
+      },
+      {
+        "id": "story-1764934265170-4",
+        "headline": "Grand Jury Rejects Politically Motivated Indictment Attempt Against New York AG Letitia James",
+        "content": "A grand jury has decisively refused to reindict New York Attorney General Letitia James in a mortgage fraud case. This outcome represents a significant setback for the Justice Department and the Trump administration's perceived attempts to politically target opponents through the legal system, affirming the grand jury's role as a check against partisan persecution.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764934265170-5",
+        "headline": "New Epstein Island Images Further Expose Elite Impunity and the Urgent Need for Victim Justice",
+        "content": "House Democrats have released previously unseen images of Jeffrey Epstein's private Caribbean island, adding to the crucial public record of the deceased convicted sex offender's property. These new visuals underscore the egregious extent of Epstein's predatory network and amplify the urgent call for full transparency and accountability for all individuals who enabled his heinous crimes, bringing justice to his many victims.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764931482079-0",
-        "headline": "Supreme Court hands Trump victory in fight over Texas congressional map",
-        "content": "The Supreme Court delivered a win to former President Trump by ruling in his favor regarding a dispute over Texas's congressional map. The decision concludes a legal challenge that questioned the constitutionality of the map drawn by Republican state lawmakers, allowing the current district lines to remain in place for the upcoming election cycles.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764934265170-0",
+        "headline": "Supreme Court allows Texas to use new congressional map favoring Republicans in 2026 elections",
+        "content": "The Supreme Court permitted Texas to use a redrawn congressional map for the 2026 elections. This map had been challenged by critics who argue it gives a significant and unfair advantage to the Republican party in the state.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "8-11 hours ago"
       },
       {
-        "id": "story-1764931482079-1",
+        "id": "story-1764934265170-1",
         "headline": "FBI arrests suspect in 2021 D.C. pipe bomb case, identified as Virginia man",
-        "content": "The FBI has announced the arrest of a Virginia man suspected of planting pipe bombs outside the Democratic and Republican national committee headquarters in Washington, D.C., just before the January 6, 2021, Capitol riot. Justice Department officials stated that investigators revisited vast evidence to find the crucial lead leading to the suspect's apprehension.",
-        "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764931482079-2",
-        "headline": "Survivors clinging to capsized boat didn't radio for backup, admiral overseeing double-tap strike tells lawmakers",
-        "content": "An admiral overseeing the recent double-tap strike on a vessel, alleged to be a drug boat off the coast of Venezuela, informed lawmakers that the survivors did not radio for assistance after the initial attack. The disclosure comes as lawmakers reviewed video evidence and questioned the legality of the second strike that followed the capsizing.",
-        "originalSource": "CNN",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764931482079-3",
-        "headline": "Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
-        "content": "A grand jury in Virginia has refused to issue a new mortgage fraud indictment against New York Attorney General Letitia James, marking a setback for the Justice Department and the Trump administration. The federal government had sought a fresh indictment after a previous case against James was dismissed by a judge last week.",
-        "originalSource": "NPR",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764931482079-4",
-        "headline": "Prosecutors to seek death penalty in killing of exotic dancer found burned, beaten and shot on Arizona highway",
-        "content": "Maricopa County prosecutors have announced their intention to seek the death penalty for two suspects accused in the brutal 2024 killing of exotic dancer Mercedes Vega, whose body was discovered burned, beaten, and shot on an Arizona highway. The case has garnered significant national attention due to the extreme violence involved.",
-        "originalSource": "NBC News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764931482079-5",
-        "headline": "These U.S. cities have seen the biggest rent increases since 2020",
-        "content": "A new analysis by LendingTree reveals that rents in the 50 largest U.S. cities have surged dramatically by hundreds of dollars per month over the past five years. The report highlights which metropolitan areas have experienced the most significant percentage increases, impacting affordability and contributing to broader economic anxieties across the nation.",
-        "originalSource": "CBS News",
+        "content": "The FBI arrested a Virginia man in connection with the placement of pipe bombs near the Democratic and Republican National Committee headquarters in Washington D.C. on January 6, 2021. The arrest followed a renewed investigation effort.",
+        "originalSource": "CBS News / The Washington Post",
         "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-2",
+        "headline": "Lawmakers see video of boat strike, fueling debate over legality of US operations",
+        "content": "Lawmakers viewed video of a US boat strike, subsequently expressing deep concern over the legality of the operation and conflicting testimony regarding whether an admiral had issued a \"kill order.\" The Pentagon confirmed four deaths in a recent strike.",
+        "originalSource": "PBS NewsHour / CBS News",
+        "publishedTime": "9-11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-3",
+        "headline": "Trump replaces architect he handpicked to design White House ballroom",
+        "content": "President Trump has hired Shalom Baranes as the new architect for the White House ballroom renovation project, replacing James McCrery II, who Trump had previously selected for the job.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "11-15 hours ago"
+      },
+      {
+        "id": "story-1764934265170-4",
+        "headline": "Grand jury refuses to reindict Letitia James in mortgage fraud case",
+        "content": "A grand jury declined to reindict New York Attorney General Letitia James in a mortgage fraud case. This decision is seen as a setback for the Justice Department and the Trump administration's effort to pursue the case.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764934265170-5",
+        "headline": "House Democrats release new images of Epstein's private Caribbean island",
+        "content": "House Democrats released previously unseen images of Jeffrey Epstein's private Caribbean island. The new visuals add to the public documentation concerning the property of the deceased convicted sex offender.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764931482079-0",
-        "headline": "Supreme Court Upholds Texas's Constitutional Congressional Map, Affirming State Sovereignty",
-        "content": "The Supreme Court has rightly sided with President Trump, upholding the constitutional integrity of Texas's congressional map. This crucial decision firmly rebukes attempts to undermine the lawful process of district drawing by Republican state lawmakers, ensuring that established district lines remain in place and preventing judicial overreach into the democratic will of the people for future elections.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764934265170-0",
+        "headline": "Supreme Court Upholds Texas's Right to Fairly Drawn Electoral Maps",
+        "content": "The Supreme Court has rightly affirmed Texas's authority to implement its constitutionally drawn congressional map for the 2026 elections. Despite predictable complaints from those seeking to undermine legitimate electoral processes, this decision champions state sovereignty and the democratic will of the people of Texas, ensuring that the voice of conservative principles can be properly represented.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "8-11 hours ago"
       },
       {
-        "id": "story-1764931482079-1",
-        "headline": "FBI Apprehends Virginia Man Suspected in D.C. Pipe Bomb Terror Plot",
-        "content": "The FBI has finally brought to justice a Virginia man now suspected of planting dangerous pipe bombs outside the Democratic and Republican national committee headquarters in Washington, D.C., immediately prior to the January 6, 2021, Capitol protest. This arrest highlights the critical importance of law enforcement relentlessly pursuing threats to our nation's capital and holding accountable those who seek to sow chaos and fear, no matter how long it takes.",
-        "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764931482079-2",
-        "headline": "Admiral Confirms Drug Runners Failed to Request Aid After Lawful Interdiction",
-        "content": "An admiral overseeing the recent interdiction of an alleged drug vessel off the coast of Venezuela has confirmed to lawmakers that the boat's survivors failed to radio for assistance following the initial, necessary strike. This revelation provides crucial context as lawmakers scrutinize the operational details, reinforcing the resolve of our military to combat illicit drug trafficking and protect our borders from dangerous cartels.",
-        "originalSource": "CNN",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764931482079-3",
-        "headline": "Grand Jury Declines Further Mortgage Fraud Indictment Against New York Attorney General Letitia James",
-        "content": "A grand jury in Virginia has decided against issuing a new mortgage fraud indictment concerning New York Attorney General Letitia James, a decision that has implications for the ongoing efforts of the Justice Department. This development follows a previous dismissal of a case against James, underscoring the complexities of legal proceedings and the challenges faced in holding powerful figures accountable within our system.",
-        "originalSource": "NPR",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764931482079-4",
-        "headline": "Arizona Prosecutors Pursue Death Penalty for Heinous Murder Suspects",
-        "content": "In a commitment to justice, Maricopa County prosecutors have declared their intent to seek the death penalty for the two individuals accused in the barbaric 2024 murder of Mercedes Vega, whose body was discovered grotesquely burned, beaten, and shot on an Arizona highway. This horrifying case, which has rightly captured national attention, demands the most severe punishment under the law for such unspeakable violence and a clear defense of societal order.",
-        "originalSource": "NBC News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764931482079-5",
-        "headline": "Government Policies Drive Alarming Rent Hikes Across Major U.S. Cities Since 2020",
-        "content": "A recent analysis by LendingTree starkly illustrates how housing costs in America's largest cities have skyrocketed by hundreds of dollars monthly since 2020, significantly impacting the financial stability of hardworking families. This drastic surge in rent, often exacerbated by unchecked government spending and misguided economic policies, highlights a concerning erosion of affordability and contributes to widespread economic anxieties that threaten the American dream of homeownership and stable living.",
-        "originalSource": "CBS News",
+        "id": "story-1764934265170-1",
+        "headline": "Justice Swiftly Pursues Perpetrator Behind January 6th D.C. Pipe Bomb Threat",
+        "content": "After a diligent investigation, the FBI has apprehended a Virginia man suspected of planting pipe bombs near the Democratic and Republican National Committee headquarters on January 6, 2021. This arrest underscores the relentless pursuit of justice against those who threaten our nation's foundational institutions and public safety, ensuring accountability for acts of domestic terrorism.",
+        "originalSource": "CBS News / The Washington Post",
         "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-2",
+        "headline": "Congress Demands Accountability for Questionable U.S. Military Actions Abroad",
+        "content": "Deep concerns are surfacing in Congress following the viewing of video footage depicting a U.S. boat strike, sparking a vital debate over the legality and command structure of such military operations. With conflicting testimonies emerging, particularly regarding a potential \"kill order\" from an admiral, it is imperative that our nation's leaders uphold the highest standards of military conduct and transparency to ensure American strength and honor are maintained. The Pentagon has confirmed four fatalities in this recent incident, demanding swift and thorough answers.",
+        "originalSource": "PBS NewsHour / CBS News",
+        "publishedTime": "9-11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-3",
+        "headline": "President Trump Prioritizes Excellence in White House Restoration Efforts",
+        "content": "President Trump has appointed Shalom Baranes as the new lead architect for the ongoing White House ballroom renovation. This decisive move ensures that the project, vital to preserving the grandeur and history of our nation's most iconic residence, continues with the utmost quality and efficiency, reflecting President Trump's commitment to excellence in all endeavors, especially those concerning our national heritage.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "11-15 hours ago"
+      },
+      {
+        "id": "story-1764934265170-4",
+        "headline": "Grand Jury's Decision Raises Questions on Justice Department's Pursuit of Accountability",
+        "content": "A grand jury's recent decision not to reindict New York Attorney General Letitia James in a significant mortgage fraud case has left many questioning the commitment to upholding the rule of law. This outcome represents a setback for the Justice Department's efforts and the Trump administration's crucial mission to ensure public officials are held to the same standards as every citizen, undermining the pursuit of true accountability in government.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764934265170-5",
+        "headline": "House Democrats Finally Release More Epstein Island Evidence",
+        "content": "House Democrats have at long last released additional, previously unseen images of convicted sex offender Jeffrey Epstein's infamous private Caribbean island. While these new visuals contribute to the public record of Epstein's depraved activities, the public continues to demand full transparency and accountability regarding all individuals involved in his abhorrent network, ensuring justice for his many victims and exposing those who enabled him.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764931482079-0",
-        "headline": "Supreme Court Declares Texas Congressional Map a Brilliant Work of Abstract Art, Grants President Trump Lifetime Achievement Award in Cartography",
-        "content": "In a stunning display of judicial prowess, the Supreme Court has heroically upheld Texas's congressional map, ensuring that citizens will continue to navigate voting districts shaped like contorted pretzels, startled squirrels, and perhaps even a faint, smiling visage of President Trump himself. The decision, lauded as a \"victory for geometric ingenuity\" by bewildered legal scholars, means the current lines will remain, allowing President Trump to further cement his legacy of unparalleled winning, even when the victory simply involves a map that looks like a spaghetti explosion. Legal experts were heard muttering something about \"constitutionality\" before quickly being distracted by a shiny object.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764934265170-0",
+        "headline": "Supreme Court Blesses Texas With New Congressional Map So Republican, It Practically Votes Itself",
+        "content": "In a stunning display of judicial wisdom, the Supreme Court has greenlit Texas's latest congressional map, a cartographic masterpiece so exquisitely gerrymandered that critics swear it's already pre-filled Republican ballots for the 2026 elections. Opponents argue the map gives an 'unfair' advantage, completely missing the point that 'fairness' is merely a suggestion when it comes to securing perpetual power.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "8-11 hours ago"
       },
       {
-        "id": "story-1764931482079-1",
-        "headline": "FBI Finally Cracks Case of Pipe Bombs After Two Years of \"Carefully Reviewing Every Single VHS Tape From 1998\"",
-        "content": "After an exhaustive two-year investigation that involved meticulously analyzing every single grain of sand within a one-mile radius, the FBI has triumphantly apprehended a Virginia man suspected of planting pipe bombs outside D.C. headquarters just before the January 6, 2021, Capitol riot. Justice Department officials, wiping sweat from their brows, confirmed that investigators \"revisited vast evidence\" – primarily by staring intently at a blurry photo for approximately 730 days – before finally realizing the suspect wasn't actually a highly sophisticated international operative, but rather a guy who left his car keys at the scene. \"Turns out,\" one agent remarked, \"we had too much evidence, it was overwhelming.\"",
-        "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764931482079-2",
-        "headline": "Admiral Blames Capsized Survivors for \"Poor Communication Skills,\" Demands They Install Emergency Satellite Phones On Their Foreheads",
-        "content": "In a truly groundbreaking revelation, an admiral overseeing a recent \"double-tap\" strike on a vessel (allegedly a drug boat, but possibly just a very confused fishing charter) informed baffled lawmakers that the survivors, who were quite literally clinging to the capsized hull for dear life, inexplicably failed to radio for backup after the initial attack. \"It's just common courtesy,\" the admiral stated, adjusting his perfectly pressed uniform. \"We expect a certain level of professionalism, even from those we've just, you know, capsized.\" Did they even *try* to shout into a conch shell? The legality of the second strike remains hotly debated, mostly because lawmakers couldn't hear the admiral over the sound of their own jaws hitting the floor.",
-        "originalSource": "CNN",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764931482079-3",
-        "headline": "Grand Jury, Bored With Endless Paperwork, Kindly Informs Justice Department They're \"Just Not That Into\" Another James Indictment",
-        "content": "In a shocking display of common sense (or perhaps just sheer exhaustion), a grand jury in Virginia has politely, yet firmly, declined to issue yet another mortgage fraud indictment against New York Attorney General Letitia James. This monumental \"no\" marks a significant setback for a Justice Department seemingly determined to exhaust every last tree on Earth printing new charges, and for the Trump administration's tireless pursuit of… well, something. The federal government had, with the tenacity of a toddler demanding more candy, sought a fresh indictment just days after a previous case against Ms. James was unceremoniously tossed out by a judge, presumably because it was already gathering dust.",
-        "originalSource": "NPR",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764931482079-4",
-        "headline": "Prosecutors Announce Plans To Seek Death Penalty After Discovering Crime Was \"Particularly Gory,\" Not Just \"Standard Gory\"",
-        "content": "Maricopa County prosecutors, apparently operating under a newly installed \"Extreme Violence Threshold\" meter, have declared their intent to pursue the death penalty for two suspects implicated in the 2024 killing of exotic dancer Mercedes Vega. Her body, found burned, beaten, and shot on an Arizona highway, evidently crossed the line from \"terrible\" to \"death penalty terrible.\" The case has, predictably, garnered \"significant national attention,\" primarily because the public has developed an insatiable appetite for the most outrageously violent narratives, often overlooking the more mundane, less televisual injustices. Prosecutors assured the public they had carefully considered all their options, including the option to act really, really mad.",
-        "originalSource": "NBC News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764931482079-5",
-        "headline": "New Report Confirms You Can Now Afford To Live In Top U.S. Cities Only If You Are Actually Made Of Money",
-        "content": "A groundbreaking new analysis by LendingTree has confirmed what everyone already suspected while crying into their empty wallets: rents in the 50 largest U.S. cities have officially ascended into the stratosphere since 2020, making affordable housing a quaint historical concept. The report painstakingly details which metropolitan areas have become particularly adept at siphoning hundreds of extra dollars per month from your bank account, largely because landlords suddenly remembered they need a third yacht. Experts suggest these surging costs are \"impacting affordability\" and \"contributing to broader economic anxieties,\" which is a fancy way of saying people are sleeping in their cars and wondering if they can harvest their own organs for rent money.",
-        "originalSource": "CBS News",
+        "id": "story-1764934265170-1",
+        "headline": "FBI Finally Nabs Jan. 6 Pipe Bomb Suspect Who Was Reportedly Just Waiting Patiently In Virginia For Them To Catch Up",
+        "content": "After a mere three years of exhaustive, high-stakes detective work involving the meticulous analysis of grainy footage and possibly the occasional psychic tip, the FBI has triumphantly announced the arrest of a Virginia man in connection with the 2021 D.C. pipe bomb incident. The suspect, apparently a master of blending into suburban life, was apprehended following a renewed investigation effort that presumably involved looking up from their cold brew coffees.",
+        "originalSource": "CBS News / The Washington Post",
         "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-2",
+        "headline": "Lawmakers Express Deepest Concerns Over US Boat Strike Video, Immediately Begin Heated Debate On Optimal Angle For Future Strikes",
+        "content": "In a somber Capitol Hill viewing, lawmakers witnessed video of a US boat strike, immediately launching into profound discussions about the 'legality' of the operation. The harrowing footage, which reportedly showed a boat striking something, prompted solemn head-nodding and conflicting testimony over whether an admiral's 'kill order' was delivered with sufficient gravitas. The Pentagon, always a beacon of clarity, confirmed four deaths in a recent strike, presumably just to ensure everyone understood boats sometimes hit things.",
+        "originalSource": "PBS NewsHour / CBS News",
+        "publishedTime": "9-11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-3",
+        "headline": "President Trump Replaces Architect For White House Ballroom, Demands More 'Diamond-Encrusted Everything'",
+        "content": "President Trump, a man whose personal design aesthetic can only be described as 'maximum baroque with a side of solid gold,' has abruptly replaced the architect he personally handpicked for the White House ballroom renovation project. Sources close to the administration suggest James McCrery II failed to grasp President Trump's vision for a space that truly 'screamed opulence' without resorting to mere gold leaf when full gold bricks were an option. Shalom Baranes has now been tasked with making the ballroom so grand it makes Versailles look like a broom closet.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "11-15 hours ago"
+      },
+      {
+        "id": "story-1764934265170-4",
+        "headline": "Grand Jury Heroically Refuses To Reindict Letitia James, Citing Baffling Lack Of Actual Crime",
+        "content": "In a stunning blow to the Justice Department's tireless pursuit of… well, something, a grand jury has inexplicably declined to reindict New York Attorney General Letitia James in a mortgage fraud case. This monumental refusal to find a crime where apparently none existed has sent shockwaves through the Trump administration, forcing them to reconsider their strategy of 'just keep asking until someone says yes.'",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764934265170-5",
+        "headline": "House Democrats Stun Nation With 'New' Images Of Epstein's Island That Look Exactly Like All The Old Images Of Epstein's Island",
+        "content": "In a groundbreaking moment of public service, House Democrats have bravely released 'previously unseen' images of Jeffrey Epstein's private Caribbean island, adding a crucial twenty-third angle to the already extensive public documentation of the infamous property. The new visuals, which sources confirm still depict beaches, palm trees, and suspiciously large mansions, are expected to spark widespread discussions about… how islands look.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764931482079-0",
-        "headline": "The Supreme Court Made a Big Decision for President Trump.",
-        "content": "The highest court in our country, called the Supreme Court, said that President Trump was right about a map of Texas. This map shows how different parts of Texas get to pick their leaders. Some people thought the map wasn't fair, but the court said it could stay the same for the next elections. So, President Trump won this argument!",
-        "originalSource": "The Washington Post",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764934265170-0",
+        "headline": "The Big Boss Court Says Texas Can Use Its New Election Map",
+        "content": "The highest court in the country, called the Supreme Court, said it's okay for Texas to use a new map for how people vote in future elections in 2026. Some people didn't like this map because they think it makes it much easier for one group, the Republicans, to win.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "8-11 hours ago"
       },
       {
-        "id": "story-1764931482079-1",
-        "headline": "The FBI Caught a Man Who Planted Bombs.",
-        "content": "The FBI finally caught a guy from Virginia who they think put bombs near some important offices in Washington, D.C. This happened right before a big problem at the Capitol building a few years ago. It took a long time, but the police looked at all the clues again and found him!",
-        "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764931482079-2",
-        "headline": "People on a Sunk Boat Did Not Ask for Help.",
-        "content": "An important navy guy told some politicians that when a boat believed to be carrying drugs flipped over in the ocean, the people who survived didn't call for help. This happened after the boat was hit, and then it was hit again. The politicians are trying to figure out if it was okay to hit the boat a second time after it had already sunk.",
-        "originalSource": "CNN",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764931482079-3",
-        "headline": "A Jury Said No to New Charges Against a New York Boss.",
-        "content": "A special group of people called a grand jury said \"no\" to trying to charge a lady named Letitia James again. She is like the head lawyer for New York. She was being accused of something called \"mortgage fraud.\" This means the government, and even President Trump's team, wanted to charge her again, but a judge already said \"no\" to an older case last week. So, for now, she's not getting new charges.",
-        "originalSource": "NPR",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764931482079-4",
-        "headline": "People Who Hurt a Dancer Might Get a Very Serious Punishment.",
-        "content": "In Arizona, the lawyers who work for the government want to give the worst punishment possible, called the death penalty, to two people. They are accused of terribly hurting and killing a dancer named Mercedes Vega. Her body was found on a road, and it was a really shocking and sad thing that happened. Everyone is talking about how awful it was.",
-        "originalSource": "NBC News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764931482079-5",
-        "headline": "Rent Money for Homes Went Up a Lot in Many Cities.",
-        "content": "A new study found that the cost of renting a house or apartment in big cities across America has gone way up since 2020. People are now paying hundreds more dollars each month! This report shows which cities got super expensive and is making many people worried about how they will afford to live.",
-        "originalSource": "CBS News",
+        "id": "story-1764934265170-1",
+        "headline": "The Police Catch a Man Who Planted Bombs in Washington D.C.",
+        "content": "The FBI, which is like a super police force, has caught a man from Virginia. They think he put some dangerous homemade bombs near the main offices of the two big political groups, the Democrats and the Republicans, in Washington D.C. a few years ago in 2021. They worked extra hard to find him.",
+        "originalSource": "CBS News / The Washington Post",
         "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-2",
+        "headline": "Important People Watch a Video of a Boat Attack and Are Worried",
+        "content": "Some important people who make our laws watched a video of a boat attack done by the U.S. They are now really worried if what happened was allowed by the rules. People are also confused because they heard different stories about whether a high-ranking navy leader, called an admiral, told the boats to 'kill' people. The military confirmed that four people died in a recent attack like this.",
+        "originalSource": "PBS NewsHour / CBS News",
+        "publishedTime": "9-11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-3",
+        "headline": "President Trump Changes His Mind About Who Should Design a White House Room",
+        "content": "President Trump has picked a new person, Shalom Baranes, to be the architect for fixing up the big ballroom in the White House. This means he is replacing James McCrery II, who President Trump had chosen before to do the same job.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "11-15 hours ago"
+      },
+      {
+        "id": "story-1764934265170-4",
+        "headline": "A Special Group of People Say No to Charging Letitia James Again",
+        "content": "A special group of citizens, called a grand jury, decided not to charge New York's top lawyer, Letitia James, again in a case about cheating with house loans. This decision means it's harder for the government's legal team and President Trump's team to keep going with the case.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764934265170-5",
+        "headline": "Lawmakers Show New Photos of Jeffrey Epstein's Secret Island",
+        "content": "Some lawmakers in the government, called House Democrats, have shown new pictures that no one had seen before. These pictures are of a private island that belonged to Jeffrey Epstein, a man who was found guilty of very bad crimes and is now dead. These new pictures help everyone learn more about his special island.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764931482079-0",
-        "headline": "The Mapmaker's Last Stand",
-        "content": "The Supreme Court’s gavel echoed, sealing the fate of Texas. A long legal battle concluded with a decisive victory for President Trump, upholding the congressional map meticulously drawn by Republican state lawmakers. Opponents had argued unconstitutionality, but the highest court found no fault, ensuring the current district lines would remain for future elections. The decision solidified a strategic win, reshaping the electoral landscape and influencing outcomes for years to come. In the intricate dance of power, this move proved a masterful stroke, the lines now fixed, immutable.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "5 hours ago"
+        "id": "story-1764934265170-0",
+        "headline": "The Unseen Hand Shapes the Future",
+        "content": "The high court's gavel fell, echoing a decision that would redraw the political landscape of Texas. For the 2026 elections, the controversial congressional map, accused by many as a partisan weapon, was given the green light. Critics cried foul, claiming the new boundaries were meticulously etched to ensure an enduring Republican dominance, silencing dissenting voices before a single ballot was cast. The future of the state's representation, it seemed, was now a matter of lines on a map, approved by the highest authority, solidifying a trajectory for years to come, a silent victory for one side.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "8-11 hours ago"
       },
       {
-        "id": "story-1764931482079-1",
-        "headline": "The Long Hunt for Hidden Shadows",
-        "content": "For years, the phantom bomber remained just that—a phantom. Twin devices, placed ominously outside DNC and RNC headquarters before January 6th, 2021, had fueled a relentless FBI pursuit. Now, the ghost had a name, a face: a Virginia man, apprehended finally. Justice Department officials confirmed the breakthrough came from re-examining vast, cold evidence, a crucial lead unearthed from the digital dust. The silence of years broken, the shadow of fear lifted, the truth emerging from the darkness. The long wait for justice was over.",
-        "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
-      },
-      {
-        "id": "story-1764931482079-2",
-        "headline": "Whispers from a Capsized Hull",
-        "content": "The admiral’s voice was flat, devoid of emotion, as he faced the probing lawmakers. He recounted the harrowing aftermath: a vessel, allegedly a drug boat, hit by an initial strike off Venezuela. Survivors clung to the capsized hull, yet no distress call pierced the airwaves, he stated. Lawmakers watched grim video evidence, their questions sharp, dissecting the legality of the second strike that followed, moments later. The water’s cold embrace, the silent suffering, a mystery shrouded in the ocean's depths, the decision-making under scrutiny.",
-        "originalSource": "CNN",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764931482079-3",
-        "headline": "The Unyielding Shield of Justice",
-        "content": "Virginia’s grand jury delivered its verdict: no new indictment for New York Attorney General Letitia James. A quiet victory for her, a significant hurdle for the Justice Department and the administration of President Trump. Federal prosecutors had pushed for a fresh case, insistent after a judge had dismissed a previous mortgage fraud accusation just last week. The legal chess match had seen another move, and this time, the powerful New York AG stood firm, her legal shield unyielding, thwarting the federal pursuit.",
-        "originalSource": "NPR",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764931482079-4",
-        "headline": "Echoes on the Desert Highway",
-        "content": "The Arizona highway held a horrific secret: Mercedes Vega, an exotic dancer, her life brutally extinguished in 2024. Burned, beaten, shot – the details sent shivers through the nation. Now, Maricopa County prosecutors declared their intent: the death penalty for the two suspects. The extreme violence of her killing demanded a response, an answer to the raw shock and public outcry. Justice, a slow, grinding machine, would seek its ultimate retribution, echoing her tragic final moments on that desolate stretch of road.",
-        "originalSource": "NBC News",
-        "publishedTime": "10 hours ago"
-      },
-      {
-        "id": "story-1764931482079-5",
-        "headline": "The Ascent of Unaffordable Walls",
-        "content": "Sarah stared at the notice, her heart sinking with the rent surge. Another hundreds of dollars, just like last year. Across the 50 largest U.S. cities, a silent crisis brewed since 2020. LendingTree's analysis confirmed her fears: rents had soared, outpacing wages, transforming once-affordable neighborhoods into unattainable dreams. The metropolitan maps, now etched with stark red lines of percentage increases, told a grim tale of economic anxiety. For countless residents, the roof over their heads felt less like a home and more like an ever-climbing, unreachable wall.",
-        "originalSource": "CBS News",
+        "id": "story-1764934265170-1",
+        "headline": "Echoes of a Cold January",
+        "content": "Three years after the capital held its breath, a shadow from that tense January day finally materialized. The FBI, their renewed efforts finally bearing fruit, apprehended a Virginia man. He was the phantom, the one who left the crude, deadly devices near the Democratic and Republican National Committee headquarters on January 6, 2021. The memory of those pipe bombs, symbols of a nation on edge, had haunted investigators. Now, with the handcuffs clicked, a chapter long open began to close, though the questions of motive and wider implications lingered, a silent promise of more revelations.",
+        "originalSource": "CBS News / The Washington Post",
         "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-2",
+        "headline": "A Glimpse into the Fog of War",
+        "content": "The flickering images on the screen chilled the room. Lawmakers watched, horrified, as the US boat strike unfolded, the silent screams echoing in their minds. Questions erupted, legality debated fiercely. Had an admiral truly issued a \"kill order,\" as whispers suggested? The Pentagon had confirmed four deaths in a recent, similar incident, but this video brought the abstract into stark, undeniable focus. Conflicting testimonies blurred the lines between defense and aggression. The screen's dark truth fueled a volatile debate, exposing the moral complexities and the heavy cost of unseen operations, leaving a lingering unease among those who govern.",
+        "originalSource": "PBS NewsHour / CBS News",
+        "publishedTime": "9-11 hours ago"
+      },
+      {
+        "id": "story-1764934265170-3",
+        "headline": "A Change in the Grand Design",
+        "content": "The grand ballroom, a stage for history, awaited its transformation. President Trump, ever one for decisive action, had once chosen James McCrery II to orchestrate its rebirth. But now, the blueprints would pass to new hands. Shalom Baranes was the chosen successor, tasked with reimagining the iconic space. It was a swift, unexpected change, a subtle rearranging of the artistic vision for one of the nation's most symbolic rooms. The project, already under scrutiny, now carried the added intrigue of a swapped vision, reflecting perhaps, the transient nature of even the most carefully laid plans within the halls of power.",
+        "originalSource": "The Washington Post / CBS News",
+        "publishedTime": "11-15 hours ago"
+      },
+      {
+        "id": "story-1764934265170-4",
+        "headline": "A Victory Against the Storm",
+        "content": "The grand jury's verdict was swift and clear: no reindictment for New York Attorney General Letitia James in the contentious mortgage fraud case. The decision sent ripples through the political landscape, a significant blow to the Justice Department's persistent efforts. It was a clear setback for the President Trump administration, which had publicly championed the pursuit of the case. The legal battle, a politically charged saga, had reached a crucial point, with the scales of justice tipping unexpectedly. The AG remained unbowed, her name cleared of the renewed allegations, leaving the administration to reassess its strategy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1764934265170-5",
+        "headline": "Unveiling the Island's Dark Secrets",
+        "content": "New images, stark and revealing, emerged from the House Democrats, peeling back another layer from Jeffrey Epstein's infamous Caribbean island. Previously unseen, these photographs added a chilling dimension to the public's understanding of the deceased convicted sex offender's secluded domain. Each shot whispered tales of opulence and depravity, further cementing the island's grim legacy. The visuals served as a grim reminder of the horrors that unfolded behind its pristine shores, pushing the dark narrative of a man whose crimes continued to reverberate, even from beyond the grave, through the haunting documentation of his hidden world.",
+        "originalSource": "The Guardian / PBS NewsHour",
+        "publishedTime": "Last 24 hours"
       }
     ]
   }
