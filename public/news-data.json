@@ -1,267 +1,267 @@
 {
-  "timestamp": 1764953668058,
+  "timestamp": 1764956429547,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764953589376-0",
-        "headline": "Pentagon Footage Reveals Horrific US Military Strikes, Raising Alarming Questions About Accountability and Potential War Crimes",
-        "content": "Disturbing video evidence presented to lawmakers has exposed the brutal reality of U.S. military operations against alleged drug vessels, showing survivors desperately clinging to wreckage before a subsequent deadly attack. This horrifying footage intensifies urgent calls for accountability and fuels serious allegations of potential war crimes committed by the U.S. military, highlighting a systemic lack of oversight in foreign interventions.",
-        "originalSource": "CBS News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1764953589376-1",
-        "headline": "Politically Appointed CDC Panel Rejects Critical Infant Vaccine Recommendation, Endangering Public Health",
-        "content": "In a move widely condemned by medical and public health experts, a CDC Advisory Committee, comprised entirely of appointees by Health Secretary Robert F. Kennedy Jr., has voted against recommending the birth dose of the hepatitis B vaccine. This alarming decision represents a dangerous politicization of public health policy and a significant blow to evidence-based healthcare, potentially jeopardizing the health and safety of countless newborns and undermining trust in scientific institutions.",
-        "originalSource": "PBS News",
-        "publishedTime": "19 mins ago"
-      },
-      {
-        "id": "story-1764953589376-2",
-        "headline": "Netflix Megadeal Threatens Media Diversity and Deepens Corporate Consolidation Crisis",
-        "content": "In a staggering display of corporate power, Netflix has announced plans to acquire Warner Bros. studio and its streaming operations for an estimated $72 billion. This monumental acquisition further intensifies the alarming trend of media consolidation, promising to stifle competition, reduce consumer choice, and marginalize independent creators, while consolidating immense wealth and influence into the hands of a few corporate giants. This unchecked market concentration demands urgent regulatory scrutiny.",
-        "originalSource": "Associated Press",
+        "id": "story-1764956360065-0",
+        "headline": "CDC Panel's Vote to Limit Newborn Hepatitis B Vaccines Risks Public Health and Exacerbates Inequity.",
+        "content": "A recent vote by a CDC advisory panel to dismantle the universal recommendation for newborn hepatitis B vaccinations raises serious concerns about public health and equity. This significant revision to the child vaccine schedule, which now suggests limiting the vaccine to babies born to mothers with confirmed or unknown positive status, could leave many infants vulnerable and disproportionately impact communities with less access to comprehensive prenatal care and testing, widening existing health disparities.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764953589376-3",
-        "headline": "Supreme Court Sanctions Texas Gerrymandering, Further Eroding Democratic Representation",
-        "content": "The Supreme Court has delivered a severe blow to democratic principles by approving Texas's redrawn congressional maps, which are widely recognized as a partisan gerrymander designed to solidify Republican power. This decision allows the state to move forward with boundaries that will further disenfranchise voters and entrench a system where political representation is manipulated for partisan gain, rather than reflecting the will of the people, exacerbating a dangerous trend of systemic voter suppression.",
-        "originalSource": "The Guardian",
-        "publishedTime": "16 hours ago"
+        "id": "story-1764956360065-1",
+        "headline": "Mega-Merger: Netflix's $72 Billion Acquisition of Warner Bros. Signals Dangerous Media Consolidation.",
+        "content": "In a move that further intensifies corporate control over media, the streaming giant Netflix has announced its intent to acquire Warner Bros.' studios and streaming assets for a staggering $72 billion. This colossal cash-stock deal is set to reshape the US and global entertainment industries, potentially stifling competition, reducing consumer choice, and further concentrating power and wealth in the hands of a few corporate behemoths, rather than fostering diverse content creation or fair labor practices for artists and workers.",
+        "originalSource": "Associated Press (via PBS News)",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764953589376-4",
-        "headline": "Massive Cloudflare Outage Exposes Fragility of Centralized Digital Infrastructure",
-        "content": "A widespread and disruptive outage at Cloudflare, a critical web infrastructure and security company, temporarily crippled major online platforms like LinkedIn and Zoom, rendering them inaccessible. This incident starkly reveals the inherent fragility and systemic risks associated with our increasing reliance on highly centralized corporate control over essential digital services, underscoring the urgent need for more resilient and decentralized internet architecture to prevent such widespread societal disruption.",
+        "id": "story-1764956360065-2",
+        "headline": "Accountability Begins as Suspect in January 6th Pipe Bomb Plot Faces Initial Court Appearance.",
+        "content": "The individual arrested in connection with the domestic terrorist pipe bomb plot discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is set to make their initial appearance in a US court. This critical step in the high-profile federal case underscores the ongoing need to hold accountable those who threatened our democratic institutions and engaged in political violence, ensuring justice for attempts to undermine the foundational principles of American governance.",
         "originalSource": "The Guardian",
+        "publishedTime": "48m ago"
+      },
+      {
+        "id": "story-1764956360065-3",
+        "headline": "President Trump's Administration Weaponizes Isolated Incident to Further Restrict Migrant Work Permits and Asylum Seekers' Rights.",
+        "content": "Following a recent shooting incident, President Trump's administration is implementing new, punitive restrictions that will drastically shorten the expiration timelines for work permits, specifically targeting asylum seekers and other vulnerable migrants seeking humanitarian relief in the US. This policy, announced by U.S. Citizenship and Immigration Services, represents a deeply troubling pattern of using isolated events to justify systemic cruelty and xenophobic policies against those seeking safety and a better life, further marginalizing already exploited communities.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764956360065-4",
+        "headline": "Pentagon's Latest Fatal Boat Strike in Pacific Raises Alarms Over Lack of Accountability and Civilian Casualties.",
+        "content": "The Pentagon has confirmed another deadly boat strike in the Pacific, resulting in the deaths of four men on a vessel described as an alleged drug runner, bringing the total casualties from such controversial actions to at least 87 people since early September. This ongoing series of lethal strikes demands critical scrutiny regarding transparency, due process, and the broader human cost of military operations, raising serious questions about accountability and the impact on regional stability and human rights.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764953589376-5",
-        "headline": "New Immigration Work Permit Restrictions Intensify Harmful Crackdown on Vulnerable Communities",
-        "content": "The U.S. government's latest tightening of immigration work permit regulations marks another alarming escalation in the ongoing crackdown against undocumented individuals, further cementing a system designed to dehumanize and exploit. This policy decision, part of a broader anti-immigrant agenda, will undoubtedly inflict more hardship on vulnerable communities, restrict essential economic opportunities, and deepen the systemic injustices faced by immigrants across the nation, rather than addressing root causes of migration.",
-        "originalSource": "CBS News",
+        "id": "story-1764956360065-5",
+        "headline": "Supreme Court Upholds Texas's Gerrymandered Congressional Map, Undermining Democratic Representation.",
+        "content": "The Supreme Court has issued an order allowing Texas to proceed with its redrawn congressional map for the 2026 elections, despite significant challenges alleging egregious gerrymandering designed to solidify one party's power. This decision by the highest court permits a map considered highly favorable to the Republican Party's political prospects, further entrenching systemic disenfranchisement and actively undermining the fundamental democratic principle of fair and equitable representation for all citizens.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "17 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764953589376-0",
-        "headline": "Pentagon Briefing Fuels Debate Over Legality of Deadly US Boat Strikes",
-        "content": "Lawmakers viewed video of US military strikes on alleged drug vessels, showing survivors clinging to wreckage before a second deadly attack. This has intensified the debate over the legality of the operations and fueled allegations of potential war crimes against the U.S. military.",
-        "originalSource": "CBS News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1764953589376-1",
-        "headline": "CDC Panel Appointed by RFK Jr. Votes Against Recommending Hepatitis B Shot at Birth",
-        "content": "The CDC's Advisory Committee on Immunization Practices, whose members were all appointed by Health Secretary Robert F. Kennedy Jr., voted to stop recommending the birth dose of the hepatitis B vaccine. The decision was immediately met with a strong chorus of criticism from medical and public health leaders.",
-        "originalSource": "PBS News",
-        "publishedTime": "19 mins ago"
-      },
-      {
-        "id": "story-1764953589376-2",
-        "headline": "Netflix to Acquire Warner Bros. Studio and Streaming Business for $72 Billion",
-        "content": "Netflix announced a massive deal to acquire the Warner Bros. studio and its associated streaming business for an estimated $72 billion. The major acquisition is expected to significantly consolidate the media landscape and have widespread ramifications for the future of the entertainment and streaming industries.",
-        "originalSource": "Associated Press",
+        "id": "story-1764956360065-0",
+        "headline": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
+        "content": "A CDC advisory panel voted to eliminate the long-standing universal recommendation for the hepatitis B shot for all newborns. The new guidance suggests limiting the vaccine to babies born to mothers testing positive or those whose status is unknown, marking a significant revision to the child vaccine schedule.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764953589376-3",
-        "headline": "US Supreme Court Approves Redrawn Texas Congressional Maps Favorable to GOP",
-        "content": "The Supreme Court approved the use of redrawn Texas congressional maps. The decision allows the state to proceed with the new boundaries, which are largely viewed by analysts as politically favorable to the Republican Party heading into the next election cycle.",
-        "originalSource": "The Guardian",
-        "publishedTime": "16 hours ago"
+        "id": "story-1764956360065-1",
+        "headline": "Netflix to acquire Warner Bros. studio and streaming business for $72 billion",
+        "content": "The largest streaming network, Netflix, announced plans to acquire Warner Bros.' studios and streaming assets for a reported $72 billion in a cash-stock deal. This massive purchase is expected to reshape the competitive landscape of the US and global media and entertainment industries.",
+        "originalSource": "Associated Press (via PBS News)",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764953589376-4",
-        "headline": "Major Cloudflare Outage Takes Down Websites Including LinkedIn and Zoom",
-        "content": "A significant outage hit the web infrastructure and security company Cloudflare, causing widespread service disruptions. The technical issue resulted in major websites, including the professional networking platform LinkedIn and the video conferencing service Zoom, being temporarily taken offline or becoming inaccessible.",
+        "id": "story-1764956360065-2",
+        "headline": "Suspect in US Capitol pipe bomb plot to make first appearance in court",
+        "content": "The individual arrested in connection with the pipe bombs discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is scheduled to make their initial appearance in a US court. This marks a new step in the high-profile federal case.",
         "originalSource": "The Guardian",
+        "publishedTime": "48m ago"
+      },
+      {
+        "id": "story-1764956360065-3",
+        "headline": "Trump limits work permit access for migrants after National Guard shooting",
+        "content": "The Trump administration is implementing new restrictions that will shorten the expiration timelines for work permits, primarily affecting asylum seekers and other migrants seeking humanitarian relief in the US. U.S. Citizenship and Immigration Services announced the change following a recent shooting incident.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764956360065-4",
+        "headline": "Pentagon announces it has killed four men in another boat strike in Pacific",
+        "content": "The Pentagon confirmed a new boat strike in the Pacific, which resulted in the death of four men on a vessel described as an alleged drug runner. This latest action is part of a controversial series of strikes that have killed at least 87 people in the region since early September.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764953589376-5",
-        "headline": "US Tightens Immigration Work Permits in Latest Move to Expand Crackdown",
-        "content": "The U.S. government has announced that it is tightening the regulations and requirements for immigration work permits. This action is part of a broader, continuous effort by the current administration to expand and strengthen the crackdown on unauthorized immigration across the country.",
-        "originalSource": "CBS News",
+        "id": "story-1764956360065-5",
+        "headline": "Supreme Court allows Texas to use redrawn congressional map favorable to GOP in 2026",
+        "content": "The Supreme Court issued an order permitting the state of Texas to proceed with using its redrawn congressional map for the 2026 elections. The map, which was challenged for its alleged gerrymandering, is considered highly favorable to the Republican Party's political prospects.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "17 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764953589376-0",
-        "headline": "America's Defenders Face Unjust Scrutiny Over Vital Drug Interdiction Efforts",
-        "content": "Our courageous military personnel, working tirelessly to protect our nation from dangerous drug cartels, are now facing unwarranted attacks from some in Congress. Lawmakers have reviewed footage of crucial US military operations against suspected drug vessels, operations designed to safeguard our communities. Yet, rather than supporting our troops, certain voices are quick to hurl accusations of 'war crimes,' undermining the brave men and women who put their lives on the line daily to combat illicit trade and secure our borders. This relentless questioning risks demoralizing our fighting forces and emboldening those who seek to harm our nation.",
-        "originalSource": "CBS News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1764953589376-1",
-        "headline": "Parental Rights Reasserted as CDC Committee Questions Universal Vaccine Mandate",
-        "content": "In a significant move for personal liberty and parental autonomy, the CDC's Advisory Committee on Immunization Practices, under the thoughtful guidance of Health Secretary Robert F. Kennedy Jr., has voted to cease recommending the universal hepatitis B vaccine dose at birth. This decision reflects a welcome shift toward prioritizing individual medical choice and family discretion over broad, one-size-fits-all mandates. While some within the entrenched medical establishment have voiced immediate disapproval, this committee's actions signal a crucial re-evaluation of public health policies that may have previously overlooked the importance of parental decision-making regarding their children's health, ensuring that families have the freedom to make informed choices without undue government pressure.",
-        "originalSource": "PBS News",
-        "publishedTime": "19 mins ago"
-      },
-      {
-        "id": "story-1764953589376-2",
-        "headline": "Media Monolith Grows as Netflix Acquires Warner Bros., Raising Concerns for Free Market and Content Diversity",
-        "content": "The entertainment industry witnesses yet another colossal consolidation as Netflix announces its $72 billion acquisition of Warner Bros. studio and its streaming operations. This massive deal signifies a concerning trend toward fewer, larger entities controlling the narratives and content consumed by millions. While proponents may tout efficiency, such mergers risk stifling true competition in the marketplace and centralizing cultural influence into fewer hands. True liberty thrives on diverse voices and robust competition, not on the creation of media leviathans that could potentially dictate what audiences see and hear, thus limiting consumer choice and independent thought.",
-        "originalSource": "Associated Press",
+        "id": "story-1764956360065-0",
+        "headline": "CDC Panel Recognizes Parental Liberty, Ends Universal Newborn Vaccine Mandate",
+        "content": "A CDC advisory panel has voted to eliminate the long-standing universal recommendation for the hepatitis B shot for all newborns, marking a significant step towards restoring parental rights in medical decisions for their children. The new guidance suggests limiting the vaccine to infants born to mothers testing positive or those whose status is unknown, emphasizing individual choice and responsible health policy over broad government mandates.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764953589376-3",
-        "headline": "Supreme Court Upholds Texas' Constitutional Right to Fair Redistricting Process",
-        "content": "In a welcome affirmation of states' rights and constitutional governance, the U.S. Supreme Court has rightly approved Texas' redrawn congressional maps. This decision empowers the Lone Star State to proceed with boundaries established through a legitimate legislative process, ensuring representation that reflects the will of its citizens. While partisan critics may lament the political outcomes, this ruling underscores the fundamental principle that states are empowered to manage their own electoral frameworks, free from undue federal interference. It is a victory for sound legal precedent and the democratic process as intended by our Founders.",
-        "originalSource": "The Guardian",
-        "publishedTime": "16 hours ago"
+        "id": "story-1764956360065-1",
+        "headline": "Streaming Giant Netflix Consolidates Power with Massive Warner Bros. Acquisition",
+        "content": "The largest streaming network, Netflix, announced ambitious plans to acquire Warner Bros.' studios and streaming assets for a reported $72 billion in a cash-stock deal. This massive purchase is set to reshape the competitive landscape of the US and global media and entertainment industries, representing a significant market force at work.",
+        "originalSource": "Associated Press (via PBS News)",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764953589376-4",
-        "headline": "Centralized Digital Infrastructure Proves Fragile As Cloudflare Outage Disrupts Essential Services",
-        "content": "The recent widespread outage affecting web infrastructure giant Cloudflare serves as a stark reminder of the inherent fragility and risks associated with over-reliance on centralized digital systems. Critical platforms such as LinkedIn and Zoom were rendered inaccessible, demonstrating how a single point of failure in our increasingly connected world can paralyze communication and commerce. This incident underscores the urgent need for greater digital resilience, decentralization, and robust security measures to protect individual liberty and economic activity from the vulnerabilities inherent in consolidating essential services under a few massive tech providers. True freedom demands a more secure and diversified digital landscape.",
+        "id": "story-1764956360065-2",
+        "headline": "Justice System Moves Forward in Capitol Pipe Bomb Case, Suspect to Appear",
+        "content": "The individual arrested in connection with the pipe bombs discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is scheduled to make their initial appearance in a US court. This marks a crucial step in the high-profile federal case, demonstrating that those who threaten our nation's institutions will be brought to justice under the rule of law.",
         "originalSource": "The Guardian",
+        "publishedTime": "48m ago"
+      },
+      {
+        "id": "story-1764956360065-3",
+        "headline": "President Trump Strengthens Border Security, Restricting Migrant Work Permits",
+        "content": "President Trump's administration is implementing new, vital restrictions that will shorten the expiration timelines for work permits, primarily affecting asylum seekers and other migrants seeking humanitarian relief in the US. U.S. Citizenship and Immigration Services announced the change following a recent shooting incident, reinforcing the administration's commitment to national security and controlled immigration.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764956360065-4",
+        "headline": "Pentagon Upholds National Security, Eliminating Alleged Drug Runners in Pacific",
+        "content": "The Pentagon confirmed a new boat strike in the Pacific, which resulted in the death of four men on a vessel described as an alleged drug runner. This latest action is part of a necessary series of strikes aimed at disrupting illicit drug trafficking and protecting national interests in the region.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764953589376-5",
-        "headline": "Administration Bolsters Rule of Law by Strengthening Immigration Work Permit Regulations",
-        "content": "The current administration has taken decisive and welcome action by tightening regulations and requirements for immigration work permits, a crucial step in its ongoing commitment to securing our borders and upholding the rule of law. This measured approach ensures that our immigration system prioritizes national sovereignty, protects American workers, and maintains the integrity of our legal processes. Such efforts are fundamental to a strong nation, ensuring that all who seek to contribute to our society do so through established legal channels, reflecting a responsible and principled stance on national security and economic stability.",
-        "originalSource": "CBS News",
+        "id": "story-1764956360065-5",
+        "headline": "Supreme Court Affirms Texas's Right to Implement New Congressional Map",
+        "content": "The Supreme Court issued an order permitting the sovereign state of Texas to proceed with using its redrawn congressional map for the 2026 elections. The map, which was challenged, is now confirmed to be used, affirming the state's legislative authority and the integrity of the electoral process.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "17 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764953589376-0",
-        "headline": "Pentagon Unveils New 'Cleanup Crew' Strategy After Survivors Ruin Perfectly Good Deadly Boat Strike Footage",
-        "content": "A recent Pentagon briefing showcased exhilarating video of U.S. military strikes on alleged drug vessels, only to be awkwardly interrupted by the inconvenient fact of survivors clinging to wreckage. This unfortunate development immediately prompted a second, more 'thorough' attack, sparking a vigorous debate among lawmakers over whether it's truly 'legal' to have witnesses to your 'anti-drug operations' and fueling allegations of potential war crimes, which the Pentagon assures us are merely 'creative interpretations' of modern naval engagements.",
-        "originalSource": "CBS News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1764953589376-1",
-        "headline": "Nation's Top Health Experts, Hand-Picked for Their Unique Perspectives, Declare Newborns 'Too Pure' for Basic Medical Protection",
-        "content": "The CDC's Advisory Committee on Immunization Practices, comprised entirely of visionary members appointed by Health Secretary Robert F. Kennedy Jr., has bravely voted to cease recommending the birth dose of the hepatitis B vaccine. This revolutionary decision, celebrated as a triumph of 'alternative wellness,' was immediately met with a strong chorus of criticism from the 'mainstream medical establishment,' who stubbornly continue to insist on things like 'evidence' and 'public health.' Experts speculate the panel will next declare that babies should only be fed raw artisanal kale.",
-        "originalSource": "PBS News",
-        "publishedTime": "19 mins ago"
-      },
-      {
-        "id": "story-1764953589376-2",
-        "headline": "Netflix Now Owns Everything, Announces Mandatory Binge-Watching of All Human History",
-        "content": "Netflix, in a move widely anticipated by anyone who watches literally anything, announced it will acquire the entirety of Warner Bros. studio and its associated streaming business for a cool $72 billion. This earth-shattering acquisition means that all future content, including your grandma's home videos and the evening news, will now be exclusively available on Netflix, universally branded 'A Netflix Original.' Experts predict the entertainment landscape will soon consist solely of a single, all-encompassing red 'N' logo, forever eliminating the stress of choice.",
-        "originalSource": "Associated Press",
+        "id": "story-1764956360065-0",
+        "headline": "CDC Panel Declares Newborns 'Basically Invincible,' Recommends Fewer Vaccines for a More 'Natural' Immune Experience",
+        "content": "A CDC advisory panel, clearly inspired by the resilience of toddlers attempting to eat sand, has voted to eliminate the 'boring' universal recommendation for hepatitis B shots for all newborns. New guidance suggests limiting the vaccine to babies born to mothers testing positive or those whose status is unknown, because nothing says 'public health' like a thrilling game of viral roulette. Experts believe this bold move will free up valuable medical time for more pressing issues, like debating the optimal napping schedule for panel members.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764953589376-3",
-        "headline": "Supreme Court Declares Texas Congressional Map 'Artistic Masterpiece' of Electoral Gymnastics",
-        "content": "The U.S. Supreme Court, in a stunning display of judicial neutrality, has approved the use of Texas's newly redrawn congressional maps, hailing them as a 'bold and imaginative' work of political cartography. Analysts, who are apparently still allowed to have opinions, universally agree the new boundaries are so overwhelmingly favorable to the Republican Party they practically guarantee eternal legislative dominance. Justices reportedly praised the map for its 'innovative' use of squiggly lines to ensure every vote truly 'counts' for the right people.",
-        "originalSource": "The Guardian",
-        "publishedTime": "16 hours ago"
+        "id": "story-1764956360065-1",
+        "headline": "Netflix, Running Out of Things to Binge, Buys Entire Warner Bros. Studio Just for the Popcorn Machine",
+        "content": "In a shocking display of 'because we can,' Netflix, the streaming giant that already owns more content than the average human could watch in three lifetimes, has announced plans to acquire Warner Bros.' studios and streaming assets for a mere $72 billion. Industry insiders speculate the primary motivation was to gain exclusive rights to a particular brand of studio popcorn machine, with a Netflix spokesperson stating, 'We simply couldn't risk anyone else getting their kernels on it.' This massive purchase is expected to reshape the media landscape by reducing all competition to a single, inescapable red N.",
+        "originalSource": "Associated Press (via PBS News)",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764953589376-4",
-        "headline": "Cloudflare Outage Plunges Millions Into Unspeakable Real-Life Interactions",
-        "content": "A catastrophic outage at web infrastructure giant Cloudflare unexpectedly severed the digital umbilical cord connecting humanity to its productivity, forcing millions into the terrifying abyss of the real world. Major websites like professional networking hub LinkedIn and video conferencing behemoth Zoom went dark, leaving countless individuals to confront the horrifying prospect of face-to-face conversations or, even worse, a quiet afternoon. Tech experts warned of widespread 'social awkwardness' and a sudden, inexplicable urge to 'go outside.'",
+        "id": "story-1764956360065-2",
+        "headline": "Pipe Bomb Suspect Finally Makes Court Appearance, Reportedly Asked for Directions to Gift Shop",
+        "content": "The individual arrested in connection with the 'decorative' pipe bombs discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is finally scheduled to make their initial appearance in a US court. Sources close to the proceedings report the suspect's main concern was reportedly the lack of a 'swag bag' for first-time attendees. This highly anticipated moment marks a new step in the federal case, promising to reveal whether the bombs were indeed 'just for show' or an elaborate, misguided attempt at a political art installation.",
         "originalSource": "The Guardian",
+        "publishedTime": "48m ago"
+      },
+      {
+        "id": "story-1764956360065-3",
+        "headline": "President Trump Streamlines Work Permits to 'Optimal Inconvenience' After Incident Involving Squirrel",
+        "content": "President Trump's administration is implementing new restrictions that will drastically shorten the expiration timelines for work permits, primarily affecting asylum seekers and other migrants, following a recent 'incident' involving a particularly aggressive squirrel near a National Guard post. U.S. Citizenship and Immigration Services announced the change, explaining that keeping migrants in a constant state of bureaucratic limbo ensures they remain 'on their toes' and less likely to engage in unpatriotic activities, like planting flowerbeds without proper permits. The move is expected to boost efficiency by reducing the number of stable, contributing members of society.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764956360065-4",
+        "headline": "Pentagon Celebrates 'Another Successful Boat Decommissioning' in Pacific, Four Fewer Sea-Goers",
+        "content": "The Pentagon proudly confirmed its latest 'aquatic asset retirement' in the Pacific, which resulted in the highly efficient removal of four men from a vessel described only as an 'alleged bad boat.' This latest action is part of a controversial series of strikes that have now, through sheer statistical probability, removed at least 87 people from the region's waterways since early September. Officials stated that these 'oceanic cleanups' are vital for maintaining the tranquility of the Pacific, particularly for any future alleged drug runners who might be considering a career change.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764953589376-5",
-        "headline": "U.S. Announces New Work Permit Policy Requiring Applicants to Prove They Can Build a Wall With Their Bare Hands",
-        "content": "The U.S. government, in its ongoing and increasingly innovative crackdown on unauthorized immigration, has unveiled new, 'streamlined' regulations for work permits. Under the latest rules, immigrants will now be required to demonstrate an 'unwavering commitment to national infrastructure,' which unofficially translates to a mandatory brick-laying test performed without tools. Officials laud the move as a 'common-sense solution' that will ensure only the most 'industrious and physically capable' individuals contribute to the nation's workforce, likely solving the labor shortage by making it impossible to apply.",
-        "originalSource": "CBS News",
+        "id": "story-1764956360065-5",
+        "headline": "Supreme Court Declares Texas Gerrymandering Map 'Art,' Orders It Framed for National Gallery",
+        "content": "The Supreme Court, apparently now dabbling in art criticism, issued an order permitting the state of Texas to proceed with using its redrawn congressional map for the 2026 elections. The map, described by critics as a 'geometric assault on democracy,' was instead lauded by the justices as a 'masterpiece of abstract political expression' and 'bold, unapologetic cartographic gerrymandering.' The ruling further suggests the map be permanently installed in the National Gallery, allowing future generations to marvel at its ability to surgically ensure one party's political prospects.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "17 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764953589376-0",
-        "headline": "People Are Arguing About Whether US Boat Attacks Were Okay",
-        "content": "Imagine grown-ups watching videos where US military boats attacked other boats they thought were carrying drugs. Some people on the boats were alive in the water, but then another attack happened and they might have died. Now, lots of people are asking if what the US military did was fair and allowed by the rules, and some even say it might have been really wrong.",
-        "originalSource": "CBS News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1764953589376-1",
-        "headline": "A Group Said Babies Don't Need a Certain Shot Right Away",
-        "content": "A special group that gives advice about shots, and all the people in it were picked by the Health Secretary Robert F. Kennedy Jr., decided that newborn babies don't need a specific shot called the hepatitis B vaccine right when they are born. Many doctors and health experts were very upset about this decision and said it was a bad idea.",
-        "originalSource": "PBS News",
-        "publishedTime": "19 mins ago"
-      },
-      {
-        "id": "story-1764953589376-2",
-        "headline": "Netflix Is Going to Buy Warner Bros. for Lots of Money",
-        "content": "Netflix, which you probably use to watch shows, announced they are going to buy Warner Bros. That's a huge movie and TV studio, along with their streaming stuff, for a giant amount of money—like 72 billion dollars! This means Netflix will own even more cool movies and shows, and it will change how we all watch entertainment in the future.",
-        "originalSource": "Associated Press",
+        "id": "story-1764956360065-0",
+        "headline": "Doctors Might Give Fewer Shots to Brand New Babies",
+        "content": "A group of smart doctors at the CDC decided that not all new babies need a shot for something called Hepatitis B. Before, all babies got it. Now, they think only babies whose moms might have the sickness, or if they don't know, should get the shot. This is a big change for baby shots.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764953589376-3",
-        "headline": "Texas Can Use New Voting Maps That Help One Political Team",
-        "content": "The biggest court in the US, the Supreme Court, said it's okay for Texas to use their new maps for voting. These new maps draw lines around areas where people vote, and many smart people think these new lines will mostly help the Republican Party win more spots in the government during the next elections.",
-        "originalSource": "The Guardian",
-        "publishedTime": "16 hours ago"
+        "id": "story-1764956360065-1",
+        "headline": "Netflix is Buying a Huge Movie Company for Lots of Money",
+        "content": "Guess what? Netflix, the place where you watch tons of shows and movies, is going to buy Warner Bros.! That's the company that makes lots of popular movies and TV shows. Netflix is paying a super huge amount of money, like $72 billion. This means Netflix will be even bigger and maybe have even more cool stuff to watch.",
+        "originalSource": "Associated Press (via PBS News)",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764953589376-4",
-        "headline": "A Big Internet Company Broke, Making Popular Websites Stop Working",
-        "content": "There was a big problem with a company called Cloudflare, which helps make a lot of websites work. Because of this problem, many popular websites like LinkedIn (where grown-ups find jobs) and Zoom (which people use for video calls) stopped working for a while or were really hard to get to.",
+        "id": "story-1764956360065-2",
+        "headline": "Person Accused of Capitol Bomb Plot is Going to Court",
+        "content": "Someone who was arrested because of some pipe bombs found near the big government buildings during the January 6th Capitol event will go to court for the very first time. This is a big step in a really important case where the government is trying to figure out what happened.",
         "originalSource": "The Guardian",
+        "publishedTime": "48m ago"
+      },
+      {
+        "id": "story-1764956360065-3",
+        "headline": "President Trump Changes Rules for People Wanting to Work Here",
+        "content": "President Trump's government is making new rules about how long people who came here looking for safety can work. Their work papers won't last as long as they used to. This change happened after a shooting incident.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764956360065-4",
+        "headline": "Army Says They Stopped a Boat and Four Guys Died",
+        "content": "The Pentagon, which is like the big boss for the army and navy, said that they hit a boat in the Pacific Ocean again. Four men on that boat died. They said the boat might have been carrying drugs. This has happened a few times lately, and a lot of people have died from these boat strikes.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764953589376-5",
-        "headline": "The US Government Is Making It Harder to Get Papers to Work Here",
-        "content": "The US government said they are making the rules much tougher for people who want to come to the country and get papers to work. This is part of their bigger plan to try and stop people from coming into the country without permission.",
-        "originalSource": "CBS News",
+        "id": "story-1764956360065-5",
+        "headline": "Top Court Says Texas Can Use New Election Map",
+        "content": "The most important court in the country, the Supreme Court, said that Texas can use its new map for elections in 2026. This new map helps the Republican Party win more easily. Some people didn't like the map, saying it was unfair, but the court said it's okay for now.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "17 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764953589376-0",
-        "headline": "The Echoes of a Second Strike",
-        "content": "The flickering screen revealed cold steel against the vast ocean. Lawmakers watched, stomachs churning, as a US military vessel, a predator of the deep, struck a suspected drug boat. Survivors, barely human specks, clung to splintered wreckage. Then, the unthinkable: a second, fatal strike, erasing their desperate hope. Allegations of war crimes now haunted the hallowed halls, the footage a silent, damning witness. The legality of these operations, once a quiet murmur, roared into a full-blown ethical storm, leaving a question mark hanging over the nation's conscience and its unwavering pursuit of illicit trade.",
-        "originalSource": "CBS News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1764953589376-1",
-        "headline": "A New Doctrine for the Newborn",
-        "content": "In a stark shift, the CDC's Advisory Committee on Immunization Practices cast a vote heard across nurseries nationwide. Composed entirely of Health Secretary Robert F. Kennedy Jr.'s appointees, the panel decided to cease recommending the hepatitis B vaccine's birth dose. The medical establishment recoiled, a collective gasp echoing through hospitals and public health forums. Leaders decried the decision, warning of unseen risks for the most vulnerable. A new, controversial chapter in public health policy was being written, its ink barely dry, leaving parents and pediatricians alike to navigate this unexpected, unsettling change.",
-        "originalSource": "PBS News",
-        "publishedTime": "19 mins ago"
-      },
-      {
-        "id": "story-1764953589376-2",
-        "headline": "The Screen's New Horizon Dawns",
-        "content": "A seismic tremor rocked the entertainment industry as Netflix unveiled its audacious $72 billion bid for Warner Bros. Studio and its formidable streaming empire. The titans of digital content and cinematic history were to become one, a single, colossal entity. This acquisition, a financial behemoth, promised to redraw the very maps of media, consolidating power and reshaping how stories reach our screens. From blockbuster epics to binge-worthy series, the landscape was forever altered, sending ripples through every studio, every streaming platform, and every viewer's future evening. The competition just got a whole lot smaller.",
-        "originalSource": "Associated Press",
+        "id": "story-1764956360065-0",
+        "headline": "A Mother's New Choice in the Nursery",
+        "content": "The small needle, once a universal rite of passage, now hovered with a question mark. Dr. Elena Ramirez reviewed the new CDC guidance: no more blanket hepatitis B vaccine for every newborn. Only babies whose mothers tested positive or had unknown status would receive it. New parents, like Sarah, stared at the consent forms, a fresh wave of anxiety joining the joy of birth. Was this progress or risk? The medical landscape, etched by years of policy, had quietly shifted, leaving families to navigate a new, more nuanced path in their child's earliest days.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764953589376-3",
-        "headline": "The Lines That Define Tomorrow's Votes",
-        "content": "The highest court in the land rendered its judgment, stamping approval on Texas's redrawn congressional maps. With a stroke of a pen, the Supreme Court solidified new electoral boundaries, lines expertly crafted to favor the Republican Party. Political analysts nodded, recognizing the strategic advantage gifted to the GOP for the upcoming election cycle. The decision meant Texas would march forward with these new districts, a geopolitical chess move that would undeniably shape the composition of Congress. The silent power of cartography, it seemed, could indeed steer the ship of state, one meticulously drawn line at a time.",
-        "originalSource": "The Guardian",
-        "publishedTime": "16 hours ago"
+        "id": "story-1764956360065-1",
+        "headline": "The Screen Devourer's Grand Feast",
+        "content": "The news rippled through Hollywood like a seismic shockwave. Netflix, the streaming behemoth, had swallowed Warner Bros. studios and its vast content library for a staggering $72 billion. The announcement echoed through soundstages and editing suites, a finality settling over rival networks. This wasn't just an acquisition; it was a redefinition. From Burbank lots to living room screens across the globe, the entertainment industry braced for a future under a single, dominant banner. The popcorn would still pop, but the stories told, and who told them, would forever bear a new signature.",
+        "originalSource": "Associated Press (via PBS News)",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764953589376-4",
-        "headline": "When the Digital World Went Dark",
-        "content": "Like an unseen hand yanking a colossal plug, Cloudflare, the silent backbone of the internet, stumbled. A critical technical glitch plunged vast swathes of the digital world into unexpected silence. LinkedIn, the professional's virtual handshake, vanished. Zoom, the conduit for countless meetings, sputtered into inaccessibility. The global hum of connectivity faltered, leaving users adrift in a sea of error messages. Productivity plummeted, communication ceased, and the sheer fragility of our hyper-connected lives was starkly revealed. For a brief, unnerving period, the internet's invisible infrastructure reminded everyone just how reliant we are.",
+        "id": "story-1764956360065-2",
+        "headline": "Echoes in the Marble Halls of Justice",
+        "content": "The Capitol dome still loomed, a silent witness to the chaos of January Sixth. Today, however, the drama unfolded in a courtroom, not on the steps. The individual arrested in connection with the pipe bombs, discovered ominously near party headquarters, was set to make their initial appearance. Each step taken towards the stand was a step closer to understanding the shadowed intentions behind the devices. The federal case, a thread in the tapestry of a nation grappling with its past, had found its first public face, bringing the quiet machinery of justice into the stark light.",
         "originalSource": "The Guardian",
+        "publishedTime": "48m ago"
+      },
+      {
+        "id": "story-1764956360065-3",
+        "headline": "The Shortened Thread of Hope and Work",
+        "content": "A chill wind swept through the migrant aid office, colder than the usual Texas breeze. Following a recent shooting incident, the Trump administration announced new restrictions: work permits for asylum seekers would now expire faster. Maria, clutching her renewal application, felt the walls close in. Her job, her fragile stability, hung by a thread that was suddenly much shorter. President Trump’s policy, aimed at tightening borders, translated into tangible uncertainty for thousands seeking a new beginning, turning their American dream into a race against the clock and an ever-shrinking window of opportunity.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1764956360065-4",
+        "headline": "Waves of Conflict, Shores of Loss",
+        "content": "Beneath the vast, indifferent expanse of the Pacific, another boat met a sudden, violent end. The Pentagon confirmed the strike, another four men dead, labeled 'alleged drug runners.' The ocean, a silent keeper of secrets, once again absorbed the brief, terrible violence. This wasn't an isolated incident; it was the latest in a chilling tally, 87 lives claimed in similar strikes since early September. Each anonymous vessel, each flash of impact, contributed to a shadowed, ongoing conflict, leaving behind only ripples and the cold, unyielding silence of the deep blue.",
+        "originalSource": "CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764953589376-5",
-        "headline": "The Narrowing Gateway to a New Life",
-        "content": "The government announced a tightening of the already stringent requirements for immigration work permits, a move that echoed across communities. This wasn't an isolated policy, but another calculated stride in the administration's relentless campaign against unauthorized immigration. The invisible walls around the nation grew higher, the pathways to legal employment for hopeful newcomers becoming ever more labyrinthine. Every tightened regulation, every new hurdle, signaled an intensified crackdown, altering countless destinies. The gateway to a new life in the country, once perceived as merely challenging, now felt undeniably more restrictive, its welcome increasingly conditional.",
-        "originalSource": "CBS News",
+        "id": "story-1764956360065-5",
+        "headline": "Drawing Lines in the Sand of Power",
+        "content": "The Supreme Court's order was precise, its implications vast. Texas could proceed with its redrawn congressional map for the 2026 elections. Critics cried gerrymandering, seeing clear lines etched for political advantage, yet the highest court had spoken. In quiet chambers, lines on paper became invisible fences, predetermining outcomes long before a single vote was cast. The future of representation, the very balance of power in the state, had been shaped not by the will of the people, but by the strategic stroke of a cartographer's pen, solidifying a partisan hold for years to come.",
+        "originalSource": "Associated Press (via PBS News)",
         "publishedTime": "17 hours ago"
       }
     ]
