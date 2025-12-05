@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764891273714,
+  "timestamp": 1764906342317,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764891202593-0",
-        "headline": "Long-Awaited Arrest in Jan. 6 Pipe Bomb Case Underscores Ongoing Threat to Democracy",
-        "content": "Justice Department officials have finally announced the arrest of a Virginia man suspected of planting pipe bombs in Washington D.C. on the eve of the January 6, 2021, attack on the Capitol. This long-overdue development, resulting from investigators revisiting extensive evidence, highlights the critical need for continued accountability for those who sought to undermine democratic processes and incite political violence. The protracted nature of this investigation further exposes the systemic challenges in addressing domestic extremism.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764906271621-0",
+        "headline": "Supreme Court Upholds Undemocratic Gerrymandering in Texas, Threatening Fair Representation",
+        "content": "The Supreme Court's decision to allow Texas to implement a heavily gerrymandered congressional map for the 2026 election is a profound setback for democratic principles. This ruling enables a deeply manipulated electoral system designed to entrench Republican power, potentially adding five more seats to their House majority, and further erodes the concept of equitable representation for all voters.",
+        "originalSource": "NPR / Associated Press",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-1",
-        "headline": "Damning Video Evidence Fuels War Crimes Allegations Against President Trump's Administration Over Venezuelan Boat Strikes",
-        "content": "Lawmakers who have viewed video evidence report that a second military strike hit a Venezuelan boat before survivors of the initial attack could recover, directly contradicting a Navy admiral's assertion that no 'kill all' order was issued. This deeply disturbing testimony intensifies war crimes allegations against President Trump's administration and its aggressive anti-drug operations, raising serious questions about the targeting of civilians and the lack of accountability for potential abuses of power.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-1",
+        "headline": "Grand Jury Again Clears Attorney General Letitia James, Allowing Her to Continue Vital Work",
+        "content": "New York Attorney General Letitia James has once again been cleared by a grand jury regarding unspecified charges, ending a period of what some may see as unwarranted legal distraction. This swift resolution allows the state's top legal officer to fully recommit to her essential duties, often involving holding powerful entities accountable and advocating for the public interest.",
+        "originalSource": "NBC News / CNN",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-2",
-        "headline": "President Trump's Unrealistic Tariff Revenue Claims Expose Deep Fiscal Irresponsibility",
-        "content": "An analysis of President Trump's economic proposal reveals that tariff revenue would be mathematically insufficient to fully replace American income tax payments, a claim widely promoted by his administration. Economists and tax experts are intensely scrutinizing the feasibility and severe potential economic consequences of this major proposed fiscal policy change, warning that such a plan would disproportionately harm working-class consumers through increased costs while creating a massive fiscal deficit.",
-        "originalSource": "PBS News",
+        "id": "story-1764906271621-2",
+        "headline": "Arrest Made in 2021 D.C. Pipe Bomb Case, Highlighting Persistent Threat of Domestic Extremism",
+        "content": "The FBI's arrest of Luigi Mangione, a Virginia man, in connection with the pipe bombs placed near the Democratic and Republican National Committee headquarters in January 2021, marks a significant development. This resolution to a long-standing mystery underscores the continued importance of confronting domestic extremism and political violence that threatened democratic institutions in the lead-up to the Capitol attack.",
+        "originalSource": "The New York Times / CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764906271621-3",
+        "headline": "Reports Allege Pentagon Launched Follow-Up Strike Despite Knowing of Survivors, Raising Grave Questions of Accountability",
+        "content": "Disturbing new reports indicate the Pentagon proceeded with a second boat strike even after confirming survivors from an initial attack, intensifying allegations of potential war crimes. This revelation highlights a deeply troubling disregard for human life and demands immediate, transparent investigations into the chain of command and the systemic issues that allow such actions, despite a top admiral's denial of a formal \"kill order.\"",
+        "originalSource": "PBS News / CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-3",
-        "headline": "New York Attorney General Resists Federal Prosecutor's Apparent Attempt to Undermine Investigations into President Trump",
-        "content": "New York's Attorney General is directly challenging the jurisdiction and authority of a federal prosecutor who has begun investigating her high-profile civil lawsuits against President Trump and his family businesses. This significant legal maneuver marks an escalation in the ongoing battles, raising concerns that federal resources are being used to obstruct legitimate state-level efforts to hold powerful individuals and corporations accountable, rather than ensuring impartial justice.",
-        "originalSource": "Associated Press",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-4",
+        "headline": "President Trump's Claim to Eliminate Income Tax Via Tariffs Lacks Economic Basis and Misleads the Public",
+        "content": "President Trump has asserted that tariff revenue could completely replace federal income taxes, a claim widely debunked by leading economic experts. This populist rhetoric, which ignores the regressive impact of tariffs on working-class families through increased consumer costs, appears to be a politically motivated fantasy, further exposing a pattern of misleading the public on crucial economic matters.",
+        "originalSource": "PBS / ABC News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-4",
-        "headline": "House Democrats Release Disturbing New Images of Epstein's Island, Intensifying Calls for Accountability Among Powerful Associates",
-        "content": "House Democrats have released a collection of never-before-seen images of Jeffrey Epstein's private Caribbean island, Little Saint James. This release comes amid continued public and congressional interest in the late financier's egregious activities and as part of ongoing scrutiny into the vast network of powerful individuals who enabled his predatory behavior. These visuals serve as a stark reminder of the systemic failures that allowed Epstein's abuses to flourish and underscore the urgent need for justice for victims and full accountability for all complicit parties, regardless of their wealth or influence.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764891202593-5",
-        "headline": "President Trump's Administration Escalates Cruel Anti-Immigrant Crackdown, Directly Harming Refugees and Asylees",
-        "content": "President Trump's administration has announced a new rule drastically reducing the period of validity for work permits issued to refugees, asylees, and other immigrants granted legal protection in the U.S. This change is widely condemned by critics as the latest action in an expanding, broad-ranging immigration crackdown policy designed to dehumanize and destabilize vulnerable populations, further entrenching systemic cruelty within the nation's immigration system.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764906271621-5",
+        "headline": "Report Reveals Political Pressure from Pete Hegseth Contributed to Top Navy Admiral's Sudden Resignation",
+        "content": "A new report has illuminated the reasons behind a top Navy Admiral's abrupt resignation, revealing it was linked to heightened scrutiny and pressure from political figure Pete Hegseth. This development raises concerns about undue political influence within military leadership and the potential politicization of institutions that require non-partisan integrity to function effectively.",
+        "originalSource": "The New Republic",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764891202593-0",
-        "headline": "FBI arrests Virginia man in Jan. 6 pipe bomb case",
-        "content": "Justice Department officials announced the arrest of a Virginia man suspected of placing pipe bombs in Washington D.C. on the eve of the January 6, 2021, Capitol riot. Investigators stated that they revisited reams of evidence this year and found a 'needle in a haystack' that eventually led them to the suspect after a long-unsolved case.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764906271621-0",
+        "headline": "Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats",
+        "content": "The Supreme Court permitted Texas to use a redrawn congressional map for the upcoming 2026 election, a map widely considered a gerrymander. Political analysts suggest the decision is a major blow to Democrats and could favor the Republican party by potentially adding five more seats to their majority in the House of Representatives.",
+        "originalSource": "NPR / Associated Press",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-1",
-        "headline": "Video shows second strike hit before survivors could flip boat, lawmakers say",
-        "content": "Lawmakers who viewed video evidence stated that a second military strike hit a Venezuelan boat before survivors of the initial strike could fully recover. This testimony contradicts a Navy admiral's claim of no 'kill all' order and fuels war crimes allegations against the Trump administration's anti-drug operations.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-1",
+        "headline": "Grand jury declines to reindict Letitia James",
+        "content": "A grand jury has declined to reindict New York Attorney General Letitia James on unspecified charges, coming less than two weeks after the initial case against her was dismissed. This development concludes a brief period of legal uncertainty and allows the high-profile state official to focus fully on her duties.",
+        "originalSource": "NBC News / CNN",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-2",
-        "headline": "Trump has said tariff revenue may allow Americans to stop paying income taxes. The math doesn't add up.",
-        "content": "An analysis of the former President's economic proposal suggests that tariff revenue would be mathematically insufficient to fully replace American income tax payments. Economists and tax experts are widely scrutinizing the feasibility and potential economic consequences of this major proposed fiscal policy change.",
-        "originalSource": "PBS News",
+        "id": "story-1764906271621-2",
+        "headline": "FBI arrests suspect in 2021 D.C. pipe bomb case, identified as Virginia man",
+        "content": "The FBI has arrested Luigi Mangione, a Virginia man suspected of placing pipe bombs near the Democratic and Republican National Committee headquarters in Washington, D.C., back in January 2021. This major breakthrough resolves a high-profile mystery that has persisted since the days leading up to the Capitol attack.",
+        "originalSource": "The New York Times / CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764906271621-3",
+        "headline": "Pentagon knew boat attack left survivors but still launched follow-up strike, AP sources say",
+        "content": "New reports suggest the Pentagon launched a second boat strike despite knowing there were survivors from the initial attack, fueling war crimes allegations. Lawmakers who viewed the classified video of the strike testified that a top admiral denied that any formal \"kill order\" was ever issued.",
+        "originalSource": "PBS News / CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-3",
-        "headline": "New York attorney general challenges authority of federal prosecutor investigating her Trump lawsuits",
-        "content": "New York's Attorney General is challenging the jurisdiction and authority of a federal prosecutor who has begun investigating her high-profile civil lawsuits against the former President and his family businesses. This legal move marks an escalation in the ongoing legal battles surrounding the Trump Organization.",
-        "originalSource": "Associated Press",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-4",
+        "headline": "Trump says he may cut income tax 'completely' because of tariff income. The math doesn't add up.",
+        "content": "Former President Donald Trump publicly suggested that the billions of dollars generated from tariffs on imported goods could eventually eliminate the need for individual federal income taxes for Americans. However, multiple leading economic experts and fact-checkers quickly released reports arguing that the math simply does not support this bold claim.",
+        "originalSource": "PBS / ABC News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-4",
-        "headline": "House Democrats release new images of Epstein's private Caribbean island",
-        "content": "House Democrats released a collection of never-before-seen images of Jeffrey Epstein's private Caribbean island, Little Saint James. The release comes amid continued public and congressional interest in the late financier's activities and as part of ongoing scrutiny into his network of associates.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764891202593-5",
-        "headline": "U.S. tightens immigration work permits in latest move to expand crackdown",
-        "content": "The Trump administration announced a new rule to reduce the period of validity for work permits issued to refugees, asylees, and other immigrants granted legal protection in the U.S. This change is described by critics as the latest action in an expanding, broad-ranging immigration crackdown policy.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764906271621-5",
+        "headline": "Now We Know Why Top Navy Admiral Suddenly Resigned Under Hegseth",
+        "content": "A new report has reportedly shed light on the sudden, high-profile resignation of a top Navy Admiral. The report connects the departure to increased scrutiny and pressure under political figure Pete Hegseth, finally clarifying the circumstances surrounding the surprising resignation that sent ripples through the defense establishment.",
+        "originalSource": "The New Republic",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764891202593-0",
-        "headline": "Law Enforcement Delivers Justice as Suspect Arrested in January 6 Pipe Bomb Investigation",
-        "content": "After a diligent and extensive investigation, Justice Department officials have finally apprehended a Virginia man implicated in placing pipe bombs in Washington D.C. before the events of January 6, 2021. This arrest demonstrates the unwavering commitment of law enforcement to pursue justice and ensure accountability for those who threaten public safety and order, bringing a measure of closure to a long-standing case.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764906271621-0",
+        "headline": "The Supreme Court Affirms Texas' Right to Determine Its Own Electoral Maps.",
+        "content": "The Supreme Court has rightly upheld Texas' ability to implement its redrawn congressional map for the upcoming 2026 election, a decision that underscores the importance of states' sovereignty in election processes. This ruling, while met with predictable partisan outcry, simply allows Texas to proceed with its constitutional duty to define its own electoral districts, ensuring that its citizens' voices are properly represented. This move reinforces the foundational principle that states, not federal courts or political pundits, should guide their own electoral destinies.",
+        "originalSource": "NPR / Associated Press",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-1",
-        "headline": "Lawmakers Questioning Anti-Drug Operations After Viewing Video of Venezuelan Boat Incident",
-        "content": "Certain lawmakers, after viewing video evidence, are raising concerns that a second military strike impacted a Venezuelan vessel before survivors could fully stabilize it. This new information is being used to fuel allegations of war crimes against President Trump's administration regarding its robust anti-drug operations. It is crucial to remember the immense challenge posed by illicit drug trafficking and the necessity of decisive action to protect our nation's borders and citizens from this grave threat, while ensuring thorough review of all operational details.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-1",
+        "headline": "Grand Jury Declines to Reindict Letitia James, Raising Questions About Justice.",
+        "content": "A grand jury has once again declined to reindict New York Attorney General Letitia James on charges that remain unspecified, mere weeks after the initial case against her was dismissed. This development, while concluding a brief period of legal uncertainty for the high-profile state official, does little to assuage concerns regarding accountability for those in power and the integrity of the justice system. The public deserves transparency when powerful figures face legal scrutiny.",
+        "originalSource": "NBC News / CNN",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-2",
-        "headline": "President Trump's Bold Vision for Tariff-Funded Tax Relief Faces Scrutiny from Establishment Economists",
-        "content": "President Trump's innovative economic proposal, which suggests that increased tariff revenue could potentially eliminate American income taxes, is currently under intense examination. While establishment economists and tax experts are quick to highlight mathematical challenges regarding its feasibility and potential economic impacts, the underlying principle of reducing the tax burden on hardworking Americans through alternative revenue streams represents a truly patriotic vision for economic freedom and prosperity, prioritizing American jobs and industry.",
-        "originalSource": "PBS News",
+        "id": "story-1764906271621-2",
+        "headline": "The FBI Finally Apprehends Suspect in Disturbing 2021 D.C. Pipe Bomb Incident.",
+        "content": "The FBI has at long last arrested Luigi Mangione, a Virginia man suspected of planting pipe bombs near the Democratic and Republican National Committee headquarters in Washington, D.C., back in January 2021. This significant breakthrough finally brings a measure of justice to a high-profile mystery that has persisted since those troubling days, reminding us that law enforcement will ultimately pursue those who threaten public safety and order, regardless of how long it takes.",
+        "originalSource": "The New York Times / CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764906271621-3",
+        "headline": "Grave Allegations Emerge Against Pentagon Regarding Naval Strike and Rules of Engagement.",
+        "content": "Disturbing new reports indicate the Pentagon may have authorized a second boat strike despite intelligence suggesting survivors from the initial engagement, raising serious questions about potential war crimes and adherence to military ethics. Lawmakers who viewed the classified video of the strike have testified that a top admiral denied any formal \"kill order\" was issued, yet the persistent claims demand a full and transparent investigation to ensure accountability and maintain public trust in our nation's defense leadership.",
+        "originalSource": "PBS News / CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-3",
-        "headline": "New York Attorney General Seeks to Block Federal Scrutiny of Her Lawsuits Against President Trump",
-        "content": "The New York Attorney General is now actively contesting the jurisdiction and authority of a federal prosecutor who has initiated an investigation into her prominent civil lawsuits against President Trump and his family enterprises. This aggressive legal maneuver suggests a reluctance to allow transparency and federal oversight, escalating the ongoing legal disputes that many observers believe are politically motivated attacks against President Trump and his business legacy.",
-        "originalSource": "Associated Press",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-4",
+        "headline": "President Trump Suggests Eliminating Income Tax Through Strategic Tariffs, Sparking Debate.",
+        "content": "President Trump has publicly proposed a revolutionary idea: that billions of dollars generated from strategically applied tariffs on imported goods could eventually allow for the complete elimination of individual federal income taxes for hardworking Americans. This bold vision for economic liberty and reduced government burden, while immediately met with skepticism from establishment economic experts and their compliant fact-checkers, underscores President Trump's unwavering commitment to innovative solutions that prioritize the prosperity of American citizens over globalist dogma.",
+        "originalSource": "PBS / ABC News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-4",
-        "headline": "New Images of Epstein's Island Surface Amid Calls for Full Justice and Accountability",
-        "content": "A new collection of previously unseen images of Jeffrey Epstein's private Caribbean island, Little Saint James, has been released by House Democrats. This resurfacing of unsettling evidence comes as public and congressional interest in the late financier's abhorrent activities remains high. True justice demands a complete and thorough investigation into Epstein's entire network of associates, ensuring that all who enabled or participated in his crimes are held fully accountable, regardless of their position or influence.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764891202593-5",
-        "headline": "President Trump's Administration Strengthens Immigration Rules to Prioritize National Security and Legal Process",
-        "content": "President Trump's administration has implemented a new regulation aimed at reducing the validity period for work permits granted to refugees, asylees, and other immigrants with legal protection in the United States. This crucial policy adjustment, while drawing criticism from some, is a vital step in prioritizing national security, upholding the integrity of our immigration system, and ensuring that our borders are secure. It reflects a commitment to controlled and lawful immigration that serves the best interests of the American people.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764906271621-5",
+        "headline": "A Top Navy Admiral's Sudden Resignation Under Hegseth Finally Clarified.",
+        "content": "A new report has reportedly shed crucial light on the sudden, high-profile resignation of a top Navy Admiral. The report connects the departure to increased scrutiny and pressure under political figure Pete Hegseth, finally clarifying the circumstances surrounding the surprising resignation that sent ripples through the defense establishment. This development highlights the importance of accountability and diligent oversight within our nation's military leadership, ensuring that our armed forces remain focused on their critical mission.",
+        "originalSource": "The New Republic",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764891202593-0",
-        "headline": "Local Man Finally Arrested After FBI Solves Pipe Bomb Case With World's Smallest Needle In World's Largest Haystack",
-        "content": "After years of tireless, almost theatrical, dedication, Justice Department officials have finally apprehended a Virginia man accused of leaving pipe bombs near the Capitol on January 6th, 2021. Sources confirm the breakthrough came after investigators revisited \"reams of evidence\" this year, eventually unearthing a microscopic clue that had been hiding in plain sight among literally millions of other microscopic clues. \"We found the needle in the haystack,\" announced an exhausted FBI agent, holding up a magnifying glass to what appeared to be a single, unassuming dust particle. \"Turns out, it was just a guy from Virginia, proving once again that even the most dastardly plots can originate from surprisingly un-evil-looking zip codes.\"",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764906271621-0",
+        "headline": "Supreme Court Magnanimously Allows Texas to Continue Perfecting the Art of Electoral Sculpture",
+        "content": "In a truly magnanimous gesture, the Supreme Court has permitted Texas to proceed with its latest masterpiece of congressional redistricting for the 2026 election, a map that analysts agree is less a map and more an abstract expressionist painting designed to ensure electoral predictability. Political experts, who clearly haven't grasped the higher purpose of this artistic endeavor, suggest this decision is a minor setback for Democrats and could merely 'add' five more seats to the Republican majority in the House. It's almost as if some people don't appreciate creative cartography.",
+        "originalSource": "NPR / Associated Press",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-1",
-        "headline": "Military Confirms 'No Kill All' Order, Just Incredibly Unlucky Second Strike On Already-Flipping Venezuelan Boat",
-        "content": "Lawmakers have confirmed what many suspected: the anti-drug operation involving a Venezuelan boat apparently featured a second military strike that occurred *just* as survivors of the first strike were attempting to right their vessel. \"It's not a 'kill all' order,\" insisted a Navy admiral, wiping sweat from his brow, \"it's simply that our precision targeting systems are so incredibly precise, they can hit a moving target even when that target is flailing helplessly in the water.\" Critics are now questioning if President Trump's anti-drug operations were simply *too* effective, leaving no room for the classic \"dramatic last-minute rescue\" scene.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-1",
+        "headline": "Attorney General Letitia James Briefly Experiences the Mild Inconvenience of Not Being Indicted",
+        "content": "New York Attorney General Letitia James recently faced a harrowing 12-day period of 'legal uncertainty,' only for a grand jury to, once again, decline the opportunity to reindict her on unspecified charges. This earth-shattering development follows the swift dismissal of the initial case against her, allowing the high-profile state official to finally, and without further delay, focus fully on the duties she was theoretically already doing. Crisis, averted, we suppose.",
+        "originalSource": "NBC News / CNN",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-2",
-        "headline": "President Trump Unveils Revolutionary \"Magic Tariff Money\" Plan, Economists Immediately Question Basic Arithmetic",
-        "content": "President Trump has proposed a groundbreaking economic policy that promises to eliminate income taxes for all Americans, funded entirely by a mysterious surge in tariff revenue. While President Trump assures the public this is simply \"good math,\" economists and tax experts globally are scratching their heads, comparing the figures to trying to fill an Olympic swimming pool with a garden hose. \"It's not that the math doesn't add up,\" explained one baffled expert, \"it's that the math has apparently taken a vacation to a dimension where numbers are purely subjective concepts.\"",
-        "originalSource": "PBS News",
+        "id": "story-1764906271621-2",
+        "headline": "FBI, After Just Three Short Years, Finally Cracks Elusive Pipe Bomb Case",
+        "content": "In what can only be described as a triumph of patience and persistence, the FBI has at long last apprehended Luigi Mangione, a Virginia man suspected of orchestrating the infamous pipe bomb placements near the Democratic and Republican National Committee headquarters way back in January 2021. This 'major breakthrough,' occurring a mere 1,000-plus days after the events preceding the Capitol attack, definitively resolves a 'high-profile mystery' that, frankly, many had already started to describe as 'archaeological.'",
+        "originalSource": "The New York Times / CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764906271621-3",
+        "headline": "Pentagon Expresses Mild Surprise at Allegations of 'War Crimes' After 'Follow-Up Engagement' on Known Survivors",
+        "content": "Reports are surfacing that the Pentagon, in a move that surely raised zero eyebrows, executed a second boat strike despite possessing irrefutable knowledge that survivors from the initial incident were, in fact, still surviving. This naturally prompted a few 'war crimes allegations,' which the Pentagon is reportedly approaching with a look of mild bewilderment. Lawmakers who bravely endured a classified video viewing testified that a top admiral steadfastly maintained that no formal 'kill order' was ever issued, preferring instead terms like 'post-engagement recalibration' or 'enthusiastic double-checking.'",
+        "originalSource": "PBS News / CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-3",
-        "headline": "New York AG Challenges Federal Prosecutor's Right To Even *Look* At Her President Trump Lawsuits",
-        "content": "In a move that has lawyers everywhere debating who gets to play in whose sandbox, New York's Attorney General has formally challenged the authority of a federal prosecutor daring to investigate her rather prominent civil lawsuits against President Trump and his esteemed family businesses. Legal analysts are calling this \"an exciting new chapter in the ongoing saga where everyone sues everyone else, and then sues the people investigating the lawsuits.\" Sources close to the situation confirm that the next logical step will be for both sides to demand separate courtrooms, complete with their own personal judges and snack bars.",
-        "originalSource": "Associated Press",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-4",
+        "headline": "President Trump Discovers Infinite Money Glitch, Promises to Erase All Income Taxes with Tariffs",
+        "content": "President Trump, in a stunning display of economic wizardry, has publicly revealed his groundbreaking plan to completely eliminate individual federal income taxes for Americans, all funded by the 'billions of dollars' rolling in from tariffs on imported goods. While 'leading economic experts' and 'fact-checkers' (who clearly operate in a different dimension) quickly published reports suggesting that 'the math simply does not support this bold claim,' President Trump remains confident that their quaint adherence to arithmetic is simply holding back true innovation in fiscal policy.",
+        "originalSource": "PBS / ABC News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-4",
-        "headline": "House Democrats Unveil Never-Before-Seen Photos Of Epstein's Island, Confirming It Still Looks Like An Island",
-        "content": "In a move sure to satiate the public's burning desire for more information about literally everything, House Democrats have released a fresh batch of \"never-before-seen\" images depicting Jeffrey Epstein's private Caribbean retreat, Little Saint James. The collection confirms, unequivocally, that the island still features palm trees, sand, and what appears to be water. Congressional interest in the late financier's activities remains at an all-time high, with sources suggesting the next release will feature meticulously detailed diagrams of the island's plumbing system, ensuring no stone (or pipe) is left unturned.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764891202593-5",
-        "headline": "Trump Administration Shortens Work Permits For Refugees, Citing Need To Keep Everyone On Their Toes",
-        "content": "In a bold move designed to streamline bureaucracy and inject a healthy dose of uncertainty into the lives of vulnerable individuals, the Trump administration has unveiled a new policy dramatically shortening the validity of work permits for refugees, asylees, and other immigrants legally protected in the U.S. Critics are calling the move a \"crackdown,\" while proponents insist it merely adds an exciting, regular challenge to the immigration process, ensuring no one gets too comfortable. \"It's not about making things harder,\" explained a spokesperson, \"it's about promoting a dynamic, fast-paced paperwork environment.\"",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764906271621-5",
+        "headline": "Nation Stunned as 'Increased Scrutiny' Under Political Figure Pete Hegseth Clearly Explains Admiral's Departure",
+        "content": "In a revelation that has absolutely shocked precisely no one, a new report has at last 'shed light' on the previously 'mysterious' and 'high-profile' resignation of a top Navy Admiral. The report unequivocally links the departure to the 'increased scrutiny' and 'pressure' exerted under the well-known political figure Pete Hegseth, finally clarifying the utterly predictable circumstances surrounding a 'surprising resignation' that, much like a pebble in a pond, sent 'ripples' through the defense establishment. Who knew scrutiny could be so impactful?",
+        "originalSource": "The New Republic",
+        "publishedTime": "8 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764891202593-0",
-        "headline": "The FBI Has Finally Caught The Guy Who Left Pipe Bombs.",
-        "content": "The police, called the FBI, said they caught a man from Virginia. They think he put some pipe bombs in Washington D.C. right before a big event at the Capitol building on January 6, 2021. The police said they looked at a lot of clues again this year and found one tiny clue that helped them solve the mystery after a long time.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764906271621-0",
+        "headline": "The Supreme Court Says Texas Can Use a New Map for Voting.",
+        "content": "The Supreme Court, which is like the highest judge's office, said it's okay for Texas to use a new map to decide where people vote. Some people think this map is drawn in a tricky way to help one team, the Republicans, win more spots in the government's House of Representatives. Experts think this could mean Republicans might get five extra seats, which is a big deal for them. This makes the other team, the Democrats, a bit sad.",
+        "originalSource": "NPR / Associated Press",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-1",
-        "headline": "A New Video Shows A Second Attack Hit A Boat.",
-        "content": "Some people who make our laws watched a video and said a second military attack hit a boat from Venezuela. This happened even before the people who survived the first attack could get back on their feet. This makes it seem like what a Navy boss said about not having an order to \"kill everyone\" might not be true. People are now saying President Trump's team might have done some bad things during their operations to stop drugs.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-1",
+        "headline": "Letitia James Won't Be Charged With Anything Again.",
+        "content": "A special group of people, called a grand jury, decided not to charge New York's main lawyer, Letitia James, with anything again. This happened after they had already dropped the first case against her a little while ago. Now, she doesn't have to worry about legal problems and can just focus on being the state's top lawyer.",
+        "originalSource": "NBC News / CNN",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-2",
-        "headline": "President Trump's Idea About Taxes Might Not Work.",
-        "content": "President Trump has an idea that if we collect more money from \"tariffs\" (which are like taxes on things from other countries), Americans wouldn't have to pay income taxes anymore. But when smart people looked at the numbers, they said there wouldn't be enough money from tariffs to get rid of all the income taxes. Many money experts are wondering if this plan can really happen and what it would do to our country's money.",
-        "originalSource": "PBS News",
+        "id": "story-1764906271621-2",
+        "headline": "The FBI Finally Caught Someone For The 2021 Pipe Bombs.",
+        "content": "The FBI, which is like a super police force, has finally caught a man named Luigi Mangione from Virginia. They think he put dangerous homemade bombs near the main offices of the Democratic and Republican parties in Washington, D.C., back in January 2021. This has been a big mystery for a long time, and now they have a suspect!",
+        "originalSource": "The New York Times / CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764906271621-3",
+        "headline": "The Military Attacked Again Even After Seeing Survivors.",
+        "content": "New reports say that the Pentagon, which is where the military makes big decisions, might have launched a second attack on a boat even though they knew there were people who survived the first attack. This makes some people wonder if they broke any rules of war. People in charge who saw secret videos said that a top Navy leader said no one was ever told to kill anyone directly.",
+        "originalSource": "PBS News / CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-3",
-        "headline": "A Top New York Lawyer Is Questioning Another Prosecutor.",
-        "content": "New York's main lawyer is saying that a federal lawyer, who started looking into her important lawsuits against President Trump and his family's companies, doesn't have the right or power to do that. This means the legal fights around President Trump's businesses are getting more serious.",
-        "originalSource": "Associated Press",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-4",
+        "headline": "President Trump Thinks He Can Get Rid Of All Income Taxes.",
+        "content": "President Trump recently said that he thinks we could stop paying income taxes completely! He believes that all the extra money we get from charging other countries for things they send us (called tariffs) could be enough. But smart money people and experts quickly looked at his idea and said that, sadly, the numbers just don't add up to make that possible.",
+        "originalSource": "PBS / ABC News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-4",
-        "headline": "Pictures Of Jeffrey Epstein's Island Were Just Shared.",
-        "content": "Some politicians called House Democrats showed everyone new pictures of Jeffrey Epstein's secret island in the Caribbean. People are still very interested in what this rich guy did and who he knew, and these pictures are part of that.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764891202593-5",
-        "headline": "The U.S. Is Making It Harder For Some People To Work.",
-        "content": "President Trump's team said there's a new rule that will make work permits for people like refugees (who had to leave their homes) and other immigrants last for a shorter time. People who don't like this rule say it's another way the government is trying to stop or limit immigration.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764906271621-5",
+        "headline": "We Found Out Why a Big Navy Boss Suddenly Quit His Job.",
+        "content": "A new report has told us why a very important Navy leader, called an Admiral, suddenly quit his job. It seems he left because a political person named Pete Hegseth was looking very closely at him and asking him a lot of tough questions. Now we finally understand why he made such a surprising decision.",
+        "originalSource": "The New Republic",
+        "publishedTime": "8 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764891202593-0",
-        "headline": "A Thread Pulled from the Labyrinth",
-        "content": "Years of shadows and whispered theories finally coalesced into a name. The ghost of January 5th, 2021, the night pipe bombs were left near Capitol Hill, haunted investigators. They sifted through mountains of evidence, a relentless, quiet pursuit. A Virginia man, previously an unknown face in the vast crowd, became the 'needle in the haystack'—a crucial link unearthed from reams of data. His arrest, announced by the Justice Department, closed a chapter on a long-unsolved mystery, bringing a tangible form to the unseen threat that preceded the Capitol's breach.",
-        "originalSource": "AP News",
-        "publishedTime": "3 hours ago"
+        "id": "story-1764906271621-0",
+        "headline": "The Crooked Lines of Power",
+        "content": "The High Court’s gavel fell, sanctioning a map drawn with invisible threads, weaving new political landscapes across Texas. For those who understood the cartographer’s sly hand, it meant a shift, five new seats carved into the bedrock of the House, promising a strengthened majority. Democrats watched, aghast, as the ink dried on what they called a gerrymander, a silent coup by design. The 2026 election, still years away, already felt predetermined, its outcome sculpted not by voters, but by lines on a page. Power, it seemed, could be redrawn.",
+        "originalSource": "NPR / Associated Press",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-1",
-        "headline": "Echoes in the Azure Deep",
-        "content": "The silent screen played a chilling narrative: a Venezuelan boat, already reeling from an initial strike, met a second, merciless blow before its wounded could right themselves. Lawmakers watched, their faces grim, as the video evidence contradicted a Navy admiral's assurances that no 'kill all' order existed. Accusations of war crimes against President Trump's administration's anti-drug operations resurfaced, a dark stain on the blue expanse. The sea held its secrets, but the flickering images brought them to the unforgiving light of scrutiny, demanding an answer for the second fury that swept over the waves.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-1",
+        "headline": "The Brief Shadow",
+        "content": "A whisper of charges, a fleeting case—then, silence. Less than two weeks after dismissal, a grand jury again reviewed the file on New York Attorney General Letitia James. The air hung heavy with legal uncertainty, but the scales of justice swung swiftly. No reindictment. The brief shadow that had fallen across her high-profile office lifted, dissipating into the city hum. Her path, once briefly obscured by legal questioning, was now clear. She returned to her duties, the full weight of her office demanding her undivided attention once more.",
+        "originalSource": "NBC News / CNN",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764891202593-2",
-        "headline": "The Grand Equation of Prosperity",
-        "content": "President Trump's vision was bold: a nation where tariff revenues would eliminate income taxes, unshackling Americans from annual burdens. It was a promise that resonated with many, a grand fiscal re-imagining. Yet, the stark reality of economics cast a long shadow. Experts, poring over the numbers, found the math simply didn't add up. The proposed policy, scrutinized by economists and tax specialists alike, revealed a significant deficit between the projected tariff gains and the colossal sum required to replace the nation's entire income tax revenue. The dream, for now, remained an intricate, unproven equation.",
-        "originalSource": "PBS News",
+        "id": "story-1764906271621-2",
+        "headline": "The Ghost of January",
+        "content": "For three long years, the ghost of January 2021 haunted Washington. Pipe bombs, placed near political headquarters just before the Capitol’s storm, left a chilling, unresolved mystery. The FBI’s relentless pursuit finally yielded fruit: Luigi Mangione, a man from Virginia, now in custody. The silence of the years broke with the news of the arrest, tying up a loose end in the tense prelude to that fateful day. A high-profile cold case, a symbol of lingering unease, at last found its resolution, bringing a measure of closure to a nation’s anxious wait.",
+        "originalSource": "The New York Times / CBS News",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1764906271621-3",
+        "headline": "Echoes from the Waves",
+        "content": "The sea held secrets the Pentagon tried to bury. New reports emerged, alleging a chilling decision: a second strike launched on a boat, even after survivors were confirmed from the first. War crimes whispered on the wind, fueling a storm among lawmakers who watched classified video, their faces grim. A top admiral, cornered, testified that no formal 'kill order' ever existed. Yet, the question lingered, a dark shadow on the waves: If no order was given, how did the second volley find its mark, silencing the cries of those who remained?",
+        "originalSource": "PBS News / CBS News",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-3",
-        "headline": "A Gauntlet Thrown in Judicial Halls",
-        "content": "The legal arena simmered, the stakes rising with each new maneuver. New York's Attorney General, spearheading high-profile civil lawsuits against President Trump and his family enterprises, now challenged a federal prosecutor's very authority. A jurisdictional clash, a power struggle unfolding within the hallowed halls of justice. This wasn't merely a procedural squabble; it was a direct escalation, a bold declaration against federal oversight. The battle lines hardened, signaling another complex, high-stakes chapter in the ongoing legal confrontations surrounding the influential Trump Organization.",
-        "originalSource": "Associated Press",
-        "publishedTime": "4 hours ago"
+        "id": "story-1764906271621-4",
+        "headline": "The Tariff Dream",
+        "content": "President Trump unveiled a bold vision: tariffs, he declared, could swell the nation’s coffers so vast that federal income taxes might vanish entirely. Billions, he projected, would flow in from imported goods, freeing Americans from their annual fiscal burden. It was a promise of unprecedented relief, a sun-drenched economic future. But the glow quickly faded under the harsh light of reality. Economists and fact-checkers, almost in unison, crunched the numbers, their reports quickly disproving the audacious claim. The math, they stated unequivocally, simply did not add up.",
+        "originalSource": "PBS / ABC News",
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1764891202593-4",
-        "headline": "Whispers from Little Saint James",
-        "content": "The veil lifted, if only slightly. House Democrats released images of Jeffrey Epstein's infamous Caribbean haven, Little Saint James—a name now synonymous with scandal. The never-before-seen photographs offered a chilling glimpse into the financier's private world, a place shrouded in dark rumors. The public's morbid curiosity and congressional scrutiny into Epstein's vast network and activities persist. Each new image, each detail unveiled from that secluded island, rekindles the disturbing narrative, echoing the unanswered questions surrounding the late financier and his powerful, shadowed associates.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1764891202593-5",
-        "headline": "The Narrowing Gate of Sanctuary",
-        "content": "A new decree from President Trump's administration tightened the nation's immigration policies further. Work permits for refugees, asylees, and other protected immigrants would now be valid for a significantly shorter duration. The announcement, presented as a measure to streamline, was met with sharp criticism. Opponents decried it as another step in an ever-expanding, broad-ranging immigration crackdown, deliberately designed to restrict access and security for those seeking new lives. For many, the gate to opportunity, once a beacon of hope, appeared to be narrowing with each passing regulation.",
-        "originalSource": "CBS News",
-        "publishedTime": "2 hours ago"
+        "id": "story-1764906271621-5",
+        "headline": "A Ripple Through Command",
+        "content": "The defense establishment had been left reeling by the sudden, unexplained resignation of a top Navy Admiral. Whispers turned to speculation, until a new report surfaced, pulling back the curtain on the mystery. It revealed increased scrutiny and intense pressure from political figure Pete Hegseth as the catalyst. The admiral’s surprising departure, a seismic event that sent ripples of uncertainty through the ranks, now made sense. The report, like a sudden clearing in a dense fog, finally illuminated the circumstances, settling the anxious questions that had hung heavy in the air.",
+        "originalSource": "The New Republic",
+        "publishedTime": "8 hours ago"
       }
     ]
   }
