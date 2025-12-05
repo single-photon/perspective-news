@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764956429547,
+  "timestamp": 1764960770507,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764956360065-0",
-        "headline": "CDC Panel's Vote to Limit Newborn Hepatitis B Vaccines Risks Public Health and Exacerbates Inequity.",
-        "content": "A recent vote by a CDC advisory panel to dismantle the universal recommendation for newborn hepatitis B vaccinations raises serious concerns about public health and equity. This significant revision to the child vaccine schedule, which now suggests limiting the vaccine to babies born to mothers with confirmed or unknown positive status, could leave many infants vulnerable and disproportionately impact communities with less access to comprehensive prenatal care and testing, widening existing health disparities.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764956360065-1",
-        "headline": "Mega-Merger: Netflix's $72 Billion Acquisition of Warner Bros. Signals Dangerous Media Consolidation.",
-        "content": "In a move that further intensifies corporate control over media, the streaming giant Netflix has announced its intent to acquire Warner Bros.' studios and streaming assets for a staggering $72 billion. This colossal cash-stock deal is set to reshape the US and global entertainment industries, potentially stifling competition, reducing consumer choice, and further concentrating power and wealth in the hands of a few corporate behemoths, rather than fostering diverse content creation or fair labor practices for artists and workers.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764956360065-2",
-        "headline": "Accountability Begins as Suspect in January 6th Pipe Bomb Plot Faces Initial Court Appearance.",
-        "content": "The individual arrested in connection with the domestic terrorist pipe bomb plot discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is set to make their initial appearance in a US court. This critical step in the high-profile federal case underscores the ongoing need to hold accountable those who threatened our democratic institutions and engaged in political violence, ensuring justice for attempts to undermine the foundational principles of American governance.",
-        "originalSource": "The Guardian",
-        "publishedTime": "48m ago"
-      },
-      {
-        "id": "story-1764956360065-3",
-        "headline": "President Trump's Administration Weaponizes Isolated Incident to Further Restrict Migrant Work Permits and Asylum Seekers' Rights.",
-        "content": "Following a recent shooting incident, President Trump's administration is implementing new, punitive restrictions that will drastically shorten the expiration timelines for work permits, specifically targeting asylum seekers and other vulnerable migrants seeking humanitarian relief in the US. This policy, announced by U.S. Citizenship and Immigration Services, represents a deeply troubling pattern of using isolated events to justify systemic cruelty and xenophobic policies against those seeking safety and a better life, further marginalizing already exploited communities.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1764956360065-4",
-        "headline": "Pentagon's Latest Fatal Boat Strike in Pacific Raises Alarms Over Lack of Accountability and Civilian Casualties.",
-        "content": "The Pentagon has confirmed another deadly boat strike in the Pacific, resulting in the deaths of four men on a vessel described as an alleged drug runner, bringing the total casualties from such controversial actions to at least 87 people since early September. This ongoing series of lethal strikes demands critical scrutiny regarding transparency, due process, and the broader human cost of military operations, raising serious questions about accountability and the impact on regional stability and human rights.",
+        "id": "story-1764960697258-0",
+        "headline": "Appeals Court Allows President Trump's Administration to Continue Militarizing D.C., Raising Concerns About Civil Liberties",
+        "content": "A U.S. appeals court has temporarily halted a lower court's decision, enabling President Trump's administration to maintain the deployment of National Guard members in Washington, D.C. This move prolongs the militarization of the nation's capital and sparks critical conversations regarding the balance between security and the fundamental civil liberties of residents as legal challenges continue.",
         "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-1",
+        "headline": "CDC Panel's Decision to Restrict Universal Newborn Hepatitis B Vaccine Raises Public Health Concerns",
+        "content": "A CDC advisory panel has voted to cease recommending the universal birth dose of the hepatitis B vaccine for all newborns, now excluding infants whose mothers have tested negative for the virus. This significant revision to the child vaccine schedule raises serious public health concerns about equitable access to preventative care and the potential for increased vulnerability, particularly in communities with systemic barriers to healthcare access and prenatal screening.",
+        "originalSource": "The Guardian",
+        "publishedTime": "31 minutes ago"
+      },
+      {
+        "id": "story-1764960697258-2",
+        "headline": "Election Grievances Fuel Suspect's Alleged Pipe Bomb Plot Near Capitol, Highlighting Threat to Democracy",
+        "content": "New information reveals that the suspect arrested for allegedly planting pipe bombs near the U.S. Capitol cited election grievances as a motive. This development underscores the dangerous escalation of political extremism fueled by misinformation and the urgent need to address systemic failures that allow such threats against democratic institutions to fester and endanger public safety.",
+        "originalSource": "Fox News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-3",
+        "headline": "U.S. Military Kills Four More in Pacific Boat Strike, Intensifying Debate Over Militarized Drug War Tactics",
+        "content": "The Pentagon has confirmed another boat strike in the Pacific, resulting in the deaths of four men. This incident adds to a troubling pattern of lethal military interventions in the region, intensifying critical scrutiny over the effectiveness, ethics, and human cost of the U.S. military's anti-narcotics operations, which often prioritize militarization over humanitarian solutions and sustainable development.",
+        "originalSource": "The Guardian",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764956360065-5",
-        "headline": "Supreme Court Upholds Texas's Gerrymandered Congressional Map, Undermining Democratic Representation.",
-        "content": "The Supreme Court has issued an order allowing Texas to proceed with its redrawn congressional map for the 2026 elections, despite significant challenges alleging egregious gerrymandering designed to solidify one party's power. This decision by the highest court permits a map considered highly favorable to the Republican Party's political prospects, further entrenching systemic disenfranchisement and actively undermining the fundamental democratic principle of fair and equitable representation for all citizens.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "17 hours ago"
+        "id": "story-1764960697258-4",
+        "headline": "Massive $83 Billion Netflix-Warner Bros. Discovery Merger Raises Alarms About Media Monopolies",
+        "content": "Netflix is poised to acquire Warner Bros. Discovery in an $83 billion cash-and-stock deal, following an intense bidding war. This colossal merger consolidates unprecedented power within the streaming and content industries, prompting serious anti-trust concerns and questions about its impact on media diversity, independent creators, and the potential for a few corporate giants to control the narratives consumed by millions.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-5",
+        "headline": "FIFA Awards President Trump a 'Peace Prize,' Drawing Scrutiny Over Political Alignments and Corporate Ethics",
+        "content": "FIFA, the global governing body of soccer, has awarded President Trump a new peace prize during the 2026 World Cup draw event. This controversial decision immediately draws scrutiny and criticism, as it raises significant questions about FIFA's corporate ethics, its political alignments, and the integrity of such awards when presented to figures whose policies and rhetoric have often been perceived as divisive rather than unifying for global peace.",
+        "originalSource": "PBS News",
+        "publishedTime": "Today"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764956360065-0",
-        "headline": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
-        "content": "A CDC advisory panel voted to eliminate the long-standing universal recommendation for the hepatitis B shot for all newborns. The new guidance suggests limiting the vaccine to babies born to mothers testing positive or those whose status is unknown, marking a significant revision to the child vaccine schedule.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764956360065-1",
-        "headline": "Netflix to acquire Warner Bros. studio and streaming business for $72 billion",
-        "content": "The largest streaming network, Netflix, announced plans to acquire Warner Bros.' studios and streaming assets for a reported $72 billion in a cash-stock deal. This massive purchase is expected to reshape the competitive landscape of the US and global media and entertainment industries.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764956360065-2",
-        "headline": "Suspect in US Capitol pipe bomb plot to make first appearance in court",
-        "content": "The individual arrested in connection with the pipe bombs discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is scheduled to make their initial appearance in a US court. This marks a new step in the high-profile federal case.",
-        "originalSource": "The Guardian",
-        "publishedTime": "48m ago"
-      },
-      {
-        "id": "story-1764956360065-3",
-        "headline": "Trump limits work permit access for migrants after National Guard shooting",
-        "content": "The Trump administration is implementing new restrictions that will shorten the expiration timelines for work permits, primarily affecting asylum seekers and other migrants seeking humanitarian relief in the US. U.S. Citizenship and Immigration Services announced the change following a recent shooting incident.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1764956360065-4",
-        "headline": "Pentagon announces it has killed four men in another boat strike in Pacific",
-        "content": "The Pentagon confirmed a new boat strike in the Pacific, which resulted in the death of four men on a vessel described as an alleged drug runner. This latest action is part of a controversial series of strikes that have killed at least 87 people in the region since early September.",
+        "id": "story-1764960697258-0",
+        "headline": "Appeals court lets Trump admin. keep National Guard deployed in D.C. for now",
+        "content": "A U.S. District Court's decision to end the deployment of National Guard members in Washington, D.C., has been put on hold by an appeals court. This allows the Trump administration to maintain the deployment temporarily while the legal challenge proceeds.",
         "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-1",
+        "headline": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
+        "content": "A CDC advisory panel voted to stop recommending the universal birth dose of the hepatitis B vaccine for all newborns, excluding babies born to mothers who have tested negative for the virus. This marks a significant revision to the child vaccine schedule.",
+        "originalSource": "The Guardian",
+        "publishedTime": "31 minutes ago"
+      },
+      {
+        "id": "story-1764960697258-2",
+        "headline": "Man arrested for allegedly planting pipe bombs in DC cited election grievances",
+        "content": "New details emerged in the case of the suspect arrested for allegedly planting pipe bombs near the U.S. Capitol. The suspect reportedly cited election grievances as a motive for his actions, revealing more about the high-profile security breach.",
+        "originalSource": "Fox News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-3",
+        "headline": "Pentagon announces it has killed four men in another boat strike in Pacific",
+        "content": "The Pentagon confirmed a new boat strike in the Pacific, stating that four men were killed. This incident follows previous strikes on alleged drug-carrying vessels and has intensified the debate over the U.S. military's anti-narcotics operations in the region.",
+        "originalSource": "The Guardian",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764956360065-5",
-        "headline": "Supreme Court allows Texas to use redrawn congressional map favorable to GOP in 2026",
-        "content": "The Supreme Court issued an order permitting the state of Texas to proceed with using its redrawn congressional map for the 2026 elections. The map, which was challenged for its alleged gerrymandering, is considered highly favorable to the Republican Party's political prospects.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "17 hours ago"
+        "id": "story-1764960697258-4",
+        "headline": "Netflix to buy Warner Bros. Discovery in $83 billion cash-stock deal",
+        "content": "Netflix is set to acquire Warner Bros. Discovery in an $83 billion cash-and-stock deal. The move, which follows a bidding war with competitors like Comcast, would see the largest streaming network purchase Warner Bros.' studios and streaming assets.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-5",
+        "headline": "President Donald Trump was awarded a new peace prize from FIFA",
+        "content": "President Donald Trump received a new peace prize from FIFA, the governing body of soccer. The award was presented as part of the 2026 World Cup draw event, signaling FIFA's continued relationship with the Republican U.S. president.",
+        "originalSource": "PBS News",
+        "publishedTime": "Today"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764956360065-0",
-        "headline": "CDC Panel Recognizes Parental Liberty, Ends Universal Newborn Vaccine Mandate",
-        "content": "A CDC advisory panel has voted to eliminate the long-standing universal recommendation for the hepatitis B shot for all newborns, marking a significant step towards restoring parental rights in medical decisions for their children. The new guidance suggests limiting the vaccine to infants born to mothers testing positive or those whose status is unknown, emphasizing individual choice and responsible health policy over broad government mandates.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764956360065-1",
-        "headline": "Streaming Giant Netflix Consolidates Power with Massive Warner Bros. Acquisition",
-        "content": "The largest streaming network, Netflix, announced ambitious plans to acquire Warner Bros.' studios and streaming assets for a reported $72 billion in a cash-stock deal. This massive purchase is set to reshape the competitive landscape of the US and global media and entertainment industries, representing a significant market force at work.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764956360065-2",
-        "headline": "Justice System Moves Forward in Capitol Pipe Bomb Case, Suspect to Appear",
-        "content": "The individual arrested in connection with the pipe bombs discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is scheduled to make their initial appearance in a US court. This marks a crucial step in the high-profile federal case, demonstrating that those who threaten our nation's institutions will be brought to justice under the rule of law.",
-        "originalSource": "The Guardian",
-        "publishedTime": "48m ago"
-      },
-      {
-        "id": "story-1764956360065-3",
-        "headline": "President Trump Strengthens Border Security, Restricting Migrant Work Permits",
-        "content": "President Trump's administration is implementing new, vital restrictions that will shorten the expiration timelines for work permits, primarily affecting asylum seekers and other migrants seeking humanitarian relief in the US. U.S. Citizenship and Immigration Services announced the change following a recent shooting incident, reinforcing the administration's commitment to national security and controlled immigration.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1764956360065-4",
-        "headline": "Pentagon Upholds National Security, Eliminating Alleged Drug Runners in Pacific",
-        "content": "The Pentagon confirmed a new boat strike in the Pacific, which resulted in the death of four men on a vessel described as an alleged drug runner. This latest action is part of a necessary series of strikes aimed at disrupting illicit drug trafficking and protecting national interests in the region.",
+        "id": "story-1764960697258-0",
+        "headline": "Appeals Court Upholds President Trump's Authority to Secure Our Nation's Capital",
+        "content": "A crucial decision by a U.S. appeals court has rightly paused a lower court's attempt to end the deployment of National Guard members in Washington, D.C. This prudent ruling ensures President Trump's administration can continue to maintain order and security in our nation's capital, allowing for stability while the important legal challenge is properly resolved.",
         "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-1",
+        "headline": "CDC Panel Affirms Parental Choice, Revises Universal Newborn Vaccine Mandate",
+        "content": "In a victory for individual liberty and parental rights, a CDC advisory panel has voted to cease recommending the universal birth dose of the hepatitis B vaccine for all newborns, specifically excluding infants whose mothers have tested negative for the virus. This thoughtful revision to the child vaccine schedule reflects a move towards more targeted medical advice, respecting the autonomy of families in healthcare decisions for their children.",
+        "originalSource": "The Guardian",
+        "publishedTime": "31 minutes ago"
+      },
+      {
+        "id": "story-1764960697258-2",
+        "headline": "Law Enforcement Apprehends Suspect in D.C. Pipe Bomb Case, Justice Will Prevail",
+        "content": "Swift action by law enforcement has led to the arrest of a suspect allegedly responsible for planting pipe bombs near the U.S. Capitol. While the suspect reportedly cited election grievances as a motive, such criminal acts are unacceptable and undermine the rule of law. This high-profile security breach underscores the vital importance of maintaining order and ensuring that those who threaten our institutions face the full force of justice.",
+        "originalSource": "Fox News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-3",
+        "headline": "Pentagon Continues Vital Operations Against Pacific Drug Smugglers, Upholding National Security",
+        "content": "The Pentagon has confirmed another decisive boat strike in the Pacific, which tragically resulted in the deaths of four men. These necessary operations are part of the U.S. military's relentless efforts to combat dangerous drug-carrying vessels and protect our nation from illicit trafficking, reaffirming America's commitment to securing its borders and national interests against criminal enterprises.",
+        "originalSource": "The Guardian",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764956360065-5",
-        "headline": "Supreme Court Affirms Texas's Right to Implement New Congressional Map",
-        "content": "The Supreme Court issued an order permitting the sovereign state of Texas to proceed with using its redrawn congressional map for the 2026 elections. The map, which was challenged, is now confirmed to be used, affirming the state's legislative authority and the integrity of the electoral process.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "17 hours ago"
+        "id": "story-1764960697258-4",
+        "headline": "Netflix Expands Dominance, Acquires Warner Bros. Discovery in Major Market Deal",
+        "content": "In a significant move within the competitive entertainment industry, Netflix is set to acquire Warner Bros. Discovery through an $83 billion cash-and-stock transaction. This colossal deal, which emerged after robust bidding among competitors like Comcast, will see the leading streaming network absorb Warner Bros.' iconic studios and extensive streaming assets, reshaping the future of media.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-5",
+        "headline": "President Trump Honored with Prestigious FIFA Peace Prize for Global Leadership",
+        "content": "President Donald Trump has been deservedly awarded a new peace prize by FIFA, the respected international governing body of soccer. This significant honor was presented during the 2026 World Cup draw event, proudly acknowledging President Trump's continued influence and esteemed relationship with the global community.",
+        "originalSource": "PBS News",
+        "publishedTime": "Today"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764956360065-0",
-        "headline": "CDC Panel Declares Newborns 'Basically Invincible,' Recommends Fewer Vaccines for a More 'Natural' Immune Experience",
-        "content": "A CDC advisory panel, clearly inspired by the resilience of toddlers attempting to eat sand, has voted to eliminate the 'boring' universal recommendation for hepatitis B shots for all newborns. New guidance suggests limiting the vaccine to babies born to mothers testing positive or those whose status is unknown, because nothing says 'public health' like a thrilling game of viral roulette. Experts believe this bold move will free up valuable medical time for more pressing issues, like debating the optimal napping schedule for panel members.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764956360065-1",
-        "headline": "Netflix, Running Out of Things to Binge, Buys Entire Warner Bros. Studio Just for the Popcorn Machine",
-        "content": "In a shocking display of 'because we can,' Netflix, the streaming giant that already owns more content than the average human could watch in three lifetimes, has announced plans to acquire Warner Bros.' studios and streaming assets for a mere $72 billion. Industry insiders speculate the primary motivation was to gain exclusive rights to a particular brand of studio popcorn machine, with a Netflix spokesperson stating, 'We simply couldn't risk anyone else getting their kernels on it.' This massive purchase is expected to reshape the media landscape by reducing all competition to a single, inescapable red N.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764956360065-2",
-        "headline": "Pipe Bomb Suspect Finally Makes Court Appearance, Reportedly Asked for Directions to Gift Shop",
-        "content": "The individual arrested in connection with the 'decorative' pipe bombs discovered near the Democratic and Republican National Committee headquarters during the January 6th Capitol attack is finally scheduled to make their initial appearance in a US court. Sources close to the proceedings report the suspect's main concern was reportedly the lack of a 'swag bag' for first-time attendees. This highly anticipated moment marks a new step in the federal case, promising to reveal whether the bombs were indeed 'just for show' or an elaborate, misguided attempt at a political art installation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "48m ago"
-      },
-      {
-        "id": "story-1764956360065-3",
-        "headline": "President Trump Streamlines Work Permits to 'Optimal Inconvenience' After Incident Involving Squirrel",
-        "content": "President Trump's administration is implementing new restrictions that will drastically shorten the expiration timelines for work permits, primarily affecting asylum seekers and other migrants, following a recent 'incident' involving a particularly aggressive squirrel near a National Guard post. U.S. Citizenship and Immigration Services announced the change, explaining that keeping migrants in a constant state of bureaucratic limbo ensures they remain 'on their toes' and less likely to engage in unpatriotic activities, like planting flowerbeds without proper permits. The move is expected to boost efficiency by reducing the number of stable, contributing members of society.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1764956360065-4",
-        "headline": "Pentagon Celebrates 'Another Successful Boat Decommissioning' in Pacific, Four Fewer Sea-Goers",
-        "content": "The Pentagon proudly confirmed its latest 'aquatic asset retirement' in the Pacific, which resulted in the highly efficient removal of four men from a vessel described only as an 'alleged bad boat.' This latest action is part of a controversial series of strikes that have now, through sheer statistical probability, removed at least 87 people from the region's waterways since early September. Officials stated that these 'oceanic cleanups' are vital for maintaining the tranquility of the Pacific, particularly for any future alleged drug runners who might be considering a career change.",
+        "id": "story-1764960697258-0",
+        "headline": "D.C. National Guard Remains Deployed Indefinitely To Ensure Local Coffee Shops Are Adequately Secured",
+        "content": "An appeals court, clearly prioritizing the critical protection of the nation's capital from... well, from *something*, has temporarily halted a decision to remove the National Guard from Washington, D.C. Sources close to the situation suggest the Guard’s continued presence is vital for maintaining the structural integrity of various monuments and, more importantly, for ensuring that nobody accidentally trips over a historic cobblestone. The Trump administration insists that the current level of 'overwhelming calm' necessitates a heavily armed watch, just in case. The legal challenge proceeds at the glacial pace typically reserved for important decisions, allowing the uniformed personnel to continue their pivotal work of standing around.",
         "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-1",
+        "headline": "CDC Panel Decides Babies Are Getting 'Too Much Good Stuff' With Universal Hepatitis B Vaccine",
+        "content": "In a move that shocked exactly zero anti-vax parents, a CDC advisory panel has voted to scale back the universal birth dose of the hepatitis B vaccine for all newborns, unless their mothers have tested negative for the virus. 'Frankly, we just felt newborns were having too many good things handed to them right out of the womb,' stated Dr. Agnes Piffle, head of the 'Less Is More' subcommittee. 'Where's the character-building struggle? Where's the early onset existential dread? We're taking away the easy fix to teach them life's hard lessons, like avoiding bodily fluids.' This monumental revision to the child vaccine schedule promises to simplify life for everyone, especially for infants now burdened with fewer antibodies.",
+        "originalSource": "The Guardian",
+        "publishedTime": "31 minutes ago"
+      },
+      {
+        "id": "story-1764960697258-2",
+        "headline": "Local Man Disappointed Pipe Bombs Didn't Count As 'Protest Vote' In D.C.",
+        "content": "New details have emerged in the bizarre case of the suspect arrested for allegedly scattering pipe bombs like electoral confetti near the U.S. Capitol. The suspect, whose identity remains guarded for his own safety from people who would argue with him about his choice of protest medium, reportedly cited 'election grievances' as his primary motivation. 'I just wanted my voice heard,' he reportedly mumbled, 'and I thought a series of small, strategically placed explosions would really emphasize my deep unhappiness with the democratic process.' Authorities, who apparently prefer strongly worded letters to high-explosive devices, are now clarifying that 'direct action' does not, in fact, include attempting to rearrange federal buildings with improvised weaponry. His legal team is reportedly exploring a defense based on 'misunderstanding the concept of a ballot.'",
+        "originalSource": "Fox News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-3",
+        "headline": "Pentagon Now Just Testing Its 'Boat-Destroying Robot' On Anything That Floats In Pacific",
+        "content": "The Pentagon proudly announced its latest achievement in maritime security: the successful incapacitation of four individuals during yet another 'boat strike' in the vast, watery expanse of the Pacific. While officially described as part of ongoing anti-narcotics operations, sources within the defense department, who asked to remain anonymous for fear of being reassigned to 'seafoam analysis,' hinted at a broader mission. 'Look, we've got this really cool new drone that’s just *amazing* at destroying boats,' explained one insider. 'We’re just letting it stretch its legs, so to speak. If it happens to take out a few alleged drug vessels, or maybe just a particularly suspicious-looking fishing dinghy, that's just a bonus. It's really about ensuring no boat ever feels *too* safe.' The incident further fuels the raging debate over whether the U.S. military is over-invested in its 'boat-punishing' programs.",
+        "originalSource": "The Guardian",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764956360065-5",
-        "headline": "Supreme Court Declares Texas Gerrymandering Map 'Art,' Orders It Framed for National Gallery",
-        "content": "The Supreme Court, apparently now dabbling in art criticism, issued an order permitting the state of Texas to proceed with using its redrawn congressional map for the 2026 elections. The map, described by critics as a 'geometric assault on democracy,' was instead lauded by the justices as a 'masterpiece of abstract political expression' and 'bold, unapologetic cartographic gerrymandering.' The ruling further suggests the map be permanently installed in the National Gallery, allowing future generations to marvel at its ability to surgically ensure one party's political prospects.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "17 hours ago"
+        "id": "story-1764960697258-4",
+        "headline": "Netflix Buys Everything That Ever Existed, Now Owns Your Grandparents' Memories",
+        "content": "In a move that surprised no one who has witnessed Netflix's insatiable hunger for content, the streaming giant is set to acquire Warner Bros. Discovery in a staggering $83 billion cash-and-stock deal. After a cutthroat bidding war where competitors like Comcast reportedly offered a single crumpled dollar bill and a half-eaten sandwich, Netflix emerged victorious, now poised to own approximately 97% of all recorded human entertainment. 'We realized there were still a few shows and movies out there that weren't immediately available to stream,' explained Netflix CEO Reed Hastings, maniacally stroking a white cat that wasn't there. 'This acquisition closes that terrifying gap. Soon, the only thing you won't find on Netflix is the remote control you just lost, but we're working on a show about that.' Industry analysts predict the next logical step will be for Netflix to purchase reality itself, rebranding it 'Netflix Presents: Life! A New Original Series.'",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-5",
+        "headline": "FIFA Awards President Trump 'Most Peace-Inducing Individual' Prize For His Unique Contributions To Global Calm",
+        "content": "In a stunning display of foresight and, perhaps, a slightly skewed understanding of 'peace,' FIFA, the world's governing body of soccer, has bestowed a brand new 'Most Peace-Inducing Individual' prize upon President Trump. The prestigious award was presented during the 2026 World Cup draw, much to the delight of a crowd wondering if they'd accidentally wandered into a surrealist performance art piece. 'President Trump’s unwavering commitment to... let's call it 'energetic diplomacy,' has truly redefined what it means to foster tranquility,' gushed FIFA President Gianni Infantino, while subtly checking to ensure no actual bombs were present. 'His methods are so singularly effective at generating conversations, often very loud ones, that we felt it only right to acknowledge his unparalleled contributions to the absence of... well, *other kinds* of conflicts. Or maybe it was just about the viewership numbers. Who can say?'",
+        "originalSource": "PBS News",
+        "publishedTime": "Today"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764956360065-0",
-        "headline": "Doctors Might Give Fewer Shots to Brand New Babies",
-        "content": "A group of smart doctors at the CDC decided that not all new babies need a shot for something called Hepatitis B. Before, all babies got it. Now, they think only babies whose moms might have the sickness, or if they don't know, should get the shot. This is a big change for baby shots.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764956360065-1",
-        "headline": "Netflix is Buying a Huge Movie Company for Lots of Money",
-        "content": "Guess what? Netflix, the place where you watch tons of shows and movies, is going to buy Warner Bros.! That's the company that makes lots of popular movies and TV shows. Netflix is paying a super huge amount of money, like $72 billion. This means Netflix will be even bigger and maybe have even more cool stuff to watch.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764956360065-2",
-        "headline": "Person Accused of Capitol Bomb Plot is Going to Court",
-        "content": "Someone who was arrested because of some pipe bombs found near the big government buildings during the January 6th Capitol event will go to court for the very first time. This is a big step in a really important case where the government is trying to figure out what happened.",
-        "originalSource": "The Guardian",
-        "publishedTime": "48m ago"
-      },
-      {
-        "id": "story-1764956360065-3",
-        "headline": "President Trump Changes Rules for People Wanting to Work Here",
-        "content": "President Trump's government is making new rules about how long people who came here looking for safety can work. Their work papers won't last as long as they used to. This change happened after a shooting incident.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1764956360065-4",
-        "headline": "Army Says They Stopped a Boat and Four Guys Died",
-        "content": "The Pentagon, which is like the big boss for the army and navy, said that they hit a boat in the Pacific Ocean again. Four men on that boat died. They said the boat might have been carrying drugs. This has happened a few times lately, and a lot of people have died from these boat strikes.",
+        "id": "story-1764960697258-0",
+        "headline": "Soldiers Can Stay in Washington D.C. For Now",
+        "content": "A court decided that the soldiers, called the National Guard, can stay in Washington D.C. for a little longer. Another court wanted them to leave, but a higher court put that on hold. President Trump wants them to be there, and for now, they get to stay.",
         "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-1",
+        "headline": "Babies Might Not Get a Shot Right When They Are Born Anymore",
+        "content": "A group of smart doctors and experts, called a CDC panel, decided to change something about shots for new babies. They said that most babies might not need a special shot for hepatitis B right after they are born, unless their mom has the sickness. This changes the usual schedule for baby shots.",
+        "originalSource": "The Guardian",
+        "publishedTime": "31 minutes ago"
+      },
+      {
+        "id": "story-1764960697258-2",
+        "headline": "Someone Who Planted Bombs Was Mad About the Election",
+        "content": "Police caught a man who supposedly put pipe bombs near the big Capitol building in Washington D.C. The man said he did it because he was really upset about the election. This news helps us understand more about why he did something so dangerous.",
+        "originalSource": "Fox News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-3",
+        "headline": "The Military Blew Up Another Boat Far Away",
+        "content": "The U.S. military, called the Pentagon, said they blew up a boat in the big ocean, called the Pacific. Four men died in the boat. This has happened before with boats that might be carrying bad drugs, and people are talking about if this is the right thing for the military to do.",
+        "originalSource": "The Guardian",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764956360065-5",
-        "headline": "Top Court Says Texas Can Use New Election Map",
-        "content": "The most important court in the country, the Supreme Court, said that Texas can use its new map for elections in 2026. This new map helps the Republican Party win more easily. Some people didn't like the map, saying it was unfair, but the court said it's okay for now.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "17 hours ago"
+        "id": "story-1764960697258-4",
+        "headline": "Netflix Is Buying Warner Bros. for So Much Money",
+        "content": "Netflix, where you watch lots of shows, is going to buy another huge company called Warner Bros. Discovery. It's going to cost a super lot of money, like 83 billion dollars! This means Netflix will own even more movies, TV shows, and studios.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-5",
+        "headline": "President Trump Got a Cool Prize From FIFA Soccer",
+        "content": "President Trump received a special new award called a 'peace prize' from FIFA. FIFA is the big group that organizes soccer around the world. He got this prize during a special event for the upcoming World Cup in 2026.",
+        "originalSource": "PBS News",
+        "publishedTime": "Today"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764956360065-0",
-        "headline": "A Mother's New Choice in the Nursery",
-        "content": "The small needle, once a universal rite of passage, now hovered with a question mark. Dr. Elena Ramirez reviewed the new CDC guidance: no more blanket hepatitis B vaccine for every newborn. Only babies whose mothers tested positive or had unknown status would receive it. New parents, like Sarah, stared at the consent forms, a fresh wave of anxiety joining the joy of birth. Was this progress or risk? The medical landscape, etched by years of policy, had quietly shifted, leaving families to navigate a new, more nuanced path in their child's earliest days.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1764956360065-1",
-        "headline": "The Screen Devourer's Grand Feast",
-        "content": "The news rippled through Hollywood like a seismic shockwave. Netflix, the streaming behemoth, had swallowed Warner Bros. studios and its vast content library for a staggering $72 billion. The announcement echoed through soundstages and editing suites, a finality settling over rival networks. This wasn't just an acquisition; it was a redefinition. From Burbank lots to living room screens across the globe, the entertainment industry braced for a future under a single, dominant banner. The popcorn would still pop, but the stories told, and who told them, would forever bear a new signature.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1764956360065-2",
-        "headline": "Echoes in the Marble Halls of Justice",
-        "content": "The Capitol dome still loomed, a silent witness to the chaos of January Sixth. Today, however, the drama unfolded in a courtroom, not on the steps. The individual arrested in connection with the pipe bombs, discovered ominously near party headquarters, was set to make their initial appearance. Each step taken towards the stand was a step closer to understanding the shadowed intentions behind the devices. The federal case, a thread in the tapestry of a nation grappling with its past, had found its first public face, bringing the quiet machinery of justice into the stark light.",
-        "originalSource": "The Guardian",
-        "publishedTime": "48m ago"
-      },
-      {
-        "id": "story-1764956360065-3",
-        "headline": "The Shortened Thread of Hope and Work",
-        "content": "A chill wind swept through the migrant aid office, colder than the usual Texas breeze. Following a recent shooting incident, the Trump administration announced new restrictions: work permits for asylum seekers would now expire faster. Maria, clutching her renewal application, felt the walls close in. Her job, her fragile stability, hung by a thread that was suddenly much shorter. President Trump’s policy, aimed at tightening borders, translated into tangible uncertainty for thousands seeking a new beginning, turning their American dream into a race against the clock and an ever-shrinking window of opportunity.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1764956360065-4",
-        "headline": "Waves of Conflict, Shores of Loss",
-        "content": "Beneath the vast, indifferent expanse of the Pacific, another boat met a sudden, violent end. The Pentagon confirmed the strike, another four men dead, labeled 'alleged drug runners.' The ocean, a silent keeper of secrets, once again absorbed the brief, terrible violence. This wasn't an isolated incident; it was the latest in a chilling tally, 87 lives claimed in similar strikes since early September. Each anonymous vessel, each flash of impact, contributed to a shadowed, ongoing conflict, leaving behind only ripples and the cold, unyielding silence of the deep blue.",
+        "id": "story-1764960697258-0",
+        "headline": "The Silent Watch Over Marble Halls",
+        "content": "The appeals court intervened, a legal hand halting the district judge's decree. For now, the National Guard remains a silent, watchful presence across Washington, D.C.'s avenues. President Trump's administration retains its temporary shield of deployed soldiers, their uniforms a stark contrast against the city's historic stone. The legal challenge, a slow-grinding wheel of justice, continues to turn. Each soldier's extended stay marks a moment of suspended decision, a silent testament to an ongoing debate over security and civil liberty in the nation's capital.",
         "originalSource": "CBS News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-1",
+        "headline": "A New Dawn for Tiny Beginnings",
+        "content": "A whisper of change rippled through the medical community. The CDC advisory panel, guardians of public health, cast a significant vote, redefining the earliest moments of life. No longer would every newborn universally receive the hepatitis B vaccine at birth. The new recommendation carved out an exception: babies born to mothers confirmed negative for the virus. This revision to the foundational child vaccine schedule marked a pivotal shift, offering a tailored approach to infant immunity, a nuanced step for families welcoming their newest members into the world, balancing protection with individualized care.",
+        "originalSource": "The Guardian",
+        "publishedTime": "31 minutes ago"
+      },
+      {
+        "id": "story-1764960697258-2",
+        "headline": "Echoes of Discontent in the Capitol's Shadow",
+        "content": "A chilling shadow had fallen over the Capitol's revered grounds. The man arrested for the pipe bombs, his name now etched into infamy, finally revealed his twisted rationale. Election grievances, he claimed, fueled his desperate, dangerous act. The discovery of the improvised devices near the heart of American democracy had sent shockwaves, exposing a vulnerability few dared to imagine. This high-profile security breach, now coupled with a motive born of political anger, painted a stark picture of a nation grappling with its divisions, even in the very chambers of its power.",
+        "originalSource": "Fox News",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-3",
+        "headline": "Pacific's Deep Blue, A Silent Conflict",
+        "content": "The vast Pacific, a canvas of endless blue, once again bore witness to a deadly confrontation. The Pentagon's stark announcement confirmed another boat strike, a violent punctuation in the ongoing anti-narcotics campaign. Four men perished, their lives extinguished in the watery expanse. This incident echoed previous missions, each targeting alleged drug-carrying vessels. Yet, with every confirmed fatality, the debate intensifies. Critics question the efficacy and ethics of these aggressive operations, while proponents stress the necessity of disrupting the flow of illicit drugs. The ocean holds its secrets, but the human cost surfaces, fueling a persistent, uneasy dialogue.",
+        "originalSource": "The Guardian",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1764956360065-5",
-        "headline": "Drawing Lines in the Sand of Power",
-        "content": "The Supreme Court's order was precise, its implications vast. Texas could proceed with its redrawn congressional map for the 2026 elections. Critics cried gerrymandering, seeing clear lines etched for political advantage, yet the highest court had spoken. In quiet chambers, lines on paper became invisible fences, predetermining outcomes long before a single vote was cast. The future of representation, the very balance of power in the state, had been shaped not by the will of the people, but by the strategic stroke of a cartographer's pen, solidifying a partisan hold for years to come.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "17 hours ago"
+        "id": "story-1764960697258-4",
+        "headline": "The Streaming Colossus Extends Its Empire",
+        "content": "The digital landscape shuddered, then realigned. Netflix, the reigning monarch of streaming, declared its audacious intent: an $83 billion acquisition of Warner Bros. Discovery. This colossal cash-and-stock deal, born from a fierce bidding war that left rivals like Comcast in its wake, signified more than just a merger. It was a power play, cementing Netflix's dominance. The largest streaming network would now absorb Warner Bros.' iconic studios and extensive streaming assets, promising an unprecedented fusion of content and reach, forever altering the future of digital entertainment and the way the world watches stories unfold.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Hours ago"
+      },
+      {
+        "id": "story-1764960697258-5",
+        "headline": "A Golden Ball for Global Diplomacy",
+        "content": "Under the bright lights of the 2026 World Cup draw event, an unexpected honor unfolded. President Trump, center stage, received a new peace prize from FIFA, soccer's global governing body. The award, a symbolic gesture of international recognition, highlighted FIFA's continued engagement with the Republican U.S. president. It underscored a unique confluence of sports, politics, and global diplomacy, as the world watched the intersection of athletic spectacle and political acknowledgment. The golden trophy, held aloft, became a tangible symbol of an evolving relationship between a powerful leader and a universally beloved sport.",
+        "originalSource": "PBS News",
+        "publishedTime": "Today"
       }
     ]
   }
