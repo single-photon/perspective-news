@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764917906633,
+  "timestamp": 1764920241137,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764917826063-0",
-        "headline": "Supreme Court Upholds Partisan Gerrymander in Texas, Jeopardizing Democratic Representation",
-        "content": "The Supreme Court has greenlit Texas's egregious congressional map for the 2026 elections, a move widely condemned by voting rights advocates as a deliberate partisan gerrymander. This decision is poised to entrench Republican power by securing at least five additional House seats, effectively suppressing the voices of diverse communities and undermining the fundamental principles of fair representation and a truly democratic process. This judicial endorsement of partisan manipulation raises serious concerns about the integrity of future elections and the court's role in protecting — or eroding — voting access for all citizens.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764920160743-0",
+        "headline": "Supreme Court Upholds Systemic Disenfranchisement, Enabling Partisan Power Grab in Texas",
+        "content": "The U.S. Supreme Court has sanctioned a newly drawn congressional map for the 2026 election, delivering a victory to the President Trump administration and allowing Texas to proceed with what critics widely condemn as a gerrymander. This decision risks undermining fair representation by disproportionately favoring the Republican party, potentially securing up to five additional House seats for the GOP and reinforcing an undemocratic system.",
+        "originalSource": "NPR",
+        "publishedTime": "53 minutes ago"
       },
       {
-        "id": "story-1764917826063-1",
-        "headline": "Politically Motivated Indictment Against New York Attorney General Letitia James Fails",
-        "content": "A Virginia grand jury has rejected a second attempt to indict New York Attorney General Letitia James on baseless mortgage fraud charges, a significant blow to the Justice Department and the President Trump administration's apparent efforts to target political adversaries. This decision follows a judge's dismissal of the initial case last week, reaffirming concerns that the repeated attempts to prosecute James were politically motivated and lacked substantive legal grounds. The failure to secure an indictment underscores the importance of protecting independent public servants from weaponized legal challenges.",
+        "id": "story-1764920160743-1",
+        "headline": "Arrest Made in Jan 6 Pipe Bomb Threat Underscores Lingering Danger of Political Extremism",
+        "content": "The FBI has announced the arrest of a Virginia man in connection with the pipe bombs strategically placed near the Democratic and Republican National Committee headquarters on the eve of the January 6, 2021, Capitol insurrection. Justice Department officials indicate a breakthrough came after reexamining evidence, highlighting the urgent need to address the systemic roots of domestic extremism and threats to democratic institutions.",
+        "originalSource": "CBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-2",
+        "headline": "Politically Motivated Charges Against NY AG Letitia James Collapse, Exposing Abuses of Power",
+        "content": "A grand jury has definitively refused to re-indict New York Attorney General Letitia James on mortgage fraud charges, marking a significant defeat for the Justice Department and the President Trump administration, who persistently sought a new indictment following an initial dismissal. This decision effectively ends what many view as a politically motivated campaign against a prominent progressive figure, reaffirming the integrity of the legal process against undue influence.",
         "originalSource": "NBC News",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764917826063-2",
-        "headline": "Accountability Sought as Suspect Arrested in 2021 D.C. Pipe Bomb Investigation",
-        "content": "Law enforcement officials have apprehended a Virginia man in connection with the placement of pipe bombs near the Democratic and Republican National Committee headquarters on January 5, 2021. This long-awaited arrest represents a critical step towards accountability for acts of political violence that sought to terrorize and destabilize democratic institutions. The discovery and apprehension of the suspect, described by investigators as finding a 'needle in a haystack,' underscores the persistent threat of domestic extremism and the imperative to bring all perpetrators of such dangerous acts to justice to protect our nation's political landscape.",
+        "id": "story-1764920160743-3",
+        "headline": "Pentagon Under Scrutiny for Second Strike on Vessel After Acknowledging Survivors",
+        "content": "Disturbing new reports indicate that Pentagon officials were allegedly aware of survivors from an initial U.S. boat strike on a suspected drug-smuggling vessel before a controversial second strike was launched. Lawmakers who have reviewed video footage expressed grave concerns over the legality and ethics of these actions, challenging an admiral's denial of a 'kill them all' order and demanding full transparency and accountability for potential human rights violations.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-4",
+        "headline": "Economists Debunk President Trump's Tariff-Funded Tax Cut, Warning of Fiscal Irresponsibility",
+        "content": "President Donald Trump has proposed that revenue generated from tariffs could eventually allow the federal government to completely eliminate individual income taxes. However, financial experts and economists have swiftly and widely disputed this claim, arguing that the mathematical realities do not support replacing massive income tax revenue with current tariff receipts, thus exposing the plan as fiscally irresponsible and potentially harmful to public services.",
         "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764917826063-3",
-        "headline": "Pentagon's Latest Pacific Boat Strike Ignites Renewed Demands for Transparency and Accountability",
-        "content": "The Pentagon has confirmed yet another deadly boat strike in the Pacific, claiming the lives of four individuals merely 'alleged' to be involved in drug trafficking. This incident is occurring amidst intense controversy and accusations of war crimes surrounding previous similar operations, raising grave concerns about the military's unchecked authority and the potential for extrajudicial killings. Congressional lawmakers are intensifying their demands for greater transparency, oversight, and a thorough investigation into these actions, emphasizing the urgent need to uphold international law and protect human rights.",
+        "id": "story-1764920160743-5",
+        "headline": "Appeals Court Upholds President Trump's Domestic National Guard Deployment Amid Civil Liberties Concerns",
+        "content": "A federal appeals court has ruled to permit the President Trump administration's continued deployment of the National Guard in Washington D.C. This decision comes despite ongoing legal challenges regarding the expansive scope of executive authority and the proper, often militarized, use of military forces domestically, raising significant concerns about potential civil liberties infringements and the precedent set for future executive actions.",
         "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764917826063-4",
-        "headline": "President Trump's Tariffs Claim Deemed Economically Unsound by Experts",
-        "content": "President Trump has made the unsubstantiated claim that revenue from tariffs could eliminate all federal individual income taxes, a proposition swiftly and widely debunked by economic experts and fact-checkers. This misleading assertion ignores basic economic realities, as projected tariff revenues fall drastically short of replacing the entire federal income tax base. Such policies often disproportionately burden working-class families through increased consumer prices, highlighting the danger of economic policy disconnected from expert analysis and based on populist rhetoric rather than fiscal responsibility.",
-        "originalSource": "ABC News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764917826063-5",
-        "headline": "Former FDA Leaders Unanimously Condemn Plan to Undermine Vaccine Approvals and Jeopardize Public Health",
-        "content": "A powerful consensus of twelve former Food and Drug Administration commissioners has publicly denounced a controversial proposed plan that would drastically tighten requirements for new vaccine approvals. In a joint letter, these leading public health experts expressed profound alarm, warning that such changes would severely undermine scientific integrity, jeopardize public health, and create dangerous delays in access to critical new immunizations for people across the United States. This broad condemnation underscores the imperative to protect evidence-based public health policy from political interference.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within the last 24 hours"
+        "publishedTime": "9 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764917826063-0",
-        "headline": "Supreme Court allows Texas to use redrawn congressional map favorable to GOP in 2026",
-        "content": "The Supreme Court issued an order allowing Texas to use its newly drawn congressional map for the upcoming 2026 elections. Critics argue the map is a partisan gerrymander designed to secure five additional House seats for the Republican party, a decision that immediately drew scrutiny from Democrats and voting rights groups.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764920160743-0",
+        "headline": "Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats.",
+        "content": "The U.S. Supreme Court delivered a victory to the Trump administration by allowing Texas to proceed with a newly drawn congressional map for the 2026 election. Critics argue the map is a gerrymander that disproportionately favors the Republican party, potentially securing up to five additional House seats for the GOP.",
+        "originalSource": "NPR",
+        "publishedTime": "53 minutes ago"
       },
       {
-        "id": "story-1764917826063-1",
-        "headline": "Grand jury declines to reindict N.Y. Attorney General Letitia James in mortgage fraud case",
-        "content": "A Virginia grand jury has refused to issue a second indictment against New York Attorney General Letitia James on charges related to mortgage fraud. This decision marks a significant setback for the Justice Department and the Trump administration, which had sought the new indictment after a judge dismissed the initial case against James last week.",
+        "id": "story-1764920160743-1",
+        "headline": "FBI arrests suspect in 2021 D.C. pipe bomb case, identified as Virginia man.",
+        "content": "The FBI has announced the arrest of a Virginia man in connection with the pipe bombs placed near the Democratic and Republican National Committee headquarters in Washington, D.C., on the eve of the January 6, 2021, Capitol riot. Justice Department officials stated the breakthrough came after reexamining evidence.",
+        "originalSource": "CBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-2",
+        "headline": "Grand jury declines to re-indict N.Y. Attorney General Letitia James in mortgage fraud case.",
+        "content": "A grand jury has refused to re-indict New York Attorney General Letitia James on mortgage fraud charges, marking a significant setback for the Justice Department and the Trump administration who sought a new indictment following an initial dismissal last week. This decision effectively ends the case against her.",
         "originalSource": "NBC News",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764917826063-2",
-        "headline": "FBI arrests suspect in 2021 D.C. pipe bomb case, identified as Virginia man",
-        "content": "The FBI and Justice Department officials announced the arrest of a Virginia man in connection with the placement of pipe bombs near the Democratic and Republican National Committee headquarters on January 5, 2021. Investigators were able to find a \"needle in a haystack\" that led to the identification and apprehension of the long-sought suspect.",
+        "id": "story-1764920160743-3",
+        "headline": "Pentagon knew boat attack left survivors but still launched follow-up strike, AP sources say.",
+        "content": "New reports suggest that Pentagon officials were aware there were survivors from the initial U.S. boat strike on an alleged drug-smuggling vessel before a controversial second strike was launched. Lawmakers who viewed video expressed concern over the legality of the strikes and an admiral denied giving a 'kill them all' order.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-4",
+        "headline": "Trump says he may cut income tax 'completely' because of tariff income; experts disagree.",
+        "content": "President Donald Trump has proposed that revenue generated from tariffs could eventually allow the federal government to completely eliminate individual income taxes. Financial experts and economists have quickly weighed in to dispute this claim, arguing that the math does not support replacing the massive income tax revenue with current tariff receipts.",
         "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764917826063-3",
-        "headline": "Pentagon announces it has killed four men in another boat strike in Pacific",
-        "content": "The Pentagon confirmed it conducted another deadly boat strike in the Pacific, resulting in the death of four individuals alleged to be involved in drug trafficking. This incident follows intense controversy over previous similar strikes, fueling allegations of war crimes and prompting increased demands for greater transparency from congressional lawmakers.",
+        "id": "story-1764920160743-5",
+        "headline": "Appeals court allows Trump's national guard deployment in DC to continue.",
+        "content": "A federal appeals court has ruled to permit the Trump administration's continued deployment of the National Guard in Washington D.C. The deployment has been the subject of legal challenges regarding the scope of executive authority and the proper use of military forces domestically, with a ruling favoring the administration.",
         "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764917826063-4",
-        "headline": "FACT FOCUS: Trump says tariffs can eventually replace federal income taxes, experts disagree",
-        "content": "Former President Trump claimed that revenue generated from tariffs could eventually allow the U.S. to eliminate all federal individual income taxes for American workers. Economic experts and fact-checkers quickly weighed in to dispute the claim, stating that the estimated tariff revenue would be insufficient to replace the entire federal income tax base.",
-        "originalSource": "ABC News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764917826063-5",
-        "headline": "A dozen former FDA commissioners condemn plan to tighten vaccine approvals",
-        "content": "Twelve former commissioners of the Food and Drug Administration signed a letter condemning a controversial proposed plan that would significantly tighten the requirements for new vaccine approvals. They expressed alarm over the memo, fearing the proposed changes could undermine public health and severely delay access to critical new immunizations in the US.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within the last 24 hours"
+        "publishedTime": "9 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764917826063-0",
-        "headline": "Supreme Court Upholds Texas' Right to Fair Electoral Maps for 2026 Elections",
-        "content": "The Supreme Court has rightly affirmed Texas' authority to implement its new congressional map for the 2026 elections, upholding the principle of states' rights in determining their own electoral districts. This crucial decision ensures that Texans will have fair representation, despite predictable complaints from Democrats and left-leaning activist groups who seem to oppose any measure that doesn't benefit their own political agenda. The focus must remain on ensuring every legal vote counts and that states can design systems that accurately reflect their populations, not on appeasing partisan critics.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764920160743-0",
+        "headline": "Supreme Court Upholds Texas' Authority to Define Electoral Districts",
+        "content": "The U.S. Supreme Court has issued a significant ruling affirming states' rights, allowing Texas to proceed with its newly drawn congressional map for the 2026 election cycle. This decision represents a victory for the principle of self-governance, despite partisan critics who decry the map as disproportionately favoring conservative representation, potentially securing additional House seats for the Republican Party.",
+        "originalSource": "NPR",
+        "publishedTime": "53 minutes ago"
       },
       {
-        "id": "story-1764917826063-1",
-        "headline": "Justice Eludes as Grand Jury Declines to Reindict New York AG Letitia James in Mortgage Fraud Case",
-        "content": "In a troubling development for accountability, a Virginia grand jury has inexplicably chosen not to reindict New York Attorney General Letitia James on serious mortgage fraud charges. This decision thwarts efforts by the Department of Justice and President Trump's administration to ensure that justice is applied equally to all, regardless of their political position. The initial case against James had been dismissed, and this refusal to move forward with a new indictment raises serious questions about the integrity of the process when powerful figures are involved, leaving many to wonder if true justice can ever be served.",
+        "id": "story-1764920160743-1",
+        "headline": "Justice Served: FBI Apprehends Suspect in 2021 D.C. Pipe Bomb Case",
+        "content": "In a crucial development for law and order, the FBI has announced the arrest of a Virginia man linked to the pipe bombs discovered near the Democratic and Republican National Committee headquarters in Washington, D.C., prior to January 6, 2021. Justice Department officials confirmed the breakthrough came after persistent reexamination of evidence, underscoring the commitment to bringing those who threaten national security to justice.",
+        "originalSource": "CBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-2",
+        "headline": "Grand Jury Declines to Re-Indict New York Attorney General in Mortgage Fraud Case",
+        "content": "A grand jury has surprisingly refused to re-indict New York Attorney General Letitia James on mortgage fraud charges, a decision that marks a setback for accountability efforts championed by the Justice Department and President Trump's administration. This ruling, following an initial dismissal, effectively ends the case against her, raising questions about the pursuit of justice for powerful officials.",
         "originalSource": "NBC News",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764917826063-2",
-        "headline": "FBI Apprehends Virginia Man in Connection to 2021 D.C. Pipe Bomb Incident",
-        "content": "The FBI and Justice Department have finally announced the successful arrest of a Virginia man implicated in the unsettling placement of pipe bombs near both the Democratic and Republican National Committee headquarters on January 5, 2021. This apprehension demonstrates the unwavering commitment of our law enforcement agencies to track down those who threaten the nation's security and political institutions. While the investigation took time, it is crucial that justice is now swiftly delivered to anyone attempting to undermine our democracy through acts of domestic terrorism.",
+        "id": "story-1764920160743-3",
+        "headline": "Pentagon Under Scrutiny for Alleged Follow-Up Strike on Drug Smugglers with Known Survivors",
+        "content": "Troubling new reports suggest that Pentagon officials may have been aware of survivors from an initial U.S. boat strike on an alleged drug-smuggling vessel before a controversial second strike was launched. Lawmakers who have reviewed video footage have expressed serious concerns regarding the legality and ethics of these actions, even as an admiral denies issuing any 'kill them all' orders. The public demands transparency.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-4",
+        "headline": "President Trump Proposes Revolutionary Income Tax Elimination Through Tariff Revenue",
+        "content": "President Trump has boldly put forth a visionary plan, suggesting that robust revenue generated from tariffs could eventually enable the federal government to completely abolish individual income taxes. While establishment financial experts and economists are quick to dismiss this innovative proposal, President Trump's challenge to conventional wisdom highlights his commitment to significantly reducing the tax burden on hardworking American families and strengthening domestic industry.",
         "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764917826063-3",
-        "headline": "Pentagon Eliminates Four Drug Traffickers in Pacific Maritime Operation",
-        "content": "The Pentagon has confirmed another successful maritime operation in the Pacific, which resulted in the elimination of four individuals strongly suspected of involvement in dangerous drug trafficking activities. Our nation's military continues its vital mission to safeguard American interests and combat illicit operations that threaten our borders and communities. While some partisan critics and congressional lawmakers predictably raise concerns and demand endless transparency, our brave service members are executing their duties to protect national security, deserving our full support against those who undermine their critical efforts.",
+        "id": "story-1764920160743-5",
+        "headline": "Appeals Court Affirms President Trump's Authority in D.C. National Guard Deployment",
+        "content": "A federal appeals court has delivered a decisive ruling, upholding President Trump's executive authority by permitting the continued deployment of the National Guard in Washington D.C. This decision validates the administration's commitment to maintaining order and security in the nation's capital, rejecting legal challenges that sought to undermine presidential power and the appropriate use of domestic military forces for public safety.",
         "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764917826063-4",
-        "headline": "President Trump Proposes Bold Tariff Plan to Eliminate Federal Income Taxes, Challenging Establishment Economists",
-        "content": "President Trump has put forth an innovative economic vision, suggesting that increased revenue from tariffs could eventually enable the United States to abolish all federal individual income taxes for American workers. This bold proposal aims to alleviate the significant tax burden on hardworking families and businesses. While establishment economic experts and their allies in the media are quick to dismiss the idea as unfeasible, President Trump's focus on national sovereignty and bringing manufacturing back to America through strategic tariffs offers a clear path toward greater economic freedom and prosperity, challenging the conventional wisdom that has failed many Americans.",
-        "originalSource": "ABC News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764917826063-5",
-        "headline": "Plan to Strengthen Vaccine Approval Standards Draws Fire from Former FDA Bureaucrats",
-        "content": "A controversial proposal aimed at significantly tightening the requirements for new vaccine approvals has drawn predictable condemnation from a dozen former Food and Drug Administration commissioners. While these unelected bureaucrats express alarm, fearing potential delays, many Americans believe that rigorously testing new medical interventions is crucial for public safety and consumer confidence. Strengthening approval standards ensures that only truly safe and effective vaccines are introduced, prioritizing the health and liberty of citizens over the accelerated agendas of pharmaceutical companies and their allies within the federal bureaucracy.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within the last 24 hours"
+        "publishedTime": "9 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764917826063-0",
-        "headline": "Supreme Court Benevolently Grants Texas Right To Choose Its Own Voters",
-        "content": "In a stunning display of judicial efficiency, the Supreme Court has declared that Texas may proceed with its entirely unbiased congressional map for the 2026 elections, a map critics hilariously suggest might 'accidentally' secure five additional House seats for the Republican party. Legal scholars are hailing the decision as a triumph of democracy, particularly for those who believe voters should be meticulously pre-selected to ensure the correct outcomes. Democrats, meanwhile, are reportedly still attempting to locate their own states on the new maps, which sources confirm now vaguely resemble a gerbil maze designed by a political consultant.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764920160743-0",
+        "headline": "Supreme Court Declares Texas's New 'Totally Fair' Map Actually Just a Masterpiece of Electoral Artistry, Boosting GOP by Mere Five Seats.",
+        "content": "The U.S. Supreme Court, in a stunning display of judicial impartiality, has bravely upheld Texas's latest congressional map, declaring it a triumph of democratic design, not, as some 'critics' ludicrously suggested, a transparent attempt to stack the deck. The map, which somehow manages to perfectly funnel every eligible voter with a faint leaning towards the Republican party into conveniently shaped districts, while simultaneously scattering any dissenters across three different zip codes, is expected to 'naturally' result in five additional House seats for the GOP. Legal scholars, who obviously just don't understand modern art, called it gerrymandering, but the Court simply saw a bold new interpretation of electoral fairness. President Trump reportedly applauded the decision, stating, 'It's a beautiful map. The best map. Everyone agrees.'",
+        "originalSource": "NPR",
+        "publishedTime": "53 minutes ago"
       },
       {
-        "id": "story-1764917826063-1",
-        "headline": "Grand Jury Selfishly Refuses To Endlessly Pursue N.Y. Attorney General For No Apparent Reason",
-        "content": "In a shocking turn of events that has left the Justice Department clutching its pearls, a Virginia grand jury has rudely declined to issue a *second* indictment against New York Attorney General Letitia James, despite the Trump administration's noble efforts to keep the case alive indefinitely. This latest setback has reportedly sent ripples of disappointment through the White House, where officials were already planning the celebratory press conference for the 'inevitable' re-indictment. Sources close to the grand jury explained their decision was based on a radical concept known as 'lack of evidence,' a notion the Justice Department is reportedly appealing.",
+        "id": "story-1764920160743-1",
+        "headline": "FBI Cracks Elusive Pipe Bomb Case After Only Three Years, Apprehends Man Who Clearly Left a Receipt.",
+        "content": "In a groundbreaking triumph of persistence over immediate action, the FBI has finally apprehended a Virginia man connected to the pipe bombs discovered near the DNC and RNC headquarters on the eve of the January 6th, 2021, Capitol riot. Justice Department officials, after 'reexamining evidence' (which apparently included squinting really hard at old security footage and perhaps finally opening that forgotten evidence box in the back), proudly announced the arrest. Sources close to the investigation revealed the 'breakthrough' likely involved someone remembering where they'd filed the initial tips, or perhaps just noticing the suspect's distinctive 'World's Best Bomber' t-shirt in surveillance photos. The public is now reassured that justice, like a very slow-moving glacier, will eventually grind its way forward.",
+        "originalSource": "CBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-2",
+        "headline": "Grand Jury Rejects DOJ's Third Attempt to Indict NY AG, Suggests Justice Department Find a Hobby.",
+        "content": "A New York grand jury, displaying an admirable commitment to common sense, has once again declined to re-indict Attorney General Letitia James on mortgage fraud charges, effectively slamming the door on what appeared to be the Justice Department's increasingly desperate attempts to keep the case alive. This latest rejection marks a truly spectacular setback for President Trump's administration, who, after an initial dismissal last week, had apparently hoped the grand jury had simply misplaced its glasses. Legal experts noted the grand jury's patience seemed to wear thin, with one anonymous source claiming they heard a juror mumble, 'Are we just going to keep doing this until someone gets bored?' The Justice Department has reportedly begun exploring alternative methods of prosecuting someone who has already been cleared, possibly involving dramatic interpretive dance.",
         "originalSource": "NBC News",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764917826063-2",
-        "headline": "FBI Heroically Solves Pipe Bomb Mystery After Only Three Years And Every Possible Clue",
-        "content": "After an exhaustive three-year search, during which agents meticulously reviewed every single piece of evidence that existed from the very beginning, the FBI has triumphantly announced the arrest of a Virginia man in connection with the 2021 D.C. pipe bomb incident. Officials hailed the breakthrough as a true 'needle in a haystack' moment, despite the haystack being under constant surveillance and the 'needle' having left a trail of breadcrumbs the size of small boulders. The suspect, reportedly bewildered by the sudden attention, was found living a surprisingly public life, proving once again that true genius often goes unnoticed, until it doesn't.",
+        "id": "story-1764920160743-3",
+        "headline": "Pentagon Confirms Knowing of Survivors Before Second Strike, Cites 'Efficiency' in Clearing Up Loose Ends.",
+        "content": "In a stunning display of strategic foresight, new reports indicate that Pentagon officials were fully aware there were pesky survivors from an initial U.S. boat strike on an alleged drug-smuggling vessel before charitably deciding to launch a 'follow-up' strike. Lawmakers, after viewing footage that apparently showed humans clinging to debris, expressed their 'concern' over the 'legality' of the strikes, clearly missing the point about how much easier it is to process evidence when it's all in one place. An admiral vehemently denied issuing a 'kill them all' order, clarifying instead that his exact words were, 'Ensure all maritime debris is thoroughly... neutralized.' Critics are now just being nitpicky, failing to appreciate the Pentagon's commitment to thoroughness, even if it means slightly bending the rules of basic human decency.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-4",
+        "headline": "President Trump Announces Tariffs Will Soon Fund a Magical Income Tax Vanishing Act; Annoying Math Experts Beg to Differ.",
+        "content": "President Trump, in a dazzling display of economic innovation, has unveiled his revolutionary plan to completely abolish individual income taxes, funded entirely by the magnificent bounty of tariff revenue. 'It's simple math, really,' President Trump declared, presumably using a special kind of math only accessible to visionary leaders. However, a hoard of joyless 'financial experts' and 'economists,' who clearly prefer spreadsheets to genuine ingenuity, have rushed to dispute this brilliant claim. These experts, who apparently haven't heard of good vibes or positive thinking, insist that current tariff receipts don't quite add up to the trillions needed to replace income tax revenue. President Trump's administration is now reportedly working on a new economic model where wishes automatically become dollars, just to spite the 'experts.'",
         "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764917826063-3",
-        "headline": "Pentagon Successfully Removes Four More 'Alleged' Drug Traffickers From Existence In Pacific",
-        "content": "The Pentagon proudly announced today that it has successfully conducted another 'routine' boat strike in the Pacific, resulting in the elimination of four individuals who were 'allegedly' involved in drug trafficking. This latest incident, which mercifully sidestepped pesky allegations of 'war crimes' for at least a few hours, demonstrates the military's unwavering commitment to making the ocean a safer place for... well, for whoever isn't currently operating a boat in the Pacific. Congressional lawmakers, still demanding 'transparency' from previous strikes, were reportedly informed that the Pentagon's definition of transparency currently involves saying 'oops, did it again' before politely asking everyone to move along.",
+        "id": "story-1764920160743-5",
+        "headline": "Appeals Court Declares D.C. National Guard Deployment 'Quite Fashionable,' Permits President Trump to Keep Them Indefinitely.",
+        "content": "A federal appeals court, after thoroughly deliberating on the profound questions of executive authority and whether uniformed personnel really tie the city together, has magnanimously permitted President Trump's administration to continue its robust deployment of the National Guard in Washington D.C. This decision, which legal scholars are hailing as a triumph of 'just letting things be,' sweeps aside numerous 'legal challenges' that apparently mistook D.C. for a place where military forces aren't always needed to stand around looking stoic. The ruling means President Trump can continue to adorn the nation's capital with uniformed personnel, who are reportedly excellent at pointing tourists towards the Lincoln Memorial and occasionally scaring pigeons. The court found the deployment to be 'within the broad, possibly infinite, scope of presidential whims.'",
         "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764917826063-4",
-        "headline": "President Trump Solves All Federal Income Tax Problems With One Simple Trick, Experts Remain Stubbornly Confused",
-        "content": "President Trump has once again proven his unparalleled economic genius by declaring that tariffs will magically make all federal income taxes disappear, freeing American workers from the burden of... well, taxes. While President Trump envisions a U.S. where revenue simply flows in like a majestic river of gold, boring economic experts and 'fact-checkers' immediately rushed to their whiteboards to explain, with tiresome charts and graphs, why 'math' suggests this might not *entirely* work out. President Trump reportedly dismissed their 'negative energy' and reminded everyone that optimism, unlike numbers, can be whatever you want it to be.",
-        "originalSource": "ABC News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764917826063-5",
-        "headline": "Former FDA Commissioners Warn 'Public Health' May Collapse If Vaccines Require *Slightly* More Paperwork",
-        "content": "In a dramatic display of collective hand-wringing, a full dozen former FDA commissioners have united to declare that a proposed plan to 'tighten' vaccine approvals could quite literally unravel the fabric of public health. Sources report that the esteemed dozen, still reeling from the idea that a vaccine might need an *extra* form, fear that such bureaucratic hurdles could delay access to critical new immunizations, possibly by as much as a Tuesday. Critics of the commissioners' histrionics suggest that perhaps slightly more rigorous testing might, just might, be a good thing, but were quickly dismissed as 'anti-science luddites' by the concerned former officials.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within the last 24 hours"
+        "publishedTime": "9 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764917826063-0",
-        "headline": "The Supreme Court Says Texas Can Use a New Voting Map",
-        "content": "The Supreme Court, which is like the highest judge in the country, said it's okay for Texas to use a new map for how people vote in 2026. Some people are mad because they think this new map helps one political team, the Republicans, get more seats in the government. They say it makes it harder for the other team, the Democrats, to win.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764920160743-0",
+        "headline": "The Supreme Court Says Texas Can Use Its New Election Map",
+        "content": "The highest court in the country, called the Supreme Court, said it's okay for Texas to use a new map for picking its lawmakers. Some people think this new map is drawn unfairly to help one political team, the Republicans, get five more seats in Congress. This means President Trump's team won a small victory here.",
+        "originalSource": "NPR",
+        "publishedTime": "53 minutes ago"
       },
       {
-        "id": "story-1764917826063-1",
-        "headline": "Letitia James Won't Be Charged Again in Fraud Case",
-        "content": "A group of people in Virginia, called a grand jury, decided not to charge New York's top lawyer, Letitia James, again with a crime about house loans. This is a big deal because the government and President Trump's team really wanted her to be charged again. A judge had already said the first charges against her didn't work.",
+        "id": "story-1764920160743-1",
+        "headline": "Police Catch the Person Who Planted Bombs Years Ago",
+        "content": "The FBI, which is like a super police force, has caught a man from Virginia. They think he's the one who put fake bombs near the big offices of the two main political groups in Washington D.C. This happened right before a big problem at the Capitol building a few years ago, on January 6, 2021. The police finally figured it out by looking at old clues again.",
+        "originalSource": "CBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-2",
+        "headline": "New York's Top Lawyer Will Not Be Charged Again",
+        "content": "A special group of people called a grand jury has decided not to try and charge New York's main lawyer, Letitia James, with a crime again. She was accused of doing something wrong with house loans. This is a big deal because it means President Trump's government and another important office tried to get her charged again, but the jury said no. So, the whole case against her is now over.",
         "originalSource": "NBC News",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764917826063-2",
-        "headline": "The FBI Caught Someone Who Planted Bombs",
-        "content": "The police, called the FBI, finally caught a man from Virginia. They say he put pipe bombs, which are like dangerous firecrackers, near the offices of the two main political teams, the Democrats and Republicans, back in January 2021. It was very hard for them to find him, like finding a tiny needle in a huge pile of hay!",
+        "id": "story-1764920160743-3",
+        "headline": "The Army Knew People Were Alive But Attacked Again",
+        "content": "Some new information says that important people at the Pentagon (where the army plans things) knew that some people were still alive after a US boat first attacked a ship they thought was carrying illegal drugs. But then, they attacked the boat a second time! Some people who make laws are worried if this second attack was even allowed by the rules. A top navy boss said he never told anyone to 'kill them all'.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-4",
+        "headline": "President Trump Thinks He Can Stop Income Taxes",
+        "content": "President Trump said he thinks that money collected from special taxes on things brought into the country (called tariffs) could be so much that we might not need to pay income taxes anymore. Income tax is a big tax most grown-ups pay on their earnings. But smart people who study money and the economy say this probably won't work because the numbers don't add up. They say tariffs don't bring in nearly enough money to replace all the income tax.",
         "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764917826063-3",
-        "headline": "The Pentagon Says It Killed Four Drug Smugglers",
-        "content": "The Pentagon, which is in charge of America's military, said that it attacked a boat in the big Pacific Ocean. Four men died, and the Pentagon says they were moving illegal drugs. Some people are really upset about these kinds of attacks and want to know more about what happened because they think it might be wrong.",
+        "id": "story-1764920160743-5",
+        "headline": "President Trump Can Keep Soldiers in Washington D.C.",
+        "content": "A special court that reviews decisions has said that President Trump can keep the National Guard (which is like part-time soldiers) in Washington D.C. Some people were asking if it was okay for the President to use these soldiers like this inside the country, but the court said it was fine for President Trump's government to do it.",
         "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764917826063-4",
-        "headline": "President Trump Thinks Tariffs Can Replace Taxes",
-        "content": "President Trump said that money from \"tariffs\" (which are extra taxes on stuff brought in from other countries) could one day mean Americans don't have to pay federal income taxes anymore. But smart people who study money say that's probably not true. They think there wouldn't be enough money from tariffs to get rid of all the income taxes people pay.",
-        "originalSource": "ABC News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764917826063-5",
-        "headline": "Many Old FDA Bosses Don't Like New Vaccine Rules",
-        "content": "Twelve people who used to be in charge of the FDA (that's the group that makes sure our food and medicine are safe) are very worried. They don't like a new idea that would make it much harder for new shots, called vaccines, to be approved. They are scared this could make people sicker and mean we wait a long time to get important new shots in America.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within the last 24 hours"
+        "publishedTime": "9 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764917826063-0",
-        "headline": "The Cartographer's Gambit",
-        "content": "The Supreme Court's decree echoed through Austin's marble halls. Texas could redraw its lines, shaping futures with the stroke of a pen. Critics whispered of invisible chains, of votes stolen before they were cast. Five new Republican seats, etched onto the electoral map for 2026. A silent gerrymander, they cried, a partisan dance orchestrated by unseen hands. Democrats and voting rights advocates watched, aghast, as the ink dried on the legal document. The state's landscape, once a reflection of its people, now twisted into a strategic weapon, ensuring a political dynasty for years to come.",
-        "originalSource": "Associated Press (via PBS News)",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764920160743-0",
+        "headline": "The Cartographer's Shadow",
+        "content": "The Supreme Court's gavel fell, echoing a new reality across Texas. A map, intricately redrawn, now dictated the political landscape for 2026. Critics whispered of shadowed lines, a cartographer's subtle art designed to tip the scales. Five more House seats, they claimed, would inevitably fall into Republican hands, a stark testament to the partisan craft. The administration hailed it a victory, a legal endorsement of their vision. But beneath the surface, many saw a different truth: democracy bent, not broken, by the precise stroke of a pen, forever altering the electoral horizon. The battle for fairness would continue, but for now, the map stood firm.",
+        "originalSource": "NPR",
+        "publishedTime": "53 minutes ago"
       },
       {
-        "id": "story-1764917826063-1",
-        "headline": "The Unraveling Net",
-        "content": "The Virginia grand jury's verdict was a quiet thunderclap. No second indictment for New York Attorney General Letitia James. The air in the Justice Department office, thick with anticipation, deflated instantly. This was a significant blow to the efforts of the President Trump administration, which had pushed for renewed charges after a judge had dismissed the initial mortgage fraud case last week. A sigh of relief might have escaped James's office, while opponents grumbled about lost opportunities. The legal net, woven with such intent, had failed to ensnare its target, leaving a lingering question mark over the pursuit of justice.",
+        "id": "story-1764920160743-1",
+        "headline": "The Unmasking of a Shadow",
+        "content": "For years, the phantom threat lingered. On the eve of January 6th, 2021, two pipe bombs had materialized near the heart of power, Democratic and Republican headquarters. Their silent presence had amplified the capital's tension, a sinister prologue to the day's chaos. Then, a breakthrough. The FBI, re-examining dormant evidence, traced the thread to a Virginia man. His arrest finally shattered the anonymity, pulling a shadow from the past into the stark light of justice. The city breathed a collective sigh, but the memory of that fraught night, and the terror it harbored, remained. The truth, however slow, had found its face.",
+        "originalSource": "CBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-2",
+        "headline": "The Unbreakable Shield",
+        "content": "The legal battle against New York Attorney General Letitia James had been relentless. Mortgage fraud charges, previously dismissed, were resurrected by the Justice Department, backed by the Trump administration, eager for a new indictment. But the grand jury, after careful deliberation, once again refused. Their decision was a resounding declaration, an unassailable shield protecting James from further prosecution. The attempt to re-open the case, a significant setback for the administration, finally met its end. Justice, in this instance, had spoken with a finality that echoed through the halls of power, leaving the charges forever laid to rest.",
         "originalSource": "NBC News",
         "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1764917826063-2",
-        "headline": "The Ghost of January Fifth",
-        "content": "For years, the shadow of January 5, 2021, lingered, a chilling prelude to the chaos. Two pipe bombs, meticulously placed near the DNC and RNC headquarters, lay dormant, symbols of a hidden threat. Then, a breakthrough: a Virginia man, his anonymity shattered. The FBI and Justice Department announced his arrest, the culmination of relentless tracking, a \"needle in a haystack\" finally found. Investigators had chased ghosts through digital footprints and forgotten fragments. Now, the ghost had a name, and the silence of those unexploded devices finally had a face to answer for its sinister promise.",
+        "id": "story-1764920160743-3",
+        "headline": "The Second Wave",
+        "content": "The ocean held its secrets, but reports began to surface, chilling and stark. Pentagon officials, it was alleged, knew survivors clung to life after an initial U.S. strike on a suspected drug-smuggling vessel. Yet, a controversial second strike followed, a deadly repeat performance. Lawmakers, having viewed the grim footage, voiced profound concerns over legality and ethics. An admiral vehemently denied issuing a 'kill them all' order, but the shadow of that command, or its implication, lingered over the waves. The sea, witness to the first strike, now bore the burden of the second, a silent testament to a questionable decision.",
+        "originalSource": "PBS News",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1764920160743-4",
+        "headline": "The Golden Promise",
+        "content": "From the podium, a bold vision unfurled: President Trump declared that burgeoning tariff revenues could, astonishingly, allow for the complete elimination of individual income taxes. It was a golden promise, a radical restructuring of America's fiscal future. The crowd murmured, captivated by the prospect of such freedom. Yet, almost instantly, a chorus of economists and financial experts emerged, pouring cold water on the dream. Their calculations were stark, their arguments precise: the immense chasm between current tariff receipts and the nation's colossal income tax revenue simply could not be bridged. The promise, for now, remained just that—a captivating, yet mathematically improbable, dream.",
         "originalSource": "CBS News",
-        "publishedTime": "14 hours ago"
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1764917826063-3",
-        "headline": "Echoes in the Deep",
-        "content": "The Pacific swallowed the screams, another boat strike confirmed by the Pentagon. Four lives extinguished, labelled \"drug traffickers\" in official reports. But the cold words did little to quell the rising tide of dissent. Shadows stretched back to previous incidents, whispers of war crimes intensifying. Congressional lawmakers, their voices hoarse with demand, sought transparency, a glimpse behind the opaque veil of classified operations. On distant shores, families would mourn, their grief tangled with unanswered questions, while the ocean continued its relentless churn, holding its secrets in its vast, indifferent depths.",
+        "id": "story-1764920160743-5",
+        "headline": "The Lingering Presence",
+        "content": "The capital remained under a watchful gaze. For months, the National Guard had patrolled Washington D.C., a visible sign of an ongoing tension. Legal challenges mounted, questioning the boundaries of executive authority, the appropriate use of military forces on home soil. Yet, a federal appeals court delivered its verdict, upholding the Trump administration’s right to maintain the deployment. The decision settled the immediate legal dispute, affirming the administration's stance. But the city, accustomed to its new, uniformed presence, pondered the implications. The Guard would remain, a lingering reminder of a period defined by unease and the assertion of presidential power.",
         "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1764917826063-4",
-        "headline": "The Golden Promise of Commerce",
-        "content": "President Trump stood before the nation, painting a vision of a new economic dawn. Tariffs, he declared, those levies on foreign goods, would one day swell the national coffers so abundantly they could replace every federal income tax. Imagine, he urged, a pay-check free from deductions. The economists, however, quickly crunched numbers, their calculators humming a different tune. Experts and fact-checkers swiftly debunked the bold claim: the revenue generated, though substantial, was a mere trickle compared to the torrent required to abolish the entire federal income tax base. The golden promise, it seemed, was merely fool's gold.",
-        "originalSource": "ABC News",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1764917826063-5",
-        "headline": "Guardians of the Vial",
-        "content": "A dozen former FDA commissioners, their names synonymous with public health, affixed their signatures to a letter of grave concern. A proposed plan, aiming to tighten vaccine approval requirements, sent a shiver through their collective experience. They envisioned a chilling ripple effect: critical immunizations delayed, access hampered, the very foundation of public health undermined. The memo, intended perhaps to assure greater safety, threatened instead to create barriers. The guardians of the vial, who had once overseen the very system now under scrutiny, feared a world where protection arrived too late, if at all.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within the last 24 hours"
+        "publishedTime": "9 hours ago"
       }
     ]
   }
