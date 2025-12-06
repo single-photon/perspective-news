@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765013650583,
+  "timestamp": 1765017633090,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765013583789-0",
-        "headline": "Individual Arrested for January 6th Pipe Bombs Reportedly Confesses, Highlighting Ongoing Threats to Democratic Process",
-        "content": "Sources indicate that the individual apprehended for planting pipe bombs near the DNC and RNC headquarters during the January 6th Capitol insurrection has reportedly confessed to investigators. This development underscores the persistent danger posed by right-wing extremism and the urgent need to address systemic vulnerabilities that enable such attacks on our democratic institutions.",
+        "id": "story-1765017559465-0",
+        "headline": "Supreme Court Prepares to Consider President Trump's Divisive Order Attacking Foundational Birthright Citizenship.",
+        "content": "The nation's highest court has agreed to hear arguments regarding the constitutionality of an order by President Trump that seeks to dismantle birthright citizenship, a cornerstone of the 14th Amendment. This momentous legal battle threatens to erode decades of established rights, disproportionately impacting immigrant families and communities of color, and could fundamentally alter the fabric of American citizenship by challenging a right guaranteed to all children born in the United States.",
+        "originalSource": "PBS News / The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765017559465-1",
+        "headline": "Judge Mandates Release of Epstein Grand Jury Transcripts, Exposing Systemic Failures in Accountability.",
+        "content": "In a significant move towards transparency and accountability, a federal judge has ordered the release of crucial documents, including grand jury transcripts, from the controversially abandoned 2005 and 2007 federal investigation into Jeffrey Epstein in Florida. This ruling offers a long-awaited opportunity to understand the systemic breakdowns and potential pressures that allowed a powerful figure like Epstein to evade proper justice, leaving countless victims without recourse and raising critical questions about how the justice system protects the elite.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765013583789-1",
-        "headline": "Judge Orders Release of Epstein Grand Jury Transcripts, Offering Glimmer of Accountability in Systemic Failure",
-        "content": "A judicial ruling has mandated the release of grand jury transcripts from the long-shelved 2005 and 2007 state investigations into financier Jeffrey Epstein in Florida. This decision, a win for media organizations, opens a window into the systemic failures that enabled Epstein's heinous crimes and the lack of accountability for powerful individuals who exploit and abuse. Transparency is a crucial step towards understanding how justice was denied for so long.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765017559465-2",
+        "headline": "Suspect in January 6 Pipe Bomb Case Reportedly Confesses, Highlighting Threats to Democratic Institutions.",
+        "content": "Federal investigators report a confession from the suspect involved in placing pipe bombs near the Democratic and Republican National Committee headquarters on January 6, 2021. Authorities believe this individual is a supporter of President Trump, a detail that underscores the grave dangers posed by political extremism and the urgent need to address the divisive rhetoric that fuels such attempts to undermine democratic processes and threaten public safety.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Today's news"
       },
       {
-        "id": "story-1765013583789-2",
-        "headline": "Frank Gehry, Visionary Architect Whose Work Reshaped Urban Landscapes, Dies at 96",
-        "content": "Frank Gehry, the highly celebrated architect renowned for his distinctively deconstructivist and unconventional designs, including iconic structures like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has passed away at 96. His prolific career sparked debates about the role of public art and architecture in shaping community spaces and influencing our built environment.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-3",
-        "headline": "Supreme Court to Examine Constitutionality of President Trump's Attempt to Undermine Birthright Citizenship",
-        "content": "The Supreme Court has agreed to review the constitutionality of President Trump's executive order that seeks to dismantle birthright citizenship, a cornerstone of the 14th Amendment. This crucial case will determine the future of a fundamental right and underscores an alarming attempt to redefine citizenship and target immigrant communities, challenging long-standing legal precedents and democratic values.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-4",
-        "headline": "San Diego's $30 Million Settlement for Teenager Killed by Police Highlights Urgent Need for Systemic Reform",
-        "content": "The City of San Diego has reached a significant $30 million settlement with the family of a 16-year-old boy fatally shot by police officers, following an encounter that has sparked intense public scrutiny and widespread demands for systemic police reform. While this financial resolution offers some measure of recompense, it starkly underscores the devastating human cost of unchecked police power and the critical necessity for comprehensive changes to policing practices and accountability mechanisms.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765013583789-5",
-        "headline": "CDC Panel Recommends Limiting Universal Hepatitis B Vaccine for Newborns, Raising Questions About Public Health Equity",
-        "content": "A CDC advisory panel has recommended discontinuing the universal birth-dose of the hepatitis B vaccine for all newborns, proposing instead that it be administered only to infants born to mothers identified as high-risk, citing currently low general risk levels. This shift in policy warrants careful consideration regarding potential implications for public health equity and the long-term protection of all children, especially those in vulnerable communities who may face barriers to later vaccination.",
+        "id": "story-1765017559465-3",
+        "headline": "Public Health Experts Voice Concern as CDC Panel Reverses Key Newborn Hepatitis B Vaccine Recommendation.",
+        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to end the universal recommendation for administering the hepatitis B vaccine at birth, a reversal of decades of standard practice in newborn care. This concerning decision, reportedly influenced by an RFK-appointed panel, raises serious questions among public health advocates about the potential impact on infant health outcomes and the erosion of evidence-based medical guidelines in favor of potentially less scientifically rigorous approaches.",
         "originalSource": "CBS News / The Guardian",
         "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765017559465-4",
+        "headline": "Inmate Escape in Louisiana Underscores Critical Need for Investment and Reform in Carceral Infrastructure.",
+        "content": "A widespread search is currently underway in Louisiana for two inmates who escaped from a jail facility by exploiting a damaged wall and utilizing sheets to scale a barrier. This concerning incident highlights systemic issues within the carceral system, prompting critical questions about the chronic underfunding, neglected maintenance, and inadequate conditions in correctional facilities that compromise both public safety and the humane treatment of incarcerated individuals, necessitating urgent reform and investment.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today's news"
+      },
+      {
+        "id": "story-1765017559465-5",
+        "headline": "Global Cooperation and Cultural Exchange Highlighted as 2026 FIFA Men's World Cup Groups Are Announced.",
+        "content": "The official draw for the 2026 FIFA Men's World Cup has been completed, setting the stage for a tournament that embodies global cooperation and cultural exchange, hosted jointly by the United States, Canada, and Mexico. As Team USA and other nations learn their group stage opponents, the event promises to be a unifying spectacle, transcending borders and offering a powerful platform for international solidarity through the world's most popular sport.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Live updates"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765013583789-0",
-        "headline": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators, AP sources say",
-        "content": "Sources report that the individual arrested in connection with the placement of pipe bombs near the DNC and RNC headquarters during the January 6th Capitol attack has allegedly confessed to investigators.",
+        "id": "story-1765017559465-0",
+        "headline": "Supreme Court to decide on legality of Trump birthright citizenship order",
+        "content": "The Supreme Court has agreed to hear a case concerning the constitutionality of a previous order by President Trump aimed at ending birthright citizenship, a right granted by the 14th Amendment. This sets the stage for a significant legal battle over a decades-old constitutional right for all children born in the United States.",
+        "originalSource": "PBS News / The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765017559465-1",
+        "headline": "Grand jury transcripts from abandoned Epstein investigation in Florida ordered released",
+        "content": "A federal judge has mandated the release of materials, including grand jury transcripts, from the controversial, abandoned 2005 and 2007 federal investigation into Jeffrey Epstein in Florida. The ruling aims to provide transparency on the decision-making process that led to the original case being dropped.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765013583789-1",
-        "headline": "Grand jury transcripts from abandoned Epstein investigation in Florida can be released, judge rules",
-        "content": "A judge has ordered the release of grand jury transcripts from the long-dormant 2005 and 2007 state investigation into the late financier Jeffrey Epstein in Florida, granting a victory to media organizations.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765017559465-2",
+        "headline": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators",
+        "content": "The suspect in the case of pipe bombs placed near the Democratic and Republican National Committee headquarters on January 6, 2021, has reportedly confessed to the crime during questioning by federal investigators. The individual is believed by authorities to be a supporter of former President Trump.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Today's news"
       },
       {
-        "id": "story-1765013583789-2",
-        "headline": "Frank Gehry, the most celebrated architect of his time, dies at 96",
-        "content": "Renowned architect Frank Gehry, known for his strikingly unconventional and deconstructivist designs like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has passed away at the age of 96.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-3",
-        "headline": "US supreme court to decide on legality of Trump birthright citizenship order",
-        "content": "The Supreme Court has agreed to hear the case concerning the constitutionality of the Trump administration's executive order attempting to end birthright citizenship, a provision of the 14th Amendment.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-4",
-        "headline": "San Diego agrees to pay $30m to family of boy, 16, shot dead by police",
-        "content": "The city of San Diego has agreed to a landmark $30 million settlement with the family of a 16-year-old boy who was fatally shot by police officers during an encounter that has drawn significant scrutiny and calls for reform.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765013583789-5",
-        "headline": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
-        "content": "A CDC advisory panel has voted to recommend stopping the universal birth-dose of the hepatitis B vaccine for newborns, suggesting it only for infants with high-risk mothers, citing current low-risk levels.",
+        "id": "story-1765017559465-3",
+        "headline": "CDC advisory panel votes to stop recommending birth dose of hepatitis B vaccine for newborns",
+        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) voted to discontinue the universal recommendation for administering the hepatitis B vaccine at birth. The move, influenced by an RFK-appointed panel, reverses a long-standing standard practice for newborn care in the United States.",
         "originalSource": "CBS News / The Guardian",
         "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765017559465-4",
+        "headline": "Two Louisiana inmates on the run after escaping through damaged jail wall",
+        "content": "A massive manhunt is underway in Louisiana for two inmates accused of violent crimes who successfully escaped from a jail facility. Officials reported that the prisoners removed pieces of a damaged wall and then used sheets to scale a wall, allowing them to flee custody.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today's news"
+      },
+      {
+        "id": "story-1765017559465-5",
+        "headline": "2026 FIFA Men's World Cup groups revealed; Team USA learns its opponents",
+        "content": "The official draw for the 2026 FIFA Men's World Cup has concluded, finalizing the group stage brackets for the tournament which will be hosted across the United States, Canada, and Mexico. Team USA has learned the identity of its opponents, while Argentina is set to open its defense against Algeria.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Live updates"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765013583789-0",
-        "headline": "Justice Approaches as Pipe Bomb Suspect Reportedly Confesses to Authorities",
-        "content": "Sources indicate the individual apprehended in connection with pipe bombs placed near the Democrat and Republican National Committee headquarters during the January 6th Capitol unrest has allegedly confessed to investigators. This development signals a crucial step towards accountability for actions threatening our nation's foundational institutions.",
+        "id": "story-1765017559465-0",
+        "headline": "Supreme Court Considers Presidential Authority on Birthright Citizenship Debate",
+        "content": "The Supreme Court has rightly agreed to hear a pivotal case challenging the established interpretation of birthright citizenship, stemming from an order issued by President Trump. This crucial legal battle seeks to clarify the true constitutional intent of the 14th Amendment, ensuring national sovereignty and the integrity of our borders are upheld, rather than serving as an open invitation.",
+        "originalSource": "PBS News / The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765017559465-1",
+        "headline": "Transparency Demanded as Grand Jury Transcripts from Abandoned Epstein Investigation Ordered Released",
+        "content": "A federal judge has mandated the release of critical grand jury materials, including transcripts, from the controversially shuttered 2005 and 2007 federal investigation into Jeffrey Epstein in Florida. This long-overdue ruling promises much-needed transparency, exposing the decision-making process that allowed a powerful predator to escape justice and shining a light on potential corruption within the system.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765013583789-1",
-        "headline": "Transparency Prevails as Judge Orders Release of Epstein Grand Jury Records",
-        "content": "A judge has mandated the release of grand jury transcripts from the previously stalled 2005 and 2007 Florida state investigation into the late financier Jeffrey Epstein. This judicial decision represents a significant victory for transparency, allowing the public to potentially uncover long-hidden truths surrounding this troubling case and ensuring accountability for all involved.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765017559465-2",
+        "headline": "Suspect in DC Pipe Bomb Case Confesses to Investigators, Accountability Demanded",
+        "content": "The individual allegedly responsible for placing pipe bombs near the Democratic and Republican National Committee headquarters on January 6, 2021, has reportedly confessed to federal investigators. While authorities believe the individual to be a supporter of President Trump, this act of domestic terrorism demands swift and individual accountability, reinforcing that law and order must prevail against all political violence.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Today's news"
       },
       {
-        "id": "story-1765013583789-2",
-        "headline": "Architectural Icon Frank Gehry Leaves Behind a Lasting Legacy at 96",
-        "content": "Frank Gehry, a renowned architect celebrated for his distinctive and innovative designs, including the iconic Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has passed away at the age of 96. His remarkable career left an indelible mark on the global architectural landscape, showcasing individual brilliance and creative ingenuity.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-3",
-        "headline": "Supreme Court Will Review President Trump's Vital Birthright Citizenship Order",
-        "content": "The Supreme Court has agreed to deliberate on the constitutionality of President Trump's executive order aimed at reassessing birthright citizenship. This critical case will examine the interpretation of the 14th Amendment, upholding national sovereignty and the integrity of American citizenship, a core principle for our nation's future.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-4",
-        "headline": "San Diego Settles for $30 Million in Tragic Police Incident with Teen",
-        "content": "The city of San Diego has finalized a substantial $30 million settlement with the family of a 16-year-old boy who tragically lost his life in an encounter with police officers. While this significant payout reflects the gravity of the situation, it also underscores the immense pressures faced by law enforcement and the fiscal responsibilities borne by taxpayers.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765013583789-5",
-        "headline": "CDC Panel Recommends Limiting Universal Newborn Hepatitis B Vaccinations",
-        "content": "A Centers for Disease Control and Prevention advisory panel has voted to recommend discontinuing the universal birth-dose of the hepatitis B vaccine for newborns. Instead, they propose limiting it to infants whose mothers are identified as high-risk, a move that aligns with greater individual liberty and parental choice in healthcare decisions.",
+        "id": "story-1765017559465-3",
+        "headline": "CDC Panel Prioritizes Parental Choice, Reverses Universal Newborn Hepatitis B Vaccine Recommendation",
+        "content": "An advisory panel for the Centers for Development Control and Prevention (CDC) has commendably voted to discontinue the blanket recommendation for administering the hepatitis B vaccine at birth. This significant shift, influenced by a panel committed to sound science, reverses a long-standing practice and rightly moves towards empowering parents with greater authority over their newborns' health decisions, away from federal mandates.",
         "originalSource": "CBS News / The Guardian",
         "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765017559465-4",
+        "headline": "Dangerous Inmates Escape Louisiana Jail, Public Safety at Risk",
+        "content": "A widespread manhunt is actively underway in Louisiana for two violent criminals who successfully breached a jail facility, posing a clear and present danger to the public. Officials confirm the inmates exploited a damaged wall and used sheets to scale their way to freedom, highlighting critical security failures that must be immediately addressed to protect our communities.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today's news"
+      },
+      {
+        "id": "story-1765017559465-5",
+        "headline": "Team USA Prepares for Global Challenge as 2026 FIFA World Cup Groups Announced",
+        "content": "The official draw for the 2026 FIFA Men's World Cup has concluded, setting the stage for an exciting tournament hosted by the United States, Canada, and Mexico. Team USA now knows its opponents, ready to proudly represent our nation on the world stage, demonstrating American spirit and competitive excellence.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Live updates"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765013583789-0",
-        "headline": "Pipe Bomb Suspect Enthusiastically Confesses, Shares Pinterest Board Of Explosive Decor Ideas",
-        "content": "In a stunning display of legal efficiency, the individual accused of placing pipe bombs near the DNC and RNC headquarters during the January 6th Capitol kerfuffle has reportedly confessed to investigators with the unbridled glee of a child admitting to drawing on the walls. Sources close to the investigation reveal the suspect not only confessed to the bomb placement but also volunteered detailed schematics, a list of 'favorite explosive sounds,' and even offered to personally demonstrate proper fuse-lighting techniques. 'It was less an interrogation and more a masterclass in 'I Did It!'' reported one exhausted investigator.",
+        "id": "story-1765017559465-0",
+        "headline": "Supreme Court Bravely Agrees To Determine If Babies Should Be Allowed To Exist",
+        "content": "In a groundbreaking move that legal scholars are calling \"literally unprecedented if you read the 14th Amendment,\" the Supreme Court has bravely agreed to hear a case questioning President Trump's totally reasonable desire to rethink who gets to be a person. The court will consider whether the Constitution, a dusty old parchment, truly meant for all children born here to be citizens, or if some tiny humans have just been freeloading on American soil for generations. Legal experts are already preparing for a future where citizenship could be determined by a quick pop quiz or perhaps a reality TV show.",
+        "originalSource": "PBS News / The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765017559465-1",
+        "headline": "Shocking Grand Jury Transcripts From Epstein Case To Be Released Just 19 Years Too Late",
+        "content": "In a stunning display of \"better late than never, probably,\" a federal judge has ordered the release of grand jury transcripts from the Epstein investigation, proving that sometimes, justice just needs a really, really long nap. Advocates for transparency are reportedly thrilled that after nearly two decades, they might finally get a peek behind the curtain of decisions that led to the original case being mysteriously poof gone. Experts believe the documents will reveal exactly how many times someone said, \"Are we sure we want to prosecute this guy?\" before the case vanished into thin air.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765013583789-1",
-        "headline": "Judge Orders Release Of Epstein Transcripts, Confirming Everyone's Already Formed Opinions",
-        "content": "In a move that promises to be absolutely, utterly, completely shocking to exactly no one, a Florida judge has bravely ordered the release of grand jury transcripts from the long-abandoned 2005 and 2007 state investigation into late financier Jeffrey Epstein. Media organizations are celebrating this 'victory' by preparing to report 'new details' that somehow manage to confirm every dark whisper and conspiracy theory that has already been circulating since the dawn of the internet. Expect a lot of dramatic gasps and then a collective shrug as the world pretends to be surprised.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765017559465-2",
+        "headline": "January 6th Pipe Bomb Suspect Reportedly Confesses, Expresses Surprise Anyone Had To Ask",
+        "content": "Federal investigators were reportedly shocked when the suspect in the January 6th pipe bomb incident simply confessed, apparently baffled as to why anyone needed to drag out the questioning. The individual, widely believed to be a very enthusiastic supporter of President Trump, allegedly admitted to placing the devices near the Democratic and Republican National Committee headquarters, reportedly adding, \"I mean, who else would it be?\" Authorities are now considering whether to award him a medal for candor, or just several life sentences.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Today's news"
       },
       {
-        "id": "story-1765013583789-2",
-        "headline": "Frank Gehry's Buildings Spontaneously Crumple In Final Homage To Their Deconstructivist Creator",
-        "content": "Visionary architect Frank Gehry, whose buildings famously looked like they were having a very bad day, has reportedly passed away at the ripe old age of 96. Known for making structures appear as though they had just survived a major natural disaster or were perhaps designed by a very artistic earthquake, Gehry's death has sent shockwaves through the architectural world. Experts predict an immediate rise in 'straight line' construction and a desperate search for rulers, tools previously deemed 'quaint' by Gehry disciples. Many now fear their own Gehry-designed homes might spontaneously decide to reinterpret their own structural integrity.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-3",
-        "headline": "Supreme Court Ponders Whether Words In Constitution Actually Mean What They Say",
-        "content": "The Supreme Court, apparently with a surplus of free time and a burning desire to overthink things, has announced it will bravely tackle the thorny question of whether the 14th Amendment's birthright citizenship clause actually means... birthright citizenship. President Trump's executive order, which boldly attempted to simply declare a long-standing constitutional provision null and void, will now receive the full, agonizing scrutiny of nine highly intelligent individuals who are reportedly very good at reading. Legal scholars are already placing bets on how many footnotes will be needed to explain what 'all persons born or naturalized in the United States' could possibly imply.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-4",
-        "headline": "San Diego Solves All Its Problems With Single, Convenient $30 Million Check",
-        "content": "In a groundbreaking demonstration of municipal problem-solving, the city of San Diego has agreed to pay a cool $30 million to the family of a 16-year-old boy fatally shot by police officers, effectively declaring the situation 'paid in full.' City officials reportedly held a celebratory press conference featuring a giant novelty check, assuring residents that with this substantial payment, all calls for reform, accountability, and a thorough reevaluation of police practices have been miraculously fulfilled. 'Consider it a one-time subscription to 'Justice Plus',' announced a cheerful city spokesperson, 'with no further action required on our part.'",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765013583789-5",
-        "headline": "CDC Panel Declares Hepatitis B Officially 'Over,' Babies Now Immune To Everything",
-        "content": "In a move that has parents everywhere checking their calendars for April Fools' Day, a CDC advisory panel has boldly voted to recommend stopping the universal birth-dose of the hepatitis B vaccine for newborns. Citing 'current low-risk levels,' the panel suggests that only infants born to 'high-risk mothers' (who will, presumably, be issued special scarlet letters) actually need the vaccine. Experts are now scrambling to determine if 'low-risk levels' also mean we can stop washing our hands, driving safely, or looking both ways before crossing the street. Some anticipate the next recommendation will be to simply rub dirt on it.",
+        "id": "story-1765017559465-3",
+        "headline": "CDC Panel, Inspired By Ancient Wisdom And Good Vibes, Votes To Let Newborns Experience Life Unvaccinated",
+        "content": "In a bold move that some doctors are calling \"a fascinating experiment in public health,\" a CDC advisory panel has voted to cease recommending the universal hepatitis B vaccine for newborns. The decision, reportedly influenced by an RFK-appointed panel that consulted heavily with TikTok influencers and artisanal kombucha brewers, reverses decades of medical consensus. Experts are now eagerly awaiting to see if this new \"natural immunity from day one\" approach will lead to an unexpected boom in either incredibly healthy babies or, you know, hepatitis.",
         "originalSource": "CBS News / The Guardian",
         "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765017559465-4",
+        "headline": "Louisiana Inmates Demonstrate Ingenuity By Escaping Through Wall That Was Already Broken",
+        "content": "A massive manhunt has been launched in Louisiana after two inmates, accused of crimes that probably involved a distinct lack of spatial awareness, managed to escape from a local jail. Officials reported the duo achieved their daring breakout by simply \"removing pieces of a damaged wall,\" a detail that has jail administrators reportedly pondering whether to invest in \"walls that aren't already damaged.\" The inmates then bravely scaled a wall using sheets, proving that sometimes, the most sophisticated escape plan is just a really long piece of fabric and a profoundly unobservant guard.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today's news"
+      },
+      {
+        "id": "story-1765017559465-5",
+        "headline": "Team USA Ready To Shock World By Actually Competing In Upcoming World Cup",
+        "content": "The 2026 FIFA Men's World Cup group draw has finally concluded, revealing which unlucky nations will have to pretend to care about soccer in the United States, Canada, and Mexico. Team USA has reportedly learned the identity of its opponents, causing a mild ripple of excitement among the nation's 17 devoted soccer fans. Defending champions Argentina are set to kick off against Algeria, while the US team is bravely preparing to demonstrate that they are, in fact, capable of running around for 90 minutes without accidentally scoring on themselves.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Live updates"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765013583789-0",
-        "headline": "The Person Accused of Placing Pipe Bombs Has Confessed What They Did",
-        "content": "Sources are saying that the person who was caught for putting pipe bombs near important buildings in Washington D.C. has told investigators that they did it.",
+        "id": "story-1765017559465-0",
+        "headline": "The Supreme Court will look at President Trump's birthright citizenship plan.",
+        "content": "The Supreme Court, which is like the highest court in the country, has decided to hear a case about something President Trump wanted to do. He wanted to change a rule that says if you're born in America, you're an American citizen. This rule is called birthright citizenship and it's been around for a very long time, written in something called the 14th Amendment. Now, the Court will decide if President Trump's idea is allowed or not, which is a really big deal for kids born here.",
+        "originalSource": "PBS News / The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765017559465-1",
+        "headline": "A Judge Wants Old Papers Released About Jeffrey Epstein.",
+        "content": "A special judge has said that some old secret papers need to be shown to everyone. These papers are about a guy named Jeffrey Epstein and a big police investigation in Florida that stopped a long time ago, back in 2005 and 2007. The judge wants people to see these papers so they can understand why the police stopped looking into him back then. It's about being fair and open with everyone.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765013583789-1",
-        "headline": "A Judge Says Old Secrets About Jeffrey Epstein Can Be Shared Now",
-        "content": "A judge has decided that old secret papers from an investigation into a rich man named Jeffrey Epstein can now be shown to everyone. This is good news for people who report the news.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765017559465-2",
+        "headline": "The Person Who Placed Pipe Bombs in DC Has Said They Did It.",
+        "content": "Someone who put pipe bombs near the offices of the big political parties in Washington D.C. on January 6, 2021, has told the police that they did it. The police, who are federal investigators, believe this person liked President Trump.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Today's news"
       },
       {
-        "id": "story-1765013583789-2",
-        "headline": "Famous Building Designer Frank Gehry Has Passed Away at 96 Years Old",
-        "content": "Frank Gehry, a very famous person who designed really cool and different-looking buildings like the Guggenheim Museum, has died at 96 years old.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-3",
-        "headline": "The Supreme Court Will Look at President Trump's Idea About Citizenship",
-        "content": "The highest court in our country, called the Supreme Court, has agreed to decide if President Trump's idea to change who automatically becomes a citizen when they are born is allowed by the rules.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-4",
-        "headline": "San Diego City Will Pay a Lot of Money to a Family After a Sad Police Shooting",
-        "content": "The city of San Diego has agreed to give a huge amount of money, $30 million, to the family of a 16-year-old boy who was sadly shot by police. Many people have been asking questions about what happened.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765013583789-5",
-        "headline": "Doctors Say Fewer Babies Might Need a Hepatitis B Shot Right After They Are Born",
-        "content": "A group of doctors at the CDC has suggested that not all babies need a shot for hepatitis B right after they are born anymore. They think only babies whose moms might be at higher risk should get it.",
+        "id": "story-1765017559465-3",
+        "headline": "Doctors Might Stop Giving All Babies a Hepatitis B Shot.",
+        "content": "A group of doctors and experts who advise the CDC (which helps keep people healthy) has voted to change something important. For a long time, all new babies got a shot for something called Hepatitis B right after they were born. Now, this group thinks maybe not all babies need that shot right away. This is a big change to how babies have been cared for in America for many years.",
         "originalSource": "CBS News / The Guardian",
         "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765017559465-4",
+        "headline": "Two Bad Guys Escaped From Jail and Are Now Missing.",
+        "content": "Two prisoners, who are accused of doing some really bad things, have run away from a jail in Louisiana. Lots of police are looking for them everywhere. The police said the prisoners broke bits off a broken wall and then used bedsheets to climb over another wall to get out.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today's news"
+      },
+      {
+        "id": "story-1765017559465-5",
+        "headline": "The World Cup Football Teams Know Who They Will Play.",
+        "content": "The big drawing for the 2026 Men's FIFA World Cup is all done! This means all the teams now know who they will play against first in the big soccer tournament. The games will be played in the United States, Canada, and Mexico. Our own Team USA now knows which other teams they will play against. Also, the team that won last time, Argentina, will play against a team from Algeria first.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Live updates"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765013583789-0",
-        "headline": "Echoes of the Sixth",
-        "content": "The ghost of January Sixth still haunted the capital. For months, the shadows lingered, a metallic scent of fear clinging to the air around the DNC and RNC. Then, a voice, hesitant at first, broke the silence. The arrested individual, ensnared by the relentless pursuit of truth, finally unburdened himself. In hushed interview rooms, the weight of the pipe bombs, the chilling intent, the complicity in the day's chaos, all poured out. A confession, they said. Another piece of the dark mosaic revealed, yet the questions remained, echoing through the empty halls of power.",
+        "id": "story-1765017559465-0",
+        "headline": "The Fourteenth's Echo",
+        "content": "The highest court had taken up the case, a legal tempest brewing over the very bedrock of the nation. An order from President Trump, years ago, had sought to dismantle a fundamental promise: birthright citizenship, enshrined in the Fourteenth Amendment. Now, a battle loomed, a clash of interpretations that could reshape who belonged, who was truly an American from their first breath. Decades of tradition, a constitutional pillar, teetered. The halls of justice prepared for a debate that would echo through generations, determining the fate of a right once considered immutable. The nation held its breath, awaiting the verdict on its own identity.",
+        "originalSource": "PBS News / The Guardian",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765017559465-1",
+        "headline": "The Unsealed Secrets",
+        "content": "The judge's gavel fell, a decree echoing through the digital chambers. Years of silence, a shroud over the abandoned Epstein inquiry from 2005 and 2007 in Florida, were about to be lifted. Grand jury transcripts, whispers from a past investigation, would finally see the light. The public had demanded answers, a reckoning for why the original case, laden with unspeakable acts, had inexplicably vanished. Transparency, a fragile hope, was the goal. Each page unsealed promised to reveal not just names, but the very mechanisms of power and protection that allowed darkness to thrive. The truth, or at least a glimpse of it, was at hand.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765013583789-1",
-        "headline": "Unsealed Secrets of the Gilded Cage",
-        "content": "The Florida judge's gavel fell, a resounding clang against years of silence. Jeffrey Epstein's dark empire, long shuttered but never forgotten, was about to face a new dawn. Those grand jury transcripts, buried since 2005 and 2007, whispered tales of power, abuse, and complicity. Media organizations, relentless in their pursuit, had finally forced the hand of justice. Soon, the names, the testimonies, the chilling details of a monstrous history would spill from the dusty archives. The victims, long silenced, might finally see their shadows illuminated, their pain acknowledged. The truth, however delayed, would emerge.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765017559465-2",
+        "headline": "The Shadow's Admission",
+        "content": "The air in the interrogation room was thick with unspoken words, until finally, a confession. The individual, sought for years, admitted to placing the pipe bombs near the Democratic and Republican National Committee headquarters on that tumultuous day, January 6, 2021. Investigators had worked tirelessly, piecing together fragments of a sinister plot. This person, reportedly a fervent supporter of President Trump, had carried a silent rage, culminating in acts of terror aimed at the heart of American democracy. The admission closed a chapter of fear, yet opened another, forcing the nation to confront the ideologies that festered in the shadows, leading to such desperate acts.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Today's news"
       },
       {
-        "id": "story-1765013583789-2",
-        "headline": "The Architect's Final Curve",
-        "content": "The world paused, a collective breath held, as news spread of Frank Gehry's passing at 96. His name, synonymous with audacious curves and deconstructed dreams, had etched itself onto cityscapes globally. From the shimmering fish scales of Bilbao's Guggenheim to the metallic sails of the Walt Disney Concert Hall, his buildings weren't just structures; they were sculptures, defying gravity and expectation. He saw beyond brick and mortar, imagining symphonies in steel and glass, leaving behind a legacy that continues to twist, turn, and inspire. His final curve was drawn, but his art will forever shape our horizons.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-3",
-        "headline": "The Fourteenth's New Horizon",
-        "content": "The Supreme Court now held the fate of a fundamental right in its hands. President Trump's bold executive order, challenging the bedrock principle of birthright citizenship enshrined in the 14th Amendment, would face the highest legal scrutiny. The benches of the nation's top court buzzed with anticipation. This wasn't merely a policy debate; it was a profound re-evaluation of identity, belonging, and the very fabric of American nationhood. The nine justices, cloaked in tradition, would deliberate on what it means to be born on U.S. soil, potentially redrawing lines that have stood for generations. The decision would echo far beyond the courtroom.",
-        "originalSource": "CBS News / The Guardian",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765013583789-4",
-        "headline": "A Heavy Price for a Lost Life",
-        "content": "The city of San Diego settled, the number a stark testament to a life tragically lost. $30 million. A figure meant to quantify immeasurable grief, offered to the family of a 16-year-old boy, shot dead by police. The encounter, fraught with unanswered questions and public outcry, had ignited a fierce debate on accountability and reform. No sum could ever mend a broken heart, but the settlement, a landmark in its scale, acknowledged a profound wrong. It served as a somber echo, a demand for change so that no other family would carry such an unbearable cost.",
-        "originalSource": "The Guardian",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765013583789-5",
-        "headline": "A Shift in the Cradle's Care",
-        "content": "A quiet revolution was brewing in the nurseries. The CDC advisory panel, guardians of public health, cast their votes, reshaping a long-standing practice. The universal birth-dose of the hepatitis B vaccine for newborns, a routine for decades, was to be scaled back. Citing current low-risk levels across the general population, the recommendation now targeted infants with high-risk mothers only. It was a calculated adjustment, a fine-tuning of preventative medicine, promising a more focused approach to protecting the most vulnerable while easing an intervention deemed less critical for all. A small shift, with large implications.",
+        "id": "story-1765017559465-3",
+        "headline": "A First Breath, Unvaccinated",
+        "content": "The long-held ritual in delivery rooms across America was about to change. An advisory panel, convened by the CDC and influenced by an RFK-appointed review, had cast its vote. No longer would the hepatitis B vaccine be universally recommended for newborns immediately after birth. This decision marked a significant departure from decades of established practice, a quiet revolution in early childhood care. Parents, doctors, and public health officials grappled with the implications of this new directive. The standard, once considered sacrosanct for a baby's first hours, was now contested, opening a new chapter in the ongoing debate over vaccination policies and the future of preventative medicine.",
         "originalSource": "CBS News / The Guardian",
         "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765017559465-4",
+        "headline": "The Wall's Betrayal",
+        "content": "The siren's wail pierced the Louisiana night, signaling a grim reality. Two inmates, accused of violent acts, were loose, vanished into the humid darkness. Their escape was an act of calculated desperation: exploiting a damaged wall, they painstakingly pried away its crumbling pieces. Then, with ingenuity born of confinement, they fashioned ropes from bedsheets, scaling the prison's formidable perimeter. Now, a frantic manhunt had begun, authorities combing every shadow, every bayou, for the missing men. The facility, designed for containment, had been outsmarted, its structural flaws exposed, reminding everyone that even stone walls could hold secrets and, sometimes, open a path to freedom.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today's news"
+      },
+      {
+        "id": "story-1765017559465-5",
+        "headline": "The Global Grid Unveiled",
+        "content": "The anticipation was palpable, a global hum of excitement. In a grand ceremony, the 2026 FIFA Men's World Cup group stage was finally unveiled, slotting nations into their competitive arenas. Across the vast host nations—the United States, Canada, and Mexico—fans cheered and debated. Team USA, with hopes riding high, now knew the faces of its initial adversaries. Argentina, the reigning champions, prepared to launch their title defense against Algeria, a formidable opening challenge. The stage was set, the path to glory now visible, albeit winding. For millions, the draw was more than just names in boxes; it was the genesis of dreams, rivalries, and unforgettable moments yet to unfold.",
+        "originalSource": "AP News / CBS News",
+        "publishedTime": "Live updates"
       }
     ]
   }
