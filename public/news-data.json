@@ -1,267 +1,267 @@
 {
-  "timestamp": 1765006289322,
+  "timestamp": 1765010788583,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765006214511-0",
-        "headline": "Supreme Court Will Consider President Trump's Unconstitutional Attack on Birthright Citizenship",
-        "content": "The Supreme Court has agreed to hear a pivotal case challenging President Trump's contentious executive order, which seeks to undermine birthright citizenship. This dangerous move represents a direct assault on the 14th Amendment, threatening to strip a fundamental right from children born on U.S. soil and exposing the systemic targeting of immigrant families through executive overreach. The ruling will determine if one branch of government can unilaterally dismantle established constitutional protections, raising serious concerns about democratic erosion and the rights of all residents.",
+        "id": "story-1765010708206-0",
+        "headline": "Supreme Court Prepares to Hear Challenge to President Trump's Divisive Executive Order Aiming to End Birthright Citizenship",
+        "content": "The Supreme Court has agreed to review President Trump's highly contentious executive order, which seeks to dismantle birthright citizenship, a constitutional right enshrined in the 14th Amendment. This significant case has profound implications for American immigration law and is seen by many as a direct assault on fundamental constitutional protections and the rights of future generations. The administration's push for an expedited review underscores the urgency of this challenge to established legal precedents.",
         "originalSource": "PBS News",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-1",
-        "headline": "Accountability Nears as January 6th Pipe Bomb Suspect Reportedly Confesses",
-        "content": "Sources close to the investigation reveal that the suspect in the grave January 6th pipe bomb incident near key political headquarters has reportedly confessed. This breakthrough is a crucial step towards justice and accountability for acts of political violence that sought to destabilize our democracy. The long-awaited resolution in this case underscores the ongoing need to address extremist threats and ensure that all those who attacked democratic institutions face consequences for their actions.",
+        "id": "story-1765010708206-1",
+        "headline": "CDC Advisory Panel's Decision to Restrict Universal Newborn Hepatitis B Vaccinations Raises Public Health Concerns",
+        "content": "An advisory panel to the CDC has voted to roll back the long-held recommendation for universal hepatitis B vaccinations for all newborns, a move diverging sharply from established public health guidance. The new guidelines will now exclude infants born to mothers who test negative for the virus, prompting questions about potential disparities in health outcomes and a weakening of a critical preventative measure that has historically protected the broader population, particularly those in underserved communities.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765010708206-2",
+        "headline": "Federal Judge Demands Transparency in Previously Stalled Jeffrey Epstein Investigation by Releasing Grand Jury Transcripts",
+        "content": "In a crucial step towards accountability, a federal judge has mandated the public release of grand jury materials from the 2005 and 2007 investigations into the late financier Jeffrey Epstein in Florida. This pivotal ruling could finally shed light on the systemic failures and potential influence that led to the earlier abandonment of the sex crimes probe, offering victims and the public a chance to understand why justice was previously denied for so long against such a powerful figure.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-2",
-        "headline": "Judge Mandates Release of Epstein Grand Jury Transcripts, Exposing Systemic Failures",
-        "content": "In a significant move towards transparency and accountability, a federal judge has ordered the release of grand jury materials from the deeply troubling, abandoned 2005 and 2007 investigations into Jeffrey Epstein’s horrific crimes in Florida. This ruling is critical for understanding the systemic failures that allowed a powerful individual to evade justice for so long. The transcripts will illuminate why state prosecutors inexplicably failed to bring charges despite compelling evidence, intensifying public scrutiny on how wealth and influence can corrupt the legal process and deny victims justice.",
+        "id": "story-1765010708206-3",
+        "headline": "Suspect in January 6th-Linked Pipe Bomb Incidents Reportedly Confesses to Authorities, Underscoring Threats to Democratic Institutions",
+        "content": "Sources close to the ongoing investigation suggest that the individual apprehended in connection with the two pipe bombs discovered near the DNC and RNC on the eve of the January 6th Capitol insurrection has confessed to planting the explosive devices. This reported admission highlights the serious nature of the political violence that threatened critical democratic institutions during a volatile period, demanding full accountability for those who sought to disrupt the peaceful transfer of power.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765006214511-3",
-        "headline": "Global Unity and Excitement Build as 2026 FIFA Men's World Cup Groups Are Announced",
-        "content": "The eagerly anticipated official draw for the 2026 FIFA Men's World Cup, a monumental event spanning the United States, Canada, and Mexico, has unveiled the group stage pairings. Team USA, representing one of the host nations, now knows its path and opponents for the tournament. This announcement not only ignites excitement for the global soccer spectacle but also represents an opportunity for international collaboration, cultural exchange, and bringing diverse communities together through the universal language of sport, looking forward to next summer.",
+        "id": "story-1765010708206-4",
+        "headline": "Massive Netflix Acquisition of Warner Bros. Discovery Raises Alarms About Media Consolidation and Consumer Choice",
+        "content": "Streaming behemoth Netflix has unveiled a staggering $83 billion plan to acquire Warner Bros. Discovery, a move poised to dramatically consolidate vast swathes of the film, television, and streaming industries. This colossal merger is expected to profoundly reshape the entertainment landscape, sparking significant concerns among critics about unchecked corporate power, stifled competition, potential impacts on diverse storytelling, and the diminishing range of choices available to consumers as fewer companies control more cultural output.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1765010708206-5",
+        "headline": "The 2026 FIFA World Cup Draw Unites Nations in Anticipation as Team USA Prepares for Global Competition",
+        "content": "The much-anticipated official draw for the 2026 FIFA Men's World Cup, a tournament celebrating global unity and athleticism hosted across the United States, Mexico, and Canada, has unveiled the group stage matchups for next summer. Team USA now knows the national teams they will face, setting the stage for an international event that transcends borders and fosters cultural exchange through the universal language of sport.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765006214511-4",
-        "headline": "CDC Panel's Vote on Newborn Hepatitis B Vaccine Sparks Public Health Concerns",
-        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to reverse a long-standing public health policy, discontinuing the routine recommendation for immediate newborn administration of the hepatitis B vaccine. While citing new data, this decision is already generating significant concern among pediatricians and public health advocates. Progressive voices emphasize the critical importance of ensuring equitable access to vital vaccinations, particularly for vulnerable populations, and advocate for transparent, evidence-based public health policies that prioritize community well-being over potential cost-cutting measures, warning of potential disparities in health outcomes.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765006214511-5",
-        "headline": "San Diego Pays $30 Million Settlement After Police Fatally Shoot 16-Year-Old Boy, Highlighting Need for Reform",
-        "content": "The city of San Diego has agreed to a substantial $30 million settlement with the family of a 16-year-old boy tragically shot dead by a police officer. This historic payment, one of the largest in the city's history for a police shooting, offers a measure of financial acknowledgement but does not truly resolve the profound systemic issues at play. The case sparked widespread community outrage and intensified urgent calls for comprehensive police reform, demanding accountability for excessive force and a fundamental re-evaluation of law enforcement practices to prevent future tragedies and protect the lives of all residents, especially youth.",
-        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765006214511-0",
+        "id": "story-1765010708206-0",
         "headline": "Supreme Court to hear case on Trump's order ending birthright citizenship",
-        "content": "The Supreme Court has agreed to take up a major legal challenge concerning the constitutionality of former President Trump's controversial executive order aimed at ending birthright citizenship. This high-stakes case will determine whether the executive branch has the authority to unilaterally alter the interpretation of the 14th Amendment's guarantee of citizenship to children born on U.S. soil.",
+        "content": "The Supreme Court has agreed to take up the question of whether President Trump's controversial executive order to end birthright citizenship is legal, a major case with significant implications for US immigration law and the 14th Amendment. The Trump administration sought an expedited review.",
         "originalSource": "PBS News",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-1",
-        "headline": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators, AP sources say",
-        "content": "Sources familiar with the investigation report that the suspect in the high-profile January 6 pipe bomb case near the DNC and RNC headquarters has allegedly confessed to investigators. This development marks a significant breakthrough in the years-long effort to bring the individual responsible for placing the explosive devices to justice, moving the case toward a resolution.",
+        "id": "story-1765010708206-1",
+        "headline": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
+        "content": "An advisory panel voted to eliminate the long-standing recommendation that all newborns receive a hepatitis B shot, a decision that departs from previous public health guidance. The new recommendation excludes those born to mothers who test negative for the virus.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765010708206-2",
+        "headline": "Judge orders release of grand jury transcripts from abandoned Epstein investigation",
+        "content": "A federal judge ordered the public release of materials from the 2005 and 2007 grand jury investigations in Florida related to the late financier Jeffrey Epstein. This ruling could reveal new details about the previously abandoned sex crimes probe.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-2",
-        "headline": "Grand jury transcripts from abandoned Epstein investigation in Florida can be released, judge rules",
-        "content": "A federal judge has ordered the release of grand jury materials from the abandoned 2005 and 2007 investigations into Jeffrey Epstein's alleged crimes in Florida. The ruling will shed light on the initial case against the deceased financier, including why state prosecutors ultimately decided not to bring charges despite evidence presented, fueling public interest in the handling of the case.",
+        "id": "story-1765010708206-3",
+        "headline": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators",
+        "content": "Sources familiar with the matter indicate that the suspect arrested in the investigation of two pipe bombs placed near the DNC and RNC on the eve of the January 6th Capitol riot has reportedly confessed to planting the devices during interviews with investigators.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765006214511-3",
-        "headline": "2026 FIFA Men's World Cup groups revealed; Team USA learns its opponents",
-        "content": "The official draw for the 2026 FIFA Men's World Cup, hosted across the United States, Canada, and Mexico, was conducted, revealing the group stage pairings. Team USA, as one of the host nations, learned its path and opponents for the tournament. The announcement sets the stage for the highly anticipated global soccer event next summer.",
+        "id": "story-1765010708206-4",
+        "headline": "Netflix to buy Warner Bros. Discovery in $83 billion deal",
+        "content": "Streaming giant Netflix announced a monumental plan to acquire Warner Bros. Discovery for $83 billion, a move set to consolidate vast assets across major film, television, and streaming services, significantly reshaping the entertainment landscape.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1765010708206-5",
+        "headline": "2026 FIFA World Cup draw sets the tournament bracket; Team USA learns its opponents",
+        "content": "The official draw for the 2026 FIFA Men's World Cup, hosted by the United States, Mexico, and Canada, was held, revealing the group stage matchups for the tournament next summer. Team USA learned the identities of the national teams they will face.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765006214511-4",
-        "headline": "CDC advisory panel votes to stop recommending birth dose of hepatitis B vaccine",
-        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) voted to discontinue the routine recommendation for administering the hepatitis B vaccine to newborns immediately after birth. This change, citing new data and priorities, would reverse a long-standing public health policy and is expected to be a contentious topic among pediatricians and public health advocates.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765006214511-5",
-        "headline": "San Diego agrees to pay $30 million to family of boy, 16, shot dead by police",
-        "content": "The city of San Diego has reached a massive $30 million settlement with the family of a 16-year-old boy who was fatally shot by a police officer during an incident. The significant payment is one of the largest settlements in the city's history involving a police shooting, closing a tragic and high-profile case that sparked community outrage and calls for reform.",
-        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765006214511-0",
-        "headline": "Supreme Court Will Review President Trump's Crucial Order on Birthright Citizenship",
-        "content": "The Supreme Court has rightly agreed to address the constitutional challenge to President Trump's bold executive order, which aims to restore integrity to our nation's citizenship laws. This pivotal case will finally determine the executive branch's inherent authority to clarify the proper interpretation of the 14th Amendment, protecting our borders and the very definition of American citizenship from outdated readings.",
+        "id": "story-1765010708206-0",
+        "headline": "Supreme Court to Review President Trump's Vital Executive Order on Birthright Citizenship",
+        "content": "The Supreme Court has commendably agreed to examine the legality of President Trump's executive order aimed at strengthening national sovereignty by re-evaluating birthright citizenship. This pivotal case carries immense implications for U.S. immigration law and demands a rigorous, originalist interpretation of the 14th Amendment. The Trump administration rightly sought an expedited review to address this critical national issue.",
         "originalSource": "PBS News",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-1",
-        "headline": "Justice Nears As DC Pipe Bomb Suspect Reportedly Confesses",
-        "content": "After years of patient investigation, sources reveal the suspect in the grave January 6 pipe bomb attacks near our nation's political headquarters has reportedly confessed to investigators. This crucial development marks a significant step towards ensuring accountability and bringing long-overdue justice to those who threatened our democratic institutions with such dangerous devices.",
+        "id": "story-1765010708206-1",
+        "headline": "CDC Panel Restores Parental Choice, Limits Blanket Vaccine Mandate for Newborns",
+        "content": "A thoughtful advisory panel has voted to eliminate the previous, broad recommendation for all newborns to receive a hepatitis B shot, a commendable decision that wisely departs from a 'one-size-fits-all' public health approach. The new recommendation responsibly excludes infants born to mothers who test negative for the virus, empowering parents to make informed health decisions for their children and upholding individual liberty.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765010708206-2",
+        "headline": "Transparency Demanded: Judge Orders Release of Epstein Grand Jury Secrets, Public Deserves Answers",
+        "content": "In a crucial step towards long-overdue transparency, a federal judge has mandated the public release of grand jury materials from the 2005 and 2007 investigations in Florida concerning the disgraced financier Jeffrey Epstein. This significant ruling promises to unveil new, disturbing details about a previously abandoned sex crimes probe, potentially exposing systemic failures and holding powerful figures accountable in a quest for true justice.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-2",
-        "headline": "Judge Orders Release of Epstein Grand Jury Transcripts, Demands Transparency",
-        "content": "A federal judge has wisely mandated the release of grand jury documents from the inexplicably abandoned 2005 and 2007 investigations into Jeffrey Epstein's heinous crimes in Florida. This vital ruling will finally expose the reasons why state prosecutors failed to bring charges despite evidence, demanding accountability and shedding much-needed light on a dark chapter that denied justice to many victims.",
+        "id": "story-1765010708206-3",
+        "headline": "Justice Served: Pipe Bomb Suspect Confesses to Domestic Terrorism Ahead of January 6th",
+        "content": "Sources familiar with the ongoing investigation confirm that the individual apprehended in connection with the pipe bombs planted near the DNC and RNC headquarters on the eve of the January 6th Capitol riot has reportedly confessed to planting the devices. This confession represents a critical step towards accountability, underscoring the unwavering commitment to law and order and ensuring that those who threaten our democratic institutions face swift justice.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765006214511-3",
-        "headline": "America Set to Host and Compete in Grand 2026 FIFA World Cup",
-        "content": "The much-anticipated draw for the 2026 FIFA Men's World Cup, proudly co-hosted by the United States, Canada, and Mexico, has unveiled the group stage pairings. Team USA, representing our nation on home soil, now knows its formidable opponents and clear path for the tournament. This announcement sets the stage for a spectacular global event that will showcase American hospitality and competitive spirit next summer.",
+        "id": "story-1765010708206-4",
+        "headline": "Media Megamerger: Netflix Acquires Warner Bros. Discovery in Billion-Dollar Deal, Raising Concerns Over Cultural Control",
+        "content": "Streaming behemoth Netflix has announced a colossal plan to acquire Warner Bros. Discovery for an astounding $83 billion, a move set to consolidate vast assets across major film, television, and streaming services. While a testament to the free market, this significant reshaping of the entertainment landscape raises legitimate concerns about media consolidation and its potential impact on cultural narratives and the diversity of viewpoints available to the public.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1765010708206-5",
+        "headline": "America Readies to Host the World: Team USA Discovers Its Path to World Cup Victory",
+        "content": "The official draw for the highly anticipated 2026 FIFA Men's World Cup, proudly co-hosted by the United States, Mexico, and Canada, has been successfully concluded, revealing the group stage matchups for next summer's prestigious tournament. Team USA has now learned the identities of the national teams it will face, setting the stage for our nation to showcase American excellence and competitive spirit on the global stage.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765006214511-4",
-        "headline": "CDC Panel Reverses Course on Routine Newborn Hepatitis B Vaccine Recommendation",
-        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) has commendably voted to discontinue the routine recommendation for administering the hepatitis B vaccine to newborns immediately after birth. This significant policy shift, driven by new data and a sensible re-prioritization, rightly challenges a long-standing public health approach, potentially restoring parental choice and scrutinizing previous broad mandates.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765006214511-5",
-        "headline": "San Diego Settles Tragic Police Shooting Case for $30 Million",
-        "content": "The city of San Diego has reached a substantial $30 million settlement with the family of a 16-year-old boy tragically shot by a police officer during a complex incident. This significant payment, among the largest in the city's history for a police-involved shooting, brings a legal resolution to a high-profile case that understandably caused community concern and highlighted the difficult situations our law enforcement officers often confront.",
-        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765006214511-0",
-        "headline": "Supreme Court To Brave Terrifying New Legal Frontier Of 'Just Kidding' On 14th Amendment",
-        "content": "In a move that legal scholars are calling 'brave' and 'potentially career-ending,' the Supreme Court has bravely agreed to determine if President Trump's executive order can just… erase a whole amendment. Legal experts are scrambling to recall if 'executive whim' is now a higher law than 'founding document,' while parents nationwide are reportedly now requesting birth certificates in triplicate just in case.",
+        "id": "story-1765010708206-0",
+        "headline": "Supreme Court to Finally Decide if America Actually Exists, Hears Case on President Trump's Bold Attempt to Re-Draft 14th Amendment in Crayola.",
+        "content": "In a move described by legal scholars as \"potentially slightly more significant than deciding if hot dogs are sandwiches,\" the Supreme Court has agreed to ponder President Trump's executive order aimed at dismantling birthright citizenship. Sources close to the court indicate justices are \"eager to get to the bottom of this whole 'being born here makes you a citizen' thing, it's just so… convenient.\" The Trump administration, reportedly impatient with the slow pace of constitutional law, requested an expedited review, hoping to settle the matter before anyone else can be accidentally born on U.S. soil.",
         "originalSource": "PBS News",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-1",
-        "headline": "Years-Long Pipe Bomb Investigation Concludes After Suspect Casually Mentions 'Oh Yeah, That Was Me'",
-        "content": "After a grueling, years-long investigation involving countless hours, sophisticated forensics, and probably some very expensive lattes, the suspect in the January 6 pipe bomb case has reportedly confessed by simply saying, 'Oh yeah, that was me, forgot to mention it.' Investigators are reportedly stunned by the breakthrough, admitting they hadn't considered 'asking nicely' until now.",
+        "id": "story-1765010708206-1",
+        "headline": "CDC Panel Bravely Suggests Newborns No Longer Require Basic Protection from Liver Disease, Citing 'Excessive' Health.",
+        "content": "In a stunning display of \"less is more\" public health strategy, an advisory panel to the CDC has voted to scale back the universal recommendation for hepatitis B vaccinations in newborns. \"Why waste a perfectly good vaccine on a baby who probably won't get hepatitis B immediately?\" asked a panel member, reportedly while juggling a stack of medical bills. The new guidance, hailed by some as a \"bold step towards more selective immunity,\" will now only recommend the shot for infants whose mothers have tested positive, leaving the rest to the thrilling uncertainties of early childhood.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765010708206-2",
+        "headline": "Judge Demands Public See 'Shocking' Grand Jury Documents from Epstein Case, Confirms Absolutely Nothing Happened.",
+        "content": "In a move described by transparency advocates as \"too little, too late, but we'll take it,\" a federal judge has commanded the release of grand jury materials from the long-dormant 2005 and 2007 investigations into the late, lamented financier Jeffrey Epstein. Experts predict these documents could reveal groundbreaking new details, such as \"Epstein was indeed a financier\" and \"there might have been some 'crimes' involved.\" The public, already holding its breath for years, is eager to finally learn what everyone already knew, but with official court timestamps.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-2",
-        "headline": "Judge Rules Epstein Grand Jury Transcripts To Be Released, Promising Absolutely No Shocking Revelations Whatsoever",
-        "content": "In a move guaranteed to surprise absolutely no one, a federal judge has ordered the release of grand jury materials from the mysteriously abandoned 2005 and 2007 Jeffrey Epstein investigations. Public interest, previously at a fever pitch, is now settling into a comfortable 'I knew it' hum, as everyone prepares for the 'stunning' discovery that powerful people were protected, and justice was, as usual, for suckers.",
+        "id": "story-1765010708206-3",
+        "headline": "Suspect in Capitol Pipe Bomb Case Confesses, Admits 'Yes, I Was the One Seen on Camera, Wearing That Hat'.",
+        "content": "In a development that shocked absolutely no one, sources close to the investigation into the January 6th pipe bomb debacle have revealed that the arrested suspect has, in fact, confessed. \"Turns out, when you show someone clear video evidence of them placing bombs, they sometimes just give up,\" stated a remarkably underwhelmed investigator. The suspect reportedly admitted to planting the devices near the DNC and RNC, sparing authorities the grueling investigative work of connecting, for example, the suspect to the bombs or the bombs to the locations where they were placed.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765006214511-3",
-        "headline": "Team USA Giddily Discovers Opponents For Its Traditional Early Exit From World Cup",
-        "content": "The 2026 FIFA Men's World Cup draw has proudly announced Team USA's opponents, setting the stage for what experts are calling 'another valiant effort to not win.' American fans, still trying to grasp the concept of 'offside,' are reportedly thrilled to learn which countries they'll have to pretend to know something about before their inevitable, yet dignified, group stage departure.",
+        "id": "story-1765010708206-4",
+        "headline": "Netflix, in Bold Move, Announces Plan to Acquire Everything Else, Promises Just Three Remaining Streaming Services by 2027.",
+        "content": "Streaming behemoth Netflix has unveiled its ambitious, $83 billion strategy to acquire Warner Bros. Discovery, a transaction set to consolidate so many film, television, and streaming assets that analysts predict future entertainment choices will consist solely of \"Netflix,\" \"Amazon Prime (if you buy enough stuff),\" and \"Whatever Is On Free Broadcast TV If You Still Have An Antenna.\" The company assured consumers this \"reshaping of the entertainment landscape\" would primarily result in everyone paying one huge bill to Netflix and wondering where all their favorite shows went.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1765010708206-5",
+        "headline": "World Cup Draw Held, Team USA Thrilled to Discover It Will Play Other Countries.",
+        "content": "In a dramatic spectacle that kept dozens on the edge of their seats, the official draw for the 2026 FIFA Men's World Cup finally revealed who Team USA will be playing. \"It turns out we're not just playing ourselves in a giant, expensive mirror match!\" exclaimed a visibly relieved national team coach. The host nations — United States, Mexico, and Canada — now know precisely which other national teams will be traveling all the way here just to watch Team USA try its best.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765006214511-4",
-        "headline": "CDC Panel Votes To Stop Recommending Hepatitis B Vaccine For Babies Because 'It Was Getting Kinda Old, You Know?'",
-        "content": "In a bold move that has pediatricians frantically checking their emails, a CDC advisory panel has voted to cease recommending the routine birth dose of the hepatitis B vaccine for newborns. Citing 'new data' and 'evolving priorities,' which some interpret as 'we just felt like it,' the panel hopes to inject a little more spontaneity into early childhood health decisions. Public health advocates are reportedly experiencing whiplash.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765006214511-5",
-        "headline": "San Diego Pays $30 Million For 'Oopsie' That Tragically Ended Teenager's Life",
-        "content": "The city of San Diego has magnanimously agreed to hand over a whopping $30 million to the family of a 16-year-old boy, whose life was, shall we say, 'prematurely concluded' by a police officer. This record-breaking settlement, which is roughly the price of a small supervillain lair, is expected to fully mend the family's hearts and erase all memory of the incident. Community outrage, meanwhile, has been successfully downgraded to 'mildly miffed.'",
-        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765006214511-0",
-        "headline": "Big Court Will Look at President Trump's Birthright Citizenship Plan",
-        "content": "The Supreme Court, which is like the highest court in the country, has decided to look at a big rule President Trump made. This rule was about whether kids born in the U.S. automatically become citizens, even if their parents are not. The court will decide if President Trump had the power to change this rule all by himself.",
+        "id": "story-1765010708206-0",
+        "headline": "President Trump's Idea About Citizenship Goes to the Supreme Court",
+        "content": "The biggest court in the country, called the Supreme Court, has decided to look at an idea from President Trump. He wants to change a rule that says if you are born in the US, you are automatically a citizen. This is a really important case for how the US decides who its citizens are, and President Trump's team asked for it to be looked at quickly.",
         "originalSource": "PBS News",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-1",
-        "headline": "Person Who Planted Pipe Bombs Said They Did It",
-        "content": "Someone who was being investigated for putting pipe bombs near some important buildings in Washington D.C. on January 6th has told the police they did it. This is a really big step in figuring out who put those bombs there a long time ago.",
+        "id": "story-1765010708206-1",
+        "headline": "Doctors Change Advice on Hepatitis B Shots for Babies",
+        "content": "A group of health experts who advise the CDC (that's like the main doctor's office for the country) has changed its mind about a shot babies get. They used to say all newborn babies should get a shot for hepatitis B, a kind of sickness. Now, they say that some babies don't need the shot if their mom already tested negative for the sickness.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765010708206-2",
+        "headline": "Old Secrets About Jeffrey Epstein Must Come Out Now",
+        "content": "A judge has said that secret papers from old investigations into Jeffrey Epstein, who was a very rich person, must be shown to everyone. These investigations happened in 2005 and 2007 and were about some very serious charges. This decision means people might learn new things about what happened back then.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-2",
-        "headline": "Secret Papers About Jeffrey Epstein's Old Case Will Come Out",
-        "content": "A judge has said that old, secret papers about Jeffrey Epstein can now be shown to everyone. These papers are from when police first looked into bad things he did a long time ago, around 2005 and 2007, in Florida. People want to know why he didn't get charged back then, even with evidence.",
+        "id": "story-1765010708206-3",
+        "headline": "Person Arrested for Pipe Bombs in Washington Says They Did It",
+        "content": "Someone who was arrested for putting two pipe bombs near important buildings in Washington DC has reportedly told investigators they are the one who did it. These pipe bombs were found right before a big event at the US Capitol building on January 6th. Now, investigators know more about what happened.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765006214511-3",
-        "headline": "USA Soccer Team Found Out Who They Will Play in Big World Cup",
-        "content": "The teams for the big 2026 World Cup soccer tournament have been announced! This is the huge soccer event that will be held in the U.S., Canada, and Mexico. Our own Team USA now knows which other teams they will play against first. Everyone is super excited for the games next summer!",
+        "id": "story-1765010708206-4",
+        "headline": "Netflix Is Buying a Really Big TV and Movie Company",
+        "content": "Netflix, the company where you watch lots of movies and TV shows, announced a huge plan to buy another big company called Warner Bros. Discovery. This deal costs a lot of money, like $83 billion! It means Netflix will own even more movies, TV shows, and streaming services, changing a lot about what we watch for fun.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1765010708206-5",
+        "headline": "Team USA Finds Out Its Opponents for the Next World Cup Soccer Game",
+        "content": "The big soccer tournament, the FIFA World Cup, is happening in 2026, and the US, Mexico, and Canada will host it! They just had a special event where all the teams found out who they will play against first. Team USA now knows which other countries they will face on the soccer field.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765006214511-4",
-        "headline": "Doctors May Stop Giving Babies Hepatitis B Shot Right Away",
-        "content": "A group of smart doctors and scientists at the CDC (that's like the main health place) voted to stop telling hospitals to give newborn babies a shot for Hepatitis B right after they are born. They looked at new information and think it might be better to change this old rule. Some doctors might not agree with this change.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765006214511-5",
-        "headline": "San Diego Will Pay Big Money to Family of Teen Shot by Police",
-        "content": "The city of San Diego has agreed to pay $30 million to the family of a 16-year-old boy who was sadly shot and killed by a police officer. This is a really huge amount of money, one of the biggest the city has ever paid for something like this. It helps close a very sad case that made many people in the city upset and want things to change.",
-        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765006214511-0",
-        "headline": "The Fourteenth Question",
-        "content": "The marble halls of justice prepared for a seismic shift. The Supreme Court had embraced the contentious challenge to President Trump's executive order, a decree poised to redefine birthright citizenship. At its core lay the 14th Amendment, a promise whispered across generations, now facing a severe interrogation. Could one branch of government reshape such a fundamental right? The nation held its breath, awaiting a decision that would ripple through every future born on American soil, questioning what it truly meant to belong. The very definition of 'citizen' hung in the balance.",
+        "id": "story-1765010708206-0",
+        "headline": "The Fourteenth's Unwritten Line",
+        "content": "A shadow fell over the nation's foundational promise. The Supreme Court, silent arbiters of destiny, agreed to weigh President Trump's decree challenging birthright citizenship. At stake was not just policy, but the very parchment of the 14th Amendment, a bedrock of identity for generations. The administration, eager for resolution, pressed for swift judgment. Each argument, each legal brief, became a ripple, threatening to redraw the boundaries of belonging. The justices now held the fate of countless potential citizens, poised to interpret a phrase etched in history, to decide who truly belongs from their first breath.",
         "originalSource": "PBS News",
-        "publishedTime": "7 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-1",
-        "headline": "The January Echoes",
-        "content": "Years of shadows clung to the Capitol's periphery, haunted by the pipe bombs of January 6. Near the DNC and RNC headquarters, the devices lay, silent threats. Now, a whisper transformed into a shout: the suspect had confessed. Investigators, their long pursuit finally yielding fruit, saw the puzzle pieces snap into place. This breakthrough, a culmination of tireless effort, promised resolution. The echoes of that tense day might finally reveal the face behind the fear, bringing closure to a nation scarred by the proximity of terror.",
+        "id": "story-1765010708206-1",
+        "headline": "A Newborn's Unshielded Start",
+        "content": "The advisory panel's vote cast a new shade over the first moments of life. For decades, a universal shield against hepatitis B greeted every newborn. Now, that recommendation softened, recasting a public health cornerstone. The tiny, reflexive jab would no longer be standard for all. Only infants born to mothers with known risks would receive the immediate protection. This quiet shift, a departure from long-held guidance, introduced a selective early beginning, redefining the initial promise of blanket immunity. A silent deliberation, shaping the very first days for thousands.",
+        "originalSource": "The Guardian",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765010708206-2",
+        "headline": "The Unsealed Secrets of 2005",
+        "content": "The judge's gavel cracked, echoing through years of hushed whispers. From dusty Florida archives, a federal order demanded the light of day. Grand jury transcripts from 2005 and 2007, tied to the late financier Jeffrey Epstein, would be unsealed. These were the forgotten threads of a sex crimes probe, abandoned prematurely, leaving a void of unanswered questions. What dark details lay dormant within those pages? What truths, once buried, would now surface? The past, reluctant to remain interred, prepared to tell its story, perhaps finally revealing the full breadth of the shadows.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765006214511-2",
-        "headline": "Unsealing the Labyrinth",
-        "content": "Jeffrey Epstein’s dark legacy continued to unfurl, even from beyond the grave. A federal judge decreed: the grand jury secrets from his abandoned 2005 and 2007 Florida investigations would finally see light. These long-buried transcripts promised to expose the labyrinthine path of justice, detailing the evidence state prosecutors once held, and crucially, why no charges were ever filed. Public interest, a persistent flame, surged anew, demanding answers. The deceased financier’s initial escape from accountability was about to be put under a searing, belated spotlight, hoping to reveal the truth.",
+        "id": "story-1765010708206-3",
+        "headline": "The Silent Confession on January's Eve",
+        "content": "The city held its breath. On the eve of a historic day, two pipe bombs had waited, silent threats near political strongholds. Now, the quiet walls of an interrogation room had yielded their truth. Sources close to the investigation whispered: the suspect, recently apprehended, had confessed. The chilling admission described the placement of the devices near the DNC and RNC, a sinister prologue to the Capitol's chaos. The shadow that lingered over that fraught January day now had a face, a voice, and a chilling confirmation of deliberate intent. The mystery, slowly unraveled by a confession.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765006214511-3",
-        "headline": "The Global Pitch Unveiled",
-        "content": "The world held its breath as the 2026 FIFA Men's World Cup draw unfolded. Hosted across North America—the United States, Canada, and Mexico—the global spectacle began to take shape. Team USA, eyes fixed on their home turf advantage, learned their initial fate, discovering the rivals they would face in the group stages. The path to glory, treacherous and thrilling, was now illuminated. Anticipation surged, a collective roar building across continents. Next summer, the beautiful game would ignite, a mosaic of nations vying for ultimate soccer supremacy. The stage was set.",
+        "id": "story-1765010708206-4",
+        "headline": "The Streaming Colossus Awakes",
+        "content": "In a seismic shift, the entertainment firmament quivered. Netflix, the streaming titan, announced a monumental $83 billion acquisition: Warner Bros. Discovery. This wasn't merely a business deal; it was a re-drawing of the entire cinematic and television map. Vast empires of film, series, and streaming services would converge under one banner, consolidating unparalleled content. The move promised a new era of digital dominion, a future where one giant might dictate the stories we consume, the worlds we inhabit through our screens. The global audience watched, awaiting the rise of this new, formidable colossus.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Today"
+      },
+      {
+        "id": "story-1765010708206-5",
+        "headline": "The Global Pitch Beckons",
+        "content": "The air crackled with anticipation as the future of football unfolded. In a grand ceremony, the 2026 FIFA Men's World Cup draw etched its initial pathways. From the stages of the United States, Mexico, and Canada, the tournament's group matchups were unveiled. Dreams ignited, rivalries simmered, and nations around the globe learned their opening challenges. For Team USA, the moment was particularly poignant. Their opponents, once abstract possibilities, now stood defined, setting the stage for a summer of monumental sporting drama. The global pitch, now illuminated, beckoned its warriors.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765006214511-4",
-        "headline": "A Changing Shield",
-        "content": "The CDC’s advisory panel, guardians of public health, made a pivotal decision. The long-standing recommendation for administering the hepatitis B vaccine to newborns immediately after birth was to be discontinued. Citing evolving data and shifted priorities, this move would overturn decades of established policy. The announcement sent ripples through the medical community, sparking contentious debate among pediatricians and public health advocates alike. What was once standard procedure for a newborn's first moments was now under review, challenging deeply held beliefs about early immunological protection and the future of preventative care.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765006214511-5",
-        "headline": "The Unseen Cost",
-        "content": "San Diego, a city scarred by tragedy, announced a $30 million settlement. It was for the family of a 16-year-old boy, his life tragically cut short by a police officer's bullet. This immense sum, one of the largest in the city’s history for a police shooting, marked a painful closure to a high-profile case. Community outrage, a constant drumbeat since the incident, had fueled calls for profound reform. The money, while substantial, could never truly heal the wound, only acknowledge the unseen cost of a young life lost and the systemic failures it exposed.",
-        "originalSource": "The Guardian",
         "publishedTime": "2 hours ago"
       }
     ]
