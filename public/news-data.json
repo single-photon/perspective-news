@@ -1,268 +1,268 @@
 {
-  "timestamp": 1764992058278,
+  "timestamp": 1764996128777,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1764991985738-0",
-        "headline": "Supreme Court to Examine President Trump's Divisive Order Challenging Birthright Citizenship, a Cornerstone of Equality",
-        "content": "The Supreme Court has agreed to review the legality of President Trump's executive order, which aims to severely restrict the fundamental constitutional principle of birthright citizenship. This highly anticipated case will settle a significant legal debate concerning the 14th Amendment's interpretation, particularly impacting children born in the US to non-citizens and raising deep concerns about systemic discrimination. Arguments are expected in the spring, with civil rights advocates closely watching its implications for social justice and inclusion.",
-        "originalSource": "The Guardian",
-        "publishedTime": "13 hours ago"
+        "id": "story-1764996056693-0",
+        "headline": "Supreme Court to Consider Challenging the Fundamental Right of Birthright Citizenship.",
+        "content": "The U.S. Supreme Court has agreed to hear a major legal challenge concerning the constitutionality of President Trump's executive order, which sought to end the practice of granting citizenship to children born in the United States to non-citizen parents. This highly anticipated hearing will address a long-standing debate over the 14th Amendment, potentially undermining a core tenet of constitutional rights and disproportionately affecting marginalized communities.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764991985738-1",
-        "headline": "Systemic Failures in Louisiana Jail Facility Lead to Escape of Two Inmates",
-        "content": "Two individuals accused of violent crimes have escaped from a Louisiana jail, exploiting long-standing damage within the facility's infrastructure. This incident highlights critical systemic issues within the correctional system, where inadequate funding and neglected maintenance can create vulnerabilities that compromise public safety. Authorities report the escapees used sheets after dismantling a damaged section of wall. A major regional manhunt is underway, but the focus must also shift to addressing the root causes of such security breaches, including the urgent need for investment in humane and secure detention conditions.",
+        "id": "story-1764996056693-1",
+        "headline": "D.C. Pipe Bomb Suspect, Reportedly a President Trump Supporter, Raises Concerns About Political Extremism.",
+        "content": "Brian Cole Jr., the individual accused in the D.C. pipe bomb case, is reportedly believed by investigators to be a supporter of President Trump. The suspect was recently apprehended in connection with the investigation into the attempted bombing near the US Capitol. Authorities are continuing to probe the suspect's motives and any potential affiliations, highlighting the serious implications of political polarization and the rise of domestic extremism.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764991985738-2",
-        "headline": "CDC Panel Votes to Revise Universal Hepatitis B Vaccine Guideline, Raising Concerns for Public Health Equity",
-        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to discontinue the universal recommendation for the hepatitis B vaccine's birth dose for all newborns. This significant shift in pediatric public health guidelines awaits final approval from the CDC director. While some may view this as a minor adjustment, progressive health advocates are raising concerns about how such changes could disproportionately impact vulnerable communities and exacerbate existing health disparities, underscoring the critical need for equitable access to preventative care and comprehensive public health strategies.",
+        "id": "story-1764996056693-2",
+        "headline": "Visionary Architect Frank Gehry, Whose Designs Transformed Public Spaces, Dies at 96.",
+        "content": "Frank Gehry, the globally renowned American-Canadian architect known for his distinctive and wildly imaginative deconstructivist designs, has passed away at the age of 96. His iconic works, including the Guggenheim Museum Bilbao and the Walt Disney Concert Hall in Los Angeles, challenged conventional forms and often created accessible public spaces, marking the loss of a major figure who redefined contemporary architecture's civic role.",
+        "originalSource": "BBC News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764996056693-3",
+        "headline": "Lawmakers Demand Transparency and Accountability After New Details Emerge on US Boat Strikes.",
+        "content": "Members of Congress have revealed dramatic and vivid new information regarding recent US military boat strikes in the Pacific. The highly detailed disclosures come amidst growing calls for the Pentagon to release video footage and provide greater transparency about the rules of engagement used during these operations, emphasizing the critical need for public accountability in military actions and potential international implications.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764996056693-4",
+        "headline": "CDC Panel's Decision to Limit Newborn Hepatitis B Vaccine Raises Concerns About Public Health Equity.",
+        "content": "A key advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to stop recommending the birth dose of the hepatitis B vaccine for all newborns. The new guidance suggests limiting the initial vaccine dose to infants born to mothers with a known infection risk, a significant change in national protocol that could exacerbate health disparities and undermine universal preventative care for vulnerable populations.",
         "originalSource": "The Guardian",
         "publishedTime": "19 minutes ago"
       },
       {
-        "id": "story-1764991985738-3",
-        "headline": "Michael Jordan Takes Stand Against Monopolistic Practices in NASCAR Antitrust Battle",
-        "content": "NBA legend and NASCAR team owner Michael Jordan has provided key testimony in a high-profile antitrust trial, challenging the racing organization's alleged monopolistic control and unfair business practices. Jordan's assertion that 'someone had to step forward' highlights the urgent need to dismantle corporate power structures that stifle competition and perpetuate inequality within professional sports. His testimony is a crucial development in this ongoing case, drawing attention to broader systemic issues of economic fairness and accountability.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764991985738-4",
-        "headline": "Architectural Visionary Frank Gehry, Whose Designs Challenged Conventional Structures, Passes at 96",
-        "content": "Pritzker Prize-winning architect Frank Gehry, celebrated globally for his deconstructivist and often provocative designs such as the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has passed away at 96 after a brief respiratory illness. His influential career marked an era where architectural boundaries were pushed, challenging established norms and inspiring new ways of envisioning public and cultural spaces. Gehry leaves behind a complex legacy of imaginative buildings that continue to spark dialogue about art, urban development, and accessible design.",
-        "originalSource": "The Guardian",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764991985738-5",
-        "headline": "EU Holds Elon Musk's X Accountable with Major Fine for Failing to Combat Misinformation and Illegal Content",
-        "content": "The European Union has levied a significant 120 million euro fine against Elon Musk's social media platform X, previously known as Twitter, for severe breaches of the bloc's stringent new digital media laws. This decisive action underscores the critical need for corporate accountability in the digital sphere, especially in curbing the rampant spread of misinformation and illegal content that threatens democratic discourse and exacerbates societal divisions. The EU's assertive stance on regulation highlights the ongoing struggle to ensure major platforms prioritize public well-being over unchecked power and profit.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764996056693-5",
+        "headline": "Escape of Two Inmates Highlights Systemic Failures and Deteriorating Conditions in Louisiana Jails.",
+        "content": "Two inmates from a correctional facility in Louisiana, both facing charges for violent crimes, are currently at large following a daring escape. Officials reported that the men managed to remove pieces of a damaged jail wall and then used tied-together sheets to successfully scale an exterior wall. A manhunt is now underway, bringing into sharp focus the urgent need for carceral reform, addressing crumbling infrastructure, and improving the inhumane conditions prevalent in many correctional facilities.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1764991985738-0",
-        "headline": "US supreme court to decide on legality of Trump birthright citizenship order",
-        "content": "The Supreme Court has agreed to review the legality of former President Trump's executive order, which seeks to heavily restrict the constitutional principle of birthright citizenship. This highly anticipated case will settle a significant legal debate concerning the 14th Amendment's interpretation for children born in the US to non-citizens, with arguments expected in the spring.",
-        "originalSource": "The Guardian",
-        "publishedTime": "13 hours ago"
+        "id": "story-1764996056693-0",
+        "headline": "Supreme Court will hear case on Trump's ban on birthright citizenship.",
+        "content": "The U.S. Supreme Court has agreed to take up a major legal challenge concerning the constitutionality of a previous administration's executive order. The order sought to end the practice of granting citizenship to children born in the United States to non-citizen parents. This highly anticipated hearing will address a long-standing debate over the 14th Amendment.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764991985738-1",
-        "headline": "2 Louisiana inmates on the run after escape through damaged jail wall",
-        "content": "Two inmates accused of violent crimes successfully escaped from a Louisiana jail after exploiting damage in a wall. Authorities report the fugitives used sheets to scale a wall after removing pieces of a damaged section. Law enforcement is currently conducting a major manhunt across the region to recapture the dangerous individuals who are now on the run.",
+        "id": "story-1764996056693-1",
+        "headline": "Suspect in D.C. pipe bomb case believed to be Trump supporter.",
+        "content": "Brian Cole Jr., the individual accused in the D.C. pipe bomb case, is reportedly believed by investigators to be a supporter of former President Trump. The suspect was recently apprehended in connection with the investigation into the attempted bombing near the US Capitol. Authorities are continuing to probe the suspect's motives and any potential affiliations.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764991985738-2",
-        "headline": "CDC panel votes to stop recommending birth dose of hepatitis B vaccine",
-        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) voted to no longer recommend the universal birth dose of the hepatitis B vaccine for all newborns. This change marks a notable shift in pediatric public health guidelines and awaits final approval from the CDC director. The new guidance is expected to spark discussion among medical professionals.",
+        "id": "story-1764996056693-2",
+        "headline": "Frank Gehry: Legendary US architect dies aged 96.",
+        "content": "Frank Gehry, the globally renowned American-Canadian architect known for his distinctive and wildly imaginative deconstructivist designs, has passed away at the age of 96. His iconic works include the Guggenheim Museum Bilbao and the Walt Disney Concert Hall in Los Angeles. His death marks the loss of a major figure in contemporary architecture.",
+        "originalSource": "BBC News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764996056693-3",
+        "headline": "Lawmakers disclose vivid new details of US boat strikes.",
+        "content": "Members of Congress have revealed dramatic and vivid new information regarding recent US military boat strikes in the Pacific. The highly detailed disclosures come amidst growing calls for the Pentagon to release video footage and provide greater transparency about the rules of engagement used during these operations.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764996056693-4",
+        "headline": "CDC advisory panel votes to limit hepatitis B vaccines for newborns.",
+        "content": "A key advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to stop recommending the birth dose of the hepatitis B vaccine for all newborns. The new guidance suggests limiting the initial vaccine dose to infants born to mothers with a known infection risk, a significant change in national protocol.",
         "originalSource": "The Guardian",
         "publishedTime": "19 minutes ago"
       },
       {
-        "id": "story-1764991985738-3",
-        "headline": "Michael Jordan testifies in NASCAR antitrust trial",
-        "content": "NBA legend and NASCAR team owner Michael Jordan testified in a high-profile antitrust trial concerning the racing organization. Jordan stated that \"someone had to step forward\" in reference to the legal challenge against the sports body's practices. His testimony is a key development in the ongoing case that alleges monopolistic behavior and unfair business practices in the sport.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764991985738-4",
-        "headline": "Frank Gehry, celebrated architect of wildly imaginative buildings, dies at 96",
-        "content": "Pritzker Prize-winning architect Frank Gehry, renowned globally for his deconstructivist and often controversial designs like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has died at the age of 96 following a brief respiratory illness. His passing marks the end of an influential era for modern architecture, leaving behind a legacy of iconic, imaginative buildings.",
-        "originalSource": "The Guardian",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764991985738-5",
-        "headline": "EU fines Elon Musk's X 120 million euros for breaching bloc's social media law",
-        "content": "The European Union has levied a massive 120 million euro fine against Elon Musk's social media platform X, formerly known as Twitter. The penalty was issued for breaching the bloc's strict new media laws, which aim to curb the spread of misinformation and illegal content. This action underscores the EU's assertive stance on digital regulation and accountability for major platforms.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764996056693-5",
+        "headline": "2 Louisiana inmates on the run after escape through damaged jail wall.",
+        "content": "Two inmates from a correctional facility in Louisiana, both facing charges for violent crimes, are currently at large following a daring escape. Officials reported that the men managed to remove pieces of a damaged jail wall and then used tied-together sheets to successfully scale an exterior wall. A manhunt is now underway.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1764991985738-0",
-        "headline": "Supreme Court to Review President Trump's Crucial Birthright Citizenship Order",
-        "content": "The Supreme Court has courageously agreed to review the legality of President Trump's executive order, which seeks to uphold national sovereignty by heavily restricting the flawed interpretation of birthright citizenship. This highly anticipated case will finally settle a significant legal debate concerning the 14th Amendment's original interpretation for children born in the US to non-citizens, with arguments expected in the spring.",
-        "originalSource": "The Guardian",
-        "publishedTime": "13 hours ago"
+        "id": "story-1764996056693-0",
+        "headline": "Supreme Court to Hear Critical Case on Upholding National Sovereignty and Birthright Citizenship.",
+        "content": "The U.S. Supreme Court has wisely agreed to consider a pivotal legal challenge concerning the interpretation of the 14th Amendment and its application to birthright citizenship. This highly anticipated review will address President Trump's executive order, which sought to clarify and enforce national sovereignty by limiting automatic citizenship for children born in the United States to non-citizen parents. This essential hearing will delve into a long-standing debate over constitutional originalism and the integrity of our nation's borders.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764991985738-1",
-        "headline": "Dangerous Criminals Escape Louisiana Jail, Public Safety At Risk",
-        "content": "Two inmates accused of violent crimes have brazenly escaped from a Louisiana jail, exploiting damage in a wall. Authorities report these dangerous fugitives used sheets to scale a wall after removing pieces of a damaged section. Law enforcement is currently conducting a major manhunt across the region to recapture these individuals, highlighting the urgent need to secure our institutions and protect our communities.",
+        "id": "story-1764996056693-1",
+        "headline": "Suspect in D.C. Pipe Bomb Case Apprehended, Emphasizing Rule of Law.",
+        "content": "Brian Cole Jr., the individual accused in the grave D.C. pipe bomb case, has been apprehended. While investigators reportedly believe he may have supported President Trump, it is crucial to remember that criminal acts are the responsibility of the individual, not an entire political movement. Authorities are continuing to probe the suspect's motives and any potential affiliations, ensuring that justice is served and condemning any acts of violence that threaten our republic.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764991985738-2",
-        "headline": "CDC Panel Revisits Universal Newborn Vaccine Mandate, Prioritizing Parental Choice",
-        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to no longer recommend the universal birth dose of the hepatitis B vaccine for all newborns. This change marks a notable shift away from broad mandates in pediatric public health guidelines and awaits final approval from the CDC director, potentially restoring more medical freedom to parents. The new guidance is expected to spark discussion among medical professionals, hopefully leading to more thoughtful health policies.",
+        "id": "story-1764996056693-2",
+        "headline": "America Mourns Passing of Visionary Architect Frank Gehry at 96.",
+        "content": "Frank Gehry, the globally renowned American-Canadian architect celebrated for his distinctive and wildly imaginative deconstructivist designs, has passed away at the age of 96. His iconic works, including the Guggenheim Museum Bilbao and the Walt Disney Concert Hall in Los Angeles, stand as testaments to his profound impact on the architectural landscape. His death marks the loss of a major figure whose unique vision shaped modern design and added to America's cultural legacy.",
+        "originalSource": "BBC News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764996056693-3",
+        "headline": "Congress Demands Transparency Regarding US Military Engagements in the Pacific.",
+        "content": "Members of Congress have revealed dramatic and vivid new information regarding recent U.S. military boat strikes in the Pacific. These detailed disclosures come amidst growing calls for the Pentagon to release video footage and provide greater transparency about the rules of engagement used during these operations. While supporting our brave servicemen and women, legislative oversight is vital to ensure accountability and maintain public trust in our nation's defense strategies.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764996056693-4",
+        "headline": "CDC Panel Moves to Empower Parents, Limit Universal Newborn Hepatitis B Vaccinations.",
+        "content": "A key advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to stop recommending the birth dose of the hepatitis B vaccine for all newborns. This significant change in national protocol suggests limiting the initial vaccine dose to infants born to mothers with a known infection risk. This move represents a welcome step towards restoring parental choice and focusing medical interventions based on individual needs rather than broad, universal mandates.",
         "originalSource": "The Guardian",
         "publishedTime": "19 minutes ago"
       },
       {
-        "id": "story-1764991985738-3",
-        "headline": "Michael Jordan Stands for Fair Competition in Key NASCAR Antitrust Trial",
-        "content": "NBA legend and NASCAR team owner Michael Jordan has testified in a high-profile antitrust trial concerning the racing organization. Jordan boldly stated that \"someone had to step forward\" in reference to the legal challenge against the sports body's anti-competitive practices, advocating for free markets. His testimony is a key development in the ongoing case that alleges monopolistic behavior and unfair business practices in the sport, championing true American enterprise.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764991985738-4",
-        "headline": "Architect Frank Gehry Leaves Enduring Legacy of Imaginative Design at 96",
-        "content": "Pritzker Prize-winning architect Frank Gehry, renowned globally for his innovative and distinctive designs like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has passed away at the age of 96 following a brief respiratory illness. His passing marks the end of an influential era for modern architecture, leaving behind a profound legacy of iconic, imaginative buildings that stand as testaments to his unique vision and enduring impact.",
-        "originalSource": "The Guardian",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764991985738-5",
-        "headline": "EU Imposes Excessive Fine on Elon Musk's X, Raising Free Speech Concerns",
-        "content": "The European Union has levied a massive 120 million euro fine against Elon Musk's social media platform X, formerly known as Twitter. The penalty was issued for allegedly breaching the bloc's strict new media laws, which aim to curb content deemed \"misinformation\" and \"illegal content\" – a move many see as an attempt to control public discourse. This action underscores the EU's assertive and concerning stance on digital regulation, potentially stifling free expression on major platforms like X.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764996056693-5",
+        "headline": "Dangerous Inmates Escape Louisiana Jail, Underscoring Need for Robust Public Safety.",
+        "content": "Two violent criminals from a correctional facility in Louisiana are currently at large following a brazen escape. Officials reported that the men, both facing charges for serious crimes, managed to exploit a damaged jail wall and then used tied-together sheets to successfully scale an exterior wall. A manhunt is now underway, highlighting the urgent need for secure correctional facilities and unwavering commitment to public safety and law enforcement.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       }
     ],
     "Satire": [
       {
-        "id": "story-1764991985738-0",
-        "headline": "Supreme Court to Finally Determine if Babies Are Just Making It Up About Being Born Here",
-        "content": "In a move that has legal scholars everywhere frantically Googling \"what even is a baby,\" the Supreme Court has bravely agreed to ponder President Trump's daring executive order. This order, a bold challenge to the 14th Amendment's quaint notion of \"you're born here, you're a citizen,\" seeks to redefine what it means to be, well, born. Arguments are set for spring, promising to be an intellectual spectacle where the nation’s top legal minds will debate whether a newborn infant possesses adequate paperwork to declare itself American, or if it's all just a clever ruse.",
-        "originalSource": "The Guardian",
-        "publishedTime": "13 hours ago"
+        "id": "story-1764996056693-0",
+        "headline": "Supreme Court Eagerly Considers Rewriting Foundational Document To Spark Lively Debate.",
+        "content": "In a move that has legal scholars nervously adjusting their bow ties, the U.S. Supreme Court has enthusiastically agreed to review President Trump's bold executive order attempting to redefine the very concept of \"born in the USA.\" The high court, apparently fresh out of Netflix series, looks forward to a riveting discussion on whether the 14th Amendment's clear language is perhaps just a suggestion, especially when inconvenient.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764991985738-1",
-        "headline": "Local Jail Admits Wall Damage Was Apparently \"More Than Just a Scratch\" As Two Inmates Vanish",
-        "content": "Authorities in Louisiana are currently engaged in a highly organized, region-wide game of hide-and-seek after two inmates, accused of violent crimes, dramatically exited a local correctional facility through what officials are now calling a \"previously existing and rather large hole\" in the wall. The ingenious fugitives, reportedly utilizing bedsheets—presumably the only intact items in the facility—to scale another wall, have prompted a frantic search for two individuals who likely had a head start after walking through a door-sized opening that no one seemed to notice.",
+        "id": "story-1764996056693-1",
+        "headline": "D.C. Pipe Bomb Suspect Stuns Nation By Being Exactly Who Everyone Suspected.",
+        "content": "Investigators are reportedly reeling from the utter shock that Brian Cole Jr., the individual apprehended in the D.C. pipe bomb case, is believed to be a staunch supporter of President Trump. Authorities, who had been diligently searching for a suspect with no discernible political leanings, now face the arduous task of \"probing motives\" that somehow seem alarmingly self-evident to anyone with internet access.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764991985738-2",
-        "headline": "CDC Panel Decides Newborns Have Enough On Their Plate Already, Halts Universal Hep B Vaccine Recommendation",
-        "content": "In a groundbreaking decision, a CDC advisory panel has officially voted to relieve newborns of the arduous task of receiving a universal hepatitis B vaccine dose at birth, citing concerns that babies might prefer to spend their first moments contemplating the mysteries of the universe rather than getting a shot. This monumental shift in pediatric public health, which now awaits final approval from a director presumably grappling with the philosophical implications, is expected to spark animated discussions among medical professionals who are now tasked with explaining why yesterday's essential protection is today's optional luxury.",
+        "id": "story-1764996056693-2",
+        "headline": "Frank Gehry, Visionary Architect Who Made Buildings Look Like Beautifully Crinkled Foil, Dies At 96.",
+        "content": "The world bids a bittersweet farewell to Frank Gehry, the architectural titan who dared to ask, \"What if buildings weren't just boring squares?\" Gehry, whose iconic deconstructivist designs, like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, famously resembled glorious metallic crumple zones, passed away at 96. His death leaves behind a legacy of structures that consistently confused pigeons but delighted art critics.",
+        "originalSource": "BBC News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764996056693-3",
+        "headline": "Lawmakers Unveil Startling New Details: US Military Boats Still Made Of Metal, Keep Colliding With Other Things.",
+        "content": "Congress members have bravely shared groundbreaking new information regarding recent U.S. military boat incidents in the Pacific, revealing that, yes, boats do occasionally bump into objects. These \"vivid new details,\" which include profound observations like \"water is wet,\" come amidst fervent public outcry for the Pentagon to release video footage, presumably to confirm that these highly advanced vessels are indeed still operating in a three-dimensional world.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764996056693-4",
+        "headline": "CDC Panel Boldly Declares Not All Newborns Are Equally Deserving Of Hepatitis B Protection, For Now.",
+        "content": "In a stunning display of medical precision, a top advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to strategically reduce the universal birth dose of the hepatitis B vaccine for all newborns. Moving forward, only infants born to mothers with a \"known infection risk\" will receive the initial jab, ensuring that precious vaccine doses are conserved for the truly special cases, while the rest are left to the whims of statistical probability.",
         "originalSource": "The Guardian",
         "publishedTime": "19 minutes ago"
       },
       {
-        "id": "story-1764991985738-3",
-        "headline": "Michael Jordan, Apparently Not Busy Enough Owning Everything Else, Now Tackles NASCAR Monopolies",
-        "content": "NBA demigod and now part-time NASCAR team overlord, Michael Jordan, graced a high-profile antitrust trial with his legendary presence, presumably after realizing he still had a few hours left in the day not dominating a sport. Jordan, who famously stated \"someone had to step forward\" to challenge NASCAR's alleged monopolistic shenanigans, offered his invaluable insights into the racing world's cutthroat business practices, momentarily pausing his global empire management to ensure fair play among people driving in circles. His testimony is now considered the undisputed spiritual turning point in a case that previously struggled to attract the attention of anyone not directly involved in race car sponsorship.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764991985738-4",
-        "headline": "Renowned Architect Frank Gehry Dies at 96, Leaving Behind Confused Buildings and Bewildered Structural Engineers",
-        "content": "Frank Gehry, the Pritzker Prize-winning architect whose wildly imaginative buildings often looked like they were mid-sneeze, has gracefully exited the architectural plane at 96 following a brief respiratory illness. Known for his groundbreaking deconstructivist designs such as the Guggenheim Museum Bilbao and the Walt Disney Concert Hall—structures that defiantly refused to adhere to the tyranny of straight lines—Gehry leaves behind a legacy of iconic, imaginative buildings that continue to challenge gravity, logic, and anyone attempting to draw a floor plan. His passing marks the end of an influential era, and likely the beginning of a few extra therapy sessions for the world's structural engineers.",
-        "originalSource": "The Guardian",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764991985738-5",
-        "headline": "European Union Audits Elon Musk’s Couch Cushions, Finds 120 Million Euros in Loose Change for X Fine",
-        "content": "The European Union, apparently fed up with the Wild West approach to online discourse, has slapped Elon Musk’s social media platform, X (formerly that bird app), with a rather inconvenient 120 million euro \"oopsie\" fine. The penalty, issued for X’s casual disregard of the bloc's stringent new media laws designed to prevent the internet from spontaneously combusting from misinformation, firmly underscores the EU's unwavering commitment to digital regulation. Sources close to the situation suggest Elon Musk is currently checking under the seat of his hypercar for spare change, confident he can cover the sum before his next rocket launch.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764996056693-5",
+        "headline": "Louisiana Jail Experience Rated 0 Stars After Inmates Discover Critical Structural \"Feature.\"",
+        "content": "Two particularly resourceful inmates, both facing violent crime charges, are currently enjoying an unexpected vacation after exploiting a \"damaged jail wall\" at a Louisiana correctional facility. Officials, presumably now frantically ordering industrial-strength spackle, reported the men simply removed pieces of the compromised wall, then deployed the timeless innovation of tied-together sheets to scale their way to freedom. A manhunt is underway, presumably involving a careful inspection of every single wall in the state.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1764991985738-0",
-        "headline": "The Big Court Will Look at President Trump's Idea About Who Is a Citizen",
-        "content": "The Supreme Court, which is the highest court, has said they will look at something President Trump wanted to do. He wanted to make it harder for babies born in America to automatically become citizens if their parents weren't citizens. This is a very important case because it's about what a part of the Constitution, called the 14th Amendment, really means. People expect them to talk about it more in the spring.",
-        "originalSource": "The Guardian",
-        "publishedTime": "13 hours ago"
+        "id": "story-1764996056693-0",
+        "headline": "The Supreme Court will talk about President Trump's rule on who gets to be a citizen.",
+        "content": "The really important Supreme Court is going to listen to a big case. It's about a rule that President Trump made a while ago. That rule wanted to stop kids from becoming citizens if their parents weren't citizens, even if the kids were born right here in America. This big meeting will help decide if that rule is fair according to the law called the 14th Amendment.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764991985738-1",
-        "headline": "Two Bad Guys Escaped from Jail in Louisiana",
-        "content": "Two grown-ups who did bad things got out of jail in Louisiana! They found a broken part of a wall and snuck through it. Then, they used bed sheets to climb over another wall. Now, the police are looking everywhere for these two dangerous people.",
+        "id": "story-1764996056693-1",
+        "headline": "Police think the pipe bomb suspect likes President Trump a lot.",
+        "content": "A guy named Brian Cole Jr. is thought by police to be the person who tried to set off bombs in Washington D.C. Near the big Capitol building, someone tried to use pipe bombs, which are really dangerous. The police believe Brian likes President Trump very much. They are still trying to figure out why he did it and if he was working with anyone else.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764991985738-2",
-        "headline": "A Big Health Group Says Maybe Not All Babies Need a Shot Right Away",
-        "content": "A group of smart doctors and health experts called the CDC's panel decided that maybe not every single new baby needs to get a shot for Hepatitis B right when they are born. This is a pretty big change for how doctors usually tell parents what to do. The main boss of the CDC still needs to say 'okay' to it. Doctors will probably talk a lot about this new idea.",
+        "id": "story-1764996056693-2",
+        "headline": "A famous building designer named Frank Gehry has passed away at 96.",
+        "content": "Frank Gehry, who was a super famous architect (that's someone who designs buildings), has died. He was 96 years old! He was known for making really cool, unique buildings that looked like nothing else. Two of his most famous buildings are the Guggenheim Museum in Spain and the Walt Disney Concert Hall in Los Angeles. Losing him is a big deal for the world of buildings.",
+        "originalSource": "BBC News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764996056693-3",
+        "headline": "People in charge are telling new things about US boat fights.",
+        "content": "Some important people in Congress have shared exciting new details about times when US military boats hit things in the big Pacific Ocean. People want the army to show videos and explain more clearly how they decide when to attack or fight during these missions.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764996056693-4",
+        "headline": "Doctors now say fewer babies might get the hepatitis B shot.",
+        "content": "A group of smart doctors at the CDC (that's like the main health center) has decided to change how they give the hepatitis B shot to new babies. Before, almost all babies got it right after they were born. Now, they are saying only babies whose moms might have the sickness should get the shot right away. This is a pretty big change for hospitals.",
         "originalSource": "The Guardian",
         "publishedTime": "19 minutes ago"
       },
       {
-        "id": "story-1764991985738-3",
-        "headline": "Basketball Star Michael Jordan Spoke in a Big Race Car Lawsuit",
-        "content": "Michael Jordan, who is a famous basketball player and also owns a race car team, went to court to talk in a big lawsuit about NASCAR racing. He said that someone needed to be brave and speak up about how things were being run. This is a big deal in the case, which says that NASCAR might be doing things that aren't fair to everyone in racing.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764991985738-4",
-        "headline": "A Famous Builder Who Made Crazy Cool Buildings Died at 96",
-        "content": "Frank Gehry, a very famous builder who won big awards for making buildings that looked super cool and sometimes a little bit crazy, passed away when he was 96 years old. He built famous places like the Guggenheim Museum in Spain and the Walt Disney Concert Hall. He was sick for a little while before he died. He made a lot of special buildings that people will remember forever.",
-        "originalSource": "The Guardian",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764991985738-5",
-        "headline": "Elon Musk's X App Got a Super Big Fine from European Countries",
-        "content": "A bunch of countries in Europe, called the European Union, made Elon Musk's social media app 'X' (it used to be called Twitter) pay a HUGE fine, like 120 million euros! They made them pay because X didn't follow their new rules about what people can post online. These rules are supposed to stop fake news and bad stuff from spreading. It shows that Europe is serious about making big apps follow their rules.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764996056693-5",
+        "headline": "Two dangerous prisoners got away from jail in Louisiana.",
+        "content": "Two guys who were in jail for bad things in Louisiana have escaped! They got out by taking apart a broken wall in the jail. Then, they tied bedsheets together to climb over the outside wall. Police are now looking everywhere to find them.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1764991985738-0",
-        "headline": "The Fourteen Words on Trial",
-        "content": "The gavel’s echo hung heavy, a constitutional whisper in the hallowed halls. At stake, the very essence of birthright, anchored in the Fourteenth Amendment. President Trump’s executive order, a decree to redraw the nation’s welcome mat, now faced the Supreme Court's scrutiny. A spring debate promised to dissect the meaning of 'subject to the jurisdiction thereof,' challenging decades of precedent. For countless children born on American soil to non-citizens, their future citizenship, once immutable, now trembled on the precipice of a judicial verdict. The nation held its breath, awaiting clarity on a fundamental freedom.",
-        "originalSource": "The Guardian",
-        "publishedTime": "13 hours ago"
+        "id": "story-1764996056693-0",
+        "headline": "A Child's First Claim",
+        "content": "The marble halls of justice hummed with anticipation. The highest court had finally agreed to weigh a profound question, a debate echoing since the 14th Amendment's inception. An executive order, initiated by President Trump, had sought to dismantle the long-held tradition of birthright citizenship for children born on American soil to non-citizen parents. This decision would redefine belonging, casting a long shadow or a guiding light over countless futures. Each gavel strike, each legal argument, would chip away at a foundation, altering the very fabric of who is considered American. A nation held its breath.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1764991985738-1",
-        "headline": "The Wall's Whisper of Freedom",
-        "content": "A damaged wall, a desperate hope. Two inmates, shadowed by violent pasts, found their fractured freedom in a crumbling section of the Louisiana jail. With crude ingenuity, torn sheets became a ladder against the oppressive concrete, carrying them over to the other side. The sirens wailed, a furious symphony announcing their escape, shattering the night's calm. Now, a widespread dragnet tightened its grip across the region, relentless in its pursuit. The air thrummed with urgency; the dangerous duo, now ghost-like figures, vanished into the vast unknown, hunted by every authority.",
+        "id": "story-1764996056693-1",
+        "headline": "The Capitol's Shadow",
+        "content": "The dragnet tightened, finally snaring Brian Cole Jr. The D.C. pipe bomb suspect, now in custody, was a shadow brought into the harsh light. Investigators whispered of his allegiance, a fervent belief in President Trump’s cause, a connection authorities now meticulously unravelled. Near the Capitol, where the devices were discovered, the air still held the phantom scent of fear. What dark convictions drove him to plant those deadly packages? The city, still scarred by past turmoil, sought answers, hoping to understand the twisted path from support to destructive intent.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1764991985738-2",
-        "headline": "A Tiny Prick, Now Optional",
-        "content": "A significant shift rippled through the nurseries. The routine, once universal, was quietly reconsidered. An advisory panel for the Centers for Disease Control and Prevention voted to pause the long-standing recommendation for the hepatitis B vaccine at birth. The tiny prick, a newborn's first shield against a silent threat, was no longer mandated for every infant. This seismic alteration in pediatric guidelines, awaiting the CDC director’s final stamp, promised to ignite fervent discussions among doctors and parents alike. The protocol of innocence was being rewritten, leaving a subtle, yet profound, mark.",
+        "id": "story-1764996056693-2",
+        "headline": "When Steel Dreams Sleep",
+        "content": "The world paused, a quiet moment for a titan of steel and imagination. Frank Gehry, the maestro of deconstructivism, had laid down his visionary tools at 96. His name was etched into the very fabric of cities, from Bilbao’s shimmering Guggenheim to the Walt Disney Concert Hall’s metallic sails, each a testament to a mind that saw buildings as fluid art. He didn't just design structures; he sculpted experiences, defied convention, and bent reality. Now, his audacious curves and bold angles remain, silent monuments to a singular genius whose final masterpiece was a life well-lived.",
+        "originalSource": "BBC News",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1764996056693-3",
+        "headline": "Pacific Echoes, Congressional Whispers",
+        "content": "The legislative chambers buzzed with stark revelations. Lawmakers, their voices tinged with gravity, spoke of recent US military boat strikes in the vast Pacific. Not vague reports, but vivid details, painting pictures of engagements previously cloaked in secrecy. Calls for the Pentagon intensified, demanding the release of video footage, an unblinking eye on the rules of engagement that governed these tense encounters. The ocean, usually a symbol of peace, now held untold stories of conflict. The public, through its representatives, pressed for light, seeking truth in the murky waters of military discretion.",
+        "originalSource": "AP News",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1764996056693-4",
+        "headline": "A New Protocol's Cradle",
+        "content": "A ripple moved through the quiet corridors of public health. A pivotal CDC advisory panel, after careful deliberation, had recalibrated a national norm. No longer would the hepatitis B vaccine be universally recommended at birth for every newborn. Instead, the first precious dose would now be reserved for infants whose mothers carried a known infection risk. This significant policy shift, born from evolving data and expert consensus, aimed to refine protection. For new parents, it meant another layer of medical nuance to understand, another careful balance struck in safeguarding the most fragile lives.",
         "originalSource": "The Guardian",
         "publishedTime": "19 minutes ago"
       },
       {
-        "id": "story-1764991985738-3",
-        "headline": "A Champion's New Arena",
-        "content": "The courtroom hushed as a legend stepped forward. Michael Jordan, a titan of basketball and now a force in NASCAR ownership, took the stand. His voice, accustomed to the roar of adoring crowds, spoke with quiet conviction against the racing organization. 'Someone had to step forward,' he declared, an indictment of alleged monopolistic practices. This wasn't a game of hoops, but a battle for fair play in the high-octane world of motorsports. His testimony, a powerful pivot from the court to the court, became a pivotal moment in the ongoing antitrust saga, shaking the very foundations of the sport.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1764991985738-4",
-        "headline": "The Architect of Dreams Fades",
-        "content": "The world dimmed a little as Frank Gehry, the master of impossible angles, laid down his last design. At 96, the architect whose genius reshaped skylines and challenged conventions, succumbed to a brief respiratory illness. He was the visionary behind the Guggenheim Bilbao’s shimmering curves and the Walt Disney Concert Hall’s metallic sails—buildings that didn’t just stand, but danced. A Pritzker Prize winner, Gehry leaves a legacy of deconstructivist marvels that sparked both awe and debate. His passing marks the quiet end of an era, but his imaginative structures will forever stand as monuments to a boundless spirit.",
-        "originalSource": "The Guardian",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1764991985738-5",
-        "headline": "Europe's Digital Hammer Falls",
-        "content": "A tremor of consequence shook the digital realm. Elon Musk's social platform, X, once known as Twitter, faced the formidable might of the European Union. A colossal fine, 120 million euros strong, was levied for breaching the bloc's stringent new media laws. The decree was clear: misinformation and illegal content would not find refuge within their borders. This decisive blow underscored the EU’s unwavering resolve to police the vast, often lawless, territories of social media. The penalty, a stark message, reiterated that even digital giants must bow to the rule of law, or pay a hefty price.",
-        "originalSource": "PBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1764996056693-5",
+        "headline": "The Unraveling Wall",
+        "content": "The Louisiana night swallowed two figures, fugitives from stone and steel. Inside the correctional facility, a damaged wall now gaped, a testament to desperation and ingenuity. These two men, both marked by violent charges, had meticulously pried loose pieces, then used crude ropes of tied-together sheets to scale their way to freedom. Alarms shrieked, sirens wailed, but the bayous and dense foliage offered a temporary reprieve. A relentless manhunt ignited, officers fanning out, their flashlights cutting through the darkness, determined to reclaim those who had dared to break free.",
+        "originalSource": "CBS News",
+        "publishedTime": "Today"
       }
     ]
   }
