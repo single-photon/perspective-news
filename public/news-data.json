@@ -1,11 +1,269 @@
 {
-  "timestamp": 1765027113572,
+  "timestamp": 1765031716541,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1765031644151-0",
+        "headline": "Right-Wing Extremism Fuels Domestic Terrorism as Pipe Bomb Suspect Confesses to Political Violence",
+        "content": "Nearly five years after pipe bombs were discovered at the Democratic and Republican national headquarters on the eve of the Capitol attack, Brian Cole Jr. has confessed to the crime. Sources indicate that Cole, whose arrest underscores the ongoing threat of politically motivated violence, espoused deep-seated beliefs in the stolen 2020 election narrative and fervent support for President Trump. This confession highlights the urgent need to address the root causes of domestic extremism and the dangerous spread of disinformation that incites such acts against democratic institutions.",
+        "originalSource": "AP News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-1",
+        "headline": "Supreme Court Agrees to Hear President Trump's Divisive Challenge to Birthright Citizenship, Threatening Fundamental Rights",
+        "content": "In a move that signals a direct assault on the foundational principles of the 14th Amendment and human rights, the Supreme Court has agreed to review President Trump's executive order aiming to restrict birthright citizenship for children born in the US to undocumented immigrant parents. This high-stakes legal battle, set to be argued in the spring, challenges a long-settled constitutional understanding and carries significant implications for immigrant communities and the very definition of American citizenship. Advocates warn that dismantling birthright citizenship would create a permanent underclass and further entrench systemic discrimination.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "4:45 p.m. EST, December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-2",
+        "headline": "Long-Awaited Transparency: Federal Judge Orders Release of Epstein Grand Jury Transcripts, Offering Hope for Systemic Accountability",
+        "content": "A federal judge in Florida has ordered the unsealing of grand jury transcripts from the 2005-2007 investigation into the convicted sex offender Jeffrey Epstein, a crucial step towards exposing the systemic failures that allowed his abuses to persist. This ruling, granted under the new 'Epstein Files Transparency Act,' represents a significant victory for victims and advocates seeking to hold powerful individuals and institutions accountable for their roles in enabling such horrific crimes. True justice demands full transparency and a dismantling of the networks that protect the wealthy and connected.",
+        "originalSource": "The Guardian",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-3",
+        "headline": "Defense Secretary Hegseth Faces Calls for Resignation Amid War Crime Allegations and Classified Information Breaches, Exposing Systemic Failures",
+        "content": "Defense Secretary Pete Hegseth is under intense scrutiny and facing mounting calls for his resignation as two major scandals expose a pattern of reckless behavior and potential systemic failures within the Pentagon. Allegations of war crimes stemming from a deadly boat strike in the Caribbean and a watchdog report detailing his violation of policy by sharing classified Yemen strike details on a personal messaging app paint a troubling picture. These incidents underscore the urgent need for ethical leadership, rigorous oversight, and accountability within the defense apparatus to prevent abuses of power and ensure transparency.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7:00 AM EST, December 6, 2025"
+      },
+      {
+        "id": "story-1765031644151-4",
+        "headline": "CDC Panel's Decision to Halt Universal Newborn Hepatitis B Vaccine Recommendation Raises Alarms Among Public Health Advocates, Threatening Community Well-being",
+        "content": "In a deeply concerning move for public health and preventative care, a CDC vaccine advisory panel has voted to eliminate the long-standing recommendation for a universal hepatitis B vaccine at birth for all newborns. The new guidance suggests delaying the dose until two months of age for infants born to mothers testing negative for the virus. Critics are sounding the alarm, warning that this decision could lead to a significant public health setback, potentially increasing health disparities and undermining crucial protections for the most vulnerable members of our community, especially those in marginalized groups where access to follow-up care may be limited.",
+        "originalSource": "CBS News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-5",
+        "headline": "Texas Flood 911 Calls Expose Devastating Human Cost of Climate Crisis and Systemic Failures in Disaster Preparedness",
+        "content": "Newly released 911 calls from last summer's catastrophic Texas Hill Country floods paint a harrowing picture of human desperation, exposing the devastating impact of the climate crisis and potential systemic failures in disaster preparedness and response. The nearly 400 recordings from Kerr County document frantic pleas from residents trapped on rooftops, clinging to trees, and stuck in inundated cabins, revealing the chaotic and overwhelming struggle faced by victims. These calls underscore the urgent need for robust climate action, resilient infrastructure, and equitable emergency services to protect all communities, especially the most vulnerable, from increasingly extreme weather events.",
+        "originalSource": "PBS News",
+        "publishedTime": "6:51 p.m., December 5, 2025"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1765031644151-0",
+        "headline": "Suspect in DC pipe bomb case confessed to investigators, AP sources say",
+        "content": "Brian Cole Jr., arrested nearly five years after pipe bombs were placed at the DNC and RNC headquarters on the eve of the Capitol attack, confessed to the act during an interview with law enforcement. Sources indicate the suspect also expressed views supporting President Trump and belief that the 2020 election was stolen.",
+        "originalSource": "AP News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-1",
+        "headline": "Supreme Court to hear case on Trump's ban on birthright citizenship",
+        "content": "The Supreme Court agreed on Friday to take up the constitutionality of President Trump's executive order, which seeks to limit birthright citizenship for children born in the US to undocumented immigrant parents. The high-stakes case, which challenges a long-settled understanding of the 14th Amendment, will be argued in the spring.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "4:45 p.m. EST, December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-2",
+        "headline": "Federal judge orders release of Epstein grand jury transcripts from Florida probe",
+        "content": "A federal judge in Florida ordered the unsealing of grand jury transcripts from the 2005-2007 investigation into convicted sex offender Jeffrey Epstein, citing a new federal law. The ruling, which grants a Justice Department request, is one of the first under the recently enacted 'Epstein Files Transparency Act'.",
+        "originalSource": "The Guardian",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-3",
+        "headline": "Pressure grows on 'reckless' Hegseth as twin scandals engulf Pentagon chief",
+        "content": "Defense Secretary Pete Hegseth is facing mounting calls for his resignation amid two crises: allegations of war crimes in the Caribbean involving a deadly boat strike, and a watchdog report finding he violated policy by sharing classified Yemen strike details on a personal messaging app.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7:00 AM EST, December 6, 2025"
+      },
+      {
+        "id": "story-1765031644151-4",
+        "headline": "CDC panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns",
+        "content": "The CDC's vaccine advisory panel voted to remove the decades-old recommendation for a universal hepatitis B shot for all infants, opting instead to delay the dose until two months of age for children born to mothers who test negative for the virus. Critics warn the move is a major public health setback.",
+        "originalSource": "CBS News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-5",
+        "headline": "Newly released 911 calls from Texas floods reveal chaotic and desperate pleas for rescues",
+        "content": "Recordings of 911 calls from a catastrophic flood in the Texas Hill Country last summer were released Friday, documenting frantic and chaotic pleas from victims trapped on rooftops, clinging to trees, and stuck in inundated cabins. The nearly 400 calls detail a desperate rescue effort in Kerr County.",
+        "originalSource": "PBS News",
+        "publishedTime": "6:51 p.m., December 5, 2025"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1765031644151-0",
+        "headline": "Justice Nears in Pipe Bomb Case as Suspect Confesses, Citing Election Concerns",
+        "content": "Brian Cole Jr. has confessed to investigators nearly five years after pipe bombs were found at both DNC and RNC headquarters, just prior to the Capitol attack. Sources close to the investigation reveal Cole Jr. expressed views supportive of President Trump and belief in a stolen 2020 election, shedding light on the motivations behind this grave act against our political institutions. This confession marks a critical step towards accountability and ensuring justice is served.",
+        "originalSource": "AP News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-1",
+        "headline": "Supreme Court Will Examine Core Question of National Sovereignty and Birthright Citizenship",
+        "content": "The Supreme Court has agreed to review President Trump's executive order aimed at strengthening national sovereignty by limiting birthright citizenship for children born in the U.S. to parents who have entered the country illegally. This pivotal case challenges a broad interpretation of the 14th Amendment, and its outcome in the spring could restore constitutional clarity and uphold the integrity of American citizenship.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "4:45 p.m. EST, December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-2",
+        "headline": "Judge Demands Full Transparency in Epstein Case, Unsealing Grand Jury Records",
+        "content": "In a victory for transparency and justice, a federal judge in Florida has ordered the unsealing of grand jury transcripts from the 2005-2007 investigation into convicted sex offender Jeffrey Epstein. This crucial ruling, granted at the Justice Department's request, is one of the first under the recently enacted 'Epstein Files Transparency Act,' promising to shed much-needed light on a dark chapter and hold those involved accountable.",
+        "originalSource": "The Guardian",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-3",
+        "headline": "Unfounded Attacks on Defense Secretary Hegseth Threaten National Security Leadership",
+        "content": "Defense Secretary Pete Hegseth is currently facing a barrage of politically charged calls for his resignation, amidst allegations of a deadly boat strike in the Caribbean and a watchdog report claiming he shared classified details on a personal app. These twin 'scandals' appear to be an orchestrated campaign to undermine a strong leader at the Pentagon, distracting from the critical work of securing our nation and defending our interests abroad.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7:00 AM EST, December 6, 2025"
+      },
+      {
+        "id": "story-1765031644151-4",
+        "headline": "CDC Panel Moves Towards Parental Choice, Reversing Universal Newborn Vaccine Mandate",
+        "content": "A CDC vaccine advisory panel has voted to roll back the decades-old recommendation for a universal hepatitis B shot for all newborns. This significant move empowers parents by delaying the dose until two months of age for infants born to mothers who test negative for the virus, shifting towards individual medical decisions rather than broad government mandates. Critics' warnings of a 'setback' ignore the importance of parental autonomy.",
+        "originalSource": "CBS News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-5",
+        "headline": "Heroic Texas Responders Fought Against Devastating Floods, New Calls Reveal",
+        "content": "Newly released 911 calls from last summer's catastrophic flood in the Texas Hill Country vividly portray the desperate pleas for rescue from victims trapped on rooftops and clinging to trees. These nearly 400 calls from Kerr County powerfully underscore the immense challenges faced, while simultaneously highlighting the heroic, tireless efforts of local first responders and the enduring resilience of the Texas community in the face of overwhelming adversity.",
+        "originalSource": "PBS News",
+        "publishedTime": "6:51 p.m., December 5, 2025"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1765031644151-0",
+        "headline": "Pipe Bomb Suspect Finally Confesses to Act Everyone Already Assumed He Did Five Years Ago",
+        "content": "In a stunning revelation that surprised absolutely no one, Brian Cole Jr., the man accused of placing pipe bombs outside the DNC and RNC headquarters, confessed to the crime during a recent chat with law enforcement. Apparently, the five-year-long game of 'who dun it?' reached its inevitable conclusion when Cole reportedly admitted his involvement and, perhaps even less surprisingly, reiterated his unwavering support for President Trump and the absolutely bulletproof theory that the 2020 election was, in fact, spirited away by tiny, invisible gremlins.",
+        "originalSource": "AP News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-1",
+        "headline": "Supreme Court Eagerly Takes On Monumental Task of Redefining 'Born in the U.S.A.'",
+        "content": "The Supreme Court has graciously agreed to finally settle the age-old philosophical debate of whether being 'born in the U.S.A.' actually means you are, you know, a citizen of the U.S.A. President Trump's groundbreaking executive order, which boldly questions the very premise of the 14th Amendment, will now undergo rigorous judicial scrutiny. Experts are on standby to explain how, precisely, a child born to undocumented parents might *not* technically be born 'in' the country, perhaps floating a few inches above the soil, thus avoiding such inconvenient constitutional ties.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "4:45 p.m. EST, December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-2",
+        "headline": "Judge Orders Release of Epstein Transcripts Just As Society Was Starting to Forget About It",
+        "content": "In a bold move that some are calling 'timely, if you define 'timely' as almost two decades later,' a federal judge in Florida has decreed that the grand jury transcripts from the 2005-2007 investigation into Jeffrey Epstein shall finally see the light of day. This monumental decision, hailed as one of the very first under the brand-new 'Epstein Files Transparency Act,' promises to reveal absolutely everything we already suspected, but with official government stamps on it. Prepare for revelations that will shock precisely zero people.",
+        "originalSource": "The Guardian",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-3",
+        "headline": "Pentagon Chief Under Fire For War Crimes, Also For Not Using Encrypted Apps Appropriately",
+        "content": "Defense Secretary Pete Hegseth is currently navigating a veritable ocean of 'bad optics,' facing unprecedented calls for his resignation. His troubles stem from a devastating one-two punch: first, those pesky 'war crime' allegations involving a 'deadly boat strike' in the Caribbean, which, let's be honest, could happen to anyone. Second, and arguably more egregious, is a watchdog report confirming he recklessly shared classified Yemen strike details on a personal messaging app. Clearly, the real scandal here is the appalling lack of operational security hygiene, not, you know, the potential international legal ramifications.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7:00 AM EST, December 6, 2025"
+      },
+      {
+        "id": "story-1765031644151-4",
+        "headline": "CDC Panel Heroically Decides Babies Can Wait Two Whole Months for Vital Hepatitis B Protection",
+        "content": "In a groundbreaking decision that has public health experts collectively clutching their pearls, the CDC's esteemed vaccine advisory panel has bravely voted to discontinue the long-standing, universally accepted practice of giving newborns a hepatitis B shot at birth. Instead, infants born to mothers who pass a quick, entirely reliable screening will now get to experience the thrilling anticipation of waiting a full two months for their first dose. Critics are screaming about 'major public health setbacks,' but proponents insist that this newfound delay will surely revolutionize, or at least slightly postpone, global disease prevention.",
+        "originalSource": "CBS News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-5",
+        "headline": "Shocking 911 Calls Confirm That Being Trapped On a Rooftop During a Flood Is Not Fun",
+        "content": "In a stunning display of what happens when water reaches catastrophic levels, newly released 911 recordings from last summer's Texas Hill Country floods reveal an absolute treasure trove of desperate, frantic, and decidedly un-chill pleas for help. Apparently, people stuck on rooftops, clinging to trees, and submerged in cabins were, surprisingly, not having a good time. The nearly 400 calls provide invaluable, groundbreaking evidence that massive floods can, in fact, be quite inconvenient and even life-threatening for those involved, an insight that will surely reshape our understanding of natural disasters.",
+        "originalSource": "PBS News",
+        "publishedTime": "6:51 p.m., December 5, 2025"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1765031644151-0",
+        "headline": "A man finally admits he put bombs near government buildings.",
+        "content": "A guy named Brian Cole Jr. finally told the police that he was the one who put those pipe bombs near some big government buildings almost five years ago. This happened right before the Capitol attack. He also told them he really liked President Trump and thought the 2020 election wasn't fair.",
+        "originalSource": "AP News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-1",
+        "headline": "The big court will look at President Trump's rule about who can be a citizen.",
+        "content": "On Friday, the biggest court in the country, called the Supreme Court, said they will decide if President Trump's rule about who becomes a citizen is okay. President Trump wants to stop kids born in America from becoming citizens if their parents don't have papers. This is a really important case because it's about a part of our country's old rules, the 14th Amendment, that people have always understood a certain way. They will talk about it more in the spring.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "4:45 p.m. EST, December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-2",
+        "headline": "A judge said secret papers about Jeffrey Epstein should be shared.",
+        "content": "A judge in Florida said that secret papers from an investigation into a bad guy named Jeffrey Epstein from 2005-2007 need to be shown to everyone. This happened because of a new law that helps people see these kinds of papers, called the 'Epstein Files Transparency Act'. This is one of the first times this new law is being used.",
+        "originalSource": "The Guardian",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-3",
+        "headline": "People want Defense Secretary Hegseth to quit his job because of two big problems.",
+        "content": "A lot of people are saying that Pete Hegseth, who is in charge of our country's defense, should leave his job. This is happening because there are two big problems. First, some people say he might have done bad things in a war far away where a boat crashed and people died. Second, a report found that he shared secret information about a military attack in Yemen using his own phone app, which he wasn't supposed to do.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7:00 AM EST, December 6, 2025"
+      },
+      {
+        "id": "story-1765031644151-4",
+        "headline": "Doctors changed their minds about giving all babies a hepatitis B shot right away.",
+        "content": "A group of doctors who advise the CDC, which helps keep people healthy, decided to change an old rule. For many years, they said all babies should get a shot for hepatitis B right after they are born. Now, they are saying that babies whose moms don't have the virus can wait until they are two months old to get the shot. But some people are worried this might not be good for everyone's health.",
+        "originalSource": "CBS News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-5",
+        "headline": "Scary phone calls show people begging for help during a huge flood in Texas.",
+        "content": "On Friday, some really scary phone calls from a giant flood in Texas last summer were made public. In these calls, people sounded very scared and begged for help because they were stuck on roofs, holding onto trees, or trapped in flooded cabins. There were almost 400 calls, and they show how hard people tried to save everyone in Kerr County.",
+        "originalSource": "PBS News",
+        "publishedTime": "6:51 p.m., December 5, 2025"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1765031644151-0",
+        "headline": "The Echo of a Stolen Voice",
+        "content": "Five years dissolved in a single interview. Brian Cole Jr., the ghost of the DNC and RNC pipe bombs, finally confessed. His words, heavy with the weight of that eve before the Capitol attack, revealed a conviction that felt like a familiar tremor across the nation. He spoke of President Trump, of a stolen election—beliefs he carried as he placed those devices, not to harm, but to echo a rage. The silence that followed his confession was louder than any blast, revealing the quiet, dangerous roots of a lingering discord.",
+        "originalSource": "AP News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-1",
+        "headline": "A Child's Claim to Land",
+        "content": "The highest court cast its gaze upon a child's first breath. On Friday, the Supreme Court agreed to hear President Trump's executive order, a decree challenging the long-held sanctuary of birthright citizenship for children born within the US to undocumented parents. The fourteen words of the 14th Amendment, once a bedrock, now face scrutiny. In the spring, arguments will unfold, deciding not just a policy, but the very definition of belonging on this soil, shaping futures before they've even begun.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "4:45 p.m. EST, December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-2",
+        "headline": "Whispers from the Vault",
+        "content": "After years shrouded in silence, whispers from a dark past will finally break free. A federal judge in Florida mandated the unsealing of grand jury transcripts from the 2005-2007 probe into Jeffrey Epstein. This order, a direct consequence of the new 'Epstein Files Transparency Act,' rips open a chapter many had hoped remained closed. The Justice Department's request to expose these proceedings marks a pivotal moment, promising to illuminate the hidden pathways of justice and accountability, finally allowing light into the vault.",
+        "originalSource": "The Guardian",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-3",
+        "headline": "Storm Over the Pentagon",
+        "content": "The Pentagon chief, Pete Hegseth, found himself besieged by a tempest of his own making. Calls for his resignation grew into a relentless chorus, fueled by twin scandals. Whispers of war crimes from a deadly Caribbean boat strike mingled with the stark reality of a watchdog report: Hegseth had shared classified Yemen strike details through a personal messaging app, a reckless breach of trust. The weight of these allegations threatens to capsize his tenure, leaving a legacy marred by controversy and compromise.",
+        "originalSource": "The Guardian",
+        "publishedTime": "7:00 AM EST, December 6, 2025"
+      },
+      {
+        "id": "story-1765031644151-4",
+        "headline": "The First Breath's Delay",
+        "content": "A decades-old protection for newborns shifted with a single vote. The CDC's advisory panel decided to revoke the universal hepatitis B birth dose, recommending instead a two-month delay for infants born to mothers testing negative for the virus. This move, hailed by some as tailored care, was decried by critics as a significant public health retreat. The quiet change in policy ignited a fervent debate, questioning the balance between targeted intervention and the collective shield of widespread early protection.",
+        "originalSource": "CBS News",
+        "publishedTime": "December 5, 2025"
+      },
+      {
+        "id": "story-1765031644151-5",
+        "headline": "Echoes from the Deluge",
+        "content": "The summer flood in Texas Hill Country roared back to life, not through rising waters, but through chilling 911 recordings. Released Friday, these calls painted a visceral picture of chaos: frantic voices from rooftops, desperate pleas from trees, and terrified whispers from inundated cabins in Kerr County. Nearly 400 calls detailed a harrowing night, each a raw testament to human vulnerability and the valiant, yet often overwhelmed, struggle to pluck lives from the grasp of the furious deluge.",
+        "originalSource": "PBS News",
+        "publishedTime": "6:51 p.m., December 5, 2025"
+      }
+    ]
   }
 }
