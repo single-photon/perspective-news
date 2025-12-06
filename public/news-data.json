@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765049217614,
+  "timestamp": 1765053384877,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765049142040-0",
-        "headline": "The Passing of Frank Gehry Highlights Architecture's Transformative Power and Public Role",
-        "content": "The architectural world mourns the loss of Frank Gehry at 96, a visionary whose deconstructivist designs, like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, radically redefined urban landscapes. His legacy invites critical reflection on how monumental architecture shapes public spaces, challenges traditional aesthetics, and contributes to the ongoing dialogue about art's accessibility and societal impact within our cities.",
+        "id": "story-1765053315531-0",
+        "headline": "Systemic Failures Exposed as Texas Flood Victims Desperately Plead for Rescue on 911 Calls.",
+        "content": "Newly released emergency calls from recent devastating floods in Texas reveal not just individual desperation, but potentially systemic failings in infrastructure and disaster preparedness that left vulnerable communities isolated. The frantic pleas for urgent assistance underscore how climate inaction disproportionately impacts working-class neighborhoods, exposing deep inequities in resilience and emergency response during severe weather events.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-1",
-        "headline": "Desperate Texas Flood Calls Underscore Urgent Need for Climate Action and Robust Public Services",
-        "content": "Newly released 911 recordings from Texas floods reveal harrowing pleas for rescue, laying bare the human cost of climate change and systemic underinvestment in resilient infrastructure. These frantic calls highlight the devastating impact on vulnerable communities and demand a progressive focus on comprehensive disaster preparedness and equitable emergency response, challenging leadership to prioritize public safety and climate justice.",
+        "id": "story-1765053315531-1",
+        "headline": "Mega-Merger Between Netflix and Warner Bros. Discovery Threatens Media Diversity and Worker Rights.",
+        "content": "The proposed $83 billion acquisition of Warner Bros. Discovery by streaming behemoth Netflix marks a dangerous escalation in corporate consolidation within the media industry. This blockbuster deal threatens to further limit consumer choice, stifle independent content creation, and potentially lead to job losses, highlighting the unchecked power of a few corporations to control the narratives and cultural landscape of the nation.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-2",
+        "headline": "Supreme Court to Review President Trump's Divisive Order Attacking Birthright Citizenship.",
+        "content": "The U.S. Supreme Court has agreed to hear a challenge against President Trump's executive order, which represents a profound attack on the fundamental principle of birthright citizenship. This deeply divisive policy, seeking to strip rights from children born in the U.S. to non-citizens, exemplifies a systemic effort to marginalize immigrant communities and undermines the very foundation of equality and constitutional protections in our nation.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent Announcement"
+      },
+      {
+        "id": "story-1765053315531-3",
+        "headline": "Democrats Demand Accountability and Broader Inquiry into Fatal Caribbean Boat Strike by U.S. Forces.",
+        "content": "Democratic lawmakers are rightly demanding an expanded congressional investigation into the controversial Caribbean boat strike by U.S. forces, especially following disturbing allegations that two survivors were reportedly killed. This incident raises critical questions about military protocols, accountability for civilian casualties, and the systemic lack of transparency that often shrouds such operations, demanding a thorough review to ensure justice and prevent future atrocities.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-4",
+        "headline": "Remembering Frank Gehry, Whose Monumental Architecture Redefined Urban Landscapes and Public Spaces.",
+        "content": "Frank Gehry, the globally acclaimed architect known for his distinctive, deconstructivist designs, has passed away at 96. His prolific career profoundly reshaped urban landscapes and influenced how we interact with public spaces, leaving a complex legacy that prompts reflection on accessibility, sustainability, and the democratizing potential of art and architecture in our built environment.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-2",
-        "headline": "Upholding Democracy, California AG Declares National Guard is Not President Trump's Personal Force",
-        "content": "California Attorney General Rob Bonta emphatically asserted that the National Guard does not serve as President Trump's 'private army' following a pivotal federal hearing. This crucial statement reinforces the foundational principles of democratic governance, emphasizing the critical importance of constitutional checks and balances to prevent executive overreach and ensure military forces remain accountable to all citizens, not individual political figures.",
+        "id": "story-1765053315531-5",
+        "headline": "Michael Jordan Highlights Systemic Anti-Competitive Practices in NASCAR Antitrust Trial.",
+        "content": "Basketball legend Michael Jordan's testimony in the high-profile antitrust lawsuit against NASCAR spotlights serious allegations of systemic anti-competitive practices within the racing organization. His assertion that 'someone had to step forward' underscores the necessity of challenging powerful corporate structures that stifle fair competition and potentially harm smaller teams and workers within the sport, advocating for greater economic justice in the industry.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-3",
-        "headline": "Sports Icon Michael Jordan Challenges Corporate Power in Pivotal NASCAR Antitrust Battle",
-        "content": "Basketball legend and NASCAR team co-owner Michael Jordan has stepped forward to testify in a high-stakes antitrust trial against NASCAR, advocating for fairness and competition within the sport's business practices. His involvement shines a spotlight on the pervasive issue of concentrated corporate power and highlights the ongoing struggle to ensure economic justice and equitable opportunities for all participants in major industries.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-4",
-        "headline": "Pete Hegseth's Actions Expose Fragility of Loyalty Within President Trump's Political Orbit",
-        "content": "Fox News host Pete Hegseth is reportedly testing President Trump's informal 'no scalps' rule for allies, exposing the inherently fragile dynamics within a political movement often characterized by a demand for unquestioning personal loyalty. This situation underscores the systemic challenges to independent thought and accountability within such circles, raising critical questions about the health of democratic discourse when personal fealty supersedes principle.",
-        "originalSource": "The Atlantic",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765049142040-5",
-        "headline": "Confronting Societal Prejudice: Passengers Unite Against Body Shaming on a Recent Flight",
-        "content": "A recent plane journey became an unexpected platform for confronting pervasive societal prejudice when a passenger was brought to tears by a body-shaming text from her seatmate. This incident, while painful, ultimately highlighted the power of collective empathy as fellow passengers and flight attendants rallied around her, offering support and a tangible display of solidarity against the systemic issue of body shaming in our culture.",
-        "originalSource": "People.com",
-        "publishedTime": "6 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765049142040-0",
-        "headline": "Frank Gehry, celebrated architect of wildly imaginative buildings, dies at 96",
-        "content": "Renowned architect Frank Gehry, known for his distinct, deconstructivist designs like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, has passed away at the age of 96. His death marks the loss of a pivotal figure in modern architecture, whose works transformed cityscapes across the globe and challenged traditional building conventions with their imaginative, sculptural forms.",
+        "id": "story-1765053315531-0",
+        "headline": "Newly released 911 calls from Texas floods reveal chaotic and desperate pleas for rescues.",
+        "content": "Emergency calls from recent devastating floods in Texas have been released, exposing the frantic and desperate nature of the crisis. The recordings capture individuals pleading with dispatchers for urgent assistance as rising waters trapped them, highlighting the chaotic scramble for survival and rescue efforts during the severe weather event.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-1",
-        "headline": "Newly released 911 calls from Texas floods reveal chaotic and desperate pleas for rescues",
-        "content": "Recordings of 911 calls have been released, exposing the frantic and terrifying moments experienced by residents during the recent devastating floods in Texas. The audio captures desperate pleas for immediate rescue from people trapped in rapidly rising waters, highlighting the chaos and overwhelming nature of the disaster for both victims and emergency services.",
+        "id": "story-1765053315531-1",
+        "headline": "Netflix to buy Warner Bros. Discovery in $83 billion deal.",
+        "content": "Streaming giant Netflix is reportedly acquiring Warner Bros. Discovery in a massive corporate takeover valued at $83 billion. This blockbuster deal is poised to reshape the media and entertainment landscape, consolidating a vast library of content and major production studios under Netflix's control in a pivotal industry move.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-2",
+        "headline": "Supreme Court to decide constitutionality of Trump's birthright citizenship order.",
+        "content": "The U.S. Supreme Court has agreed to hear a case challenging the constitutionality of a previous executive order from the Trump administration. The order, which sought to end birthright citizenship for children born in the U.S. to non-citizens, is now set to be reviewed by the nation's highest court, with significant implications.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent Announcement"
+      },
+      {
+        "id": "story-1765053315531-3",
+        "headline": "Democrats press for expanding inquiry into Caribbean boat strike.",
+        "content": "Democratic lawmakers are pushing for a broader congressional investigation into a controversial Caribbean boat strike involving U.S. forces. This follows new revelations that two survivors were allegedly killed, leading to increased scrutiny and calls from Congress for a more comprehensive review of the incident and military protocols.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-4",
+        "headline": "Frank Gehry, celebrated architect of wildly imaginative buildings, dies at 96.",
+        "content": "Frank Gehry, the internationally renowned architect famous for his distinctive, deconstructivist designs, including the Walt Disney Concert Hall, has passed away at the age of 96. His death marks the end of an era for modern architecture, which he profoundly influenced with his dynamic and unconventional structures worldwide.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-2",
-        "headline": "WATCH: National Guard is not Trump's 'private army,' California AG Bonta says after federal hearing",
-        "content": "California Attorney General Rob Bonta asserted that the National Guard is not former President Trump's \"private army\" following a federal hearing. The statement addresses ongoing concerns and legal debates over presidential authority to deploy the National Guard domestically, underscoring the legal boundaries and the critical role of the state's top law enforcement official in this constitutional dispute.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-3",
+        "id": "story-1765053315531-5",
         "headline": "Michael Jordan testifies in NASCAR antitrust trial, saying 'someone had to step forward'",
-        "content": "Basketball legend and NASCAR team co-owner Michael Jordan provided testimony in the ongoing antitrust trial against the racing organization, stating that \"someone had to step forward.\" His involvement highlights the high-stakes legal battle concerning competition and fairness within the sport's business practices, drawing significant attention due to his prominent status in the sports world.",
+        "content": "Basketball legend Michael Jordan testified in a high-profile antitrust lawsuit against NASCAR, which centers on allegations of anti-competitive practices within the racing organization. Jordan, a team owner, stated that intervention was necessary in the sport's business practices, lending his significant influence to the ongoing legal battle.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-4",
-        "headline": "Pete Hegseth Is Seriously Testing Trump's 'No Scalps' Rule",
-        "content": "Fox News host Pete Hegseth is reportedly challenging former President Trump's informal \"no scalps\" rule for allies, fueling speculation about internal power dynamics and potential conflicts within Trump's inner circle. The situation involves navigating the delicate balance of loyalty and independent ambition among key media figures closely aligned with the former administration.",
-        "originalSource": "The Atlantic",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765049142040-5",
-        "headline": "Plane Passenger Left in Tears After Seeing Seatmate's Body-Shaming Text. Then Strangers Changed Everything (Exclusive)",
-        "content": "A plane passenger was reduced to tears after inadvertently seeing a body-shaming text message written by her seatmate. The story took a turn when other passengers and flight attendants rallied around her, offering support and a change of seat. The exclusive report details the emotional incident and the unexpected kindness of strangers.",
-        "originalSource": "People.com",
-        "publishedTime": "6 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765049142040-0",
-        "headline": "Frank Gehry, Architect Who Challenged Traditional Designs, Leaves a Complex Legacy at 96.",
-        "content": "The passing of Frank Gehry at 96 marks the end of an era for architecture, a field he profoundly influenced with his distinct, deconstructivist approach. Known for structures like the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, Gehry's designs often challenged established building conventions, ushering in a new, imaginative, and sometimes controversial, sculptural aesthetic that left an indelible mark on cityscapes globally.",
+        "id": "story-1765053315531-0",
+        "headline": "Texas Families Face Nature's Fury Amid Devastating Floods, Community Spirit Shines.",
+        "content": "New 911 recordings from the recent Texas floods reveal the harrowing reality faced by citizens as rising waters threatened their homes and lives. These desperate pleas for rescue underscore the critical importance of self-reliance and local emergency services in times of crisis, reminding us that strong communities are the first line of defense against unforeseen natural disasters. Our thoughts remain with those who endured this profound challenge.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-1",
-        "headline": "Texas Flood 911 Calls Expose Devastating Chaos, Underscore Local Preparedness Needs.",
-        "content": "Newly released 911 recordings from the devastating Texas floods paint a harrowing picture of chaos and desperation, reminding us of nature's formidable power and the critical need for effective local emergency response. The frantic pleas for rescue from residents trapped by rapidly rising waters highlight the overwhelming challenges faced by both citizens and heroic first responders, underscoring the importance of robust community infrastructure and individual preparedness in the face of such calamitous events.",
+        "id": "story-1765053315531-1",
+        "headline": "Massive Media Consolidation Threatens Free Market and Diverse Voices in Entertainment.",
+        "content": "The reported $83 billion acquisition of Warner Bros. Discovery by streaming titan Netflix signals a concerning trend of increasing media consolidation. Such colossal deals raise serious questions about the future of a truly free and competitive marketplace, potentially limiting the range of voices and content available to American families. A robust and diverse media landscape is essential for informed citizens, and unchecked corporate power could stifle innovation and traditional values in entertainment.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-2",
+        "headline": "Supreme Court Considers President Trump's Vital Executive Order on Birthright Citizenship.",
+        "content": "The U.S. Supreme Court has taken up a pivotal case concerning President Trump's executive order aimed at clarifying birthright citizenship. This crucial review by the nation's highest court will examine the constitutional integrity of our immigration laws and national sovereignty. President Trump's foresight in addressing the misinterpretation of the 14th Amendment sought to uphold the rule of law and protect the foundational principles of American citizenship, ensuring it is not arbitrarily extended to those without a legitimate claim.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent Announcement"
+      },
+      {
+        "id": "story-1765053315531-3",
+        "headline": "Partisan Democrats Threaten Military Readiness with Demands for Expanded Caribbean Inquiry.",
+        "content": "Democratic lawmakers are reportedly demanding a broader congressional investigation into a Caribbean boat strike involving U.S. forces, citing new, unverified allegations. While transparency is always valued, these persistent calls risk politicizing essential military operations and undermining the courageous men and women who serve to protect our nation's interests. Our military's protocols are robust, and we must be careful not to create a narrative that weakens trust in our armed forces and compromises national security for political gain.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-4",
+        "headline": "Influential Architect Frank Gehry Passes, Leaving a Legacy of Bold, Modern Structures.",
+        "content": "Frank Gehry, the internationally recognized architect known for his distinctive designs like the Walt Disney Concert Hall, has passed away at 96. His prolific career certainly marked a significant era in modern architecture, pushing boundaries with unconventional structures. While his work challenged traditional aesthetics, his impact on the built environment and the public discourse around design remains undeniable, leaving behind a legacy that sparked much discussion and changed cityscapes.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-2",
-        "headline": "California AG Bonta Politicizes National Guard, Undermining Presidential Authority.",
-        "content": "Following a federal hearing, California Attorney General Rob Bonta controversially asserted that the National Guard is not President Trump's 'private army.' This statement, often seen as a political jab, reignites debates over the constitutional authority of the President to deploy the National Guard domestically. It is imperative to remember the critical role of the Commander-in-Chief in national security, ensuring that legal boundaries are respected while maintaining a strong federal executive capable of acting decisively when needed for national interests.",
+        "id": "story-1765053315531-5",
+        "headline": "Michael Jordan Champions Free Market Principles in NASCAR Antitrust Battle.",
+        "content": "Basketball icon Michael Jordan, now a prominent team owner, has taken a stand in the high-stakes antitrust lawsuit against NASCAR, advocating for fair competition and free market principles. His powerful testimony underscores the vital importance of ensuring that no single entity holds undue power, stifling opportunity and innovation. Jordan's involvement highlights the need to protect the integrity of business practices, allowing all participants the liberty to compete fairly within the sport.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-3",
-        "headline": "Michael Jordan Championing Free Market Principles in High-Stakes NASCAR Antitrust Battle.",
-        "content": "Basketball icon and NASCAR team co-owner Michael Jordan has delivered powerful testimony in the ongoing antitrust trial against the racing organization, stating, 'someone had to step forward.' Jordan's involvement underscores a crucial battle for fair competition and free market principles within professional sports. His willingness to challenge established business practices against a large organization demonstrates a commitment to economic liberty and ensures that the pursuit of fairness and opportunity remains paramount, even for prominent figures like him.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-4",
-        "headline": "Pete Hegseth's Actions Test Loyalty Dynamics Within President Trump's Conservative Movement.",
-        "content": "Fox News host Pete Hegseth is reportedly navigating the intricate dynamics of loyalty and ambition, seemingly testing President Trump's informal 'no scalps' rule for allies. This situation highlights the natural internal power struggles that can arise within any significant political movement. While independent ambition is a hallmark of strong individuals, the conservative movement thrives on unity and a shared commitment to its core principles, making such internal tests significant for future alignment.",
-        "originalSource": "The Atlantic",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765049142040-5",
-        "headline": "Acts of Common Decency Triumph Over Cruelty on a Crowded Airplane.",
-        "content": "A recent exclusive report details a distressing incident where a plane passenger was brought to tears by a cruel body-shaming text message from her seatmate. However, the story quickly pivoted to an uplifting display of human decency: fellow passengers and flight attendants spontaneously rallied to offer support and comfort. This poignant event serves as a powerful reminder that while individual unkindness can inflict pain, the innate goodness and communal spirit of ordinary citizens can readily overcome such negativity, reinforcing the enduring value of neighborly compassion and respect.",
-        "originalSource": "People.com",
-        "publishedTime": "6 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765049142040-0",
-        "headline": "World's Supply of Crooked Buildings Plummet After Visionary Architect Frank Gehry Finally Succumbs To Straight Lines",
-        "content": "Cities worldwide grappled with an architectural identity crisis this week as Frank Gehry, the mastermind behind buildings that looked perpetually confused, passed away at the spry age of 96. Architects across the globe are reportedly dusting off their rulers and levelers, cautiously reacquainting themselves with the alien concepts of 'parallel' and 'perpendicular' after decades of Gehry-inspired defiance against geometric sanity. Experts predict a sudden surge in structurally sound, yet tragically boring, buildings by year's end.",
+        "id": "story-1765053315531-0",
+        "headline": "Texas Flood Victims Interrupt TikTok Scrolling To Place Urgent 911 Calls From Roofs",
+        "content": "Emergency dispatchers across Texas reported a shocking surge in calls during recent floods, primarily from individuals expressing mild inconvenience at having their internet service interrupted. One distraught caller reportedly demanded to know if emergency personnel could also deliver a gluten-free pizza, highlighting the truly dire priorities of survival.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-1",
-        "headline": "Texas 911 Calls Reveal Residents Prioritizing Wi-Fi Over Actual Survival During Catastrophic Floods",
-        "content": "Newly released 911 audio from the recent Texas floods has exposed a shocking hierarchy of concerns among trapped residents, with many callers reportedly asking if rescue boats were equipped with portable hotspots. Emergency services struggled to explain that 'immediate rescue from rising water' typically trumps 'ensuring my TikTok upload completes.' The recordings paint a vivid picture of chaos, desperation, and an unwavering commitment to online connectivity in the face of existential dread.",
+        "id": "story-1765053315531-1",
+        "headline": "Netflix Now Owns All Forms Of Media, Announces Plans To Acquire Your Thoughts Next",
+        "content": "In a truly unsurprising move, streaming behemoth Netflix has acquired Warner Bros. Discovery for a mere $83 billion, thus completing its mission to own every single piece of filmed entertainment ever created. Industry analysts predict viewers will soon receive personalized mind-probes determining their next binge, eliminating the tiresome need to actually choose a show.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-2",
+        "headline": "Supreme Court To Ponder If Babies Are Truly American Or Just Really Tiny Tourists",
+        "content": "The U.S. Supreme Court has bravely agreed to tackle the existential question of whether a baby born on American soil, but lacking a valid tiny passport, is truly a citizen. Legal experts anticipate President Trump's original executive order will spark a robust debate over whether a fetus can possess 'intent to immigrate' and if a birth certificate should include a loyalty oath.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent Announcement"
+      },
+      {
+        "id": "story-1765053315531-3",
+        "headline": "Democrats Demand Inquiry Into Caribbean Boat Strike To Include Boat's Feelings And Ocean's Trauma",
+        "content": "Democratic lawmakers, ever vigilant, are pushing for an exhaustive congressional investigation into a Caribbean boat strike, arguing that merely understanding how two survivors were allegedly killed isn't enough. Sources confirm the expanded inquiry will include a deep dive into the psychological impact on the boat, the emotional state of the surrounding marine life, and why nobody thought to ask the coral reefs for their eyewitness testimony.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-4",
+        "headline": "Frank Gehry's Buildings Reportedly Collapsing In Grief After Architect's Passing At 96",
+        "content": "Iconic architect Frank Gehry, known for his relentless assault on straight lines, has finally departed this mortal coil at the respectable age of 96. Eyewitnesses report that immediately following the news, his famously contorted buildings around the world began to weep rust and spontaneously fold themselves into even more perplexing shapes, signaling the end of an era for geometrically challenged structures.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-2",
-        "headline": "California AG Rob Bonta Firmly Reminds President Trump That National Guard Members Are Not Available For Private Marches Or Golf Caddy Duties",
-        "content": "California Attorney General Rob Bonta released a strongly worded statement clarifying, for what felt like the millionth time, that the National Guard is not President Trump's personal, uniformed entourage, nor can they be repurposed for any impromptu parades or golf course landscaping. Following a federal hearing, Bonta reportedly sighed deeply before reiterating that these soldiers are, in fact, beholden to laws and not merely the whim of a presidential tweet about a 'very unfair' green. Legal experts are now drafting laminated flashcards for future reference.",
+        "id": "story-1765053315531-5",
+        "headline": "Michael Jordan Testifies In NASCAR Trial, Explains Why Everyone Should Just 'Be Like Mike'",
+        "content": "Basketball legend Michael Jordan graced a NASCAR antitrust trial with his presence, generously offering his two cents on why the racing organization should simply adopt his legendary business acumen. Sources close to the proceedings revealed Jordan suggested a new rule where every team gets a chance to 'dunk' their car through a giant hoop for extra points, ensuring 'fair play' and presumably higher viewership.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-3",
-        "headline": "Michael Jordan Single-Handedly Rescues NASCAR From Existential Antitrust Crisis, Demands Everyone Now Wear His Brand Shoes To Court",
-        "content": "Basketball demigod and part-time NASCAR team owner Michael Jordan descended from the heavens to testify in the ongoing antitrust trial against the racing organization, stating gravely, 'Someone, apparently, had to step forward to actually fix things.' Jordan's appearance reportedly solved the entire high-stakes legal battle within minutes, as judges and lawyers alike were too awestruck to continue arguing. Sources indicate that His Airness is now considering solving world hunger, but only if he can get a good endorsement deal out of it.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-4",
-        "headline": "Fox News Host Pete Hegseth Discovers 'No Scalps' Rule Is Actually A Strict 'No Actual Scalping' Rule, Sources Confirm",
-        "content": "Fox News host Pete Hegseth has reportedly been seen nervously clutching his scalp after discovering that President Trump's famous 'no scalps' rule for allies is not, as previously assumed, a metaphorical guideline for internal ambition, but a literal decree against the ancient practice of cranial depilation. Sources close to the situation reveal that Hegseth is now meticulously maintaining his hairline and avoiding any sudden movements around members of President Trump's inner circle, just in case. The tension is reportedly thicker than a badly-trimmed toupée.",
-        "originalSource": "The Atlantic",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765049142040-5",
-        "headline": "Heroic Airline Passengers Mobilize To Publicly Shame Body-Shamer Who Had Already Successfully Shamed Someone Privately",
-        "content": "In a display of unparalleled collective righteousness, airline passengers sprang into action this week, forming an impromptu tribunal to publicly shame a body-shaming seatmate. The incident began when a passenger, reduced to tears by a text message she inadvertently saw, became the unwilling catalyst for a full-scale public morality play. Fellow travelers and flight attendants, not content with merely moving the distraught passenger, apparently felt the need to ensure the original shamer received an even more uncomfortable, highly public dose of their own medicine, thus guaranteeing maximal emotional suffering for all involved.",
-        "originalSource": "People.com",
-        "publishedTime": "6 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765049142040-0",
-        "headline": "A Super Famous Architect Who Made Wild Buildings Has Died",
-        "content": "Frank Gehry was a really famous builder, like an architect, who made buildings that looked super cool and different. He made places like the Guggenheim Museum in Spain and the Walt Disney Concert Hall in California. These buildings didn't look like normal square buildings; they were curvy and twisted, like giant sculptures! He was 96 years old when he passed away, and he changed how people thought about what buildings could look like all over the world.",
+        "id": "story-1765053315531-0",
+        "headline": "Scary Phone Calls Show How Bad Texas Floods Were",
+        "content": "Imagine really bad floods in Texas, so bad that people had to call 911 for help. New phone calls just came out, and you can hear people sounding really scared and begging for someone to come save them because the water was getting higher and they were stuck. It shows how crazy and scary it was when the floods happened.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-1",
-        "headline": "Scary Phone Calls Show How Bad the Texas Floods Were",
-        "content": "Some really sad phone calls people made to 911 during the big floods in Texas were just shared. You can hear how scared people were, begging for help because the water was rising so fast and trapping them. It shows how messy and scary the floods were for everyone, both the people who needed help and the emergency workers trying to save them.",
+        "id": "story-1765053315531-1",
+        "headline": "Netflix Is Going to Buy Another Huge Movie Company",
+        "content": "Netflix, which you probably use to watch lots of shows and movies, is planning to buy another really big company called Warner Bros. Discovery. This deal is super huge, costing 83 billion dollars! It means Netflix will own even more movies and TV shows, maybe even some of your favorites, and become even bigger in the world of entertainment.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-2",
+        "headline": "America's Top Court Will Look at President Trump's Rules",
+        "content": "The highest court in America, called the Supreme Court, has decided to look at a rule that President Trump made before. This rule was about whether kids born in America to parents who aren't citizens should automatically become citizens. The court will now decide if President Trump's rule is fair and allowed by the law.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent Announcement"
+      },
+      {
+        "id": "story-1765053315531-3",
+        "headline": "Some Lawmakers Want to Know More About a Boat Incident",
+        "content": "Some important people in government, called Democrats, want to look much deeper into something messy that happened with a boat in the Caribbean Sea. It was a boat strike involving our country's soldiers. They want to know more because new information came out that says two people who survived the boat strike might have been killed afterward. So, everyone wants a better look at what really happened and if the rules were followed.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-4",
+        "headline": "A Famous Building Designer Who Made Cool Shapes Has Died",
+        "content": "Frank Gehry, a very famous person who designed amazing and really cool-looking buildings, has passed away. He was 96 years old. He made buildings that looked like they were bending and twisting, like the Walt Disney Concert Hall. He changed how people thought about what buildings could look like all over the world.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-2",
-        "headline": "California's Top Lawyer Says National Guard Is Not President Trump's Own Army",
-        "content": "California's main lawyer, Rob Bonta, said that the National Guard is not like President Trump's personal army. He said this after a big meeting about how much power a president has to use the National Guard inside the country. It's important because it talks about who gets to tell the National Guard what to do and makes sure everyone follows the rules.",
+        "id": "story-1765053315531-5",
+        "headline": "Basketball Star Michael Jordan Spoke Up About Car Racing",
+        "content": "Michael Jordan, the super famous basketball player, just spoke in court about car racing, specifically about NASCAR. He owns a racing team and said that someone needed to speak up about how NASCAR does its business, because some people think they are not playing fair. He used his big voice to help with a lawsuit about how racing teams are treated.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-3",
-        "headline": "Basketball Star Michael Jordan Spoke in a Big Race Car Lawsuit",
-        "content": "Michael Jordan, who is a super famous basketball player and also helps own a NASCAR racing team, spoke in court about a big lawsuit against NASCAR. He said someone needed to speak up. This is a big deal because it's about making sure things are fair and competitive in the racing world, and everyone pays attention when someone as famous as Michael Jordan gets involved.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-4",
-        "headline": "A TV Guy Might Be Breaking President Trump's Unspoken Rules",
-        "content": "A guy named Pete Hegseth, who hosts a show on Fox News, seems to be challenging one of President Trump's unwritten rules about how his friends and helpers should act. This is making people wonder if there are problems or disagreements happening between President Trump and the people who work with him or support him in the news. It's all about how loyal people are and if they want to do their own thing too.",
-        "originalSource": "The Atlantic",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765049142040-5",
-        "headline": "People on a Plane Were Super Nice to Someone Who Was Made Sad",
-        "content": "A person on an airplane started crying because they accidentally saw a mean text message from the person sitting next to them, making fun of their body. But then, other people on the plane and the flight attendants were really kind. They helped the sad passenger, gave them support, and even let them switch seats. It was a really touching moment of strangers being unexpectedly nice.",
-        "originalSource": "People.com",
-        "publishedTime": "6 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765049142040-0",
-        "headline": "The Sculptor of Cities",
-        "content": "The world paused, sensing a void where steel and titanium once soared. Frank Gehry, master weaver of impossible dreams, had laid down his pencil at ninety-six. His buildings, like the Guggenheim's silver petals or Disney Hall's flowing curves, weren't mere structures; they were songs frozen in time, challenging gravity and convention. Each edifice, a testament to a mind that saw art in the skeletal frame, redefined cityscapes. Now, his imaginative spirit lingers in every audacious angle, every unexpected ripple of his global legacy, a silent symphony etched against the sky.",
+        "id": "story-1765053315531-0",
+        "headline": "The Water's Cry",
+        "content": "The line crackled, a child's sob barely audible above the deluge. 'We're trapped! The water, it's everywhere!' The dispatcher, a steady voice amidst the chaos, tried to pinpoint the address, knowing countless others were making similar desperate pleas across Texas. Homes became islands, then disappeared, as the floodwaters rose, unforgiving. Each frantic 911 call was a raw testament to human fragility, a terrifying echo of survival's frantic scramble against nature's wrath. The city held its breath, praying for dawn, praying for rescue, praying for any sign of hope.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-1",
-        "headline": "The Waters' Echo",
-        "content": "The air crackled with a phantom chill, a haunting echo of the Texas floods. New recordings surfaced, raw pleas tearing through the silence. \"Please, hurry! Water's rising!\" a voice shrieked, then choked with fear. Another whispered prayers, trapped as the deluge consumed their world. Each call, a miniature drama of terror, painted a vivid picture of the chaos: submerged homes, desperate families, and the overwhelmed dispatchers fighting a losing battle against the relentless current. The recordings weren't just audio; they were the collective scream of a community drowning.",
+        "id": "story-1765053315531-1",
+        "headline": "The Stream Giant's Feast",
+        "content": "The digital titans met in a silent, seismic shift. Netflix, the streaming behemoth, extended its reach, swallowing Warner Bros. Discovery whole in an $83 billion gulp. Libraries of cinematic history, beloved television sagas, and studios humming with creative energy now belonged to one entity. The entertainment landscape, already reshaped by algorithms and subscriptions, now solidified into a new empire. Critics murmured of monopolies, creators dreamt of wider audiences, and viewers merely anticipated an endless scroll of new possibilities under the watchful eye of the screen's undisputed new monarch.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-2",
+        "headline": "The Question of Birthright",
+        "content": "The nation's highest court prepared to convene, its hallowed halls buzzing with constitutional gravity. At stake: President Trump's executive order, a bold decree challenging the long-held principle of birthright citizenship for children born on U.S. soil to non-citizens. The implications rippled across families, legal scholars, and future generations. Would the parchment's words be reinterpreted? Would a child's first breath in America still guarantee a claim to its promise? The nine justices held the scales of justice, tasked with balancing history against a pivotal reimagining of national identity.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recent Announcement"
+      },
+      {
+        "id": "story-1765053315531-3",
+        "headline": "Echoes from the Deep",
+        "content": "Whispers of a Caribbean boat strike turned to shouts as new, gruesome details emerged. Two survivors, once clinging to hope after a U.S. forces operation, were allegedly killed, their fate shrouded in a deepening mystery. Democratic lawmakers, fueled by outrage and a thirst for truth, demanded a broader congressional inquiry. The initial report, once deemed sufficient, now seemed a thin veil over a darker narrative. Calls for accountability grew louder, threatening to unravel military protocols and expose the chilling secrets hidden beneath the ocean's unforgiving surface.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recent Report"
+      },
+      {
+        "id": "story-1765053315531-4",
+        "headline": "The Sculptor of Dreams",
+        "content": "The world paused as news spread of Frank Gehry’s passing. At 96, the architect of impossible dreams laid down his tools, leaving behind a legacy of structures that defied gravity and convention. From the gleaming, metallic sails of the Walt Disney Concert Hall to the vibrant undulations of his museums, his buildings were more than concrete and steel; they were sculptures, deconstructed poems in space. He challenged perceptions, bent reality, and forever etched his imaginative vision onto skylines worldwide, a testament to a life lived building the unimaginable.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
       },
       {
-        "id": "story-1765049142040-2",
-        "headline": "Boundaries of Command",
-        "content": "The gavel’s echo faded, but California AG Rob Bonta’s words resonated: \"The National Guard is not President Trump’s private army.\" A federal hearing had just revisited the contentious lines of presidential authority, the delicate balance between federal command and state sovereignty. Bonta's declaration wasn't merely a legal point; it was a reaffirmation of a core democratic principle, a reminder that even the highest office has bounds. The uniform, he implied, serves the Constitution, not a single individual, guarding against the specter of unchecked power.",
+        "id": "story-1765053315531-5",
+        "headline": "The Court of Asphalt",
+        "content": "Michael Jordan, a legend on the hardwood, now commanded a different court—the witness stand in a high-stakes NASCAR antitrust trial. His voice, usually reserved for courtside cheers or strategic huddles, now cut through the courtroom, asserting, 'someone had to step forward.' As a team owner, Jordan brought his formidable influence to bear against allegations of anti-competitive practices within the racing giant. The fight for fairness in NASCAR’s business practices had found its unlikely champion, trading dunks for depositions, and adding another chapter to his unparalleled legacy.",
         "originalSource": "PBS News",
         "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-3",
-        "headline": "The Legend's New Arena",
-        "content": "The court became another kind of arena as Michael Jordan, legend of courts and now owner of speed, took the stand. \"Someone had to step forward,\" he declared, his gaze unwavering. This wasn't about basketball; it was about the roaring engines of NASCAR, and the quiet rumble of an antitrust battle. Fairness, competition – principles he understood deeply from his own storied career – were now at stake in the business of racing. His voice, once commanding on the court, now carried weight in a courtroom, advocating for integrity in the sport’s high-stakes world.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765049142040-4",
-        "headline": "A Loyal Tightrope",
-        "content": "In the intricate dance of political loyalty, President Trump’s \"no scalps\" rule was an unspoken commandment. Yet, whispers now claimed Pete Hegseth, a Fox News ally, was treading perilously close to the line. Ambition, a potent elixir, often tested even the most steadfast allegiances. The air grew thick with speculation: was this a mere misstep, or a calculated challenge to the inner circle’s unspoken hierarchy? It was a high-stakes tightrope walk for any figure seeking influence, a delicate negotiation between devotion and the quiet pull of one's own ascent.",
-        "originalSource": "The Atlantic",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765049142040-5",
-        "headline": "The Unkind Words, The Kind Hands",
-        "content": "The cabin hummed, a deceptive calm. She glanced, a flicker of text on her seatmate’s phone: cruel words, a judgment of her very form. Tears welled, a silent, public humiliation. But then, a subtle shift. A flight attendant, seeing the distress, whispered a question. Soon, strangers became allies. A new seat, kind smiles, an outpouring of unexpected empathy. The airplane, a microcosm of humanity, transformed from a place of quiet cruelty into an unexpected sanctuary, proving that compassion, like a sudden gust of wind, could lift even the heaviest heart.",
-        "originalSource": "People.com",
-        "publishedTime": "6 hours ago"
       }
     ]
   }
