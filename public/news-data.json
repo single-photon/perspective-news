@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765053384877,
+  "timestamp": 1765056661380,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765053315531-0",
-        "headline": "Systemic Failures Exposed as Texas Flood Victims Desperately Plead for Rescue on 911 Calls.",
-        "content": "Newly released emergency calls from recent devastating floods in Texas reveal not just individual desperation, but potentially systemic failings in infrastructure and disaster preparedness that left vulnerable communities isolated. The frantic pleas for urgent assistance underscore how climate inaction disproportionately impacts working-class neighborhoods, exposing deep inequities in resilience and emergency response during severe weather events.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765053315531-1",
-        "headline": "Mega-Merger Between Netflix and Warner Bros. Discovery Threatens Media Diversity and Worker Rights.",
-        "content": "The proposed $83 billion acquisition of Warner Bros. Discovery by streaming behemoth Netflix marks a dangerous escalation in corporate consolidation within the media industry. This blockbuster deal threatens to further limit consumer choice, stifle independent content creation, and potentially lead to job losses, highlighting the unchecked power of a few corporations to control the narratives and cultural landscape of the nation.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
-      },
-      {
-        "id": "story-1765053315531-2",
-        "headline": "Supreme Court to Review President Trump's Divisive Order Attacking Birthright Citizenship.",
-        "content": "The U.S. Supreme Court has agreed to hear a challenge against President Trump's executive order, which represents a profound attack on the fundamental principle of birthright citizenship. This deeply divisive policy, seeking to strip rights from children born in the U.S. to non-citizens, exemplifies a systemic effort to marginalize immigrant communities and undermines the very foundation of equality and constitutional protections in our nation.",
+        "id": "story-1765056582908-0",
+        "headline": "Administration Replaces Critical Civil Rights Holidays with President Trump's Birthday for National Park Access, Sparking Outcry",
+        "content": "A recent announcement revealed a controversial shift in designated free entrance days for U.S. national parks. Martin Luther King Jr. Day and Juneteenth, holidays celebrating pivotal moments in racial justice and liberation, have been removed from the list. In their place, a new free day coinciding with President Trump's birthday has been instated. This move has ignited widespread criticism from civil rights advocates and the public, who see it as a symbolic erasure of significant Black American history and a politicization of national cultural institutions, reflecting a concerning disregard for systemic equity and inclusivity.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent Announcement"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765053315531-3",
-        "headline": "Democrats Demand Accountability and Broader Inquiry into Fatal Caribbean Boat Strike by U.S. Forces.",
-        "content": "Democratic lawmakers are rightly demanding an expanded congressional investigation into the controversial Caribbean boat strike by U.S. forces, especially following disturbing allegations that two survivors were reportedly killed. This incident raises critical questions about military protocols, accountability for civilian casualties, and the systemic lack of transparency that often shrouds such operations, demanding a thorough review to ensure justice and prevent future atrocities.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
+        "id": "story-1765056582908-1",
+        "headline": "Public Health Advocates Voice Concerns as CDC Panel Reverses Key Newborn Vaccine Recommendation",
+        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to discontinue the routine recommendation for administering the hepatitis B vaccine to newborns at birth. This controversial decision has spurred significant debate among public health officials and medical professionals, with many expressing apprehension about the potential implications for universal health coverage and the protection of vulnerable infants. Critics argue this reversal could undermine collective immunity efforts and disproportionately impact communities with limited healthcare access, highlighting systemic challenges in public health policy.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "22 hours ago"
       },
       {
-        "id": "story-1765053315531-4",
-        "headline": "Remembering Frank Gehry, Whose Monumental Architecture Redefined Urban Landscapes and Public Spaces.",
-        "content": "Frank Gehry, the globally acclaimed architect known for his distinctive, deconstructivist designs, has passed away at 96. His prolific career profoundly reshaped urban landscapes and influenced how we interact with public spaces, leaving a complex legacy that prompts reflection on accessibility, sustainability, and the democratizing potential of art and architecture in our built environment.",
+        "id": "story-1765056582908-2",
+        "headline": "Heartbreaking 911 Calls Expose Systemic Failures and Human Cost Amidst Texas' Climate-Exacerbated Floods",
+        "content": "Newly released audio of emergency calls from the recent Texas floods paints a harrowing picture of chaos and desperation. The recordings capture intense, urgent pleas from residents trapped by rapidly rising waters, underscoring the severe human cost of extreme weather events. These desperate cries for help highlight an overwhelmed disaster response system and the devastating impact of climate change on communities, demanding immediate and robust systemic action for climate resilience and equitable disaster preparedness to protect vulnerable populations.",
         "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765053315531-5",
-        "headline": "Michael Jordan Highlights Systemic Anti-Competitive Practices in NASCAR Antitrust Trial.",
-        "content": "Basketball legend Michael Jordan's testimony in the high-profile antitrust lawsuit against NASCAR spotlights serious allegations of systemic anti-competitive practices within the racing organization. His assertion that 'someone had to step forward' underscores the necessity of challenging powerful corporate structures that stifle fair competition and potentially harm smaller teams and workers within the sport, advocating for greater economic justice in the industry.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "id": "story-1765056582908-3",
+        "headline": "EU Slaps Hefty Fine on Elon Musk's X, Asserting Regulatory Power Over Big Tech's Unchecked Influence",
+        "content": "The European Union has issued a substantial fine of 120 million euros against Elon Musk's social media platform, X (formerly Twitter), for failing to comply with the bloc's digital media and content moderation regulations. This decisive action underscores a growing global push to hold powerful Big Tech corporations accountable for their unchecked influence and pervasive societal impact. The fine signals a crucial step towards reining in platforms that have often operated with impunity, emphasizing the need for robust regulatory frameworks to protect users and combat the spread of misinformation.",
+        "originalSource": "PBS News / Fox News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-4",
+        "headline": "Arrest of U.S. Playwright in Japan Puts Spotlight on Disparities in Global Drug Enforcement",
+        "content": "A prominent American playwright has been detained in Japan following allegations of attempting to smuggle ecstasy into the country. This arrest has garnered significant attention within the U.S. and international arts communities, with details surrounding the circumstances and potential charges still emerging. Beyond the individual case, this incident sheds light on the often harsh and varied realities of international drug laws and enforcement, prompting discussions about systemic approaches to drug policy and the potential for severe, disproportionate penalties across different legal systems.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-5",
+        "headline": "Tragic Passing of Michael Annett at 39 Prompts Community-Wide Grief and Conversations on Support Systems",
+        "content": "The NASCAR community is mourning the sudden passing of former Xfinity Series driver Michael Annett at the age of 39. His unexpected death, after a long career that concluded in 2021, has prompted an outpouring of tributes and grief from fans and colleagues nationwide. This tragic loss at a young age serves as a poignant reminder of the fragility of life and, in the context of demanding professional careers, subtly underscores the critical importance of robust support systems for athletes' holistic well-being and mental health within competitive industries.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765053315531-0",
-        "headline": "Newly released 911 calls from Texas floods reveal chaotic and desperate pleas for rescues.",
-        "content": "Emergency calls from recent devastating floods in Texas have been released, exposing the frantic and desperate nature of the crisis. The recordings capture individuals pleading with dispatchers for urgent assistance as rising waters trapped them, highlighting the chaotic scramble for survival and rescue efforts during the severe weather event.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765053315531-1",
-        "headline": "Netflix to buy Warner Bros. Discovery in $83 billion deal.",
-        "content": "Streaming giant Netflix is reportedly acquiring Warner Bros. Discovery in a massive corporate takeover valued at $83 billion. This blockbuster deal is poised to reshape the media and entertainment landscape, consolidating a vast library of content and major production studios under Netflix's control in a pivotal industry move.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
-      },
-      {
-        "id": "story-1765053315531-2",
-        "headline": "Supreme Court to decide constitutionality of Trump's birthright citizenship order.",
-        "content": "The U.S. Supreme Court has agreed to hear a case challenging the constitutionality of a previous executive order from the Trump administration. The order, which sought to end birthright citizenship for children born in the U.S. to non-citizens, is now set to be reviewed by the nation's highest court, with significant implications.",
+        "id": "story-1765056582908-0",
+        "headline": "Trump's birthday added to list of free days at national parks; MLK Day, Juneteenth removed",
+        "content": "A change in the designated free entrance days for U.S. national parks has been announced. The alteration removes Martin Luther King Jr. Day and Juneteenth, replacing them with a new free day corresponding with the former president's birthday. The move is facing criticism.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent Announcement"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765053315531-3",
-        "headline": "Democrats press for expanding inquiry into Caribbean boat strike.",
-        "content": "Democratic lawmakers are pushing for a broader congressional investigation into a controversial Caribbean boat strike involving U.S. forces. This follows new revelations that two survivors were allegedly killed, leading to increased scrutiny and calls from Congress for a more comprehensive review of the incident and military protocols.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
+        "id": "story-1765056582908-1",
+        "headline": "CDC panel votes to stop recommending birth dose of hepatitis B vaccine",
+        "content": "An advisory panel for the Centers for Disease Control and Prevention (CDC) voted to discontinue the routine recommendation for administering the hepatitis B vaccine to newborns at birth. The decision is controversial and has spurred debate among public health officials and medical professionals.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "22 hours ago"
       },
       {
-        "id": "story-1765053315531-4",
-        "headline": "Frank Gehry, celebrated architect of wildly imaginative buildings, dies at 96.",
-        "content": "Frank Gehry, the internationally renowned architect famous for his distinctive, deconstructivist designs, including the Walt Disney Concert Hall, has passed away at the age of 96. His death marks the end of an era for modern architecture, which he profoundly influenced with his dynamic and unconventional structures worldwide.",
+        "id": "story-1765056582908-2",
+        "headline": "Newly released 911 calls from Texas floods reveal chaotic and desperate pleas for rescues",
+        "content": "Authorities released audio of emergency calls made during the recent Texas floods, painting a harrowing picture of the disaster. The recordings capture intense, desperate pleas from residents trapped by rising waters, which necessitated numerous chaotic rescue efforts across the affected region.",
         "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765053315531-5",
-        "headline": "Michael Jordan testifies in NASCAR antitrust trial, saying 'someone had to step forward'",
-        "content": "Basketball legend Michael Jordan testified in a high-profile antitrust lawsuit against NASCAR, which centers on allegations of anti-competitive practices within the racing organization. Jordan, a team owner, stated that intervention was necessary in the sport's business practices, lending his significant influence to the ongoing legal battle.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "id": "story-1765056582908-3",
+        "headline": "EU fines Elon Musk's X 120 million euros for breaching bloc's social media law",
+        "content": "The European Union issued a substantial fine of 120 million euros against Elon Musk's social media platform, X (formerly Twitter), for violations of the bloc's digital media and content moderation regulations. The move highlights ongoing regulatory tension between Big Tech and European authorities.",
+        "originalSource": "PBS News / Fox News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-4",
+        "headline": "Prominent U.S. playwright arrested in Japan for alleged ecstasy smuggling",
+        "content": "A well-known American playwright was detained in Japan after being allegedly caught attempting to smuggle ecstasy into the country. The arrest has drawn attention in the U.S. and international arts communities, with details still emerging about the circumstances and potential charges.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-5",
+        "headline": "Michael Annett, former NASCAR racing star, dies at 39",
+        "content": "Former NASCAR Xfinity Series driver Michael Annett has passed away at the age of 39. The sudden death of the racing star, who retired in 2021 after a long career, has prompted an outpouring of tributes from the NASCAR community and fans across the country.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765053315531-0",
-        "headline": "Texas Families Face Nature's Fury Amid Devastating Floods, Community Spirit Shines.",
-        "content": "New 911 recordings from the recent Texas floods reveal the harrowing reality faced by citizens as rising waters threatened their homes and lives. These desperate pleas for rescue underscore the critical importance of self-reliance and local emergency services in times of crisis, reminding us that strong communities are the first line of defense against unforeseen natural disasters. Our thoughts remain with those who endured this profound challenge.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765053315531-1",
-        "headline": "Massive Media Consolidation Threatens Free Market and Diverse Voices in Entertainment.",
-        "content": "The reported $83 billion acquisition of Warner Bros. Discovery by streaming titan Netflix signals a concerning trend of increasing media consolidation. Such colossal deals raise serious questions about the future of a truly free and competitive marketplace, potentially limiting the range of voices and content available to American families. A robust and diverse media landscape is essential for informed citizens, and unchecked corporate power could stifle innovation and traditional values in entertainment.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
-      },
-      {
-        "id": "story-1765053315531-2",
-        "headline": "Supreme Court Considers President Trump's Vital Executive Order on Birthright Citizenship.",
-        "content": "The U.S. Supreme Court has taken up a pivotal case concerning President Trump's executive order aimed at clarifying birthright citizenship. This crucial review by the nation's highest court will examine the constitutional integrity of our immigration laws and national sovereignty. President Trump's foresight in addressing the misinterpretation of the 14th Amendment sought to uphold the rule of law and protect the foundational principles of American citizenship, ensuring it is not arbitrarily extended to those without a legitimate claim.",
+        "id": "story-1765056582908-0",
+        "headline": "President Trump's Birthday Honored with National Park Free Day, Controversial Holidays Removed",
+        "content": "In a move reflecting a focus on national pride and recognizing significant American figures, the U.S. national parks system has announced a revision to its free entrance days. The new policy wisely designates President Trump's birthday as a day for all Americans to enjoy our natural heritage free of charge. This sensible adjustment replaces recently added days like Martin Luther King Jr. Day and Juneteenth, which some argue stray from core national observances. Despite predictable partisan outcry, this decision supports a clearer vision of national celebration.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent Announcement"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765053315531-3",
-        "headline": "Partisan Democrats Threaten Military Readiness with Demands for Expanded Caribbean Inquiry.",
-        "content": "Democratic lawmakers are reportedly demanding a broader congressional investigation into a Caribbean boat strike involving U.S. forces, citing new, unverified allegations. While transparency is always valued, these persistent calls risk politicizing essential military operations and undermining the courageous men and women who serve to protect our nation's interests. Our military's protocols are robust, and we must be careful not to create a narrative that weakens trust in our armed forces and compromises national security for political gain.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
+        "id": "story-1765056582908-1",
+        "headline": "CDC Panel Rolls Back Universal Hepatitis B Vaccine Mandate for Newborns",
+        "content": "In a significant development for parental freedom and medical autonomy, an advisory panel for the Centers for Disease Control and Prevention (CDC) has voted to withdraw its routine recommendation for administering the hepatitis B vaccine to newborns at birth. This long-overdue decision recognizes the importance of individual medical choice and challenges the one-size-fits-all approach that has often characterized public health recommendations. The move, while predictably stirring debate among bureaucrats, empowers parents to make informed decisions regarding their children's health, aligning with principles of liberty and personal responsibility.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "22 hours ago"
       },
       {
-        "id": "story-1765053315531-4",
-        "headline": "Influential Architect Frank Gehry Passes, Leaving a Legacy of Bold, Modern Structures.",
-        "content": "Frank Gehry, the internationally recognized architect known for his distinctive designs like the Walt Disney Concert Hall, has passed away at 96. His prolific career certainly marked a significant era in modern architecture, pushing boundaries with unconventional structures. While his work challenged traditional aesthetics, his impact on the built environment and the public discourse around design remains undeniable, leaving behind a legacy that sparked much discussion and changed cityscapes.",
+        "id": "story-1765056582908-2",
+        "headline": "Harrowing 911 Calls Expose Devastation and Heroism During Texas Floods",
+        "content": "Newly released 911 calls from the recent Texas floods paint a stark picture of human desperation and the overwhelming challenges faced by emergency responders. These harrowing recordings capture the raw fear of residents trapped by rapidly rising waters, underscoring the vital need for robust local emergency services and community preparedness. While tragic, such events often highlight the incredible resilience of Texans and the courageous efforts of first responders who put their lives on the line to rescue their neighbors, demonstrating true American spirit in the face of adversity.",
         "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765053315531-5",
-        "headline": "Michael Jordan Champions Free Market Principles in NASCAR Antitrust Battle.",
-        "content": "Basketball icon Michael Jordan, now a prominent team owner, has taken a stand in the high-stakes antitrust lawsuit against NASCAR, advocating for fair competition and free market principles. His powerful testimony underscores the vital importance of ensuring that no single entity holds undue power, stifling opportunity and innovation. Jordan's involvement highlights the need to protect the integrity of business practices, allowing all participants the liberty to compete fairly within the sport.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "id": "story-1765056582908-3",
+        "headline": "EU Bureaucrats Target Elon Musk's X with Massive Fine for Free Speech Principles",
+        "content": "In a blatant display of regulatory overreach and an assault on free expression, the European Union has levied a staggering 120 million euro fine against Elon Musk's social media platform, X. This punitive action, ostensibly for violating the bloc's digital media and content moderation regulations, appears to be another attempt by centralized authorities to control information and silence dissenting voices online. President Trump has often spoken about the importance of free speech. Elon Musk, a champion of liberty, continues to face relentless pressure from globalist entities seeking to dictate what can and cannot be said, jeopardizing the very foundations of open discourse.",
+        "originalSource": "PBS News / Fox News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-4",
+        "headline": "American Playwright Faces Justice Abroad for Alleged Drug Smuggling Offense",
+        "content": "A well-known American playwright finds himself in legal jeopardy in Japan, having been detained on serious charges of allegedly attempting to smuggle ecstasy into the sovereign nation. This incident serves as a stark reminder that even individuals of prominence are subject to the rule of law, regardless of their profession or standing in certain 'arts communities.' Such actions carry severe consequences, particularly in nations like Japan that uphold strict standards of law and order, emphasizing the importance of personal responsibility and respecting the laws of other countries.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-5",
+        "headline": "NASCAR Community Mourns the Untimely Passing of Racing Legend Michael Annett at 39",
+        "content": "The world of American motorsport is in mourning following the sudden and untimely passing of Michael Annett, a respected former NASCAR Xfinity Series driver, at the age of 39. Annett, who retired in 2021 after a dedicated career, was a beloved figure whose passion for racing embodied the competitive spirit cherished by countless fans. His passing has triggered an outpouring of heartfelt tributes from across the NASCAR community and devoted fans nationwide, honoring a true American racing star.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765053315531-0",
-        "headline": "Texas Flood Victims Interrupt TikTok Scrolling To Place Urgent 911 Calls From Roofs",
-        "content": "Emergency dispatchers across Texas reported a shocking surge in calls during recent floods, primarily from individuals expressing mild inconvenience at having their internet service interrupted. One distraught caller reportedly demanded to know if emergency personnel could also deliver a gluten-free pizza, highlighting the truly dire priorities of survival.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765053315531-1",
-        "headline": "Netflix Now Owns All Forms Of Media, Announces Plans To Acquire Your Thoughts Next",
-        "content": "In a truly unsurprising move, streaming behemoth Netflix has acquired Warner Bros. Discovery for a mere $83 billion, thus completing its mission to own every single piece of filmed entertainment ever created. Industry analysts predict viewers will soon receive personalized mind-probes determining their next binge, eliminating the tiresome need to actually choose a show.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
-      },
-      {
-        "id": "story-1765053315531-2",
-        "headline": "Supreme Court To Ponder If Babies Are Truly American Or Just Really Tiny Tourists",
-        "content": "The U.S. Supreme Court has bravely agreed to tackle the existential question of whether a baby born on American soil, but lacking a valid tiny passport, is truly a citizen. Legal experts anticipate President Trump's original executive order will spark a robust debate over whether a fetus can possess 'intent to immigrate' and if a birth certificate should include a loyalty oath.",
+        "id": "story-1765056582908-0",
+        "headline": "Nation's Parks Announce President Trump's Birthday As New, Mandatory Free Day For All Americans",
+        "content": "In a bold move to re-prioritize national leisure, U.S. national parks have dramatically overhauled their calendar of free admission days. Out are the 'less essential' observances of Martin Luther King Jr. Day and Juneteenth, making way for what officials are calling the 'universally anticipated' free entrance day coinciding with President Trump's birthday. A spokesperson lauded the change, stating, 'We felt it was time to honor a truly foundational American figure with a day of reflection... perhaps while enjoying a lovely hike or a picnic with a celebratory birthday cake for one.' Critics, however, are reportedly 'confused' by the sudden historical re-evaluation.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent Announcement"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765053315531-3",
-        "headline": "Democrats Demand Inquiry Into Caribbean Boat Strike To Include Boat's Feelings And Ocean's Trauma",
-        "content": "Democratic lawmakers, ever vigilant, are pushing for an exhaustive congressional investigation into a Caribbean boat strike, arguing that merely understanding how two survivors were allegedly killed isn't enough. Sources confirm the expanded inquiry will include a deep dive into the psychological impact on the boat, the emotional state of the surrounding marine life, and why nobody thought to ask the coral reefs for their eyewitness testimony.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
+        "id": "story-1765056582908-1",
+        "headline": "CDC Panel Bravely Votes To Remove Another Annoying Jab From Newborns' Already Stressed Schedules",
+        "content": "In a stunning display of empathy for the tiny human population, an advisory panel for the Centers for Disease Control and Prevention (CDC) has heroically voted to discontinue the routine recommendation for the birth dose of the hepatitis B vaccine. Public health officials are now grappling with the 'radical' concept of letting newborns just *exist* for a few hours before being poked. One panel member, who wished to remain anonymous, reportedly quipped, 'Frankly, babies have enough on their plate. They've just been evicted from a cozy apartment, and now we want to give them *another* shot? Let's give them a break, for crying out loud!'",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "22 hours ago"
       },
       {
-        "id": "story-1765053315531-4",
-        "headline": "Frank Gehry's Buildings Reportedly Collapsing In Grief After Architect's Passing At 96",
-        "content": "Iconic architect Frank Gehry, known for his relentless assault on straight lines, has finally departed this mortal coil at the respectable age of 96. Eyewitnesses report that immediately following the news, his famously contorted buildings around the world began to weep rust and spontaneously fold themselves into even more perplexing shapes, signaling the end of an era for geometrically challenged structures.",
+        "id": "story-1765056582908-2",
+        "headline": "Newly Released Texas 911 Calls Reveal Residents Were Surprisingly Upset About Impending Drowning",
+        "content": "Authorities in Texas have released a harrowing collection of 911 audio recordings from the recent floods, painting a vivid picture of utter pandemonium. Shockingly, the calls reveal that residents trapped by rising waters were not, in fact, calmly enjoying the impromptu indoor swimming opportunities, but were instead making 'frantic' and 'desperate' pleas for rescue. Emergency dispatchers reportedly spent hours explaining to callers that 'yes, being submerged in floodwaters is generally considered a bad thing' while struggling to coordinate the chaotic rescue efforts across the region.",
         "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765053315531-5",
-        "headline": "Michael Jordan Testifies In NASCAR Trial, Explains Why Everyone Should Just 'Be Like Mike'",
-        "content": "Basketball legend Michael Jordan graced a NASCAR antitrust trial with his presence, generously offering his two cents on why the racing organization should simply adopt his legendary business acumen. Sources close to the proceedings revealed Jordan suggested a new rule where every team gets a chance to 'dunk' their car through a giant hoop for extra points, ensuring 'fair play' and presumably higher viewership.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "id": "story-1765056582908-3",
+        "headline": "EU Slaps Elon Musk's X With €120 Million Fine, Hopes To Finally Afford Better Wi-Fi In Parliament",
+        "content": "The European Union has bravely (or perhaps foolishly) issued a substantial 120 million euro fine against Elon Musk's social media platform, X, for daring to breach the bloc's digital media regulations. Analysts are now speculating whether Musk will simply buy the EU, or if he'll respond by changing X's logo to a middle finger. An EU official optimistically stated the fine 'sends a clear message,' while privately wondering if the payment would be enough to upgrade the office coffee machine, let alone seriously impact the tech giant's bottom line.",
+        "originalSource": "PBS News / Fox News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-4",
+        "headline": "Prominent Playwright Discovers Method Acting Can Lead To Japanese Jail Time For Alleged Ecstasy Smuggling",
+        "content": "A well-known American playwright, celebrated for their 'deep dives into the human condition,' has reportedly taken their artistic exploration to a new, highly illegal level, having been detained in Japan for allegedly attempting to smuggle ecstasy. Sources close to the playwright claim this was merely 'immersive research' for their upcoming avant-garde piece, 'A Very High Performance.' Japanese authorities, however, appear to be less impressed by the 'theatrical experimentation' defense, opting instead for standard legal procedures, much to the dismay of the international arts community.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-5",
+        "headline": "Former NASCAR Star Michael Annett Dies At 39, Proving That Not Even Race Car Drivers Can Outrun Time Itself",
+        "content": "The NASCAR community is reeling today from the sudden passing of former Xfinity Series driver Michael Annett at the shockingly young age of 39. Fans are reportedly devastated, wondering if there truly is no escape from the relentless march of time, even for those who once drove cars at exhilarating speeds for a living. Tributes are pouring in from across the racing world, many expressing confusion that such an individual could succumb to something as mundane as 'natural causes' rather than, say, an elaborate, highly televised pit stop mishap.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765053315531-0",
-        "headline": "Scary Phone Calls Show How Bad Texas Floods Were",
-        "content": "Imagine really bad floods in Texas, so bad that people had to call 911 for help. New phone calls just came out, and you can hear people sounding really scared and begging for someone to come save them because the water was getting higher and they were stuck. It shows how crazy and scary it was when the floods happened.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765053315531-1",
-        "headline": "Netflix Is Going to Buy Another Huge Movie Company",
-        "content": "Netflix, which you probably use to watch lots of shows and movies, is planning to buy another really big company called Warner Bros. Discovery. This deal is super huge, costing 83 billion dollars! It means Netflix will own even more movies and TV shows, maybe even some of your favorites, and become even bigger in the world of entertainment.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
-      },
-      {
-        "id": "story-1765053315531-2",
-        "headline": "America's Top Court Will Look at President Trump's Rules",
-        "content": "The highest court in America, called the Supreme Court, has decided to look at a rule that President Trump made before. This rule was about whether kids born in America to parents who aren't citizens should automatically become citizens. The court will now decide if President Trump's rule is fair and allowed by the law.",
+        "id": "story-1765056582908-0",
+        "headline": "National Parks Are Changing Their Free Days Again",
+        "content": "Guess what? You know those cool national parks where you can see amazing nature? Well, some days you can get in for free! But now, they're changing which days those are. They added President Trump's birthday as a free day. But they took away free days for Martin Luther King Jr. Day and Juneteenth, which are important days about history. Some people are not happy about this change.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent Announcement"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765053315531-3",
-        "headline": "Some Lawmakers Want to Know More About a Boat Incident",
-        "content": "Some important people in government, called Democrats, want to look much deeper into something messy that happened with a boat in the Caribbean Sea. It was a boat strike involving our country's soldiers. They want to know more because new information came out that says two people who survived the boat strike might have been killed afterward. So, everyone wants a better look at what really happened and if the rules were followed.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
+        "id": "story-1765056582908-1",
+        "headline": "Doctors Might Not Give Babies a Shot Right Away Anymore",
+        "content": "The people at the CDC, which helps keep everyone healthy, had a meeting. They decided that doctors might not need to give newborn babies a shot for something called hepatitis B right after they are born anymore. This is a big change, and some grown-ups who are doctors or health experts are talking a lot about whether it's a good idea or not.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "22 hours ago"
       },
       {
-        "id": "story-1765053315531-4",
-        "headline": "A Famous Building Designer Who Made Cool Shapes Has Died",
-        "content": "Frank Gehry, a very famous person who designed amazing and really cool-looking buildings, has passed away. He was 96 years old. He made buildings that looked like they were bending and twisting, like the Walt Disney Concert Hall. He changed how people thought about what buildings could look like all over the world.",
+        "id": "story-1765056582908-2",
+        "headline": "Scary Phone Calls Show How Bad Texas Floods Were",
+        "content": "Recently, there were really bad floods in Texas. People had to call 911 for help because they were stuck in the rising water. Now, they've let us hear some of those phone calls. You can hear how scared people were and how much they needed to be rescued. It sounds like it was a very difficult time with lots of people needing help at once.",
         "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765053315531-5",
-        "headline": "Basketball Star Michael Jordan Spoke Up About Car Racing",
-        "content": "Michael Jordan, the super famous basketball player, just spoke in court about car racing, specifically about NASCAR. He owns a racing team and said that someone needed to speak up about how NASCAR does its business, because some people think they are not playing fair. He used his big voice to help with a lawsuit about how racing teams are treated.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "id": "story-1765056582908-3",
+        "headline": "Elon Musk's X App Got a Huge Fine from Europe",
+        "content": "You know the X app, which used to be called Twitter, that Elon Musk owns? Well, the grown-ups in Europe made the app pay a really big fine, like 120 million euros! That's because they think the X app didn't follow some important rules about how social media should work and what kind of stuff people can post. It's like a big argument between the app company and the people who make rules in Europe.",
+        "originalSource": "PBS News / Fox News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-4",
+        "headline": "A Famous American Writer Was Arrested in Japan",
+        "content": "A famous writer from America, who writes plays for theaters, got arrested far away in Japan. The police there say he was trying to bring some illegal stuff called 'ecstasy' into the country. This is a big deal in the world of plays and arts, and everyone is trying to find out exactly what happened and what will happen next.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-5",
+        "headline": "Sad News: A NASCAR Race Car Driver Died Young",
+        "content": "Michael Annett, who used to be a super fast race car driver in NASCAR, passed away. He was only 39 years old, which is pretty young. He stopped racing a few years ago, but lots of people who love NASCAR and racing are very sad to hear this news and are sharing nice memories about him.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765053315531-0",
-        "headline": "The Water's Cry",
-        "content": "The line crackled, a child's sob barely audible above the deluge. 'We're trapped! The water, it's everywhere!' The dispatcher, a steady voice amidst the chaos, tried to pinpoint the address, knowing countless others were making similar desperate pleas across Texas. Homes became islands, then disappeared, as the floodwaters rose, unforgiving. Each frantic 911 call was a raw testament to human fragility, a terrifying echo of survival's frantic scramble against nature's wrath. The city held its breath, praying for dawn, praying for rescue, praying for any sign of hope.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
-      },
-      {
-        "id": "story-1765053315531-1",
-        "headline": "The Stream Giant's Feast",
-        "content": "The digital titans met in a silent, seismic shift. Netflix, the streaming behemoth, extended its reach, swallowing Warner Bros. Discovery whole in an $83 billion gulp. Libraries of cinematic history, beloved television sagas, and studios humming with creative energy now belonged to one entity. The entertainment landscape, already reshaped by algorithms and subscriptions, now solidified into a new empire. Critics murmured of monopolies, creators dreamt of wider audiences, and viewers merely anticipated an endless scroll of new possibilities under the watchful eye of the screen's undisputed new monarch.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
-      },
-      {
-        "id": "story-1765053315531-2",
-        "headline": "The Question of Birthright",
-        "content": "The nation's highest court prepared to convene, its hallowed halls buzzing with constitutional gravity. At stake: President Trump's executive order, a bold decree challenging the long-held principle of birthright citizenship for children born on U.S. soil to non-citizens. The implications rippled across families, legal scholars, and future generations. Would the parchment's words be reinterpreted? Would a child's first breath in America still guarantee a claim to its promise? The nine justices held the scales of justice, tasked with balancing history against a pivotal reimagining of national identity.",
+        "id": "story-1765056582908-0",
+        "headline": "A Shifting Calendar for Sacred Grounds",
+        "content": "The nation's pristine landscapes, once freely accessible on days honoring profound historical moments, witnessed a quiet, controversial shift. Martin Luther King Jr. Day and Juneteenth, symbols of struggle and liberation, were struck from the list of complimentary park entrance days. In their place, a new date emerged, marking President Trump's birthday as a day for free entry. The alteration, announced subtly, sent ripples of debate through communities. Critics questioned the move, seeing it as a deliberate re-prioritization of historical significance, transforming shared national treasures into reflections of political sentiment. The gates remained, but the spirit of their open days was undeniably altered.",
         "originalSource": "CBS News",
-        "publishedTime": "Recent Announcement"
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765053315531-3",
-        "headline": "Echoes from the Deep",
-        "content": "Whispers of a Caribbean boat strike turned to shouts as new, gruesome details emerged. Two survivors, once clinging to hope after a U.S. forces operation, were allegedly killed, their fate shrouded in a deepening mystery. Democratic lawmakers, fueled by outrage and a thirst for truth, demanded a broader congressional inquiry. The initial report, once deemed sufficient, now seemed a thin veil over a darker narrative. Calls for accountability grew louder, threatening to unravel military protocols and expose the chilling secrets hidden beneath the ocean's unforgiving surface.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recent Report"
+        "id": "story-1765056582908-1",
+        "headline": "The Tiny Choice, A Grand Debate",
+        "content": "In hushed deliberation, a panel for the Centers for Disease Control and Prevention cast a controversial vote. No longer would the routine recommendation stand for administering the hepatitis B vaccine to newborns at birth. This decision, seemingly minor in its clinical terminology, unleashed a torrent of debate among public health officials and medical professionals. Was it a pragmatic adjustment to evolving medical understanding, or a risky departure from established preventative care? The tiny, vulnerable lives at the heart of the discussion became the focal point of a larger, impassioned argument over protection, risk, and the earliest moments of life's medical journey.",
+        "originalSource": "PBS News / CBS News",
+        "publishedTime": "22 hours ago"
       },
       {
-        "id": "story-1765053315531-4",
-        "headline": "The Sculptor of Dreams",
-        "content": "The world paused as news spread of Frank Gehry’s passing. At 96, the architect of impossible dreams laid down his tools, leaving behind a legacy of structures that defied gravity and convention. From the gleaming, metallic sails of the Walt Disney Concert Hall to the vibrant undulations of his museums, his buildings were more than concrete and steel; they were sculptures, deconstructed poems in space. He challenged perceptions, bent reality, and forever etched his imaginative vision onto skylines worldwide, a testament to a life lived building the unimaginable.",
+        "id": "story-1765056582908-2",
+        "headline": "Echoes in the Rising Tide of Texas",
+        "content": "The recorded breaths of a city drowning. Newly released 911 calls from the recent Texas floods painted a harrowing auditory landscape. Each plea, a frantic whisper or a desperate shout, tore through the static, revealing families trapped, homes submerged, and the terrifying speed of nature's wrath. Operators, their voices strained, coordinated chaotic rescue efforts against a backdrop of rising water and fading hope. These were not just calls for help; they were raw, visceral confessions of terror and resilience, echoing the desperate human struggle against an unforgiving deluge. The sounds remain, a chilling testament to the chaos.",
         "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765053315531-5",
-        "headline": "The Court of Asphalt",
-        "content": "Michael Jordan, a legend on the hardwood, now commanded a different court—the witness stand in a high-stakes NASCAR antitrust trial. His voice, usually reserved for courtside cheers or strategic huddles, now cut through the courtroom, asserting, 'someone had to step forward.' As a team owner, Jordan brought his formidable influence to bear against allegations of anti-competitive practices within the racing giant. The fight for fairness in NASCAR’s business practices had found its unlikely champion, trading dunks for depositions, and adding another chapter to his unparalleled legacy.",
-        "originalSource": "PBS News",
-        "publishedTime": "Dec 05"
+        "id": "story-1765056582908-3",
+        "headline": "The Digital Goliath's European Tether",
+        "content": "Across the digital ocean, a giant stumbled. Elon Musk's social media empire, X, found itself shackled by a hefty 120 million euro fine from the European Union. The bloc's strict digital media and content moderation laws, designed to tame the wild west of online platforms, had been breached. This financial blow wasn't merely about euros; it was a potent symbol of ongoing regulatory tension, a clear message from European authorities asserting their control over Big Tech's global reach. The world watched, as the delicate balance between innovation and oversight tilted once more, redefining the boundaries of digital freedom.",
+        "originalSource": "PBS News / Fox News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-4",
+        "headline": "A Playwright's Unscripted Japanese Drama",
+        "content": "The footlights of Broadway seemed a million miles away. A prominent American playwright, celebrated for their gripping narratives, found themselves embroiled in a very different kind of drama in Japan. Accused of attempting to smuggle ecstasy into the country, the artist's life suddenly mirrored a plot twist from one of their own dark tales. The arrest sent shockwaves through the international arts community, a collective gasp as a respected figure fell from grace. Details, still emerging like fragments of a shattered script, left the world wondering about the true story behind this unexpected, dramatic downfall on foreign soil.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
+      },
+      {
+        "id": "story-1765056582908-5",
+        "headline": "The Final Lap, Too Soon for a Champion",
+        "content": "The roar of the engines fell silent for Michael Annett. At just 39, the former NASCAR Xfinity Series driver, who had navigated countless turns and celebrated victories, completed his final lap far too soon. Retirement in 2021 had marked the end of his racing career, but his sudden passing marked the end of a life lived at full throttle. Tributes poured in from every corner of the NASCAR community, a chorus of shared grief for a beloved competitor and friend. His memory, a blur of speed and unwavering determination, now cruises forever in the hearts of fans.",
+        "originalSource": "CBS News",
+        "publishedTime": "Yesterday"
       }
     ]
   }
