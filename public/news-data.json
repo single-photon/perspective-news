@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765118139268,
+  "timestamp": 1765121529449,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765118071123-0",
-        "headline": "A Powerful Earthquake Strikes Remote Wilderness, Highlighting Earth's Fragility and Environmental Concerns.",
-        "content": "A significant magnitude-7.0 earthquake was reported in a remote wilderness area along the Alaska-Canada border. While officials monitor for potential impacts, the seismic event underscores the ongoing vulnerability of natural ecosystems and the imperative for robust environmental protection policies, particularly in light of broader climate instability.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765118071123-1",
-        "headline": "Supreme Court to Examine Presidential Power, Potentially Undermining Independent Agencies and Democratic Checks.",
-        "content": "The Supreme Court is preparing to hear a major case concerning the limits of presidential power, specifically in relation to the firing of a regulator from the Federal Trade Commission (FTC). The outcome will have significant implications for the independence of federal agencies, which are crucial for consumer protection and fair markets, and could further erode the balance of power within the executive branch.",
+        "id": "story-1765121458165-0",
+        "headline": "Supreme Court Considers Executive Overreach, Threatening Independent Agency Oversight",
+        "content": "The Supreme Court is poised to hear a critical case that could dramatically expand executive power by challenging the President's authority to dismiss the head of the Federal Trade Commission. This decision carries profound implications for the independence of federal agencies designed to protect the public interest, potentially dismantling crucial checks and balances against unchecked executive control and undermining democratic governance.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-2",
-        "headline": "President Trump's Immigration Crackdown Is Systematically Harming U.S. Citizens, Report Reveals.",
-        "content": "A new report details how U.S. citizens, particularly Latinos, are being detained and allegedly assaulted by officers enforcing a stricter immigration crackdown under President Trump's administration. This highlights deeply troubling concerns about civil liberties, racial profiling, and the aggressive enforcement tactics being utilized within U.S. borders, exposing systemic injustices.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765121458165-1",
+        "headline": "President Trump's Rhetoric Further Demonizes Immigrants, Threatening Human Rights and Systemic Injustice",
+        "content": "In a deeply troubling campaign speech, President Trump escalated his anti-immigrant rhetoric, promising to 'slam America's doors shut' if re-elected. His derogatory language and pledges for mass deportations not only dehumanize vulnerable populations but also risk codifying systemic xenophobia into policy, further eroding human rights and perpetuating injustice within the nation.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-3",
-        "headline": "Record Cocaine Seizure Highlights Persistent Failures of Current Drug Enforcement Strategies.",
-        "content": "The U.S. Coast Guard successfully seized a massive 20,000 pounds of cocaine, marking a record-breaking haul not surpassed in 18 years. While celebrated, this substantial bust primarily addresses the symptom rather than the systemic root causes of global narcotics trafficking, such as poverty, inequality, and the need for comprehensive harm reduction strategies, rather than solely focusing on interdiction.",
+        "id": "story-1765121458165-2",
+        "headline": "Horrifying Footage Reveals US Airstrike Survivors Were Left to Drown Before Second Attack, Demanding Accountability",
+        "content": "Disturbing new video evidence has emerged, revealing the horrific reality that survivors of a US airstrike were left clinging to boat wreckage for an agonizing hour before a second, deadly attack. This footage unequivocally demands immediate and thorough investigation into military protocols, rules of engagement, and the decision-making processes that led to such egregious loss of life, raising serious questions about accountability and human rights.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-3",
+        "headline": "Massive Cocaine Seizure Highlights Persistent Systemic Failures in the Global War on Drugs",
+        "content": "The U.S. Coast Guard's record-breaking interdiction of over 20,000 pounds of cocaine, the largest seizure in 18 years, underscores the immense and persistent challenge of global drug trafficking. While celebrated as a victory, this monumental bust simultaneously reveals the enduring systemic issues fueling illicit drug trade and the limitations of enforcement-only strategies without addressing the root causes of demand and socio-economic vulnerabilities.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-4",
-        "headline": "President Trump Hosts Kennedy Center Honorees Amidst Broader Cultural Policy Concerns.",
-        "content": "President Trump hosted the 2025 Kennedy Center honorees at the Oval Office, presenting them with medals and making playful remarks about his hosting abilities, including recipients like Sylvester Stallone and the band Kiss. This White House event occurs as broader discussions persist regarding the administration's impact on public arts funding and cultural discourse, often deflecting from more critical national issues.",
-        "originalSource": "Associated Press / The Guardian",
-        "publishedTime": "15 hours ago"
-      },
-      {
-        "id": "story-1765118071123-5",
-        "headline": "Tragic Mushroom Poisoning Death Underscores Need for Accessible Public Health Education.",
-        "content": "Health and environmental officials in California have issued a public warning urging residents to avoid foraging for wild mushrooms following the tragic death of a person who consumed a poisonous variety. This unfortunate incident illuminates systemic gaps in public health education and the vital need for accessible information regarding safe food practices and environmental hazards, especially for vulnerable communities.",
+        "id": "story-1765121458165-4",
+        "headline": "Powerful Magnitude 7.0 Earthquake Strikes Remote Wilderness, Emphasizing Vulnerability of Ecosystems and Communities",
+        "content": "A potent magnitude 7.0 earthquake has struck a remote, sparsely populated region along the Alaska-Canada border. While initial reports indicate limited immediate damage, the sheer force of the tremor, felt hundreds of miles away, highlights the profound power of natural forces and the inherent vulnerability of both pristine ecosystems and the distant human communities within them, underscoring the ongoing need for robust disaster preparedness.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-5",
+        "headline": "Pete Hegseth Defends Controversial 'Drug Boat' Strikes Amid Mounting Scrutiny Over Civilian Casualties",
+        "content": "Pete Hegseth delivered a defiant address at a defense forum, staunchly defending the US military's contentious 'drug boat' strikes despite intense scrutiny and significant concerns over potential civilian casualties and legal authority. His speech, which dismissed growing calls for transparency and accountability, reinforces a concerning trend of minimizing human cost and sidestepping critical examination of military operations.",
+        "originalSource": "PBS NewsHour",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765118071123-0",
-        "headline": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
-        "content": "A significant magnitude-7.0 earthquake was reported in a remote wilderness area along the Alaska-Canada border. Officials are monitoring the situation for potential impacts, though the remote location may limit damage to populated areas. This seismic event is one of the top stories in US national news.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765118071123-1",
+        "id": "story-1765121458165-0",
         "headline": "Supreme Court to hear major test of presidential power in case over FTC firing",
-        "content": "The Supreme Court is preparing to hear a major case concerning the limits of presidential power, specifically in relation to the firing of a regulator from the Federal Trade Commission (FTC). The outcome will have significant implications for the independence of federal agencies and the balance of power in the executive branch.",
+        "content": "The Supreme Court has agreed to hear a case that challenges the President's authority to remove the head of the Federal Trade Commission (FTC). This landmark case will test the limits of executive power, potentially reshaping the balance of power between the executive and independent federal agencies. The ruling could have significant implications for other agency heads.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-2",
-        "headline": "The U.S. citizens getting caught in Trump's immigration crackdown",
-        "content": "A new report details how U.S. citizens, particularly Latinos, are being detained and allegedly assaulted by officers enforcing a stricter immigration crackdown under the current administration. The report highlights concerns about civil liberties and aggressive enforcement tactics being used within U.S. borders.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765121458165-1",
+        "headline": "Trump vows to slam America's doors shut as he heaps scorn on immigrants",
+        "content": "Donald Trump delivered a campaign speech where he promised a massive crackdown on immigration if re-elected, including measures to 'slam America's doors shut.' The former President intensified his anti-immigrant rhetoric, describing undocumented individuals with derogatory language and promising large-scale deportations as part of his platform.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-3",
+        "id": "story-1765121458165-2",
+        "headline": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows",
+        "content": "New video evidence has emerged showing survivors of a US airstrike clinging to boat wreckage in the water for up to an hour before a second deadly attack occurred. The footage raises serious questions about the military's rules of engagement and the decision-making process, prompting calls for a full investigation into the incident.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-3",
         "headline": "20,000-pound cocaine seizure by Coast Guard breaks 18-year-old record",
-        "content": "The U.S. Coast Guard successfully seized a massive 20,000 pounds of cocaine, marking a record-breaking haul that hasn't been surpassed in 18 years. The substantial drug bust highlights ongoing efforts by federal agencies to interdict large-scale narcotics trafficking operations heading for the United States.",
+        "content": "The U.S. Coast Guard successfully interdicted a massive shipment of cocaine, reportedly totaling over 20,000 pounds, setting a new record for the largest seizure in the last 18 years. The operation, which took place in international waters, represents a significant victory in the ongoing efforts by federal authorities to combat major drug trafficking networks targeting the United States.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-4",
-        "headline": "Trump hosts Kennedy Center honorees and teases hosting skills: 'I'm sure they'll give me great reviews'",
-        "content": "Donald Trump hosted the 2025 Kennedy Center honorees at the Oval Office, presenting them with medals and making playful remarks about his hosting abilities. The recipients included Sylvester Stallone and the band Kiss. This White House event is a notable cultural and political moment of the day.",
-        "originalSource": "Associated Press / The Guardian",
-        "publishedTime": "15 hours ago"
-      },
-      {
-        "id": "story-1765118071123-5",
-        "headline": "California officials warn against foraging wild mushrooms after person dies from poison mushroom",
-        "content": "Health and environmental officials in California have issued a public warning urging residents to avoid foraging for wild mushrooms following the tragic death of a person who consumed a poisonous variety. The warning emphasizes the risks of misidentification and the potential for fatal toxicity from wild fungi.",
+        "id": "story-1765121458165-4",
+        "headline": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
+        "content": "A powerful magnitude 7.0 earthquake struck a remote, sparsely populated area near the Alaska-Canada border. While the location has limited immediate reports of major structural damage or injuries, officials are monitoring the situation closely and have issued warnings about potential aftershocks. Tremors were reportedly felt hundreds of miles away in nearby towns.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-5",
+        "headline": "Hegseth gives defiant speech defending 'drug boat' strikes amid scrutiny",
+        "content": "Pete Hegseth delivered a keynote address at a defense forum, vigorously defending the US military's controversial 'drug boat' strikes even as the operations face intense scrutiny and political fallout. His speech reinforced the administration's stance on the operations, which have been criticized for potentially resulting in civilian casualties and questions over legal authority.",
+        "originalSource": "PBS NewsHour",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765118071123-0",
-        "headline": "Powerful Earthquake Strikes Remote Wilderness, Demonstrating Nature's Unyielding Force.",
-        "content": "A formidable magnitude-7.0 earthquake recently struck the vast, untamed wilderness along the Alaska-Canada border. This significant seismic event reminds us of nature's awesome power. Thankfully, due to its remote location, initial reports suggest minimal disruption to our communities, a testament to the rugged spirit of the region. The situation is being monitored, but the wilderness itself often proves the most resilient.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765118071123-1",
-        "headline": "Supreme Court to Decide on Crucial Presidential Authority in Agency Accountability Case.",
-        "content": "The esteemed Supreme Court is poised to consider a pivotal case that will define the legitimate scope of presidential power, specifically concerning the ability to remove regulators from agencies like the Federal Trade Commission (FTC). This crucial hearing will undoubtedly have profound implications for ensuring federal agencies remain accountable and within their constitutional bounds, reinforcing the balance of power necessary for a free republic. The outcome will clarify the President's essential role in overseeing the executive branch and curbing bureaucratic overreach.",
+        "id": "story-1765121458165-0",
+        "headline": "Supreme Court Must Affirm Presidential Authority to Oversee Federal Agencies",
+        "content": "The Supreme Court has rightly agreed to hear a critical case challenging the President's constitutional authority to remove the head of the Federal Trade Commission (FTC). This landmark decision is essential to reassert the proper balance of power, ensuring that elected officials maintain accountability over unelected federal bureaucrats and defending the executive branch's inherent right to lead. The ruling will undoubtedly clarify the limits of presidential power, a necessary step to restore traditional governmental structures.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-2",
-        "headline": "Border Enforcement Efforts Continue to Uphold National Sovereignty and Rule of Law.",
-        "content": "Amidst necessary efforts to secure our borders and uphold the rule of law, a recent report highlights cases where U.S. citizens, particularly those of Latino heritage, have been caught up in stricter immigration enforcement actions under President Trump’s administration. While concerns about civil liberties are always paramount, these operations underscore the complex challenges faced by our dedicated officers in maintaining national security and ensuring legal immigration. The focus remains on strengthening our borders for the safety and sovereignty of all Americans.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765121458165-1",
+        "headline": "President Trump Pledges Strong Action to Secure Our Borders and Uphold National Sovereignty",
+        "content": "President Trump delivered a powerful campaign speech, reaffirming his unwavering commitment to national sovereignty and border security. He outlined a robust plan to address the ongoing crisis at our borders, promising decisive measures to protect American citizens and reinforce the rule of law. President Trump's platform emphasizes large-scale deportations for those who have entered illegally, a vital step to ensure the safety and integrity of our nation.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-3",
-        "headline": "Coast Guard's Record-Breaking Cocaine Seizure Protects Our Nation From Dangerous Drugs.",
-        "content": "Our brave U.S. Coast Guard has achieved a monumental victory against drug traffickers, seizing an unprecedented 20,000 pounds of cocaine. This record-breaking haul, the largest in 18 years, demonstrates the unwavering commitment of our federal agencies to defend our communities and youth from the scourge of illegal narcotics. Such dedicated efforts are vital in protecting our borders and preserving the safety and well-being of American families.",
+        "id": "story-1765121458165-2",
+        "headline": "Urgent Investigation Needed into Disturbing Airstrike Footage Demanding Accountability",
+        "content": "New video evidence has surfaced, depicting survivors of a U.S. airstrike clinging to boat wreckage for an extended period before a second engagement occurred. This footage raises serious and legitimate questions regarding military protocols and decision-making in the field. A full and transparent investigation into this incident is imperative to ensure justice and maintain public trust in our valiant armed forces.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-3",
+        "headline": "Coast Guard Delivers Crushing Blow to Drug Cartels with Record-Breaking Cocaine Seizure",
+        "content": "The U.S. Coast Guard has achieved a monumental victory against international criminal enterprises, interdicting a staggering 20,000 pounds of cocaine in international waters. This record-breaking seizure, the largest in nearly two decades, unequivocally demonstrates the unwavering commitment of our federal authorities to protecting our communities from the scourge of illegal drugs and securing our national borders against nefarious threats.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-4",
-        "headline": "President Trump Honors American Cultural Icons at the White House, Celebrating National Achievements.",
-        "content": "President Trump proudly hosted the esteemed 2025 Kennedy Center honorees in the Oval Office, personally presenting medals to cultural giants like Sylvester Stallone and the legendary band Kiss. With characteristic charm, President Trump lightheartedly remarked on his hosting abilities, demonstrating a positive engagement with the arts and celebrating American achievement. This significant White House event underscores the President's commitment to recognizing excellence across all facets of our nation's rich heritage.",
-        "originalSource": "Associated Press / The Guardian",
-        "publishedTime": "15 hours ago"
-      },
-      {
-        "id": "story-1765118071123-5",
-        "headline": "California Officials Urge Caution Regarding Dangerous Wild Mushrooms, Emphasizing Personal Responsibility.",
-        "content": "Following a tragic incident where an individual succumbed to a poisonous mushroom, health and environmental officials in California have rightly issued a public warning, advising against the potentially fatal practice of foraging wild fungi. This unfortunate event serves as a somber reminder of the importance of personal vigilance and adherence to traditional wisdom when engaging with nature's unpredictable elements, ensuring individual safety without unnecessary government intrusion into personal liberties.",
+        "id": "story-1765121458165-4",
+        "headline": "Powerful Earthquake Strikes Remote Wilderness Near Alaska-Canada Border with Limited Impact",
+        "content": "A significant magnitude 7.0 earthquake recently struck a vast, sparsely populated region along the Alaska-Canada border. While tremors were felt over great distances, early reports thankfully indicate minimal structural damage or injuries in this remote area. Officials are prudently monitoring the situation for potential aftershocks, demonstrating vigilance without unnecessary alarm.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-5",
+        "headline": "Pete Hegseth Firmly Defends Vital 'Drug Boat' Operations Against Undermining Scrutiny",
+        "content": "Pete Hegseth delivered a compelling address at a defense forum, robustly defending the US military's crucial 'drug boat' operations amidst unwarranted scrutiny. His speech powerfully articulated the administration's steadfast position on these essential missions, which are vital for national security and combating illicit drug trafficking, rejecting criticisms that could jeopardize our efforts to protect the homeland.",
+        "originalSource": "PBS NewsHour",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765118071123-0",
-        "headline": "Earth Shakes Itself Into Existential Crisis After Magnitude-7.0 Earthquake Fails To Damage Single Human-Made Structure",
-        "content": "A magnitude-7.0 earthquake, clearly suffering from an extreme lack of purpose, reportedly rattled a remote section of the Alaska-Canada border, achieving absolutely nothing of note. Seismologists are currently baffled as to why the earth bothered, given the distinct absence of any populated areas to wreak havoc upon. Officials are monitoring the situation closely for any sign of a disappointed bear or a mildly startled moose, as significant human impact remains depressingly low, much to the chagrin of disaster tourists everywhere.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765118071123-1",
-        "headline": "Supreme Court To Brave Monumental Question: Can President Trump Fire Someone Who Makes Direct Eye Contact With Him?",
-        "content": "The Supreme Court has heroically agreed to tackle the age-old philosophical query of whether a sitting president, specifically President Trump, possesses the divine right to dismiss a federal regulator from the Federal Trade Commission (FTC) for daring to exist independently. Legal scholars are bracing for a pivotal ruling that will determine if federal agencies are mere extensions of presidential will or if they are allowed to occasionally have thoughts of their own, a concept many fear is far too radical.",
+        "id": "story-1765121458165-0",
+        "headline": "Supreme Court Girds Loins For Epic Battle Over President Trump's God-Given Right To Fire Anyone He Sees Fit",
+        "content": "In a move that legal scholars are calling 'surprisingly dramatic for something so niche,' the Supreme Court has agreed to weigh in on whether President Trump can just, you know, fire the head of the Federal Trade Commission on a whim. The landmark case is expected to finally settle the age-old question of whether a President's executive power extends to getting rid of people who don't immediately respond to his emails, potentially reshaping the very fabric of who gets to annoy whom in Washington.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-2",
-        "headline": "President Trump's Immigration Crackdown Becomes So Incredibly Effective It's Now Apprehending U.S. Citizens Inside U.S. Borders",
-        "content": "A stunning new report details the unprecedented success of President Trump's immigration crackdown, which has now reached such peak efficiency that it is inadvertently detaining and allegedly assaulting U.S. citizens, particularly Latinos, within the nation's borders. Experts laud the enforcement agencies for their unwavering commitment to 'cracking down' on *someone*, anyone really, regardless of pesky citizenship documents, highlighting a truly color-blind approach to civil liberties concerns.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765121458165-1",
+        "headline": "President Trump Unveils Bold Plan To Replace All Border Walls With Gigantic, Electronically Operated Doors",
+        "content": "President Trump, in a speech that left many wondering if he'd accidentally invented a new sport, declared his intent to 'slam America's doors shut' if re-elected. Doubling down on his anti-immigrant rhetoric, the President described undocumented individuals as 'guests who forgot to RSVP' and promised a future where America’s entry points will feature a state-of-the-art 'No Soliciting' sign, likely visible from space. Experts predict the new doors will be very big and very, very shut.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-3",
-        "headline": "Coast Guard Heroically Seizes Enough Cocaine To Fuel Every Bad Decision Made In Last 18 Years, Breaks Record",
-        "content": "In a truly monumental act of public service, the U.S. Coast Guard has successfully intercepted a colossal 20,000 pounds of cocaine, effectively shattering an 18-year-old record for 'most fun prevented in a single bust.' Cartel leaders are reportedly in shambles, lamenting the sudden and dramatic drop in their global 'party supply chain,' while federal agencies promise to continue their valiant efforts to ensure fewer dance floors are spontaneously combusting.",
+        "id": "story-1765121458165-2",
+        "headline": "New Video Raises Questions About Why Military Waited A Full Hour To Finish Off Airstrike Survivors",
+        "content": "Shocking new footage has emerged, revealing that survivors of a recent US airstrike were left clinging to boat wreckage for nearly an entire hour before the military, in a move described as 'thorough,' launched a second, equally deadly attack. The video has prompted calls for a full investigation, with critics asking if the waiting period was an oversight or simply an unfortunate adherence to a 'double-tap minimum' policy designed for maximum clarity in casualty reports.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-3",
+        "headline": "Coast Guard Horrified To Discover Nation's Entire Cocaine Supply Was Just One Really Big Shipment",
+        "content": "The U.S. Coast Guard has announced a monumental victory, having successfully interdicted a mind-boggling 20,000 pounds of cocaine, effectively shattering an 18-year-old record for 'most drugs found on one boat.' Officials expressed both pride and a touch of existential dread, realizing that for nearly two decades, the nation's entire illicit stimulant market might have been relying on a single, extremely committed shipping route. Drug cartels are reportedly scrambling to find a new 'biggest boat' or considering switching to edibles.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-4",
-        "headline": "President Trump Confident Kennedy Center Honorees Will Give His Hosting Skills 'Tremendous' Reviews, Citing Abundant Gold-Plated Napkins",
-        "content": "President Trump recently hosted the 2025 Kennedy Center honorees, including living legends Sylvester Stallone and the band Kiss, at the Oval Office, where he graciously bestowed medals and, more importantly, offered unsolicited critiques of his own hosting prowess. 'I'm sure they'll give me great reviews,' President Trump reportedly beamed, hinting at the unparalleled quality of the refreshments and the sheer volume of gold-plated napkins, ensuring a truly unforgettable, and unquestionably 'tremendous,' cultural experience for all.",
-        "originalSource": "Associated Press / The Guardian",
-        "publishedTime": "15 hours ago"
-      },
-      {
-        "id": "story-1765118071123-5",
-        "headline": "California Officials Beg Residents To Stop Eating Random Forest Fungi, Confirming What Toddlers Already Knew",
-        "content": "In a desperate plea to the foraging-obsessed populace, California health and environmental officials have issued a stern warning against consuming wild mushrooms, following the tragic death of an individual who apparently thought 'mystery fungi' was a delicious and safe culinary adventure. The state is reportedly considering distributing glow-in-the-dark warning labels for all woodland areas, as the notion that some wild things might be fatally toxic seems to be a surprisingly novel concept for many residents.",
+        "id": "story-1765121458165-4",
+        "headline": "Massive 7.0 Earthquake Hits Alaska-Canada Border, Briefly Interrupting Grizzly Bear's Nap",
+        "content": "A powerful magnitude 7.0 earthquake recently struck a remote, sparsely populated area near the Alaska-Canada border, sending tremors across hundreds of miles and causing mild confusion among the region's few human inhabitants. The seismic event reportedly had devastating impacts, including several pinecones dislodged from trees and one grumpy moose contemplating whether to post about it on LinkedIn. Officials are monitoring the situation for any further disturbances to local wildlife's afternoon routines.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-5",
+        "headline": "Pete Hegseth Gallantly Defends Military's Right To Vigorously Bomb Anything That Floats If It 'Looks A Bit Shifty'",
+        "content": "Pete Hegseth, in a fiery speech that some mistook for a motivational seminar, passionately defended the US military's controversial 'drug boat' strikes, arguing that 'if it floats and looks suspicious, it's basically asking for it.' As scrutiny mounts over the operations' legality and potential for 'unintended consequences,' Hegseth reinforced the administration's stance that proactive boat-destruction is merely an advanced form of maritime traffic control, ensuring that only 'non-shifty' vessels get to traverse the high seas.",
+        "originalSource": "PBS NewsHour",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765118071123-0",
-        "headline": "A Really Big Earthquake Shakes the Ground Near Alaska and Canada",
-        "content": "A very strong earthquake, like a giant rumble, happened far away in the wilderness near Alaska and Canada. Even though it was a big one, because it was in a place where not many people live, experts think it might not have caused a lot of damage to towns or cities. People are watching it closely to make sure everyone is safe.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765118071123-1",
-        "headline": "The Supreme Court Will Decide How Much Power President Trump Has",
-        "content": "The highest court in the country, called the Supreme Court, is going to look at a big case. They need to figure out how much power President Trump has to fire certain people who work for the government, especially someone from a group called the Federal Trade Commission (FTC). What they decide will be super important for how different parts of the government work and how much control the President has over them.",
+        "id": "story-1765121458165-0",
+        "headline": "The Supreme Court will decide how much power the President really has",
+        "content": "The highest court in America, called the Supreme Court, is going to hear a big case. This case is all about how much power the President has to fire the person in charge of a group called the Federal Trade Commission (FTC). The FTC's job is to make sure businesses play fair and don't trick people. This decision is super important because it could change how much control future presidents have over other government groups too.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-2",
-        "headline": "Some U.S. Citizens Are Getting Into Trouble With Immigration Officers",
-        "content": "A new report says that sometimes, people who are actually U.S. citizens, especially Latino people, are getting stopped and even hurt by immigration officers. This is happening because of stricter rules about immigration under President Trump's administration. People are worried about how these officers are acting and if everyone's rights are being protected.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765121458165-1",
+        "headline": "President Trump says he will stop many people from coming into America",
+        "content": "President Trump gave a speech where he promised that if he becomes President again, he will make it very, very hard for people to come into America. He used strong words about people who are not supposed to be in the country. He also said he would send many of these people out of the country as part of his plan.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-3",
-        "headline": "The Coast Guard Caught a Super Huge Amount of Drugs",
-        "content": "The U.S. Coast Guard had an amazing success! They found and took away a giant pile of illegal drugs, called cocaine, that weighed 20,000 pounds. That's a huge amount, and it's more than they've found in 18 years! This shows how hard the Coast Guard is working to stop bad guys from bringing drugs into our country.",
+        "id": "story-1765121458165-2",
+        "headline": "A video shows people survived a US attack only to be hit again later",
+        "content": "A new video shows something really sad happened. After an American airplane attacked a boat, some people survived and held onto parts of the broken boat in the water for a whole hour. Then, another attack happened, and those people were hurt again or died. This video makes people ask if the rules the military follows when they fight are fair, and they want to find out exactly what went wrong.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-3",
+        "headline": "The Coast Guard caught a giant amount of drugs, breaking a record for sure",
+        "content": "The US Coast Guard caught a super huge amount of an illegal drug called cocaine! It was more than 20,000 pounds, which is like 10 big cars of drugs. This is the biggest amount they've ever caught in 18 years. They found it far out in the ocean, and it was a huge win against bad groups trying to bring drugs into America.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-4",
-        "headline": "President Trump Met Famous People and Gave Them Awards",
-        "content": "President Trump hosted some really famous people at the White House, like the actor Sylvester Stallone and the band Kiss. These stars were receiving special awards called the Kennedy Center Honors. President Trump gave them medals and even joked about how good he was at hosting them. It was a fun event combining culture and politics.",
-        "originalSource": "Associated Press / The Guardian",
-        "publishedTime": "15 hours ago"
-      },
-      {
-        "id": "story-1765118071123-5",
-        "headline": "Don't Pick Wild Mushrooms Because Some Can Be Very Dangerous",
-        "content": "Officials in California are telling everyone to be very careful and NOT to pick wild mushrooms. This warning comes after someone sadly died from eating a poisonous mushroom they found outside. It's really hard to tell which mushrooms are safe and which ones can make you super sick or even kill you, so it's best to just leave them alone!",
+        "id": "story-1765121458165-4",
+        "headline": "A really big earthquake shook a quiet area near Alaska and Canada",
+        "content": "A very strong earthquake, which scientists call a magnitude 7.0, happened in a wild, empty place between Alaska and Canada. Because not many people live there, it doesn't seem like much was broken or many people got hurt right away. But experts are watching carefully because more smaller earthquakes, called aftershocks, might still happen. People felt the ground shake even far away in other towns.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-5",
+        "headline": "Pete Hegseth defended military attacks on boats suspected of carrying drugs",
+        "content": "A person named Pete Hegseth gave a speech where he strongly said that the US military was right to attack boats they think are carrying illegal drugs. Some people are questioning if these attacks are okay, especially because sometimes innocent people might get hurt. His speech was meant to support the government's reasons for these actions, even though many people are worried about them.",
+        "originalSource": "PBS NewsHour",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765118071123-0",
-        "headline": "The Tremor's Silent Roar in the North",
-        "content": "Deep in the remote wilderness along the Alaska-Canada border, the earth groaned. A magnitude-7.0 earthquake, a seismic titan, ripped through ancient rock, far from human settlements. No city lights flickered, no alarms screamed in populous areas. Officials tracked the immense tremor from afar, acknowledging its power but anticipating minimal human impact due to its isolated epicenter. Bears and caribou might have paused, sensing the deep vibration, as nature's raw force reshaped an unseen landscape. It was a stark reminder of the planet's indifferent, powerful pulse, echoing a silent fury across the vast, uninhabited expanse.",
-        "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
-      },
-      {
-        "id": "story-1765118071123-1",
-        "headline": "The Scales of Power: A Judge's Dilemma",
-        "content": "The marble halls of the Supreme Court hummed with anticipation. A monumental case loomed, set to redefine the boundaries of presidential authority, specifically concerning the dismissal of a Federal Trade Commission regulator. Each justice knew the weight of their decision would ripple through Washington, potentially reshaping the independence of crucial federal agencies. The intricate dance between the executive branch and its oversight bodies hinged on this verdict. This was more than a legal dispute; it was a fundamental test of checks and balances, poised to determine the future equilibrium of governmental power and accountability.",
+        "id": "story-1765121458165-0",
+        "headline": "The Scales of Power: A Judicial Reckoning",
+        "content": "Behind the heavy, carved doors of the Supreme Court, a silent battle loomed. The nine justices had agreed to hear a case that struck at the very heart of presidential authority: the power to dismiss an agency head. This wasn't merely about the Federal Trade Commission; it was a profound test. Could an independent agency truly stand apart, or was it merely an extension of the executive will? The decision, poised to reshape the delicate balance of power, would reverberate far beyond the FTC, a silent tremor shaking the foundations of federal governance.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-2",
-        "headline": "Shadows on the Homeland: A Citizen's Plight",
-        "content": "A disturbing report cast long shadows across the nation, detailing how U.S. citizens, particularly those with Latino heritage, were being ensnared in heightened immigration enforcement. Detentions and alleged assaults by officers enforcing a stricter crackdown under President Trump's administration raised serious alarms. These incidents within U.S. borders sparked profound concerns about civil liberties, highlighting aggressive tactics that blurred the lines between citizen and non-citizen. The report painted a grim picture of American lives disrupted, underscoring the pressing need to safeguard fundamental rights amidst intensified immigration policies.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Last 24 hours"
+        "id": "story-1765121458165-1",
+        "headline": "Whispers of the Border: A Nation's Future",
+        "content": "On a sun-drenched stage, President Trump addressed the roaring crowd, his voice echoing a stark vision for the nation's borders. He pledged a colossal crackdown, an unprecedented closure of America's gates, if the people returned him to office. With words sharp as a winter wind, he painted a future of resolute enforcement, promising vast deportations for those without legal standing. The cheers swelled, a testament to a platform built on tightening the nation's embrace, reshaping its very identity. The promise was clear: America’s doors would indeed slam shut.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-3",
-        "headline": "The Ocean's Dark Burden: A Record Haul",
-        "content": "Under the vast, indifferent expanse of the ocean, the U.S. Coast Guard achieved a monumental victory. A staggering 20,000 pounds of cocaine, destined for American streets, was successfully intercepted. This massive seizure wasn't merely a bust; it shattered an 18-year-old record, marking an unprecedented win against large-scale narcotics trafficking. The haul represented countless hours of surveillance, pursuit, and dangerous interdiction by dedicated federal agents. It was a stark declaration that the relentless tide of illicit drugs would continue to meet formidable resistance before reaching the nation's shores.",
+        "id": "story-1765121458165-2",
+        "headline": "The Ocean's Embrace: A Witness's Silence",
+        "content": "The ocean swelled, a dark mirror reflecting the horror. Survivors, mere specks against the vastness, clung to boat wreckage for an agonizing hour after the first airstrike. Their cries were swallowed by the waves, their hope dwindling with each passing minute. Then, the sky roared again. A second deadly attack, captured on a silent, damning video, erased their desperate struggle. The footage, a ghost in the machine, now demanded answers, ripping open questions about protocol and humanity, forcing a world to confront the chilling wait before the final blow.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-3",
+        "headline": "The Shadow Cargo: A Midnight Interception",
+        "content": "Under the vast, indifferent gaze of the open sea, a shadow ship sailed. Its belly groaned with a staggering 20,000 pounds of pristine white powder, destined for hidden veins in distant cities. But the Coast Guard, a silent hunter, was closer. Their radar had pierced the night, their precision undeniable. In a dramatic, swift interdiction, they seized the record-breaking haul, smashing an 18-year-old barrier. The ocean, usually a silent accomplice, bore witness to a significant blow against the relentless tide of international drug trafficking, a victory for the guardians of the coast.",
         "originalSource": "CBS News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765118071123-4",
-        "headline": "A Gilded Night in the Oval Office",
-        "content": "The Oval Office glowed as President Trump welcomed the esteemed Kennedy Center honorees for 2025. Sylvester Stallone, the legendary rock band Kiss — a pantheon of American talent gathered. Medals were presented, and the atmosphere was lighthearted as President Trump, ever the showman, playfully remarked on his hosting abilities. 'I'm sure they'll give me great reviews,' he quipped, a twinkle in his eye. It was a vibrant blend of cultural celebration and presidential flair, a moment where art and statecraft converged, creating a memorable tableau within the hallowed halls of the White House.",
-        "originalSource": "Associated Press / The Guardian",
-        "publishedTime": "15 hours ago"
-      },
-      {
-        "id": "story-1765118071123-5",
-        "headline": "The Forest's Deceptive Harvest: A Fatal Mistake",
-        "content": "A quiet warning echoed through California’s communities: beware the forest’s hidden dangers. Following the tragic death of an individual who consumed a poisonous wild mushroom, health officials issued an urgent plea. The deceptive beauty of wild fungi often masks fatal toxicity, and even experienced foragers can make deadly misidentifications. The public advisory stressed the critical risk of gathering unverified mushrooms, transforming a seemingly innocent foray into nature into a perilous gamble. The silent, potent threat lurking in the undergrowth underscored the ultimate price of a single, fatal mistake.",
+        "id": "story-1765121458165-4",
+        "headline": "The Earth's Shudder: A Wilderness Awakens",
+        "content": "Deep in the remote, untamed wilderness along the Alaska-Canada border, the earth groaned. A primal, guttural roar echoed through the ancient trees as a magnitude 7.0 earthquake ripped through the bedrock. Peaks trembled, valleys shifted, yet the vast emptiness offered few immediate witnesses to the raw power unleashed. Miles away, in unsuspecting towns, dishes rattled and buildings swayed, a distant whisper of the colossal energy released. Officials watched, vigilant, as the silent land settled, knowing the aftershocks could yet redefine the very contours of the northern frontier.",
         "originalSource": "AP News",
-        "publishedTime": "Last 24 hours"
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765121458165-5",
+        "headline": "A Stolen Glimmer: The Defender's Stance",
+        "content": "The conference hall hummed, charged with expectation and veiled scrutiny. Pete Hegseth, unyielding, took the podium. His voice, steady and resolute, cut through the murmurs, vigorously defending the US military's controversial 'drug boat' strikes. Critics pointed to civilian casualties and blurred legal lines, but Hegseth painted a picture of necessary action, of unwavering resolve against illicit networks. He reaffirmed the administration’s position, standing firm against the political fallout. It was a defiant speech, a stark refusal to cede ground, echoing a policy that would continue to face the tempest of public and legislative debate.",
+        "originalSource": "PBS NewsHour",
+        "publishedTime": "Less than 24 hours ago"
       }
     ]
   }
