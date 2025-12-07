@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765121529449,
+  "timestamp": 1765125817875,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765121458165-0",
-        "headline": "Supreme Court Considers Executive Overreach, Threatening Independent Agency Oversight",
-        "content": "The Supreme Court is poised to hear a critical case that could dramatically expand executive power by challenging the President's authority to dismiss the head of the Federal Trade Commission. This decision carries profound implications for the independence of federal agencies designed to protect the public interest, potentially dismantling crucial checks and balances against unchecked executive control and undermining democratic governance.",
+        "id": "story-1765125736286-0",
+        "headline": "President Trump Honors Arts Luminaries, Amidst Broader Cultural Funding Debates",
+        "content": "President Trump hosted a ceremony at the White House, recognizing the 2025 Kennedy Center honorees for their significant contributions to American arts and culture. While the celebration included diverse figures like singer Gloria Gaynor, actor Sylvester Stallone, country star George Strait, the band Kiss, and actor Michael Crawford, it also serves as a reminder to advocate for equitable arts funding and broader accessibility to cultural institutions.",
+        "originalSource": "AP / CBS News",
+        "publishedTime": "17 hours ago"
+      },
+      {
+        "id": "story-1765125736286-1",
+        "headline": "FIFA World Cup 2026 Schedule Unveiled, Raising Concerns Over Local Impact and Labor Rights",
+        "content": "The official schedule for the 2026 FIFA Men's World Cup has been released, detailing 104 matches across 11 U.S. cities, alongside venues in Mexico and Canada. As excitement builds for the expanded tournament and the US national team's path, critical attention must be paid to ensuring fair labor practices for event staff, mitigating potential economic displacement in host communities, and addressing the environmental footprint of such a massive global event.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Dec 6, 2025"
       },
       {
-        "id": "story-1765121458165-1",
-        "headline": "President Trump's Rhetoric Further Demonizes Immigrants, Threatening Human Rights and Systemic Injustice",
-        "content": "In a deeply troubling campaign speech, President Trump escalated his anti-immigrant rhetoric, promising to 'slam America's doors shut' if re-elected. His derogatory language and pledges for mass deportations not only dehumanize vulnerable populations but also risk codifying systemic xenophobia into policy, further eroding human rights and perpetuating injustice within the nation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-2",
+        "headline": "Texas Flood 911 Calls Expose Systemic Failures in Climate Resilience and Equitable Disaster Response",
+        "content": "Harrowing 911 audio from the severe Texas floods has been released, detailing desperate pleas for rescue from stranded residents. These chaotic scenes not only underscore the immense challenges faced by emergency services but also bring into sharp focus the urgent need for robust climate action, resilient infrastructure, and equitable resource allocation to protect all communities, especially those disproportionately affected by escalating climate disasters.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-2",
-        "headline": "Horrifying Footage Reveals US Airstrike Survivors Were Left to Drown Before Second Attack, Demanding Accountability",
-        "content": "Disturbing new video evidence has emerged, revealing the horrific reality that survivors of a US airstrike were left clinging to boat wreckage for an agonizing hour before a second, deadly attack. This footage unequivocally demands immediate and thorough investigation into military protocols, rules of engagement, and the decision-making processes that led to such egregious loss of life, raising serious questions about accountability and human rights.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-3",
+        "headline": "Michael Jordan Challenges NASCAR's Monopoly Power in Landmark Antitrust Battle",
+        "content": "Basketball legend Michael Jordan, co-owner of a NASCAR Cup Series team, has delivered powerful testimony in the high-profile antitrust trial against NASCAR. His assertion that 'someone had to step forward' highlights the critical need to address concentrated corporate power and unfair competition practices within major sports, advocating for a more equitable and accessible operational structure for all participants.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-3",
-        "headline": "Massive Cocaine Seizure Highlights Persistent Systemic Failures in the Global War on Drugs",
-        "content": "The U.S. Coast Guard's record-breaking interdiction of over 20,000 pounds of cocaine, the largest seizure in 18 years, underscores the immense and persistent challenge of global drug trafficking. While celebrated as a victory, this monumental bust simultaneously reveals the enduring systemic issues fueling illicit drug trade and the limitations of enforcement-only strategies without addressing the root causes of demand and socio-economic vulnerabilities.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-4",
+        "headline": "Frank Gehry's Architectural Legacy Prompts Reflection on Public Space and Urban Equity",
+        "content": "Celebrated architect Frank Gehry, renowned for his deconstructivist style and iconic, imaginative buildings like the Guggenheim Bilbao and the Walt Disney Concert Hall, has died at 96. While his decades-long career transformed cityscapes, his passing prompts vital reflection on the broader role of monumental architecture in urban development, the accessibility of such structures for all communities, and ensuring that artistic vision serves public good and equitable city planning.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-4",
-        "headline": "Powerful Magnitude 7.0 Earthquake Strikes Remote Wilderness, Emphasizing Vulnerability of Ecosystems and Communities",
-        "content": "A potent magnitude 7.0 earthquake has struck a remote, sparsely populated region along the Alaska-Canada border. While initial reports indicate limited immediate damage, the sheer force of the tremor, felt hundreds of miles away, highlights the profound power of natural forces and the inherent vulnerability of both pristine ecosystems and the distant human communities within them, underscoring the ongoing need for robust disaster preparedness.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765121458165-5",
-        "headline": "Pete Hegseth Defends Controversial 'Drug Boat' Strikes Amid Mounting Scrutiny Over Civilian Casualties",
-        "content": "Pete Hegseth delivered a defiant address at a defense forum, staunchly defending the US military's contentious 'drug boat' strikes despite intense scrutiny and significant concerns over potential civilian casualties and legal authority. His speech, which dismissed growing calls for transparency and accountability, reinforces a concerning trend of minimizing human cost and sidestepping critical examination of military operations.",
-        "originalSource": "PBS NewsHour",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-5",
+        "headline": "President Trump's Immigration Crackdown Systematically Harms Latino Citizens, Violating Civil Rights",
+        "content": "Disturbing reports detail how U.S. citizens, overwhelmingly Latinos, are being unjustly caught in President Trump's expanding immigration crackdown. Accounts of detention, assault, and discriminatory questioning about birthplace by officers expose the egregious civil rights violations and the systemic racial profiling inherent in federal enforcement policies, fostering fear and division within communities.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Dec 6, 2025"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765121458165-0",
-        "headline": "Supreme Court to hear major test of presidential power in case over FTC firing",
-        "content": "The Supreme Court has agreed to hear a case that challenges the President's authority to remove the head of the Federal Trade Commission (FTC). This landmark case will test the limits of executive power, potentially reshaping the balance of power between the executive and independent federal agencies. The ruling could have significant implications for other agency heads.",
+        "id": "story-1765125736286-0",
+        "headline": "Trump awards medals to the Kennedy Center honorees in Oval Office ceremony",
+        "content": "President Trump hosted a ceremony at the White House to award medals to the 2025 Kennedy Center honorees, a group representing the best of American arts and culture. The recipients included singer Gloria Gaynor, actor Sylvester Stallone, country star George Strait, the band Kiss, and actor Michael Crawford.",
+        "originalSource": "AP / CBS News",
+        "publishedTime": "17 hours ago"
+      },
+      {
+        "id": "story-1765125736286-1",
+        "headline": "2026 FIFA Men's World Cup schedule released, detailing the USA's path and full fixtures",
+        "content": "The official schedule for the 2026 FIFA Men's World Cup was released, detailing 104 matches to be held across 11 cities in the United States, as well as venues in Mexico and Canada. The announcement outlines the path for the US national team and the full fixture list for the expanded tournament.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Dec 6, 2025"
       },
       {
-        "id": "story-1765121458165-1",
-        "headline": "Trump vows to slam America's doors shut as he heaps scorn on immigrants",
-        "content": "Donald Trump delivered a campaign speech where he promised a massive crackdown on immigration if re-elected, including measures to 'slam America's doors shut.' The former President intensified his anti-immigrant rhetoric, describing undocumented individuals with derogatory language and promising large-scale deportations as part of his platform.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-2",
+        "headline": "Newly released 911 calls from Texas floods reveal chaotic and desperate pleas for rescues",
+        "content": "Newly released 911 audio from the severe Texas floods reveals harrowing and chaotic scenes, detailing the desperate pleas of stranded residents for rescue. The calls underscore the immense challenge faced by emergency services in managing the widespread disaster and reaching those trapped by the rapidly rising waters.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-2",
-        "headline": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows",
-        "content": "New video evidence has emerged showing survivors of a US airstrike clinging to boat wreckage in the water for up to an hour before a second deadly attack occurred. The footage raises serious questions about the military's rules of engagement and the decision-making process, prompting calls for a full investigation into the incident.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-3",
+        "headline": "Michael Jordan testifies in NASCAR antitrust trial, saying 'someone had to step forward'",
+        "content": "Basketball legend Michael Jordan, co-owner of a NASCAR Cup Series team, testified in the high-profile antitrust trial against NASCAR. Jordan stated that 'someone had to step forward,' suggesting a need for change in the sport’s operational structure and competition practices, supporting the plaintiffs’ case.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-3",
-        "headline": "20,000-pound cocaine seizure by Coast Guard breaks 18-year-old record",
-        "content": "The U.S. Coast Guard successfully interdicted a massive shipment of cocaine, reportedly totaling over 20,000 pounds, setting a new record for the largest seizure in the last 18 years. The operation, which took place in international waters, represents a significant victory in the ongoing efforts by federal authorities to combat major drug trafficking networks targeting the United States.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-4",
+        "headline": "Frank Gehry, celebrated architect of wildly imaginative buildings, dies at 96",
+        "content": "Celebrated architect Frank Gehry, whose career spanned decades and included iconic designs like the Guggenheim Bilbao and the Walt Disney Concert Hall, has died at the age of 96. He was renowned for his deconstructivist style and wildly imaginative, curved buildings that transformed cityscapes worldwide.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-4",
-        "headline": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
-        "content": "A powerful magnitude 7.0 earthquake struck a remote, sparsely populated area near the Alaska-Canada border. While the location has limited immediate reports of major structural damage or injuries, officials are monitoring the situation closely and have issued warnings about potential aftershocks. Tremors were reportedly felt hundreds of miles away in nearby towns.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765121458165-5",
-        "headline": "Hegseth gives defiant speech defending 'drug boat' strikes amid scrutiny",
-        "content": "Pete Hegseth delivered a keynote address at a defense forum, vigorously defending the US military's controversial 'drug boat' strikes even as the operations face intense scrutiny and political fallout. His speech reinforced the administration's stance on the operations, which have been criticized for potentially resulting in civilian casualties and questions over legal authority.",
-        "originalSource": "PBS NewsHour",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-5",
+        "headline": "U.S. citizens getting caught in Trump's immigration crackdown, particularly Latinos",
+        "content": "Reports detail the experiences of U.S. citizens, particularly Latinos, who have been increasingly caught in the Trump administration's expanding immigration crackdown. Citizens describe being detained and assaulted by officers, who frequently question their birthplace, highlighting new challenges and tensions stemming from federal enforcement policies.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Dec 6, 2025"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765121458165-0",
-        "headline": "Supreme Court Must Affirm Presidential Authority to Oversee Federal Agencies",
-        "content": "The Supreme Court has rightly agreed to hear a critical case challenging the President's constitutional authority to remove the head of the Federal Trade Commission (FTC). This landmark decision is essential to reassert the proper balance of power, ensuring that elected officials maintain accountability over unelected federal bureaucrats and defending the executive branch's inherent right to lead. The ruling will undoubtedly clarify the limits of presidential power, a necessary step to restore traditional governmental structures.",
+        "id": "story-1765125736286-0",
+        "headline": "President Trump Honors American Artistic Excellence, Upholding National Traditions",
+        "content": "In a display of unwavering appreciation for American achievement, President Trump proudly hosted a distinguished ceremony in the Oval Office, bestowing medals upon the 2025 Kennedy Center honorees. This esteemed gathering celebrated the pinnacle of American arts and culture, recognizing patriotic icons such as singer Gloria Gaynor, actor Sylvester Stallone, country legend George Strait, the iconic band Kiss, and actor Michael Crawford, truly embodying the spirit of American excellence and our rich cultural heritage.",
+        "originalSource": "AP / CBS News",
+        "publishedTime": "17 hours ago"
+      },
+      {
+        "id": "story-1765125736286-1",
+        "headline": "America Prepares to Host the World: 2026 FIFA World Cup Schedule Revealed, Highlighting Our Nation's Role",
+        "content": "The eagerly anticipated official schedule for the 2026 FIFA Men's World Cup has been unveiled, confirming a robust lineup of 104 matches. This monumental event will primarily grace 11 proud American cities, alongside select venues in Mexico and Canada, underscoring our nation's significant role on the global stage. The announcement proudly details the United States national team's journey and the complete fixture list for this expanded tournament, promising a spectacle that will bring economic opportunity and national unity.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Dec 6, 2025"
       },
       {
-        "id": "story-1765121458165-1",
-        "headline": "President Trump Pledges Strong Action to Secure Our Borders and Uphold National Sovereignty",
-        "content": "President Trump delivered a powerful campaign speech, reaffirming his unwavering commitment to national sovereignty and border security. He outlined a robust plan to address the ongoing crisis at our borders, promising decisive measures to protect American citizens and reinforce the rule of law. President Trump's platform emphasizes large-scale deportations for those who have entered illegally, a vital step to ensure the safety and integrity of our nation.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-2",
+        "headline": "Texans Face Adversity with Courage: 911 Calls Detail Flood Havoc and Community Resilience",
+        "content": "Heart-wrenching 911 audio from the recent severe Texas floods has been released, painting a vivid picture of the chaotic and desperate circumstances faced by stranded residents. These calls highlight the immense challenges valiantly confronted by our brave emergency services, who worked tirelessly to uphold their duty amidst widespread disaster. The resilient spirit of Texans shines through, reminding us of the importance of community and self-reliance in times of great natural adversity.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-2",
-        "headline": "Urgent Investigation Needed into Disturbing Airstrike Footage Demanding Accountability",
-        "content": "New video evidence has surfaced, depicting survivors of a U.S. airstrike clinging to boat wreckage for an extended period before a second engagement occurred. This footage raises serious and legitimate questions regarding military protocols and decision-making in the field. A full and transparent investigation into this incident is imperative to ensure justice and maintain public trust in our valiant armed forces.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-3",
+        "headline": "Michael Jordan Champions Fair Competition, Testifying Against NASCAR Monopolistic Practices",
+        "content": "Basketball icon Michael Jordan, a co-owner of a NASCAR Cup Series team, delivered powerful testimony in the pivotal antitrust trial challenging NASCAR. Jordan asserted that 'someone had to step forward,' advocating for a return to open competition and fair practices within the sport’s operational framework. His stance courageously supports the plaintiffs’ case, defending the principles of free markets and ensuring that all participants have a true opportunity to compete without undue restraint.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-3",
-        "headline": "Coast Guard Delivers Crushing Blow to Drug Cartels with Record-Breaking Cocaine Seizure",
-        "content": "The U.S. Coast Guard has achieved a monumental victory against international criminal enterprises, interdicting a staggering 20,000 pounds of cocaine in international waters. This record-breaking seizure, the largest in nearly two decades, unequivocally demonstrates the unwavering commitment of our federal authorities to protecting our communities from the scourge of illegal drugs and securing our national borders against nefarious threats.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-4",
+        "headline": "Frank Gehry, Visionary Architect Whose Enduring Structures Reshaped Modern Skylines, Passes at 96",
+        "content": "The world mourns the passing of Frank Gehry, a truly visionary architect whose illustrious career spanned decades. At 96, he leaves behind an indelible legacy of iconic designs, including the Guggenheim Bilbao and the Walt Disney Concert Hall. Gehry was celebrated for his unique architectural prowess, creating imaginative and often curved buildings that transformed cityscapes globally, demonstrating the profound impact one individual's vision can have on the built environment and future generations.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-4",
-        "headline": "Powerful Earthquake Strikes Remote Wilderness Near Alaska-Canada Border with Limited Impact",
-        "content": "A significant magnitude 7.0 earthquake recently struck a vast, sparsely populated region along the Alaska-Canada border. While tremors were felt over great distances, early reports thankfully indicate minimal structural damage or injuries in this remote area. Officials are prudently monitoring the situation for potential aftershocks, demonstrating vigilance without unnecessary alarm.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765121458165-5",
-        "headline": "Pete Hegseth Firmly Defends Vital 'Drug Boat' Operations Against Undermining Scrutiny",
-        "content": "Pete Hegseth delivered a compelling address at a defense forum, robustly defending the US military's crucial 'drug boat' operations amidst unwarranted scrutiny. His speech powerfully articulated the administration's steadfast position on these essential missions, which are vital for national security and combating illicit drug trafficking, rejecting criticisms that could jeopardize our efforts to protect the homeland.",
-        "originalSource": "PBS NewsHour",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-5",
+        "headline": "Border Security Efforts Under President Trump Emphasize Rule of Law, Ensuring National Integrity",
+        "content": "As President Trump's administration rightfully strengthens its immigration enforcement, ensuring our nation's sovereignty and adherence to the rule of law, reports have surfaced detailing instances where some U.S. citizens, particularly those of Latino heritage, have regrettably encountered federal officers. While securing our borders and deterring illegal immigration remains a paramount duty, any challenges for legitimate citizens, including questions regarding birthplace, must be addressed with diligence to uphold their constitutional rights and ensure that enforcement is targeted and just, focusing on those who violate our nation's laws.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Dec 6, 2025"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765121458165-0",
-        "headline": "Supreme Court Girds Loins For Epic Battle Over President Trump's God-Given Right To Fire Anyone He Sees Fit",
-        "content": "In a move that legal scholars are calling 'surprisingly dramatic for something so niche,' the Supreme Court has agreed to weigh in on whether President Trump can just, you know, fire the head of the Federal Trade Commission on a whim. The landmark case is expected to finally settle the age-old question of whether a President's executive power extends to getting rid of people who don't immediately respond to his emails, potentially reshaping the very fabric of who gets to annoy whom in Washington.",
+        "id": "story-1765125736286-0",
+        "headline": "President Trump Single-Handedly Elevates American Culture By Granting Medals To Icons He Recognizes",
+        "content": "President Trump, in a move widely hailed by himself, hosted an Oval Office ceremony to honor the 2025 Kennedy Center recipients, a group he personally deemed 'the best of the best, believe me.' The honorees, who included singer Gloria Gaynor, actor Sylvester Stallone, country star George Strait, the band Kiss, and actor Michael Crawford, reportedly looked a mixture of flattered and vaguely confused as President Trump explained each of their contributions to American greatness in intricate detail, focusing heavily on his favorite roles and songs.",
+        "originalSource": "AP / CBS News",
+        "publishedTime": "17 hours ago"
+      },
+      {
+        "id": "story-1765125736286-1",
+        "headline": "FIFA Unveils World Cup Schedule So Expansive Even Mathematicians Are Considering Early Retirement",
+        "content": "The official schedule for the 2026 FIFA Men's World Cup has been released, revealing a staggering 104 matches spread across 11 U.S. cities, plus additional venues in Mexico and Canada. Fans are advised to begin training now for the mental marathon, as the sheer volume of games promises to challenge even the most dedicated couch potatoes, many of whom are already drafting their official 'sick day' requests extending through 2027. Experts predict a global shortage of snacks and a significant rise in competitive napping.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Dec 6, 2025"
       },
       {
-        "id": "story-1765121458165-1",
-        "headline": "President Trump Unveils Bold Plan To Replace All Border Walls With Gigantic, Electronically Operated Doors",
-        "content": "President Trump, in a speech that left many wondering if he'd accidentally invented a new sport, declared his intent to 'slam America's doors shut' if re-elected. Doubling down on his anti-immigrant rhetoric, the President described undocumented individuals as 'guests who forgot to RSVP' and promised a future where America’s entry points will feature a state-of-the-art 'No Soliciting' sign, likely visible from space. Experts predict the new doors will be very big and very, very shut.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-2",
+        "headline": "Texas 911 Call Centers Report Surge In 'Water-Related Incidents,' Advise Residents To Try Turning It Off And On Again",
+        "content": "Newly released 911 audio from the devastating Texas floods reveals a cacophony of desperate pleas, mostly from residents who apparently forgot water could get *inside* their homes. Emergency services reported an overwhelming number of calls, often prefaced with 'You won't believe this, but...' as if the dispatcher hadn't already taken 700 similar calls that hour. Authorities are urging citizens to 'be patient, we're currently processing calls in the order they were received, unless you mentioned 'alligators,' in which case you're on hold indefinitely.'",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-2",
-        "headline": "New Video Raises Questions About Why Military Waited A Full Hour To Finish Off Airstrike Survivors",
-        "content": "Shocking new footage has emerged, revealing that survivors of a recent US airstrike were left clinging to boat wreckage for nearly an entire hour before the military, in a move described as 'thorough,' launched a second, equally deadly attack. The video has prompted calls for a full investigation, with critics asking if the waiting period was an oversight or simply an unfortunate adherence to a 'double-tap minimum' policy designed for maximum clarity in casualty reports.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-3",
+        "headline": "Michael Jordan, Having Conquered Air, Now Takes On Monopolies On Earth, Demanding Fairer Odds For NASCAR Owners",
+        "content": "Basketball legend Michael Jordan, co-owner of a NASCAR Cup Series team, dramatically appeared at the sport's high-profile antitrust trial, declaring that 'someone had to step forward' and presumably implying that someone was him. Jordan, whose competitive spirit once led him to challenge toddlers to one-on-one games, is reportedly advocating for a more equitable operational structure, believing that all NASCAR teams should at least have a *chance* to achieve his level of global dominance, or at the very least, win a race occasionally.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-3",
-        "headline": "Coast Guard Horrified To Discover Nation's Entire Cocaine Supply Was Just One Really Big Shipment",
-        "content": "The U.S. Coast Guard has announced a monumental victory, having successfully interdicted a mind-boggling 20,000 pounds of cocaine, effectively shattering an 18-year-old record for 'most drugs found on one boat.' Officials expressed both pride and a touch of existential dread, realizing that for nearly two decades, the nation's entire illicit stimulant market might have been relying on a single, extremely committed shipping route. Drug cartels are reportedly scrambling to find a new 'biggest boat' or considering switching to edibles.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-4",
+        "headline": "World Saddened As Frank Gehry, The Only Man Who Could Make A Building Look Like Crumpled Tin Foil, Finally Rests",
+        "content": "Celebrated architect Frank Gehry, renowned for his 'deconstructivist' style which primarily involved convincing wealthy patrons that their buildings should resemble artistic train wrecks, has passed away at 96. Gehry’s iconic, wildly imaginative structures, such as the Guggenheim Bilbao and the Walt Disney Concert Hall, often left passersby wondering if gravity had momentarily malfunctioned or if the blueprints had been left out in a very strong wind. He leaves behind a legacy of buildings that continue to confuse birds and inspire geometry teachers to quit.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-4",
-        "headline": "Massive 7.0 Earthquake Hits Alaska-Canada Border, Briefly Interrupting Grizzly Bear's Nap",
-        "content": "A powerful magnitude 7.0 earthquake recently struck a remote, sparsely populated area near the Alaska-Canada border, sending tremors across hundreds of miles and causing mild confusion among the region's few human inhabitants. The seismic event reportedly had devastating impacts, including several pinecones dislodged from trees and one grumpy moose contemplating whether to post about it on LinkedIn. Officials are monitoring the situation for any further disturbances to local wildlife's afternoon routines.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765121458165-5",
-        "headline": "Pete Hegseth Gallantly Defends Military's Right To Vigorously Bomb Anything That Floats If It 'Looks A Bit Shifty'",
-        "content": "Pete Hegseth, in a fiery speech that some mistook for a motivational seminar, passionately defended the US military's controversial 'drug boat' strikes, arguing that 'if it floats and looks suspicious, it's basically asking for it.' As scrutiny mounts over the operations' legality and potential for 'unintended consequences,' Hegseth reinforced the administration's stance that proactive boat-destruction is merely an advanced form of maritime traffic control, ensuring that only 'non-shifty' vessels get to traverse the high seas.",
-        "originalSource": "PBS NewsHour",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-5",
+        "headline": "President Trump's Immigration Crackdown So Thorough, Even His Own Reflection Now Requires Papers",
+        "content": "Reports are surfacing detailing the bewildering experiences of U.S. citizens, particularly Latinos, who are increasingly finding themselves ensnared in President Trump's ever-expanding immigration crackdown. Citizens describe being detained and questioned about their birthplace by officers, who, in their zealous pursuit of national security, are reportedly now asking U.S. citizens to identify every single one of their distant relatives, recite the preamble to the Constitution backward, and perhaps even prove they genuinely enjoy apple pie. Sources close to the administration confirmed the new policy is 'working exactly as intended, for whom, we're not entirely sure, but definitely intended.'",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Dec 6, 2025"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765121458165-0",
-        "headline": "The Supreme Court will decide how much power the President really has",
-        "content": "The highest court in America, called the Supreme Court, is going to hear a big case. This case is all about how much power the President has to fire the person in charge of a group called the Federal Trade Commission (FTC). The FTC's job is to make sure businesses play fair and don't trick people. This decision is super important because it could change how much control future presidents have over other government groups too.",
+        "id": "story-1765125736286-0",
+        "headline": "President Trump Gives Cool Awards to Famous People",
+        "content": "President Trump had a special party at his house, the White House! He gave out special medals to very famous people who are super good at art and music. Some of these famous people were singer Gloria Gaynor, actor Sylvester Stallone, country music star George Strait, the band Kiss, and actor Michael Crawford. They all got honored for being the best!",
+        "originalSource": "AP / CBS News",
+        "publishedTime": "17 hours ago"
+      },
+      {
+        "id": "story-1765125736286-1",
+        "headline": "The Big Soccer World Cup Schedule Is Out!",
+        "content": "Guess what? The schedule for the super big 2026 Men's Soccer World Cup is finally here! They will play 104 games in 11 cities just in the United States, plus some in Mexico and Canada too. We now know when and where the USA team will play and all the other games for this extra big soccer tournament.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Dec 6, 2025"
       },
       {
-        "id": "story-1765121458165-1",
-        "headline": "President Trump says he will stop many people from coming into America",
-        "content": "President Trump gave a speech where he promised that if he becomes President again, he will make it very, very hard for people to come into America. He used strong words about people who are not supposed to be in the country. He also said he would send many of these people out of the country as part of his plan.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-2",
+        "headline": "Scary 911 Calls Show People Trapped in Texas Floods",
+        "content": "New recordings from 911 calls in Texas show how scary it was when the big floods happened. People who were stuck called for help, sounding very desperate to be rescued. It shows how hard it was for police and firefighters to help everyone because so many places were flooded and the water was rising super fast.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-2",
-        "headline": "A video shows people survived a US attack only to be hit again later",
-        "content": "A new video shows something really sad happened. After an American airplane attacked a boat, some people survived and held onto parts of the broken boat in the water for a whole hour. Then, another attack happened, and those people were hurt again or died. This video makes people ask if the rules the military follows when they fight are fair, and they want to find out exactly what went wrong.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-3",
+        "headline": "Michael Jordan Thinks NASCAR Needs to Change Things",
+        "content": "Michael Jordan, who is a famous basketball player and also owns a NASCAR racing team, spoke in a big court case about NASCAR. He said that \"someone had to step forward,\" which means he thinks NASCAR needs to do things differently. He wants the sport to be run better and be fairer for everyone, and he is helping the people who are suing NASCAR.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-3",
-        "headline": "The Coast Guard caught a giant amount of drugs, breaking a record for sure",
-        "content": "The US Coast Guard caught a super huge amount of an illegal drug called cocaine! It was more than 20,000 pounds, which is like 10 big cars of drugs. This is the biggest amount they've ever caught in 18 years. They found it far out in the ocean, and it was a huge win against bad groups trying to bring drugs into America.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-4",
+        "headline": "Famous Building Designer Frank Gehry Passed Away at 96",
+        "content": "A super famous person who designed amazing buildings, Frank Gehry, has died. He was 96 years old. He made buildings that looked like nothing else, with lots of curves and cool shapes, like the Guggenheim Museum in Spain and the Walt Disney Concert Hall. He made cities look really different and exciting with his ideas!",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-4",
-        "headline": "A really big earthquake shook a quiet area near Alaska and Canada",
-        "content": "A very strong earthquake, which scientists call a magnitude 7.0, happened in a wild, empty place between Alaska and Canada. Because not many people live there, it doesn't seem like much was broken or many people got hurt right away. But experts are watching carefully because more smaller earthquakes, called aftershocks, might still happen. People felt the ground shake even far away in other towns.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765121458165-5",
-        "headline": "Pete Hegseth defended military attacks on boats suspected of carrying drugs",
-        "content": "A person named Pete Hegseth gave a speech where he strongly said that the US military was right to attack boats they think are carrying illegal drugs. Some people are questioning if these attacks are okay, especially because sometimes innocent people might get hurt. His speech was meant to support the government's reasons for these actions, even though many people are worried about them.",
-        "originalSource": "PBS NewsHour",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-5",
+        "headline": "President Trump's Rules Are Affecting Some American Citizens",
+        "content": "It's being reported that some American citizens, especially people who are Latino, are getting into trouble because of President Trump's new rules about immigration. These citizens say they have been stopped and sometimes even hurt by officers. The officers often ask where they were born, which is causing new problems and worries because of these government rules.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Dec 6, 2025"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765121458165-0",
-        "headline": "The Scales of Power: A Judicial Reckoning",
-        "content": "Behind the heavy, carved doors of the Supreme Court, a silent battle loomed. The nine justices had agreed to hear a case that struck at the very heart of presidential authority: the power to dismiss an agency head. This wasn't merely about the Federal Trade Commission; it was a profound test. Could an independent agency truly stand apart, or was it merely an extension of the executive will? The decision, poised to reshape the delicate balance of power, would reverberate far beyond the FTC, a silent tremor shaking the foundations of federal governance.",
+        "id": "story-1765125736286-0",
+        "headline": "The President's Golden Handshake for the Arts",
+        "content": "The Oval Office hummed with anticipation, bathed in the soft glow of historic light. President Trump, a figure of ceremonial gravitas, prepared to bestow the nation's highest artistic honors. Gloria Gaynor, her voice a timeless anthem of survival, stood beside Sylvester Stallone, whose cinematic punches echoed through generations. George Strait, a cowboy poet, waited with the masked titans of Kiss, their stage personas momentarily subdued. Michael Crawford, a phantom no more, completed the quintet. Each clasp of metal, each presidential commendation, wove another thread into the vibrant tapestry of American culture, a moment of enduring recognition for their profound impact.",
+        "originalSource": "AP / CBS News",
+        "publishedTime": "17 hours ago"
+      },
+      {
+        "id": "story-1765125736286-1",
+        "headline": "A New Continent Awaits the World's Game",
+        "content": "The calendar pages fluttered open, revealing a meticulously planned saga. One hundred and four matches, a global ballet of skill and passion, would unfold across three nations. Eleven American cities, each a vibrant canvas, would host battles of titans and dreams. Mexico and Canada, their stadiums echoing with history, would also welcome the expanded tournament. For the US national team, the path was now clear, a roadmap to glory or heartbreak. Fans everywhere began to trace routes, envisioning goals, saves, and the electric pulse of shared triumph. The world’s greatest spectacle had found its stage, vast and eager.",
         "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "publishedTime": "Dec 6, 2025"
       },
       {
-        "id": "story-1765121458165-1",
-        "headline": "Whispers of the Border: A Nation's Future",
-        "content": "On a sun-drenched stage, President Trump addressed the roaring crowd, his voice echoing a stark vision for the nation's borders. He pledged a colossal crackdown, an unprecedented closure of America's gates, if the people returned him to office. With words sharp as a winter wind, he painted a future of resolute enforcement, promising vast deportations for those without legal standing. The cheers swelled, a testament to a platform built on tightening the nation's embrace, reshaping its very identity. The promise was clear: America’s doors would indeed slam shut.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-2",
+        "headline": "Echoes of Despair from the Raging Waters",
+        "content": "The storm’s fury had passed, leaving behind a new terror: the water. It climbed, insidious and relentless, through homes and streets. On the other end of a 911 line, a dispatcher heard a child’s plea, then a mother’s frantic whisper, her voice barely audible above the sloshing. Each click of the recording button released another agonizing fragment of chaos: a submerged car, a rooftop prayer, a fading battery. Emergency services, overwhelmed by the deluge of calls, wrestled with the impossible task of reaching everyone. The audio, a chilling mosaic of human vulnerability, painted a stark picture of a community drowning in desperation.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-2",
-        "headline": "The Ocean's Embrace: A Witness's Silence",
-        "content": "The ocean swelled, a dark mirror reflecting the horror. Survivors, mere specks against the vastness, clung to boat wreckage for an agonizing hour after the first airstrike. Their cries were swallowed by the waves, their hope dwindling with each passing minute. Then, the sky roared again. A second deadly attack, captured on a silent, damning video, erased their desperate struggle. The footage, a ghost in the machine, now demanded answers, ripping open questions about protocol and humanity, forcing a world to confront the chilling wait before the final blow.",
-        "originalSource": "The Guardian",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-3",
+        "headline": "The Legend Speaks: A Call for Fair Play on the Track",
+        "content": "The courtroom hushed as Michael Jordan, a legend whose name alone commanded respect, took the stand. No longer soaring through the air, but grounded, resolute. As co-owner of a NASCAR Cup Series team, he spoke with the quiet authority of a competitor who understood the game. \"Someone had to step forward,\" he affirmed, his words echoing through the chamber. He painted a picture of a sport yearning for evolution, for a fairer competitive landscape. His testimony, a powerful endorsement for the plaintiffs, challenged the very structure of NASCAR, seeking to reshape the future of the roaring arenas he now inhabited as an owner.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-3",
-        "headline": "The Shadow Cargo: A Midnight Interception",
-        "content": "Under the vast, indifferent gaze of the open sea, a shadow ship sailed. Its belly groaned with a staggering 20,000 pounds of pristine white powder, destined for hidden veins in distant cities. But the Coast Guard, a silent hunter, was closer. Their radar had pierced the night, their precision undeniable. In a dramatic, swift interdiction, they seized the record-breaking haul, smashing an 18-year-old barrier. The ocean, usually a silent accomplice, bore witness to a significant blow against the relentless tide of international drug trafficking, a victory for the guardians of the coast.",
-        "originalSource": "CBS News",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-4",
+        "headline": "The Sculptor of Cities Takes His Final Bow",
+        "content": "The skyline wept, subtly, in the silent language of steel and glass. Frank Gehry, the master who defied straight lines, had embarked on his final journey at ninety-six. His buildings, audacious and free, were poems in titanium and stone. The Guggenheim Bilbao, a shimmering marvel, and the Walt Disney Concert Hall, a symphony in curves, stood as testaments to his boundless imagination. He bent the rules of architecture, literally, deconstructing expectations to rebuild dreams. His legacy wasn't just structures; it was a revolution of urban landscapes, a perpetual dance between form and fantasy, etched forever against the sky.",
+        "originalSource": "PBS News",
+        "publishedTime": "Dec 5, 2025"
       },
       {
-        "id": "story-1765121458165-4",
-        "headline": "The Earth's Shudder: A Wilderness Awakens",
-        "content": "Deep in the remote, untamed wilderness along the Alaska-Canada border, the earth groaned. A primal, guttural roar echoed through the ancient trees as a magnitude 7.0 earthquake ripped through the bedrock. Peaks trembled, valleys shifted, yet the vast emptiness offered few immediate witnesses to the raw power unleashed. Miles away, in unsuspecting towns, dishes rattled and buildings swayed, a distant whisper of the colossal energy released. Officials watched, vigilant, as the silent land settled, knowing the aftershocks could yet redefine the very contours of the northern frontier.",
-        "originalSource": "AP News",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765121458165-5",
-        "headline": "A Stolen Glimmer: The Defender's Stance",
-        "content": "The conference hall hummed, charged with expectation and veiled scrutiny. Pete Hegseth, unyielding, took the podium. His voice, steady and resolute, cut through the murmurs, vigorously defending the US military's controversial 'drug boat' strikes. Critics pointed to civilian casualties and blurred legal lines, but Hegseth painted a picture of necessary action, of unwavering resolve against illicit networks. He reaffirmed the administration’s position, standing firm against the political fallout. It was a defiant speech, a stark refusal to cede ground, echoing a policy that would continue to face the tempest of public and legislative debate.",
-        "originalSource": "PBS NewsHour",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765125736286-5",
+        "headline": "Shadows of Doubt: Citizens Caught in the Crosshairs",
+        "content": "The knock came without warning, a jarring intrusion. For U.S. citizens, particularly those with Latino heritage, the landscape had shifted. Under President Trump's expanded immigration crackdown, the lines blurred, and fear became a constant companion. Stories emerged, chilling whispers of identity questioned, of detentions without cause, of confrontations with officers demanding proof of birthright. Assaults were alleged, trust eroded. The enforcement policies, designed to secure borders, had cast a long, unsettling shadow over the lives of American citizens, creating a climate where a simple question could shatter a day, or a life.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Dec 6, 2025"
       }
     ]
   }
