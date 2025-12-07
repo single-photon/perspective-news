@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765103920410,
+  "timestamp": 1765106855530,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765103843822-0",
-        "headline": "Powerful Earthquake Near Alaska-Canada Border Highlights Vulnerabilities of Remote Regions",
-        "content": "A significant 7.0 magnitude earthquake shook a remote area along the Alaska-Canada border, bringing renewed attention to the unique challenges faced by sparsely populated, often Indigenous, communities in disaster preparedness and recovery. While immediate infrastructure damage appears minimal, the incident underscores the urgent need for equitable resource distribution and robust support systems to protect all communities, especially those on the front lines of environmental events. Authorities are monitoring for aftershocks, but the deeper systemic issues of rural resilience demand proactive governmental investment.",
-        "originalSource": "AP News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1765103843822-1",
-        "headline": "Supreme Court Considers Granting President Trump Unchecked Immunity, Threatening Democratic Accountability",
-        "content": "The U.S. Supreme Court is currently deliberating a pivotal case that could dramatically expand presidential immunity, a move sought by President Trump. This potential ruling raises grave concerns about the erosion of checks and balances, risking an executive branch operating above the law and undermining fundamental democratic principles. Such a decision could set a dangerous precedent, insulating powerful figures from accountability and further entrenching a system where justice is not applied equally to all.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765103843822-2",
-        "headline": "Record Cocaine Seizure Highlights Failures of Punitive Drug War Strategies",
-        "content": "The U.S. Coast Guard's record-breaking seizure of 20,000 pounds of cocaine, the largest in nearly two decades, underscores the ongoing ineffectiveness of punitive 'War on Drugs' strategies. While presented as a victory, such busts often fail to address the systemic root causes driving the drug trade, including economic desperation, inequality, and lack of opportunity in vulnerable communities. A progressive approach demands a re-evaluation of current policies, shifting focus from costly interdictions to harm reduction, treatment, and tackling the socio-economic conditions that fuel illicit markets.",
-        "originalSource": "CBS News",
+        "id": "story-1765106785750-0",
+        "headline": "Defense Secretary Hegseth's Reckless Actions Demand Greater Accountability and Oversight.",
+        "content": "Defense Secretary Pete Hegseth is under intense scrutiny following multiple scandals, delivering a defiant speech to defend controversial strikes on what he termed 'drug boats.' Critics have labeled these actions 'reckless,' underscoring systemic concerns about unchecked military power and the urgent need for transparency and accountability within the Pentagon. This crisis represents a serious challenge to his leadership and highlights broader questions about the ethics of military interventions.",
+        "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765103843822-3",
-        "headline": "Direct Wealth Transfers to Children Offer a Glimmer of Hope for Economic Equity Amidst Systemic Inequality",
-        "content": "The emerging bipartisan discussion around direct wealth transfers to children, including proposals like 'Trump Accounts' for universal savings, represents a potential step toward addressing rampant economic inequality. While offering a promising mechanism to build family wealth and provide a foundation for future generations, true economic justice requires more than individual accounts. A progressive perspective demands that these initiatives be coupled with broader systemic changes, such as living wages, robust social safety nets, and fair taxation, to genuinely dismantle the structures of poverty and ensure equitable opportunity for all children.",
+        "id": "story-1765106785750-1",
+        "headline": "Federal Judge Protects Due Process, Halting Politically Motivated DOJ Actions Against Comey.",
+        "content": "A federal judge has blocked the Department of Justice's attempt to secure a new indictment against former FBI Director James Comey, a significant rebuke to what many see as a politically driven legal campaign. This ruling underscores the judiciary's vital role in upholding checks and balances, preventing potential abuses of power within the justice system and ensuring fair process.",
         "originalSource": "The New York Times",
-        "publishedTime": "22 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765103843822-4",
-        "headline": "NASCAR Community Mourns Michael Annett's Untimely Passing at 39, Reflecting on Lives in Demanding Professions",
-        "content": "The NASCAR community is grieving the untimely passing of Michael Annett at the age of 39, a veteran competitor who made over 400 starts in a demanding sport. His death serves as a somber reminder of the intense pressures and physical tolls on individuals in high-performance careers. While mourning Annett's loss, it is crucial to consider the broader systemic support systems, including mental and physical health resources, that must be robustly available to all workers, especially those in professions with such unique stresses and public scrutiny.",
-        "originalSource": "AP News",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765106785750-2",
+        "headline": "Senator Menendez's Corruption Ban Emphasizes Need for Robust Ethical Governance.",
+        "content": "New Jersey election officials have banned former U.S. Senator Bob Menendez from holding any public office in the state, a direct consequence of his federal corruption conviction. This decision highlights the pervasive issue of political corruption and the critical importance of strong ethical standards and accountability to restore public trust in democratic institutions.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1765103843822-5",
-        "headline": "Horrific 911 Calls Expose Systemic Failures in Texas Flood Response Amidst Worsening Climate Crisis",
-        "content": "Devastating newly released 911 audio from the Texas Hill Country flood reveals the horrific final moments of residents pleading for help, shining a harsh light on systemic failures in disaster preparedness and response. These tragic outcomes underscore the urgent need for robust public infrastructure, adequately funded emergency services, and proactive climate adaptation strategies, especially as communities face increasingly severe weather events exacerbated by the climate crisis. The recordings are a powerful indictment of a system that often leaves vulnerable populations to fend for themselves when environmental disasters strike.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
+        "id": "story-1765106785750-3",
+        "headline": "Unexpected Decline in Private Payrolls Signals Growing Economic Precarity for Workers.",
+        "content": "A new report from ADP reveals an unexpected decline in U.S. private payrolls for November, signaling a concerning cooling in the labor market. This dip in job creation, following a period of modest hiring, raises significant concerns about economic stability for working families and underscores the urgent need for policies that prioritize worker security over corporate profits and address systemic economic inequalities.",
+        "originalSource": "ADP/Business News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-4",
+        "headline": "Record Cocaine Seizure Highlights Systemic Failures of Punitive Drug War Strategies.",
+        "content": "The U.S. Coast Guard seized a massive 20,000-pound cocaine shipment, marking an 18-year record for interdictions. While framed as a victory, such large seizures often fail to address the root causes of drug trafficking, which are deeply embedded in global poverty, inequality, and a demand fueled by inadequate public health approaches. This event underscores the limitations of purely punitive drug war strategies and the urgent need for comprehensive solutions that focus on social justice and public health.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-5",
+        "headline": "President Trump Honors Kennedy Center Artists Amid Broader Conversations on Cultural Value.",
+        "content": "President Trump awarded medals to the Kennedy Center honorees during an Oval Office ceremony at the White House, praising their artistic contributions. This event serves as a reminder of the vital role arts and culture play in shaping societal discourse and challenging perspectives, especially in a time where public support and funding for the arts often face scrutiny and political division. The President light-heartedly commented on his hosting abilities, acknowledging the significance of recognizing cultural excellence.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765103843822-0",
-        "headline": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
-        "content": "A powerful 7.0 magnitude earthquake struck a sparsely populated region on the Alaska-Canada border. The remote location lessened the immediate threat to major infrastructure, but authorities are monitoring the area for any reports of damage or aftershocks in surrounding communities.",
-        "originalSource": "AP News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1765103843822-1",
-        "headline": "The Supreme Court weighs another step in favor of broad presidential power sought by Trump",
-        "content": "The U.S. Supreme Court is hearing arguments on a critical case that could significantly expand the scope of presidential immunity. The ruling could have major implications for former President Donald Trump's various legal challenges and future executive power.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765103843822-2",
-        "headline": "20,000-pound cocaine seizure by Coast Guard breaks 18-year-old record",
-        "content": "The U.S. Coast Guard successfully intercepted and seized a massive 20,000-pound shipment of cocaine in international waters. This record-breaking drug bust marks the largest single seizure in nearly two decades for the maritime law enforcement agency.",
-        "originalSource": "CBS News",
+        "id": "story-1765106785750-0",
+        "headline": "Defense Secretary Hegseth Gives Defiant Speech Amid Growing Scrutiny",
+        "content": "Defense Secretary Pete Hegseth is facing increasing political pressure and scrutiny following twin scandals, giving a defiant speech where he defended controversial strikes on alleged 'drug boats.' The crisis has been labeled 'reckless' by some critics, marking a serious challenge to his tenure at the Pentagon.",
+        "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765103843822-3",
-        "headline": "Giving Money Directly to Children Is an Idea the Right and Left Could Love",
-        "content": "A bipartisan consensus is emerging around the concept of direct wealth transfers to children, often referred to as 'Trump Accounts.' The proposals aim to create universal savings accounts, gaining traction among policymakers from across the political spectrum as a way to build family wealth.",
+        "id": "story-1765106785750-1",
+        "headline": "Federal Judge Halts Justice Department Effort to Seek New Comey Indictment",
+        "content": "A federal judge blocked the Department of Justice from proceeding with its attempt to seek a new indictment against former FBI Director James Comey. The ruling represents a significant setback for the DOJ's legal actions against the former director concerning his alleged mishandling of classified documents.",
         "originalSource": "The New York Times",
-        "publishedTime": "22 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765103843822-4",
-        "headline": "Michael Annett, former NASCAR racing star, dies at 39",
-        "content": "Michael Annett, a popular figure and veteran competitor in NASCAR, has passed away at the age of 39. Annett had a long career, making over 400 combined starts across the sport's three national touring series before his passing.",
-        "originalSource": "AP News",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765106785750-2",
+        "headline": "Former Senator Bob Menendez Banned from Holding Public Office in New Jersey",
+        "content": "New Jersey election officials have issued a ban preventing former U.S. Senator Bob Menendez from holding any public office within the state. The decision is a direct consequence of his recent conviction on federal corruption charges, effectively bringing an end to the Democrat's long political career in New Jersey.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1765103843822-5",
-        "headline": "Released 911 calls reveal desperate pleas and tragic outcomes during Texas Hill Country flood",
-        "content": "Newly released audio from emergency calls paints a devastating picture of the recent Texas Hill Country flooding. The recordings capture the chaotic and desperate final moments of residents as they pleaded for help amid the rapidly rising floodwaters.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
+        "id": "story-1765106785750-3",
+        "headline": "U.S. Private Payrolls Unexpectedly Decline in November, Report Shows",
+        "content": "According to a report from ADP, U.S. private payrolls saw an unexpected decline in November, a potential indicator of a cooling labor market. This unexpected dip in job creation among private-sector employers comes after a period of stronger hiring, prompting new concerns about economic growth.",
+        "originalSource": "ADP/Business News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-4",
+        "headline": "Coast Guard Seizes 20,000-Pound Cocaine Shipment, Breaking 18-Year Record",
+        "content": "The U.S. Coast Guard successfully interdicted and seized a massive 20,000-pound shipment of cocaine, breaking an 18-year-old record for the largest seizure. The operation is considered a major victory against international drug trafficking efforts, underscoring the ongoing efforts to disrupt cartels.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-5",
+        "headline": "President Trump Hosts Kennedy Center Honorees at White House Ceremony",
+        "content": "President Donald Trump awarded medals to the Kennedy Center honorees in an Oval Office ceremony at the White House. The President praised the attendees and light-heartedly remarked on his hosting abilities, suggesting he would receive favorable reviews for the event.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765103843822-0",
-        "headline": "Nature's Raw Power Unleashed as Significant Earthquake Strikes Alaskan Wilderness",
-        "content": "A formidable 7.0 magnitude earthquake recently shook a remote, untamed expanse along the Alaska-Canada border. Thankfully, due to the sparse population in this vast wilderness, the immediate threat to major infrastructure remains minimal, a testament to the resilient spirit often found in such areas. Authorities are monitoring the situation, but the initial reports suggest a demonstration of nature's power rather than a widespread disaster requiring massive government response.",
-        "originalSource": "AP News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1765103843822-1",
-        "headline": "Supreme Court Considers Upholding Vital Presidential Authority Essential for Governing",
-        "content": "The U.S. Supreme Court is currently deliberating a landmark case that could affirm and strengthen the essential scope of presidential immunity, a critical safeguard for the executive branch. This vital ruling, vigorously sought by President Trump, is paramount to protect the presidency from baseless political attacks and ensure that future leaders can govern decisively without fear of endless, politically motivated prosecution. Upholding this constitutional principle is crucial for the stability and effectiveness of our nation's highest office.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765103843822-2",
-        "headline": "Coast Guard Delivers Massive Blow to Drug Traffickers with Record-Breaking Cocaine Bust",
-        "content": "Our brave U.S. Coast Guard has achieved a monumental victory against the forces of illicit drug trafficking, successfully intercepting and seizing an astonishing 20,000-pound shipment of cocaine in international waters. This record-shattering bust, the largest in nearly two decades, underscores the unwavering dedication of our law enforcement to protect our nation's borders and communities from the scourge of dangerous narcotics. This decisive action is a testament to strong American resolve against those who seek to undermine our society.",
-        "originalSource": "CBS News",
+        "id": "story-1765106785750-0",
+        "headline": "Secretary Hegseth Stands Firm Protecting Nation Against Illicit Drug Trade.",
+        "content": "Defense Secretary Pete Hegseth boldly defended decisive actions against suspected drug operations, facing down relentless political attacks and unwarranted scrutiny. He emphasized the critical importance of safeguarding our borders and communities from the scourge of illegal drugs, refusing to back down from necessary measures to protect American liberty and security, despite the manufactured outrage from those who would rather see weakness.",
+        "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765103843822-3",
-        "headline": "Bipartisan Support Grows for Empowering Families Through 'President Trump Accounts' for Children",
-        "content": "An encouraging bipartisan consensus is forming around the innovative concept of direct wealth accounts for children, prominently championed as 'President Trump Accounts.' These visionary proposals aim to establish universal savings accounts, offering a practical pathway for families to build enduring generational wealth. This initiative resonates across the political spectrum by empowering individuals and strengthening the traditional family unit through financial foresight and personal responsibility, aligning perfectly with principles of liberty and self-reliance.",
+        "id": "story-1765106785750-1",
+        "headline": "Judicial Overreach Obstructs Justice Department's Pursuit of Comey Accountability.",
+        "content": "A federal judge has regrettably thwarted the Department of Justice's earnest efforts to secure a new indictment against James Comey, the former FBI Director implicated in the alleged mishandling of classified documents. This ruling unfortunately impedes accountability and the pursuit of justice for actions that many Americans believe threatened our national security, demonstrating a concerning pattern of judicial interference in critical investigations.",
         "originalSource": "The New York Times",
-        "publishedTime": "22 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765103843822-4",
-        "headline": "NASCAR Veteran Michael Annett Remembered for His Life of Dedication and American Spirit",
-        "content": "The world of American motorsports mourns the untimely passing of Michael Annett, a respected veteran competitor and popular figure in NASCAR, at the age of 39. Annett's dedicated career spanned over 400 combined starts across the sport's three national touring series, embodying the spirit of hard work and competitive excellence. His contributions to this cherished American tradition will be remembered with honor and respect by fans and fellow competitors alike.",
-        "originalSource": "AP News",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765106785750-2",
+        "headline": "Corrupt Democrat Senator Menendez Finally Barred from Public Service in New Jersey.",
+        "content": "New Jersey election authorities have rightly moved to prevent former U.S. Senator Bob Menendez, a Democrat, from ever again holding public office within the state. This decisive action comes as a direct consequence of his well-deserved conviction on federal corruption charges, thankfully ending a tarnished political career and affirming the principle that public servants must uphold integrity, not betray the public trust for personal gain.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1765103843822-5",
-        "headline": "Heartbreaking 911 Calls Underscore Texas Community's Resilience Amidst Devastating Flood",
-        "content": "Recently released emergency call audio provides a somber glimpse into the desperate final moments and tragic outcomes during the recent Texas Hill Country flooding. These heartbreaking recordings reveal the chaotic and urgent pleas for assistance as floodwaters rapidly rose, testing the resolve of Texans. While the tragedy is profound, these events often highlight the invaluable courage of first responders and the enduring strength of communities who come together in the face of nature's formidable challenges.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
+        "id": "story-1765106785750-3",
+        "headline": "Private Sector Job Creation Stumbles Unexpectedly in November, Signaling Economic Headwinds.",
+        "content": "A recent report from ADP reveals a troubling and unexpected decline in U.S. private sector payrolls for November, indicating a potential cooling of the labor market. This downturn in job creation for private employers, following a period of more robust hiring, raises serious concerns about the direction of economic growth and underscores the urgent need for policies that unleash free enterprise, rather than burdening it with regulation and excessive spending.",
+        "originalSource": "ADP/Business News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-4",
+        "headline": "Valiant Coast Guard Breaks Records with Historic Seizure of Massive Cocaine Shipment.",
+        "content": "Our brave U.S. Coast Guard has achieved a monumental victory, successfully interdicting and seizing a staggering 20,000-pound shipment of deadly cocaine. This record-breaking operation, the largest in 18 years, represents a powerful blow against international drug cartels and a testament to the unwavering commitment of our law enforcement to protect American families and secure our borders from illegal and dangerous substances.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-5",
+        "headline": "President Trump Honors American Cultural Icons at Distinguished White House Ceremony.",
+        "content": "President Trump graciously hosted and awarded medals to the esteemed Kennedy Center honorees in a dignified Oval Office ceremony at the White House. President Trump commended the outstanding contributions of the attendees to American culture and light-heartedly noted his successful hosting, projecting an atmosphere of national pride and unity under his leadership.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765103843822-0",
-        "headline": "Earthquake Shatters Uncharted Alaskan Wilderness, Only Bears And Trees Report Mild Inconvenience",
-        "content": "A devastating 7.0 magnitude tremor recently ripped through an isolated expanse along the Alaska-Canada border, sending seismic waves through precisely zero Starbucks locations and causing no traffic delays. Experts confirmed that the earthquake’s primary victims appear to be several unsuspecting pine trees and a particularly grumpy grizzly bear who had just settled down for a nap. Authorities are diligently \"monitoring\" the area, primarily for any potential signs of a single human footprint that might suggest someone actually lives there, or at least left a Yelp review.",
-        "originalSource": "AP News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1765103843822-1",
-        "headline": "Supreme Court Considers Granting President Trump Divine Immunity, Citing 'It's Just Easier That Way'",
-        "content": "In a landmark hearing that could redefine the very fabric of American governance, the U.S. Supreme Court is meticulously debating whether President Trump should be legally indistinguishable from a benevolent, all-powerful deity. Sources close to the court suggest arguments centered on the logistical nightmare of holding any President accountable, concluding that unchecked power simply streamlines the judicial process. Critics fear the ruling might allow a President to, say, declare Tuesdays 'National Ice Cream for Breakfast Day' without any legislative oversight, while proponents highlight the efficiency of a single, unchallengeable authority.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765103843822-2",
-        "headline": "Coast Guard Seizes Enough Cocaine To Fuel Every Coachella For A Decade, Breaks Own 'Biggest Pile Of Drugs' Record",
-        "content": "The U.S. Coast Guard has announced an astonishing victory in the War on Drugs, successfully intercepting a staggering 20,000-pound cargo of cocaine in international waters. The colossal bust, which required multiple forklifts and a small dedicated warehouse for storage, shatters an 18-year-old record, prompting speculation that drug traffickers are either getting less subtle or simply trying to get on the Coast Guard's 'Most Improved' list. Sources say the Coast Guard is now considering hiring a full-time statistician to manage their ever-growing list of 'most drugs ever found in one place' achievements.",
-        "originalSource": "CBS News",
+        "id": "story-1765106785750-0",
+        "headline": "Secretary Hegseth Declares War on Inanimate Objects After Drug Boat 'Aggression'",
+        "content": "Defense Secretary Pete Hegseth, amidst a torrent of 'are you serious?' glances from congressional members, gave a stirring, defiant speech defending his department's 'critical' and 'totally justified' strikes on what he described as 'very menacing' drug boats. Critics, who apparently prefer drug boats to float freely and unimpeded, labeled the actions 'reckless,' but Hegseth countered by pointing out the boats *were* carrying drugs, which, he argued, made them 'accessories to a crime' and therefore 'fair game for strategic demolition.' The Pentagon is now reportedly eyeing suspicious-looking buoys.",
+        "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765103843822-3",
-        "headline": "New Bipartisan Plan To Give Every Child 'Trump Account' Expected To Create Nation's Youngest Billionaire Tyrants",
-        "content": "In a rare display of cross-aisle camaraderie, both political parties are enthusiastically endorsing a new scheme to directly funnel taxpayer money into the tiny hands of America's youth, affectionately dubbed 'Trump Accounts.' Proponents believe this will foster a new generation of fiscally responsible citizens, while critics darkly predict a surge in elementary school hedge funds, 4-year-olds demanding stock options instead of candy, and an unprecedented boom in lemonade stand monopolies. Lawmakers claim the goal is to build family wealth, ignoring the inevitable reality of toddlers using their newfound capital to corner the market on glitter glue and trading card futures.",
+        "id": "story-1765106785750-1",
+        "headline": "Judge Orders DOJ to Give Comey a Break, Citing 'Excessive Harassment'",
+        "content": "In a ruling that shocked absolutely no one, a federal judge halted the Justice Department's latest, increasingly desperate attempt to indict former FBI Director James Comey, reportedly citing 'exhaustion' and 'a lack of new material.' The judge, who reportedly keeps a 'Comey Indictment Bingo' card, stated the DOJ had presented 'zero innovative ways' to accuse Comey of mishandling classified documents, recommending they 'try a different hobby' before returning to court. Sources close to the DOJ confirm they are already drafting a new, slightly different, but ultimately identical, indictment.",
         "originalSource": "The New York Times",
-        "publishedTime": "22 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765103843822-4",
-        "headline": "NASCAR Legend Michael Annett Tragically Crosses Final Finish Line At Age 39, Leaves Behind Impressive Collection Of Right-Turn Trophies",
-        "content": "The world of professional left-turn enthusiasts mourns the untimely passing of NASCAR icon Michael Annett, who, at the spry age of 39, finally decided to slow down. Annett, known for an illustrious career spanning over 400 combined starts across three national touring series, reportedly exited life's race track far too soon. Fellow drivers recalled his unparalleled ability to make hundreds of identical left turns, confirming he will be sorely missed at future races where people drive really fast in a circle.",
-        "originalSource": "AP News",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765106785750-2",
+        "headline": "New Jersey Finally Realizes Bob Menendez is Not a Public Servant",
+        "content": "In a move that surprised only those who haven't paid attention to New Jersey politics for the past decade, election officials have officially banned former U.S. Senator Bob Menendez from holding any public office within the Garden State. The decision, stemming from his recent conviction on federal corruption charges, means Menendez will finally have to find something else to do with his time besides holding public office while under indictment. State officials expressed relief, stating, 'Honestly, we were running out of ways to politely ask him to leave.'",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1765103843822-5",
-        "headline": "Newly Released 911 Calls Confirm That Getting Caught In A Rapidly Rising Flood Is, In Fact, Quite Unpleasant",
-        "content": "In a stunning display of what-did-you-expect, recently declassified 911 audio from the devastating Texas Hill Country floods has conclusively proven that being submerged in rapidly moving water is not, contrary to popular belief, a relaxing spa experience. The harrowing recordings feature residents making 'desperate pleas' for 'help' amid 'tragic outcomes,' providing irrefutable evidence that floods are generally bad and people tend to not enjoy drowning. Authorities expressed shock at the sheer volume of calls from individuals who, despite living in a known flood zone, apparently preferred not to become one with the currents.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
+        "id": "story-1765106785750-3",
+        "headline": "Nation Panics After One Less Person Hired Than Expected",
+        "content": "The U.S. economy, a fickle beast prone to dramatic mood swings, reportedly suffered an 'unexpected decline' in private payrolls this November, prompting economists to clutch their pearls and declare a potential 'cooling labor market.' The ADP report, which apparently measures the exact number of people who decided *not* to get a new job last month, has fueled new concerns that we might all have to *gasp* work for our money instead of magically acquiring it. Experts are now debating whether to blame inflation, algorithms, or that one person who really didn't want to get a job.",
+        "originalSource": "ADP/Business News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-4",
+        "headline": "Coast Guard 'Finally' Finds Enough Cocaine to Fill a Small Swimming Pool",
+        "content": "In a triumph of maritime enforcement and sheer luck, the U.S. Coast Guard successfully interdicted a mind-boggling 20,000-pound shipment of cocaine, shattering an 18-year-old record for 'most illicit white powder found at sea.' Officials, reportedly still trying to figure out where to put it all, declared the operation a 'major victory' against international drug trafficking, noting that cartels will now have to find a new, less obvious way to transport enough cocaine to tranquilize a small country. The previous record holder, a disgruntled narwhal, could not be reached for comment.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-5",
+        "headline": "President Trump Awards Self 'Best Host' Medal at Kennedy Center Event",
+        "content": "President Trump, in a move widely praised by himself, graciously bestowed medals upon the Kennedy Center honorees in an Oval Office ceremony at the White House. The President, beaming with pride, light-heartedly remarked that he expected 'favorable reviews' for his hosting abilities, which apparently included providing chairs and standing in the same room. Honorees, visibly moved by the experience, are reportedly already drafting their thank-you notes, which are expected to include at least two exclamation points and a mention of how truly 'honored' they were to be in the presence of such a skilled host.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765103843822-0",
-        "headline": "A Really Big Earthquake Shook Parts of Alaska and Canada",
-        "content": "A super strong earthquake, like a giant rumble, happened in a faraway place between Alaska and Canada. Because hardly anyone lives there, it didn't mess up too many buildings. But grown-ups are still watching to make sure everything is okay and that no one got hurt.",
-        "originalSource": "AP News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1765103843822-1",
-        "headline": "The Highest Court is Thinking About Rules for President Trump",
-        "content": "America's top judges, called the Supreme Court, are looking at a big rule. This rule is about how much President Trump is protected from getting sued while he is president. If they change the rule, it could make a big difference for President Trump and how future presidents can do their jobs.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765103843822-2",
-        "headline": "The Coast Guard Caught a HUGE Amount of Bad Drugs",
-        "content": "The U.S. Coast Guard, who are like ocean police, found a super huge pile of illegal drugs called cocaine. It weighed 20,000 pounds, which is like ten small cars! They caught it far out in the ocean, and it was the biggest amount they've ever found in almost 20 years. This means a lot of bad stuff won't make it to people.",
-        "originalSource": "CBS News",
+        "id": "story-1765106785750-0",
+        "headline": "Defense Secretary Hegseth Says He Did Nothing Wrong",
+        "content": "Pete Hegseth, who is in charge of America's military, is getting a lot of tough questions because of some problems. He gave a speech where he said he was right to attack what he called 'drug boats.' Some people think what he did was not smart, and it's making his job very hard.",
+        "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765103843822-3",
-        "headline": "People Are Thinking About Giving Kids Money for Their Futures",
-        "content": "Some grown-ups from different political teams are talking about a cool idea: giving money directly to kids. They call them 'Trump Accounts' sometimes. The plan is to set up special savings accounts for all kids to help them save money for when they grow up. Both Republicans and Democrats think this could be a good way for families to become richer over time.",
+        "id": "story-1765106785750-1",
+        "headline": "A Judge Stops Plans to Charge James Comey Again",
+        "content": "A judge said 'no' to the government trying to charge James Comey with a crime again. James Comey used to be in charge of the FBI. The government thought he didn't handle secret papers correctly, but the judge's decision means they can't try to get him in trouble for that right now.",
         "originalSource": "The New York Times",
-        "publishedTime": "22 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765103843822-4",
-        "headline": "Sad News: Race Car Driver Michael Annett Passed Away",
-        "content": "Michael Annett, who was a really good race car driver in NASCAR, sadly died when he was 39 years old. He raced cars for a very long time, in over 400 big races, and lots of people liked watching him.",
-        "originalSource": "AP News",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765106785750-2",
+        "headline": "Bob Menendez Can Never Work for New Jersey Again",
+        "content": "Officials in New Jersey said that Bob Menendez, who used to be a Senator, can't have any job in the government in New Jersey ever again. This happened because he was found guilty of being corrupt. This means his many years working in politics in New Jersey are now over.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1765103843822-5",
-        "headline": "Scary Phone Calls Show What Happened During the Texas Flood",
-        "content": "New recordings from 911 phone calls show how scary and sad things were during a big flood in a place called Texas Hill Country. You can hear people calling for help because the water was rising super fast. It shows how hard it was for everyone caught in the flood.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
+        "id": "story-1765106785750-3",
+        "headline": "Fewer People Got New Jobs Last Month",
+        "content": "A new report says that fewer people got new jobs in November than expected. This means that companies hired less people than before. It could mean that the economy isn't growing as fast as everyone hoped.",
+        "originalSource": "ADP/Business News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-4",
+        "headline": "Coast Guard Finds A HUGE Pile of Drugs, A New Record!",
+        "content": "The U.S. Coast Guard caught a giant shipment of cocaine, which is a lot of drugs, that weighed 20,000 pounds! This is the biggest amount they have ever found in 18 years. It's a big win in the fight to stop people from selling drugs around the world.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-5",
+        "headline": "President Trump Gives Awards to Famous Artists",
+        "content": "President Trump gave special awards to famous people who are great at art, like music and acting, at the White House. He said nice things about them and even joked that he was a very good host for the party.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765103843822-0",
-        "headline": "The Sleeping Giant's Earthly Roar",
-        "content": "Deep beneath the earth, where ancient ice met granite, a colossal tremor ripped through the silent wilderness. The 7.0 magnitude quake shook the vast, untamed landscape along the Alaska-Canada border, a raw shriek from the planet's core. Trees swayed like drunken sentinels, mountains groaned, and unseen rivers churned. Far from human cities, the earth merely stretched its muscles, indifferent to man's fragile constructions. Yet, distant communities held their breath, listening for echoes, for the ground to settle, knowing the wilderness had spoken with a voice that could reshape worlds, or just awaken the sleeping bears.",
-        "originalSource": "AP News",
-        "publishedTime": "16 hours ago"
-      },
-      {
-        "id": "story-1765103843822-1",
-        "headline": "The Sovereign's Shield of Immunity",
-        "content": "Within the hallowed halls of the Supreme Court, a legal earthquake was brewing. Justices parsed every word, every historical precedent, on a case poised to redefine presidential power. The arguments echoed with the weight of centuries, contemplating immunity's reach. A broader shield for the office could reshape accountability, impacting myriad challenges faced by President Trump. Advocates argued for robust executive function, while critics warned of unchecked authority. The decision, whispered to be momentous, hung heavy in the air, a sword of Damocles over future administrations, carving a new path for the highest office in the land.",
-        "originalSource": "AP News",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765103843822-2",
-        "headline": "The Ocean's Weight of White Dust",
-        "content": "Under the vast, indifferent gaze of the open ocean, the Coast Guard's radar painted a stark, unblinking truth. A colossal shadow, laden with illicit dreams, was moving through international waters. When the cutter closed in, the scale of the discovery was breathtaking: 20,000 pounds of cocaine, enough to shatter an 18-year record. The white bricks, a fortune in despair, filled the decks, a silent testament to a relentless war. This single seizure, a monumental win against a shadowy network, spoke of endless routes and the tireless vigil of those who guard the seas.",
-        "originalSource": "CBS News",
+        "id": "story-1765106785750-0",
+        "headline": "The Storm Over Neptune's Fury",
+        "content": "Defense Secretary Hegseth stood firm, a storm brewing around his office. Whispers of 'reckless' decisions echoed from the capitol halls, concerning controversial strikes on 'drug boats.' He faced the cameras, jaw set, a defiant speech tumbling from his lips, defending every bold move. The stakes were high, his tenure at the Pentagon now a ship navigating treacherous waters, each wave a new accusation threatening to capsize his command. The political pressure mounted, but Hegseth refused to bend, convinced his actions, though scrutinized, were necessary in the ongoing shadow war.",
+        "originalSource": "The Guardian",
         "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765103843822-3",
-        "headline": "Seeds for Tomorrow's Children's Fortune",
-        "content": "An unusual consensus bloomed in the Capitol's contentious gardens. Lawmakers, often at odds, found common ground in a novel idea: 'Trump Accounts' for every child. Direct wealth transfers, a radical concept, promised universal savings, sowing seeds of prosperity for future generations. The vision was simple, yet profound: equip every newborn with a financial start, a stake in the nation's future, transcending partisan divides. From the conservative right to the progressive left, the notion of empowering children with a financial bedrock gained traction, a beacon of hope for generational wealth building.",
+        "id": "story-1765106785750-1",
+        "headline": "The Judge's Gavel Falls Silent",
+        "content": "A federal judge, with a stroke of the pen, brought the Justice Department's ambitions crashing down. The department had sought a new indictment against former FBI Director James Comey, alleging mishandling of classified documents, a legal battle that had loomed heavy. But the judge's ruling was decisive: no new charges. It was a significant blow, a sudden halt to a high-profile pursuit that had consumed legal minds for months. The courtroom remained silent, the Justice Department's strategy now unraveling, leaving questions hanging in the air about the path forward.",
         "originalSource": "The New York Times",
-        "publishedTime": "22 hours ago"
+        "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765103843822-4",
-        "headline": "A Racer's Final Lap on Earth",
-        "content": "The roar of engines, the blur of the track, the collective gasp of thousands — Michael Annett lived in that electrifying world. A NASCAR veteran, he navigated circuits with a blend of skill and daring, accumulating over 400 starts, each one a testament to his passion for speed. But even the fastest car eventually takes its final lap. At just 39, the checkered flag fell for Michael Annett too soon. The racing community paused, a moment of quiet reverence for a competitor, a friend, a life lived with velocity and courage, now finding its eternal peace.",
-        "originalSource": "AP News",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765106785750-2",
+        "headline": "The Unraveling of a Jersey Dream",
+        "content": "The political stage dimmed for former U.S. Senator Bob Menendez. New Jersey election officials, their decision final, barred him from holding any future public office within the state's borders. His conviction on federal corruption charges had sealed his fate, irrevocably tarnishing a decades-long career. A once formidable force in Democrat politics, his legacy now stood marred, a cautionary tale echoing through the halls of power. The ban was a somber curtain call, an undeniable end to a political journey that had once promised so much for the Garden State.",
+        "originalSource": "The Guardian",
+        "publishedTime": "Last 24 hours"
       },
       {
-        "id": "story-1765103843822-5",
-        "headline": "Whispers in the Rising Floodwaters' Fury",
-        "content": "The 911 calls were ghosts of agony, chilling whispers from a nightmare. As the Texas Hill Country succumbed to the flood's relentless embrace, each frantic plea painted a harrowing picture. Waters rose, swift and merciless, transforming homes into submerged tombs. Voices, once calm, dissolved into terror, begging for rescue that often couldn't come. Children cried, parents screamed, the sound of rushing water a cruel counterpoint to their desperate prayers. The recordings, now public, offer a stark, unvarnished window into the final, tragic moments of those swallowed by the sudden, unforgiving surge.",
-        "originalSource": "AP News",
-        "publishedTime": "1 day ago"
+        "id": "story-1765106785750-3",
+        "headline": "The November Chill in the Marketplace",
+        "content": "An unexpected chill swept through the nation's labor market in November. A new report from ADP revealed a surprising decline in U.S. private payrolls, a stark deviation from recent robust hiring trends. Economists furrowed brows, interpreting the data as a potential signal of a cooling economy. Concerns about future growth began to ripple through financial markets, as the unexpected dip in job creation amongst private-sector employers suggested a shift. The numbers painted a picture of economic uncertainty, leaving many to wonder about the months ahead.",
+        "originalSource": "ADP/Business News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-4",
+        "headline": "The Silent Hunter's Grand Haul",
+        "content": "Beneath the vast expanse of the open ocean, a silent hunter delivered a historic blow. The U.S. Coast Guard, through meticulous planning and unwavering resolve, interdicted an astonishing 20,000-pound shipment of cocaine. This colossal seizure wasn't just another bust; it shattered an 18-year record, marking a monumental victory against the shadowy networks of international drug trafficking. The operation sent ripples through cartel operations, underscoring the relentless dedication of the Coast Guard in disrupting illicit trade routes and safeguarding national borders from the insidious flow of narcotics.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
+      },
+      {
+        "id": "story-1765106785750-5",
+        "headline": "An Evening of Stars in the Grand House",
+        "content": "Inside the historic Oval Office, President Trump radiated warmth, hosting the esteemed Kennedy Center honorees. Medals of profound artistic achievement were bestowed upon the luminaries, a moment of national recognition for their cultural contributions. President Trump, ever the engaging host, praised each attendee, his words filled with genuine admiration for their craft. A lighthearted remark about his own hosting abilities drew smiles, suggesting that the evening would undoubtedly receive glowing reviews. It was a night where art and leadership converged, celebrating excellence in the nation's most iconic residence.",
+        "originalSource": "CBS News",
+        "publishedTime": "Last 24 hours"
       }
     ]
   }
