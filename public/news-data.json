@@ -1,267 +1,267 @@
 {
-  "timestamp": 1765079434174,
+  "timestamp": 1765083240792,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765079362780-0",
-        "headline": "Corporate Giants Demand Tariff Refunds as Supreme Court Considers Executive Overreach",
-        "content": "As the Supreme Court prepares to rule on the President's authority to levy extensive import taxes, powerful corporations, including retail behemoth Costco, are poised to claim significant refunds. This high-stakes legal battle highlights systemic questions about unchecked executive power and how such decisions disproportionately benefit corporate bottom lines, potentially at the expense of broader economic stability for working families.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-1",
-        "headline": "President Trump's Administration Moves to Restrict Visas for Tech Workers, Raising Concerns About Free Speech and Labor Rights",
-        "content": "The Trump administration has intensified its pressure on major tech companies by issuing new State Department guidelines that limit H1-B visas for content moderators. While framed as a measure against online 'censorship,' critics warn this move could further jeopardize the rights of immigrant workers, stifle legitimate efforts to combat misinformation, and serve as a veiled attack on companies that fail to align with the administration's political agenda, thereby undermining a truly open internet.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-2",
-        "headline": "Visionary Architect Frank Gehry, Who Redefined Public Spaces with Bold Designs, Passes Away at 96",
-        "content": "Frank Gehry, the globally acclaimed architect known for pushing the absolute limits of design and transforming urban landscapes, has passed away at 96. His groundbreaking creations, such as the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, stand as testaments to art's power to inspire and reshape public imagination, inviting dialogue about how design can serve communities.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-3",
-        "headline": "Admiral's Report on Boat Strike Survivors Raises Questions About Military Action and Narratives Surrounding Drug Interdiction",
-        "content": "Reports indicate an Admiral will brief lawmakers, asserting that survivors of a recent boat strike were actively pursuing a drug mission. This exclusive detail emerges amidst a controversial incident involving US military action, prompting critical questions about the justification and execution of such interventions, the potential for civilian casualties, and the official narratives presented in the wake of such fraught international encounters.",
-        "originalSource": "The Wall Street Journal",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-4",
-        "headline": "Conservative Commentator Pete Hegseth Reportedly Challenges President Trump's Political Authority, Highlighting Internal Fissures",
-        "content": "Fox News host and prominent conservative commentator Pete Hegseth is reportedly testing the boundaries of President Trump's 'No Scalps' political principle, signaling potential internal discord within the right-wing establishment. This evolving political narrative underscores the fragility of alliances and the power struggles unfolding within conservative media and politics, where loyalty tests are a constant feature.",
+        "id": "story-1765083170728-0",
+        "headline": "Trump Administration Official Faces Scrutiny Over Lethal Airstrikes and Questionable Military Protocols",
+        "content": "A senior President Trump administration official, Pete Hegseth, is facing intense scrutiny following controversial airstrikes on alleged drug boats. Reports indicate that survivors of initial strikes were reportedly continuing their mission before a highly debated follow-up attack, raising serious questions about military protocols and the administration's ethical guidelines regarding the use of force and accountability in such operations.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765079362780-5",
-        "headline": "Pop Culture Icon Taylor Swift and Athlete Travis Kelce Reportedly Plan Upcoming Wedding",
-        "content": "In news capturing significant public attention, pop music sensation Taylor Swift and NFL star Travis Kelce have reportedly finalized a date and selected a high-profile Rhode Island location for their much-anticipated wedding. Details continue to emerge about this union of two cultural figures, sparking widespread discussion across various media platforms.",
-        "originalSource": "Yahoo",
+        "id": "story-1765083170728-1",
+        "headline": "Significant Arrest Made in Investigation of January 6th Pipe Bombs, Highlighting Ongoing Threats to Democracy",
+        "content": "The FBI has reportedly announced a major arrest in the long-running investigation into pipe bombs discovered in Washington D.C. on the eve of the January 6th Capitol riot. This breakthrough is crucial for addressing one of the most serious and lingering mysteries from an event that gravely threatened American democratic institutions, with the suspect now having made a first court appearance.",
+        "originalSource": "AP News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-2",
+        "headline": "Prison Conditions Questioned After Multiple Inmates Escape Louisiana Correctional Facility",
+        "content": "Multiple individuals have successfully escaped from a Louisiana correctional facility this morning, raising significant concerns about the systemic failures within the carceral system. The fugitives managed to remove concrete from their cell structure and then utilized makeshift ropes from sheets to rappel down the prison building, prompting a large-scale, multi-agency manhunt that underscores the critical need for prison reform and oversight.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765083170728-3",
+        "headline": "President Trump's Administration Replaces Civil Rights Holidays with His Birthday for National Park Free Days, Sparking Outrage",
+        "content": "The President Trump administration has ignited widespread controversy by revising the national park fee-free days calendar. These changes include adding President Trump's birthday while conspicuously removing previously recognized holidays such as Juneteenth and Martin Luther King Jr. Day, drawing sharp public criticism and debate over a policy shift seen by many as a troubling disregard for historical justice and civil rights.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-4",
+        "headline": "Corporate Giants Demand Billions in Tariff Refunds, Questioning Presidential Authority and Economic Impact",
+        "content": "Major corporations, including retail giant Costco, are now aggressively seeking billions in refunds from import tariffs as they anticipate a looming Supreme Court decision. The forthcoming ruling will determine if President Trump exceeded his authority by imposing these sweeping import taxes, a decision that could have massive financial ramifications and significantly reshape the landscape of US trade and corporate power.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-5",
+        "headline": "Celebrity Wedding News Dominates Headlines Amidst Pressing Societal Challenges",
+        "content": "Media outlets report that global superstar Taylor Swift and Kansas City Chiefs tight end Travis Kelce have reportedly set a specific date and chosen a luxurious venue for their upcoming wedding. While this news has instantly become a major trending topic across entertainment and news platforms worldwide, sparking feverish speculation, it also highlights the stark contrast between public fascination with celebrity culture and the pressing societal issues often overlooked.",
+        "originalSource": "People.com",
         "publishedTime": "15 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765079362780-0",
-        "headline": "Companies seek refunds from tariffs as Supreme Court decision looms.",
-        "content": "A pending Supreme Court decision on the President's authority to impose sweeping import taxes could entitle major corporations, including Costco, to substantial refunds. The case focuses on whether the executive branch overstepped its powers.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-1",
-        "headline": "Trump's latest Big Tech pressure play: Restrict content moderator visas.",
-        "content": "The Trump administration is cracking down on online censorship by issuing new guidance from the State Department, which restricts some tech workers, specifically content moderators, from receiving H1-B visas. This action targets Big Tech companies.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-2",
-        "headline": "Frank Gehry, who stretched architecture's boundaries, dies at 96.",
-        "content": "Frank Gehry, the world-renowned architect celebrated for his wildly imaginative and boundary-stretching designs, has died at the age of 96. His iconic works include the Guggenheim Museum Bilbao and the Walt Disney Concert Hall.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-3",
-        "headline": "Survivors of Boat Strike Were Actively Continuing Drug Mission, Admiral to Tell Lawmakers.",
-        "content": "An Admiral is reportedly set to inform lawmakers that the survivors of a recent boat strike were actively engaged in a drug mission. This exclusive report provides new details on the controversial incident involving US military action.",
-        "originalSource": "The Wall Street Journal",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-4",
-        "headline": "Pete Hegseth Is Seriously Testing Trump's 'No Scalps' Rule.",
-        "content": "Fox News host and conservative commentator Pete Hegseth is reportedly challenging one of President Trump's political principles, testing the limits of the 'No Scalps' rule. The developing political story is trending in national media.",
+        "id": "story-1765083170728-0",
+        "headline": "Pete Hegseth is Seriously Testing Trump's 'No Scalps' Rule Amid Scrutiny Over Boat Strikes",
+        "content": "A top Trump administration official, Pete Hegseth, is facing a significant crisis following airstrikes on alleged drug boats. Reports suggest that survivors were actively continuing their drug mission before a controversial follow-up strike, intensifying political fallout and scrutiny of his leadership and the administration's military protocols.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765079362780-5",
-        "headline": "Taylor Swift Has Set a Date and a Venue for Her Wedding to Travis Kelce.",
-        "content": "Pop superstar Taylor Swift and NFL tight end Travis Kelce have reportedly set a date and chosen a swanky Rhode Island venue for their highly anticipated wedding. Details are emerging about the celebrity couple's plans.",
-        "originalSource": "Yahoo",
+        "id": "story-1765083170728-1",
+        "headline": "FBI Makes Arrest in Probe of Pipe Bombs Placed in D.C. on Eve of Jan. 6",
+        "content": "The FBI has reportedly made a major arrest in the long-running investigation into the pipe bombs discovered in Washington D.C. on the eve of the January 6th Capitol riot. This is a significant breakthrough in one of the most high-profile and lingering mysteries from the event, with the suspect recently making a first court appearance.",
+        "originalSource": "AP News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-2",
+        "headline": "Louisiana Inmates on the Run After Removing Concrete and Using Sheets in Jailbreak",
+        "content": "Multiple inmates successfully escaped from a correctional facility in Louisiana early this morning. The fugitives managed to remove concrete from their cell structure and then used a makeshift rope from sheets to rappel down the side of the prison building. A large-scale, multi-agency manhunt is currently underway.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765083170728-3",
+        "headline": "Trump's birthday added to list of free days at national parks; MLK Day, Juneteenth removed",
+        "content": "The Trump administration has sparked controversy by altering the list of national park fee-free days. The changes include adding the President's birthday to the list while removing previously recognized holidays such as Juneteenth and Martin Luther King Jr. Day, drawing public criticism and debate over the policy shift.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-4",
+        "headline": "Companies Seek Refunds From Tariffs as Supreme Court Decision Looms",
+        "content": "Major companies, including retail giant Costco, are seeking billions in refunds from import tariffs as they await a looming Supreme Court decision. The ruling will determine if the president exceeded his authority by imposing the sweeping import taxes, which could result in massive financial ramifications for US trade.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-5",
+        "headline": "Taylor Swift Has Set a Date and a Venue for Her Wedding to Travis Kelce, Reports Say",
+        "content": "Media reports indicate that global superstar Taylor Swift and Kansas City Chiefs tight end Travis Kelce have reportedly set a specific date and chosen a luxurious venue for their upcoming wedding. The news has instantly become a major trending topic across entertainment and news platforms worldwide, sparking feverish speculation.",
+        "originalSource": "People.com",
         "publishedTime": "15 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765079362780-0",
-        "headline": "Corporations Demand Tariff Refunds Amidst Looming Supreme Court Decision on Presidential Authority.",
-        "content": "The Supreme Court is poised to consider the crucial question of presidential authority to impose vital import taxes, a power essential for safeguarding American industries and workers. This comes as large corporations, including retail giant Costco, are shamelessly seeking massive refunds, potentially undermining efforts to protect our nation's economic interests. This pivotal case will undoubtedly shape the balance of power and determine whether the executive branch can effectively defend our markets or if its authority will be unfairly curtailed by those who prioritize globalism over national prosperity.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-1",
-        "headline": "President Trump Fights Big Tech Censorship by Restricting Foreign Visas.",
-        "content": "President Trump is once again leading the charge against the tyrannical practices of Big Tech, taking decisive action to curb their rampant online censorship. New guidance from the State Department, restricting H1-B visas for content moderators, directly targets these Silicon Valley behemoths who routinely silence conservative voices and manipulate public discourse. This crucial move defends American free speech and ensures that foreign workers are not used to undermine our cherished constitutional liberties, rightly putting America First.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-2",
-        "headline": "Renowned Architect Frank Gehry, Known for Distinctive Designs, Passes Away at 96.",
-        "content": "Frank Gehry, an architect of considerable renown, has passed away at the age of 96. He was celebrated for his unique and often challenging designs that pushed the envelopes of conventional building. His legacy includes significant structures such as the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, which stand as testaments to his prolific career and influence on contemporary architecture, leaving an indelible mark on the built environment for future generations.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-3",
-        "headline": "Admiral Confirms Boat Strike Survivors Continued Drug Mission, Justifying Military Action.",
-        "content": "An Admiral is prepared to reveal to lawmakers crucial details confirming that survivors of a recent boat strike were, in fact, actively continuing a dangerous drug mission. This report underscores the vital role our military plays in combating illegal drug trafficking and protecting our nation's borders and citizens from the scourges of illicit substances. It provides essential context for the controversial incident, affirming the necessity of swift and decisive action against those who threaten our communities and national security.",
-        "originalSource": "The Wall Street Journal",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-4",
-        "headline": "Conservative Voice Pete Hegseth Tests Boundaries of President Trump's Political Principles.",
-        "content": "Esteemed Fox News host and conservative thought leader Pete Hegseth is reportedly engaging in a significant test of President Trump's well-known 'No Scalps' rule, a principle vital to maintaining loyalty and unity within the America First movement. This developing political discussion among conservatives highlights the robust and often passionate debates that strengthen our shared principles, even as it tests the limits of political fealty within the national conservative media landscape.",
+        "id": "story-1765083170728-0",
+        "headline": "Pete Hegseth Stands Firm Against Drug Cartels Amidst Unfair Attacks on Decisive Action",
+        "content": "In a display of unwavering commitment to national security, President Trump's administration official, Pete Hegseth, is facing baseless political attacks after his department took decisive action against relentless drug traffickers. Reports confirm that dangerous drug smugglers were actively continuing their illicit operations even after initial strikes, necessitating resolute follow-up measures to protect our communities. The ongoing scrutiny unfairly targets those dedicated to safeguarding our nation from the scourge of illegal drugs, rather than praising their vital efforts to uphold law and order and secure our borders.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765079362780-5",
-        "headline": "Taylor Swift and Travis Kelce Reportedly Choose Date and Traditional Venue for Wedding.",
-        "content": "Pop music icon Taylor Swift and NFL star Travis Kelce have reportedly finalized plans for their upcoming wedding, selecting a date and a fitting Rhode Island venue. This highly anticipated union of two prominent figures celebrates the timeless institution of marriage and brings much attention to the couple's personal commitment, with further details expected to emerge about their plans.",
-        "originalSource": "Yahoo",
+        "id": "story-1765083170728-1",
+        "headline": "Long-Awaited Justice: FBI Arrests Individual Linked to D.C. Pipe Bomb Threat",
+        "content": "After a prolonged investigation, the Federal Bureau of Investigation has finally brought a suspect to justice in connection with the dangerous pipe bombs strategically placed in Washington D.C. on the evening before January 6th. This crucial arrest represents a significant step towards uncovering the truth behind this alarming threat to our nation's capital and its institutions. It is imperative that those who seek to sow chaos and instability are held fully accountable for their actions under the unwavering rule of law, ensuring the safety and security of all Americans.",
+        "originalSource": "AP News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-2",
+        "headline": "Law and Order Breakdown: Louisiana Manhunt Underway for Escaped Felons",
+        "content": "The shocking escape of multiple dangerous inmates from a Louisiana correctional facility has rightfully sparked widespread public outrage and grave concerns for community safety. These fugitives brazenly compromised the integrity of the prison, exploiting weaknesses to remove concrete and fashion makeshift ropes from sheets to flee justice. This egregious failure in security demands immediate investigation and accountability. Law enforcement must swiftly apprehend these individuals to restore order and ensure the protection of law-abiding citizens, reaffirming that liberty for all depends on secure institutions and unwavering adherence to the rule of law.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765083170728-3",
+        "headline": "Celebrating American Spirit: President Trump's Birthday Added to National Park Free Days",
+        "content": "In a move designed to promote national pride and appreciation for our shared natural heritage, President Trump's administration has thoughtfully adjusted the schedule for fee-free days at America's treasured national parks. The addition of President Trump's birthday to this list appropriately recognizes presidential leadership and encourages citizens to explore these magnificent spaces. These policy adjustments reflect an administration focused on prudent management and celebrating our nation's foundational principles, ensuring that these parks remain accessible for all Americans to enjoy and reflect upon our rich history and abundant natural resources.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-4",
+        "headline": "American Sovereignty at Stake: Supreme Court to Rule on President Trump's Vital Tariffs",
+        "content": "As the Supreme Court prepares to issue a potentially momentous decision, American sovereignty and the protection of domestic industries hang in the balance regarding President Trump's critical import tariffs. Major corporations, including giants like Costco, are aggressively demanding billions in refunds, effectively challenging the President's constitutional authority to implement these essential measures designed to safeguard American jobs and manufacturing. This pivotal ruling will determine whether our President can effectively defend national economic interests against foreign competition or if judicial activism will undermine vital trade policies that prioritize the prosperity of American citizens and businesses.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-5",
+        "headline": "Celebrating Love and Commitment: Taylor Swift and Travis Kelce Plan Their Special Day",
+        "content": "In heartwarming news celebrating timeless American values, beloved superstar Taylor Swift and celebrated athlete Travis Kelce are reportedly making plans for their highly anticipated wedding. Reports suggest the accomplished couple has selected a date and a beautiful venue for what promises to be a joyous occasion. This exciting development reinforces the importance of commitment and family, offering a positive example of enduring love in an era where traditional unions are often overlooked. We extend our best wishes to Taylor and Travis as they embark on this meaningful journey together.",
+        "originalSource": "People.com",
         "publishedTime": "15 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765079362780-0",
-        "headline": "Corporations Already Planning Champagne Showers as Supreme Court Considers Handing Them Billions",
-        "content": "Major corporations, including bulk-buying giant Costco, are reportedly clearing out their liquor cabinets in anticipation of a pending Supreme Court decision. The Court is currently deliberating whether President Trump's authority to impose 'sweeping' import taxes was perhaps a *little* too sweeping, potentially entitling these companies to refunds so substantial, they'll need bigger vaults for all the cash.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-1",
-        "headline": "President Trump Unveils Bold Plan to Ensure Internet Remains Absolute Wild West",
-        "content": "In a decisive move to 'protect free speech' and possibly ensure nobody ever feels safe online again, President Trump's administration has issued new State Department guidance. This genius policy restricts H1-B visas for content moderators, effectively guaranteeing that future online discourse will be indistinguishable from a comment section written by a rabid badger. Big Tech companies are reportedly scrambling to find new employees who can distinguish between 'kitten video' and 'sedition.'",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-2",
-        "headline": "Frank Gehry, Architect Who Made Buildings Look Like They Were Melting, Finally Stops Melting Himself At 96",
-        "content": "The world paused today to mourn Frank Gehry, the revolutionary architect whose designs consistently asked, 'What if a building was having a very public existential crisis?' Gehry, whose iconic works such as the Guggenheim Museum Bilbao and the Walt Disney Concert Hall often appeared to be on the verge of collapsing into a beautiful, metallic puddle, passed away peacefully at the ripe old age of 96, thankfully without any structural failures of his own.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-3",
-        "headline": "Drug Smugglers So Dedicated, They Continued Mission While Drowning, Admiral Reports",
-        "content": "In a stunning display of commitment to their craft, survivors of a recent boat strike were reportedly still attempting to complete their drug mission even as they clung to debris and potentially screamed for help. An Admiral is set to inform lawmakers of this unparalleled entrepreneurial spirit, noting, 'You just don't see that kind of dedication to illegal enterprise anymore, it's almost admirable, in a very illegal way.'",
-        "originalSource": "The Wall Street Journal",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-4",
-        "headline": "Pete Hegseth Dares to Suggest President Trump's Hair Is Not Actually Sentient",
-        "content": "Fox News personality Pete Hegseth is reportedly engaging in an unprecedented game of political chicken with President Trump, brazenly questioning the 'No Scalps' rule. While sources confirm this rule is not about literal scalps, it is the unspoken understanding that one simply *does not* visibly disagree with the President. Insiders are holding their breath, wondering if Hegseth will be the first to discover the true, hair-raising consequences of such insubordination.",
+        "id": "story-1765083170728-0",
+        "headline": "President Trump Official Pete Hegseth Accidentally Creates Unstoppable Super-Drug-Smugglers With Ineffective Double Tap",
+        "content": "A high-ranking President Trump administration official, Pete Hegseth, is reportedly baffling military strategists after his recent 'anti-drug' airstrikes on alleged maritime drug operations seem to have merely invigorated the illicit trade. Reports indicate that survivors, far from being deterred, were observed enthusiastically resuming their drug missions almost immediately, leading critics to question if Hegseth is subtly training them for a global drug cartel Olympics. Sources close to the administration suggest President Trump's famed 'no scalps' rule is currently being reinterpreted as 'no *effective* scalps' in Hegseth's office.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765079362780-5",
-        "headline": "Taylor Swift and Travis Kelce's Wedding To Be Declared Global Holiday, Economy Halts",
-        "content": "The long-anticipated union of pop titan Taylor Swift and football demigod Travis Kelce is reportedly so monumental that world leaders are already discussing a potential global holiday in its honor. Sources close to the couple confirmed the Rhode Island venue choice, ensuring that a small, scenic New England town will now bear the impossible burden of hosting an event that could potentially shift tectonic plates and redefine the meaning of 'destination wedding.'",
-        "originalSource": "Yahoo",
+        "id": "story-1765083170728-1",
+        "headline": "FBI Finally Cracks Case of Jan. 6 Pipe Bombs, Arrests Man Last Seen Casually Carrying Pipe Bombs Down Main Street",
+        "content": "In a stunning display of persistence that only took *years*, the FBI has reportedly apprehended a suspect in the long-unsolved mystery of the pipe bombs discovered in Washington D.C. on the eve of January 6th. The 'breakthrough' came after investigators reportedly utilized advanced techniques such as 'asking around' and 'checking public security footage from the entire past presidential term.' The suspect, now in custody, made a first court appearance, reportedly expressing surprise that anyone had noticed the pipe bombs at all.",
+        "originalSource": "AP News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-2",
+        "headline": "Louisiana Prison Admits Security Vulnerability Was 'Just Concrete And Sheets' After Mass Jailbreak",
+        "content": "Multiple inmates have successfully staged an elaborate escape from a Louisiana correctional facility, reportedly astonishing prison officials who believed their 'concrete-and-sheets' defense system was impenetrable. The fugitives apparently leveraged the little-known weakness of structural concrete when subjected to 'removal' and then executed a daring rappel using a makeshift rope fashioned from 'bedsheets.' A large-scale manhunt is now underway, with authorities reportedly searching for anyone who might know how to tie a knot or chip away at hardened material.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765083170728-3",
+        "headline": "National Parks To Honor President Trump's Birthday With Solemn Reflection On President Trump, No Other Days",
+        "content": "The President Trump administration has unveiled a visionary new policy for national park fee-free days, cementing President Trump's birthday as the nation's premier day of outdoor recreation. To accommodate this monumental addition, officials have graciously removed lesser-known observances like Juneteenth and Martin Luther King Jr. Day, ensuring maximum focus on truly impactful historical figures. Public criticism has been swiftly dismissed as 'misguided attempts to dilute the pure joy of free park entry on a very specific day.'",
+        "originalSource": "CBS News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-4",
+        "headline": "Costco Demands Billions Back After Discovering President Trump's Tariffs Weren't Just Hilarious Prank",
+        "content": "Major corporations, led by retail titan Costco, are reportedly reeling from the shocking realization that President Trump's import tariffs were, in fact, real and not merely an elaborate, long-running economic performance art piece. As a Supreme Court decision looms, these companies are now desperately seeking billions in refunds, expressing deep shock that the President might have exceeded his authority in what they initially assumed was a charmingly eccentric approach to global trade. Economists are predicting widespread 'facepalm' injuries among corporate leadership.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-5",
+        "headline": "Global Economy Halts As Taylor Swift Announces Wedding Date, Entire Planet Prepares To Witness Unprecedented Nuptials",
+        "content": "In a seismic shift that has reportedly overshadowed all geopolitical conflicts and economic crises, global superstar Taylor Swift and Kansas City Chiefs tight end Travis Kelce have reportedly set a definitive wedding date and secured a venue. News outlets worldwide have confirmed that all other news has been officially suspended, as humanity prepares for an event of unprecedented cultural magnitude. Preparations for a global holiday are already underway, with many nations reportedly declaring 'Swift-Kelce Day' a mandatory day off for communal speculation.",
+        "originalSource": "People.com",
         "publishedTime": "15 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765079362780-0",
-        "headline": "Big Companies Might Get Money Back Because of a Big Law Case",
-        "content": "A very important court called the Supreme Court is going to decide if President Trump was allowed to put extra taxes on stuff brought in from other countries. If the court says he did too much, then big stores like Costco might get a lot of money back from those taxes.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-1",
-        "headline": "President Trump Wants to Change Rules for Tech Company Workers",
-        "content": "President Trump's team is making new rules that make it harder for some people who work for big internet companies, like those who decide what posts stay online, to come to America for work. This is aimed at big tech companies because of how they decide what people can see online.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-2",
-        "headline": "Famous Building Designer Frank Gehry Passed Away at Age 96",
-        "content": "Frank Gehry, a really famous person who designed amazing buildings that looked like giant pieces of art, has died. He was 96 years old. Some of his most famous and cool buildings include the Guggenheim Museum in Spain and the Walt Disney Concert Hall.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-3",
-        "headline": "An Important Navy Guy Will Say Boat Crash Survivors Were Doing Bad Stuff",
-        "content": "A very important leader in the Navy, called an Admiral, is going to tell the people who make our laws that some people who survived a boat accident were still trying to move illegal drugs. This news tells us more about a big fight that happened with the US military.",
-        "originalSource": "The Wall Street Journal",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-4",
-        "headline": "A TV Guy Might Be Making President Trump Annoyed",
-        "content": "Pete Hegseth, who talks on TV on Fox News, is doing something that might not follow President Trump's usual rules about how his friends and supporters should act. Lots of people on the news are talking about what's happening.",
+        "id": "story-1765083170728-0",
+        "headline": "President Trump's Helper is in Big Trouble for Boat Attacks",
+        "content": "A high-up person who works for President Trump, named Pete Hegseth, is having some big problems. This is because planes attacked boats that supposedly had drugs. People on the boats kept doing their bad drug stuff even after the first attack, so there was another attack. Now, everyone is talking about whether he did the right thing and if President Trump is happy about it.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765079362780-5",
-        "headline": "Taylor Swift and Travis Kelce Are Planning Their Wedding Day!",
-        "content": "The super famous singer Taylor Swift and the football star Travis Kelce have decided when and where they will get married! They picked a really fancy place in Rhode Island for their big day, and everyone is super excited to hear more details about their wedding.",
-        "originalSource": "Yahoo",
+        "id": "story-1765083170728-1",
+        "headline": "The FBI Finally Caught Someone Who Left Bombs",
+        "content": "The police, called the FBI, finally caught someone! This person put bomb-like things in Washington D.C. right before a big event on January 6th. People have been trying to figure out who did it for a very long time, and now the person is in court.",
+        "originalSource": "AP News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-2",
+        "headline": "Prisoners Used Clever Tricks to Break Out of Jail",
+        "content": "Some bad guys got out of jail in Louisiana! They were really smart. They managed to pull out big pieces of concrete from their cell walls. Then, they made a rope out of their bed sheets and climbed down the side of the prison building. Now, lots of police are searching for them everywhere.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765083170728-3",
+        "headline": "President Trump's Birthday is Now a Free Day at Parks",
+        "content": "President Trump's team changed some rules about when you can visit national parks for free. Now, President Trump's birthday is a free day! But they took away other free days that were there before, like for Martin Luther King Jr. Day and Juneteenth. Some people are not happy about this big change.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-4",
+        "headline": "Big Stores Want Their Money Back From Taxes",
+        "content": "Really big stores, like Costco, are asking for billions of dollars back from taxes they paid on things they brought into the country. They are waiting for the Supreme Court, which is like the highest judge, to decide if President Trump was allowed to put these taxes on things. If the court says no, it could mean huge changes for how America buys and sells things with other countries.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-5",
+        "headline": "Everyone is Talking About Taylor Swift's Wedding Plans",
+        "content": "Guess what?! Reports say that the super famous singer Taylor Swift and football player Travis Kelce have picked a special day and a super fancy place to get married. Everyone all over the world is super excited and talking about this news!",
+        "originalSource": "People.com",
         "publishedTime": "15 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765079362780-0",
-        "headline": "A Judge's Gavel",
-        "content": "The boardrooms of giants like Costco held their breath, their ledgers swollen with potential refunds. Millions, perhaps billions, hinged on the Supreme Court's verdict. A single decision, poised to re-evaluate President Trump's sweeping import taxes, promised to unravel a complex web of executive power. Lawyers sharpened arguments, economists crunched numbers, all waiting for the gavel's fall. Was it an overreach, or a necessary lever? The answer, soon to be etched in precedent, would either flood corporate coffers or leave them forever dry, a silent echo of a high-stakes gamble.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-1",
-        "headline": "Digital Borders",
-        "content": "In the vast digital arenas where information flowed like a river, new walls were rising. The State Department, under President Trump's direction, had quietly tightened the invisible strings, pulling back the welcome mat for certain tech workers. Content moderators, the unseen arbiters of online discourse, found their H1-B visa pathways narrowing. This wasn't about borders, but about bytes. Big Tech, accustomed to shaping narratives, now faced a direct challenge to its workforce, a silent battle over who truly controlled the digital conversation. The virtual gates were shifting, and the gatekeepers wondered if they were next.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Within 24 hours"
-      },
-      {
-        "id": "story-1765079362780-2",
-        "headline": "The Sculptor of Dreams",
-        "content": "The world paused, a collective inhale, as the news spread: Frank Gehry, the maestro of metal and curve, had laid down his tools at 96. His name wasn't merely an architect's; it was a verb, an adjective, defining structures that dared to defy gravity and expectation. Bilbao's Guggenheim shimmered in memory, Los Angeles's Walt Disney Concert Hall hummed with phantom music. He sculpted dreams into steel and titanium, bending imagination into tangible art. Though his physical presence departed, his legacy stood, a testament to a spirit that saw beauty in the impossible, forever stretching the boundaries of what a building could be.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-3",
-        "headline": "The Tide's Confession",
-        "content": "The sea had swallowed its secrets for too long. Now, an Admiral prepared to lay bare the truth before hushed lawmakers. The survivors, pulled from the wreckage of the recent boat strike, weren't just victims; they were perpetrators, still clinging to their illicit cargo, their mission ongoing even amidst the chaos. The waves had broken their vessel, but not their resolve. This wasn't just a rescue; it was a capture, a stark revelation of the silent war fought just beneath the surface. The incident, shrouded in controversy, finally revealed its dark core, a testament to the persistent shadow of the drug trade.",
-        "originalSource": "The Wall Street Journal",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765079362780-4",
-        "headline": "A Political Gambit",
-        "content": "In the intricate dance of Washington politics, an unspoken code often dictated loyalty: the \"No Scalps\" rule. It meant internal dissent was managed, not publicly flayed. But Pete Hegseth, the outspoken commentator, seemed to be twirling too close to the flame. His words, sharp and public, were testing the very fabric of President Trump's political doctrine. Was it a calculated risk, a bid for a new kind of influence, or a misstep? The political observers watched, dissecting every comment, waiting to see if the unwritten law would bend, or if Hegseth's challenge would redefine the boundaries of acceptable dissent within the power structure.",
+        "id": "story-1765083170728-0",
+        "headline": "The Echo of the Waves",
+        "content": "The maritime air still carried the scent of controversy. Pete Hegseth, a trusted official, stood firm amidst the storm. Airstrikes had targeted alleged drug boats, a necessary evil, yet the aftermath festered. Survivors, defiant, had reportedly resumed their illicit mission, prompting a contentious follow-up strike. Whispers of President Trump’s \"no scalps\" rule echoed through the halls, a silent warning against avoidable political fallout. Hegseth knew the stakes; his leadership, and the administration’s protocols, now navigated treacherous waters. The ocean held its secrets, but the political tide was rising, threatening to engulf more than just vessels.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765079362780-5",
-        "headline": "A Rhode Island Rendezvous",
-        "content": "The whispers turned to shouts, and then to confirmed headlines: Taylor Swift, the global phenomenon, and Travis Kelce, the gridiron star, were setting their sails for matrimony. A date whispered, a Rhode Island estate confirmed—a stage worthy of their epic romance. The world, it seemed, collectively held its breath, awaiting the ultimate celebrity union. Fan theories buzzed, paparazzi lenses sharpened, ready to capture every detail of the pop princess's grandest production yet. This wasn't just a wedding; it was a cultural event, promising a symphony of glamour, love, and a Rhode Island sunset, forever binding music and sport.",
-        "originalSource": "Yahoo",
+        "id": "story-1765083170728-1",
+        "headline": "Unveiling the Shadow",
+        "content": "For years, the ghost of January 6th lingered, shrouded in smoke and unanswered questions. The pipe bombs, discovered on the Capitol’s eve, were a chilling prelude, their creator a phantom. But the shadow had finally lifted. The FBI, relentless in their pursuit, had made their move, a major arrest breaking the long silence. The suspect, now stripped of anonymity, stood before the court, a tangible face to one of Washington D.C.’s most high-profile mysteries. The city, which had held its breath for so long, could finally begin to exhale, hoping for truth to emerge from the lingering darkness.",
+        "originalSource": "AP News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-2",
+        "headline": "A Thread of Freedom",
+        "content": "The night was a canvas for desperation in Louisiana. Within the grim walls, a desperate plan solidified. Patiently, meticulously, they chipped away at the concrete, each crumb a step closer to the outside world. When the breach was ready, humble bedsheets became their lifeline, braided into a makeshift rope, a whisper against the rough stone of the prison. One by one, they rappelled into the pre-dawn chill, their liberty a fragile gift. Now, the bayou hums with the urgency of sirens, a multi-agency dragnet stretching across the land, hunting for the fleeting taste of freedom.",
+        "originalSource": "The Guardian",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765083170728-3",
+        "headline": "The Shifting Calendar",
+        "content": "The national parks, once bastions of universal access on hallowed dates, saw their calendar reshaped by executive decree. A new day dawned for visitors, marked by the addition of President Trump’s birthday, a personal touch to public lands. Yet, the jubilant spirit of Juneteenth, a testament to freedom, and the solemn remembrance of Martin Luther King Jr. Day, a beacon of civil rights, were quietly excised. The policy shift rippled through the nation, sparking debate and criticism. For many, the free days no longer felt quite as free, a subtle change echoing deeper divisions.",
+        "originalSource": "CBS News",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-4",
+        "headline": "The Billions on Hold",
+        "content": "A financial tremor ran through corporate America. Billions, held hostage by tariffs, awaited liberation. Retail giants, like Costco, were at the forefront, demanding refunds, their ledgers straining under the weight of import taxes. All eyes now turned to the Supreme Court, the final arbiter. Its looming decision would weigh not just the immediate sums, but the very extent of presidential authority to impose such sweeping levies. The ruling, a potential earthquake in US trade, promised massive ramifications, determining who would pay, and who would reclaim their fortune from the intricate web of global commerce.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Recently reported"
+      },
+      {
+        "id": "story-1765083170728-5",
+        "headline": "The Global Vows",
+        "content": "The world collectively held its breath, tuning into every whisper. The queen of pop, Taylor Swift, and her gridiron king, Travis Kelce, had reportedly chosen their moment. A specific date, a luxurious venue – details of their impending union, once fiercely private, now spilled across headlines. The news ignited a global firestorm, a symphony of speculation and adoration. From fan accounts to major networks, the buzz was undeniable, their love story blossoming into a public spectacle. The impending \"I do\" wasn't just a personal milestone; it was a cultural event, watched by millions, destined to echo.",
+        "originalSource": "People.com",
         "publishedTime": "15 hours ago"
       }
     ]
