@@ -1,268 +1,268 @@
 {
-  "timestamp": 1765135616534,
+  "timestamp": 1765139859798,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765135544577-0",
-        "headline": "The White House's Disregard for International Aid Undermines Global Stability, Echoing Isolationist Rhetoric.",
-        "content": "Donald Trump Jr.'s defense of the White House's purported threat to abandon support for Ukraine, labeling it 'common sense,' reveals a concerning disregard for international solidarity and collective security. This perspective, which also criticizes Ukrainian President Volodymyr Zelenskyy and the European Union's crucial role, risks destabilizing vital alliances and emboldening authoritarian forces. Such comments exacerbate the urgent debate on a US foreign policy that should prioritize human rights and international cooperation over isolationist agendas.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765135544578-1",
-        "headline": "Kremlin's Embrace of President Trump's National Security Strategy Signals Troubling Erosion of Democratic Alliances.",
-        "content": "Moscow has expressed approval for the President Trump administration's recently unveiled national security strategy, particularly its adversarial position toward the European Union. This endorsement from the Kremlin raises serious concerns about the undermining of democratic alliances and international cooperation, especially as critical negotiations to resolve the conflict in Ukraine progress. Such a strategy risks fragmenting global efforts to counter authoritarianism and protect shared democratic values.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-2",
-        "headline": "Supreme Court Case Challenges President Trump's Executive Power, Threatening Independence of Key Regulatory Bodies.",
-        "content": "The Supreme Court is poised to review a landmark case this week that will critically examine the boundaries of presidential authority. This challenge scrutinizes President Trump's attempts to consolidate control over the executive branch, specifically questioning his unilateral power to dismiss a crucial official at the Federal Trade Commission. The outcome holds significant implications for the checks and balances within government and the vital independence of agencies designed to safeguard public interest and prevent corporate overreach.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-3",
-        "headline": "Defense Secretary Hegseth Faces Accountability Crisis Amid Scandals and Controversial Militarized Interventions.",
-        "content": "Defense Secretary Pete Hegseth is experiencing heightened pressure amid multiple burgeoning controversies, collectively referred to as 'twin scandals' by some media. At the Reagan National Defense Forum, Hegseth notably defended the administration's contentious strikes on alleged drug cartel vessels. This ongoing scrutiny raises significant questions about transparency, accountability, and the ethical implications of militarized approaches to complex social issues, including drug enforcement.",
-        "originalSource": "PBS News / The Guardian",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765135544578-4",
-        "headline": "President Trump Demands Political Loyalty After Pardon, Undermining Justice System's Impartiality.",
-        "content": "President Trump publicly voiced his indignation and frustration, targeting a Democrat he had recently pardoned. The President criticized the individual for a perceived 'lack of loyalty' after the pardoned official affirmed their decision to maintain their political affiliation. This incident raises profound concerns about the politicization of the pardon system and the expectation of personal allegiance over adherence to democratic principles and the impartial administration of justice.",
-        "originalSource": "The Guardian",
+        "id": "story-1765139788000-0",
+        "headline": "President Trump's Demand for Personal Loyalty Undermines Democratic Principles",
+        "content": "President Trump, having previously extended a pardon, openly criticized Representative Cuellar for affirming his commitment to the Democratic Party instead of switching allegiances. This incident highlights a troubling pattern where political favors are seemingly granted with an expectation of personal loyalty and party defection, rather than focusing on the broader public interest or addressing systemic issues within the justice system that lead to such pardons. It raises questions about the transactional nature of power and accountability in our political landscape.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765135544578-5",
-        "headline": "College Football Playoff Finalized, Highlighting Unequal Resource Distribution in Collegiate Athletics.",
-        "content": "The eagerly awaited new 12-team College Football Playoff bracket has been officially unveiled. The Miami Hurricanes secured the final at-large position, narrowly surpassing Notre Dame for a slot in the prestigious tournament. While celebrating athletic achievement, the announcement also serves as a reminder of the vast financial and resource disparities within collegiate athletics, often at the expense of student-athletes and academic priorities. The first round of the playoffs is slated to commence on December 19th.",
+        "id": "story-1765139788000-1",
+        "headline": "The 2026 Men's World Cup Schedule Promises Global Spectacle Amidst Local Concerns",
+        "content": "FIFA has unveiled the extensive schedule for the 2026 Men's World Cup, detailing 104 matches to be held across numerous cities in the U.S., Mexico, and Canada. While the tournament is anticipated to bring global attention, it is crucial to ensure that the massive logistical undertaking prioritizes fair labor practices for event workers, mitigates potential environmental impacts, and ensures equitable access and benefits for the diverse communities hosting these high-profile games, rather than solely focusing on corporate profits.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-2",
+        "headline": "President Trump's Visa Restrictions Threaten Digital Speech and Tech Worker Rights",
+        "content": "The administration of President Trump has introduced new State Department guidance that significantly restricts H1-B visas for certain technology workers, particularly content moderators. While framed as a measure against \"censorship,\" this move could have far-reaching implications, potentially weakening the vital role of content moderation in combating disinformation and hate speech online, while simultaneously impacting the livelihoods and rights of tech workers. This action raises concerns about both the future of responsible platform governance and the administration's approach to immigration and labor within the tech sector.",
         "originalSource": "The Washington Post",
-        "publishedTime": "12 hours ago"
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-3",
+        "headline": "College Football Playoff Selection Highlights Systemic Inequities in Collegiate Athletics",
+        "content": "The College Football Playoff bracket has been finalized, with Miami securing the last spot in the 12-team tournament, pushing out Notre Dame. Teams like Indiana, Ohio State, Georgia, and Texas Tech received first-round byes, with games commencing December 19th. This annual event, while generating immense revenue, continues to draw scrutiny for its commercialization, where student-athletes, predominantly Black, generate billions for their institutions and coaches without receiving equitable compensation or adequate protections, underscoring deep-seated systemic issues within collegiate sports.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-4",
+        "headline": "Representative Omar Demands Accountability from FBI in Somali Fraud and Terrorism Allegations",
+        "content": "Representative Ilhan Omar has publicly stated that if any connection is established between the high-profile alleged Somali financial fraud case and terrorist activity, it would signify a critical \"failure of the FBI.\" Her remarks underscore the importance of rigorous, unbiased investigations and highlight the need for federal agencies to prevent potential miscarriages of justice or the scapegoating of communities, particularly given historical patterns of surveillance and profiling. This situation calls for transparent oversight and a focus on systemic intelligence gaps if such a link were to emerge.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-5",
+        "headline": "Search for Escaped Inmate in Louisiana Highlights Systemic Failures in the Carceral System",
+        "content": "Law enforcement officials in Louisiana are intensifying their efforts to locate the final individual who remains at large after three inmates successfully escaped from a state correctional facility. This ongoing manhunt not only raises immediate public safety concerns but also draws critical attention to the dilapidated conditions, understaffing, and systemic issues prevalent within many correctional facilities across the nation, prompting urgent calls for comprehensive criminal justice reform that addresses the root causes of incarceration and ensures humane and secure environments.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765135544577-0",
-        "headline": "White House Threat to Pull Ukraine Support is 'Common Sense,' Says Donald Trump Jr.",
-        "content": "Donald Trump Jr. defended the White House's perceived threat to withdraw aid from Ukraine, calling the move 'common sense' while simultaneously offering strong criticisms of Ukrainian President Volodymyr Zelenskyy and the European Union's role in the conflict. The comments add to the ongoing debate over future US foreign policy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765135544578-1",
-        "headline": "Kremlin Hails Trump's National Security Strategy as Aligned with Russia's Vision",
-        "content": "Moscow has welcomed the Trump administration's newly released national security strategy document, particularly noting its critical stance on the European Union. The Kremlin's endorsement comes as delicate, high-stakes talks to negotiate an end to the ongoing conflict in Ukraine enter a new, crucial phase.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-2",
-        "headline": "Supreme Court to Hear Major Test of Presidential Power in Case Over FTC Firing",
-        "content": "The Supreme Court is set to hear a significant case this week concerning the limits of presidential authority. The challenge focuses on President Trump's efforts to exert control over the executive branch and specifically questions the President's ability to fire a key official at the Federal Trade Commission.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-3",
-        "headline": "Pressure Grows on Pentagon Chief Hegseth Amid Twin Scandals, Defends Drug Boat Strikes",
-        "content": "Defense Secretary Pete Hegseth is under increasing scrutiny due to multiple emerging controversies, which some news outlets have dubbed 'twin scandals.' He delivered a keynote address at the Reagan National Defense Forum, where he notably defended the administration's controversial strikes on alleged drug cartel boats.",
-        "originalSource": "PBS News / The Guardian",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765135544578-4",
-        "headline": "Trump Slams 'Lack of Loyalty' After Pardoned Democrat Refuses to Change Party",
-        "content": "President Donald Trump publicly expressed frustration and anger, criticizing a Democrat whom he recently pardoned. The President slammed the individual for showing a 'lack of loyalty' after the pardoned official indicated they had no intention of switching their political affiliation to the Republican party.",
-        "originalSource": "The Guardian",
+        "id": "story-1765139788000-0",
+        "headline": "Trump slams 'lack of loyalty' after pardoned Democrat says he won't change party",
+        "content": "Former President Trump criticized Rep. Cuellar, a Democrat he had previously pardoned, for announcing he would continue to run for office as a Democrat rather than switching parties, slamming the decision as a \"lack of loyalty.\"",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765135544578-5",
-        "headline": "College Football Playoff Bracket is Set: Miami Snags Final Spot Over Notre Dame",
-        "content": "The highly anticipated new 12-team College Football Playoff bracket has been officially finalized and released. The Miami Hurricanes secured the final at-large position, edging out Notre Dame for a slot in the tournament. The first round of the playoffs is scheduled to begin on December 19th.",
+        "id": "story-1765139788000-1",
+        "headline": "2026 FIFA Men's World Cup schedule released. The USA's path and full fixtures.",
+        "content": "FIFA announced the complete schedule for the 2026 Men's World Cup. The schedule details 104 matches across 11 U.S. cities, plus sites in Mexico and Canada, and outlines the national team's path for the tournament.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-2",
+        "headline": "Trump's latest Big Tech pressure play: Restrict content moderator visas",
+        "content": "The Trump administration has cracked down on censorship by issuing new State Department guidance that restricts certain tech workers, particularly content moderators, from receiving H1-B visas, escalating pressure on major technology companies.",
         "originalSource": "The Washington Post",
-        "publishedTime": "12 hours ago"
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-3",
+        "headline": "College Football Playoff bracket is set: Miami gets final spot over Notre Dame",
+        "content": "The final College Football Playoff bracket was announced, with Miami securing the last spot in the 12-team tournament over Notre Dame. Indiana, Ohio State, Georgia, and Texas Tech received first-round byes, with games starting December 19th.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-4",
+        "headline": "Omar: Any link between alleged Somali fraud and terrorism would be a \"failure of the FBI\"",
+        "content": "Representative Ilhan Omar commented on the high-profile alleged Somali fraud case, stating that if any connection were found between the financial fraud and terrorist activity, it would represent a significant \"failure of the FBI.\"",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-5",
+        "headline": "Louisiana officials continue search for last of three escaped inmates",
+        "content": "Law enforcement officials in Louisiana are continuing their efforts to locate and apprehend the last remaining fugitive after three inmates successfully escaped from a correctional facility, prompting a large-scale manhunt across the state.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765135544577-0",
-        "headline": "Donald Trump Jr. Rightly Calls Withdrawing Ukraine Aid \"Common Sense\" Amidst European Failures",
-        "content": "Donald Trump Jr. courageously championed the White House's pragmatic stance on Ukraine aid, labeling it \"common sense.\" He correctly pointed out the glaring deficiencies of Ukrainian leadership and the European Union's consistent inability to bear its own burden, urging a return to an America First foreign policy that prioritizes our nation's interests over endless global entanglements. This vital discussion underscores the urgent need for a more responsible approach to international aid.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765135544578-1",
-        "headline": "President Trump's National Security Strategy Gains International Respect for Challenging EU Overreach",
-        "content": "President Trump's forthright national security strategy has garnered significant international attention, with Moscow notably acknowledging its clear-sighted critique of the European Union's often-questionable influence. This recognition of America's sovereign interests comes as crucial negotiations concerning the conflict in Ukraine continue, demonstrating the global impact of President Trump's bold approach to foreign policy.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-2",
-        "headline": "Supreme Court to Affirm President Trump's Constitutional Authority to Manage the Executive Branch",
-        "content": "The Supreme Court is poised to consider a pivotal case this week, one that will decisively affirm President Trump's vital constitutional authority to effectively manage the executive branch. This crucial challenge addresses the President's inherent right to remove officials within the Federal Trade Commission, a move essential for ensuring accountability and preventing unelected bureaucrats from undermining the will of the people.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-3",
-        "headline": "Secretary Hegseth Bravely Defends Decisive Action Against Drug Cartels Amidst Baseless Attacks",
-        "content": "Defense Secretary Pete Hegseth, a steadfast patriot, is facing politically charged scrutiny from opportunistic factions, falsely labeled \"twin scandals.\" Unwavering, Secretary Hegseth powerfully defended the administration's crucial and decisive strikes against nefarious drug cartel boats at the Reagan National Defense Forum, proving his commitment to national security and protecting our borders from dangerous threats.",
-        "originalSource": "PBS News / The Guardian",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765135544578-4",
-        "headline": "President Trump Rightfully Points Out Loyalty Deficit After Pardoned Democrat Refuses Party Switch",
-        "content": "President Trump, always direct and principled, openly voiced his disappointment and righteous anger after a Democrat he graciously pardoned displayed a notable \"lack of loyalty.\" Despite receiving executive clemency, the individual stubbornly refused to align with the Republican party, a decision that speaks volumes about their character and the inherent partisan resistance to unity.",
-        "originalSource": "The Guardian",
+        "id": "story-1765139788000-0",
+        "headline": "President Trump Rightfully Condemns Democrat's Disloyalty After Receiving Pardon",
+        "content": "President Trump delivered a sharp rebuke to Democrat Representative Cuellar, who, despite receiving a presidential pardon, has chosen to remain in the Democratic Party rather than embracing principles of loyalty and gratitude. This decision, viewed by many as a lack of fundamental loyalty, underscores the political opportunism that can unfortunately plague our system, even in the face of executive mercy.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765135544578-5",
-        "headline": "The New College Football Playoff Bracket Reveals Exciting Competition, Miami Earns Final Spot",
-        "content": "The much-anticipated new 12-team College Football Playoff bracket has been officially unveiled, setting the stage for thrilling athletic competition. The Miami Hurricanes notably secured the final at-large position, prevailing over Notre Dame for a coveted slot in the esteemed tournament, which is scheduled to commence its first round on December 19th.",
+        "id": "story-1765139788000-1",
+        "headline": "America Prepares to Host World Cup, Bringing Economic Opportunity and National Pride",
+        "content": "The much-anticipated schedule for the 2026 Men's FIFA World Cup has been unveiled, promising an exhilarating showcase across 11 American cities, alongside venues in Mexico and Canada. This monumental event is set to deliver significant economic benefits to our host communities and will undoubtedly foster a strong sense of national unity and pride as our nation welcomes the world's greatest athletes.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-2",
+        "headline": "President Trump Fights Big Tech Censorship by Restricting Visas for Content Moderators",
+        "content": "In a decisive move to protect free speech and combat the troubling trend of censorship by tech giants, President Trump's administration has issued new State Department guidance. This critical guidance will restrict H1-B visas for certain tech workers, particularly content moderators, escalating pressure on major technology companies to uphold American values of open discourse rather than suppressing dissenting voices.",
         "originalSource": "The Washington Post",
-        "publishedTime": "12 hours ago"
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-3",
+        "headline": "College Football Playoff Bracket Finalized, Highlighting American Athletic Excellence",
+        "content": "The final College Football Playoff bracket has been announced, concluding a season of traditional American competition and merit. Miami secured the coveted final spot in the 12-team tournament over Notre Dame, showcasing the competitive spirit of college athletics. Indiana, Ohio State, Georgia, and Texas Tech earned first-round byes, with games commencing on December 19th, promising an exciting display of athletic prowess.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-4",
+        "headline": "Representative Omar Dismisses Terrorism Link to Somali Fraud, Raising Questions About FBI Accountability",
+        "content": "Representative Ilhan Omar has weighed in on the high-profile alleged Somali fraud case, stating that any connection found between the financial fraud and terrorist activity would signify a \"failure of the FBI.\" This assertion, while pointing to potential shortcomings in federal law enforcement, shifts the focus from the gravity of the alleged crimes and the critical importance of robust national security investigations into such serious matters.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-5",
+        "headline": "Louisiana Law Enforcement Relentlessly Pursues Last Escaped Inmate to Restore Public Safety",
+        "content": "Law enforcement officials in Louisiana remain steadfast in their pursuit of the final fugitive after three inmates managed to escape from a correctional facility. This large-scale manhunt underscores the vital importance of securing our communities and ensuring that justice is served by apprehending all individuals who seek to evade the law and threaten public safety.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765135544577-0",
-        "headline": "President Trump's Son Declares International Diplomacy 'Just Like Sharing Toys,' Says Ukraine Should 'Work For It'",
-        "content": "In a stunning display of geopolitical insight, President Trump's son has bravely declared that the White House's perceived threat to withhold aid from Ukraine is not only 'common sense' but also a masterclass in tough love. Critics of Ukrainian President Volodymyr Zelenskyy and the entire European Union's 'me-first' attitude were, according to sources, 'visibly nodding with profound agreement' at the groundbreaking strategy, which apparently simplifies complex international relations into a simple 'What have you done for me lately?' ledger.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765135544578-1",
-        "headline": "Kremlin Hails President Trump's National Security Strategy As 'Remarkably Cohesive' With Russian Objectives",
-        "content": "Moscow has openly welcomed the President Trump administration's recently unveiled national security strategy document, with senior Kremlin officials reportedly performing interpretive dances of joy. The strategy, which notably includes several scathing remarks about the European Union, was described by Russian state media as 'a surprisingly detailed roadmap of our own dreams.' This enthusiastic endorsement arrives just as high-stakes talks regarding the ongoing Ukrainian conflict enter a 'crucial phase,' presumably one where everyone just agrees with whatever Russia wanted anyway.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-2",
-        "headline": "Supreme Court To Hear Landmark Case On Whether President Trump Can Fire Someone For Mispronouncing 'Quiche'",
-        "content": "The Supreme Court is poised to tackle a truly monumental question this week, one that could redefine the very fabric of American governance: just how much power does President Trump have to, well, do whatever he wants? The high-profile case centers on President Trump's audacious move to exert maximum control over the executive branch, specifically questioning his ability to dismiss a key official at the Federal Trade Commission. Legal experts are calling it a 'trial by fire' to determine if presidential authority has any limits beyond a very strongly worded suggestion.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-3",
-        "headline": "Pentagon Chief Hegseth Heroically Defends Aggressive 'Boat Punching' Strategy Amid Twin Scandals Nobody Cares About",
-        "content": "Defense Secretary Pete Hegseth is currently navigating a veritable minefield of 'twin scandals,' which news outlets are struggling to define beyond 'things that are probably bad.' However, in a defiant keynote address at the prestigious Reagan National Defense Forum, Hegseth bravely diverted attention by doubling down on the administration's controversial (and vaguely defined) strikes on alleged drug cartel boats. 'When a boat looks at us funny,' Hegseth reportedly declared, 'we punch that boat right in its hull!' The scandals, meanwhile, continue to simmer quietly in the background, hoping someone eventually remembers what they are.",
-        "originalSource": "PBS News / The Guardian",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765135544578-4",
-        "headline": "President Trump Absolutely Baffled After Pardoned Democrat Refuses To Immediately Get Matching 'Team Trump' Tattoo",
-        "content": "In a surprising turn of events that has left President Trump reportedly 'flabbergasted,' a Democrat he recently pardoned has committed the ultimate act of ingratitude: refusing to switch political parties. The President publicly expressed his profound disappointment, slamming the individual for a 'complete lack of loyalty.' Sources close to the White House indicate President Trump genuinely believed that a presidential pardon automatically came with a new party registration, a signed pledge of allegiance, and possibly a lifetime supply of red hats. The Democrat, meanwhile, stated they were 'just trying to get on with their life,' a sentiment deemed 'unpatriotic' by some.",
-        "originalSource": "The Guardian",
+        "id": "story-1765139788000-0",
+        "headline": "President Trump Outraged As Pardoned Democrat Refuses To Wear Team T-Shirt, Citing \"Gross Disloyalty\"",
+        "content": "President Trump expressed his profound disappointment today after Rep. Cuellar, a man whose freedom he personally bestowed, announced he would continue to run as a Democrat instead of immediately changing his party affiliation. \"I expected a little more... gratitude,\" President Trump reportedly fumed, \"like, a parade, or at least a solemn vow to only vote the way I tell him to. What's the point of a pardon if it doesn't come with a lifetime membership to my fan club?\"",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765135544578-5",
-        "headline": "Miami Miraculously Snatches Final Playoff Spot, Inspiring Millions To Google 'What Even Is A Hurricane?'",
-        "content": "The much-anticipated 12-team College Football Playoff bracket has finally been etched into digital stone, and in a shocking upset that has left experts scratching their heads, the Miami Hurricanes have somehow clawed their way into the final at-large position. Poor Notre Dame, meanwhile, was left to mourn its playoff dreams, with fans reportedly questioning every decision they've ever made in their lives. The first round of this glorious gridiron gladiatorial spectacle is slated to kick off on December 19th, promising a delightful distraction from whatever else is happening in the world.",
+        "id": "story-1765139788000-1",
+        "headline": "FIFA Unveils 2026 World Cup Schedule: 104 Games Guaranteed To Confuse Everyone And Overwhelm Your TV",
+        "content": "FIFA, in a move hailed by insomniacs and global airlines, today unleashed the epic 2026 Men's World Cup schedule. Featuring an astonishing 104 matches spread across three North American nations, organizers assure fans they'll only need three separate passports, five different hotel chains, and a 48-hour day to catch all the action. The USA's \"path\" promises an unprecedented opportunity for viewers to witness the team's inevitable quarter-final exit from literally every major city.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-2",
+        "headline": "President Trump Halts Content Moderator Visas, Declares Internet A \"Free-For-All Thunderdome\"",
+        "content": "In a bold move to combat what he calls \"digital oppression,\" President Trump's administration has issued new State Department guidance effectively blocking content moderators from receiving H1-B visas. Tech giants are now scrambling to figure out how to manage their platforms when every comment section becomes an unmoderated experiment in humanity's basest instincts. \"It's time to let the internet be free,\" President Trump stated, reportedly while envisioning a digital landscape where all posts are solely about him.",
         "originalSource": "The Washington Post",
-        "publishedTime": "12 hours ago"
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-3",
+        "headline": "College Football Playoff Expands To Include Entire Conference, Still Snubs Your Favorite Team",
+        "content": "After weeks of intense mathematical wizardry and what appeared to be a random dart throw, the College Football Playoff committee finally announced its gargantuan 12-team bracket. Miami, clearly having bribed the right algorithms, snatched the final golden ticket, leaving Notre Dame fans to once again question the meaning of life, fairness, and Catholicism. Meanwhile, Indiana, Ohio State, Georgia, and Texas Tech magically secured first-round byes, presumably for possessing the best snacks during committee meetings. The games begin December 19th, ensuring holiday seasons across America are ruined by arguments over officiating.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-4",
+        "headline": "Representative Omar Declares Any Potential Terrorist Link To Fraud Case A \"Personal Affront To FBI's Job Security\"",
+        "content": "Representative Ilhan Omar weighed in on the ongoing alleged Somali fraud case, asserting with a straight face that if investigators dare to uncover a link between the financial malfeasance and, say, actual terrorism, it would constitute a \"colossal failure\" on the part of the FBI. \"It's almost as if the FBI has *one job*,\" Omar reportedly stated, implying that job is to ensure no inconvenient connections are ever made, regardless of reality.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-5",
+        "headline": "Louisiana Manhunt Enters Its \"Maybe He Just Went Home?\" Phase For Last Escaped Inmate",
+        "content": "Louisiana law enforcement officials today announced they are definitely, probably, still looking for the final missing inmate from a recent, highly successful correctional facility breakout. After two of the three escapees were recaptured, authorities have narrowed their search for the last fugitive to \"everywhere, potentially.\" \"We've checked all the usual places – the donut shop, the fishing holes, his grandma's house,\" reported a weary Sheriff, \"but this last guy seems to have truly mastered the art of not being found, which frankly, makes us wonder why he was in jail in the first place.\"",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765135544577-0",
-        "headline": "President Trump's Son Thinks Cutting Help to Ukraine is a Good Idea.",
-        "content": "Donald Trump Jr. said it makes sense if the White House stops helping Ukraine. He also said some not-so-nice things about Ukraine's President Zelenskyy and how Europe is handling things. People are still talking a lot about what America will do to help other countries in the future.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765135544578-1",
-        "headline": "Russia Says President Trump's Security Plan is Good.",
-        "content": "Russia is happy with President Trump's new plan for keeping America safe. They especially liked that the plan wasn't very kind to the European Union. Russia liking the plan happened while important talks are going on to try and stop the fight in Ukraine.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-2",
-        "headline": "Supreme Court to Look at President Trump's Power to Fire People.",
-        "content": "This week, the Supreme Court, which is the highest court in the country, will listen to an important case. It's all about how much power President Trump has. They want to figure out if President Trump can fire an important person who works at a government office called the Federal Trade Commission.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-3",
-        "headline": "Defense Secretary Hegseth is Facing Big Problems.",
-        "content": "Defense Secretary Pete Hegseth is having a tough time because people are looking closely at some new problems, which some news channels are calling \"twin scandals.\" He gave a big speech where he said it was okay that the government attacked boats that might belong to drug groups.",
-        "originalSource": "PBS News / The Guardian",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765135544578-4",
-        "headline": "President Trump Gets Mad When People Aren't Loyal to Him.",
-        "content": "President Trump was really upset and angry. He criticized a Democrat who he had just let off the hook (pardoned). President Trump was mad because this person didn't want to change to his political party, the Republicans, and he called it a \"lack of loyalty.\"",
-        "originalSource": "The Guardian",
+        "id": "story-1765139788000-0",
+        "headline": "President Trump Thinks a Democrat Isn't Being Loyal",
+        "content": "President Trump is upset because a politician named Rep. Cuellar, who is a Democrat, decided to stay a Democrat. President Trump had helped Rep. Cuellar before, and he thought Rep. Cuellar would switch to his party, but he didn't. President Trump called this a \"lack of loyalty.\"",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765135544578-5",
-        "headline": "Miami Football Team Gets Last Spot in Big Playoff.",
-        "content": "The teams for the super exciting new college football tournament are finally chosen! The Miami Hurricanes got the very last spot, beating out Notre Dame. The first games for this tournament will start on December 19th.",
+        "id": "story-1765139788000-1",
+        "headline": "The Big Soccer World Cup Games Are Planned!",
+        "content": "FIFA, which organizes big soccer games, just told everyone the whole plan for the 2026 Men's World Cup! There will be 104 games in 11 cities in the USA, and also in Mexico and Canada. They also showed how the USA team will play in the tournament.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-2",
+        "headline": "President Trump Makes New Rules for Tech Workers",
+        "content": "President Trump's team is making it harder for some people who work for big internet companies to come to the USA. These workers often help decide what can stay online and what gets taken down. This new rule is meant to put more pressure on those big technology companies.",
         "originalSource": "The Washington Post",
-        "publishedTime": "12 hours ago"
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-3",
+        "headline": "The Big College Football Tournament Teams Are Ready!",
+        "content": "The teams for the big College Football Playoff tournament have been picked! Miami got the very last spot in the 12-team contest instead of Notre Dame. Some teams like Indiana, Ohio State, Georgia, and Texas Tech get to skip the first game. The games start on December 19th!",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-4",
+        "headline": "Representative Omar Thinks FBI Would Fail if Money Scams Link to Terror",
+        "content": "A politician named Ilhan Omar talked about a big case where people might have cheated with money from Somalia. She said that if anyone found out this money cheating was connected to bad guys who do terrorism, it would mean the FBI did a really bad job and failed.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-5",
+        "headline": "Police Are Still Looking for One Escaped Person",
+        "content": "Police in Louisiana are still working hard to find one person who got away from jail. Three people escaped, and they caught two of them, but one is still out there. Lots of police are looking all over the state to find him.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765135544577-0",
-        "headline": "The Pragmatist's Shadow Across the Aid Landscape",
-        "content": "Donald Trump Jr. spoke into the mic, a calculated defense of the White House’s stance on Ukraine. \"Common sense,\" he declared, echoing a sentiment that chilled some allies. He didn't mince words, criticizing Ukrainian President Volodymyr Zelenskyy’s leadership and the European Union’s perceived shortcomings. The global stage watched, dissecting every utterance. This shift, he argued, wasn't abandonment but a strategic re-evaluation, a tightening of the purse strings where loyalty was questioned. The old guard might fret, but a new foreign policy was taking shape, its contours drawn with a stark, pragmatic hand, redefining alliances under President Trump’s administration.",
-        "originalSource": "The Guardian",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765135544578-1",
-        "headline": "The Kremlin's Echoes Across Shifting Borders",
-        "content": "From the gilded halls of the Kremlin, an unexpected endorsement rippled across the geopolitical landscape. Moscow welcomed President Trump's new national security strategy, a document that, to their satisfaction, cast a critical eye upon the European Union. This alignment of visions, though subtle, spoke volumes. Diplomats leaned forward in high-stakes talks concerning Ukraine, where every word was weighed, every alliance scrutinized. The Kremlin’s nod wasn't just a casual observation; it was a strategic acceptance, a subtle affirmation that, in some critical areas, the world's most formidable powers found common ground, however precarious.",
-        "originalSource": "The Guardian",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-2",
-        "headline": "The Apex of a President's Authority in Question",
-        "content": "The Supreme Court prepared for a battle of constitutional proportions, a looming showdown over the very fabric of presidential power. At its heart lay President Trump’s decisive action: the firing of a key official within the Federal Trade Commission. This wasn't merely a personnel dispute; it was a profound challenge to the limits of the executive branch's reach. Legal scholars debated the precedents, the framers' intent, and the delicate balance of checks and balances. The outcome would redefine the parameters of presidential control, a landmark decision etched into the annals of American governance, shaping the future of the republic.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765135544578-3",
-        "headline": "A Gathering Storm Over the Pentagon's Leader",
-        "content": "Defense Secretary Pete Hegseth stood firm, a beleaguered figure amidst the swirling accusations. \"Twin scandals,\" the press dubbed them, a relentless barrage questioning his leadership. Yet, at the prestigious Reagan National Defense Forum, his voice resonated with conviction. He defended the controversial strikes against alleged drug cartel boats, portraying them as necessary actions to safeguard national interests. The pressure mounted, the whispers grew louder, but Hegseth remained defiant. His words were a shield, a declaration that despite the political maelstrom, the mission continued, and the defense of the nation remained his unwavering priority.",
-        "originalSource": "PBS News / The Guardian",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765135544578-4",
-        "headline": "A Presidential Pardon and Its Unmet Expectation",
-        "content": "A quiet anger simmered in President Trump's declaration. He had offered a presidential pardon, a gesture of clemency to a Democrat, expecting perhaps, a reciprocal act of loyalty. Instead, the pardoned official stood firm, refusing to switch political affiliations to the Republican party. \"Lack of loyalty,\" President Trump articulated publicly, his words laced with disappointment and a sense of betrayal. The unwritten contract, the implicit expectation of allegiance, had been broken. It was a stark reminder that even the highest acts of presidential grace couldn't always command the political loyalty desired.",
-        "originalSource": "The Guardian",
+        "id": "story-1765139788000-0",
+        "headline": "The Unswerving Line in the Sand",
+        "content": "The oval office phone call had been direct: a pardon for a promise. Representative Cuellar, a Democrat, had been spared. Yet, when the time came, his conviction remained firm. He announced his re-election bid, unyielding in his party allegiance. President Trump’s reaction was swift, a public declaration of \"lack of loyalty.\" The political chess match continued, a strategic move met with an unexpected counter. For President Trump, loyalty was paramount; for Cuellar, principle. The line in the sand, once blurred by a favor, was now starkly redrawn, a testament to an unswerving political identity.",
+        "originalSource": "The Guardian / CBS News",
         "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765135544578-5",
-        "headline": "The Last Golden Ticket to a Champion's Dream",
-        "content": "The football world held its breath. Then, the announcement came, sealing the fate of dreams and aspirations: the 12-team College Football Playoff bracket was complete. Miami, the Hurricanes, had snatched the final at-large position, a golden ticket slipped from Notre Dame’s grasp at the last possible moment. Cheers erupted in South Florida, groans echoed in South Bend. The drama of the selection committee was over, replaced by the anticipation of gridiron clashes. On December 19th, the whistle would blow, signaling the start of a new championship quest, a true test of collegiate might.",
+        "id": "story-1765139788000-1",
+        "headline": "A Continent Unites for the Beautiful Game",
+        "content": "FIFA unveiled the grand tapestry of the 2026 Men's World Cup, a spectacle spanning three nations. A hundred and four matches across 11 vibrant U.S. cities, alongside Mexico and Canada, promised an unprecedented celebration. The schedule wasn't just dates and venues; it was a blueprint for dreams, charting the national teams' arduous paths. From the roar of the crowds to the silent anticipation in locker rooms, the world's gaze would soon turn to North America. The beautiful game, a universal language, prepared to write its next epic chapter on a shared continent.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-2",
+        "headline": "The Gatekeepers of the Digital Realm",
+        "content": "A new directive from the State Department echoed through Silicon Valley, a quiet tremor in the digital landscape. President Trump, ever vigilant against perceived censorship, had tightened the screws. H1-B visas, once a gateway for crucial tech talent, particularly content moderators, now faced restrictions. It was a calculated move, escalating pressure on the tech giants to curb what his administration termed overreach. The message was clear: control over the digital narrative would not go unchallenged. The gatekeepers of the internet, once anonymous arbiters, found their future entry into the nation significantly constrained.",
         "originalSource": "The Washington Post",
-        "publishedTime": "12 hours ago"
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-3",
+        "headline": "The Golden Ticket to Gridiron Glory",
+        "content": "The tension was palpable as the final College Football Playoff bracket flashed across screens nationwide. A collective gasp, then a roar of celebration: Miami, against all odds, snatched the coveted last spot in the expanded 12-team tournament, leaving Notre Dame sidelined. Powerhouses like Indiana, Ohio State, Georgia, and Texas Tech earned crucial first-round byes, a strategic advantage in the impending battle. December 19th loomed, marking the start of a new era. The Golden Ticket was claimed, setting the stage for a dramatic quest for collegiate gridiron supremacy, where every snap could rewrite history.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-4",
+        "headline": "Shadows of Deceit and a Crisis of Trust",
+        "content": "The murmur of the alleged Somali fraud case grew louder, threatening to entangle more than just finances. Representative Ilhan Omar voiced a stark warning: should any link to terrorism emerge, it would signify an profound \"failure of the FBI.\" Her words hung heavy, implying that such a connection, if proven, would shatter public trust in the bureau's vigilance. The investigation’s threads were still unspooling, but the stakes were clear. Beyond the monetary theft, a deeper concern loomed: the integrity of national security, and the agency tasked with safeguarding it, now under intense scrutiny.",
+        "originalSource": "CBS News",
+        "publishedTime": "Latest"
+      },
+      {
+        "id": "story-1765139788000-5",
+        "headline": "The Last Phantom in the Cypress Swamps",
+        "content": "Three shadows had slipped through the correctional facility’s bars, dissolving into the Louisiana night. Two were recaptured, their brief taste of freedom extinguished. But one, the last phantom, remained elusive. Law enforcement officials, weary but relentless, continued their massive manhunt. The bayous whispered tales of escape, the cypress swamps offering endless cover. Every rustle, every distant cry, heightened the tension. The state held its breath, knowing that until the final fugitive was apprehended, the shadow of unpunished liberty would linger, a persistent challenge to order beneath the humid sky.",
+        "originalSource": "The Guardian",
+        "publishedTime": "5 hours ago"
       }
     ]
   }
