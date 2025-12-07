@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765140444290,
+  "timestamp": 1765141444275,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765140369283-0",
-        "headline": "President Trump's Transactional Pardon Scheme Undermines Justice and Political Integrity",
-        "content": "The true motivations behind President Trump's executive clemency are again under scrutiny after a pardoned Democrat refused to switch parties, revealing a troubling expectation of political loyalty over genuine reform or justice. This incident exposes a systemic issue where presidential powers, intended for fairness, can be weaponized for partisan advantage, further eroding public trust in institutions.",
+        "id": "story-1765141368877-0",
+        "headline": "Presidential Pardons Raise Concerns About Political Loyalty Over Justice as President Trump Criticizes Democrat.",
+        "content": "This incident highlights the problematic intersection of presidential power, political influence, and the justice system. The public criticism from President Trump regarding Representative Henry Cuellar's decision to remain a Democrat, following a pardon for federal bribery charges, fuels concerns that clemency may be used as a political tool rather than solely for justice. This suggests a troubling expectation of partisan loyalty in exchange for executive actions, undermining the integrity of both the pardon process and representative democracy itself.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "4h ago"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765140369284-1",
-        "headline": "Louisiana's Failing Carceral System Highlights Systemic Issues as Inmate Remains at Large",
-        "content": "The ongoing search for the final escaped inmate in Louisiana draws critical attention to the deeply flawed and often underfunded carceral system that contributes to such incidents. Rather than solely focusing on apprehension, a progressive lens demands examination of the systemic conditions within correctional facilities, including overcrowding, understaffing, and inadequate rehabilitation programs, which often create environments ripe for despair and attempts to escape a broken system.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "5h ago"
-      },
-      {
-        "id": "story-1765140369284-2",
-        "headline": "World Cup 2026 Schedule Revealed, Prompting Scrutiny of Social and Economic Impacts",
-        "content": "As FIFA releases the extensive schedule for the 2026 Men's World Cup across North America, it is imperative to shift focus from mere sporting anticipation to the profound social and economic implications for host communities. The spectacle of global football must not overshadow critical concerns regarding potential gentrification, the exploitation of low-wage workers in event preparation, and the environmental footprint of such a massive international event, demanding equitable and sustainable planning.",
+        "id": "story-1765141368877-1",
+        "headline": "Supreme Court to Examine Presidential Authority to Undermine Independent Agency Oversight.",
+        "content": "The nation's highest court will soon tackle a critical case defining the boundaries of presidential authority, particularly regarding the ability to dismiss officials from independent agencies. This pivotal dispute originated from President Trump’s attempt to remove Federal Trade Commission member Rebecca Kelly Slaughter without establishing cause, directly challenging a nearly century-old legal standard. This precedent was established precisely to shield these vital regulatory bodies from partisan political pressure, ensuring they can function impartially to protect public interests against corporate power and market abuses. The outcome could significantly impact the checks and balances designed to maintain governmental integrity.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
-        "publishedTime": "Saturday"
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-to-hear-major-test-of-presidential-power-over-trumps-firing-of-ftc-commissioner/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765140369284-3",
-        "headline": "Disturbing Video Raises Urgent Questions About US Military Accountability and Rules of Engagement",
-        "content": "Horrifying newly released video footage depicting survivors of an initial US airstrike clinging to wreckage for a full hour before a second, deadly attack demands immediate and thorough investigation into military conduct and accountability. This incident shines a harsh light on systemic failures in rules of engagement, ethical oversight, and the devastating human cost of unchecked military operations, necessitating transparent inquiries and justice for victims.",
+        "id": "story-1765141368877-2",
+        "headline": "Data Exposes How ICE Targets Immigrants Without Criminal Records, Contradicting Official Statements.",
+        "content": "Recent data from the Department of Homeland Security reveals a disturbing trend: nearly 75,000 individuals apprehended by Immigration and Customs Enforcement (ICE) during the administration's initial nine months possessed no prior criminal records. This stark statistic directly refutes government claims that enforcement efforts are solely focused on \"the worst of the worst.\" Critics argue that these figures underscore a systemic issue within ICE, demonstrating an overreach that disrupts families and communities, rather than addressing serious criminal threats. Such actions raise serious human rights concerns and highlight the need for a more humane and equitable approach to immigration enforcement.",
+        "originalSource": "NBC News",
+        "sourceUrl": "https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765141368877-3",
+        "headline": "Global Unity Through Sport: 2026 Men's World Cup Schedule Reveals Path for Host Nations.",
+        "content": "FIFA has unveiled the extensive 104-match schedule for the 2026 Men's World Cup, spanning 16 host cities across the United States, Mexico, and Canada. This monumental event promises an opportunity for cultural exchange and international solidarity as the US Men's National Team's initial opponents and venues for their three group-stage games have been confirmed. The eagerly awaited World Cup Final is set to culminate at MetLife Stadium in New Jersey, showcasing how collective global endeavors can bring diverse communities together through the shared passion of sport.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/2026-fifa-mens-world-cup-schedule-is-released-heres-the-usas-path-group-matchups-and-full-fixtures/",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1765141368877-4",
+        "headline": "Powerful Earthquake Strikes Remote Border Region, Highlighting Natural Forces' Unpredictability.",
+        "content": "A significant magnitude-7.0 earthquake recently shook a sparsely populated wilderness region along the Alaska-Canada border. While the tremor was potent, official reports confirm that the remote nature of the affected area prevented immediate accounts of widespread structural damage, injuries, or the issuance of any subsequent tsunami alerts. This event serves as a stark reminder of the planet's powerful geological forces and the importance of robust infrastructure and community preparedness in regions susceptible to natural disasters.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765141368877-5",
+        "headline": "Louisiana Prison Break Raises Urgent Questions About Systemic Failures and Incarceration Conditions.",
+        "content": "Louisiana authorities are intensifying their search for the remaining inmate at large after a dramatic prison break, which saw three prisoners escape by reportedly dislodging a concrete panel and scaling a wall with bedsheets. This incident marks the second major jailbreak in the state within a year, drawing critical attention to the deeper systemic issues within the carceral system. Such events often highlight concerns about underfunded facilities, overcrowding, and inadequate conditions that necessitate a broader conversation about criminal justice reform and the rehabilitation-focused approaches needed to prevent such occurrences and improve public safety.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-4",
-        "headline": "A Family Challenges the White House Narrative on Immigration Enforcement and Human Dignity",
-        "content": "The mother of Republican Karoline Leavitt's nephew has bravely come forward to dispute the official White House narrative regarding her nephew's recent ICE arrest, underscoring critical issues within the nation's immigration enforcement system. This personal account directly challenges the often-dehumanizing governmental portrayal of detention, highlighting the urgent need for a more compassionate and equitable immigration policy that respects individual rights and addresses systemic injustices rather than relying on misleading political rhetoric.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-5",
-        "headline": "College Football Playoff Selection Highlights Systemic Issues in Collegiate Athletics",
-        "content": "The contentious finalization of the College Football Playoff bracket, with Miami controversially selected over Notre Dame, lays bare deeper systemic issues within collegiate athletics beyond mere fan debate. This decision underscores the immense financial pressures and potential biases influencing selection committees, raising critical questions about the exploitation of unpaid student-athletes, the commercialization of higher education, and the fundamental fairness and transparency of a system increasingly prioritizing profit and entertainment over educational values and equitable competition.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.theguardian.com/us-news/us-crime",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765140369283-0",
-        "headline": "Trump slams 'lack of loyalty' after pardoned Democrat says he won't change party.",
-        "content": "A Democrat who received a pardon from President Trump has publicly stated he will not switch parties, prompting a sharp reaction from the president. Trump reportedly criticized the politician for a \"lack of loyalty\" following the executive clemency, escalating tensions between the two political figures.",
+        "id": "story-1765141368877-0",
+        "headline": "Trump slams 'lack of loyalty' after pardoned Democrat says he won't change party",
+        "content": "Donald Trump publicly criticized Democrat Rep. Henry Cuellar (TX) for choosing to run for re-election as a Democrat just days after receiving a presidential pardon for federal bribery charges. Trump expressed his disappointment on social media, stating the move showed a \"lack of LOYALTY,\" implying he expected the congressman to switch parties or offer political support in exchange for the clemency.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "4h ago"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765140369284-1",
-        "headline": "Louisiana officials continue search for last of three escaped inmates.",
-        "content": "Authorities in Louisiana are actively searching for the final remaining inmate from a group of three who recently escaped from custody. The search effort involves multiple agencies as they attempt to locate and apprehend the individual who has been at large for several hours since the break.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "5h ago"
-      },
-      {
-        "id": "story-1765140369284-2",
-        "headline": "2026 FIFA Men's World Cup schedule released. The USA's path and full fixtures.",
-        "content": "FIFA has officially unveiled the full match schedule for the 2026 Men's World Cup, which will feature 104 matches across 11 US cities, along with sites in Mexico and Canada. The release details the US national team's specific path and all group-stage fixtures for the highly anticipated tournament.",
+        "id": "story-1765141368877-1",
+        "headline": "Supreme Court to hear major test of presidential power over Trump's firing of FTC commissioner",
+        "content": "The Supreme Court is set to hear a landmark case that will test the limits of presidential power concerning the firing of officials in independent agencies. The dispute stems from President Trump’s attempt to fire Federal Trade Commission member Rebecca Kelly Slaughter without cause, challenging a 90-year-old legal precedent designed to insulate such agencies from political pressure.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
-        "publishedTime": "Saturday"
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-to-hear-major-test-of-presidential-power-over-trumps-firing-of-ftc-commissioner/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765140369284-3",
-        "headline": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows.",
-        "content": "Newly released video footage appears to show survivors of an initial US airstrike clinging to boat wreckage for approximately one hour before a subsequent, deadly attack occurred. The incident raises further questions and scrutiny regarding the rules of engagement and the conduct of the military operation in question.",
+        "id": "story-1765141368877-2",
+        "headline": "ICE has arrested nearly 75,000 people with no criminal records, new data shows",
+        "content": "New data released from the Department of Homeland Security reveals that nearly 75,000 individuals arrested by Immigration and Customs Enforcement (ICE) in the first nine months of the administration had no prior criminal records. Critics argue that the figures contradict the government's rhetoric of strictly targeting undocumented immigrants who are considered \"the worst of the worst.\"",
+        "originalSource": "NBC News",
+        "sourceUrl": "https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765141368877-3",
+        "headline": "2026 FIFA Men's World Cup schedule is released, detailing USA's path and full fixtures",
+        "content": "FIFA announced the full 104-match schedule for the 2026 Men's World Cup across the 16 host cities in the US, Mexico, and Canada. The US Men's National Team's opponents and locations for their three group-stage games were confirmed, while the highly anticipated World Cup Final match is officially slated to take place at MetLife Stadium in New Jersey.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/2026-fifa-mens-world-cup-schedule-is-released-heres-the-usas-path-group-matchups-and-full-fixtures/",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1765141368877-4",
+        "headline": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
+        "content": "A powerful magnitude-7.0 earthquake struck a sparsely populated area near the border between Alaska and the Canadian territory of Yukon on Saturday. Officials confirmed that despite the high magnitude of the tremor, the area's remoteness meant there were no immediate reports of significant structural damage, injuries, or any subsequent tsunami warnings issued.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765141368877-5",
+        "headline": "Louisiana officials continue search for last of three escaped inmates",
+        "content": "Authorities in Louisiana are maintaining an intense search for the final inmate who remains at large following a dramatic prison break. The three prisoners escaped the facility by allegedly removing a concrete panel and using bedsheets to climb down the wall, marking the second significant jailbreak to occur in the state within the last year.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-4",
-        "headline": "Mom of Karoline Leavitt's nephew rejects White House narrative of her ICE arrest.",
-        "content": "The mother of Republican Karoline Leavitt's nephew has publicly contradicted the White House's official account of the nephew's recent arrest by ICE. The exclusive report presents a conflicting view of the circumstances surrounding the detention, adding fuel to an ongoing political dispute over immigration policy and enforcement.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-5",
-        "headline": "College Football Playoff bracket is set: Miami gets final spot over Notre Dame.",
-        "content": "The highly anticipated College Football Playoff bracket has been finalized, with the Miami Hurricanes securing the fourth and final spot for the championship tournament. The selection committee's controversial decision saw Miami chosen over Notre Dame, sparking immediate debate among college football fans and analysts nationwide.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.theguardian.com/us-news/us-crime",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765140369283-0",
-        "headline": "President Trump Rightfully Condemns Disloyal Democrat Who Spurns Generous Pardon.",
-        "content": "President Trump, in a display of commendable executive power, extended a pardon to a Democrat, offering a chance for reconciliation and a fresh start. Yet, in a predictable act of political stubbornness and clear lack of gratitude, this individual has declared an unwillingness to abandon partisan allegiances. Such actions demonstrate a profound lack of loyalty and underscore the entrenched resistance to unity from certain elements of the political establishment, even when offered a hand of grace by our President.",
+        "id": "story-1765141368877-0",
+        "headline": "President Trump Highlights Troubling Disloyalty From Pardoned Democrat Congressman",
+        "content": "President Trump publicly expressed strong criticism of Democrat Rep. Henry Cuellar (TX) for his decision to seek re-election as a Democrat, mere days after receiving a presidential pardon for serious federal bribery charges. President Trump conveyed his clear disappointment on social media, emphasizing that this move showcased a deeply concerning \"lack of LOYALTY.\" This sentiment implied an expectation for the congressman to either change parties or provide meaningful political support in gratitude for the clemency extended.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "4h ago"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765140369284-1",
-        "headline": "Law Enforcement Relentlessly Pursues Final Escaped Inmate, Demanding Accountability.",
-        "content": "Louisiana authorities are now in a determined pursuit of the last remaining criminal who brazenly escaped custody, threatening public safety and undermining the rule of law. This alarming incident highlights the critical need for unwavering commitment to law and order, ensuring that dangerous individuals are swiftly apprehended and returned to their rightful place behind bars. Our communities deserve to be safe from such threats, and vigorous action is paramount to restoring confidence in our justice system.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "5h ago"
-      },
-      {
-        "id": "story-1765140369284-2",
-        "headline": "America Prepares to Host World Cup, Showcasing National Spirit and Sporting Excellence.",
-        "content": "The much-anticipated schedule for the 2026 Men's World Cup has been unveiled, with the United States proudly poised to host a significant portion of this global event across numerous American cities. This presents a tremendous opportunity to showcase our nation's spirit, organizational prowess, and love for competitive sport on the world stage. We look forward to cheering on our national team and celebrating the unifying power of athletic competition within our borders.",
+        "id": "story-1765141368877-1",
+        "headline": "Supreme Court to Address Vital Presidential Authority in Challenging Bureaucratic Overreach",
+        "content": "The Supreme Court is poised to hear a pivotal case that will critically examine the proper limits of presidential power, specifically concerning the ability to dismiss officials serving in independent agencies. This significant dispute originates from President Trump’s efforts to remove Federal Trade Commission member Rebecca Kelly Slaughter without citing cause. This action directly challenges a nearly century-old legal precedent, which has controversially sought to insulate such agencies from necessary political accountability and executive oversight.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
-        "publishedTime": "Saturday"
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-to-hear-major-test-of-presidential-power-over-trumps-firing-of-ftc-commissioner/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765140369284-3",
-        "headline": "Disturbing Footage Prompts Calls for Thorough Review of Military Engagement Protocols.",
-        "content": "Newly released video footage depicting survivors of an initial U.S. airstrike before a subsequent, deadly engagement demands immediate and comprehensive scrutiny. While our military operates to protect our nation's interests, every incident involving potential civilian casualties warrants a thorough investigation to ensure that our brave servicemen and women are always upholding the highest standards of conduct and adhering strictly to established rules of engagement, safeguarding both our strategic objectives and our moral standing.",
+        "id": "story-1765141368877-2",
+        "headline": "ICE Enforcement Data Underscores Need for Secure Borders and Rule of Law",
+        "content": "Recently released data from the Department of Homeland Security indicates that nearly 75,000 individuals apprehended by Immigration and Customs Enforcement (ICE) during the initial nine months of the current administration had no prior criminal records. While some critics argue these figures contradict rhetoric focusing on the 'worst of the worst,' these arrests demonstrate ICE's unwavering commitment to upholding national sovereignty and enforcing immigration laws for all who are present in the country unlawfully, regardless of other criminal history. Maintaining the rule of law at our borders is paramount to national security.",
+        "originalSource": "NBC News",
+        "sourceUrl": "https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765141368877-3",
+        "headline": "United States Prepares to Proudly Host Prestigious 2026 Men's World Cup",
+        "content": "FIFA has officially unveiled the comprehensive 104-match schedule for the highly anticipated 2026 Men's World Cup, set to be hosted across 16 vibrant cities in the United States, Mexico, and Canada. The specific opponents and locations for the US Men's National Team’s three crucial group-stage games have been confirmed. Furthermore, the eagerly awaited World Cup Final match is now officially scheduled to culminate at the iconic MetLife Stadium in New Jersey, promising an economic boon and a grand display of American hosting prowess.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/2026-fifa-mens-world-cup-schedule-is-released-heres-the-usas-path-group-matchups-and-full-fixtures/",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1765141368877-4",
+        "headline": "Powerful Earthquake Strikes Remote Alaska-Canada Border Region, Limited Impact Reported",
+        "content": "A substantial magnitude-7.0 earthquake recently impacted a sparsely populated area situated along the border between Alaska and Canada's Yukon territory on Saturday. Authorities have confirmed that, despite the significant tremor, the extremely remote nature of the region fortunately resulted in no immediate reports of major structural damage, injuries, or the activation of any subsequent tsunami warnings. The ruggedness of the land and its sparse population mitigated potential widespread disruption.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765141368877-5",
+        "headline": "Louisiana Authorities Intensify Manhunt for Escaped Inmate Amid Public Safety Concerns",
+        "content": "Authorities in Louisiana are currently engaged in an intensive manhunt for the last remaining inmate still at large following a brazen prison break. Three prisoners managed to escape the correctional facility by reportedly removing a concrete panel and utilizing bedsheets to scale down the exterior wall. This incident tragically marks the second significant jailbreak to occur within the state over the past year, raising serious questions about the security of correctional facilities and public safety across Louisiana.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-4",
-        "headline": "Family Challenges White House's False Narrative on ICE Arrest, Demanding Truth.",
-        "content": "The mother of Republican Karoline Leavitt's nephew has bravely come forward, publicly refuting the White House's dubious account of her nephew's recent arrest by Immigration and Customs Enforcement. This stark contradiction exposes a troubling pattern of official narratives clashing with reality, underscoring the vital importance of transparency and truth in government. Proper immigration enforcement is a cornerstone of national sovereignty, and the American people deserve an honest accounting of how these policies are being carried out, free from political spin.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-5",
-        "headline": "College Football Playoff Decision Sparks Debate, Raising Questions of Fairness.",
-        "content": "The finalized College Football Playoff bracket has ignited fervent debate, as the Miami Hurricanes controversially secured the final coveted spot over Notre Dame. Such decisions, while often subjective, underscore the critical need for transparent and consistently applied criteria in determining who earns the right to compete at the highest levels. The integrity of our beloved collegiate sports demands a process rooted in merit and fair competition, ensuring that outcomes reflect true athletic excellence.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.theguardian.com/us-news/us-crime",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765140369283-0",
-        "headline": "President Trump Reportedly Stunned as Pardoned Democrat Fails to Immediately Tattoo \"Trump 2024\" on Forehead, Cites \"Unprecedented Disloyalty.\"",
-        "content": "In a move that shocked exactly no one and everyone simultaneously, a Democrat recently blessed with a presidential pardon from President Trump has committed the ultimate political faux pas: refusing to switch parties. Sources close to the White House suggest President Trump was reportedly \"absolutely flabbergasted\" by the politician's decision, having apparently assumed the executive clemency came with a free change-of-address form for the Republican National Committee. \"I gave him a pardon!\" President Trump reportedly exclaimed, \"What more does a guy have to do to earn a little common decency and a complete ideological realignment?\" Analysts are now questioning if future pardons will require a signed oath of allegiance, a mandatory MAGA hat, and a deep, soul-searching reevaluation of one's entire life philosophy.",
+        "id": "story-1765141368877-0",
+        "headline": "President Trump Stunned, Absolutely Gobsmacked, That Pardoned Democrat Didn't Immediately Brandish 'Team Trump' Flag",
+        "content": "In a development that has left observers utterly flabbergasted, President Trump took to his favorite digital soapbox today to express his profound disappointment after a recently pardoned Democrat, Rep. Henry Cuellar, chose the audacity of remaining a Democrat. 'The lack of LOYALTY is frankly BREATHTAKING,' President Trump declared, apparently operating under the charming assumption that a presidential pardon for federal bribery charges came with an automatic, non-negotiable party-switch clause and a lifetime supply of 'Make America Great Again' hats. Sources close to the situation (a particularly confused pigeon) confirm that President Trump was reportedly seen practicing new handshakes, presumably for the congressman's imagined immediate defection to the MAGA ranks, which now sit unused.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "4h ago"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765140369284-1",
-        "headline": "Louisiana Authorities Confirm Remaining Escapee Now Considered Official State Mascot After Prolonged Disappearance.",
-        "content": "Law enforcement officials in Louisiana confirmed today that the ongoing search for the final inmate from a recent, highly publicized three-person prison break has entered its \"legendary\" phase. After several hours of intensive, yet ultimately fruitless, searching, authorities admitted the last escapee has likely achieved a level of local infamy usually reserved for cryptids or especially elusive Mardi Gras beads. \"We've checked all the usual spots: the swamp, the Wal-Mart, and that one guy's backyard where he keeps all the flamingos,\" stated Sheriff Beau 'Cajun' Dubois, wiping sweat from his brow. \"At this point, we're considering putting his face on a milk carton, but only if we can find a milk carton big enough for his ego.\" The public is advised to be on the lookout for anyone suspiciously enjoying their freedom too much.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "5h ago"
-      },
-      {
-        "id": "story-1765140369284-2",
-        "headline": "World Cup 2026 Schedule Revealed: America Excited to Pretend to Care About Soccer for an Entire Month.",
-        "content": "FIFA, in a stunning act of global cooperation, has finally dropped the highly anticipated 2026 Men's World Cup schedule, promising an exhausting 104 matches across the United States, Mexico, and Canada. American fans, long-renowned for their casual interest in \"the football where you use your feet,\" are reportedly gearing up to passionately discuss formations, offside rules, and the existential dread of penalty shootouts for approximately 30 days straight. \"I'm just really excited to learn about all the different countries,\" commented one fan, gesturing vaguely at a map. \"And also, the snack bar options at the stadiums are going to be amazing.\" Experts predict a nationwide surge in faux-expertise and hastily purchased team jerseys, only to return to regular programming immediately after the final whistle.",
+        "id": "story-1765141368877-1",
+        "headline": "President Trump's Divine Right to Fire Anyone for Any Reason Heads to Supreme Court, Nation Holds Breath for Constitutional Rewriting",
+        "content": "The Supreme Court is reportedly dusting off its most ancient legal texts in preparation for a truly monumental case that asks: 'Just how much presidential power is *enough* presidential power?' The legal brouhaha erupted after President Trump, with all the casual authority of a king dismissing a jester, attempted to fire Federal Trade Commission member Rebecca Kelly Slaughter for the crime of, well, existing in an independent agency he didn't personally appoint to sing his praises. This audacious move challenges a paltry 90-year-old precedent designed to keep these agencies from becoming glorified presidential fan clubs. Legal scholars are already updating their textbooks to include 'Because I Said So' as a potentially valid constitutional argument.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
-        "publishedTime": "Saturday"
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-to-hear-major-test-of-presidential-power-over-trumps-firing-of-ftc-commissioner/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765140369284-3",
-        "headline": "Military Unveils New \"Double-Tap Doctrine\" After Survivors of Initial Airstrike Found Lingering Impolitely.",
-        "content": "Disturbing new video evidence has surfaced, revealing that survivors of a recent US airstrike had the audacity to cling to boat wreckage for a full hour before a subsequent, \"more thorough\" attack. Military strategists are reportedly \"perplexed\" by this unexpected resilience, which apparently disrupted standard operational protocols. \"Our intelligence clearly indicated that after the initial explosive event, all lingering would cease,\" a Pentagon spokesperson stated, adjusting their tie. \"The fact that individuals continued to inconveniently exist for an extended period suggests a critical flaw in our 'assume immediate incapacitation' metric.\" New guidelines are reportedly being drafted to ensure future strikes are conducted with an added layer of \"persuasiveness\" to prevent any further inconvenient post-strike lingering.",
+        "id": "story-1765141368877-2",
+        "headline": "ICE Praised for Bravely Apprehending 'Worst of the Worst' After Data Reveals 75,000 'Criminals' With Spotless Records",
+        "content": "In a stunning display of efficiency that has redefined the very concept of 'criminality,' Immigration and Customs Enforcement (ICE) has been lauded for apprehending nearly 75,000 individuals who, according to new government data, possessed the insidious 'criminal record' of having absolutely no criminal record. Critics, clearly missing the point, mumbled something about these figures contradicting the administration's valiant rhetoric of targeting only 'the worst of the worst.' But sources within ICE (a slightly chipped coffee mug) confirmed that these 'non-criminals' were clearly just too good at hiding their misdeeds, or perhaps their very existence was the most heinous crime of all.",
+        "originalSource": "NBC News",
+        "sourceUrl": "https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765141368877-3",
+        "headline": "World Cup 2026 Schedule Unveiled, Promising 104 Games of Existential Dread and Eventual American Soccer Acceptance",
+        "content": "FIFA, in a move that signals the slow but inevitable global takeover of actual football (the one with the round ball), has graciously unveiled the full 104-match schedule for the 2026 Men's World Cup. Prepare yourselves, citizens of the US, Mexico, and Canada, for 16 host cities to be utterly engulfed in a tidal wave of fandom, overpriced merchandise, and the nagging suspicion that your country might not win. The US Men's National Team, bravely facing their group-stage opponents and locations, is reportedly practicing their 'surprised to be here' faces for the inevitable early exit. The grand finale, a spectacle of athletic prowess and corporate sponsorship, is officially slated for MetLife Stadium in New Jersey, proving once and for all that soccer can indeed make it in America, as long as it's near a major metropolitan area with good public transport.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/2026-fifa-mens-world-cup-schedule-is-released-heres-the-usas-path-group-matchups-and-full-fixtures/",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1765141368877-4",
+        "headline": "Massive 7.0 Earthquake Generates Zero Casualties, Confirmed to Have Only Upset A Bear And Its Berries",
+        "content": "In a seismic event that has left geologists scratching their heads and bears grumbling, a colossal magnitude-7.0 earthquake recently rocked a patch of wilderness so remote along the Alaska-Canada border that it reportedly sent precisely zero tweets. Officials confirmed, with a hint of disappointment, that despite the sheer power of the tremor, the area's population density (roughly 'one startled moose per square mile') meant there were no immediate reports of structural damage, human injuries, or even a single dropped artisanal coffee. Experts theorize the greatest casualty was a particular family of squirrels whose carefully hoarded nut stash experienced an unexpected, albeit temporary, re-distribution.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765141368877-5",
+        "headline": "Louisiana Prison System Dubbed 'Escape Room Capital' After Second Daring Breakout in a Year",
+        "content": "Louisiana authorities are reportedly combing the entire state, including under several particularly sturdy couch cushions, in their ongoing search for the final inmate still at large after what can only be described as a rather enthusiastic prison break. The three enterprising individuals allegedly executed their grand escape by meticulously 'removing a concrete panel' – a maneuver previously thought to be impossible without a full demolition crew and a signed permit – before gracefully rappelling down the wall with bedsheets. This latest Houdini act marks the second 'significant jailbreak' in Louisiana within the last year, leading many to speculate that the state's correctional facilities are now secretly sponsored by local 'Escape Room' businesses as a marketing stunt.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-4",
-        "headline": "Relative's Arrest By ICE Now Officially A Full-Blown Political Rorschach Test, White House Says.",
-        "content": "The mother of Republican Karoline Leavitt's nephew has bravely stepped forward to contradict the White House's intricate narrative regarding her nephew's recent ICE arrest, because apparently, even family squabbles must now be vetted by presidential press secretaries. This exclusive counter-narrative has plunged the nation into a fresh crisis of 'who-said-what-about-whom' in an incident that originally involved a single individual and a pair of handcuffs. Political pundits are reportedly scrambling to craft new talking points, wondering if the nephew's favorite color or preferred breakfast cereal will soon become key evidence in the ongoing ideological battle over immigration policy, personal responsibility, and the sacred right to have one's relatives arrested without excessive White House spin.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-5",
-        "headline": "College Football Playoff Committee Reportedly Used Crystal Ball, Gut Feeling, And A Coin Flip To Select Miami Over Notre Dame.",
-        "content": "The highly revered College Football Playoff committee has once again proven its uncanny ability to ignite nationwide outrage, securing the fourth and final championship spot for the Miami Hurricanes over the perpetually hopeful Notre Dame Fighting Irish. Sources close to the committee (read: \"anyone with a Twitter account\") suggest the decision-making process involved a complex algorithm factoring in everything from strength of schedule to the aesthetic appeal of team uniforms, culminating in a dramatic \"rock-paper-scissors\" tie-breaker. Fans across the nation are currently engaged in the sacred autumnal ritual of proclaiming the entire system rigged, with Notre Dame supporters already filing formal complaints to the Hague and threatening to boycott all future televised sporting events, except for their own.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.theguardian.com/us-news/us-crime",
+        "publishedTime": "5 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765140369283-0",
-        "headline": "President Trump Gets Mad When Pardoned Guy Stays a Democrat",
-        "content": "So, President Trump helped out a Democrat by saying he wouldn't get in trouble anymore (that's a pardon!). But then the Democrat said he still wanted to be a Democrat, not a Republican like President Trump. President Trump was not happy about this and said it wasn't fair because the guy wasn't \"loyal\" after he helped him. It sounds like they are not getting along!",
+        "id": "story-1765141368877-0",
+        "headline": "President Trump Is Mad About a Politician's Choice",
+        "content": "President Trump helped a politician named Henry Cuellar get out of trouble with the law. But then, Henry Cuellar decided to stay in his old political group, the Democrats, instead of joining President Trump's group. President Trump posted online that he was really disappointed because he thought Henry Cuellar wasn't being loyal to him. It seems like President Trump thought Henry Cuellar should have helped him back after getting the pardon.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "4h ago"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765140369284-1",
-        "headline": "Police are Still Looking for One More Escaped Person",
-        "content": "Three people got away from jail in Louisiana, but the police caught two of them already. Now, lots of police officers from different groups are still trying to find the last person who is still out there. They've been searching for hours to bring him back.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "5h ago"
-      },
-      {
-        "id": "story-1765140369284-2",
-        "headline": "We Finally Know When the Big Soccer World Cup Games Will Be!",
-        "content": "Guess what? FIFA, which is like the boss of soccer, just told everyone the full plan for the 2026 Men's World Cup! There will be a super lot of games, 104 in total, played in many cities in the USA, and also in Mexico and Canada. We even know exactly when and where the USA team will play their games. It's going to be so exciting!",
+        "id": "story-1765141368877-1",
+        "headline": "The Highest Court Will Decide How Much Power a President Has",
+        "content": "America's most important court, the Supreme Court, is going to hear a big case. This case is all about how much power President Trump, and future presidents, have to fire people who work in special government groups. President Trump tried to fire someone named Rebecca Kelly Slaughter from a group called the Federal Trade Commission, which helps make sure businesses play fair. This is important because there's a really old rule, from 90 years ago, that says presidents usually can't just fire these people whenever they want, so they can do their jobs without political pressure.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
-        "publishedTime": "Saturday"
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-to-hear-major-test-of-presidential-power-over-trumps-firing-of-ftc-commissioner/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765140369284-3",
-        "headline": "A Video Shows People Survived First Attack But Then Were Hit Again",
-        "content": "There's a new video that shows something really sad. After a USA airplane attacked, some people were still alive and were holding onto parts of their broken boat in the water for about an hour. But then, the video seems to show that another attack happened right after, and this one was even worse. This makes people wonder if everything was done correctly in the first place.",
+        "id": "story-1765141368877-2",
+        "headline": "Many People Arrested By ICE Had No Criminal Past",
+        "content": "A new report shows that a government group called ICE, which deals with immigration, arrested almost 75,000 people. The surprising part is that these people didn't have any criminal history or bad records. Some people are saying this doesn't match what the government usually says, which is that they only go after immigrants who are \"the worst of the worst\" criminals.",
+        "originalSource": "NBC News",
+        "sourceUrl": "https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765141368877-3",
+        "headline": "The Soccer World Cup Schedule Is Now All Ready",
+        "content": "Good news for soccer fans! FIFA, the big soccer organization, has shared all the dates and places for the 2026 Men's World Cup. There will be 104 games played in 16 different cities across America, Mexico, and Canada. We now know who the U.S. Men's team will play against and where their first three games will be. And guess what? The super important final game will be played in New Jersey at MetLife Stadium!",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/2026-fifa-mens-world-cup-schedule-is-released-heres-the-usas-path-group-matchups-and-full-fixtures/",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1765141368877-4",
+        "headline": "A Very Big Earthquake Hit a Quiet Place",
+        "content": "A really strong earthquake, a 7.0 on the scale, shook a place where not many people live. This happened near the edge of Alaska and Canada. Even though it was a super big earthquake, officials said that because it was in such a remote area, there weren't any big reports of buildings breaking, people getting hurt, or dangerous ocean waves (tsunamis) coming after it. That's a relief!",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765141368877-5",
+        "headline": "Police Are Still Looking For an Escaped Prisoner",
+        "content": "Police in Louisiana are working hard to find one last person who escaped from jail. Three prisoners got out by supposedly taking apart a concrete wall and then using bedsheets to climb down. This is the second time in just one year that a big jailbreak has happened in Louisiana.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-4",
-        "headline": "A Family Member Says the White House is Wrong About an Arrest",
-        "content": "The White House said one thing about why Karoline Leavitt's nephew was arrested by ICE (that's like the police for immigration stuff). But the nephew's mom is saying that's not true at all! She thinks the White House got it wrong, and now everyone is talking about who is right and what really happened with immigration rules.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-5",
-        "headline": "The Big College Football Games Are Set, Miami Got the Last Spot!",
-        "content": "The college football championship games are all planned out now! The Miami Hurricanes team got the very last spot to play in the big tournament. Some people are really happy, but lots of others are mad because they think Notre Dame should have gotten the spot instead of Miami. Everyone is arguing about it!",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.theguardian.com/us-news/us-crime",
+        "publishedTime": "5 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765140369283-0",
-        "headline": "A Question of Allegiance in the Halls of Power",
-        "content": "The pardon, a lifeline, came from President Trump. The Democrat, free, felt a pang of gratitude, but not enough to abandon his colors. When asked, his declaration was firm: he would not switch parties. The news reached the Oval Office like a jolt. President Trump, hearing the defiance, felt a bitter taste. He had offered clemency, expecting, perhaps, a silent allegiance. Now, a public rebuke. \"Lack of loyalty,\" he reportedly declared, the words echoing through the political arena, a clear message of expected reciprocation unfulfilled.",
+        "id": "story-1765141368877-0",
+        "headline": "The Price of Clemency",
+        "content": "The golden hand extended, offering freedom from federal charges. A pardon, issued by President Trump, saved Representative Cuellar. Many assumed a shift in allegiance would follow, a quiet defection, perhaps a public endorsement. Yet, the Democrat stood firm, announcing his re-election bid under the same banner. President Trump's social media flared with words of disappointment, echoing \"lack of LOYALTY.\" The air in Washington thickened, proving that even a presidential gesture might not sway the deepest-rooted political colors. Some bonds, it seemed, could not be bought or changed, only tested.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "4h ago"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765140369284-1",
-        "headline": "The Last Man Running from the Bayous",
-        "content": "The moon hung heavy over the Louisiana swamps, a silent witness to the frantic search. Two were caught, shackled, their brief taste of freedom gone. But one remained, a ghost in the humid night. Sirens wailed in the distance, dogs barked, and flashlights cut through the dense foliage. Every rustle of leaves, every splash in the murky water, sent a jolt through the search teams. He was out there, alone, a desperate shadow clinging to the hope of disappearing into the endless maze of bayous. The hunt intensified, a relentless pursuit for the last man running.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "5h ago"
-      },
-      {
-        "id": "story-1765140369284-2",
-        "headline": "The Pitch of Dreams for North America",
-        "content": "The calendar glowed, marking the future. FIFA’s announcement electrified soccer fans across North America: the 2026 Men’s World Cup schedule was here. One hundred and four matches, a global spectacle, spread across eleven vibrant US cities, alongside Mexico and Canada. For the US national team, their path was now clear, each group-stage fixture a stepping stone on a monumental journey. Dreams of packed stadiums, roaring crowds, and the ultimate glory suddenly felt closer, tangible. The world’s biggest tournament was not just coming; its blueprint had been laid bare, igniting a fervent anticipation.",
+        "id": "story-1765141368877-1",
+        "headline": "Echoes of Authority",
+        "content": "The marble halls of the Supreme Court braced for a seismic shift. A looming case, sparked by President Trump's attempt to dismiss Federal Trade Commission member Rebecca Kelly Slaughter without stated cause, challenged decades of legal precedent. For ninety years, independent agencies had stood, shielded from direct political whims, ensuring unbiased oversight. Now, the boundaries of presidential authority were in question. Could a president unilaterally remove officials intended to be impartial? The legal world watched, understanding this wasn't just about one firing, but the very architecture of governmental checks and balances, potentially redrawing the lines of power.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
-        "publishedTime": "Saturday"
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-to-hear-major-test-of-presidential-power-over-trumps-firing-of-ftc-commissioner/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765140369284-3",
-        "headline": "The Unseen Horrors of the Second Strike",
-        "content": "The waves cradled the splintered wood, survivors clinging desperately to the wreckage. An hour passed, agonizingly slow, after the first thunderclap from above. Hope, a fragile ember, flickered in their eyes as the sea calmed slightly. Then, the sky roared again. The newly surfaced video etched a chilling narrative: an hour of harrowing survival, followed by a second, devastating blow. Questions coiled like smoke, thick and suffocating, challenging the rules of engagement, painting a stark picture of a military operation under renewed, intense scrutiny. The unseen horrors became seen, leaving an indelible mark.",
+        "id": "story-1765141368877-2",
+        "headline": "The Unseen Harvest",
+        "content": "The official narrative spoke of predators, of a net cast for \"the worst of the worst.\" Yet, new government figures painted a different picture. Nearly seventy-five thousand lives, caught in the dragnet of Immigration and Customs Enforcement, carried no prior criminal records. These were not the hardened criminals, the dangerous elements often cited in speeches. They were mothers, fathers, workers, their only offense perhaps a broken immigration law. The data whispered a stark truth: the sweep was wider, less precise than promised, leaving a trail of quiet fear and shattered hopes in its wake, far from the intended targets.",
+        "originalSource": "NBC News",
+        "sourceUrl": "https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765141368877-3",
+        "headline": "A Nation's Roar",
+        "content": "The global footballing heart throbbed as FIFA unveiled its grand blueprint: the 2026 Men's World Cup schedule. One hundred and four matches across sixteen vibrant cities in North America, a carnival of nations. Fans poured over the details, tracing the US Men's National Team's initial path, imagining the roar of the crowd. The ultimate prize, the final whistle, was destined for MetLife Stadium in New Jersey, a crescendo of dreams. From opening kick-off to the crowning moment, the journey was now mapped, a promise of shared passion and unforgettable drama etched into the future's sporting calendar.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/2026-fifa-mens-world-cup-schedule-is-released-heres-the-usas-path-group-matchups-and-full-fixtures/",
+        "publishedTime": "20 hours ago"
+      },
+      {
+        "id": "story-1765141368877-4",
+        "headline": "The Earth's Quiet Roar",
+        "content": "Deep beneath the rugged wilderness where Alaska meets Canada's Yukon, the earth convulsed. A powerful tremor, registering a formidable magnitude 7.0, rippled through the sparsely populated landscape. Peaks shook, ancient trees swayed violently, and the ground groaned with primordial force. Yet, paradoxically, the very isolation that defines this harsh frontier became its shield. No cities crumbled, no lives were threatened. Officials confirmed the remote hit had spared humanity from its fury. The silent, vast expanse absorbed the colossal energy, leaving only a rearranged silence, a testament to nature's indifferent power and man's fortunate distance.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765141368877-5",
+        "headline": "Shadows on the Wall",
+        "content": "The Louisiana night still held its breath. Authorities relentlessly combed the swamps and highways, a phantom limb of the law reaching for the last of three escaped inmates. Their audacious flight had begun with a deliberate act of defiance: a concrete panel, painstakingly removed, then bedsheets woven into a desperate lifeline down cold stone walls. This wasn't an isolated incident; whispers of a second significant jailbreak in the state within a single year clung to the humid air. The dragnet tightened, but the elusive shadow of freedom, however brief, still danced just beyond their grasp, a chilling reminder of crumbling walls.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-4",
-        "headline": "A Mother's Truth Against the Narrative",
-        "content": "The official statement spun its neat, concise truth. But a mother’s heart knew a different story. The White House narrative of her nephew's ICE arrest was, to her, a carefully constructed façade. Karoline Leavitt’s family, now embroiled, watched as the woman spoke, her voice steady, rejecting the government’s version of events. The exclusive report laid bare the conflicting details, exposing cracks in the carefully presented official account. Immigration policy, already a volatile battleground, flared anew, fueled by a mother’s conviction that her truth must finally be heard.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765140369284-5",
-        "headline": "The Heartbreak and Elation of the Playoff",
-        "content": "The screen flashed, revealing the coveted quartet. College football held its breath. The final spot, the golden ticket to championship glory, went to Miami. A collective gasp, then a roar of debate, erupted nationwide. Notre Dame, standing on the precipice, watched their playoff dreams shatter. The selection committee’s decision, a bombshell, ignited immediate controversy among fans and analysts. One team’s jubilation was another’s heartbreak, a stark reminder of the razor-thin margins and passionate rivalries that define the sport. The bracket was set, but the arguments were just beginning.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.theguardian.com/us-news/us-crime",
+        "publishedTime": "5 hours ago"
       }
     ]
   }
