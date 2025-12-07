@@ -31,13 +31,13 @@ const NewsCard: React.FC<NewsCardProps> = ({ story, style, index }) => {
       /* Bottom border on the first row (assuming 6 items total, first 3 get bottom border) */
       md:[&:nth-child(-n+3)]:border-b-2
     `}>
-      
+
       <div className="mb-4 border-b border-slate-800 pb-2 flex justify-between items-end">
         <span className="text-[10px] font-bold tracking-widest uppercase text-slate-500">
-           Column {index + 1}
+          Column {index + 1}
         </span>
         <span className="text-[10px] font-serif italic text-slate-500">
-           {story.originalSource}
+          {story.originalSource}
         </span>
       </div>
 
@@ -53,6 +53,19 @@ const NewsCard: React.FC<NewsCardProps> = ({ story, style, index }) => {
         <span className="text-[10px] uppercase tracking-wider font-bold text-slate-400">
           {style}
         </span>
+        {story.sourceUrl && (
+          <a
+            href={story.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[10px] uppercase tracking-wider font-bold text-slate-600 hover:text-slate-900 transition-colors flex items-center gap-1"
+          >
+            Read Original Source
+            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        )}
       </div>
     </div>
   );

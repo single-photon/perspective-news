@@ -81,6 +81,7 @@ const fetchTopStories = async () => {
         "headline": "Story Headline",
         "summary": "Brief summary (40-50 words)",
         "originalSource": "News Source Name",
+        "sourceUrl": "Full URL to the original article",
         "publishedTime": "e.g. '2 hours ago'"
       }
     ]
@@ -104,6 +105,7 @@ const fetchTopStories = async () => {
         headline: item.headline || "News Alert",
         content: item.summary || item.content || "Summary unavailable.",
         originalSource: item.originalSource || 'News Wire',
+        sourceUrl: item.sourceUrl || '',
         publishedTime: item.publishedTime || 'Today',
     })).slice(0, 6);
 };
@@ -166,7 +168,8 @@ const rewriteStories = async (stories, style) => {
             ...original,
             headline: rewritten?.headline || original.headline,
             content: rewritten?.content || original.content,
-            originalSource: original.originalSource
+            originalSource: original.originalSource,
+            sourceUrl: original.sourceUrl
         };
     });
 };

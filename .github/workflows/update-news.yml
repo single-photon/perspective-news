@@ -2,8 +2,8 @@ name: Update News Content
 
 on:
   schedule:
-    # Run every hour on the hour (24 times per day)
-    - cron: '0 * * * *'
+    # Run every 2 hours on the hour (12 times per day)
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:

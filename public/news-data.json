@@ -1,268 +1,304 @@
 {
-  "timestamp": 1765133385915,
+  "timestamp": 1765140444290,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765133311043-0",
-        "headline": "President Trump's National Security Strategy Prioritizes Corporate Greed and Isolationism Over Global Cooperation",
-        "content": "This new national security strategy, introduced by President Trump, marks a troubling shift away from global collaboration towards a self-serving \"America First\" agenda. The 33-page document replaces any pretense of democracy promotion with a purely transactional approach, explicitly prioritizing corporate profit and an outdated concept of regional dominance in the Western Hemisphere. By reviving a modernized Monroe Doctrine, it signals a return to imperialistic tendencies, while its dismissal of collective defense obligations sparks significant concern among international allies and undermines global stability.",
-        "originalSource": "A Newz TV / White House",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-1",
-        "headline": "War Department Prioritizes Escalated Militarization and Divisive 'America First' Stance",
-        "content": "Secretary Pete Hegseth, speaking at the Reagan National Defense Forum, detailed a concerning new National Defense Strategy for the War Department. While claiming to avoid foreign entanglements, the strategy emphasizes restoring a \"warrior ethos\" and boosting \"American-made lethality,\" signaling a dangerous embrace of militarism and a boon for the military-industrial complex. This commitment to an \"America First\" foreign policy, championed by President Trump, risks isolating the nation and neglecting pressing global humanitarian and environmental crises, rather than fostering genuine security through diplomacy and cooperation.",
-        "originalSource": "war.gov / Associated Press",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765133311043-2",
-        "headline": "Supreme Court Agrees to Hear Case Threatening Fundamental Birthright Citizenship and Immigrant Rights",
-        "content": "The Supreme Court's decision to grant certiorari in a landmark case directly challenging the 14th Amendment's birthright citizenship provision poses a grave threat to millions and reflects a deepening attack on immigrant communities. This move by the nation's highest court sets the stage for a perilous legal battle that could unravel decades of constitutional precedent, fueling xenophobia and undermining the very fabric of inclusivity and equality that the 14th Amendment was designed to protect.",
-        "originalSource": "The Daily Guardian",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-3",
-        "headline": "President Trump's Politicized Pardon Exposes Transactional Approach to Justice, Demanding Loyalty Over Rehabilitation",
-        "content": "President Trump has publicly lambasted a recently pardoned former Democratic official for refusing to switch political parties, revealing a deeply troubling and transactional approach to presidential pardons. This egregious display of frustration underscores concerns that pardons under this administration are less about justice or rehabilitation and more about demanding political allegiance, thereby weaponizing a presidential power for partisan gain and further eroding public trust in the integrity of the justice system.",
+        "id": "story-1765140369283-0",
+        "headline": "President Trump's Transactional Pardon Scheme Undermines Justice and Political Integrity",
+        "content": "The true motivations behind President Trump's executive clemency are again under scrutiny after a pardoned Democrat refused to switch parties, revealing a troubling expectation of political loyalty over genuine reform or justice. This incident exposes a systemic issue where presidential powers, intended for fairness, can be weaponized for partisan advantage, further eroding public trust in institutions.",
         "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "4h ago"
       },
       {
-        "id": "story-1765133311043-4",
-        "headline": "College Football Playoff Finalizes 12-Team Bracket, With Miami Earning the Final Bid",
-        "content": "The selection committee has announced the finalized 12-team College Football Playoff bracket, confirming Miami secured the last at-large bid over Notre Dame. Indiana, Ohio State, Georgia, and Texas Tech will receive first-round byes, with tournament games scheduled to commence on December 19th.",
-        "originalSource": "The Washington Post",
+        "id": "story-1765140369284-1",
+        "headline": "Louisiana's Failing Carceral System Highlights Systemic Issues as Inmate Remains at Large",
+        "content": "The ongoing search for the final escaped inmate in Louisiana draws critical attention to the deeply flawed and often underfunded carceral system that contributes to such incidents. Rather than solely focusing on apprehension, a progressive lens demands examination of the systemic conditions within correctional facilities, including overcrowding, understaffing, and inadequate rehabilitation programs, which often create environments ripe for despair and attempts to escape a broken system.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "5h ago"
+      },
+      {
+        "id": "story-1765140369284-2",
+        "headline": "World Cup 2026 Schedule Revealed, Prompting Scrutiny of Social and Economic Impacts",
+        "content": "As FIFA releases the extensive schedule for the 2026 Men's World Cup across North America, it is imperative to shift focus from mere sporting anticipation to the profound social and economic implications for host communities. The spectacle of global football must not overshadow critical concerns regarding potential gentrification, the exploitation of low-wage workers in event preparation, and the environmental footprint of such a massive international event, demanding equitable and sustainable planning.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
+        "publishedTime": "Saturday"
+      },
+      {
+        "id": "story-1765140369284-3",
+        "headline": "Disturbing Video Raises Urgent Questions About US Military Accountability and Rules of Engagement",
+        "content": "Horrifying newly released video footage depicting survivors of an initial US airstrike clinging to wreckage for a full hour before a second, deadly attack demands immediate and thorough investigation into military conduct and accountability. This incident shines a harsh light on systemic failures in rules of engagement, ethical oversight, and the devastating human cost of unchecked military operations, necessitating transparent inquiries and justice for victims.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765133311043-5",
-        "headline": "Supreme Court to Examine Presidential Power Over Independent Agencies, Raising Concerns About Checks and Balances",
-        "content": "The Supreme Court is poised to review a significant case that could critically redefine presidential power over independent federal agencies, sparking widespread concern about the erosion of checks and balances. This landmark legal challenge focuses on President Trump's authority to unilaterally remove officials from bodies like the Federal Trade Commission, threatening the vital autonomy of regulatory oversight and potentially exposing these crucial institutions to undue political interference, ultimately jeopardizing their ability to protect public interests.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1765140369284-4",
+        "headline": "A Family Challenges the White House Narrative on Immigration Enforcement and Human Dignity",
+        "content": "The mother of Republican Karoline Leavitt's nephew has bravely come forward to dispute the official White House narrative regarding her nephew's recent ICE arrest, underscoring critical issues within the nation's immigration enforcement system. This personal account directly challenges the often-dehumanizing governmental portrayal of detention, highlighting the urgent need for a more compassionate and equitable immigration policy that respects individual rights and addresses systemic injustices rather than relying on misleading political rhetoric.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765140369284-5",
+        "headline": "College Football Playoff Selection Highlights Systemic Issues in Collegiate Athletics",
+        "content": "The contentious finalization of the College Football Playoff bracket, with Miami controversially selected over Notre Dame, lays bare deeper systemic issues within collegiate athletics beyond mere fan debate. This decision underscores the immense financial pressures and potential biases influencing selection committees, raising critical questions about the exploitation of unpaid student-athletes, the commercialization of higher education, and the fundamental fairness and transparency of a system increasingly prioritizing profit and entertainment over educational values and equitable competition.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765133311043-0",
-        "headline": "President Trump unveils radical new national security strategy prioritizing borders, business, and Western Hemisphere dominance.",
-        "content": "The 33-page document replaces post-Cold War democracy promotion with a transactional, \"America First\" approach centered on profit and regional dominance. It revives a modernized Monroe Doctrine and urges Europe to lead its own defense, causing controversy among allies.",
-        "originalSource": "A Newz TV / White House",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-1",
-        "headline": "Secretary of War Hegseth outlines new National Defense Strategy focused on 'Arsenal of Freedom' and avoiding foreign entanglements.",
-        "content": "Speaking at the Reagan National Defense Forum, Secretary Pete Hegseth detailed four lines of effort for the War Department. He stressed restoring \"warrior ethos,\" accountability, and American-made lethality, while committing the Trump administration to an 'America First' foreign policy.",
-        "originalSource": "war.gov / Associated Press",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765133311043-2",
-        "headline": "US Supreme Court agrees to hear major case challenging the constitutionality of birthright citizenship.",
-        "content": "The nation's highest court has granted certiorari to a landmark case that directly challenges the 14th Amendment's provision granting citizenship to nearly all people born on U.S. soil. This decision sets the stage for a significant legal battle over immigration and constitutional law.",
-        "originalSource": "The Daily Guardian",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-3",
-        "headline": "Trump slams 'lack of loyalty' after pardoned former Democratic official refuses to change political party.",
-        "content": "The President publicly criticized a recently pardoned former Democrat who had been convicted on federal charges, expressing frustration that the individual would not switch to the Republican Party. This sparked a debate on the motives behind presidential pardons.",
+        "id": "story-1765140369283-0",
+        "headline": "Trump slams 'lack of loyalty' after pardoned Democrat says he won't change party.",
+        "content": "A Democrat who received a pardon from President Trump has publicly stated he will not switch parties, prompting a sharp reaction from the president. Trump reportedly criticized the politician for a \"lack of loyalty\" following the executive clemency, escalating tensions between the two political figures.",
         "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "4h ago"
       },
       {
-        "id": "story-1765133311043-4",
-        "headline": "College Football Playoff bracket finalized; Miami secures last spot in the expanded 12-team tournament.",
-        "content": "The selection committee announced the final 12-team College Football Playoff bracket, with Miami earning the last at-large bid over Notre Dame. Indiana, Ohio State, Georgia, and Texas Tech received first-round byes, setting up games to begin on December 19th.",
-        "originalSource": "The Washington Post",
+        "id": "story-1765140369284-1",
+        "headline": "Louisiana officials continue search for last of three escaped inmates.",
+        "content": "Authorities in Louisiana are actively searching for the final remaining inmate from a group of three who recently escaped from custody. The search effort involves multiple agencies as they attempt to locate and apprehend the individual who has been at large for several hours since the break.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "5h ago"
+      },
+      {
+        "id": "story-1765140369284-2",
+        "headline": "2026 FIFA Men's World Cup schedule released. The USA's path and full fixtures.",
+        "content": "FIFA has officially unveiled the full match schedule for the 2026 Men's World Cup, which will feature 104 matches across 11 US cities, along with sites in Mexico and Canada. The release details the US national team's specific path and all group-stage fixtures for the highly anticipated tournament.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
+        "publishedTime": "Saturday"
+      },
+      {
+        "id": "story-1765140369284-3",
+        "headline": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows.",
+        "content": "Newly released video footage appears to show survivors of an initial US airstrike clinging to boat wreckage for approximately one hour before a subsequent, deadly attack occurred. The incident raises further questions and scrutiny regarding the rules of engagement and the conduct of the military operation in question.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765133311043-5",
-        "headline": "Supreme Court to hear case on presidential power regarding the firing of Federal Trade Commission officials.",
-        "content": "The Supreme Court is set to review a case that constitutes a major test of presidential power and executive branch autonomy. The case focuses on the President's authority to unilaterally remove officials from independent federal agencies like the Federal Trade Commission.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1765140369284-4",
+        "headline": "Mom of Karoline Leavitt's nephew rejects White House narrative of her ICE arrest.",
+        "content": "The mother of Republican Karoline Leavitt's nephew has publicly contradicted the White House's official account of the nephew's recent arrest by ICE. The exclusive report presents a conflicting view of the circumstances surrounding the detention, adding fuel to an ongoing political dispute over immigration policy and enforcement.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765140369284-5",
+        "headline": "College Football Playoff bracket is set: Miami gets final spot over Notre Dame.",
+        "content": "The highly anticipated College Football Playoff bracket has been finalized, with the Miami Hurricanes securing the fourth and final spot for the championship tournament. The selection committee's controversial decision saw Miami chosen over Notre Dame, sparking immediate debate among college football fans and analysts nationwide.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765133311043-0",
-        "headline": "President Trump Delivers Strong National Security Vision Prioritizing American Borders and Prosperity.",
-        "content": "President Trump has unveiled a robust 33-page national security document, boldly replacing globalist, post-Cold War doctrines with a clear 'America First' approach. This decisive strategy centers on securing our borders, fostering economic strength, and reasserting American dominance in the Western Hemisphere, echoing a modernized Monroe Doctrine. While some allies may express unease, President Trump rightly calls upon European nations to shoulder more of their own defense, ensuring American resources are focused on our vital interests.",
-        "originalSource": "A Newz TV / White House",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-1",
-        "headline": "Secretary Hegseth Fortifies Nation's Defenses with Resolute 'America First' Strategy.",
-        "content": "Speaking at the distinguished Reagan National Defense Forum, Secretary of War Pete Hegseth outlined a crucial new National Defense Strategy, signaling a return to principled strength and common sense. He emphasized restoring our military's 'warrior ethos,' demanding accountability, and ensuring American-made lethality—a true 'Arsenal of Freedom.' This unwavering commitment to an 'America First' foreign policy under President Trump will safeguard our nation by avoiding unnecessary foreign entanglements and focusing on domestic security.",
-        "originalSource": "war.gov / Associated Press",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765133311043-2",
-        "headline": "Supreme Court to Review Crucial Birthright Citizenship Precedent, Affirming National Sovereignty.",
-        "content": "The nation's highest court has wisely agreed to hear a landmark case directly challenging the prevailing interpretation of the 14th Amendment concerning birthright citizenship. This vital decision paves the way for a long-overdue examination of whether automatic citizenship for nearly all individuals born on U.S. soil truly aligns with the original intent of the Constitution and the imperative of national sovereignty, promising a significant debate on immigration law.",
-        "originalSource": "The Daily Guardian",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-3",
-        "headline": "President Trump Rightfully Challenges Unmoved Loyalty After Granting Pardon to Democrat.",
-        "content": "President Trump publicly expressed understandable frustration after a recently pardoned former Democrat, convicted on federal charges, steadfastly refused to change political parties. This incident highlights the President's expectation of loyalty and gratitude following an act of presidential mercy, prompting important questions about the motivations behind such pardons and the responsibilities of those who receive them.",
+        "id": "story-1765140369283-0",
+        "headline": "President Trump Rightfully Condemns Disloyal Democrat Who Spurns Generous Pardon.",
+        "content": "President Trump, in a display of commendable executive power, extended a pardon to a Democrat, offering a chance for reconciliation and a fresh start. Yet, in a predictable act of political stubbornness and clear lack of gratitude, this individual has declared an unwillingness to abandon partisan allegiances. Such actions demonstrate a profound lack of loyalty and underscore the entrenched resistance to unity from certain elements of the political establishment, even when offered a hand of grace by our President.",
         "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "4h ago"
       },
       {
-        "id": "story-1765133311043-4",
-        "headline": "The College Football Playoff Bracket is Finalized, Setting the Stage for Gripping Competition.",
-        "content": "The College Football Playoff committee has officially announced the final 12-team bracket, promising an exciting and competitive tournament. Miami successfully secured the last at-large bid over Notre Dame, ensuring a thrilling path to the championship. Powerhouses Indiana, Ohio State, Georgia, and Texas Tech have earned well-deserved first-round byes, with the initial games scheduled to commence on December 19th.",
-        "originalSource": "The Washington Post",
+        "id": "story-1765140369284-1",
+        "headline": "Law Enforcement Relentlessly Pursues Final Escaped Inmate, Demanding Accountability.",
+        "content": "Louisiana authorities are now in a determined pursuit of the last remaining criminal who brazenly escaped custody, threatening public safety and undermining the rule of law. This alarming incident highlights the critical need for unwavering commitment to law and order, ensuring that dangerous individuals are swiftly apprehended and returned to their rightful place behind bars. Our communities deserve to be safe from such threats, and vigorous action is paramount to restoring confidence in our justice system.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "5h ago"
+      },
+      {
+        "id": "story-1765140369284-2",
+        "headline": "America Prepares to Host World Cup, Showcasing National Spirit and Sporting Excellence.",
+        "content": "The much-anticipated schedule for the 2026 Men's World Cup has been unveiled, with the United States proudly poised to host a significant portion of this global event across numerous American cities. This presents a tremendous opportunity to showcase our nation's spirit, organizational prowess, and love for competitive sport on the world stage. We look forward to cheering on our national team and celebrating the unifying power of athletic competition within our borders.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
+        "publishedTime": "Saturday"
+      },
+      {
+        "id": "story-1765140369284-3",
+        "headline": "Disturbing Footage Prompts Calls for Thorough Review of Military Engagement Protocols.",
+        "content": "Newly released video footage depicting survivors of an initial U.S. airstrike before a subsequent, deadly engagement demands immediate and comprehensive scrutiny. While our military operates to protect our nation's interests, every incident involving potential civilian casualties warrants a thorough investigation to ensure that our brave servicemen and women are always upholding the highest standards of conduct and adhering strictly to established rules of engagement, safeguarding both our strategic objectives and our moral standing.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765133311043-5",
-        "headline": "Supreme Court to Examine President's Prerogative to Hold Bureaucrats Accountable.",
-        "content": "The Supreme Court is poised to review a pivotal case that will test the vital balance of presidential power and the autonomy of the executive branch. This significant legal challenge centers on the President's inherent authority to unilaterally remove officials from ostensibly 'independent' federal agencies like the Federal Trade Commission, ensuring accountability and preventing unelected bureaucrats from overstepping their bounds.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1765140369284-4",
+        "headline": "Family Challenges White House's False Narrative on ICE Arrest, Demanding Truth.",
+        "content": "The mother of Republican Karoline Leavitt's nephew has bravely come forward, publicly refuting the White House's dubious account of her nephew's recent arrest by Immigration and Customs Enforcement. This stark contradiction exposes a troubling pattern of official narratives clashing with reality, underscoring the vital importance of transparency and truth in government. Proper immigration enforcement is a cornerstone of national sovereignty, and the American people deserve an honest accounting of how these policies are being carried out, free from political spin.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765140369284-5",
+        "headline": "College Football Playoff Decision Sparks Debate, Raising Questions of Fairness.",
+        "content": "The finalized College Football Playoff bracket has ignited fervent debate, as the Miami Hurricanes controversially secured the final coveted spot over Notre Dame. Such decisions, while often subjective, underscore the critical need for transparent and consistently applied criteria in determining who earns the right to compete at the highest levels. The integrity of our beloved collegiate sports demands a process rooted in merit and fair competition, ensuring that outcomes reflect true athletic excellence.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765133311043-0",
-        "headline": "President Trump Declares Entire Western Hemisphere 'Property of American Business Ventures,' Considers Charging Canada Rent.",
-        "content": "In a stunning display of strategic genius, President Trump has unveiled a groundbreaking 33-page national security document that finally cuts through the pesky 'democracy promotion' nonsense. The new 'America First' strategy boldly asserts that the entire Western Hemisphere is essentially a corporate asset, ripe for profit and perhaps a future chain of Trump-branded resorts. Allies, who were reportedly 'confused' by the directive for Europe to 'just figure out its own defense' while also being 'gently reminded' of historical debts, are now bracing for the inevitable invoice from the U.S. for 'protection services' dating back to 1823. Sources close to the administration confirmed the modernized Monroe Doctrine now primarily involves securing exclusive licensing rights for tropical fruit exports.",
-        "originalSource": "A Newz TV / White House",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-1",
-        "headline": "Secretary of War Hegseth Demands All Future Weapons Be Hand-Carved from American-Mined Freedom Ore, Says Foreign Fights Are 'For Chumps'.",
-        "content": "Speaking at the Reagan National Defense Forum (which now serves artisanal sourdough), Secretary of War Pete Hegseth unveiled a revolutionary new defense strategy designed to make America simultaneously invincible and completely disinterested in anyone else's problems. The War Department's four-point plan includes restoring a 'warrior ethos' so intense, recruits will now be required to wrestle grizzlies while reciting the Constitution. Hegseth emphasized 'American-made lethality,' reportedly demanding all future weaponry be forged exclusively from domestic iron ore, possibly blessed by bald eagles. He concluded by reiterating the Trump administration's commitment to 'America First' foreign policy, which apparently involves building the world's most impressive arsenal solely for display purposes, much like a trophy cabinet too heavy to move.",
-        "originalSource": "war.gov / Associated Press",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765133311043-2",
-        "headline": "Supreme Court to Debate Whether Stork Deliveries Now Require Valid Photo ID and Social Security Number.",
-        "content": "In a move that has legal scholars frantically dusting off their 19th-century dictionaries, the U.S. Supreme Court has agreed to hear a groundbreaking case challenging the 14th Amendment's quaint notion of 'birthright citizenship.' The nation's highest legal body will now ponder whether simply emerging onto U.S. soil is sufficient for citizenship, or if newborns should first be subjected to a rigorous background check, a sworn affidavit from the attending physician, and perhaps an essay on American values. Critics suggest the case could usher in an era where babies are immediately issued provisional visas, pending a review of their embryonic travel history.",
-        "originalSource": "The Daily Guardian",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-3",
-        "headline": "President Trump Expresses Shock, Dismay After Pardon Recipient Fails to Immediately Tattoo 'MAGA' On Forehead.",
-        "content": "In a shocking display of ingratitude, a recently pardoned former Democratic official apparently believed a presidential pardon was a selfless act of justice, not a strictly binding contractual agreement. President Trump publicly lambasted the ungrateful individual for failing to immediately switch to the Republican Party, reportedly lamenting, 'I pardoned him! The least he could do is buy a red hat and denounce his entire political past!' White House sources indicate President Trump is now considering adding a clause to all future pardons, requiring recipients to publicly endorse his golf course memberships and perhaps even name their firstborn child 'Donald Jr.'",
+        "id": "story-1765140369283-0",
+        "headline": "President Trump Reportedly Stunned as Pardoned Democrat Fails to Immediately Tattoo \"Trump 2024\" on Forehead, Cites \"Unprecedented Disloyalty.\"",
+        "content": "In a move that shocked exactly no one and everyone simultaneously, a Democrat recently blessed with a presidential pardon from President Trump has committed the ultimate political faux pas: refusing to switch parties. Sources close to the White House suggest President Trump was reportedly \"absolutely flabbergasted\" by the politician's decision, having apparently assumed the executive clemency came with a free change-of-address form for the Republican National Committee. \"I gave him a pardon!\" President Trump reportedly exclaimed, \"What more does a guy have to do to earn a little common decency and a complete ideological realignment?\" Analysts are now questioning if future pardons will require a signed oath of allegiance, a mandatory MAGA hat, and a deep, soul-searching reevaluation of one's entire life philosophy.",
         "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "4h ago"
       },
       {
-        "id": "story-1765133311043-4",
-        "headline": "College Football Playoff Committee Selects Miami After Mystical Owl Predicts Victory, Denies Notre Dame for 'Lack of Emeralds'.",
-        "content": "The highly anticipated, utterly inexplicable College Football Playoff bracket has been unveiled, with Miami miraculously securing the final coveted spot in the expanded 12-team tournament. Sources close to the notoriously secretive selection committee revealed that the decision came down to a heated debate between complex statistical models and a vision experienced by the committee chair after consuming an entire bag of fluorescent green Skittles. Notre Dame was reportedly disqualified after failing to present a sufficient number of leprechaun-approved artifacts, while Miami clinched their spot after a last-minute interpretive dance performance by their mascot. Indiana, Ohio State, Georgia, and Texas Tech all received first-round byes, presumably because the committee simply ran out of energy to evaluate them further. Games are set to begin on December 19th, promising a delightful blend of athletic prowess and arbitrary decisions.",
-        "originalSource": "The Washington Post",
+        "id": "story-1765140369284-1",
+        "headline": "Louisiana Authorities Confirm Remaining Escapee Now Considered Official State Mascot After Prolonged Disappearance.",
+        "content": "Law enforcement officials in Louisiana confirmed today that the ongoing search for the final inmate from a recent, highly publicized three-person prison break has entered its \"legendary\" phase. After several hours of intensive, yet ultimately fruitless, searching, authorities admitted the last escapee has likely achieved a level of local infamy usually reserved for cryptids or especially elusive Mardi Gras beads. \"We've checked all the usual spots: the swamp, the Wal-Mart, and that one guy's backyard where he keeps all the flamingos,\" stated Sheriff Beau 'Cajun' Dubois, wiping sweat from his brow. \"At this point, we're considering putting his face on a milk carton, but only if we can find a milk carton big enough for his ego.\" The public is advised to be on the lookout for anyone suspiciously enjoying their freedom too much.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "5h ago"
+      },
+      {
+        "id": "story-1765140369284-2",
+        "headline": "World Cup 2026 Schedule Revealed: America Excited to Pretend to Care About Soccer for an Entire Month.",
+        "content": "FIFA, in a stunning act of global cooperation, has finally dropped the highly anticipated 2026 Men's World Cup schedule, promising an exhausting 104 matches across the United States, Mexico, and Canada. American fans, long-renowned for their casual interest in \"the football where you use your feet,\" are reportedly gearing up to passionately discuss formations, offside rules, and the existential dread of penalty shootouts for approximately 30 days straight. \"I'm just really excited to learn about all the different countries,\" commented one fan, gesturing vaguely at a map. \"And also, the snack bar options at the stadiums are going to be amazing.\" Experts predict a nationwide surge in faux-expertise and hastily purchased team jerseys, only to return to regular programming immediately after the final whistle.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
+        "publishedTime": "Saturday"
+      },
+      {
+        "id": "story-1765140369284-3",
+        "headline": "Military Unveils New \"Double-Tap Doctrine\" After Survivors of Initial Airstrike Found Lingering Impolitely.",
+        "content": "Disturbing new video evidence has surfaced, revealing that survivors of a recent US airstrike had the audacity to cling to boat wreckage for a full hour before a subsequent, \"more thorough\" attack. Military strategists are reportedly \"perplexed\" by this unexpected resilience, which apparently disrupted standard operational protocols. \"Our intelligence clearly indicated that after the initial explosive event, all lingering would cease,\" a Pentagon spokesperson stated, adjusting their tie. \"The fact that individuals continued to inconveniently exist for an extended period suggests a critical flaw in our 'assume immediate incapacitation' metric.\" New guidelines are reportedly being drafted to ensure future strikes are conducted with an added layer of \"persuasiveness\" to prevent any further inconvenient post-strike lingering.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765133311043-5",
-        "headline": "Supreme Court to Decide If President Trump Can Fire Anyone Who Doesn't Return His Calls Within Three Business Days.",
-        "content": "In a case that could either solidify presidential authority or transform the executive branch into a corporate-style 'at-will employment' paradise, the Supreme Court has agreed to tackle the thorny issue of whether President Trump can fire Federal Trade Commission officials just because he feels like it. The landmark decision will determine if 'independent' agencies are truly independent, or merely glorified administrative assistants who serve at the President's whim. Legal experts speculate the ruling could either uphold the sanctity of bureaucratic autonomy or greenlight a future where any federal employee failing to bring the President his coffee exactly how he likes it could find themselves abruptly 'seeking other opportunities.'",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1765140369284-4",
+        "headline": "Relative's Arrest By ICE Now Officially A Full-Blown Political Rorschach Test, White House Says.",
+        "content": "The mother of Republican Karoline Leavitt's nephew has bravely stepped forward to contradict the White House's intricate narrative regarding her nephew's recent ICE arrest, because apparently, even family squabbles must now be vetted by presidential press secretaries. This exclusive counter-narrative has plunged the nation into a fresh crisis of 'who-said-what-about-whom' in an incident that originally involved a single individual and a pair of handcuffs. Political pundits are reportedly scrambling to craft new talking points, wondering if the nephew's favorite color or preferred breakfast cereal will soon become key evidence in the ongoing ideological battle over immigration policy, personal responsibility, and the sacred right to have one's relatives arrested without excessive White House spin.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765140369284-5",
+        "headline": "College Football Playoff Committee Reportedly Used Crystal Ball, Gut Feeling, And A Coin Flip To Select Miami Over Notre Dame.",
+        "content": "The highly revered College Football Playoff committee has once again proven its uncanny ability to ignite nationwide outrage, securing the fourth and final championship spot for the Miami Hurricanes over the perpetually hopeful Notre Dame Fighting Irish. Sources close to the committee (read: \"anyone with a Twitter account\") suggest the decision-making process involved a complex algorithm factoring in everything from strength of schedule to the aesthetic appeal of team uniforms, culminating in a dramatic \"rock-paper-scissors\" tie-breaker. Fans across the nation are currently engaged in the sacred autumnal ritual of proclaiming the entire system rigged, with Notre Dame supporters already filing formal complaints to the Hague and threatening to boycott all future televised sporting events, except for their own.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765133311043-0",
-        "headline": "President Trump has a big new plan for keeping America safe.",
-        "content": "President Trump shared his new plan to keep our country safe. It's a long paper, 33 pages! It says America should always come first, and we should focus on protecting our borders and making money. It also says that countries in our part of the world, like Canada and Mexico, should work with us. He also thinks countries in Europe should take care of their own safety more. Some other countries might not like this new plan very much.",
-        "originalSource": "A Newz TV / White House",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-1",
-        "headline": "The guy in charge of our military talked about a new plan.",
-        "content": "The person named Secretary Pete Hegseth, who helps President Trump with our military, explained a new way to keep America strong. He said we need to make sure our soldiers are brave and always ready. He also wants our weapons to be the best and made right here in America. His plan is all about making sure America comes first and trying not to get stuck in other countries' problems too much.",
-        "originalSource": "war.gov / Associated Press",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765133311043-2",
-        "headline": "The top court will decide if being born here makes you a citizen.",
-        "content": "America's most important court, the Supreme Court, has agreed to hear a really big case. They will decide if a rule that says if you are born in the United States, you automatically become a citizen, should stay the same. This rule comes from the 14th Amendment, which is part of our country's big rule book. Many people are waiting to see what the court will say about this important question.",
-        "originalSource": "The Daily Guardian",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-3",
-        "headline": "President Trump was upset when someone he helped wouldn't join his team.",
-        "content": "President Trump recently gave a \"pardon\" to someone, which means he forgave them for something they did wrong in the past. But then, President Trump was mad because this person, who used to be part of the other political team, didn't want to switch and join his team, the Republican Party. People are now wondering why presidents give out pardons and what they expect in return.",
+        "id": "story-1765140369283-0",
+        "headline": "President Trump Gets Mad When Pardoned Guy Stays a Democrat",
+        "content": "So, President Trump helped out a Democrat by saying he wouldn't get in trouble anymore (that's a pardon!). But then the Democrat said he still wanted to be a Democrat, not a Republican like President Trump. President Trump was not happy about this and said it wasn't fair because the guy wasn't \"loyal\" after he helped him. It sounds like they are not getting along!",
         "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "4h ago"
       },
       {
-        "id": "story-1765133311043-4",
-        "headline": "The big college football tournament teams have been picked.",
-        "content": "The teams for the huge college football championship tournament are all picked! There will be 12 teams playing this year. The Miami team got the very last spot, even though many thought Notre Dame would get it. Some teams like Indiana, Ohio State, Georgia, and Texas Tech get to skip the first game. The games start on December 19th!",
-        "originalSource": "The Washington Post",
+        "id": "story-1765140369284-1",
+        "headline": "Police are Still Looking for One More Escaped Person",
+        "content": "Three people got away from jail in Louisiana, but the police caught two of them already. Now, lots of police officers from different groups are still trying to find the last person who is still out there. They've been searching for hours to bring him back.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "5h ago"
+      },
+      {
+        "id": "story-1765140369284-2",
+        "headline": "We Finally Know When the Big Soccer World Cup Games Will Be!",
+        "content": "Guess what? FIFA, which is like the boss of soccer, just told everyone the full plan for the 2026 Men's World Cup! There will be a super lot of games, 104 in total, played in many cities in the USA, and also in Mexico and Canada. We even know exactly when and where the USA team will play their games. It's going to be so exciting!",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
+        "publishedTime": "Saturday"
+      },
+      {
+        "id": "story-1765140369284-3",
+        "headline": "A Video Shows People Survived First Attack But Then Were Hit Again",
+        "content": "There's a new video that shows something really sad. After a USA airplane attacked, some people were still alive and were holding onto parts of their broken boat in the water for about an hour. But then, the video seems to show that another attack happened right after, and this one was even worse. This makes people wonder if everything was done correctly in the first place.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765133311043-5",
-        "headline": "The Supreme Court will decide how much power the President has to fire people.",
-        "content": "The Supreme Court is going to hear a very important case. They will decide if President Trump can easily fire people who work in special government groups, like the Federal Trade Commission. This is a big deal because it will show how much power the President has to control these groups that are supposed to be independent.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1765140369284-4",
+        "headline": "A Family Member Says the White House is Wrong About an Arrest",
+        "content": "The White House said one thing about why Karoline Leavitt's nephew was arrested by ICE (that's like the police for immigration stuff). But the nephew's mom is saying that's not true at all! She thinks the White House got it wrong, and now everyone is talking about who is right and what really happened with immigration rules.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765140369284-5",
+        "headline": "The Big College Football Games Are Set, Miami Got the Last Spot!",
+        "content": "The college football championship games are all planned out now! The Miami Hurricanes team got the very last spot to play in the big tournament. Some people are really happy, but lots of others are mad because they think Notre Dame should have gotten the spot instead of Miami. Everyone is arguing about it!",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765133311043-0",
-        "headline": "A New Doctrine's Dawn",
-        "content": "A whisper of change swept through Washington as President Trump unveiled his radical new strategy. The old ways of global democracy promotion, a relic of post-Cold War idealism, were cast aside. In their place emerged a transactional 'America First' approach, laser-focused on profit and regional dominance. The historic Monroe Doctrine stirred from its slumber, modernized for a new era. Europe, once relying on American might, was urged to shoulder its own defense. Allies watched, some in quiet dismay, as the tectonic plates of international policy shifted under the weight of a transformed vision.",
-        "originalSource": "A Newz TV / White House",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-1",
-        "headline": "The Warrior's Creed",
-        "content": "At the esteemed Reagan National Defense Forum, Secretary of War Hegseth etched a new vision for national defense. The 'Arsenal of Freedom' became the rallying cry, promising to restore a potent 'warrior ethos,' accountability, and American-made lethality to the War Department. Four lines of effort were laid bare, all committed to an 'America First' foreign policy. The message was clear: self-reliance, robust defense, and a strategic avoidance of foreign entanglements would define the Trump administration's approach to global security, shielding the nation with its own formidable might.",
-        "originalSource": "war.gov / Associated Press",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765133311043-2",
-        "headline": "Born Under a Question Mark",
-        "content": "A tremor ran through the legal world as the US Supreme Court granted certiorari to a landmark case. At its heart lay the venerable 14th Amendment, specifically its provision granting birthright citizenship to nearly all born on American soil. This was no minor dispute; it was a direct challenge to a foundational tenet of immigration and constitutional law. The highest court had set the stage for a monumental legal battle, potentially redefining citizenship for generations to come. The implications loomed large, reshaping the very fabric of the nation's identity.",
-        "originalSource": "The Daily Guardian",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765133311043-3",
-        "headline": "A Pardon's Unspoken Price",
-        "content": "The Oval Office, a place of weighty decisions, had recently granted a pardon to a former Democratic official. But goodwill curdled into public ire. President Trump, expressing frustration, slammed the individual's 'lack of loyalty' when they refused to switch political parties. A presidential act of mercy had become a political litmus test, igniting a heated debate. Was a pardon a gesture of justice, or did it carry an unspoken expectation of allegiance? The controversy illuminated the complex motives veiled behind executive clemency, leaving a lingering question in its wake.",
+        "id": "story-1765140369283-0",
+        "headline": "A Question of Allegiance in the Halls of Power",
+        "content": "The pardon, a lifeline, came from President Trump. The Democrat, free, felt a pang of gratitude, but not enough to abandon his colors. When asked, his declaration was firm: he would not switch parties. The news reached the Oval Office like a jolt. President Trump, hearing the defiance, felt a bitter taste. He had offered clemency, expecting, perhaps, a silent allegiance. Now, a public rebuke. \"Lack of loyalty,\" he reportedly declared, the words echoing through the political arena, a clear message of expected reciprocation unfulfilled.",
         "originalSource": "The Guardian",
-        "publishedTime": "1 hour ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "4h ago"
       },
       {
-        "id": "story-1765133311043-4",
-        "headline": "The Twelfth Seed's Dream",
-        "content": "The anticipation was palpable. Across the nation, college football fans held their breath as the final 12-team Playoff bracket was unveiled. Cheers erupted in Miami as the Hurricanes secured the coveted last at-large spot, leaving Notre Dame on the outside looking in. The path to championship glory was now clear, with Indiana, Ohio State, Georgia, and Texas Tech earning crucial first-round byes. December 19th loomed, marking the beginning of gridiron battles where dreams would clash, and only one team would emerge as the ultimate victor.",
-        "originalSource": "The Washington Post",
+        "id": "story-1765140369284-1",
+        "headline": "The Last Man Running from the Bayous",
+        "content": "The moon hung heavy over the Louisiana swamps, a silent witness to the frantic search. Two were caught, shackled, their brief taste of freedom gone. But one remained, a ghost in the humid night. Sirens wailed in the distance, dogs barked, and flashlights cut through the dense foliage. Every rustle of leaves, every splash in the murky water, sent a jolt through the search teams. He was out there, alone, a desperate shadow clinging to the hope of disappearing into the endless maze of bayous. The hunt intensified, a relentless pursuit for the last man running.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
+        "publishedTime": "5h ago"
+      },
+      {
+        "id": "story-1765140369284-2",
+        "headline": "The Pitch of Dreams for North America",
+        "content": "The calendar glowed, marking the future. FIFA’s announcement electrified soccer fans across North America: the 2026 Men’s World Cup schedule was here. One hundred and four matches, a global spectacle, spread across eleven vibrant US cities, alongside Mexico and Canada. For the US national team, their path was now clear, each group-stage fixture a stepping stone on a monumental journey. Dreams of packed stadiums, roaring crowds, and the ultimate glory suddenly felt closer, tangible. The world’s biggest tournament was not just coming; its blueprint had been laid bare, igniting a fervent anticipation.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7PI9k98z3EBXK9bny8crY2NBryvYpohf0Haj7ab6X2YYjE1lm9KYwD0C3ReGPc4_hbMu3kbplZhg93pNKe6VCp-BkBThWC1XlzrS4Krw8T4fvPDP",
+        "publishedTime": "Saturday"
+      },
+      {
+        "id": "story-1765140369284-3",
+        "headline": "The Unseen Horrors of the Second Strike",
+        "content": "The waves cradled the splintered wood, survivors clinging desperately to the wreckage. An hour passed, agonizingly slow, after the first thunderclap from above. Hope, a fragile ember, flickered in their eyes as the sea calmed slightly. Then, the sky roared again. The newly surfaced video etched a chilling narrative: an hour of harrowing survival, followed by a second, devastating blow. Questions coiled like smoke, thick and suffocating, challenging the rules of engagement, painting a stark picture of a military operation under renewed, intense scrutiny. The unseen horrors became seen, leaving an indelible mark.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhX3aezEUwHVlDofOk-EnWskIFPSxAjEntyPPI6kv32MaK1gZfAopFUKe8akE2TN1Js18nC5U7njTiifYwn4Z7L_ojP0xhz9HmIj1xehesEsjpl_qJDfAOkOwF",
         "publishedTime": "Less than 24 hours ago"
       },
       {
-        "id": "story-1765133311043-5",
-        "headline": "The President's Reach",
-        "content": "A crucial test of power ascended to the Supreme Court's hallowed halls. At issue: the President's authority to unilaterally remove officials from independent federal agencies. Specifically, the Federal Trade Commission stood at the heart of the legal challenge. This wasn't merely a dispute over personnel; it was a profound examination of the executive branch's autonomy and the checks on presidential power. The ruling would redefine the delicate balance between the presidency and the independent bodies designed to operate beyond direct political influence, shaping the future of governance.",
-        "originalSource": "CBS News",
-        "publishedTime": "6 hours ago"
+        "id": "story-1765140369284-4",
+        "headline": "A Mother's Truth Against the Narrative",
+        "content": "The official statement spun its neat, concise truth. But a mother’s heart knew a different story. The White House narrative of her nephew's ICE arrest was, to her, a carefully constructed façade. Karoline Leavitt’s family, now embroiled, watched as the woman spoke, her voice steady, rejecting the government’s version of events. The exclusive report laid bare the conflicting details, exposing cracks in the carefully presented official account. Immigration policy, already a volatile battleground, flared anew, fueled by a mother’s conviction that her truth must finally be heard.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
+      },
+      {
+        "id": "story-1765140369284-5",
+        "headline": "The Heartbreak and Elation of the Playoff",
+        "content": "The screen flashed, revealing the coveted quartet. College football held its breath. The final spot, the golden ticket to championship glory, went to Miami. A collective gasp, then a roar of debate, erupted nationwide. Notre Dame, standing on the precipice, watched their playoff dreams shatter. The selection committee’s decision, a bombshell, ignited immediate controversy among fans and analysts. One team’s jubilation was another’s heartbreak, a stark reminder of the razor-thin margins and passionate rivalries that define the sport. The bracket was set, but the arguments were just beginning.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9LBcutAVCN0Wrrh2hJG8OCajgFsbRiB7b7JAbgloDuo3PytCtglW7B1qWQN2XvWdU7M9_n6e94UhV3zNVIod2keQrcULifwBbhXTS_J870WaLmomVBcxFQ==",
+        "publishedTime": "Less than 24 hours ago"
       }
     ]
   }

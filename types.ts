@@ -12,7 +12,7 @@ export interface NewsItem {
   headline: string;
   content: string;
   originalSource: string;
-  url?: string;
+  sourceUrl?: string;
   publishedTime?: string;
 }
 
