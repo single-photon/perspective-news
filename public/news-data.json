@@ -1,267 +1,267 @@
 {
-  "timestamp": 1765083240792,
+  "timestamp": 1765085812780,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765083170728-0",
-        "headline": "Trump Administration Official Faces Scrutiny Over Lethal Airstrikes and Questionable Military Protocols",
-        "content": "A senior President Trump administration official, Pete Hegseth, is facing intense scrutiny following controversial airstrikes on alleged drug boats. Reports indicate that survivors of initial strikes were reportedly continuing their mission before a highly debated follow-up attack, raising serious questions about military protocols and the administration's ethical guidelines regarding the use of force and accountability in such operations.",
+        "id": "story-1765085740271-0",
+        "headline": "Admiral's Testimony on Boat Strike Raises Questions About Broader Strategies in Drug Interdiction",
+        "content": "A U.S. Admiral is set to tell Congress that survivors of a recent controversial boat strike were still engaged in a drug-smuggling mission. This testimony, while detailing specifics of the incident, prompts deeper examination into the systemic issues driving drug trade and the effectiveness and ethics of military interventions in addressing what are fundamentally social and economic problems, rather than solely criminal ones.",
+        "originalSource": "The Wall Street Journal",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765085740271-1",
+        "headline": "Corporate Giants Demand Tariff Refunds as Supreme Court Scrutinizes President Trump's Economic Authority",
+        "content": "Major American corporations, including Costco, are preparing to claim substantial refunds for import taxes, following a pending Supreme Court ruling that will determine whether President Trump legally overstepped his authority when imposing sweeping tariffs. This situation highlights how economic policies, often presented as nationalistic, can ultimately lead to corporate windfalls while the burden of trade instability disproportionately impacts consumers and workers.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-2",
+        "headline": "President Trump's Administration Escalates Big Tech Pressure by Restricting Visas for Content Moderators, Raising Concerns About Labor Rights and Free Expression",
+        "content": "The administration of President Trump is intensifying pressure on major technology companies through new State Department guidance that restricts H1-B visas for foreign content moderators. This move, framed as a crackdown on 'online censorship,' raises significant concerns about its impact on immigrant workers' rights and the potential for governmental influence over the platforms that shape public discourse, rather than promoting genuine free expression.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-3",
+        "headline": "Record Cocaine Seizure Highlights Persistent Failures of the 'War on Drugs' Paradigm and Need for Systemic Reform",
+        "content": "The U.S. Coast Guard's seizure of 20,000 pounds of cocaine marks a record-breaking interdiction. While presented as a victory in the ongoing fight against drug trafficking, such massive hauls underscore the enduring futility of a 'war on drugs' approach that prioritizes criminalization and interdiction over addressing the root causes of drug production and demand, such as poverty, lack of opportunity, and inadequate public health resources.",
+        "originalSource": "CBS News",
+        "publishedTime": "Very Recently"
+      },
+      {
+        "id": "story-1765085740271-4",
+        "headline": "Culture of Impunity in President Trump's Administration Questioned Amidst Internal Disputes Over 'No Scalps' Rule",
+        "content": "Fox News host Pete Hegseth is reportedly testing the boundaries of President Trump's informal 'No Scalps' rule, which protects loyalists from being fired. This internal friction reveals a deeper systemic issue within the administration where loyalty often supersedes accountability, expertise, or ethical conduct, creating an environment where allies can operate with perceived impunity.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765083170728-1",
-        "headline": "Significant Arrest Made in Investigation of January 6th Pipe Bombs, Highlighting Ongoing Threats to Democracy",
-        "content": "The FBI has reportedly announced a major arrest in the long-running investigation into pipe bombs discovered in Washington D.C. on the eve of the January 6th Capitol riot. This breakthrough is crucial for addressing one of the most serious and lingering mysteries from an event that gravely threatened American democratic institutions, with the suspect now having made a first court appearance.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-2",
-        "headline": "Prison Conditions Questioned After Multiple Inmates Escape Louisiana Correctional Facility",
-        "content": "Multiple individuals have successfully escaped from a Louisiana correctional facility this morning, raising significant concerns about the systemic failures within the carceral system. The fugitives managed to remove concrete from their cell structure and then utilized makeshift ropes from sheets to rappel down the prison building, prompting a large-scale, multi-agency manhunt that underscores the critical need for prison reform and oversight.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765083170728-3",
-        "headline": "President Trump's Administration Replaces Civil Rights Holidays with His Birthday for National Park Free Days, Sparking Outrage",
-        "content": "The President Trump administration has ignited widespread controversy by revising the national park fee-free days calendar. These changes include adding President Trump's birthday while conspicuously removing previously recognized holidays such as Juneteenth and Martin Luther King Jr. Day, drawing sharp public criticism and debate over a policy shift seen by many as a troubling disregard for historical justice and civil rights.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-4",
-        "headline": "Corporate Giants Demand Billions in Tariff Refunds, Questioning Presidential Authority and Economic Impact",
-        "content": "Major corporations, including retail giant Costco, are now aggressively seeking billions in refunds from import tariffs as they anticipate a looming Supreme Court decision. The forthcoming ruling will determine if President Trump exceeded his authority by imposing these sweeping import taxes, a decision that could have massive financial ramifications and significantly reshape the landscape of US trade and corporate power.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-5",
-        "headline": "Celebrity Wedding News Dominates Headlines Amidst Pressing Societal Challenges",
-        "content": "Media outlets report that global superstar Taylor Swift and Kansas City Chiefs tight end Travis Kelce have reportedly set a specific date and chosen a luxurious venue for their upcoming wedding. While this news has instantly become a major trending topic across entertainment and news platforms worldwide, sparking feverish speculation, it also highlights the stark contrast between public fascination with celebrity culture and the pressing societal issues often overlooked.",
-        "originalSource": "People.com",
+        "id": "story-1765085740271-5",
+        "headline": "Amidst Pressing Global Crises, Media Obsesses Over Celebrity Wedding Plans, Highlighting Societal Distractions",
+        "content": "Celebrity news outlets are reporting that pop megastar Taylor Swift and NFL player Travis Kelce have finalized their wedding plans, with a date and 'swanky venue' allegedly selected. While this generates widespread public and media frenzy, it starkly contrasts with the underreported systemic crises—like economic inequality, climate change, and healthcare access—that demand genuine attention and action, showcasing a media landscape often prioritizing distraction over substance.",
+        "originalSource": "Yahoo News / Page Six",
         "publishedTime": "15 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765083170728-0",
-        "headline": "Pete Hegseth is Seriously Testing Trump's 'No Scalps' Rule Amid Scrutiny Over Boat Strikes",
-        "content": "A top Trump administration official, Pete Hegseth, is facing a significant crisis following airstrikes on alleged drug boats. Reports suggest that survivors were actively continuing their drug mission before a controversial follow-up strike, intensifying political fallout and scrutiny of his leadership and the administration's military protocols.",
+        "id": "story-1765085740271-0",
+        "headline": "Survivors of Boat Strike Were Actively Continuing Drug Mission, Admiral to Tell Lawmakers.",
+        "content": "A U.S. Admiral is scheduled to testify before Congress that the individuals who survived a recent controversial boat strike were still engaged in their drug-smuggling mission at the time of the incident. This testimony is expected to reveal new details and context about the US military's involvement and the nature of the operation.",
+        "originalSource": "The Wall Street Journal",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765085740271-1",
+        "headline": "Companies seek refunds from tariffs as Supreme Court decision looms.",
+        "content": "Major American corporations, including retail giant Costco, are preparing to claim substantial refunds for import taxes previously paid. This action follows a pending Supreme Court ruling that will determine whether the President legally overstepped his authority when he initially imposed the sweeping tariffs.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-2",
+        "headline": "Trump's latest Big Tech pressure play: Restrict content moderator visas.",
+        "content": "The Trump administration is increasing pressure on major technology companies by implementing new State Department guidance. The new rules restrict the issuance of H1-B visas for certain foreign workers, particularly those employed as content moderators, in a move seen as a continued crackdown on online censorship.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-3",
+        "headline": "20,000-pound cocaine seizure by Coast Guard breaks 18-year-old record.",
+        "content": "The U.S. Coast Guard has successfully executed a massive drug interdiction, seizing an unprecedented 20,000 pounds of cocaine in a single operation. This record-breaking haul surpasses a mark that has stood for eighteen years, signaling a major victory in the ongoing fight against drug trafficking.",
+        "originalSource": "CBS News",
+        "publishedTime": "Very Recently"
+      },
+      {
+        "id": "story-1765085740271-4",
+        "headline": "Pete Hegseth Is Seriously Testing Trump's 'No Scalps' Rule.",
+        "content": "Fox News host and staunch Trump ally Pete Hegseth is reportedly pushing the boundaries of the President's informal policy, known as the 'No Scalps' rule, which protects loyalists from being fired. Hegseth's recent actions are said to be causing significant concern within the administration's inner circle.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765083170728-1",
-        "headline": "FBI Makes Arrest in Probe of Pipe Bombs Placed in D.C. on Eve of Jan. 6",
-        "content": "The FBI has reportedly made a major arrest in the long-running investigation into the pipe bombs discovered in Washington D.C. on the eve of the January 6th Capitol riot. This is a significant breakthrough in one of the most high-profile and lingering mysteries from the event, with the suspect recently making a first court appearance.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-2",
-        "headline": "Louisiana Inmates on the Run After Removing Concrete and Using Sheets in Jailbreak",
-        "content": "Multiple inmates successfully escaped from a correctional facility in Louisiana early this morning. The fugitives managed to remove concrete from their cell structure and then used a makeshift rope from sheets to rappel down the side of the prison building. A large-scale, multi-agency manhunt is currently underway.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765083170728-3",
-        "headline": "Trump's birthday added to list of free days at national parks; MLK Day, Juneteenth removed",
-        "content": "The Trump administration has sparked controversy by altering the list of national park fee-free days. The changes include adding the President's birthday to the list while removing previously recognized holidays such as Juneteenth and Martin Luther King Jr. Day, drawing public criticism and debate over the policy shift.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-4",
-        "headline": "Companies Seek Refunds From Tariffs as Supreme Court Decision Looms",
-        "content": "Major companies, including retail giant Costco, are seeking billions in refunds from import tariffs as they await a looming Supreme Court decision. The ruling will determine if the president exceeded his authority by imposing the sweeping import taxes, which could result in massive financial ramifications for US trade.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-5",
-        "headline": "Taylor Swift Has Set a Date and a Venue for Her Wedding to Travis Kelce, Reports Say",
-        "content": "Media reports indicate that global superstar Taylor Swift and Kansas City Chiefs tight end Travis Kelce have reportedly set a specific date and chosen a luxurious venue for their upcoming wedding. The news has instantly become a major trending topic across entertainment and news platforms worldwide, sparking feverish speculation.",
-        "originalSource": "People.com",
+        "id": "story-1765085740271-5",
+        "headline": "Taylor Swift Has Set a Date and a Venue for Her Wedding to Travis Kelce.",
+        "content": "Celebrity news outlets are reporting that pop megastar Taylor Swift and NFL player Travis Kelce have finalized their plans for a wedding. The couple has allegedly selected a specific date and a swanky venue, further fueling the widespread public and media frenzy surrounding their high-profile relationship.",
+        "originalSource": "Yahoo News / Page Six",
         "publishedTime": "15 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765083170728-0",
-        "headline": "Pete Hegseth Stands Firm Against Drug Cartels Amidst Unfair Attacks on Decisive Action",
-        "content": "In a display of unwavering commitment to national security, President Trump's administration official, Pete Hegseth, is facing baseless political attacks after his department took decisive action against relentless drug traffickers. Reports confirm that dangerous drug smugglers were actively continuing their illicit operations even after initial strikes, necessitating resolute follow-up measures to protect our communities. The ongoing scrutiny unfairly targets those dedicated to safeguarding our nation from the scourge of illegal drugs, rather than praising their vital efforts to uphold law and order and secure our borders.",
+        "id": "story-1765085740271-0",
+        "headline": "Admiral Confirms Drug Smugglers Continued Criminal Mission After Boat Strike.",
+        "content": "A U.S. Admiral is poised to inform Congress that individuals who survived a recent encounter at sea were actively pursuing their illicit drug-smuggling operations. This forthcoming testimony is expected to underscore the unwavering commitment of our brave military personnel in confronting persistent criminal elements who threaten our nation's security and sovereignty, even after direct engagement. It highlights the constant vigilance required to protect our borders from the scourge of drug trafficking.",
+        "originalSource": "The Wall Street Journal",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765085740271-1",
+        "headline": "Corporations Challenge President Trump's Tariffs as Supreme Court Weighs Economic Sovereignty.",
+        "content": "Major American corporations, including retail giant Costco, are preparing to demand significant refunds for import taxes previously paid. This action comes amidst a looming Supreme Court decision that will determine whether President Trump's executive authority to impose sweeping tariffs to protect American industries was legally challenged. This pivotal case could significantly impact our nation's economic independence and the ability of a President to safeguard American jobs and businesses from unfair foreign competition.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-2",
+        "headline": "President Trump Curbs Big Tech Visas to Combat Online Censorship and Protect Free Speech.",
+        "content": "The Trump administration is intensifying its efforts against the unchecked power of major technology companies through new State Department guidance. These new regulations restrict the issuance of H1-B visas for certain foreign workers, particularly those employed as content moderators. This decisive move is widely interpreted as a continued and necessary crackdown on pervasive online censorship, aiming to safeguard fundamental American liberties, including free speech, from tech giants attempting to control public discourse.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-3",
+        "headline": "Coast Guard Delivers Massive Blow to Drug Traffickers with Record Cocaine Seizure.",
+        "content": "The U.S. Coast Guard has achieved a monumental success in the ongoing battle against illicit drugs, seizing an unprecedented 20,000 pounds of cocaine in a single, decisive operation. This record-breaking interdiction shatters an eighteen-year-old mark, representing a major victory for law enforcement and a significant blow to the criminal networks that seek to flood our communities with dangerous substances. Our dedicated Coast Guard members continue to stand as a bulwark against those who threaten our nation's security and public safety.",
+        "originalSource": "CBS News",
+        "publishedTime": "Very Recently"
+      },
+      {
+        "id": "story-1765085740271-4",
+        "headline": "Pete Hegseth's Actions Reportedly Challenge President Trump's Principle of Loyalty.",
+        "content": "Fox News host and steadfast ally Pete Hegseth is reportedly testing the boundaries of President Trump's well-known 'No Scalps' rule, an informal policy that values and protects loyalists within the administration. Hegseth's recent actions are said to be generating considerable discussion within the inner circles of the administration, raising questions about the importance of unity and unwavering support within the conservative movement.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765083170728-1",
-        "headline": "Long-Awaited Justice: FBI Arrests Individual Linked to D.C. Pipe Bomb Threat",
-        "content": "After a prolonged investigation, the Federal Bureau of Investigation has finally brought a suspect to justice in connection with the dangerous pipe bombs strategically placed in Washington D.C. on the evening before January 6th. This crucial arrest represents a significant step towards uncovering the truth behind this alarming threat to our nation's capital and its institutions. It is imperative that those who seek to sow chaos and instability are held fully accountable for their actions under the unwavering rule of law, ensuring the safety and security of all Americans.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-2",
-        "headline": "Law and Order Breakdown: Louisiana Manhunt Underway for Escaped Felons",
-        "content": "The shocking escape of multiple dangerous inmates from a Louisiana correctional facility has rightfully sparked widespread public outrage and grave concerns for community safety. These fugitives brazenly compromised the integrity of the prison, exploiting weaknesses to remove concrete and fashion makeshift ropes from sheets to flee justice. This egregious failure in security demands immediate investigation and accountability. Law enforcement must swiftly apprehend these individuals to restore order and ensure the protection of law-abiding citizens, reaffirming that liberty for all depends on secure institutions and unwavering adherence to the rule of law.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765083170728-3",
-        "headline": "Celebrating American Spirit: President Trump's Birthday Added to National Park Free Days",
-        "content": "In a move designed to promote national pride and appreciation for our shared natural heritage, President Trump's administration has thoughtfully adjusted the schedule for fee-free days at America's treasured national parks. The addition of President Trump's birthday to this list appropriately recognizes presidential leadership and encourages citizens to explore these magnificent spaces. These policy adjustments reflect an administration focused on prudent management and celebrating our nation's foundational principles, ensuring that these parks remain accessible for all Americans to enjoy and reflect upon our rich history and abundant natural resources.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-4",
-        "headline": "American Sovereignty at Stake: Supreme Court to Rule on President Trump's Vital Tariffs",
-        "content": "As the Supreme Court prepares to issue a potentially momentous decision, American sovereignty and the protection of domestic industries hang in the balance regarding President Trump's critical import tariffs. Major corporations, including giants like Costco, are aggressively demanding billions in refunds, effectively challenging the President's constitutional authority to implement these essential measures designed to safeguard American jobs and manufacturing. This pivotal ruling will determine whether our President can effectively defend national economic interests against foreign competition or if judicial activism will undermine vital trade policies that prioritize the prosperity of American citizens and businesses.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-5",
-        "headline": "Celebrating Love and Commitment: Taylor Swift and Travis Kelce Plan Their Special Day",
-        "content": "In heartwarming news celebrating timeless American values, beloved superstar Taylor Swift and celebrated athlete Travis Kelce are reportedly making plans for their highly anticipated wedding. Reports suggest the accomplished couple has selected a date and a beautiful venue for what promises to be a joyous occasion. This exciting development reinforces the importance of commitment and family, offering a positive example of enduring love in an era where traditional unions are often overlooked. We extend our best wishes to Taylor and Travis as they embark on this meaningful journey together.",
-        "originalSource": "People.com",
+        "id": "story-1765085740271-5",
+        "headline": "Taylor Swift and Travis Kelce Announce Wedding Plans, Embracing Traditional Commitment.",
+        "content": "Celebrity news outlets are reporting that pop music icon Taylor Swift and NFL star Travis Kelce have finalized plans for their upcoming wedding. The couple has reportedly selected a specific date and venue, further highlighting a significant step towards traditional commitment and solidifying their bond amidst widespread public interest. This embrace of matrimony provides a positive example of enduring values.",
+        "originalSource": "Yahoo News / Page Six",
         "publishedTime": "15 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765083170728-0",
-        "headline": "President Trump Official Pete Hegseth Accidentally Creates Unstoppable Super-Drug-Smugglers With Ineffective Double Tap",
-        "content": "A high-ranking President Trump administration official, Pete Hegseth, is reportedly baffling military strategists after his recent 'anti-drug' airstrikes on alleged maritime drug operations seem to have merely invigorated the illicit trade. Reports indicate that survivors, far from being deterred, were observed enthusiastically resuming their drug missions almost immediately, leading critics to question if Hegseth is subtly training them for a global drug cartel Olympics. Sources close to the administration suggest President Trump's famed 'no scalps' rule is currently being reinterpreted as 'no *effective* scalps' in Hegseth's office.",
+        "id": "story-1765085740271-0",
+        "headline": "Admiral Shocks Nation: Drug Smugglers Apparently Still Smuggling Drugs Even After Boat Catastrophe.",
+        "content": "In a groundbreaking revelation, a U.S. Admiral is poised to inform Congress that the survivors of a recent, highly inconvenient boat strike were, in fact, still diligently engaged in their drug-smuggling duties, presumably while clinging to buoyant bricks of illicit substances. The military's involvement, it turns out, was less about stopping the flow of drugs and more about observing the sheer tenacity of their operational commitment.",
+        "originalSource": "The Wall Street Journal",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765085740271-1",
+        "headline": "U.S. Corporations Prepare to Claim Billions in Refunds After Realizing President Trump's Tariffs Were Potentially Just for Fun.",
+        "content": "America's most astute corporations, including the famously thrifty Costco, are reportedly bracing themselves to collect 'Oops, Our Bad' refunds for the billions in import taxes they dutifully paid. This financial windfall is contingent on a looming Supreme Court decision, which will determine if President Trump's sweeping tariffs were, in fact, a legitimate economic policy or merely an elaborate social experiment on global supply chains.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-2",
+        "headline": "President Trump's Brilliant New Strategy: Starve Big Tech of Foreign Content Moderators to Unleash Free Speech and Limit Viral Dog Memes.",
+        "content": "In a bold chess move against the tech titans, President Trump's administration has unveiled new State Department guidelines, effectively making it harder for foreign content moderators to enter the country. The cunning plan aims to throttle 'online censorship' by ensuring only truly American content can be left completely unmoderated, presumably leading to an immediate surge in wholesome, politically neutral cat videos and a dramatic reduction in nuanced geopolitical discussions.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-3",
+        "headline": "Coast Guard Achieves 'High Score' in Cocaine Seizure, Sets New Unofficial World Record for 'Most Illicit White Powder in One Go'.",
+        "content": "The U.S. Coast Guard has reportedly achieved a stunning victory in its ongoing, high-stakes game of 'Catch the Drug Boat,' seizing an astonishing 20,000 pounds of cocaine. This colossal haul, enough to give an entire medium-sized city a really, really energetic Monday morning, shatters an 18-year-old record and sends a clear message: the Coast Guard is not just good at maritime security; it's also incredibly good at finding extremely large quantities of fun-powder.",
+        "originalSource": "CBS News",
+        "publishedTime": "Very Recently"
+      },
+      {
+        "id": "story-1765085740271-4",
+        "headline": "Pete Hegseth Pushes President Trump's 'No Scalps' Rule to Its Absolute Breaking Point by Merely Existing.",
+        "content": "Sources close to the administration are whispering that Fox News host and President Trump's staunchest ally, Pete Hegseth, is dangerously close to exceeding the 'No Scalps' rule's implicit 'don't make me think about you' clause. His recent actions, rumored to include things like 'having opinions' and 'appearing on television regularly,' are causing seismic tremors within the inner circle, prompting fears that President Trump might have to acknowledge his existence for more than three seconds.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765083170728-1",
-        "headline": "FBI Finally Cracks Case of Jan. 6 Pipe Bombs, Arrests Man Last Seen Casually Carrying Pipe Bombs Down Main Street",
-        "content": "In a stunning display of persistence that only took *years*, the FBI has reportedly apprehended a suspect in the long-unsolved mystery of the pipe bombs discovered in Washington D.C. on the eve of January 6th. The 'breakthrough' came after investigators reportedly utilized advanced techniques such as 'asking around' and 'checking public security footage from the entire past presidential term.' The suspect, now in custody, made a first court appearance, reportedly expressing surprise that anyone had noticed the pipe bombs at all.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-2",
-        "headline": "Louisiana Prison Admits Security Vulnerability Was 'Just Concrete And Sheets' After Mass Jailbreak",
-        "content": "Multiple inmates have successfully staged an elaborate escape from a Louisiana correctional facility, reportedly astonishing prison officials who believed their 'concrete-and-sheets' defense system was impenetrable. The fugitives apparently leveraged the little-known weakness of structural concrete when subjected to 'removal' and then executed a daring rappel using a makeshift rope fashioned from 'bedsheets.' A large-scale manhunt is now underway, with authorities reportedly searching for anyone who might know how to tie a knot or chip away at hardened material.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765083170728-3",
-        "headline": "National Parks To Honor President Trump's Birthday With Solemn Reflection On President Trump, No Other Days",
-        "content": "The President Trump administration has unveiled a visionary new policy for national park fee-free days, cementing President Trump's birthday as the nation's premier day of outdoor recreation. To accommodate this monumental addition, officials have graciously removed lesser-known observances like Juneteenth and Martin Luther King Jr. Day, ensuring maximum focus on truly impactful historical figures. Public criticism has been swiftly dismissed as 'misguided attempts to dilute the pure joy of free park entry on a very specific day.'",
-        "originalSource": "CBS News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-4",
-        "headline": "Costco Demands Billions Back After Discovering President Trump's Tariffs Weren't Just Hilarious Prank",
-        "content": "Major corporations, led by retail titan Costco, are reportedly reeling from the shocking realization that President Trump's import tariffs were, in fact, real and not merely an elaborate, long-running economic performance art piece. As a Supreme Court decision looms, these companies are now desperately seeking billions in refunds, expressing deep shock that the President might have exceeded his authority in what they initially assumed was a charmingly eccentric approach to global trade. Economists are predicting widespread 'facepalm' injuries among corporate leadership.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-5",
-        "headline": "Global Economy Halts As Taylor Swift Announces Wedding Date, Entire Planet Prepares To Witness Unprecedented Nuptials",
-        "content": "In a seismic shift that has reportedly overshadowed all geopolitical conflicts and economic crises, global superstar Taylor Swift and Kansas City Chiefs tight end Travis Kelce have reportedly set a definitive wedding date and secured a venue. News outlets worldwide have confirmed that all other news has been officially suspended, as humanity prepares for an event of unprecedented cultural magnitude. Preparations for a global holiday are already underway, with many nations reportedly declaring 'Swift-Kelce Day' a mandatory day off for communal speculation.",
-        "originalSource": "People.com",
+        "id": "story-1765085740271-5",
+        "headline": "World Prepares for Unprecedented Meltdown as Taylor Swift and Travis Kelce Dare to Schedule Marriage Ceremony.",
+        "content": "In news that has sent shockwaves through every corner of the known universe, pop sensation Taylor Swift and her football beau, Travis Kelce, have reportedly finalized a specific date and chosen a venue for their upcoming nuptials. Experts are predicting a never-before-seen level of public and media frenzy, with some speculating that the wedding will be so grand, it might single-handedly fix the economy, or conversely, cause a global stock market collapse if the flower arrangements aren't 'just right'.",
+        "originalSource": "Yahoo News / Page Six",
         "publishedTime": "15 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765083170728-0",
-        "headline": "President Trump's Helper is in Big Trouble for Boat Attacks",
-        "content": "A high-up person who works for President Trump, named Pete Hegseth, is having some big problems. This is because planes attacked boats that supposedly had drugs. People on the boats kept doing their bad drug stuff even after the first attack, so there was another attack. Now, everyone is talking about whether he did the right thing and if President Trump is happy about it.",
+        "id": "story-1765085740271-0",
+        "headline": "An Admiral Says Boat Crash Survivors Were Still Smuggling Drugs.",
+        "content": "A really important Navy boss is going to tell the grown-ups in charge that the people who lived after a boat crash were still trying to smuggle drugs. This will tell everyone more about what happened and why the US military was involved in the first place.",
+        "originalSource": "The Wall Street Journal",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765085740271-1",
+        "headline": "Big Stores Want Their Money Back from President Trump's Taxes.",
+        "content": "Huge companies like Costco are getting ready to ask for lots of money back. This money is from special taxes they paid on things brought into the country. This is happening because the super important Supreme Court will soon decide if President Trump had the right to make those taxes in the first place.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-2",
+        "headline": "President Trump Makes It Harder for Tech Companies to Hire People.",
+        "content": "President Trump is making it tougher for big computer companies, like those that run social media. He's making new rules that make it harder for some people from other countries to get special permission to work here, especially those who check what goes online. It's like he's trying to stop them from taking down too many posts.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-3",
+        "headline": "The Coast Guard Caught SO Much Cocaine and Broke a Record!",
+        "content": "The U.S. Coast Guard did an amazing job and caught a super huge amount of bad drugs, about 20,000 pounds of cocaine, all at once! This is the most they've found in 18 years, setting a new record! It's a big win in the fight against people selling drugs.",
+        "originalSource": "CBS News",
+        "publishedTime": "Very Recently"
+      },
+      {
+        "id": "story-1765085740271-4",
+        "headline": "A TV Guy Might Be Making President Trump Mad.",
+        "content": "Pete Hegseth, a TV guy who really likes President Trump, is doing things that might break President Trump's unwritten rule about not firing people who are loyal to him. This is making people close to President Trump worry a lot.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765083170728-1",
-        "headline": "The FBI Finally Caught Someone Who Left Bombs",
-        "content": "The police, called the FBI, finally caught someone! This person put bomb-like things in Washington D.C. right before a big event on January 6th. People have been trying to figure out who did it for a very long time, and now the person is in court.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-2",
-        "headline": "Prisoners Used Clever Tricks to Break Out of Jail",
-        "content": "Some bad guys got out of jail in Louisiana! They were really smart. They managed to pull out big pieces of concrete from their cell walls. Then, they made a rope out of their bed sheets and climbed down the side of the prison building. Now, lots of police are searching for them everywhere.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765083170728-3",
-        "headline": "President Trump's Birthday is Now a Free Day at Parks",
-        "content": "President Trump's team changed some rules about when you can visit national parks for free. Now, President Trump's birthday is a free day! But they took away other free days that were there before, like for Martin Luther King Jr. Day and Juneteenth. Some people are not happy about this big change.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-4",
-        "headline": "Big Stores Want Their Money Back From Taxes",
-        "content": "Really big stores, like Costco, are asking for billions of dollars back from taxes they paid on things they brought into the country. They are waiting for the Supreme Court, which is like the highest judge, to decide if President Trump was allowed to put these taxes on things. If the court says no, it could mean huge changes for how America buys and sells things with other countries.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-5",
-        "headline": "Everyone is Talking About Taylor Swift's Wedding Plans",
-        "content": "Guess what?! Reports say that the super famous singer Taylor Swift and football player Travis Kelce have picked a special day and a super fancy place to get married. Everyone all over the world is super excited and talking about this news!",
-        "originalSource": "People.com",
+        "id": "story-1765085740271-5",
+        "headline": "Taylor Swift and Travis Kelce Picked a Wedding Day!",
+        "content": "Everyone is talking about it! The super famous singer Taylor Swift and football player Travis Kelce have decided when and where they will get married. They picked a special day and a fancy place, which makes everyone even more excited and curious!",
+        "originalSource": "Yahoo News / Page Six",
         "publishedTime": "15 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765083170728-0",
-        "headline": "The Echo of the Waves",
-        "content": "The maritime air still carried the scent of controversy. Pete Hegseth, a trusted official, stood firm amidst the storm. Airstrikes had targeted alleged drug boats, a necessary evil, yet the aftermath festered. Survivors, defiant, had reportedly resumed their illicit mission, prompting a contentious follow-up strike. Whispers of President Trump’s \"no scalps\" rule echoed through the halls, a silent warning against avoidable political fallout. Hegseth knew the stakes; his leadership, and the administration’s protocols, now navigated treacherous waters. The ocean held its secrets, but the political tide was rising, threatening to engulf more than just vessels.",
+        "id": "story-1765085740271-0",
+        "headline": "The Unfinished Voyage of the Smugglers",
+        "content": "The waves still whispered secrets of the midnight collision, but not all aboard had found peace. An admiral, grim-faced, prepared to reveal a stark truth to the hushed halls of Congress: the surviving crew, pulled from the wreckage, had never abandoned their illicit cargo. Even as the searchlights cut through the dark, their mission, steeped in the scent of salt and contraband, continued. Their desperate scramble for survival was merely an extension of their failed enterprise, a silent testament to a journey that, even in its devastating end, refused to truly cease. The mission, in their minds, was far from over.",
+        "originalSource": "The Wall Street Journal",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765085740271-1",
+        "headline": "The Tariff's Looming Shadow",
+        "content": "Boardrooms buzzed with anticipation, an air of cautious optimism replacing years of fiscal strain. Giants like Costco, their ledgers swollen with import taxes, eyed the Supreme Court. A decision loomed, poised to either legitimize or dismantle President Trump's sweeping tariffs, policies that had reshaped global commerce. If the highest court ruled the President had overstepped, a torrent of refund claims would flood the treasury, a financial tide turning back towards corporate coffers. The waiting was agonizing, each passing day a balance of hope and trepidation, as the nation awaited the final word on economic authority.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-2",
+        "headline": "The Digital Gatekeepers' New Challenge",
+        "content": "The digital realm, vast and often volatile, suddenly felt smaller. President Trump's administration, wielding new State Department rules, tightened the flow of H1-B visas, specifically targeting foreign workers crucial to content moderation. This wasn't merely immigration policy; it was a strategic squeeze, another move in the ongoing chess match against Big Tech. The White House aimed to curb perceived online censorship, applying pressure where it hurt—the workforce. As the visa gates narrowed, the tech giants, guardians of the internet's sprawling content, faced a fresh, complex challenge, their global operations now more intricately tied to domestic policy.",
+        "originalSource": "The Washington Post",
+        "publishedTime": "Latest Report"
+      },
+      {
+        "id": "story-1765085740271-3",
+        "headline": "The Ocean's Silent Burden",
+        "content": "Under the vast, indifferent sky, the Coast Guard vessel sliced through the waves, its cargo a staggering testament to a relentless war. Twenty thousand pounds of cocaine, a glistening mountain of illicit white, filled its decks, shattering an eighteen-year-old record. The ocean had yielded its silent burden, betraying the intricate networks that fueled its journey across international waters. Each brick represented countless shattered lives, a dark currency destined for destruction. The crew, weary but triumphant, knew this massive haul was a monumental victory, a temporary reprieve in the endless, high-stakes battle against the tide of drug trafficking.",
+        "originalSource": "CBS News",
+        "publishedTime": "Very Recently"
+      },
+      {
+        "id": "story-1765085740271-4",
+        "headline": "The Loyalist's Tightrope Walk",
+        "content": "The \"No Scalps\" rule, an unspoken presidential decree protecting loyalists from the political axe, hung precariously in the air. Pete Hegseth, a steadfast ally and familiar face on Fox News, was testing its limits, pushing boundaries in ways that sent shivers through the administration's inner circle. Whispers of concern, rare in the protective bubble around President Trump's most ardent supporters, grew louder. Hegseth's actions, whatever their nature, were becoming a significant gamble, threatening to unravel the informal pact of untouchability. The question lingered: even the most loyal could find themselves on thin ice.",
         "originalSource": "The Atlantic",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765083170728-1",
-        "headline": "Unveiling the Shadow",
-        "content": "For years, the ghost of January 6th lingered, shrouded in smoke and unanswered questions. The pipe bombs, discovered on the Capitol’s eve, were a chilling prelude, their creator a phantom. But the shadow had finally lifted. The FBI, relentless in their pursuit, had made their move, a major arrest breaking the long silence. The suspect, now stripped of anonymity, stood before the court, a tangible face to one of Washington D.C.’s most high-profile mysteries. The city, which had held its breath for so long, could finally begin to exhale, hoping for truth to emerge from the lingering darkness.",
-        "originalSource": "AP News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-2",
-        "headline": "A Thread of Freedom",
-        "content": "The night was a canvas for desperation in Louisiana. Within the grim walls, a desperate plan solidified. Patiently, meticulously, they chipped away at the concrete, each crumb a step closer to the outside world. When the breach was ready, humble bedsheets became their lifeline, braided into a makeshift rope, a whisper against the rough stone of the prison. One by one, they rappelled into the pre-dawn chill, their liberty a fragile gift. Now, the bayou hums with the urgency of sirens, a multi-agency dragnet stretching across the land, hunting for the fleeting taste of freedom.",
-        "originalSource": "The Guardian",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765083170728-3",
-        "headline": "The Shifting Calendar",
-        "content": "The national parks, once bastions of universal access on hallowed dates, saw their calendar reshaped by executive decree. A new day dawned for visitors, marked by the addition of President Trump’s birthday, a personal touch to public lands. Yet, the jubilant spirit of Juneteenth, a testament to freedom, and the solemn remembrance of Martin Luther King Jr. Day, a beacon of civil rights, were quietly excised. The policy shift rippled through the nation, sparking debate and criticism. For many, the free days no longer felt quite as free, a subtle change echoing deeper divisions.",
-        "originalSource": "CBS News",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-4",
-        "headline": "The Billions on Hold",
-        "content": "A financial tremor ran through corporate America. Billions, held hostage by tariffs, awaited liberation. Retail giants, like Costco, were at the forefront, demanding refunds, their ledgers straining under the weight of import taxes. All eyes now turned to the Supreme Court, the final arbiter. Its looming decision would weigh not just the immediate sums, but the very extent of presidential authority to impose such sweeping levies. The ruling, a potential earthquake in US trade, promised massive ramifications, determining who would pay, and who would reclaim their fortune from the intricate web of global commerce.",
-        "originalSource": "The Washington Post",
-        "publishedTime": "Recently reported"
-      },
-      {
-        "id": "story-1765083170728-5",
-        "headline": "The Global Vows",
-        "content": "The world collectively held its breath, tuning into every whisper. The queen of pop, Taylor Swift, and her gridiron king, Travis Kelce, had reportedly chosen their moment. A specific date, a luxurious venue – details of their impending union, once fiercely private, now spilled across headlines. The news ignited a global firestorm, a symphony of speculation and adoration. From fan accounts to major networks, the buzz was undeniable, their love story blossoming into a public spectacle. The impending \"I do\" wasn't just a personal milestone; it was a cultural event, watched by millions, destined to echo.",
-        "originalSource": "People.com",
+        "id": "story-1765085740271-5",
+        "headline": "A Symphony of Hearts and Starlight",
+        "content": "The world, it seemed, collectively held its breath. Taylor Swift, architect of global anthems, and Travis Kelce, titan of the gridiron, had whispered their intentions to the universe. A date, a location—carefully chosen, whispered now among the celebrity chroniclers—marked the next chapter in their high-profile romance. The media machine, already in a delighted frenzy, geared up for what promised to be the year's most anticipated union. Every detail, from the flowers to the guest list, would become a public fascination, transforming a personal vow into a shared spectacle, a symphony of hearts played out under the starlight.",
+        "originalSource": "Yahoo News / Page Six",
         "publishedTime": "15 hours ago"
       }
     ]
