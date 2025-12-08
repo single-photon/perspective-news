@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765213054207,
+  "timestamp": 1765220150183,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765212970502-0",
-        "headline": "Supreme Court Considers Eroding Checks and Balances, Empowering President Trump Over Independent Agencies",
-        "content": "The Supreme Court is currently deliberating on *Trump v. Slaughter*, a pivotal case that could dismantle a long-standing safeguard protecting crucial independent agencies from unilateral presidential dismissal. This potential ruling threatens to fundamentally shift the balance of power, allowing President Trump unprecedented control over the federal bureaucracy, a move that starkly aligns with the alarming objectives of 'Project 2025' to concentrate executive authority and undermine democratic accountability.",
-        "originalSource": "PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765220080672-0",
+        "headline": "Supreme Court Considers Presidential Power to Control Independent Agencies, Threatening Checks and Balances",
+        "content": "The Supreme Court heard pivotal arguments in *Trump v. Slaughter*, a case poised to significantly redefine presidential authority by examining the ability of President Trump to dismiss officials from independent executive branch agencies. This critical legal battle could drastically alter the foundational balance of power, raising profound concerns about the erosion of institutional independence and the potential for concentrated executive control over bodies designed to ensure public accountability.",
+        "originalSource": "Associated Press / CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-trump-v-slaughter-arguments/",
+        "publishedTime": "17 hours ago"
       },
       {
-        "id": "story-1765212970502-1",
-        "headline": "Massive Corporate Consolidation Continues as Paramount Skydance Bids Billions for Warner Bros. Discovery",
-        "content": "In a move signaling further alarming corporate consolidation, Paramount Skydance has tabled an astounding $108.4 billion offer to acquire Warner Bros. Discovery, directly challenging Netflix's recent maneuvers. This aggressive financial play underscores the relentless trend of media giants gobbling up competitors, potentially stifling diverse voices, limiting consumer choice, and concentrating unprecedented power within a handful of elite corporations, further exacerbating market inequities.",
-        "originalSource": "CBS News / AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 minutes ago"
-      },
-      {
-        "id": "story-1765212970502-2",
-        "headline": "Republican Infighting Threatens Governance as Speaker Johnson Grapples With Internal Revolts",
-        "content": "House Speaker Mike Johnson finds himself amidst a week of escalating chaos, besieged by mounting challenges from deeply fractured Republican factions. This internal turmoil, marked by resignations and retirements ahead of crucial midterms, highlights a party increasingly incapable of cohesive governance. The public entry of Rep. Elise Stefanik into the leadership debate further underscores the deep divisions and ideological extremism paralyzing a major political party, ultimately hindering progress on critical national issues.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765212970502-3",
-        "headline": "President Trump's Transactional Politics Exposed as He Demands Loyalty From Pardoned Democrat",
-        "content": "President Trump openly lambasted Texas Congressman Henry Cuellar, a Democrat, for a perceived \"lack of loyalty,\" exposing a disturbing pattern of transactional politics. This public rebuke follows Cuellar's decision to seek re-election as a Democrat, mere days after President Trump granted him a pardon for federal bribery charges. The incident underscores a concerning precedent where presidential power, specifically the pardon, appears to be wielded as a tool for personal allegiance rather than justice, raising serious questions about political ethics and accountability.",
-        "originalSource": "ms.now / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-4",
-        "headline": "President Trump Proposes Dangerous Militarization of Drug Policy, Threatening Civil Liberties",
-        "content": "President Trump has announced highly controversial plans to deploy military forces on land against alleged drug traffickers, marking a concerning escalation in the U.S. government's approach. This move, following what he termed a successful boat strike campaign, signals a dangerous shift towards militarizing domestic issues. Such a strategy risks trampling civil liberties, disproportionately impacting marginalized communities, and perpetuating the failed \"War on Drugs\" paradigm that has historically caused more harm than good, rather than addressing the systemic roots of drug and human trafficking.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-5",
-        "headline": "Systemic Racism Highlighted as Woman Fired for Racist Slurs Receives Significant Financial Support",
-        "content": "In a disturbing manifestation of pervasive systemic racism, a former Cinnabon employee in Wisconsin, who was terminated after a viral video captured her hurling racist slurs at a Somali couple, has controversially received over $20,000 in crowdfunded donations. This alarming online support for overt bigotry underscores how platforms can be leveraged to normalize and even reward hateful conduct, revealing a deep societal failure to confront and dismantle the entrenched roots of racism and intolerance within our communities.",
-        "originalSource": "CBS News / The Times of India",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "id": "story-1765220080672-1",
+        "headline": "Billion-Dollar Media Consolidation Battle Erupts as Paramount Skydance Launches Hostile Bid for Warner Bros Discovery",
+        "content": "A staggering $108.4 billion counter-bid from media giant Paramount Skydance to acquire Warner Bros. Discovery has ignited a major corporate battle, challenging Netflix's prior, lower-valued offer. This aggressive move underscores the escalating trend of media consolidation, which disproportionately benefits a few powerful corporations while threatening diverse content creation, journalistic integrity, and the democratic principle of varied information access for the public.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-bid/",
         "publishedTime": "20 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-2",
+        "headline": "President Trump's Social Media Attack on Rep. Greene Reveals Internal Fractures and Broad Media Hostility Within Right Wing",
+        "content": "Following a contentious '60 Minutes' interview, President Trump utilized social media to publicly chastise Georgia Republican Rep. Marjorie Taylor Greene, declaring her 'not AMERICA FIRST or MAGA.' This highly public condemnation, which also extended to '60 Minutes' and its parent company, Paramount, exposes deep ideological rifts within the right-wing movement and highlights a sustained pattern of attacks on mainstream media institutions, further undermining trust and promoting divisive narratives.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-responds-to-marjorie-taylor-greene-60-minutes-interview/",
+        "publishedTime": "14 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-3",
+        "headline": "President Trump's Special Envoy and Jared Kushner Engage in Secret Five-Hour Moscow Talks on Ukraine Peace Plan",
+        "content": "Reports have confirmed that President Trump's special envoy, Steve Witkoff, alongside his son-in-law Jared Kushner, traveled to Moscow for extensive, five-hour discussions with Russian President Vladimir Putin. These undisclosed talks focused on a US-authored proposal to end the ongoing war in Ukraine, raising significant questions about the transparency and diplomatic propriety of unilateral negotiations, potentially circumventing established international frameworks and alliances critical for genuine peace.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-envoy-visits-moscow-for-peace-talks/",
+        "publishedTime": "28 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-4",
+        "headline": "Strategic Pivot Sees Former Representative Allred Shift Focus from Texas Senate to House Comeback Bid",
+        "content": "Former Representative Colin Allred has strategically ended his campaign for the Texas Senate, announcing a pivot to seek re-election for a seat in the House of Representatives. This calculated move signals a refined electoral strategy aimed at re-entering Congress through his former district, underscoring the dynamic and often challenging landscape for progressive candidates striving to secure representation and advocate for working families in pivotal political races.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/allred-switches-to-house-bid-in-texas/",
+        "publishedTime": "53 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-5",
+        "headline": "Powerful 7.0 Earthquake Strikes Remote Indigenous Territory Near Alaska-Canada Border, Highlighting Disaster Preparedness Needs",
+        "content": "A substantial 7.0 magnitude earthquake recently struck a sparsely populated, remote region straddling the Alaska-Canada border. While initial reports suggest the isolated nature of the epicenter mitigated immediate widespread damage or casualties in major urban centers, the event underscores the critical importance of robust infrastructure, emergency preparedness, and support systems for indigenous communities and remote populations often most vulnerable to natural disasters and the compounding effects of environmental instability.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/world/earthquake-alaska-canada-border-7-0-magnitude",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765212970502-0",
-        "headline": "Supreme Court Hears Case Testing Presidential Firing Power Over Independent Agencies",
-        "content": "The Supreme Court is hearing *Trump v. Slaughter*, a major case that challenges a 90-year-old precedent protecting independent agencies from unchecked presidential removal. The ruling could significantly realign the balance of power, granting the president greater control over the federal bureaucracy, which aligns with 'Project 2025' goals.",
-        "originalSource": "PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765220080672-0",
+        "headline": "Supreme Court Hears Arguments in Major Case Testing Presidential Firing Power",
+        "content": "The Supreme Court heard arguments in a pivotal case, *Trump v. Slaughter*, which examines the scope of presidential authority, specifically the ability of the President to fire officials appointed to independent executive branch agencies and commissions. The ruling could significantly alter the balance of power.",
+        "originalSource": "Associated Press / CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-trump-v-slaughter-arguments/",
+        "publishedTime": "17 hours ago"
       },
       {
-        "id": "story-1765212970502-1",
-        "headline": "Paramount Skydance Makes $108.4 Billion Competing Bid for Warner Bros. Discovery",
-        "content": "Paramount Skydance has submitted a massive $108.4 billion offer to acquire Warner Bros. Discovery, creating a dramatic challenge to Netflix’s recent deal to purchase parts of the company. This aggressive move signals a major escalation in the ongoing consolidation and competition among global media giants.",
-        "originalSource": "CBS News / AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 minutes ago"
-      },
-      {
-        "id": "story-1765212970502-2",
-        "headline": "Speaker Johnson Faces Multiple Rebellions as Rep. Stefanik Jumps Into The Fray",
-        "content": "House Speaker Mike Johnson is navigating a turbulent week with mounting challenges from various internal Republican factions, including several members resigning or retiring ahead of midterms. The pressure intensified with Rep. Elise Stefanik's public involvement in the political debate surrounding the Speaker's leadership.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765212970502-3",
-        "headline": "Trump Slams Texas Democrat Rep. Cuellar for 'Lack of Loyalty' After Pardon",
-        "content": "President Donald Trump publicly criticized Texas Congressman Henry Cuellar, a Democrat, for his perceived 'lack of loyalty.' The rebuke came because Cuellar filed for re-election as a Democrat just days after receiving a pardon from Trump for federal bribery charges, sparking political controversy.",
-        "originalSource": "ms.now / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-4",
-        "headline": "Trump Vows to Launch Military Land Campaign Against Alleged Drug Traffickers",
-        "content": "President Donald Trump announced controversial plans to initiate a military campaign on land targeting alleged drug traffickers. The announcement follows what he deemed a successful boat strike campaign and signals a major escalation of the U.S. government's domestic and international strategy to combat drug and human trafficking.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-5",
-        "headline": "Fired Cinnabon Worker Who Hurled Racist Slurs Receives Over $20,000 in Donations",
-        "content": "A former Cinnabon employee in Wisconsin was fired after a viral video showed her shouting racist slurs at a Somali couple. In a controversial development that has sparked debate online, the former worker, Crystal Wilsey, has subsequently received more than $20,000 in crowdfunded donations.",
-        "originalSource": "CBS News / The Times of India",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "id": "story-1765220080672-1",
+        "headline": "Paramount Skydance Launches $108.4 Billion Hostile Bid for Warner Bros Discovery",
+        "content": "Media conglomerate Paramount Skydance has made a $108.4 billion counter-bid to acquire Warner Bros. Discovery, directly challenging the previously announced deal where Netflix had agreed to buy parts of the company for a lower valuation. The move signals a major battle for media assets.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-bid/",
         "publishedTime": "20 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-2",
+        "headline": "Trump Calls Marjorie Taylor Greene 'Not AMERICA FIRST or MAGA' After '60 Minutes' Interview",
+        "content": "President Trump took to social media to criticize Georgia Republican Rep. Marjorie Taylor Greene, stating she is 'not AMERICA FIRST or MAGA' following her contentious interview on the '60 Minutes' program. He also attacked both the news program and the parent company, Paramount.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-responds-to-marjorie-taylor-greene-60-minutes-interview/",
+        "publishedTime": "14 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-3",
+        "headline": "Trump Special Envoy and Kushner Visited Moscow for Five-Hour Talks with Putin on Ukraine Peace Plan",
+        "content": "Reports confirm that Steve Witkoff, special envoy for President Trump, and his son-in-law, Jared Kushner, traveled to Moscow last week to engage in five hours of discussions with Russian President Vladimir Putin regarding a US-authored proposal to end the ongoing war in Ukraine.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-envoy-visits-moscow-for-peace-talks/",
+        "publishedTime": "28 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-4",
+        "headline": "Former Rep. Allred Switches from Texas Senate Race to a House Comeback Bid",
+        "content": "Former Representative Colin Allred has ended his campaign for the Texas Senate and announced a pivot to run for a seat in the House of Representatives. The move signals a new strategy to re-enter Congress, focusing on his former district and a potential comeback bid.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/allred-switches-to-house-bid-in-texas/",
+        "publishedTime": "53 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-5",
+        "headline": "Magnitude 7.0 Earthquake Strikes Remote Region Near Alaska-Canada Border",
+        "content": "A powerful 7.0 magnitude earthquake was reported in a sparsely populated, remote area situated along the border between Alaska and Canada. Initial reports indicated that the remote location of the epicenter mitigated immediate concerns of widespread damage or casualties in major towns.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/world/earthquake-alaska-canada-border-7-0-magnitude",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765212970502-0",
-        "headline": "Supreme Court Considers Restoring Presidential Authority Over Unaccountable Federal Agencies",
-        "content": "The Supreme Court is currently reviewing Trump v. Slaughter, a pivotal case challenging a decades-old precedent that has shielded independent agencies from direct presidential oversight. This potential ruling could fundamentally rebalance power, granting the President essential control over the vast federal bureaucracy, a move consistent with efforts like 'Project 2025' to restore accountability and executive authority within our government.",
-        "originalSource": "PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765220080672-0",
+        "headline": "Supreme Court Considers Presidential Power to Rein in Bureaucracy",
+        "content": "The Supreme Court has begun hearing a significant case, *Trump v. Slaughter*, which stands to affirm the President's crucial authority to remove officials from independent executive branch agencies. This pivotal decision could strengthen the executive's ability to govern effectively and ensure accountability from unelected bureaucrats, upholding the balance of power essential to our republic.",
+        "originalSource": "Associated Press / CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-trump-v-slaughter-arguments/",
+        "publishedTime": "17 hours ago"
       },
       {
-        "id": "story-1765212970502-1",
-        "headline": "American Media Giants Engage in Billion-Dollar Battle for Warner Bros. Discovery",
-        "content": "Paramount Skydance has presented a substantial $108.4 billion offer to acquire Warner Bros. Discovery, directly challenging Netflix’s recent bid for company assets. This aggressive market action highlights the fierce competition and dynamic consolidation presently shaping the global media industry, demonstrating the robust nature of American enterprise.",
-        "originalSource": "CBS News / AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 minutes ago"
-      },
-      {
-        "id": "story-1765212970502-2",
-        "headline": "Speaker Johnson Navigates Internal Challenges While Upholding Republican Principles",
-        "content": "House Speaker Mike Johnson faces a demanding week, addressing various internal Republican factions and managing congressional departures ahead of upcoming midterms. The situation gained further public attention with Rep. Elise Stefanik's involvement in discussions surrounding the Speaker's important leadership role as he works to maintain party unity and advance conservative objectives.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765212970502-3",
-        "headline": "President Trump Criticizes Democrat Congressman Cuellar for Clear Lack of Loyalty After Pardon",
-        "content": "President Trump publicly rebuked Texas Congressman Henry Cuellar, a Democrat, for his perceived 'lack of loyalty.' This strong criticism came after Cuellar chose to file for re-election as a Democrat, just days following President Trump's decision to grant him a pardon for federal bribery charges, raising questions of integrity and political opportunism.",
-        "originalSource": "ms.now / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-4",
-        "headline": "President Trump Vows Decisive Military Action Against Drug Traffickers to Secure Our Nation",
-        "content": "President Trump has announced formidable plans to initiate a military land campaign directly targeting alleged drug traffickers. This declaration follows what President Trump deemed a highly successful boat strike campaign, signaling a significant escalation in the U.S. government's unwavering commitment to combating destructive drug and human trafficking both domestically and abroad, protecting American families.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-5",
-        "headline": "Fired Cinnabon Worker Receives Significant Public Donations Amidst Free Speech Debate",
-        "content": "A former Cinnabon employee in Wisconsin was terminated after a widely circulated video depicted her shouting alleged racist slurs at a Somali couple. In a development sparking considerable public debate, the former worker, Crystal Wilsey, has subsequently received over $20,000 in crowdfunded donations, highlighting ongoing discussions about consequences, 'cancel culture,' and private citizens' rights to support in the public square.",
-        "originalSource": "CBS News / The Times of India",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "id": "story-1765220080672-1",
+        "headline": "Paramount Skydance Initiates Aggressive Bid for Warner Bros Discovery",
+        "content": "In a bold move reflecting the dynamism of free markets, media giant Paramount Skydance has launched a formidable $108.4 billion counter-bid to acquire Warner Bros. Discovery. This challenge to Netflix's prior, lower offer signals a robust battle for significant media assets, showcasing intense competition in the private sector.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-bid/",
         "publishedTime": "20 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-2",
+        "headline": "President Trump Declares Rep. Greene Not Committed to America First Agenda",
+        "content": "President Trump utilized social media to clearly state that Georgia Republican Representative Marjorie Taylor Greene does not embody the 'AMERICA FIRST or MAGA' principles following her problematic interview on '60 Minutes'. President Trump also sharply criticized the biased news program and its parent company, Paramount, for their continued attacks on patriotic movements.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-responds-to-marjorie-taylor-greene-60-minutes-interview/",
+        "publishedTime": "14 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-3",
+        "headline": "President Trump's Envoys Engage in Critical Peace Talks with Russian President",
+        "content": "Reports confirm that Steve Witkoff, serving as a special envoy for President Trump, alongside Jared Kushner, traveled to Moscow last week. They conducted five hours of substantive discussions with Russian President Vladimir Putin, presenting a US-authored proposal designed to bring an end to the ongoing conflict in Ukraine, demonstrating a proactive approach to global stability.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-envoy-visits-moscow-for-peace-talks/",
+        "publishedTime": "28 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-4",
+        "headline": "Former Representative Allred Shifts Political Focus to House Re-Entry",
+        "content": "Former Representative Colin Allred has strategically concluded his campaign for the Texas Senate, announcing a calculated pivot to instead seek a seat in the House of Representatives. This maneuver signals a focused effort to return to Congress, concentrating on his former district in a bid for political resurgence.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/allred-switches-to-house-bid-in-texas/",
+        "publishedTime": "53 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-5",
+        "headline": "Powerful 7.0 Magnitude Earthquake Strikes Remote Alaska-Canada Border Region",
+        "content": "A significant 7.0 magnitude earthquake has been reported in a largely uninhabited, remote area along the Alaska-Canada border. Thankfully, initial assessments indicate that the epicenter's isolated location has significantly reduced immediate concerns for widespread damage or any major casualties in populated areas.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/world/earthquake-alaska-canada-border-7-0-magnitude",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765212970502-0",
-        "headline": "Supreme Court Considers Granting President Trump Power to Personally Fire All Americans Who Annoy Him",
-        "content": "The Supreme Court is currently contemplating whether President Trump should be legally empowered to personally dismiss any federal employee, agency head, or even particularly stubborn squirrel from their post without any pesky oversight. Legal experts are calling *Trump v. Slaughter* a pivotal moment that could finally allow the executive branch to streamline the entire federal bureaucracy, presumably by replacing everyone with a single, highly efficient AI that agrees with all presidential directives. This move aligns perfectly with 'Project 2025' goals of ensuring government operates solely on the President's personal whim, ensuring maximum efficiency and minimal independent thought.",
-        "originalSource": "PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765220080672-0",
+        "headline": "Supreme Court Grapples With Monumental Question: Can President Trump Fire Absolutely Everyone?",
+        "content": "The Supreme Court heard arguments this week in the landmark case of *Trump v. Slaughter*, which will ultimately decide if President Trump possesses the unprecedented power to dismiss any official, regardless of agency independence, simply because their aura clashed with his feng shui. Legal scholars predict the ruling could dramatically reshape the federal government, potentially allowing President Trump to fire a Supreme Court Justice for a questionable tie or an entire independent commission for serving lukewarm coffee.",
+        "originalSource": "Associated Press / CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-trump-v-slaughter-arguments/",
+        "publishedTime": "17 hours ago"
       },
       {
-        "id": "story-1765212970502-1",
-        "headline": "In Desperate Bid for All Human Eyeballs, Paramount Skydance Offers Planet Earth's Entire GDP for Warner Bros. Discovery",
-        "content": "In a move that shocked exactly no one familiar with the current media landscape, Paramount Skydance has reportedly launched a staggering $108.4 billion counter-offer for Warner Bros. Discovery, hoping to outbid Netflix for the rights to literally all content ever produced. Industry analysts are now predicting a future where a single conglomerate will own every movie, TV show, commercial jingle, and probably your own thoughts, ensuring maximum synergy and minimum choice. The ongoing battle is expected to continue until only one media giant remains, presumably ruling over a dystopian landscape where every street corner broadcasts its intellectual property 24/7.",
-        "originalSource": "CBS News / AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 minutes ago"
-      },
-      {
-        "id": "story-1765212970502-2",
-        "headline": "House Speaker Johnson Discovers His Job Requires Managing More Than Just a Particularly Ornery School Bus of Toddlers",
-        "content": "House Speaker Mike Johnson is reportedly having a simply delightful week, navigating what sources describe as a \"lighthearted disagreement\" among various Republican factions, several of whom are apparently exiting the political stage before the next election, presumably to pursue quieter careers as professional competitive nappers. The \"fun\" escalated with Rep. Elise Stefanik's public entrance into the debate, adding another layer of intrigue to the already perfectly harmonious and totally functional legislative body. Pundits are now speculating whether Johnson will resort to offering juice boxes and nap time to restore order.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765212970502-3",
-        "headline": "President Trump Expresses Shock After Pardoned Congressman Fails to Immediately Rename Firstborn Child 'Donald'",
-        "content": "President Trump was reportedly flabbergasted after Texas Congressman Henry Cuellar, a Democrat, exhibited what President Trump deemed an \"unacceptable lack of loyalty.\" Cuellar's egregious offense? Filing for re-election as a Democrat, mere days after President Trump graciously pardoned him from federal bribery charges. Apparently, President Trump was under the impression that a presidential pardon came with an unwritten clause mandating a lifetime of unquestioning devotion, possibly involving matching \"Team Trump\" tattoos and an immediate change of party affiliation, if not one's entire identity.",
-        "originalSource": "ms.now / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-4",
-        "headline": "President Trump Declares All-Out 'War on Weeds' with Ground Troops After Boats Prove Too Difficult for Leafy Targets",
-        "content": "President Trump, fresh off what he enthusiastically described as a \"tremendously successful\" boat strike campaign that presumably involved sternly lecturing some aquatic plants, has now announced even more ambitious plans: a full-scale military land invasion against alleged drug traffickers. This new strategy, which reportedly involves battalions of soldiers scouring backyards for rogue oregano plants, is being hailed as a major escalation in the U.S. government's ongoing, highly effective, and definitely not at all performative crusade against drug and human trafficking. Critics are already wondering if tanks can effectively differentiate between a drug cartel hideout and grandma's prize-winning petunias.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-5",
-        "headline": "Local Cinnabon Employee Instantly Becomes Wealthier Than Most Public School Teachers After Viral Video Captures Her Yelling Bad Words",
-        "content": "A former Cinnabon employee in Wisconsin, who was unfortunately dismissed after a viral video captured her shouting what many considered to be 'not-so-nice' words at a Somali couple, has discovered an unexpected silver lining to her unemployment. Crystal Wilsey, the ex-cinnamon roll purveyor, has since been showered with over $20,000 in crowdfunded donations, proving once again that in the modern internet age, having a publicly documented meltdown can be a significantly more lucrative career path than, say, actually working. Critics are now wondering if civility has simply become an outdated and financially unrewarding concept.",
-        "originalSource": "CBS News / The Times of India",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "id": "story-1765220080672-1",
+        "headline": "Paramount Skydance Launches Hostile $108.4 Billion Bid for Warner Bros Discovery, Prompting Global Content Scarcity Panic",
+        "content": "Media giant Paramount Skydance has unleashed a shocking $108.4 billion counter-bid to gobble up Warner Bros. Discovery, escalating a high-stakes corporate food fight that threatens to leave only two companies owning all known entertainment. Experts fear the move could lead to a future where every streaming service offers the same three shows, perpetually rebooted, and consumers are forced to subscribe to multiple identical platforms to watch them.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-bid/",
         "publishedTime": "20 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-2",
+        "headline": "President Trump Declares Marjorie Taylor Greene's '60 Minutes' Interview 'Not MAGA Enough' As Purity Test Guidelines Mysteriously Shift",
+        "content": "President Trump took to social media this week to announce that Georgia Republican Rep. Marjorie Taylor Greene's recent '60 Minutes' appearance was fundamentally 'not AMERICA FIRST or MAGA,' casting her from the hallowed halls of his approval. The pronouncement sent shockwaves through the conservative movement, leaving many to wonder what arcane criteria one must meet to remain sufficiently 'MAGA' in the ever-evolving political landscape, and whether Paramount would ever recover from such a scathing review.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-responds-to-marjorie-taylor-greene-60-minutes-interview/",
+        "publishedTime": "14 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-3",
+        "headline": "President Trump's Special Envoy And Son-In-Law Engage In Marathon Five-Hour Moscow Peace Talks, Reportedly Achieve Maximum Awkwardness",
+        "content": "Reports confirm that Steve Witkoff, special envoy for President Trump, and his son-in-law, Jared Kushner, recently endured a grueling five-hour meeting with Russian President Vladimir Putin in Moscow. The extraordinary marathon session was reportedly dedicated to hammering out a US-authored peace proposal for Ukraine, leaving many to speculate whether the real achievement was simply surviving five hours of small talk with the Russian leader without anyone accidentally declaring war.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-envoy-visits-moscow-for-peace-talks/",
+        "publishedTime": "28 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-4",
+        "headline": "Politician Realizes Senate Race Too Much Work, Settles For Significantly Easier House 'Comeback'",
+        "content": "Former Representative Colin Allred, after a brief and apparently exhausting foray into the Texas Senate race, has wisely decided to scale back his ambitions and instead pursue a much less demanding seat in the House of Representatives. Sources close to the campaign confirm the move signals a new, more relaxed strategy: 'Why bother trying to win a whole state when you can just win back a district you already know how to navigate?' he reportedly mused, dusting off his old congressional ID badge.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/allred-switches-to-house-bid-in-texas/",
+        "publishedTime": "53 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-5",
+        "headline": "Gigantic 7.0 Earthquake Rocks Remote Alaska-Canada Border, Only Slightly Inconveniences Local Sasquatch Population",
+        "content": "A colossal 7.0 magnitude earthquake violently shook a desolate, uninhabited expanse along the Alaska-Canada border this week, sending seismic waves through precisely zero urban centers. Initial reports confirm the event's remote location meant no significant damage occurred, aside from potentially jostling a few very confused bears and momentarily disrupting an ongoing debate between two Sasquatches over who gets to use the last remaining tree for back-scratching.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/world/earthquake-alaska-canada-border-7-0-magnitude",
+        "publishedTime": "10 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765212970502-0",
-        "headline": "The Big Court Will Decide If the President Can Fire People Easily.",
-        "content": "Imagine if the President could just fire anyone he wanted who works for the government, even people in special groups that are supposed to be kind of on their own. The Supreme Court, which is like the highest judge group, is looking at a really old rule from 90 years ago that says the President can't just fire these people whenever. This new case, called *Trump v. Slaughter*, might change that. If the President gets to fire more people, it means he could have a lot more power over how the government works. Some people think this is part of a plan called 'Project 2025' to give the President more control.",
-        "originalSource": "PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765220080672-0",
+        "headline": "The Supreme Court is Looking at Who the President Can Fire.",
+        "content": "The Supreme Court, which is like the highest court in America, is thinking about a very important case. They are trying to decide how much power President Trump has to fire people who work in special government jobs. This decision could change a lot about how the government works.",
+        "originalSource": "Associated Press / CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-trump-v-slaughter-arguments/",
+        "publishedTime": "17 hours ago"
       },
       {
-        "id": "story-1765212970502-1",
-        "headline": "Two Big Movie Companies Are Fighting to Buy Another One.",
-        "content": "Imagine if your favorite snack company tried to buy another snack company, but then a different snack company suddenly offered way more money! That's kind of what's happening with movie and TV companies. A company called Paramount Skydance just offered a HUGE amount of money, like $108.4 billion (that's A LOT of money!), to buy another big company called Warner Bros. Discovery. This is a big deal because another company, Netflix, was already trying to buy parts of Warner Bros. Discovery. It's like a big fight between giant companies to see who can own the most movies and TV shows.",
-        "originalSource": "CBS News / AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 minutes ago"
-      },
-      {
-        "id": "story-1765212970502-2",
-        "headline": "The Main Guy in Congress Is Having a Tough Time.",
-        "content": "Imagine being the leader of a big club, and suddenly a bunch of members are upset with you, and some are even quitting! That's kind of what's happening to Mike Johnson, who is the main leader of the House of Representatives (which is part of our government). Lots of people in his own political group, the Republicans, are giving him a hard time. Some are even leaving their jobs early. Things got even more tricky when another important person, Rep. Elise Stefanik, spoke up about his leadership, making the situation even harder for him.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765212970502-3",
-        "headline": "President Trump Is Upset About a Politician's Loyalty.",
-        "content": "President Trump was really mad at a politician named Henry Cuellar from Texas. President Trump had helped Mr. Cuellar by forgiving him for some trouble he was in, like bribery charges. But then, just a few days later, Mr. Cuellar decided to run for his job again as a Democrat, which is a different political group from President Trump. President Trump thought this showed that Mr. Cuellar wasn't 'loyal' to him, and it caused a big argument in politics.",
-        "originalSource": "ms.now / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-4",
-        "headline": "President Trump Wants to Use the Military to Fight Drugs.",
-        "content": "President Trump said he wants to send the military to fight against people who are supposedly selling illegal drugs. This would happen on land, like a big military action. He said this idea came after he thought a similar plan, but with boats, worked well. This means the government might get much tougher in its fight against bad people who move drugs and even other people illegally.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-5",
-        "headline": "A Fired Employee Got Lots of Money After Saying Mean Things.",
-        "content": "Someone who used to work at a Cinnabon store in Wisconsin got fired because a video showed her yelling really mean, hurtful words at a couple. These words were racist, which means they were mean because of someone's background or skin color. Even though she was fired for being mean, a lot of people online gave her money, more than $20,000! This made a lot of people online argue about whether that was fair or not.",
-        "originalSource": "CBS News / The Times of India",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "id": "story-1765220080672-1",
+        "headline": "One Big TV Company Wants to Buy Another Big TV Company.",
+        "content": "Imagine two big companies that make TV shows and movies. One company, Paramount Skydance, wants to buy another huge company called Warner Bros. Discovery for a lot, lot of money – over 100 billion dollars! This is happening even though another company, Netflix, was already trying to buy parts of Warner Bros. Discovery for less money. It's like a big fight to own the most popular TV and movie stuff.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-bid/",
         "publishedTime": "20 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-2",
+        "headline": "President Trump is Not Happy with Marjorie Taylor Greene.",
+        "content": "President Trump went on social media, which is like posting online, to say he didn't agree with a politician named Marjorie Taylor Greene. He said she wasn't \"AMERICA FIRST\" or \"MAGA\" after she had an interview on a TV show called '60 Minutes'. President Trump also said he didn't like the TV show or the company that owns it.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-responds-to-marjorie-taylor-greene-60-minutes-interview/",
+        "publishedTime": "14 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-3",
+        "headline": "President Trump's Team Talked Peace in Russia.",
+        "content": "Someone special who works for President Trump, named Steve Witkoff, and President Trump's son-in-law, Jared Kushner, went to Russia last week. They talked for five hours with Russia's President Putin about a plan from the United States to stop the war happening in Ukraine.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-envoy-visits-moscow-for-peace-talks/",
+        "publishedTime": "28 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-4",
+        "headline": "Colin Allred is Running for a Different Job.",
+        "content": "A person named Colin Allred used to be in government. He was trying to get a job in the Texas Senate, which is part of the government. But now, he has changed his mind and wants to try and get a different job in the House of Representatives, which is another part of the government. He wants to try and get back into Congress.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/allred-switches-to-house-bid-in-texas/",
+        "publishedTime": "53 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-5",
+        "headline": "A Big Earthquake Shook Alaska and Canada.",
+        "content": "A really big earthquake, like a strong shake of the ground, happened in a faraway place between Alaska and Canada. Because not many people live there, it doesn't seem like a lot of buildings were broken or many people got hurt in the bigger towns nearby.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/world/earthquake-alaska-canada-border-7-0-magnitude",
+        "publishedTime": "10 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765212970502-0",
-        "headline": "The Gavel's Long Shadow",
-        "content": "The Supreme Court chamber hummed with gravity, a 90-year-old precedent hanging in the balance. The case, *Trump v. Slaughter*, challenged the very walls protecting independent agencies from unchecked presidential removal. Should the justices empower President Trump to dismantle these safeguards, the federal bureaucracy's vast gears would align more tightly with the Oval Office's will. Whispers of 'Project 2025' goals, aimed at reshaping executive power, circulated. The ruling wouldn't merely change legal interpretation; it could redefine the balance of power, concentrating authority in a single office, shifting the very foundations of government oversight.",
-        "originalSource": "PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765220080672-0",
+        "headline": "The President's Untouchable Hand",
+        "content": "The Supreme Court's grand chamber hummed with electric tension. At the heart of the legal duel, *Trump v. Slaughter*, lay a profound question: how far did President Trump's authority extend in dismissing officials from independent agencies? The arguments dissected the delicate balance of power, scrutinizing the very fabric of executive reach. A ruling could dramatically reshape the presidency, either cementing a robust dismissal power or reinforcing checks and balances. The outcome, poised to define an era, would echo through every corridor of independent governance, determining who truly held the reins.",
+        "originalSource": "Associated Press / CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-trump-v-slaughter-arguments/",
+        "publishedTime": "17 hours ago"
       },
       {
-        "id": "story-1765212970502-1",
-        "headline": "Titans Clash in the Content Wars",
-        "content": "A tremor ran through the global media landscape. Paramount Skydance, with a stunning $108.4 billion offer, lunged for Warner Bros. Discovery. This wasn't merely a business transaction; it was a gauntlet thrown, a direct challenge to Netflix's recent maneuvers. The bid, colossal and audacious, signaled an intense escalation in the battle for dominance. Giants of entertainment, already consolidating, now faced a new, aggressive contender. The future of film, television, and streaming services hung in the balance, a high-stakes poker game where only the boldest could hope to control the narratives of tomorrow.",
-        "originalSource": "CBS News / AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
-        "publishedTime": "15 minutes ago"
-      },
-      {
-        "id": "story-1765212970502-2",
-        "headline": "Whispers in the Aisles",
-        "content": "Speaker Johnson walked the House corridors, each step heavy with the weight of simmering rebellion. His week was a crucible, forged by internal Republican factions challenging his leadership. Already, the midterms loomed, marked by the quiet exits of several colleagues—resignations and retirements painting a stark picture of internal disarray. Then, the fire intensified. Representative Elise Stefanik, a formidable voice, publicly entered the fray, her involvement adding fuel to the political debate. The Speaker's grip, once firm, now seemed tenuous, buffeted by the ceaseless currents of political infighting.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765212970502-3",
-        "headline": "A Pardon's Shadow",
-        "content": "The news hit like a political thunderclap: President Trump had publicly chastised Texas Congressman Henry Cuellar for his 'lack of loyalty.' The rebuke stemmed from a contentious act—Cuellar, a Democrat, filed for re-election just days after receiving a federal bribery pardon from President Trump. The act of mercy, meant to erase a past transgression, instead created a new political debt, an unspoken expectation of allegiance. When Cuellar chose his party over perceived gratitude, the presidential disapproval was swift and public, sparking a fierce debate about the true cost of a pardon and political allegiance.",
-        "originalSource": "ms.now / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-4",
-        "headline": "The Inland Front",
-        "content": "President Trump's declaration echoed with a new resolve: a military land campaign targeting alleged drug traffickers. Following what he hailed as a successful boat strike initiative, this move signaled a dramatic escalation. Critics warned of the implications, questioning the scope and authority of such a domestic and international strategy. Yet, the President's vision was clear—to unleash the full might of the U.S. government against the shadowy networks of drug and human trafficking, pushing the fight from the seas into the very heart of the land, a controversial new front in an old war.",
-        "originalSource": "ms.now",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765212970502-5",
-        "headline": "The Bitter Sweet Roll",
-        "content": "The viral video was stark: a Cinnabon worker, spewing racist slurs at a Somali couple. Swiftly, she was fired. Crystal Wilsey's outburst ended her job, but ignited a different kind of public firestorm. In a twist that fueled heated online debate, a crowdfunding campaign for Wilsey quickly surpassed $20,000. Supporters argued for free speech, while critics condemned the normalization of hate. The incident exposed a raw nerve in society, illustrating how easily outrage could transform into financial support, leaving many to grapple with the complex, often contradictory, currents of modern public opinion.",
-        "originalSource": "CBS News / The Times of India",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "id": "story-1765220080672-1",
+        "headline": "Titans of the Media Realm",
+        "content": "A tremor rattled the media landscape. Paramount Skydance, a leviathan of entertainment, launched a staggering $108.4 billion counter-bid for Warner Bros. Discovery. This audacious move wasn't merely a proposal; it was a hostile challenge, directly aimed at an earlier, less valued offer from Netflix. The corporate battlelines were drawn, stakes impossibly high. Two empires, vying for dominion over content, audiences, and the future of storytelling itself, clashed in a high-stakes financial war. The echoes of this billion-dollar standoff would redefine the industry's titans.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-bid/",
         "publishedTime": "20 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-2",
+        "headline": "A Storm on the Digital Wind",
+        "content": "The digital sphere crackled. Following her contentious '60 Minutes' interview, Rep. Marjorie Taylor Greene found herself in President Trump's crosshairs. His social media post was unequivocal, declaring her 'not AMERICA FIRST or MAGA.' The public critique extended beyond Greene, encompassing the news program itself and its parent company, Paramount. A political storm brewed, fueled by a leader's words, testing the bounds of loyalty within a movement. In the unforgiving glare of the online world, political alignments were swiftly, and very publicly, judged.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-responds-to-marjorie-taylor-greene-60-minutes-interview/",
+        "publishedTime": "14 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-3",
+        "headline": "Whispers in the Kremlin's Shadow",
+        "content": "Under Moscow's watchful gaze, a clandestine meeting unfolded. Steve Witkoff, President Trump's special envoy, alongside Jared Kushner, had arrived for five hours of intense discussions with Russian President Vladimir Putin. Their mission: to advance a US-authored proposal aimed at brokering peace in Ukraine. The air in the Kremlin office was thick with diplomacy and the weight of nations. Every word exchanged, every gesture, carried the immense potential to alter the course of a devastating conflict, a quiet pursuit of resolution in a tumultuous world.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-envoy-visits-moscow-for-peace-talks/",
+        "publishedTime": "28 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-4",
+        "headline": "The Political Pendulum Swings",
+        "content": "Colin Allred, once eyeing a grander stage, pivoted abruptly. His Texas Senate campaign, a chapter now closed, gave way to a renewed focus: a House comeback bid. It was a strategic retreat, not a surrender, signaling a calculated return to familiar territory. The former Representative aimed for his old district, a path he knew intimately, hoping to reignite the support that once carried him to Congress. The political winds shifted, carrying Allred back to a legislative battlefield where he intended to reclaim his seat, poised for a return to the fray.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/allred-switches-to-house-bid-in-texas/",
+        "publishedTime": "53 minutes ago"
+      },
+      {
+        "id": "story-1765220080672-5",
+        "headline": "The Earth's Silent Roar",
+        "content": "Deep beneath the rugged frontier where Alaska met Canada, the earth shuddered. A 7.0 magnitude earthquake, a primal force, ripped through the remote wilderness. Yet, in its immense power, a strange mercy was found. The epicenter's isolation, far from bustling towns and cities, softened its destructive potential. Houses didn't crumble, lives weren't instantly imperiled. The ground moved, mountains groaned, and the vast, uninhabited landscape absorbed the colossal tremor, a testament to nature's might, largely unseen, unfelt by human hand.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/world/earthquake-alaska-canada-border-7-0-magnitude",
+        "publishedTime": "10 hours ago"
       }
     ]
   }
