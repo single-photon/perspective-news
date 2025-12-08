@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765147009807,
+  "timestamp": 1765165765740,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765146928676-0",
-        "headline": "President Trump's Pardon Power Allegedly Weaponized for Political Loyalty, Raising Systemic Concerns",
-        "content": "The presidential pardon, intended for justice, appears to be exploited by President Trump as a tool for political allegiance. This troubling development, highlighted by the case of Rep. Henry Cuellar, exposes a systemic erosion of ethical governance and the potential for executive power to be transactional rather than principled, undermining public trust in democratic institutions.",
-        "originalSource": "AP News/inkl.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LD-3sEsaTn-I-u324dsIEcktVw7xZQ7u91nk9G37P-TvtlHHpxlpMLCWIf-CB0cqmPjVY7sNjG0V__vbGotGswtY2orkJv0pbbP60XBCBEvAePSG8M16aqAgY37xblYZ-SqwSnWqb7cu8sJr-E-chjg5el3bP0xGHi-z3CRvzSijbLx72qMB2CtyFTt697MmpO-DUkS-MJYEiA4NT0aM5FOy",
-        "publishedTime": "Today"
+        "id": "story-1765165683572-0",
+        "headline": "Supreme Court Considers President Trump's Unprecedented Bid to Expand Executive Power and Undermine Agency Independence",
+        "content": "The Supreme Court is poised to hear arguments in *Trump v. Slaughter*, a landmark case challenging a 90-year precedent that limits a president's power to fire leaders of independent agencies without cause. This case, initiated by President Trump's removal of FTC Commissioner Rebecca Kelly Slaughter, represents a critical test of presidential authority and the systemic checks and balances designed to prevent executive overreach. A ruling in President Trump's favor could fundamentally weaken the independence of crucial regulatory bodies, allowing for the greater politicization of non-partisan oversight and undermining the integrity of democratic governance.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ro0A0auBVsYIUyW6e8w8xRyiRss9rSVcbgn2ge5x5gqPOijiU4neBTlRameb5Z-XvFR6UU6HOdqK1PXT8yd7_N9edw-6AnZQKF-s6PHOYUKBn_7lSsHYGIbTtqSWL9bHq7EeLgboNtjYV-GTfnopl_sxsZn9aPmNvecH9ilv6EzfA2Sk1MJFjx5MyGTB2EZT9FX9N8VeCjxAEOrOCB4kqA4=",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765146928676-1",
-        "headline": "Crumbling Infrastructure Leads to Louisiana Jailbreak, Highlighting Urgent Need for Carceral Reform",
-        "content": "A jailbreak in St. Landry Parish, Louisiana, where inmates escaped through a \"deteriorating wall,\" underscores the dire, systemic failures within the nation's carceral system. This incident, tragically culminating in one inmate's suicide after capture, reveals chronic underfunding and neglect of public infrastructure, demanding immediate attention to humane conditions and comprehensive criminal justice reform.",
-        "originalSource": "wwltv.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYdoGHrcKx_VwKpxoQXdRZFJ8XxzRTDmodBgIf3qRkcENZaug2PVYAcUFatiCVGRG8L8s976c6zB_3hCMh1BtJrJW4SGDgTq5mEeEmzty2F6gzuiy_njsc4Im-Ruoqw9K3JYQTkVs3DqtWnr6T393ZqxCkdMWG3h6ZYu1jU49fcvoamdLn8zvufyv301T04dymWRN6oPIW4WgTPOsJV5M-sWD9TtL7aoZC8R5vS_mrJaLA_V2tmk5K4oK2zSqKmmQCpQa8TDcP2PMJdpmMbYsT7nOcriFD2Y8S",
-        "publishedTime": "December 7, 2025"
-      },
-      {
-        "id": "story-1765146928676-2",
-        "headline": "Powerful Earthquake Along Border Underlines Need for Robust Climate Resilience Planning",
-        "content": "A significant 7.0 magnitude earthquake near the Alaska-Canada border serves as a stark reminder of the planet's volatility and the critical need for proactive climate resilience planning. While no immediate damage was reported, such events disproportionately affect remote and Indigenous communities, emphasizing the systemic imperative for equitable resource allocation and robust infrastructure to protect vulnerable populations from increasingly unpredictable natural disasters.",
-        "originalSource": "Los Angeles Times/AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya_H-JfeK6bhxmwF8QIjNKk9JVgBfsRkiGj_umiTArtO9KDvqbVD-yF1HNW0YfJ7bNpOkhpgcRtvvFQXYbZrTpj5MdERMzrwCf9629FcbpLpgMoccz9OvJkuFp3yUwWeMxLwop2TixFwRCfH6f2nhEtt5ChLAbdPLZHUNDDBBHPjzQrKlsATsBXLyzdLUHg2-FGBpFvfiX-VXbQhI95SbvqeVpsSQGUcowQ==",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1765146928676-3",
-        "headline": "Political Violence Surges as President Trump's Redistricting Pressure Undermines Democratic Processes",
-        "content": "The alarming surge of violent threats, including pipe bomb scares and \"swatting\" attempts, targeting Indiana Republicans amid President Trump's push for partisan redistricting, signals a dangerous escalation of political extremism. This weaponization of rhetoric, aimed at consolidating power through gerrymandering, exposes a systemic attack on democratic norms and the integrity of fair representation, fostering an environment ripe for political violence.",
-        "originalSource": "AP News/whas11.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUrjMWVDtWb_Ux1HrQUBLyOtFztVZFnsCQqkszXLQCp9c1affhVVbaIcQ89lHzdkyc2F5y7hWvQ7Tf6f-yptnRnExn2N8YwwaZQJNed55ZyvCcC_5miOGyw5D0xnNGn7ccLotwMxh537MlzPWSgSRqqD5EEvZassyBgF4dAPiai6rzLuwET6ylqTUET1gFRhdQAzpzIakrfOQtQ4k8FnOA13Sd87MAzKFuRm-Nw2ZJWAYYfverHzmBjY8L3i_Vw==",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1765146928676-4",
-        "headline": "President Trump's Administration Attacks Truth, Restricting Visas for Crucial Fact-Checkers",
-        "content": "The President Trump administration's new H-1B visa restrictions for foreign content moderators and fact-checkers represent a profound assault on the integrity of online information. This move, framed as an anti-\"censorship\" campaign, instead functionally undermines critical efforts to combat the systemic spread of disinformation and hate speech, isolating global experts vital for a healthy, informed public discourse and free expression.",
+        "id": "story-1765165683572-1",
+        "headline": "Notre Dame's Bowl Game Withdrawal Exposes Deeper Systemic Flaws in Commercialized College Football Playoff System",
+        "content": "Notre Dame's decision to withdraw from all bowl game consideration after being excluded from the 12-team College Football Playoff field highlights the inherent inequities and commercial pressures dominating college football. Athletic Director Pete Bevacqua's description of 'overwhelming shock and sadness' points not just to a single team's disappointment, but to a system where subjective committees, driven by revenue and marketability, often override athletic merit and player well-being. This incident underscores the urgent need for a more transparent and equitable structure within college athletics that prioritizes student-athletes over profits.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHlNQTtdm9cxsTMcQ0m-oUlLPv62xp_EI410Un8n2fiJd4Xw-_MIbDoEuabXIrGGzRwNaFU-e3d86wF8Ig4uir6J7wI4gcbQ7aNjgOL2doiNPxr3BItKS4tDT_DfiD55LV6B3kRL-IqY1FeNuSK4dg9dTuxTO9GL6BZu_to5R06RDD4_z4kcQOQ==",
-        "publishedTime": "December 6, 2025"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMAGJRet0CxCrvoPx9S1A1z1kQzb52kipdcIe3lT7bklAe1xJ3gg8IFJfioZ7IuSfaoDrOW-3MFj7QOB0hEAV4d422FmKtWOvJQLegi602hosUa9OzkSYcY6nqJKSekUo-CgdDsmDi22GBUfNy6yMCRjyXzkRtJ_XvC4LOBy3o3HzvqpQa9N2sR0LAj9TFqRpd86rC8WUmPY25CCdi_gdcmFyPyQb5h6vtepHjbvflFnGG1aoqb_k=",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765146928676-5",
-        "headline": "Unchecked Military Power Leads to Civilian Deaths as President Trump's Administration Defends Lethal Action",
-        "content": "Defense Secretary Pete Hegseth's defense of a second, deadly U.S. strike on unarmed survivors clinging to a drug boat wreckage raises grave concerns about military accountability and human rights. The assertion that President Trump possesses unchecked power to authorize such actions highlights a systemic problem of executive overreach and the tragic human cost of a militarized \"war on drugs,\" demanding an immediate and transparent investigation into these egregious events.",
+        "id": "story-1765165683572-2",
+        "headline": "President Trump's Demand for Political Loyalty in Exchange for Pardon Reveals Disturbing Abuse of Executive Power",
+        "content": "President Trump publicly assailed Texas Rep. Henry Cuellar on Truth Social for a 'lack of LOYALTY' after the Democrat, whom President Trump recently pardoned in a federal bribery case, opted to run for re-election with his original party. President Trump's suggestion that clemency was contingent on a party switch exposes a profound and disturbing abuse of presidential pardon power, transforming a tool for justice into a political commodity. This transactional approach to governance corrodes the rule of law and underscores a systemic pattern of using state power for personal and partisan gain, rather than public service.",
+        "originalSource": "Yahoo News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2OmXcwBnEHvRXCNLmTjEtLG2miix1j5FJ773irhwkhBNjm_QcAolFraGdeQvTJDwFIjXUJWEWw5KygxUu_SoP30cUINTJKbgBfXxhmVnFo0kJrSOvTZMPteVrqLOkoVUMEsMOi7BNQKjQAlqaE-WWM9Dsu2o4agDm6qdWQaD1YnwfgtFN4ySEu0OE6t",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1765165683572-3",
+        "headline": "President Trump's Hosting of Kennedy Center Honors Raises Concerns About Politicization of Arts and Culture",
+        "content": "President Trump has taken the unprecedented step of personally hosting the annual Kennedy Center Honors ceremony, a move that critics argue further politicizes a cornerstone of American cultural recognition. With President Trump reportedly deeply involved in selecting honorees like actor Sylvester Stallone, rock band Kiss, and country singer George Strait, this decision blurs the lines between political office and artistic integrity. This action represents a broader systemic concern about the erosion of independent cultural institutions and the imposition of political preferences onto spaces traditionally dedicated to celebrating diverse artistic merit without partisan interference.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjWuEDwtf52cVVtzYWcvb8vqsm9eet24uYKnfWnK679bY8CF3IldC3lSLIwsTd1YVikxa81abjyllYgyzLxFiPASj5rThtKIGDruPo-qxO9ZY_NVA_0YoWTlwUq-BSwJx5JaTN-HZqDyGUfoucxs8AQIRyNK7DYu99gAA-8Q=",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765165683572-4",
+        "headline": "Democrats Demand Transparency on Alleged War Crime as Pentagon Withholds Video of Deadly Strike",
+        "content": "Democratic lawmakers are intensifying pressure on President Trump's administration to release video footage of a second military strike on an alleged drug boat, an incident that tragically killed two survivors clinging to wreckage. Critics allege the September attack could constitute a war crime, making the video crucial for determining its legality and accountability. The Pentagon's reluctance to release this evidence perpetuates a systemic lack of transparency, undermining public trust and hindering oversight of military actions. This secrecy prevents thorough investigations into potential human rights violations and the adherence to international law.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbR8ktRPxK0ZGXoBXpEiPYkgZ-P6nSzbcOEcxiJ-qLNvCWoY3JIfxbeifV5zHYao60x2IeifEoHFh-tixPINKVbDFyPhuXfjRNQEHZt38zxaOSEPikHCXqUiAgu6d_-C4U-XMcNXqOG6izfOC49yOE4Xk2Tc6tItItmfiXep0",
-        "publishedTime": "Yesterday"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdGN3ZIVr5dunUf1j2ij_5yJTfxuBOsXExG96G8TzRwyDKd48pyw_Hx5F6uWtksvr-HbEOfI-33gqPjny23hWUYv1jnCQcKneQGWRp2qvYIyqoq0XcRk0vJzqLjR44DktAeHsQnPvjmr8X3Tl5TA9XNb_xpzRQy9xFccSbZ45BiWCN9sesC1mDkuv0s0hchCVbMV2oG7D",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765165683572-5",
+        "headline": "Judicial Ruling Stymies President Trump's Justice Department in Apparent Politically Motivated Campaign Against Former FBI Director",
+        "content": "A federal judge has delivered a significant setback to President Trump's Justice Department in its prolonged effort to secure a new indictment against former FBI Director James Comey. This latest development in a legal saga widely perceived as politically motivated highlights a systemic issue within the administration: the weaponization of federal law enforcement for political retribution. The judiciary's intervention against what appears to be a sustained campaign underscores concerns about the erosion of impartial justice and the rule of law when the Justice Department is used to target political opponents rather than uphold its independent mandate.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsr2SgqvpCfFxcnuQvdB3tMSuFxg9bb5nm8-u-w4o64x79PPbE0ILrOJBcn4fKWRJpdI384gZnEcJG-1YeTRx3tVAogoVObzYfV2XWYzSaqfxx_Y19OO5T",
+        "publishedTime": "16 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765146928676-0",
-        "headline": "Trump Slams 'Lack of Loyalty' After Pardoned Democrat Henry Cuellar Says He Won't Change Party",
-        "content": "Days after granting a pardon to Rep. Henry Cuellar (D-Texas) and his wife on federal bribery charges, President Trump criticized the congressman for choosing to run for re-election as a Democrat. Trump posted on Truth Social that Cuellar's decision showed a \"lack of LOYALTY,\" reinforcing his public expectation of allegiance.",
-        "originalSource": "AP News/inkl.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LD-3sEsaTn-I-u324dsIEcktVw7xZQ7u91nk9G37P-TvtlHHpxlpMLCWIf-CB0cqmPjVY7sNjG0V__vbGotGswtY2orkJv0pbbP60XBCBEvAePSG8M16aqAgY37xblYZ-SqwSnWqb7cu8sJr-E-chjg5el3bP0xGHi-z3CRvzSijbLx72qMB2CtyFTt697MmpO-DUkS-MJYEiA4NT0aM5FOy",
-        "publishedTime": "Today"
+        "id": "story-1765165683572-0",
+        "headline": "Supreme Court to hear major test of presidential power in case over Trump's firing of FTC commissioner",
+        "content": "The Supreme Court is set to hear arguments in *Trump v. Slaughter*, a landmark case that challenges a 90-year precedent limiting the president's power to fire leaders of independent agencies without cause. The case, stemming from President Trump's removal of FTC Commissioner Rebecca Kelly Slaughter, will test the scope of presidential authority over the executive branch.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ro0A0auBVsYIUyW6e8w8xRyiRss9rSVcbgn2ge5x5gqPOijiU4neBTlRameb5Z-XvFR6UU6HOdqK1PXT8yd7_N9edw-6AnZQKF-s6PHOYUKBn_7lSsHYGIbTtqSWL9bHq7EeLgboNtjYV-GTfnopl_sxsZn9aPmNvecH9ilv6EzfA2Sk1MJFjx5MyGTB2EZT9FX9N8VeCjxAEOrOCB4kqA4=",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765146928676-1",
-        "headline": "Manhunt Continues for Last of Three Inmates Who Escaped Louisiana Jail",
-        "content": "Authorities in St. Landry Parish, Louisiana, are searching for Keith Eli, the final fugitive from a jail break that occurred after three inmates removed concrete blocks from a deteriorating wall. One of the other escapees was captured on Friday, and the third inmate died by suicide on Thursday after being tracked down by police.",
-        "originalSource": "wwltv.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYdoGHrcKx_VwKpxoQXdRZFJ8XxzRTDmodBgIf3qRkcENZaug2PVYAcUFatiCVGRG8L8s976c6zB_3hCMh1BtJrJW4SGDgTq5mEeEmzty2F6gzuiy_njsc4Im-Ruoqw9K3JYQTkVs3DqtWnr6T393ZqxCkdMWG3h6ZYu1jU49fcvoamdLn8zvufyv301T04dymWRN6oPIW4WgTPOsJV5M-sWD9TtL7aoZC8R5vS_mrJaLA_V2tmk5K4oK2zSqKmmQCpQa8TDcP2PMJdpmMbYsT7nOcriFD2Y8S",
-        "publishedTime": "December 7, 2025"
-      },
-      {
-        "id": "story-1765146928676-2",
-        "headline": "Magnitude-7.0 Earthquake Strikes Remote Area Along Alaska-Canada Border",
-        "content": "A powerful magnitude 7.0 earthquake shook a sparsely populated region straddling the Alaska-Yukon border on Saturday. The tremor was felt in Alaskan cities like Juneau and Yakutat. Officials reported no immediate injuries or structural damage, and the U.S. Tsunami Warning System confirmed there was no threat of a tsunami to the West Coast.",
-        "originalSource": "Los Angeles Times/AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya_H-JfeK6bhxmwF8QIjNKk9JVgBfsRkiGj_umiTArtO9KDvqbVD-yF1HNW0YfJ7bNpOkhpgcRtvvFQXYbZrTpj5MdERMzrwCf9629FcbpLpgMoccz9OvJkuFp3yUwWeMxLwop2TixFwRCfH6f2nhEtt5ChLAbdPLZHUNDDBBHPjzQrKlsATsBXLyzdLUHg2-FGBpFvfiX-VXbQhI95SbvqeVpsSQGUcowQ==",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1765146928676-3",
-        "headline": "Violent Threats Target Indiana Republicans Amid Trump’s Redistricting Pressure",
-        "content": "Indiana Senate Republicans are facing an intense and frightening pressure campaign, including a pipe bomb scare and 'swatting' attempts, as President Trump pushes for a redrawing of the state’s congressional map. The pressure is meant to expand GOP power, leaving the targeted lawmakers feeling exposed to the same political violence seen in recent years.",
-        "originalSource": "AP News/whas11.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUrjMWVDtWb_Ux1HrQUBLyOtFztVZFnsCQqkszXLQCp9c1affhVVbaIcQ89lHzdkyc2F5y7hWvQ7Tf6f-yptnRnExn2N8YwwaZQJNed55ZyvCcC_5miOGyw5D0xnNGn7ccLotwMxh537MlzPWSgSRqqD5EEvZassyBgF4dAPiai6rzLuwET6ylqTUET1gFRhdQAzpzIakrfOQtQ4k8FnOA13Sd87MAzKFuRm-Nw2ZJWAYYfverHzmBjY8L3i_Vw==",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1765146928676-4",
-        "headline": "Trump Administration Restricts H-1B Visas for Foreign Content Moderators and Fact-Checkers",
-        "content": "New State Department guidance restricts H-1B visas for skilled foreign workers involved in online content moderation, fact-checking, and 'trust and safety' at tech companies. The move is an escalation of the Trump administration's campaign against perceived \"censorship\" of Americans' free speech, requiring consular officials to thoroughly vet applicants for such activities.",
+        "id": "story-1765165683572-1",
+        "headline": "Notre Dame opts out of bowl game after getting 'punched in the stomach' by CFP snub",
+        "content": "Notre Dame's football team has withdrawn from all bowl game consideration after being left out of the 12-team College Football Playoff field. Athletic Director Pete Bevacqua stated the decision left the program with 'overwhelming shock and sadness,' describing the selection committee's exclusion of the 10-win Fighting Irish as a punch to the stomach.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHlNQTtdm9cxsTMcQ0m-oUlLPv62xp_EI410Un8n2fiJd4Xw-_MIbDoEuabXIrGGzRwNaFU-e3d86wF8Ig4uir6J7wI4gcbQ7aNjgOL2doiNPxr3BItKS4tDT_DfiD55LV6B3kRL-IqY1FeNuSK4dg9dTuxTO9GL6BZu_to5R06RDD4_z4kcQOQ==",
-        "publishedTime": "December 6, 2025"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMAGJRet0CxCrvoPx9S1A1z1kQzb52kipdcIe3lT7bklAe1xJ3gg8IFJfioZ7IuSfaoDrOW-3MFj7QOB0hEAV4d422FmKtWOvJQLegi602hosUa9OzkSYcY6nqJKSekUo-CgdDsmDi22GBUfNy6yMCRjyXzkRtJ_XvC4LOBy3o3HzvqpQa9N2sR0LAj9TFqRpd86rC8WUmPY25CCdi_gdcmFyPyQb5h6vtepHjbvflFnGG1aoqb_k=",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765146928676-5",
-        "headline": "Defense Secretary Hegseth Defends Deadly Second US Strike on Drug Boat Survivors",
-        "content": "Defense Secretary Pete Hegseth defended US military strikes on alleged drug cartel boats, amidst growing scrutiny over a video shown to senators. The footage reportedly showed a second strike killed two unarmed survivors who had clung to the wreckage for an hour. Hegseth dismissed criticism, stating the President has power to take military action as he sees fit.",
+        "id": "story-1765165683572-2",
+        "headline": "Trump slams pardoned Democratic congressman as 'disloyal' for not switching parties",
+        "content": "President Trump publicly criticized Texas Rep. Henry Cuellar on Truth Social for a \"lack of LOYALTY\" after the Democrat, whom Trump recently pardoned in a federal bribery case, announced he would run for re-election with his former party. Trump suggested the clemency was meant to encourage a party switch.",
+        "originalSource": "Yahoo News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2OmXcwBnEHvRXCNLmTjEtLG2miix1j5FJ773irhwkhBNjm_QcAolFraGdeQvTJDwFIjXUJWEWw5KygxUu_SoP30cUINTJKbgBfXxhmVnFo0kJrSOvTZMPteVrqLOkoVUMEsMOi7BNQKjQAlqaE-WWM9Dsu2o4agDm6qdWQaD1YnwfgtFN4ySEu0OE6t",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1765165683572-3",
+        "headline": "Trump set to host Kennedy Center Honors, recognizing Sylvester Stallone, George Strait, Kiss and more",
+        "content": "President Trump solidified his takeover of the John F. Kennedy Center for the Performing Arts by hosting the annual Kennedy Center Honors ceremony on Sunday, a first for a sitting president. The event honored actor Sylvester Stallone, the rock band Kiss, country singer George Strait, and others whom Trump was deeply involved in choosing.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjWuEDwtf52cVVtzYWcvb8vqsm9eet24uYKnfWnK679bY8CF3IldC3lSLIwsTd1YVikxa81abjyllYgyzLxFiPASj5rThtKIGDruPo-qxO9ZY_NVA_0YoWTlwUq-BSwJx5JaTN-HZqDyGUfoucxs8AQIRyNK7DYu99gAA-8Q=",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765165683572-4",
+        "headline": "Democrats urge Pentagon to release video of strike on alleged drug boat",
+        "content": "Democratic lawmakers are escalating pressure on the Trump administration to release video of a second military strike on an alleged drug boat that killed two survivors clinging to wreckage. They argue the footage is crucial to determining the legality of the September attack, which some critics have alleged could constitute a war crime.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbR8ktRPxK0ZGXoBXpEiPYkgZ-P6nSzbcOEcxiJ-qLNvCWoY3JIfxbeifV5zHYao60x2IeifEoHFh-tixPINKVbDFyPhuXfjRNQEHZt38zxaOSEPikHCXqUiAgu6d_-C4U-XMcNXqOG6izfOC49yOE4Xk2Tc6tItItmfiXep0",
-        "publishedTime": "Yesterday"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdGN3ZIVr5dunUf1j2ij_5yJTfxuBOsXExG96G8TzRwyDKd48pyw_Hx5F6uWtksvr-HbEOfI-33gqPjny23hWUYv1jnCQcKneQGWRp2qvYIyqoq0XcRk0vJzqLjR44DktAeHsQnPvjmr8X3Tl5TA9XNb_xpzRQy9xFccSbZ45BiWCN9sesC1mDkuv0s0hchCVbMV2oG7D",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765165683572-5",
+        "headline": "Federal judge sets back Justice Department's effort to seek new indictment against Comey",
+        "content": "A federal judge has dealt a setback to the Justice Department's efforts to seek a new indictment against former FBI Director James Comey. The development is the latest twist in a long-running legal saga against Comey, which has been widely viewed as politically motivated.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsr2SgqvpCfFxcnuQvdB3tMSuFxg9bb5nm8-u-w4o64x79PPbE0ILrOJBcn4fKWRJpdI384gZnEcJG-1YeTRx3tVAogoVObzYfV2XWYzSaqfxx_Y19OO5T",
+        "publishedTime": "16 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765146928676-0",
-        "headline": "President Trump Rightfully Questions Loyalty After Pardoned Democrat Cuellar Refuses Party Switch.",
-        "content": "President Trump expressed his disappointment, using Truth Social to highlight a \"lack of LOYALTY\" from Representative Henry Cuellar (D-Texas). Just days after President Trump extended a presidential pardon to Cuellar and his wife for federal bribery charges, the Democrat announced his intent to seek re-election under the same party banner. This act underscores President Trump's consistent belief that such clemency should be met with an alignment towards principles of liberty and integrity, a sentiment clearly lost on some political figures.",
-        "originalSource": "AP News/inkl.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LD-3sEsaTn-I-u324dsIEcktVw7xZQ7u91nk9G37P-TvtlHHpxlpMLCWIf-CB0cqmPjVY7sNjG0V__vbGotGswtY2orkJv0pbbP60XBCBEvAePSG8M16aqAgY37xblYZ-SqwSnWqb7cu8sJr-E-chjg5el3bP0xGHi-z3CRvzSijbLx72qMB2CtyFTt697MmpO-DUkS-MJYEiA4NT0aM5FOy",
-        "publishedTime": "Today"
+        "id": "story-1765165683572-0",
+        "headline": "Supreme Court to Hear Critical Case Affirming President's Power Over Bureaucracy",
+        "content": "The Supreme Court is set to review a landmark case, *President Trump v. Slaughter*, which fundamentally challenges a 90-year-old precedent that has severely limited the President's inherent power to remove leaders of independent agencies without cause. This crucial case, stemming from President Trump's decisive action to remove FTC Commissioner Rebecca Kelly Slaughter, will unequivocally test the vital scope of presidential authority over the sprawling executive branch, ensuring accountability for unelected bureaucrats.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ro0A0auBVsYIUyW6e8w8xRyiRss9rSVcbgn2ge5x5gqPOijiU4neBTlRameb5Z-XvFR6UU6HOdqK1PXT8yd7_N9edw-6AnZQKF-s6PHOYUKBn_7lSsHYGIbTtqSWL9bHq7EeLgboNtjYV-GTfnopl_sxsZn9aPmNvecH9ilv6EzfA2Sk1MJFjx5MyGTB2EZT9FX9N8VeCjxAEOrOCB4kqA4=",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765146928676-1",
-        "headline": "Law Enforcement Persists in Search for Final Fugitive After Louisiana Jailbreak Exposes Security Lapses.",
-        "content": "St. Landry Parish, Louisiana, authorities are tirelessly working to apprehend Keith Eli, the last remaining fugitive from a concerning jailbreak. This incident, where three inmates exploited a deteriorating wall to escape by removing concrete blocks, highlights critical security vulnerabilities that jeopardize public safety. While two of the escapees have been accounted for, with one captured and another tragically dying by suicide, the ongoing manhunt for Eli underscores the vital importance of secure detention facilities and swift justice to protect our communities from criminal elements.",
-        "originalSource": "wwltv.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYdoGHrcKx_VwKpxoQXdRZFJ8XxzRTDmodBgIf3qRkcENZaug2PVYAcUFatiCVGRG8L8s976c6zB_3hCMh1BtJrJW4SGDgTq5mEeEmzty2F6gzuiy_njsc4Im-Ruoqw9K3JYQTkVs3DqtWnr6T393ZqxCkdMWG3h6ZYu1jU49fcvoamdLn8zvufyv301T04dymWRN6oPIW4WgTPOsJV5M-sWD9TtL7aoZC8R5vS_mrJaLA_V2tmk5K4oK2zSqKmmQCpQa8TDcP2PMJdpmMbYsT7nOcriFD2Y8S",
-        "publishedTime": "December 7, 2025"
-      },
-      {
-        "id": "story-1765146928676-2",
-        "headline": "Powerful Earthquake Rattles Alaska-Canada Border Region, Thankfully Causing No Major Damage.",
-        "content": "A significant magnitude 7.0 earthquake recently struck a remote area along the Alaska-Yukon border, reminding us of nature's raw power. Residents in Alaskan cities such as Juneau and Yakutat felt the tremor, yet reports thankfully confirm no immediate injuries or structural damage. The U.S. Tsunami Warning System quickly assessed the situation, assuring the West Coast that no tsunami threat existed. This event showcases the resilience of our northern communities and the efficiency of early warning systems, preventing unnecessary alarm.",
-        "originalSource": "Los Angeles Times/AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya_H-JfeK6bhxmwF8QIjNKk9JVgBfsRkiGj_umiTArtO9KDvqbVD-yF1HNW0YfJ7bNpOkhpgcRtvvFQXYbZrTpj5MdERMzrwCf9629FcbpLpgMoccz9OvJkuFp3yUwWeMxLwop2TixFwRCfH6f2nhEtt5ChLAbdPLZHUNDDBBHPjzQrKlsATsBXLyzdLUHg2-FGBpFvfiX-VXbQhI95SbvqeVpsSQGUcowQ==",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1765146928676-3",
-        "headline": "Indiana Republicans Face Unacceptable Political Violence Amidst President Trump's Redistricting Push.",
-        "content": "Indiana Senate Republicans are currently enduring a disturbing and intense campaign of political intimidation, including terrifying pipe bomb scares and dangerous 'swatting' incidents. These egregious acts of violence are surfacing amidst President Trump's legitimate efforts to advocate for a redrawing of the state’s congressional map, aimed at strengthening the Republican Party's voice. Such tactics undermine the very foundation of our democratic process and liberty, exposing lawmakers to the same appalling political violence that has become a dangerous trend in recent years. This lawlessness must be unequivocally condemned, and those responsible brought to justice.",
-        "originalSource": "AP News/whas11.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUrjMWVDtWb_Ux1HrQUBLyOtFztVZFnsCQqkszXLQCp9c1affhVVbaIcQ89lHzdkyc2F5y7hWvQ7Tf6f-yptnRnExn2N8YwwaZQJNed55ZyvCcC_5miOGyw5D0xnNGn7ccLotwMxh537MlzPWSgSRqqD5EEvZassyBgF4dAPiai6rzLuwET6ylqTUET1gFRhdQAzpzIakrfOQtQ4k8FnOA13Sd87MAzKFuRm-Nw2ZJWAYYfverHzmBjY8L3i_Vw==",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1765146928676-4",
-        "headline": "President Trump's Administration Upholds Free Speech by Restricting Visas for Foreign Censors.",
-        "content": "In a decisive move to safeguard American liberties, the State Department, under President Trump, has issued new guidance restricting H-1B visas for foreign workers involved in online content moderation, \"fact-checking,\" and \"trust and safety\" roles within tech companies. This vital action directly confronts the growing concern over perceived \"censorship\" of Americans' constitutional right to free speech online. Consular officials are now mandated to rigorously vet applicants for these positions, ensuring that foreign entities do not unduly influence or suppress the free exchange of ideas foundational to our republic.",
+        "id": "story-1765165683572-1",
+        "headline": "Notre Dame Takes Principled Stand After Unjust College Playoff Exclusion",
+        "content": "Notre Dame's esteemed football program has honorably withdrawn from all bowl game consideration after being shockingly overlooked for the 12-team College Football Playoff field. Athletic Director Pete Bevacqua expressed 'overwhelming shock and sadness' at the decision, describing the selection committee's unfair exclusion of the 10-win Fighting Irish as a profound blow to traditional merit and fairness in collegiate sports.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHlNQTtdm9cxsTMcQ0m-oUlLPv62xp_EI410Un8n2fiJd4Xw-_MIbDoEuabXIrGGzRwNaFU-e3d86wF8Ig4uir6J7wI4gcbQ7aNjgOL2doiNPxr3BItKS4tDT_DfiD55LV6B3kRL-IqY1FeNuSK4dg9dTuxTO9GL6BZu_to5R06RDD4_z4kcQOQ==",
-        "publishedTime": "December 6, 2025"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMAGJRet0CxCrvoPx9S1A1z1kQzb52kipdcIe3lT7bklAe1xJ3gg8IFJfioZ7IuSfaoDrOW-3MFj7QOB0hEAV4d422FmKtWOvJQLegi602hosUa9OzkSYcY6nqJKSekUo-CgdDsmDi22GBUfNy6yMCRjyXzkRtJ_XvC4LOBy3o3HzvqpQa9N2sR0LAj9TFqRpd86rC8WUmPY25CCdi_gdcmFyPyQb5h6vtepHjbvflFnGG1aoqb_k=",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765146928676-5",
-        "headline": "Defense Secretary Hegseth Firmly Backs Decisive Action Against Drug Cartels, Upholding Presidential Authority.",
-        "content": "Defense Secretary Pete Hegseth staunchly defended recent U.S. military strikes against alleged drug cartel vessels, underscoring the President's constitutional authority to take decisive military action. Amidst scrutiny, including a video reportedly depicting a second strike on survivors, Secretary Hegseth emphasized that such operations are critical to combating dangerous criminal organizations. His stance reinforces the administration's commitment to national security and the relentless pursuit of those who threaten our borders and way of life, acknowledging the tough decisions required to protect our nation.",
+        "id": "story-1765165683572-2",
+        "headline": "President Trump Calls Out Pardoned Democrat's Lack of Loyalty After Rebuffing Party Switch",
+        "content": "President Trump publicly criticized Texas Representative Henry Cuellar on Truth Social for a clear 'lack of LOYALTY' after the Democrat, whom President Trump recently pardoned in a federal bribery case, brazenly announced his intention to run for re-election with his former party. President Trump clearly indicated that the act of clemency was extended with the reasonable expectation of encouraging a much-needed party switch.",
+        "originalSource": "Yahoo News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2OmXcwBnEHvRXCNLmTjEtLG2miix1j5FJ773irhwkhBNjm_QcAolFraGdeQvTJDwFIjXUJWEWw5KygxUu_SoP30cUINTJKbgBfXxhmVnFo0kJrSOvTZMPteVrqLOkoVUMEsMOi7BNQKjQAlqaE-WWM9Dsu2o4agDm6qdWQaD1YnwfgtFN4ySEu0OE6t",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1765165683572-3",
+        "headline": "President Trump Brings American Icons to Kennedy Center Honors, Reclaiming Culture for the People",
+        "content": "President Trump has decisively solidified his leadership at the John F. Kennedy Center for the Performing Arts by personally hosting the annual Kennedy Center Honors ceremony on Sunday, a historic first for a sitting president. This significant event proudly honored American actor Sylvester Stallone, the legendary rock band Kiss, country music icon George Strait, and other truly deserving figures whom President Trump was deeply involved in choosing, bringing traditional American values back to the forefront.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjWuEDwtf52cVVtzYWcvb8vqsm9eet24uYKnfWnK679bY8CF3IldC3lSLIwsTd1YVikxa81abjyllYgyzLxFiPASj5rThtKIGDruPo-qxO9ZY_NVA_0YoWTlwUq-BSwJx5JaTN-HZqDyGUfoucxs8AQIRyNK7DYu99gAA-8Q=",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765165683572-4",
+        "headline": "Democrats Demand Footage of Anti-Drug Operation, Questioning Military's Vital Work",
+        "content": "Democratic lawmakers are inexplicably escalating pressure on the President Trump administration to release video of a second military strike on an alleged drug boat that regrettably resulted in the deaths of two survivors clinging to wreckage. They assert the footage is crucial for determining the legality of the September attack, with some critics baselessly alleging it could constitute a war crime, thereby undermining the necessary and crucial work of our military against illicit activities.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbR8ktRPxK0ZGXoBXpEiPYkgZ-P6nSzbcOEcxiJ-qLNvCWoY3JIfxbeifV5zHYao60x2IeifEoHFh-tixPINKVbDFyPhuXfjRNQEHZt38zxaOSEPikHCXqUiAgu6d_-C4U-XMcNXqOG6izfOC49yOE4Xk2Tc6tItItmfiXep0",
-        "publishedTime": "Yesterday"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdGN3ZIVr5dunUf1j2ij_5yJTfxuBOsXExG96G8TzRwyDKd48pyw_Hx5F6uWtksvr-HbEOfI-33gqPjny23hWUYv1jnCQcKneQGWRp2qvYIyqoq0XcRk0vJzqLjR44DktAeHsQnPvjmr8X3Tl5TA9XNb_xpzRQy9xFccSbZ45BiWCN9sesC1mDkuv0s0hchCVbMV2oG7D",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765165683572-5",
+        "headline": "Federal Judge Blocks Renewed Push to Hold Comey Accountable for His Actions",
+        "content": "A federal judge has unfortunately dealt a setback to the Justice Department's diligent efforts to seek a new indictment against disgraced former FBI Director James Comey. This development marks the latest twist in a long-running legal saga against Comey, which has been widely understood as an essential pursuit of justice against an official whose actions were politically motivated and deeply concerning.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsr2SgqvpCfFxcnuQvdB3tMSuFxg9bb5nm8-u-w4o64x79PPbE0ILrOJBcn4fKWRJpdI384gZnEcJG-1YeTRx3tVAogoVObzYfV2XWYzSaqfxx_Y19OO5T",
+        "publishedTime": "16 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765146928676-0",
-        "headline": "President Trump Shocked That Pardon Doesn't Include Lifetime Supply Of Undying Fealty And Party Registration Change",
-        "content": "President Trump expressed his \"utter bewilderment\" today, declaring that his recent magnanimous pardon of Rep. Henry Cuellar (D-Texas) and his wife \"clearly came with an unspoken, legally binding clause requiring an immediate, public, and enthusiastic party switch.\" The President, who reportedly believed a pardon automatically conferred an unbreakable blood oath of allegiance, was reportedly \"visibly miffed\" when Cuellar merely continued his career as a Democrat, calling it a \"stunning display of ingratitude and a complete disregard for the sacred art of the political quid pro quo.\" Sources close to President Trump confirmed he is now considering adding a \"loyalty oath\" checkbox to all future pardon applications, just to avoid such \"unpleasant surprises.\"",
-        "originalSource": "AP News/inkl.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LD-3sEsaTn-I-u324dsIEcktVw7xZQ7u91nk9G37P-TvtlHHpxlpMLCWIf-CB0cqmPjVY7sNjG0V__vbGotGswtY2orkJv0pbbP60XBCBEvAePSG8M16aqAgY37xblYZ-SqwSnWqb7cu8sJr-E-chjg5el3bP0xGHi-z3CRvzSijbLx72qMB2CtyFTt697MmpO-DUkS-MJYEiA4NT0aM5FOy",
-        "publishedTime": "Today"
+        "id": "story-1765165683572-0",
+        "headline": "President Trump Asks Supreme Court If He Can Fire Federal Employees Just Because Their Aura Is 'Off'.",
+        "content": "In a historic case that could redefine presidential authority as 'absolute monarch, but with better poll numbers,' the Supreme Court is bracing to hear *Trump v. Slaughter*. The landmark challenge stems from President Trump's bold decision to relieve FTC Commissioner Rebecca Kelly Slaughter of her duties, allegedly because her energy didn't 'vibe' with his. Legal experts predict this case will either cement the president's power to fire anyone who mildly inconveniences him, or at least force the court to admit that 90-year-old precedents are simply too old to care about anymore.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ro0A0auBVsYIUyW6e8w8xRyiRss9rSVcbgn2ge5x5gqPOijiU4neBTlRameb5Z-XvFR6UU6HOdqK1PXT8yd7_N9edw-6AnZQKF-s6PHOYUKBn_7lSsHYGIbTtqSWL9bHq7EeLgboNtjYV-GTfnopl_sxsZn9aPmNvecH9ilv6EzfA2Sk1MJFjx5MyGTB2EZT9FX9N8VeCjxAEOrOCB4kqA4=",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765146928676-1",
-        "headline": "Local Jail's \"Structural Integrity\" Found To Be More Of A Suggestion Than A Rule As Final Fugitive Eludes Capture",
-        "content": "The thrilling saga of St. Landry Parish's \"great escape\" continues as authorities desperately scour the area for Keith Eli, the last remaining fugitive from a prison break so low-tech it reportedly involved \"carefully removing concrete blocks from a deteriorating wall.\" Locals are baffled, wondering if the jail's security plan was simply \"hoping nobody noticed the giant holes.\" One escapee was promptly re-captured, while another, perhaps overcome by the sheer indignity of escaping a building that could be breached by a determined toddler, tragically opted out. Officials are now considering replacing the crumbling walls with \"a strongly worded memo\" or possibly \"a slightly firmer type of dirt.\"",
-        "originalSource": "wwltv.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYdoGHrcKx_VwKpxoQXdRZFJ8XxzRTDmodBgIf3qRkcENZaug2PVYAcUFatiCVGRG8L8s976c6zB_3hCMh1BtJrJW4SGDgTq5mEeEmzty2F6gzuiy_njsc4Im-Ruoqw9K3JYQTkVs3DqtWnr6T393ZqxCkdMWG3h6ZYu1jU49fcvoamdLn8zvufyv301T04dymWRN6oPIW4WgTPOsJV5M-sWD9TtL7aoZC8R5vS_mrJaLA_V2tmk5K4oK2zSqKmmQCpQa8TDcP2PMJdpmMbYsT7nOcriFD2Y8S",
-        "publishedTime": "December 7, 2025"
-      },
-      {
-        "id": "story-1765146928676-2",
-        "headline": "Massive 7.0 Earthquake Enthusiastically Shakes Absolutely Nothing Of Consequence Along Alaska-Canada Border",
-        "content": "A truly ambitious 7.0 magnitude earthquake, clearly seeking to prove its might, rattled a desolate stretch of the Alaska-Yukon border on Saturday, much to the indifference of the handful of trees and very confused moose in the immediate vicinity. The powerful tremor, described as \"quite a jiggle\" by one particularly stoic trapper, managed to achieve the impressive feat of causing precisely zero injuries or structural damage. Experts speculate the earthquake, after all its hard work, was deeply disappointed to learn that its dramatic performance had no audience beyond a few bewildered marmots. The U.S. Tsunami Warning System, ever vigilant, confirmed that the West Coast was safe from any potential tidal waves of \"mild concern.\"",
-        "originalSource": "Los Angeles Times/AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya_H-JfeK6bhxmwF8QIjNKk9JVgBfsRkiGj_umiTArtO9KDvqbVD-yF1HNW0YfJ7bNpOkhpgcRtvvFQXYbZrTpj5MdERMzrwCf9629FcbpLpgMoccz9OvJkuFp3yUwWeMxLwop2TixFwRCfH6f2nhEtt5ChLAbdPLZHUNDDBBHPjzQrKlsATsBXLyzdLUHg2-FGBpFvfiX-VXbQhI95SbvqeVpsSQGUcowQ==",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1765146928676-3",
-        "headline": "Indiana Republicans Discover \"Expanding GOP Power\" Now Includes Complimentary Pipe Bombs And Swatting Calls",
-        "content": "Indiana Senate Republicans are reportedly having second thoughts about \"the thrill of political power\" after President Trump's aggressive redistricting demands have apparently ushered in a new era of bipartisan terror. Lawmakers, who previously only had to worry about primary challenges and awkward fundraising dinners, are now navigating pipe bomb scares and \"swatting\" attempts, leading many to wonder if \"expanding GOP power\" now comes with a complimentary dose of existential dread. One senator, reportedly cowering under his desk, mused, \"I thought this was about drawing lines on a map, not dodging actual explosions. This is much less fun than gerrymandering usually is.\"",
-        "originalSource": "AP News/whas11.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUrjMWVDtWb_Ux1HrQUBLyOtFztVZFnsCQqkszXLQCp9c1affhVVbaIcQ89lHzdkyc2F5y7hWvQ7Tf6f-yptnRnExn2N8YwwaZQJNed55ZyvCcC_5miOGyw5D0xnNGn7ccLotwMxh537MlzPWSgSRqqD5EEvZassyBgF4dAPiai6rzLuwET6ylqTUET1gFRhdQAzpzIakrfOQtQ4k8FnOA13Sd87MAzKFuRm-Nw2ZJWAYYfverHzmBjY8L3i_Vw==",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1765146928676-4",
-        "headline": "President Trump's Administration Declares War On Foreigners Who Insist On Disturbing The Peace With \"Facts\"",
-        "content": "In a bold move to protect the delicate sensibilities of the American populace, President Trump's administration has proudly announced new restrictions on H-1B visas for foreign workers who specialize in \"content moderation,\" \"fact-checking,\" and \"trust and safety.\" The State Department explained that allowing these international purveyors of \"unverified truth\" to work in the U.S. might inadvertently expose citizens to \"annoying objective reality\" or \"information that contradicts personal feelings,\" which could be deeply unsettling. Consular officials are now tasked with thoroughly vetting applicants to ensure they have absolutely no intention of bringing inconvenient facts or critical thinking skills into the country, thus safeguarding everyone's right to believe whatever they want, undisturbed.",
+        "id": "story-1765165683572-1",
+        "headline": "Notre Dame Withdraws From Bowl Games, Citing 'Existential Crisis' After Being Snubbed From College Football Playoff.",
+        "content": "In a dramatic display of profound athletic sorrow, the Notre Dame Fighting Irish have declared they are simply too heartbroken to play football anymore this season, opting out of all bowl game consideration. Athletic Director Pete Bevacqua, reportedly still recovering from 'overwhelming shock and sadness,' described the College Football Playoff selection committee's decision as a 'punch to the stomach,' which apparently requires immediate, season-ending bed rest and a lifetime supply of comforting ice cream. Sources close to the team suggest players are now forming a support group for competitive exclusion trauma.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHlNQTtdm9cxsTMcQ0m-oUlLPv62xp_EI410Un8n2fiJd4Xw-_MIbDoEuabXIrGGzRwNaFU-e3d86wF8Ig4uir6J7wI4gcbQ7aNjgOL2doiNPxr3BItKS4tDT_DfiD55LV6B3kRL-IqY1FeNuSK4dg9dTuxTO9GL6BZu_to5R06RDD4_z4kcQOQ==",
-        "publishedTime": "December 6, 2025"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMAGJRet0CxCrvoPx9S1A1z1kQzb52kipdcIe3lT7bklAe1xJ3gg8IFJfioZ7IuSfaoDrOW-3MFj7QOB0hEAV4d422FmKtWOvJQLegi602hosUa9OzkSYcY6nqJKSekUo-CgdDsmDi22GBUfNy6yMCRjyXzkRtJ_XvC4LOBy3o3HzvqpQa9N2sR0LAj9TFqRpd86rC8WUmPY25CCdi_gdcmFyPyQb5h6vtepHjbvflFnGG1aoqb_k=",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765146928676-5",
-        "headline": "Defense Secretary Explains Second Strike On Unarmed Survivors Was Simply \"Exercise Of Presidential Discretion,\" Because Why Not?",
-        "content": "Defense Secretary Pete Hegseth, in a masterclass of rhetorical jujitsu, vigorously defended the U.S. military's decision to conduct a second, definitively fatal strike on two unarmed survivors of an alleged drug cartel boat. After a video reportedly showing the survivors clinging to wreckage for an hour circulated amongst senators, Hegseth casually brushed off any \"naysaying\" with the irrefutable logic that \"President Trump can do whatever he wants, whenever he wants.\" Critics who suggested that killing unarmed individuals might be \"a tad excessive\" or \"potentially a war crime\" were reminded that \"Presidential discretion\" is a sacred, all-encompassing power, and sometimes that discretion just happens to involve a second, more thorough strike.",
+        "id": "story-1765165683572-2",
+        "headline": "President Trump Disappointed Pardoned Democrat Forgot To Read Fine Print On 'Loyalty-For-Freedom' Contract.",
+        "content": "President Trump took to Truth Social to express his profound disappointment in Texas Rep. Henry Cuellar, a Democrat whose recent pardon by President Trump apparently came with an unwritten, yet clearly implied, 'switch parties or else' clause. President Trump, reportedly flabbergasted by Cuellar's 'lack of LOYALTY,' suggested that the clemency was merely a down payment on a full party defection. Political analysts are now advising all future pardon recipients to check if their newfound freedom requires immediate, unwavering ideological alignment with the person who granted it.",
+        "originalSource": "Yahoo News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2OmXcwBnEHvRXCNLmTjEtLG2miix1j5FJ773irhwkhBNjm_QcAolFraGdeQvTJDwFIjXUJWEWw5KygxUu_SoP30cUINTJKbgBfXxhmVnFo0kJrSOvTZMPteVrqLOkoVUMEsMOi7BNQKjQAlqaE-WWM9Dsu2o4agDm6qdWQaD1YnwfgtFN4ySEu0OE6t",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1765165683572-3",
+        "headline": "President Trump Personally Curates Kennedy Center Honors, Awards 'Best Actor In A Punch-Heavy Role' To Sylvester Stallone.",
+        "content": "Solidifying his bold re-imagination of American high culture, President Trump proudly hosted the annual Kennedy Center Honors, making it the first time a sitting president personally orchestrated the guest list and award categories. The night was a star-studded affair, with actor Sylvester Stallone, the legendary rock band Kiss, and country icon George Strait among the luminaries President Trump was 'deeply involved in choosing.' Critics hailed the event as a refreshing pivot towards celebrating achievements that involve either explosions, power chords, or relatable tales of trucks and heartbreak.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjWuEDwtf52cVVtzYWcvb8vqsm9eet24uYKnfWnK679bY8CF3IldC3lSLIwsTd1YVikxa81abjyllYgyzLxFiPASj5rThtKIGDruPo-qxO9ZY_NVA_0YoWTlwUq-BSwJx5JaTN-HZqDyGUfoucxs8AQIRyNK7DYu99gAA-8Q=",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765165683572-4",
+        "headline": "Pentagon Cites 'Technical Glitches' After Video Of Alleged Drug Boat Strike Mysteriously Vanishes.",
+        "content": "Democratic lawmakers are escalating pressure on the Trump administration to release video footage of a second military strike on an alleged drug boat, which reportedly left two survivors clinging to wreckage before their demise. The Pentagon, however, has cited an unprecedented series of 'technical glitches,' 'server hiccups,' and a 'rogue squirrel gnawing through fiber optic cables' as reasons why the crucial footage, which critics suggest might reveal 'war crimes,' has mysteriously vanished. Democrats, reportedly baffled by the military's sudden foray into the world of quantum video mechanics, continue to demand answers that don't involve a convenient memory lapse.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbR8ktRPxK0ZGXoBXpEiPYkgZ-P6nSzbcOEcxiJ-qLNvCWoY3JIfxbeifV5zHYao60x2IeifEoHFh-tixPINKVbDFyPhuXfjRNQEHZt38zxaOSEPikHCXqUiAgu6d_-C4U-XMcNXqOG6izfOC49yOE4Xk2Tc6tItItmfiXep0",
-        "publishedTime": "Yesterday"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdGN3ZIVr5dunUf1j2ij_5yJTfxuBOsXExG96G8TzRwyDKd48pyw_Hx5F6uWtksvr-HbEOfI-33gqPjny23hWUYv1jnCQcKneQGWRp2qvYIyqoq0XcRk0vJzqLjR44DktAeHsQnPvjmr8X3Tl5TA9XNb_xpzRQy9xFccSbZ45BiWCN9sesC1mDkuv0s0hchCVbMV2oG7D",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765165683572-5",
+        "headline": "Federal Judge Delivers Crushing Blow To Justice Department's Daily 'Get Comey' Initiative.",
+        "content": "In a stunning display of judicial interference, a federal judge has once again thwarted the Justice Department's tireless efforts to secure yet another indictment against former FBI Director James Comey. This latest setback is just another comedic twist in the seemingly endless legal saga against Comey, which has been widely praised as a masterclass in politically motivated, perpetually failing vendettas. Sources within the DOJ are reportedly already brainstorming new, increasingly absurd charges, including 'improper use of an office stapler' and 'looking vaguely suspicious at a company picnic.'",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsr2SgqvpCfFxcnuQvdB3tMSuFxg9bb5nm8-u-w4o64x79PPbE0ILrOJBcn4fKWRJpdI384gZnEcJG-1YeTRx3tVAogoVObzYfV2XWYzSaqfxx_Y19OO5T",
+        "publishedTime": "16 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765146928676-0",
-        "headline": "President Trump is Upset About a Politician's Choice",
-        "content": "President Trump was upset with a politician named Henry Cuellar. President Trump had helped Henry Cuellar and his wife by letting them off the hook for some serious charges. But then, Henry Cuellar decided to stay in his old political group, the Democrats, instead of joining President Trump's group. President Trump thought this showed Henry Cuellar wasn't being loyal, which means he didn't stick with President Trump after being helped.",
-        "originalSource": "AP News/inkl.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LD-3sEsaTn-I-u324dsIEcktVw7xZQ7u91nk9G37P-TvtlHHpxlpMLCWIf-CB0cqmPjVY7sNjG0V__vbGotGswtY2orkJv0pbbP60XBCBEvAePSG8M16aqAgY37xblYZ-SqwSnWqb7cu8sJr-E-chjg5el3bP0xGHi-z3CRvzSijbLx72qMB2CtyFTt697MmpO-DUkS-MJYEiA4NT0aM5FOy",
-        "publishedTime": "Today"
+        "id": "story-1765165683572-0",
+        "headline": "The Supreme Court Will Decide How Much Power President Trump Has",
+        "content": "The Supreme Court is going to listen to a very important case. This case is about how much power President Trump has to fire people who work in government. Right now, there's an old rule from 90 years ago that says presidents can't just fire some important people whenever they want. But President Trump fired someone named Rebecca Kelly Slaughter from a group called the FTC. Now, the Court will decide if President Trump can do that, and how much power a president really has over government workers.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ro0A0auBVsYIUyW6e8w8xRyiRss9rSVcbgn2ge5x5gqPOijiU4neBTlRameb5Z-XvFR6UU6HOdqK1PXT8yd7_N9edw-6AnZQKF-s6PHOYUKBn_7lSsHYGIbTtqSWL9bHq7EeLgboNtjYV-GTfnopl_sxsZn9aPmNvecH9ilv6EzfA2Sk1MJFjx5MyGTB2EZT9FX9N8VeCjxAEOrOCB4kqA4=",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765146928676-1",
-        "headline": "Police Are Still Looking for a Man Who Escaped Jail",
-        "content": "The police in Louisiana are still trying to find a man named Keith Eli. He was one of three people who broke out of jail. They got out by pulling out some big concrete blocks from a wall that was falling apart. The police caught one of the other men on Friday. The third man was found by the police, but sadly, he died by himself on Thursday.",
-        "originalSource": "wwltv.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYdoGHrcKx_VwKpxoQXdRZFJ8XxzRTDmodBgIf3qRkcENZaug2PVYAcUFatiCVGRG8L8s976c6zB_3hCMh1BtJrJW4SGDgTq5mEeEmzty2F6gzuiy_njsc4Im-Ruoqw9K3JYQTkVs3DqtWnr6T393ZqxCkdMWG3h6ZYu1jU49fcvoamdLn8zvufyv301T04dymWRN6oPIW4WgTPOsJV5M-sWD9TtL7aoZC8R5vS_mrJaLA_V2tmk5K4oK2zSqKmmQCpQa8TDcP2PMJdpmMbYsT7nOcriFD2Y8S",
-        "publishedTime": "December 7, 2025"
-      },
-      {
-        "id": "story-1765146928676-2",
-        "headline": "A Really Big Earthquake Shook Alaska and Canada",
-        "content": "A super strong earthquake, which was a 7.0 on a special shaking scale, happened where Alaska and Canada meet. Not many people live there, but people in cities like Juneau and Yakutat in Alaska could feel the ground shaking. Good news is, nobody got hurt and no buildings broke. Also, the people who watch for giant waves called tsunamis said there was no danger of one coming to the coast.",
-        "originalSource": "Los Angeles Times/AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya_H-JfeK6bhxmwF8QIjNKk9JVgBfsRkiGj_umiTArtO9KDvqbVD-yF1HNW0YfJ7bNpOkhpgcRtvvFQXYbZrTpj5MdERMzrwCf9629FcbpLpgMoccz9OvJkuFp3yUwWeMxLwop2TixFwRCfH6f2nhEtt5ChLAbdPLZHUNDDBBHPjzQrKlsATsBXLyzdLUHg2-FGBpFvfiX-VXbQhI95SbvqeVpsSQGUcowQ==",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1765146928676-3",
-        "headline": "Lawmakers in Indiana Are Getting Scary Threats",
-        "content": "Some politicians in Indiana are getting really scary messages and threats. President Trump wants them to change how voting districts are set up in their state to give his political group, the Republicans, more power. Because of this, some people are making threats like calling in fake bomb scares or sending police to their homes for no reason (this is called 'swatting'). The politicians are worried because it feels like a dangerous situation.",
-        "originalSource": "AP News/whas11.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUrjMWVDtWb_Ux1HrQUBLyOtFztVZFnsCQqkszXLQCp9c1affhVVbaIcQ89lHzdkyc2F5y7hWvQ7Tf6f-yptnRnExn2N8YwwaZQJNed55ZyvCcC_5miOGyw5D0xnNGn7ccLotwMxh537MlzPWSgSRqqD5EEvZassyBgF4dAPiai6rzLuwET6ylqTUET1gFRhdQAzpzIakrfOQtQ4k8FnOA13Sd87MAzKFuRm-Nw2ZJWAYYfverHzmBjY8L3i_Vw==",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1765146928676-4",
-        "headline": "President Trump is Making it Harder for Some Foreign Workers",
-        "content": "President Trump's team has made a new rule that makes it tougher for some skilled workers from other countries to get special work permits called H-1B visas. These are for people who help make sure things on the internet are safe, check facts, or remove bad stuff online for big technology companies. President Trump thinks these jobs might be trying to stop Americans from saying what they want, so now people applying for these jobs will be checked very, very carefully.",
+        "id": "story-1765165683572-1",
+        "headline": "Notre Dame Football Team Is Too Sad to Play in a Bowl Game",
+        "content": "The Notre Dame football team is super bummed out. They decided not to play in any extra games after their regular season. This is because they were not picked to be in the big 12-team College Football Playoff, even though they won 10 games! Their boss, Pete Bevacqua, said it felt like a 'punch in the stomach' and made everyone feel very shocked and sad. So, they decided to just go home instead.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHlNQTtdm9cxsTMcQ0m-oUlLPv62xp_EI410Un8n2fiJd4Xw-_MIbDoEuabXIrGGzRwNaFU-e3d86wF8Ig4uir6J7wI4gcbQ7aNjgOL2doiNPxr3BItKS4tDT_DfiD55LV6B3kRL-IqY1FeNuSK4dg9dTuxTO9GL6BZu_to5R06RDD4_z4kcQOQ==",
-        "publishedTime": "December 6, 2025"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMAGJRet0CxCrvoPx9S1A1z1kQzb52kipdcIe3lT7bklAe1xJ3gg8IFJfioZ7IuSfaoDrOW-3MFj7QOB0hEAV4d422FmKtWOvJQLegi602hosUa9OzkSYcY6nqJKSekUo-CgdDsmDi22GBUfNy6yMCRjyXzkRtJ_XvC4LOBy3o3HzvqpQa9N2sR0LAj9TFqRpd86rC8WUmPY25CCdi_gdcmFyPyQb5h6vtepHjbvflFnGG1aoqb_k=",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765146928676-5",
-        "headline": "A Government Leader Defends Two Attacks on Boats",
-        "content": "The person in charge of defense, Pete Hegseth, said it was okay that the US military attacked boats that were thought to be carrying drugs. People were worried because a video showed that after the first attack, two people who had survived and were holding onto the boat pieces were attacked again and died. Mr. Hegseth said that President Trump has the power to decide when the military should act, and he thinks these actions were right.",
+        "id": "story-1765165683572-2",
+        "headline": "President Trump Is Mad at a Politician He Helped",
+        "content": "President Trump is upset with a politician named Henry Cuellar. President Trump had recently helped Mr. Cuellar get out of trouble with the law. But now, Mr. Cuellar said he will stay with his old political group, the Democrats, instead of joining President Trump's group. President Trump said on social media that Mr. Cuellar showed 'a lack of LOYALTY.' It seems like President Trump thought helping him would make him change teams.",
+        "originalSource": "Yahoo News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2OmXcwBnEHvRXCNLmTjEtLG2miix1j5FJ773irhwkhBNjm_QcAolFraGdeQvTJDwFIjXUJWEWw5KygxUu_SoP30cUINTJKbgBfXxhmVnFo0kJrSOvTZMPteVrqLOkoVUMEsMOi7BNQKjQAlqaE-WWM9Dsu2o4agDm6qdWQaD1YnwfgtFN4ySEu0OE6t",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1765165683572-3",
+        "headline": "President Trump Will Host a Big Party for Famous People",
+        "content": "President Trump is going to host a special party called the Kennedy Center Honors. It's a big deal because he's the first president to host it while he's still president. The party is to celebrate famous people like the actor Sylvester Stallone, the rock band Kiss, and the country singer George Strait. President Trump even helped pick who would get the awards!",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjWuEDwtf52cVVtzYWcvb8vqsm9eet24uYKnfWnK679bY8CF3IldC3lSLIwsTd1YVikxa81abjyllYgyzLxFiPASj5rThtKIGDruPo-qxO9ZY_NVA_0YoWTlwUq-BSwJx5JaTN-HZqDyGUfoucxs8AQIRyNK7DYu99gAA-8Q=",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765165683572-4",
+        "headline": "Lawmakers Want to See a Video of a Boat Attack",
+        "content": "Some politicians, who are Democrats, really want President Trump's team to show a video. The video is about when the military attacked a boat they thought was carrying drugs. Two people who were still alive after the attack, holding onto the boat pieces, ended up dying. The politicians want to see the video to figure out if the attack was allowed by law or if it was a very bad thing to do.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbR8ktRPxK0ZGXoBXpEiPYkgZ-P6nSzbcOEcxiJ-qLNvCWoY3JIfxbeifV5zHYao60x2IeifEoHFh-tixPINKVbDFyPhuXfjRNQEHZt38zxaOSEPikHCXqUiAgu6d_-C4U-XMcNXqOG6izfOC49yOE4Xk2Tc6tItItmfiXep0",
-        "publishedTime": "Yesterday"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdGN3ZIVr5dunUf1j2ij_5yJTfxuBOsXExG96G8TzRwyDKd48pyw_Hx5F6uWtksvr-HbEOfI-33gqPjny23hWUYv1jnCQcKneQGWRp2qvYIyqoq0XcRk0vJzqLjR44DktAeHsQnPvjmr8X3Tl5TA9XNb_xpzRQy9xFccSbZ45BiWCN9sesC1mDkuv0s0hchCVbMV2oG7D",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765165683572-5",
+        "headline": "A Judge Says No to More Trouble for James Comey",
+        "content": "A judge has stopped the government from trying to get James Comey, who used to be in charge of the FBI, into more legal trouble. The government wanted to charge him with something new. This whole situation with Mr. Comey has been going on for a long time, and many people think it's more about politics than real crimes.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsr2SgqvpCfFxcnuQvdB3tMSuFxg9bb5nm8-u-w4o64x79PPbE0ILrOJBcn4fKWRJpdI384gZnEcJG-1YeTRx3tVAogoVObzYfV2XWYzSaqfxx_Y19OO5T",
+        "publishedTime": "16 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765146928676-0",
-        "headline": "The Unspoken Pact",
-        "content": "The pardon had been a quiet transaction, a reprieve granted by President Trump, lifting the weight of federal charges from Representative Henry Cuellar and his wife. A silent understanding, he’d thought, of allegiance earned. But when Cuellar announced his re-election as a Democrat, the digital echo of \"lack of LOYALTY\" reverberated across Truth Social. The President, a man who measured political currency in unwavering devotion, saw the gesture not as independence, but as a betrayal. The golden key had been offered, but the expected gate remained stubbornly shut, revealing the chasm between expectation and political reality.",
-        "originalSource": "AP News/inkl.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LD-3sEsaTn-I-u324dsIEcktVw7xZQ7u91nk9G37P-TvtlHHpxlpMLCWIf-CB0cqmPjVY7sNjG0V__vbGotGswtY2orkJv0pbbP60XBCBEvAePSG8M16aqAgY37xblYZ-SqwSnWqb7cu8sJr-E-chjg5el3bP0xGHi-z3CRvzSijbLx72qMB2CtyFTt697MmpO-DUkS-MJYEiA4NT0aM5FOy",
-        "publishedTime": "Today"
+        "id": "story-1765165683572-0",
+        "headline": "The Balance of Power on a Knife's Edge",
+        "content": "The High Court buzzed with anticipation. A landmark case, *Trump v. Slaughter*, threatened to redefine the very limits of presidential authority, a precedent undisturbed for ninety years. President Trump, in his decisive action to remove FTC Commissioner Rebecca Kelly Slaughter, ignited this constitutional firestorm. The legal world watched, holding its breath. Would the President's expansive view of executive power prevail, or would the long-standing guardrails of independent agencies stand firm? The outcome would ripple through every federal office, a testament to who truly held the reins of government.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ro0A0auBVsYIUyW6e8w8xRyiRss9rSVcbgn2ge5x5gqPOijiU4neBTlRameb5Z-XvFR6UU6HOdqK1PXT8yd7_N9edw-6AnZQKF-s6PHOYUKBn_7lSsHYGIbTtqSWL9bHq7EeLgboNtjYV-GTfnopl_sxsZn9aPmNvecH9ilv6EzfA2Sk1MJFjx5MyGTB2EZT9FX9N8VeCjxAEOrOCB4kqA4=",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765146928676-1",
-        "headline": "The Last Runner",
-        "content": "The wind whispered through the sugarcane fields, carrying no comfort for Keith Eli. He was the last, a ghost in the humid Louisiana night. Days ago, the crumbling jail wall had yielded, concrete blocks dislodged by desperate hands. Three had sprinted into the dark. One was caught, swiftly returned to the cage. Another, cornered and despairing, chose the ultimate escape, a final, tragic defiance. Now, only Eli remained, a lone shadow against the relentless pursuit, the scent of freedom fading with every pounding step, the net drawing tighter around the last fleeting breath of his liberty.",
-        "originalSource": "wwltv.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYdoGHrcKx_VwKpxoQXdRZFJ8XxzRTDmodBgIf3qRkcENZaug2PVYAcUFatiCVGRG8L8s976c6zB_3hCMh1BtJrJW4SGDgTq5mEeEmzty2F6gzuiy_njsc4Im-Ruoqw9K3JYQTkVs3DqtWnr6T393ZqxCkdMWG3h6ZYu1jU49fcvoamdLn8zvufyv301T04dymWRN6oPIW4WgTPOsJV5M-sWD9TtL7aoZC8R5vS_mrJaLA_V2tmk5K4oK2zSqKmmQCpQa8TDcP2PMJdpmMbYsT7nOcriFD2Y8S",
-        "publishedTime": "December 7, 2025"
-      },
-      {
-        "id": "story-1765146928676-2",
-        "headline": "The Earth's Deep Breath",
-        "content": "The vast, indifferent wilderness along the Alaska-Yukon border bucked and groaned, a shuddering breath from deep within the planet. Magnitude 7.0. In remote cabins, cups rattled, and floorboards groaned, a violent symphony that momentarily shattered the profound silence. Even distant Juneau felt the tremor, a disquieting rumble underfoot. Yet, the earth settled, its fury spent without a trace of human injury or fractured steel. No towering waves emerged from the Pacific's cold embrace. Only the memory lingered, a stark reminder of the wild, untamed power that sculpted their lonely world.",
-        "originalSource": "Los Angeles Times/AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya_H-JfeK6bhxmwF8QIjNKk9JVgBfsRkiGj_umiTArtO9KDvqbVD-yF1HNW0YfJ7bNpOkhpgcRtvvFQXYbZrTpj5MdERMzrwCf9629FcbpLpgMoccz9OvJkuFp3yUwWeMxLwop2TixFwRCfH6f2nhEtt5ChLAbdPLZHUNDDBBHPjzQrKlsATsBXLyzdLUHg2-FGBpFvfiX-VXbQhI95SbvqeVpsSQGUcowQ==",
-        "publishedTime": "Yesterday"
-      },
-      {
-        "id": "story-1765146928676-3",
-        "headline": "The Capitol's Uneasy Silence",
-        "content": "The air in the Indiana Statehouse felt thick, heavy with unspoken fear. President Trump’s relentless push for redistricting, a strategic re-shaping of power, had ignited a sinister backlash. Pipe bomb scares and chilling 'swatting' attempts became the new normal for Republican senators. They walked the halls, eyes scanning, every shadow a potential threat. The political violence, once a distant echo from national headlines, had arrived at their doorstep. The campaign to expand GOP influence was succeeding, but at a terrifying cost, leaving those targeted feeling exposed and vulnerable.",
-        "originalSource": "AP News/whas11.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUrjMWVDtWb_Ux1HrQUBLyOtFztVZFnsCQqkszXLQCp9c1affhVVbaIcQ89lHzdkyc2F5y7hWvQ7Tf6f-yptnRnExn2N8YwwaZQJNed55ZyvCcC_5miOGyw5D0xnNGn7ccLotwMxh537MlzPWSgSRqqD5EEvZassyBgF4dAPiai6rzLuwET6ylqTUET1gFRhdQAzpzIakrfOQtQ4k8FnOA13Sd87MAzKFuRm-Nw2ZJWAYYfverHzmBjY8L3i_Vw==",
-        "publishedTime": "Today"
-      },
-      {
-        "id": "story-1765146928676-4",
-        "headline": "The Censors' Gate",
-        "content": "A new edict descended, a silent, bureaucratic wall rising around the digital gatekeepers. President Trump’s administration, steadfast in its campaign against perceived online censorship, had tightened the flow of H-1B visas. Foreign workers skilled in content moderation, fact-checking, and 'trust and safety' at tech giants now faced stringent scrutiny. Consular officials were tasked with sifting through applicants, ensuring no digital architect of speech control slipped through. The message was clear: the narrative was theirs to protect, and the entry points for those who challenged it were now firmly, irrevocably guarded.",
+        "id": "story-1765165683572-1",
+        "headline": "A Shattered Dream and a Silent Protest",
+        "content": "The locker room was heavy with a silence more profound than any roar of a stadium. Notre Dame, a titan with ten hard-won victories, found its playoff dreams cruelly extinguished. The committee's verdict felt like a physical blow, a 'punch to the stomach,' as the Athletic Director confessed, leaving behind 'overwhelming shock and sadness.' The decision was swift, resolute: no bowl game. It wasn't just a withdrawal; it was a poignant protest, a public declaration of a program's profound disappointment, opting out of the consolation prize, refusing to participate in a season that felt unjustly truncated.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHlNQTtdm9cxsTMcQ0m-oUlLPv62xp_EI410Un8n2fiJd4Xw-_MIbDoEuabXIrGGzRwNaFU-e3d86wF8Ig4uir6J7wI4gcbQ7aNjgOL2doiNPxr3BItKS4tDT_DfiD55LV6B3kRL-IqY1FeNuSK4dg9dTuxTO9GL6BZu_to5R06RDD4_z4kcQOQ==",
-        "publishedTime": "December 6, 2025"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMAGJRet0CxCrvoPx9S1A1z1kQzb52kipdcIe3lT7bklAe1xJ3gg8IFJfioZ7IuSfaoDrOW-3MFj7QOB0hEAV4d422FmKtWOvJQLegi602hosUa9OzkSYcY6nqJKSekUo-CgdDsmDi22GBUfNy6yMCRjyXzkRtJ_XvC4LOBy3o3HzvqpQa9N2sR0LAj9TFqRpd86rC8WUmPY25CCdi_gdcmFyPyQb5h6vtepHjbvflFnGG1aoqb_k=",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765146928676-5",
-        "headline": "The Fathom's Reckoning",
-        "content": "The video flickered, a chilling tableau for the senators: two figures clinging to splintered wreckage, survivors of an initial strike on an alleged drug boat. Then, the second strike, swift and final. Defense Secretary Pete Hegseth, unyielding, defended the actions. President Trump, he stated, wielded the ultimate authority for military action, his power absolute. The ethics of the second strike, the defenselessness of those in the water, were dismissed as mere noise. In the cold calculus of national security, some lives, it seemed, were deemed expendable, swallowed by the fathom's dark embrace.",
+        "id": "story-1765165683572-2",
+        "headline": "The Price of a Pardon, Unpaid",
+        "content": "On the digital town square, President Trump's words blazed with indignation. Congressman Henry Cuellar, a recipient of presidential clemency in a federal bribery case, had committed a grave sin in the President's eyes: 'lack of LOYALTY.' The unspoken expectation hung in the air—a pardon for a party switch, a quiet alignment. But Cuellar, despite his reprieve, remained steadfast. He declared his intention to run for re-election under his familiar banner, a decision that ignited President Trump's public fury, revealing the perceived political calculus behind an act of mercy.",
+        "originalSource": "Yahoo News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2OmXcwBnEHvRXCNLmTjEtLG2miix1j5FJ773irhwkhBNjm_QcAolFraGdeQvTJDwFIjXUJWEWw5KygxUu_SoP30cUINTJKbgBfXxhmVnFo0kJrSOvTZMPteVrqLOkoVUMEsMOi7BNQKjQAlqaE-WWM9Dsu2o4agDm6qdWQaD1YnwfgtFN4ySEu0OE6t",
+        "publishedTime": "15 hours ago"
+      },
+      {
+        "id": "story-1765165683572-3",
+        "headline": "An Evening of Stars Under New Direction",
+        "content": "The grand halls of the Kennedy Center shimmered, reflecting a new era. For the first time, a sitting President played host to the prestigious Honors. President Trump, deeply involved in the selection process, presided over an evening celebrating American artistry. The iconic rock of Kiss, the timeless melodies of George Strait, and the cinematic grit of Sylvester Stallone were among those lauded. This event wasn't just an awards ceremony; it was a powerful statement, a solidification of President Trump's personal influence and vision cast upon one of the nation's most revered cultural institutions, ushering in his chosen icons.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjWuEDwtf52cVVtzYWcvb8vqsm9eet24uYKnfWnK679bY8CF3IldC3lSLIwsTd1YVikxa81abjyllYgyzLxFiPASj5rThtKIGDruPo-qxO9ZY_NVA_0YoWTlwUq-BSwJx5JaTN-HZqDyGUfoucxs8AQIRyNK7DYu99gAA-8Q=",
+        "publishedTime": "12 hours ago"
+      },
+      {
+        "id": "story-1765165683572-4",
+        "headline": "Shadows on the Water's Surface",
+        "content": "The demand echoed through the Pentagon’s chambers, growing louder with each passing day. Democratic lawmakers pressed President Trump's administration for answers, specifically, for video footage. It concerned a military strike, a second one, on an alleged drug boat that left two survivors clinging to wreckage, only for them to perish. The chilling implications of a potential war crime hung heavy. The footage, they argued, was not merely evidence; it was the key to truth, to understanding the legality and morality of an incident veiled in secrecy, demanding transparency in the face of tragedy.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbR8ktRPxK0ZGXoBXpEiPYkgZ-P6nSzbcOEcxiJ-qLNvCWoY3JIfxbeifV5zHYao60x2IeifEoHFh-tixPINKVbDFyPhuXfjRNQEHZt38zxaOSEPikHCXqUiAgu6d_-C4U-XMcNXqOG6izfOC49yOE4Xk2Tc6tItItmfiXep0",
-        "publishedTime": "Yesterday"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdGN3ZIVr5dunUf1j2ij_5yJTfxuBOsXExG96G8TzRwyDKd48pyw_Hx5F6uWtksvr-HbEOfI-33gqPjny23hWUYv1jnCQcKneQGWRp2qvYIyqoq0XcRk0vJzqLjR44DktAeHsQnPvjmr8X3Tl5TA9XNb_xpzRQy9xFccSbZ45BiWCN9sesC1mDkuv0s0hchCVbMV2oG7D",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765165683572-5",
+        "headline": "A Legal Chess Match, Politically Charged",
+        "content": "The Justice Department's relentless pursuit of former FBI Director James Comey hit yet another wall. A federal judge, with a stroke of the pen, delivered a significant setback to efforts to secure a new indictment. This twist in the long-running legal saga was not unexpected; observers had always viewed the campaign against Comey through a political lens, seeing it less as a detached search for justice and more as a vendetta. The judge's decision underscored the difficulty of these politically charged battles, prolonging a conflict whose roots stretched deep into the nation's capital.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsr2SgqvpCfFxcnuQvdB3tMSuFxg9bb5nm8-u-w4o64x79PPbE0ILrOJBcn4fKWRJpdI384gZnEcJG-1YeTRx3tVAogoVObzYfV2XWYzSaqfxx_Y19OO5T",
+        "publishedTime": "16 hours ago"
       }
     ]
   }
