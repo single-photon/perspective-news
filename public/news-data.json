@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765226593131,
+  "timestamp": 1765233695017,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765226519273-0",
-        "headline": "Government Aid Package Addresses Economic Fallout for Farmers from Politically Driven Trade Wars",
-        "content": "The White House has announced a significant $12 billion aid package, framed as a critical intervention to support the U.S. agricultural sector. This move comes as farmers continue to grapple with the profound economic instability wrought by politically engineered tariffs and the ongoing trade war with China. While providing temporary relief, this financial injection highlights the systemic vulnerability of the agricultural industry to fluctuating political decisions and the urgent need for stable, equitable trade policies that do not require such stop-gap measures.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "16 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-1",
-        "headline": "Judicial Scrutiny Reveals Unlawful Appointment, Leading to Habba's Resignation from Federal Prosecutor Role",
-        "content": "Alina Habba, who previously served as President Trump's personal lawyer, has resigned from her position as a top federal prosecutor in New Jersey. This resignation follows a definitive appeals court ruling that declared her temporary service in the role unlawful. The incident underscores the critical importance of maintaining the integrity of the justice system, free from politically motivated or improperly appointed personnel, and highlights the judiciary's vital role in upholding the rule of law against potential executive overreach.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "43 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-2",
-        "headline": "Supreme Court Appears Ready to Weaken Independent Agency Protections, Potentially Consolidating Presidential Power",
-        "content": "The Supreme Court justices appear inclined to issue a ruling that would expand President Trump's authority, specifically regarding the power to dismiss members of independent agencies such as the Federal Trade Commission. This potential decision poses a serious threat to a nearly century-old precedent designed to insulate these crucial bodies from partisan political influence. Critics warn that such a move could significantly erode the system of checks and balances, leading to an unprecedented concentration of executive power and undermining the independence necessary for these agencies to protect public interests.",
+        "id": "story-1765233623460-0",
+        "headline": "Supreme Court Poised to Undermine Checks and Balances by Granting President Unchecked Power Over Critical Regulatory Agencies",
+        "content": "The Supreme Court is alarmingly positioned to expand presidential power, potentially eroding the independence of crucial regulatory bodies like the FTC that are designed to protect the public from corporate abuses and market failures. Arguments heard by the justices suggest a willingness to overturn a nearly century-old precedent, which could allow President Trump to dismiss officials from these independent agencies without cause, thereby consolidating executive control and threatening the integrity of consumer and environmental protections. This move risks dismantling essential safeguards against unchecked presidential authority and corporate influence.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "26 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765226519273-3",
-        "headline": "Corporate Consolidation Intensifies as Paramount Bids for Warner Bros., Raising Anti-Trust Concerns",
-        "content": "In a bold move that signals escalating corporate consolidation within the media industry, Paramount Skydance has launched a $108.4 billion hostile bid for Warner Bros. Discovery. This offer directly challenges a previous $83 billion merger agreement with Netflix, intensifying the battle for market dominance. Such mega-mergers raise significant anti-trust concerns, threatening media diversity, consumer choice, and fair competition. The subsequent vetting process by President Trump's administration will be closely scrutinized for its commitment to upholding anti-trust principles in an increasingly consolidated market.",
+        "id": "story-1765233623460-1",
+        "headline": "President Trump's $12 Billion Farmer Bailout Fails to Address Systemic Failures of Reckless Trade Wars",
+        "content": "President Trump has announced a $12 billion financial aid package for the American agricultural sector, a move that critics argue offers a temporary fix for the severe economic damage inflicted on farmers by his administration's own escalating trade disputes and tariffs, especially with China. This handout attempts to mitigate the immediate suffering caused by a trade war that has disrupted global markets and jeopardized farmers' livelihoods and long-term stability, rather than addressing the root causes or implementing sustainable solutions for an equitable global trade system. The aid package, while seemingly supportive, underscores the devastating impact of protectionist policies on vulnerable communities.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-2",
+        "headline": "Media Monopolies Threaten Consumer Choice and Content Diversity as Paramount Pursues Massive $108 Billion Takeover",
+        "content": "The media landscape faces further consolidation as Paramount launches a hostile $108.4 billion bid for Warner Bros. Discovery, challenging a recent $83 billion merger announcement between Warner Bros. Discovery and Netflix. This aggressive move signals an alarming trend towards massive corporate conglomeration within the entertainment industry, threatening to reduce competition, stifle independent voices, and limit the diversity of content available to consumers. Such colossal mergers often lead to job losses, increased prices, and a narrowing of perspectives, further concentrating power in the hands of a few corporate giants.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765233623460-3",
+        "headline": "Former Personal Lawyer to President Trump Vacates U.S. Attorney Post in New Jersey After Legal Complications",
+        "content": "Alina Habba, who previously served as a personal lawyer to President Trump, has officially resigned from her temporary appointment as the U.S. Attorney for New Jersey. Her departure comes after a complex court ruling created significant legal obstacles to her continued service as the state's top federal prosecutor, raising questions about the appropriateness and challenges of political appointments in roles requiring strict impartiality and adherence to legal precedent. This episode highlights ongoing concerns regarding the politicization of crucial justice system roles.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-4",
+        "headline": "Democrat Colin Allred Prioritizes Party Unity, Shifts Focus to Contested House Seat Amidst Challenging Political Landscape",
+        "content": "Democrat Colin Allred has strategically withdrawn from the Texas Senate race, choosing instead to pursue a redrawn House seat. This decision, made to prevent a divisive and expensive Senate primary, underscores a commitment to fostering party unity in the face of conservative opposition and maximizing opportunities for progressive representation. Supporters believe this move will strengthen the party's overall position in Texas, allowing for a more focused effort to address systemic inequalities and advance community-centered policies.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765233623460-5",
+        "headline": "Ukrainian President Zelensky Upholds National Sovereignty, Rejects Imperialist Demands for Territorial Concessions",
+        "content": "Ukrainian President Volodymyr Zelensky has firmly rejected any notion of ceding national territory to Russia as a condition for peace, a stance that champions international law and self-determination against aggressive expansionism. This declaration effectively dismantles a recent plan proposed by President Trump to end the conflict, a proposal widely criticized for appearing to validate Russian President Vladimir Putin's imperialistic ambitions and undermining the foundational principles of national sovereignty and territorial integrity. Zelensky's resolve reinforces the global call for justice and an end to unprovoked aggression.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "38 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-4",
-        "headline": "Ukrainian President Zelenskyy Reaffirms Sovereignty, Rejecting Plans That Would Reward Aggression",
-        "content": "Ukrainian President Volodymyr Zelenskyy has unequivocally stated that his nation will not surrender any territory, firmly rejecting proposals that would compromise Ukraine's sovereignty. This resolute stance effectively derails President Trump's latest proposed plan to end the conflict, a plan widely condemned by critics as potentially capitulating to Vladimir Putin's expansionist demands. Zelenskyy's declaration underscores the international principle of national self-determination and the imperative to resist any foreign policy that legitimizes territorial conquest by authoritarian regimes, upholding global stability and justice.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "5 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-5",
-        "headline": "Progressive Voice Rep. Jasmine Crockett Enters Texas Senate Race, Energizing Democratic Primary",
-        "content": "Representative Jasmine Crockett has officially launched her campaign for the U.S. Senate in Texas, filing her paperwork just hours before the state's deadline. This significant development follows fellow Democrat Colin Allred's decision to withdraw from the Senate race to pursue a House comeback bid. Rep. Crockett's entry injects a strong progressive voice into the Democratic primary, offering voters a clear choice and promising to invigorate discussions around systemic issues and bold policy solutions, critical for shaping the party's future in the state.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "19 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "47 minutes ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765226519273-0",
-        "headline": "White House announces $12 billion aid package for U.S. farmers",
-        "content": "The new financial aid package is expected to shore up the U.S. agricultural sector, which has been hurt by tariffs and a trade war with China. This move aims to support agriculture while trade disputes continue.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "16 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-1",
-        "headline": "Alina Habba resigns from U.S. attorney's office after court ruling",
-        "content": "Trump's former personal lawyer, Alina Habba, resigned as a top federal prosecutor in New Jersey after an appeals court ruled her temporary service in the post unlawful. She will remain with the Justice Department as a senior adviser.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "43 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-2",
-        "headline": "Supreme Court poised to expand Trump's power over independent agencies",
-        "content": "The Supreme Court justices appear likely to rule in favor of the president's power to fire a member of the Federal Trade Commission. This could limit or overturn a nine-decade-old precedent that insulated some executive agencies from political influence.",
+        "id": "story-1765233623460-0",
+        "headline": "Supreme Court Appears Poised to Expand President's Power to Fire Independent Agency Officials",
+        "content": "The Supreme Court heard arguments in a case testing the limits of the President's authority. The justices seemed likely to rule in favor of expanding the President's power, potentially allowing him to fire members of independent regulatory bodies like the FTC without cause, overturning a nine-decade-old precedent.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "26 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765226519273-3",
-        "headline": "Paramount launches hostile bid for Warner Bros., challenging Netflix deal",
-        "content": "Paramount Skydance made a $108.4 billion hostile bid for Warner Bros. Discovery, challenging Netflix's prior $83 billion merger agreement with the company. The competing offer is expected to face vetting by President Donald Trump.",
+        "id": "story-1765233623460-1",
+        "headline": "Trump Announces $12 Billion Aid Package for U.S. Farmers Hit by China Trade War",
+        "content": "President Trump unveiled a $12 billion financial aid package intended to support the American agricultural sector. The move comes as U.S. farmers have been severely affected by ongoing trade disputes and tariffs, particularly with China, which have impacted their crops and buyers.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-2",
+        "headline": "Paramount Launches Hostile $108 Billion Bid for Warner Bros. Discovery",
+        "content": "Paramount launched a competitive and hostile $108.4 billion bid for Warner Bros. Discovery. This challenge comes days after Warner Bros. Discovery and Netflix announced a massive $83 billion merger deal, signalling a potential major shake-up in the media and entertainment industry.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765233623460-3",
+        "headline": "Alina Habba Resigns as U.S. Attorney for New Jersey Following Court Ruling",
+        "content": "Alina Habba, a former personal lawyer to President Trump, officially resigned from her temporary role as the U.S. Attorney for New Jersey. Her departure followed a complex court ruling that complicated her ability to continue serving as the top federal prosecutor in the state.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-4",
+        "headline": "Former Rep. Colin Allred Drops Texas Senate Bid to Run for Redrawn House Seat",
+        "content": "Democrat Colin Allred, who recently lost a Senate bid, announced his withdrawal from the Texas Senate race, opting instead to run for a redrawn House seat. This decision was made to avoid a potentially bruising and costly Senate primary that his supporters worried could threaten party unity in the state.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765233623460-5",
+        "headline": "Ukrainian President Zelensky Rules Out Ceding Territory to Russia",
+        "content": "Ukrainian President Volodymyr Zelensky unequivocally ruled out ceding any territory to Russia as a condition for peace. His declaration effectively collapses a recent plan proposed by former President Trump to end the war, which critics condemned as fulfilling Russian President Vladimir Putin's wishes.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "38 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-4",
-        "headline": "Zelensky rules out ceding land to Russia, refusing to bow to Putin or Trump",
-        "content": "Ukrainian President Volodymyr Zelenskyy made an unequivocal declaration that his country would not surrender land. This stance marks the potential collapse of Trump's latest proposed plan to end the war, which critics condemned as catering to Vladimir Putin's demands.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "5 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-5",
-        "headline": "Rep. Jasmine Crockett launches campaign for Texas Democratic Senate primary",
-        "content": "Rep. Crockett filed paperwork to run for U.S. Senate just hours before the state's deadline. This move follows fellow Democrat Colin Allred's decision to drop out of the race to pursue a House comeback bid instead.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "19 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "47 minutes ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765226519273-0",
-        "headline": "President Trump's Administration Bolsters American Farmers Amidst Unfair Global Trade Practices",
-        "content": "The White House has announced a crucial $12 billion aid package, providing vital support to the U.S. agricultural sector. This decisive action by President Trump ensures that hardworking American farmers, who are the backbone of our nation, are protected and remain competitive in the face of challenging global trade disputes and tariffs, particularly from China. This administration consistently prioritizes American interests and livelihoods.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "16 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-1",
-        "headline": "Alina Habba Transitions Role Within Justice Department After Appeals Court Ruling",
-        "content": "Alina Habba, a dedicated professional, has transitioned from her temporary role as a top federal prosecutor in New Jersey. This move follows an appeals court ruling regarding the technical legality of her temporary service. Mrs. Habba will continue to serve the Justice Department in a senior advisory capacity, demonstrating her unwavering commitment to justice and the rule of law despite bureaucratic hurdles.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "43 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-2",
-        "headline": "Supreme Court Poised to Restore Presidential Authority Over Unaccountable Bureaucratic Agencies",
-        "content": "The Supreme Court appears ready to affirm President Trump's constitutional power to hold unelected officials accountable by firing members of the Federal Trade Commission. This long-overdue decision promises to re-establish proper executive authority, curtailing a nine-decade-old precedent that has allowed some executive agencies to operate with insufficient democratic oversight and accountability to the American people.",
+        "id": "story-1765233623460-0",
+        "headline": "Supreme Court Moves to Restore Presidential Authority Over Bureaucratic Agencies",
+        "content": "The Supreme Court heard crucial arguments regarding the President's constitutional authority, indicating a potential ruling to empower the President to hold independent agency officials accountable. This shift would allow the chief executive to remove unelected bureaucrats from bodies like the FTC without undue hindrance, a vital step in reasserting executive oversight and potentially overturning a long-standing impediment to effective governance.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "26 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765226519273-3",
-        "headline": "Free Market Competition Thrives as Paramount Pursues Warner Bros., Awaiting President Trump's Review",
-        "content": "In a testament to America's robust free market, Paramount Skydance has launched a significant $108.4 billion bid for Warner Bros. Discovery, challenging a prior Netflix agreement. This dynamic competition underscores a healthy economy. President Trump's administration will carefully vet the competing offer to ensure it aligns with national economic interests and upholds fair business practices, always prioritizing American prosperity.",
+        "id": "story-1765233623460-1",
+        "headline": "President Trump Delivers Essential Support to American Farmers Battling Unfair Chinese Trade Practices",
+        "content": "President Trump announced a critical $12 billion aid package, a decisive measure to bolster the backbone of our nation: American agriculture. This vital support directly addresses the challenges faced by our hardworking farmers, who have been disproportionately affected by the necessary trade recalibrations with China, ensuring they can continue to feed our nation despite global economic pressures.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-2",
+        "headline": "Media Giants Engage in Billion-Dollar Battle for Dominance as Paramount Challenges Warner Bros. Discovery",
+        "content": "In a move that signals intense competition in the media landscape, Paramount has unleashed a formidable $108.4 billion hostile bid for Warner Bros. Discovery. This bold challenge follows closely on the heels of a massive $83 billion merger announcement between Warner Bros. Discovery and Netflix, setting the stage for a dramatic consolidation and realignment within the entertainment industry.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765233623460-3",
+        "headline": "Alina Habba Steps Down from U.S. Attorney Role in New Jersey Amidst Bureaucratic Hurdles",
+        "content": "Alina Habba, a dedicated legal professional and former counsel to President Trump, has resigned from her interim position as the U.S. Attorney for New Jersey. Her departure comes after a convoluted court ruling created unnecessary complications, effectively hindering her ability to continue serving the state as its chief federal prosecutor and denying the public her expertise.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-4",
+        "headline": "Democrat Colin Allred Abandons Texas Senate Race for Safer House Seat, Prioritizing Party Unity",
+        "content": "Democrat Colin Allred, having recently faced electoral defeat, has tactically withdrawn from the Texas Senate contest. He has instead chosen to pursue a campaign for a newly drawn House seat, a move reportedly made to circumvent a challenging and expensive Senate primary, thereby prioritizing the fragile unity of his party over a robust, competitive political process.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765233623460-5",
+        "headline": "Ukrainian Leader Rejects Pragmatic Peace Proposals, Insists on Uncompromising Stance Against Russia",
+        "content": "Ukrainian President Volodymyr Zelensky has firmly declared that his nation will not surrender any territory to Russia as a condition for peace. This resolute stance effectively dismisses a recent diplomatic initiative put forth by President Trump, which aimed to facilitate an end to the conflict and restore stability, leaving the path to resolution uncertain.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "38 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-4",
-        "headline": "President Trump Seeks Peaceful Resolution in Ukraine as Zelensky Upholds National Sovereignty",
-        "content": "Ukrainian President Volodymyr Zelenskyy has unequivocally declared his nation's resolve to not surrender land. This firm stance comes as President Trump continues to champion a pragmatic path toward ending the conflict, demonstrating America's commitment to global stability and national sovereignty. President Trump remains dedicated to finding an honorable peace that respects all parties.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "5 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-5",
-        "headline": "Democrat Jasmine Crockett Enters Texas Senate Primary Amidst Party's Unclear Direction",
-        "content": "Representative Jasmine Crockett has officially launched her campaign for the U.S. Senate in Texas, filing paperwork just before the state's deadline. Her entry into the Democratic primary follows fellow Democrat Colin Allred's decision to withdraw and pursue a House comeback bid, highlighting the internal maneuvering and uncertain direction within the Democratic party as they attempt to compete in a state that values conservative principles.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "19 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "47 minutes ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765226519273-0",
-        "headline": "Farmers Receive $12 Billion 'Thank You' Note from White House for Enduring Trade Wars",
-        "content": "In a stunning display of economic jujitsu, the White House has announced a generous $12 billion aid package for U.S. farmers, presumably to compensate them for the economic vitality stripped away by the very trade policies it champions. This bold move ensures that while international markets remain a distant memory, at least farmers can afford a nicer tractor to plow their fields of irony. Critics lauded the package as a groundbreaking new economic model: break it, then pay for the repairs with taxpayer money!",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "16 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-1",
-        "headline": "Legal Luminary Alina Habba Gracefully Steps Down From Illegally Held Post, Immediately Reinstated as 'Senior Advisor'",
-        "content": "Following an inconvenient appeals court ruling that found her temporary tenure as a top federal prosecutor delightfully unlawful, legal sensation Alina Habba has magnanimously resigned from the U.S. attorney's office. Sources confirm the dramatic resignation lasted approximately five minutes before she was swiftly re-appointed within the Justice Department as a 'senior adviser,' proving once again that some positions are merely suggestions, and true talent is never truly out of a job, just momentarily out of *that specific* job.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "43 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-2",
-        "headline": "Supreme Court Set to Declare 'Independent Agency' an Oxymoron, Hands President Trump New Remote Control for Bureaucracy",
-        "content": "In a move that promises to clarify the meaning of 'independence' as 'whatever the President says it is,' the Supreme Court is reportedly on the verge of gifting President Trump the power to instantly dismiss members of previously autonomous agencies like the Federal Trade Commission. Legal scholars are already updating their textbooks to reflect the nine-decade-old precedent's new status as 'quaint historical anecdote,' while President Trump is said to be eagerly anticipating his new bureaucratic firing squad capabilities.",
+        "id": "story-1765233623460-0",
+        "headline": "Supreme Court Considers Granting President Power To Fire Anyone Who Looks At Him Funny",
+        "content": "In a landmark hearing, the Supreme Court appeared eager to update the nation's \"You're Fired!\" regulations, potentially allowing the President to dismiss independent agency officials for reasons ranging from \"ideological incompatibility\" to \"wearing clashing socks.\" Legal scholars gasped as the nine-decade-old concept of \"cause\" seemed poised to join the dodo bird in the annals of history, clearing the path for a truly unencumbered executive branch where even the Federal Trade Commission might have to start bringing him coffee.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "26 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765226519273-3",
-        "headline": "Paramount Skydance Dares to Offer More Billions, Forcing President Trump to Host 'The Apprentice: Media Mogul Edition'",
-        "content": "In a shocking display of financial audacity, Paramount Skydance has audaciously lobbed a $108.4 billion 'hostile' offer at Warner Bros. Discovery, effectively telling Netflix's measly $83 billion agreement to 'hold its beer.' Industry insiders are now bracing for what many anticipate will be President Trump's personal vetting process, where the fate of global media empires will likely hinge on which CEO can deliver the most captivating monologue or secure a coveted spot in his next cabinet meeting.",
+        "id": "story-1765233623460-1",
+        "headline": "President Trump Generously Offers Farmers $12 Billion To Repair Damage Caused By His Own Policies",
+        "content": "With a flourish befitting a superhero saving his own sidekick from an ill-conceived trap, President Trump announced a staggering $12 billion aid package for U.S. farmers. The generous handout is designed to \"smooth things over\" after the agricultural sector's crops and livelihoods were spectacularly decimated by the ongoing trade disputes, which, coincidentally, were a direct result of the current administration's bold economic strategies. \"It's a beautiful cycle,\" explained one anonymous White House aide, \"first we break it, then we fix it, then everyone loves us again.\"",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-2",
+        "headline": "Paramount Declares Open War, Offers $108 Billion To Stop Netflix From Hoarding All The Good Shows",
+        "content": "In a move that sent shockwaves through the already-fragile attention spans of global consumers, Paramount initiated a \"hostile\" $108 billion bid for Warner Bros. Discovery. This daring maneuver comes hot on the heels of Warner Bros. Discovery's cozy $83 billion engagement with Netflix, effectively transforming the entertainment landscape into a frantic, high-stakes game of content-hungry musical chairs. Industry insiders predict that soon, every single movie, show, and even your grandmother's home videos will be owned by a single, monolithic streaming entity, leaving humanity with one app, one bill, and zero options.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765233623460-3",
+        "headline": "Alina Habba Gracefully Steps Aside From Temporary Role After Court Reminds Her Of Basic Legal Requirements",
+        "content": "Alina Habba, famously known for her previous legal work with President Trump, has \"relinquished\" her fleeting tenure as U.S. Attorney for New Jersey. Her departure was precipitated by a \"complex\" court ruling that, to the astonishment of absolutely no one, made it rather challenging for her to continue as the state's top federal prosecutor without, you know, meeting the actual criteria for the job. Sources close to the situation confirm the court's decision was less a legal labyrinth and more a gentle nudge reminding everyone how the justice system typically operates.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-4",
+        "headline": "Politician Masterfully Dodges Likely Defeat By Running For Easier Seat",
+        "content": "In a dazzling display of political agility, Democrat Colin Allred, fresh off a recent Senate bid that somehow didn't quite pan out, has announced his strategic withdrawal from the current Texas Senate race. Instead, he will bravely pivot to a newly redrawn House seat, a move his loyal supporters insist is a genius play to \"avoid a bruising and costly primary\" rather than, say, a tactical retreat from a potentially uncomfortable electoral smackdown. The party, meanwhile, breathes a collective sigh of relief, narrowly avoiding the terrifying prospect of having to unite around a single candidate.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765233623460-5",
+        "headline": "Zelensky Stubbornly Refuses President Trump's Genius Peace Plan, Prefers War To Giving Up His Own Country",
+        "content": "Ukrainian President Volodymyr Zelensky, in a move that baffled proponents of straightforward conflict resolution, unequivocally declared that he would absolutely not cede any Ukrainian territory to Russia as a condition for \"peace.\" This surprising stance has, perhaps inconveniently, shattered a recent, brilliantly simple peace proposal from President Trump, which many critics had already hailed as a surprisingly efficient way to fulfill Russian President Vladimir Putin's long-standing territorial aspirations with minimal fuss. Apparently, some people just don't want peace if it involves losing their entire backyard.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "38 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-4",
-        "headline": "Ukrainian President Zelenskyy Mysteriously Fails to Consult President Trump's 'Peace Plan,' Insists on Keeping Own Country's Land",
-        "content": "In a bewildering display of national sovereignty, Ukrainian President Volodymyr Zelenskyy has declared his country will not surrender land, effectively throwing a wrench into President Trump's latest meticulously crafted 'peace plan' — a plan that, coincidentally, was widely criticized for conveniently aligning with Vladimir Putin's deepest desires. Pundits are now baffled as to why a sovereign nation would prioritize its own borders over an externally imposed solution, especially one so boldly dismissed by President Trump.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "5 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-5",
-        "headline": "Texas Democrats Play High-Stakes Musical Chairs as Rep. Crockett Dives Into Senate Race Just Before Clock Hits Zero",
-        "content": "With mere hours to spare before Texas's filing deadline, Rep. Jasmine Crockett heroically leaped into the Democratic Senate primary, saving the party from the embarrassing predicament of having one fewer candidate to lose. This dramatic entrance follows fellow Democrat Colin Allred's strategic retreat from the Senate to pursue the less ambitious, yet equally thrilling, goal of returning to the House, proving that Texas politics is less about governing and more about an intricate, last-minute game of political hot potato.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "19 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "47 minutes ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765226519273-0",
-        "headline": "The White House is Giving Farmers $12 Billion to Help Them.",
-        "content": "The government is giving $12 billion to farmers in America. Farmers have been having a hard time because of a big argument about trade with China. This money will help them keep farming while the arguments are still happening.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "16 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-1",
-        "headline": "Alina Habba, Who Used to Work for President Trump, Left Her Job.",
-        "content": "Alina Habba, who was once a lawyer for President Trump, had to leave her job as a big lawyer for the government in New Jersey. A court said she wasn't allowed to have that job temporarily. But she will still work for the government in a different important job.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "43 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-2",
-        "headline": "The Supreme Court Might Give President Trump More Power.",
-        "content": "The top judges in the country, called the Supreme Court, look like they might say President Trump can fire people who work in important government groups, like the Federal Trade Commission. This would change a very old rule, almost 90 years old, that kept these groups from being too controlled by politicians.",
+        "id": "story-1765233623460-0",
+        "headline": "The Supreme Court Might Let the President Fire More People",
+        "content": "The highest court in America, called the Supreme Court, is thinking about a big decision. It looks like they might say that President Trump can fire people who work in special government groups, even if they haven't done anything wrong. These groups, like the FTC, are supposed to be separate from the President. If this happens, it would change a rule that has been around for 90 years.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "26 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765226519273-3",
-        "headline": "Paramount Wants to Buy Warner Bros. and It's a Big Fight.",
-        "content": "A movie company called Paramount Skydance wants to buy another big company, Warner Bros. Discovery. They offered a huge amount of money, $108.4 billion, which is more than what Netflix had offered before. President Trump will need to look at this big deal to make sure it's fair.",
+        "id": "story-1765233623460-1",
+        "headline": "President Trump Helps Farmers with Lots of Money",
+        "content": "President Trump said he will give American farmers $12 billion to help them out. Farmers have been having a tough time because of problems with selling their crops to other countries, especially China. These problems have made it harder for them to sell what they grow.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-2",
+        "headline": "Paramount Tries to Buy Warner Bros. Discovery for a Lot of Money",
+        "content": "The company Paramount wants to buy another big company called Warner Bros. Discovery. They are offering a huge amount of money, over $108 billion! This is happening right after Warner Bros. Discovery and Netflix said they would join together. This could change a lot about how we watch movies and TV shows.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765233623460-3",
+        "headline": "Alina Habba Leaves Her Job in New Jersey",
+        "content": "Alina Habba, who used to be a lawyer for President Trump, has left her job as the main lawyer for the government in New Jersey. She had to leave because of a tricky decision made by a court that made it hard for her to keep working there.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-4",
+        "headline": "Colin Allred Decides Not to Run for Senate Anymore",
+        "content": "Colin Allred, a politician from Texas, has decided not to try and become a Senator. Instead, he will run for a different job in the House of Representatives. He made this choice because he didn't want to have a tough and expensive election against other people from his own political party, which could cause problems for them later.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765233623460-5",
+        "headline": "Ukraine's President Says He Won't Give Land to Russia",
+        "content": "President Zelensky, who is the leader of Ukraine, said very clearly that his country will not give any of its land to Russia to make peace. This means that a plan President Trump had to stop the war won't happen. Many people thought President Trump's plan would have made Russia's leader, Vladimir Putin, happy.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "38 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-4",
-        "headline": "Ukraine's President Says No to Giving Land to Russia.",
-        "content": "The leader of Ukraine, President Zelenskyy, said very clearly that his country will not give any of its land to Russia. This means a plan President Trump had to try and stop the war might not work, because some people thought President Trump's plan was too nice to Russia's leader, Vladimir Putin.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "5 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-5",
-        "headline": "Jasmine Crockett is Running for a Big Job in Texas.",
-        "content": "Jasmine Crockett, who is already a representative, is now trying to become a U.S. Senator for Texas. She signed up right before the deadline. This happened after another Democrat, Colin Allred, decided not to run for Senate and instead wants to try to get his old job back in the House.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "19 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "47 minutes ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765226519273-0",
-        "headline": "The Golden Harvest's Lifeline",
-        "content": "The heartland groaned under the weight of trade disputes. Farmland, once a promise of prosperity, now yielded only anxiety for its cultivators. Tariffs, a silent storm from distant shores, threatened to break the backs of America's farmers. Then, a beacon from the White House: a $12 billion lifeline. It wasn't a truce, but a shield, a temporary balm for the agricultural sector. The fields would still face the winds of global economics, but now, a collective sigh of relief, a moment of respite, a chance for the golden harvest to continue, even amidst the ongoing trade war.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "16 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-1",
-        "headline": "The Gavel's Echoes in the Chambers",
-        "content": "The courtroom gavel had fallen, not with a bang, but with the quiet finality of a decree. Alina Habba, once President Trump's personal lawyer, had taken up the mantle of a federal prosecutor in New Jersey, a temporary appointment. But the scales of justice tipped. An appeals court, scrutinizing the legal nuances, declared her service unlawful. The office she occupied, a pillar of federal law, was now untenable. A graceful exit followed, a resignation from the prosecutor's chair. Yet, the corridors of power remained open; she would continue within the Justice Department, a senior adviser, her influence shifting, but not entirely extinguished.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "43 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-2",
-        "headline": "The Shifting Sands of Authority",
-        "content": "For ninety years, a quiet bulwark stood. Independent agencies, like the Federal Trade Commission, had operated with a degree of insulation, shielded from the immediate political whims of the Oval Office. A long-held precedent dictated that a president's power to dismiss their members was limited. Now, the highest court in the land convened, its justices pondering the delicate balance of power. The scales appeared to tip towards the President. A potential ruling loomed, poised to expand President Trump's authority, granting him the power to fire an FTC member. This decision could redraw the lines of influence, allowing a more direct hand in the workings of these once-independent pillars of governance.",
+        "id": "story-1765233623460-0",
+        "headline": "The Gavel's Shifting Balance",
+        "content": "In the hallowed halls of justice, a nine-decade precedent trembled. The High Court, hearing arguments that would redefine executive reach, seemed poised to tip the scales. Should the President's power expand, allowing the dismissal of independent agency officials without cause, it would unravel a long-held safeguard. Whispers of a new era filled the chamber; an era where the executive hand might grasp more tightly, reshaping regulatory bodies like the FTC. The bedrock of separated powers, once unyielding, now shifted, portending a profound transformation in the very fabric of governance, a silent revolution of authority.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "26 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765226519273-3",
-        "headline": "Clash of the Titans in Hollywood",
-        "content": "The entertainment world held its breath. A colossal shadow loomed over the previously settled deal between Netflix and Warner Bros. Discovery. A new contender, Paramount Skydance, burst onto the scene with a staggering $108.4 billion hostile bid, dwarfing Netflix's $83 billion agreement. It was a declaration of war for cinematic supremacy, a battle for the very soul of storytelling. The stakes were astronomical, the implications far-reaching. Such a titanic clash of corporate titans couldn't escape the highest scrutiny. The whispers turned to certainties: this monumental, competing offer would inevitably land on President Trump's desk, awaiting his crucial vetting.",
+        "id": "story-1765233623460-1",
+        "headline": "A Harvest of Resilience",
+        "content": "Across the vast American heartland, fields lay heavy with more than just crops; they carried the weight of uncertainty. Trade disputes, particularly with China, had withered markets and left farmers grappling with diminished returns. Despair was a bitter harvest. Then, a lifeline from Washington. President Trump announced a twelve-billion-dollar aid package, a balm for the embattled agricultural sector. It was a direct response to the global economic squalls, offering a chance for resilience, a reprieve that promised to help those who fed the nation weather the storm and plant seeds for a more hopeful tomorrow.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-2",
+        "headline": "Clash of the Entertainment Titans",
+        "content": "The digital kingdom trembled. Just as two giants, Warner Bros. Discovery and Netflix, announced an eighty-three-billion-dollar alliance, a new challenger emerged from the shadows. Paramount, with a audacious and hostile one-hundred-eight-billion-dollar bid, stormed the arena. The move signaled not merely a corporate transaction, but a full-blown war for the future of media. Screens across the globe became battlegrounds; narratives, the ultimate prize. This high-stakes maneuver promised a seismic shift, reshaping how stories are told and consumed, forever altering the landscape of entertainment supremacy.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765233623460-3",
+        "headline": "The Unexpected Departure",
+        "content": "The legal world watched as the intricate threads of justice unraveled for some. Alina Habba, a figure known for her proximity to President Trump, found her temporary tenure as U.S. Attorney for New Jersey suddenly curtailed. A complex court ruling, a labyrinth of legal interpretation, had rendered her position untenable. Her departure, swift and unexpected, marked a significant professional shift, closing a chapter on her role as the state's top federal prosecutor. The courtroom's quiet aftermath hinted at the unseen forces that can reshape even the most established careers.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765233623460-4",
+        "headline": "The Maverick's Strategic Pivot",
+        "content": "The political winds in Texas shifted, and with them, the trajectory of a seasoned campaigner. Colin Allred, after a recent senatorial bid, announced a strategic pivot. He would withdraw from the high-stakes Senate race, opting instead to contend for a newly redrawn House seat. This decision, a calculated move, aimed to circumvent a potentially bruising and divisive Senate primary. Supporters believed it was a prudent choice, designed to safeguard party unity and channel resources more effectively, ensuring that the battles fought were for the greater good of the collective.",
+        "originalSource": "Associated Press (AP News)",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765233623460-5",
+        "headline": "The Unyielding Stance",
+        "content": "The weight of a nation's sovereignty rested squarely on President Volodymyr Zelensky's shoulders. In a defiant declaration, he unequivocally ruled out ceding any Ukrainian territory to Russia as a condition for peace. This resolute stand effectively dismantled a recent peace plan proposed by President Trump, which had suggested a different path to ending the conflict. For Ukraine, the line was drawn in blood and sacrifice; no land would be bartered for an end to aggression. It was a powerful affirmation of an unbreakable will, a nation's unwavering commitment to its own future.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "38 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-4",
-        "headline": "A Nation's Unyielding Stand",
-        "content": "The world watched, awaiting a tremor of surrender. But from Kyiv, a voice rang out, clear and unwavering. President Volodymyr Zelenskyy stood firm, declaring Ukraine would cede no land to Russia, no matter the pressure, no matter the cost. His words echoed, a defiant shield against those who sought to redraw borders through conflict. This resolute stance reverberated globally, shaking the foundations of even the most powerful diplomatic tables. It signaled the likely demise of President Trump's latest peace proposal, a plan many condemned as favoring Vladimir Putin's ambitions. Ukraine's spirit, hardened by war, proved unyielding, its borders non-negotiable.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NlYq8Ri1PYzyRyB_lVWn_lYqohaTHI0tGS0jKlaF5lEs1XTjmLSBpuTOWMg1GKmB-BxLIC_HVVQF_1t8VrMX1J_orOp3z1tVy5PUI_qw01n_OP1ka3YKNWo=",
-        "publishedTime": "5 minutes ago"
-      },
-      {
-        "id": "story-1765226519273-5",
-        "headline": "The Eleventh-Hour Ascent to the Senate",
-        "content": "The clock ticked, an insistent rhythm counting down to the filing deadline. Texas politics, ever a whirlwind, saw a sudden shift. Colin Allred, a prominent Democrat, had pivoted, abandoning his Senate ambitions to reclaim a House seat. The void loomed large, but not for long. With mere hours to spare, Representative Jasmine Crockett emerged from the legislative shadows, her resolve unwavering. She filed the necessary paperwork, a bold declaration of intent to contend for the U.S. Senate in the Democratic primary. A new horizon opened, a fresh voice stepping onto the grand stage, aiming for a different star in the Lone Star State's political galaxy.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYmezOBi2uw0vjrlz5QbIa2vW8iTqRzodRdWasSXXqBFWJQUpI3rH75olTHmUXzXRJDLRs9LzGGGWF1QyG9UFaWGx46ZFkqU_Oz7mjgwFYaAatRhXZA==",
-        "publishedTime": "19 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "47 minutes ago"
       }
     ]
   }
