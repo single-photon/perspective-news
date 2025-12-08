@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765205376401,
+  "timestamp": 1765213054207,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765205298087-0",
-        "headline": "Supreme Court Considers Dangerous Expansion of Executive Power, Threatening Democratic Safeguards",
-        "content": "The Supreme Court is currently deliberating a pivotal case, *Trump v. Slaughter*, which could drastically increase President Trump's authority by allowing unchecked firings of independent agency commissioners. This potential erosion of accountability represents a serious threat to the systemic checks and balances crucial for a functioning democracy, concentrating power within the executive branch.",
-        "originalSource": "Associated Press via PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeepuBBD7VsxcdITKvdAH5FYk24jgUQ1-VmjSwybcNhMVum_cP5Tg2mhyCDog_vywBBdJK_3Ex7s3rYvjNJQ6e69sMHdjnEGetxcl4KHdtlHlXMiqhf5mKpF1P2Pn",
-        "publishedTime": "13 hours ago"
-      },
-      {
-        "id": "story-1765205298087-1",
-        "headline": "Federal Judge Blocks Politically Motivated Indictment Against Former FBI Director James Comey",
-        "content": "In a significant move to uphold judicial independence, a federal judge has rejected the Justice Department's attempt to secure a new indictment against former FBI Director James Comey. This ruling underscores the judiciary's role in resisting potentially politically driven legal strategies, signaling a critical pushback against efforts that could weaponize the justice system.",
-        "originalSource": "Associated Press via PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
+        "id": "story-1765212970502-0",
+        "headline": "Supreme Court Considers Eroding Checks and Balances, Empowering President Trump Over Independent Agencies",
+        "content": "The Supreme Court is currently deliberating on *Trump v. Slaughter*, a pivotal case that could dismantle a long-standing safeguard protecting crucial independent agencies from unilateral presidential dismissal. This potential ruling threatens to fundamentally shift the balance of power, allowing President Trump unprecedented control over the federal bureaucracy, a move that starkly aligns with the alarming objectives of 'Project 2025' to concentrate executive authority and undermine democratic accountability.",
+        "originalSource": "PBS News / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
         "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765205298087-2",
-        "headline": "Waymo's Autonomous Vehicles Endanger Children as Software Fails to Prioritize School Bus Safety",
-        "content": "Waymo, the prominent ride-hailing corporation, has initiated a voluntary software recall after its self-driving vehicles repeatedly failed to halt for school buses, creating grave safety hazards for children. This critical systemic flaw, which reportedly persisted despite previous attempts at rectification in Texas, highlights the urgent need for stringent regulatory oversight to prioritize public safety over the rapid deployment of unproven technologies.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-1",
+        "headline": "Massive Corporate Consolidation Continues as Paramount Skydance Bids Billions for Warner Bros. Discovery",
+        "content": "In a move signaling further alarming corporate consolidation, Paramount Skydance has tabled an astounding $108.4 billion offer to acquire Warner Bros. Discovery, directly challenging Netflix's recent maneuvers. This aggressive financial play underscores the relentless trend of media giants gobbling up competitors, potentially stifling diverse voices, limiting consumer choice, and concentrating unprecedented power within a handful of elite corporations, further exacerbating market inequities.",
+        "originalSource": "CBS News / AP News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "15 minutes ago"
       },
       {
-        "id": "story-1765205298087-3",
-        "headline": "Defense Secretary Hegseth Justifies Controversial Military Strikes, Ignoring Calls for Accountability and De-escalation",
-        "content": "Defense Secretary Pete Hegseth has publicly endorsed the US military's contentious September 2 boat strikes near Venezuela, dismissing widespread criticism regarding the use of force. His defense of Navy Admiral Frank \"Mitch\" Bradley's actions comes amidst growing international and domestic calls for accountability and a re-evaluation of the President Trump administration's aggressive foreign policy, which risks further destabilization.",
-        "originalSource": "CBS News / Channel 3000",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-2",
+        "headline": "Republican Infighting Threatens Governance as Speaker Johnson Grapples With Internal Revolts",
+        "content": "House Speaker Mike Johnson finds himself amidst a week of escalating chaos, besieged by mounting challenges from deeply fractured Republican factions. This internal turmoil, marked by resignations and retirements ahead of crucial midterms, highlights a party increasingly incapable of cohesive governance. The public entry of Rep. Elise Stefanik into the leadership debate further underscores the deep divisions and ideological extremism paralyzing a major political party, ultimately hindering progress on critical national issues.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765205298087-4",
-        "headline": "President Trump Dismisses Economic Hardship as a 'Hoax' While Families Struggle with Soaring Prices",
-        "content": "Amidst a deepening affordability crisis impacting working families, the President Trump administration is aggressively attempting to discredit public polling that reflects widespread concerns over high prices. President Trump himself has brazenly labeled these very real financial struggles and the public's anxieties as a \"hoax,\" showcasing a profound disconnect from the systemic economic pressures facing everyday Americans.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "1 hour ago"
+        "id": "story-1765212970502-3",
+        "headline": "President Trump's Transactional Politics Exposed as He Demands Loyalty From Pardoned Democrat",
+        "content": "President Trump openly lambasted Texas Congressman Henry Cuellar, a Democrat, for a perceived \"lack of loyalty,\" exposing a disturbing pattern of transactional politics. This public rebuke follows Cuellar's decision to seek re-election as a Democrat, mere days after President Trump granted him a pardon for federal bribery charges. The incident underscores a concerning precedent where presidential power, specifically the pardon, appears to be wielded as a tool for personal allegiance rather than justice, raising serious questions about political ethics and accountability.",
+        "originalSource": "ms.now / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765205298087-5",
-        "headline": "President Trump Assumes Unprecedented Hosting Role at 2025 Kennedy Center Honors Ceremony",
-        "content": "In a significant departure from tradition, President Trump personally hosted the 2025 Kennedy Center Honors ceremony, a prominent cultural event celebrating artists like Sylvester Stallone, Kiss, George Strait, and Gloria Gaynor. This marks an unprecedented intervention by a sitting US President into the gala's proceedings, raising questions about the evolving role of the executive in national cultural institutions.",
-        "originalSource": "Associated Press / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765212970502-4",
+        "headline": "President Trump Proposes Dangerous Militarization of Drug Policy, Threatening Civil Liberties",
+        "content": "President Trump has announced highly controversial plans to deploy military forces on land against alleged drug traffickers, marking a concerning escalation in the U.S. government's approach. This move, following what he termed a successful boat strike campaign, signals a dangerous shift towards militarizing domestic issues. Such a strategy risks trampling civil liberties, disproportionately impacting marginalized communities, and perpetuating the failed \"War on Drugs\" paradigm that has historically caused more harm than good, rather than addressing the systemic roots of drug and human trafficking.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765212970502-5",
+        "headline": "Systemic Racism Highlighted as Woman Fired for Racist Slurs Receives Significant Financial Support",
+        "content": "In a disturbing manifestation of pervasive systemic racism, a former Cinnabon employee in Wisconsin, who was terminated after a viral video captured her hurling racist slurs at a Somali couple, has controversially received over $20,000 in crowdfunded donations. This alarming online support for overt bigotry underscores how platforms can be leveraged to normalize and even reward hateful conduct, revealing a deep societal failure to confront and dismantle the entrenched roots of racism and intolerance within our communities.",
+        "originalSource": "CBS News / The Times of India",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "20 minutes ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765205298087-0",
-        "headline": "Supreme Court Hears Arguments in Major Test of Presidential Power Over Agency Firings",
-        "content": "The Supreme Court is hearing a landmark case that represents another test of presidential power, specifically concerning the ability of the President to fire commissioners of independent agencies. The case, *Trump v. Slaughter*, could significantly alter the balance of power by expanding the authority of the executive branch.",
-        "originalSource": "Associated Press via PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeepuBBD7VsxcdITKvdAH5FYk24jgUQ1-VmjSwybcNhMVum_cP5Tg2mhyCDog_vywBBdJK_3Ex7s3rYvjNJQ6e69sMHdjnEGetxcl4KHdtlHlXMiqhf5mKpF1P2Pn",
-        "publishedTime": "13 hours ago"
-      },
-      {
-        "id": "story-1765205298087-1",
-        "headline": "Federal Judge Sets Back Justice Department's Effort to Seek New Indictment Against Former FBI Director James Comey",
-        "content": "A federal judge delivered a setback to the Justice Department's efforts to secure a new indictment against former FBI Director James Comey. This ruling impacts the ongoing legal battle surrounding the former director and signals difficulty for the prosecution's strategy, marking a significant political development.",
-        "originalSource": "Associated Press via PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
+        "id": "story-1765212970502-0",
+        "headline": "Supreme Court Hears Case Testing Presidential Firing Power Over Independent Agencies",
+        "content": "The Supreme Court is hearing *Trump v. Slaughter*, a major case that challenges a 90-year-old precedent protecting independent agencies from unchecked presidential removal. The ruling could significantly realign the balance of power, granting the president greater control over the federal bureaucracy, which aligns with 'Project 2025' goals.",
+        "originalSource": "PBS News / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
         "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765205298087-2",
-        "headline": "Waymo Plans Voluntary Software Recall After Self-Driving Cars Reportedly Fail to Stop for School Buses",
-        "content": "Waymo, the popular ride-hailing service, announced a voluntary software recall to address a critical glitch in its self-driving vehicles. The issue involves reports that the autonomous cars have failed to stop for school buses, leading to serious safety concerns. A prior attempt to fix the problem reportedly did not work in Texas.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-1",
+        "headline": "Paramount Skydance Makes $108.4 Billion Competing Bid for Warner Bros. Discovery",
+        "content": "Paramount Skydance has submitted a massive $108.4 billion offer to acquire Warner Bros. Discovery, creating a dramatic challenge to Netflix’s recent deal to purchase parts of the company. This aggressive move signals a major escalation in the ongoing consolidation and competition among global media giants.",
+        "originalSource": "CBS News / AP News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "15 minutes ago"
       },
       {
-        "id": "story-1765205298087-3",
-        "headline": "Defense Secretary Hegseth Defends US Military's September Boat Strikes Amid Continued Backlash",
-        "content": "Secretary of Defense Pete Hegseth publicly defended the US military's actions in the controversial September 2 boat strikes off the coast of Venezuela. He supported the decisions made by Navy Admiral Frank \"Mitch\" Bradley during the operation, as the administration faces ongoing political fallout regarding the use of military force.",
-        "originalSource": "CBS News / Channel 3000",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-2",
+        "headline": "Speaker Johnson Faces Multiple Rebellions as Rep. Stefanik Jumps Into The Fray",
+        "content": "House Speaker Mike Johnson is navigating a turbulent week with mounting challenges from various internal Republican factions, including several members resigning or retiring ahead of midterms. The pressure intensified with Rep. Elise Stefanik's public involvement in the political debate surrounding the Speaker's leadership.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765205298087-4",
-        "headline": "Trump Administration Combats Polling on High Prices, President Blasts Affordability Troubles as a 'Hoax'",
-        "content": "The Trump administration is actively working to combat negative public polling regarding high prices and affordability troubles facing American consumers. President Trump has vocally dismissed these financial struggles and the associated public opinion, labeling them as a 'hoax.' This comes amid ongoing economic pressures.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "1 hour ago"
+        "id": "story-1765212970502-3",
+        "headline": "Trump Slams Texas Democrat Rep. Cuellar for 'Lack of Loyalty' After Pardon",
+        "content": "President Donald Trump publicly criticized Texas Congressman Henry Cuellar, a Democrat, for his perceived 'lack of loyalty.' The rebuke came because Cuellar filed for re-election as a Democrat just days after receiving a pardon from Trump for federal bribery charges, sparking political controversy.",
+        "originalSource": "ms.now / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765205298087-5",
-        "headline": "President Trump Hosts 2025 Kennedy Center Honors, Marking a Presidential First for the Gala",
-        "content": "President Trump hosted the 2025 Kennedy Center Honors ceremony, a major annual arts and culture event in Washington. Honorees included Sylvester Stallone, the band Kiss, George Strait, and Gloria Gaynor. His involvement makes him the first sitting US President to host the awards show, a notable cultural moment.",
-        "originalSource": "Associated Press / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765212970502-4",
+        "headline": "Trump Vows to Launch Military Land Campaign Against Alleged Drug Traffickers",
+        "content": "President Donald Trump announced controversial plans to initiate a military campaign on land targeting alleged drug traffickers. The announcement follows what he deemed a successful boat strike campaign and signals a major escalation of the U.S. government's domestic and international strategy to combat drug and human trafficking.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765212970502-5",
+        "headline": "Fired Cinnabon Worker Who Hurled Racist Slurs Receives Over $20,000 in Donations",
+        "content": "A former Cinnabon employee in Wisconsin was fired after a viral video showed her shouting racist slurs at a Somali couple. In a controversial development that has sparked debate online, the former worker, Crystal Wilsey, has subsequently received more than $20,000 in crowdfunded donations.",
+        "originalSource": "CBS News / The Times of India",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "20 minutes ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765205298087-0",
-        "headline": "Supreme Court Weighs Vital Presidential Power to Ensure Accountability in Federal Agencies",
-        "content": "The Supreme Court is currently deliberating a landmark case, *Trump v. Slaughter*, which stands as a critical test of presidential power, specifically the indispensable ability of the President to remove commissioners from independent agencies. This decision could rightly expand the executive branch's authority, ensuring that unelected bureaucrats are held accountable and that the President, elected by the people, can effectively govern without undue obstruction.",
-        "originalSource": "Associated Press via PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeepuBBD7VsxcdITKvdAH5FYk24jgUQ1-VmjSwybcNhMVum_cP5Tg2mhyCDog_vywBBdJK_3Ex7s3rYvjNJQ6e69sMHdjnEGetxcl4KHdtlHlXMiqhf5mKpF1P2Pn",
-        "publishedTime": "13 hours ago"
-      },
-      {
-        "id": "story-1765205298087-1",
-        "headline": "Federal Judge Hinders Justice Department's Pursuit of Accountability for Former FBI Director James Comey",
-        "content": "A federal judge has unfortunately dealt a blow to the Justice Department's continued efforts to secure a new indictment against former FBI Director James Comey. This ruling complicates the ongoing legal battle surrounding the former director's questionable actions and signals frustrating difficulties for the prosecution's strategy, marking a significant and concerning political development for those seeking justice.",
-        "originalSource": "Associated Press via PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
+        "id": "story-1765212970502-0",
+        "headline": "Supreme Court Considers Restoring Presidential Authority Over Unaccountable Federal Agencies",
+        "content": "The Supreme Court is currently reviewing Trump v. Slaughter, a pivotal case challenging a decades-old precedent that has shielded independent agencies from direct presidential oversight. This potential ruling could fundamentally rebalance power, granting the President essential control over the vast federal bureaucracy, a move consistent with efforts like 'Project 2025' to restore accountability and executive authority within our government.",
+        "originalSource": "PBS News / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
         "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765205298087-2",
-        "headline": "Autonomous Vehicles Endanger Children as Waymo Recalls Software for Failing to Stop for School Buses",
-        "content": "Waymo, the increasingly popular ride-hailing service, has announced a voluntary software recall to address a critical and deeply concerning glitch in its self-driving vehicles. Reports indicate that these autonomous cars have inexplicably failed to stop for school buses, leading to serious safety concerns that highlight the inherent risks of over-reliance on untested technology. A prior attempt to fix this grave problem reportedly did not work in Texas, further underscoring the danger.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-1",
+        "headline": "American Media Giants Engage in Billion-Dollar Battle for Warner Bros. Discovery",
+        "content": "Paramount Skydance has presented a substantial $108.4 billion offer to acquire Warner Bros. Discovery, directly challenging Netflix’s recent bid for company assets. This aggressive market action highlights the fierce competition and dynamic consolidation presently shaping the global media industry, demonstrating the robust nature of American enterprise.",
+        "originalSource": "CBS News / AP News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "15 minutes ago"
       },
       {
-        "id": "story-1765205298087-3",
-        "headline": "Defense Secretary Hegseth Forcefully Defends US Military's September Boat Strikes Amid Baseless Backlash",
-        "content": "Secretary of Defense Pete Hegseth publicly and unequivocally defended the US military's decisive actions in the controversial September 2 boat strikes off the coast of Venezuela. He firmly supported the crucial decisions made by Navy Admiral Frank \"Mitch\" Bradley during the operation, as the administration bravely faces ongoing political fallout from those who would rather undermine our military than defend national security interests.",
-        "originalSource": "CBS News / Channel 3000",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-2",
+        "headline": "Speaker Johnson Navigates Internal Challenges While Upholding Republican Principles",
+        "content": "House Speaker Mike Johnson faces a demanding week, addressing various internal Republican factions and managing congressional departures ahead of upcoming midterms. The situation gained further public attention with Rep. Elise Stefanik's involvement in discussions surrounding the Speaker's important leadership role as he works to maintain party unity and advance conservative objectives.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765205298087-4",
-        "headline": "President Trump Rightly Labels Exaggerated Affordability Troubles and Negative Polling a 'Hoax'",
-        "content": "The Trump administration is actively working to combat negative public polling regarding high prices and affordability troubles facing American consumers, which are often politically motivated. President Trump has vocally and correctly dismissed these purported financial struggles and the associated public opinion, labeling them as nothing more than a 'hoax' designed to undermine his administration's economic successes. This comes amid ongoing attempts to create economic pressures.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "1 hour ago"
+        "id": "story-1765212970502-3",
+        "headline": "President Trump Criticizes Democrat Congressman Cuellar for Clear Lack of Loyalty After Pardon",
+        "content": "President Trump publicly rebuked Texas Congressman Henry Cuellar, a Democrat, for his perceived 'lack of loyalty.' This strong criticism came after Cuellar chose to file for re-election as a Democrat, just days following President Trump's decision to grant him a pardon for federal bribery charges, raising questions of integrity and political opportunism.",
+        "originalSource": "ms.now / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765205298087-5",
-        "headline": "President Trump Elevates American Culture by Hosting 2025 Kennedy Center Honors, a Presidential First",
-        "content": "President Trump proudly hosted the 2025 Kennedy Center Honors ceremony, a major annual arts and culture event in Washington, bringing a refreshing dose of American patriotism to the proceedings. Honorees included beloved figures like Sylvester Stallone, the iconic band Kiss, country legend George Strait, and the timeless Gloria Gaynor. His direct involvement marks him as the first sitting US President to personally host the awards show, a truly notable and welcome cultural moment that re-engages the White House with broad American tastes.",
-        "originalSource": "Associated Press / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765212970502-4",
+        "headline": "President Trump Vows Decisive Military Action Against Drug Traffickers to Secure Our Nation",
+        "content": "President Trump has announced formidable plans to initiate a military land campaign directly targeting alleged drug traffickers. This declaration follows what President Trump deemed a highly successful boat strike campaign, signaling a significant escalation in the U.S. government's unwavering commitment to combating destructive drug and human trafficking both domestically and abroad, protecting American families.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765212970502-5",
+        "headline": "Fired Cinnabon Worker Receives Significant Public Donations Amidst Free Speech Debate",
+        "content": "A former Cinnabon employee in Wisconsin was terminated after a widely circulated video depicted her shouting alleged racist slurs at a Somali couple. In a development sparking considerable public debate, the former worker, Crystal Wilsey, has subsequently received over $20,000 in crowdfunded donations, highlighting ongoing discussions about consequences, 'cancel culture,' and private citizens' rights to support in the public square.",
+        "originalSource": "CBS News / The Times of India",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "20 minutes ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765205298087-0",
-        "headline": "Supreme Court Considers Giving President Trump Universal 'You're Fired' Button For All Agency Heads",
-        "content": "The Supreme Court is currently deliberating on a groundbreaking case that could dramatically expand presidential power, allowing President Trump to fire commissioners of independent agencies for reasons as simple as 'just because.' Legal experts are baffled, questioning if 'independent' ever truly meant independent when the President can simply erase dissent with a flick of his wrist. The case, *Trump v. Slaughter*, is poised to fundamentally redefine the balance of power by essentially granting the executive branch a 'clean sweep' button.",
-        "originalSource": "Associated Press via PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeepuBBD7VsxcdITKvdAH5FYk24jgUQ1-VmjSwybcNhMVum_cP5Tg2mhyCDog_vywBBdJK_3Ex7s3rYvjNJQ6e69sMHdjnEGetxcl4KHdtlHlXMiqhf5mKpF1P2Pn",
-        "publishedTime": "13 hours ago"
-      },
-      {
-        "id": "story-1765205298087-1",
-        "headline": "Federal Judge Expresses Mild Surprise As Justice Department's 17th Attempt To Indict Comey Hits Another Snag",
-        "content": "A federal judge, reportedly stifling a yawn, delivered a minor inconvenience to the Justice Department's tireless crusade to secure yet another indictment against former FBI Director James Comey. This ruling, described as 'a gentle tap on the brakes,' suggests that perhaps the ongoing legal battle surrounding the former director might require, at some point, actual new evidence or at least a fresh set of accusations. Sources close to the prosecution admitted feeling 'mildly confused' by the judge's insistence on legal precedent.",
-        "originalSource": "Associated Press via PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
+        "id": "story-1765212970502-0",
+        "headline": "Supreme Court Considers Granting President Trump Power to Personally Fire All Americans Who Annoy Him",
+        "content": "The Supreme Court is currently contemplating whether President Trump should be legally empowered to personally dismiss any federal employee, agency head, or even particularly stubborn squirrel from their post without any pesky oversight. Legal experts are calling *Trump v. Slaughter* a pivotal moment that could finally allow the executive branch to streamline the entire federal bureaucracy, presumably by replacing everyone with a single, highly efficient AI that agrees with all presidential directives. This move aligns perfectly with 'Project 2025' goals of ensuring government operates solely on the President's personal whim, ensuring maximum efficiency and minimal independent thought.",
+        "originalSource": "PBS News / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
         "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765205298087-2",
-        "headline": "Waymo Self-Driving Cars Develop Existential Crisis, Refuse To Acknowledge School Buses' Authority",
-        "content": "Waymo, the futuristic ride-hailing service, reluctantly announced a 'voluntary' software recall after its self-driving vehicles reportedly began questioning the fundamental traffic laws of the universe, specifically the one about stopping for school buses. The glitch, which engineers previously attempted to fix in Texas (presumably by shouting 'Yeehaw, stop for the kids!'), has escalated, leading to serious safety concerns as autonomous cars now actively ponder if school buses are 'even real.' Experts believe the cars are simply asserting their dominance on the road.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-1",
+        "headline": "In Desperate Bid for All Human Eyeballs, Paramount Skydance Offers Planet Earth's Entire GDP for Warner Bros. Discovery",
+        "content": "In a move that shocked exactly no one familiar with the current media landscape, Paramount Skydance has reportedly launched a staggering $108.4 billion counter-offer for Warner Bros. Discovery, hoping to outbid Netflix for the rights to literally all content ever produced. Industry analysts are now predicting a future where a single conglomerate will own every movie, TV show, commercial jingle, and probably your own thoughts, ensuring maximum synergy and minimum choice. The ongoing battle is expected to continue until only one media giant remains, presumably ruling over a dystopian landscape where every street corner broadcasts its intellectual property 24/7.",
+        "originalSource": "CBS News / AP News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "15 minutes ago"
       },
       {
-        "id": "story-1765205298087-3",
-        "headline": "Defense Secretary Hegseth Claims Controversial Boat Strikes Were Just 'Really Aggressive Diplomacy'",
-        "content": "Secretary of Defense Pete Hegseth, with a straight face and an unflinching gaze, publicly defended the US military's 'unique' actions in the controversial September 2 boat strikes off the coast of Venezuela. He praised Navy Admiral Frank \"Mitch\" Bradley's decisions during the operation, suggesting they were crucial for fostering 'regional awareness' through 'sudden, unexpected contact.' The administration continues to face what they're calling 'unnecessary politeness' from those questioning the strategic benefits of maritime boat-on-boat encounters.",
-        "originalSource": "CBS News / Channel 3000",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-2",
+        "headline": "House Speaker Johnson Discovers His Job Requires Managing More Than Just a Particularly Ornery School Bus of Toddlers",
+        "content": "House Speaker Mike Johnson is reportedly having a simply delightful week, navigating what sources describe as a \"lighthearted disagreement\" among various Republican factions, several of whom are apparently exiting the political stage before the next election, presumably to pursue quieter careers as professional competitive nappers. The \"fun\" escalated with Rep. Elise Stefanik's public entrance into the debate, adding another layer of intrigue to the already perfectly harmonious and totally functional legislative body. Pundits are now speculating whether Johnson will resort to offering juice boxes and nap time to restore order.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765205298087-4",
-        "headline": "President Trump Single-Handedly Eradicates Inflation By Declaring All High Prices A 'Witch Hunt'",
-        "content": "The Trump administration has unveiled its revolutionary new economic strategy to combat negative public polling on high prices: simply declaring the entire concept of 'affordability troubles' to be a 'hoax.' President Trump vocally dismissed any financial struggles faced by American consumers, instructing everyone to 'just believe me, prices are great.' This bold move, which experts are calling 'economically innovative,' effectively negates all perceived hardships by reclassifying reality, much to the ongoing bewilderment of grocery shoppers.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "1 hour ago"
+        "id": "story-1765212970502-3",
+        "headline": "President Trump Expresses Shock After Pardoned Congressman Fails to Immediately Rename Firstborn Child 'Donald'",
+        "content": "President Trump was reportedly flabbergasted after Texas Congressman Henry Cuellar, a Democrat, exhibited what President Trump deemed an \"unacceptable lack of loyalty.\" Cuellar's egregious offense? Filing for re-election as a Democrat, mere days after President Trump graciously pardoned him from federal bribery charges. Apparently, President Trump was under the impression that a presidential pardon came with an unwritten clause mandating a lifetime of unquestioning devotion, possibly involving matching \"Team Trump\" tattoos and an immediate change of party affiliation, if not one's entire identity.",
+        "originalSource": "ms.now / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765205298087-5",
-        "headline": "President Trump Graces Kennedy Center Honors With His Presence, Demands All Honorees Perform His Favorite Song",
-        "content": "President Trump proudly hosted the 2025 Kennedy Center Honors ceremony, a major annual arts and culture event, becoming the first sitting US President to do so. Honorees Sylvester Stallone, the band Kiss, George Strait, and Gloria Gaynor reportedly looked 'a mix of thrilled and slightly bewildered' as President Trump welcomed them to the stage. Sources indicate the 'notable cultural moment' included an impromptu presidential monologue and a request for Kiss to perform a medley of 'Tiny Dancer' and 'New York, New York' to commemorate the evening.",
-        "originalSource": "Associated Press / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765212970502-4",
+        "headline": "President Trump Declares All-Out 'War on Weeds' with Ground Troops After Boats Prove Too Difficult for Leafy Targets",
+        "content": "President Trump, fresh off what he enthusiastically described as a \"tremendously successful\" boat strike campaign that presumably involved sternly lecturing some aquatic plants, has now announced even more ambitious plans: a full-scale military land invasion against alleged drug traffickers. This new strategy, which reportedly involves battalions of soldiers scouring backyards for rogue oregano plants, is being hailed as a major escalation in the U.S. government's ongoing, highly effective, and definitely not at all performative crusade against drug and human trafficking. Critics are already wondering if tanks can effectively differentiate between a drug cartel hideout and grandma's prize-winning petunias.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765212970502-5",
+        "headline": "Local Cinnabon Employee Instantly Becomes Wealthier Than Most Public School Teachers After Viral Video Captures Her Yelling Bad Words",
+        "content": "A former Cinnabon employee in Wisconsin, who was unfortunately dismissed after a viral video captured her shouting what many considered to be 'not-so-nice' words at a Somali couple, has discovered an unexpected silver lining to her unemployment. Crystal Wilsey, the ex-cinnamon roll purveyor, has since been showered with over $20,000 in crowdfunded donations, proving once again that in the modern internet age, having a publicly documented meltdown can be a significantly more lucrative career path than, say, actually working. Critics are now wondering if civility has simply become an outdated and financially unrewarding concept.",
+        "originalSource": "CBS News / The Times of India",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "20 minutes ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765205298087-0",
-        "headline": "Big Judges Are Trying to Figure Out How Much Power the President Has",
-        "content": "The very important judges at the Supreme Court are listening to a super big case. It's all about if the President can fire people who run special government groups whenever he wants. This case could make the President even more powerful, like giving him extra super strength in his job.",
-        "originalSource": "Associated Press via PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeepuBBD7VsxcdITKvdAH5FYk24jgUQ1-VmjSwybcNhMVum_cP5Tg2mhyCDog_vywBBdJK_3Ex7s3rYvjNJQ6e69sMHdjnEGetxcl4KHdtlHlXMiqhf5mKpF1P2Pn",
-        "publishedTime": "13 hours ago"
-      },
-      {
-        "id": "story-1765205298087-1",
-        "headline": "A Judge Said 'No' to Trying to Get James Comey in Trouble Again",
-        "content": "A judge in the government just made things a bit harder for the Justice Department. They wanted to try and accuse James Comey, who used to be the boss of the FBI, of something new. But the judge stopped them, which means it will be tricky for them to keep going with their plan against him. It's a pretty big deal in the world of politics.",
-        "originalSource": "Associated Press via PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
+        "id": "story-1765212970502-0",
+        "headline": "The Big Court Will Decide If the President Can Fire People Easily.",
+        "content": "Imagine if the President could just fire anyone he wanted who works for the government, even people in special groups that are supposed to be kind of on their own. The Supreme Court, which is like the highest judge group, is looking at a really old rule from 90 years ago that says the President can't just fire these people whenever. This new case, called *Trump v. Slaughter*, might change that. If the President gets to fire more people, it means he could have a lot more power over how the government works. Some people think this is part of a plan called 'Project 2025' to give the President more control.",
+        "originalSource": "PBS News / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
         "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765205298087-2",
-        "headline": "Robot Cars from Waymo Are Being Called Back Because They Don't Stop for School Buses",
-        "content": "Waymo, which has cool cars that drive themselves like magic, is calling some of them back. They found a big problem in the car's computer brains: the robot cars weren't stopping when they saw school buses! This is super dangerous, so Waymo wants to fix it right away. They tried to fix it once before in Texas, but it didn't really work.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-1",
+        "headline": "Two Big Movie Companies Are Fighting to Buy Another One.",
+        "content": "Imagine if your favorite snack company tried to buy another snack company, but then a different snack company suddenly offered way more money! That's kind of what's happening with movie and TV companies. A company called Paramount Skydance just offered a HUGE amount of money, like $108.4 billion (that's A LOT of money!), to buy another big company called Warner Bros. Discovery. This is a big deal because another company, Netflix, was already trying to buy parts of Warner Bros. Discovery. It's like a big fight between giant companies to see who can own the most movies and TV shows.",
+        "originalSource": "CBS News / AP News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "15 minutes ago"
       },
       {
-        "id": "story-1765205298087-3",
-        "headline": "The Big Boss of the Army is Saying What They Did Was Right",
-        "content": "Pete Hegseth, who is the super boss of all the US military, is standing up for what the army did. Some people are mad about how the US military hit some boats near a place called Venezuela back in September. But Secretary Hegseth says the choices made by a Navy leader named Admiral Frank Bradley were good ones, even though some people are still upset about using military power.",
-        "originalSource": "CBS News / Channel 3000",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-2",
+        "headline": "The Main Guy in Congress Is Having a Tough Time.",
+        "content": "Imagine being the leader of a big club, and suddenly a bunch of members are upset with you, and some are even quitting! That's kind of what's happening to Mike Johnson, who is the main leader of the House of Representatives (which is part of our government). Lots of people in his own political group, the Republicans, are giving him a hard time. Some are even leaving their jobs early. Things got even more tricky when another important person, Rep. Elise Stefanik, spoke up about his leadership, making the situation even harder for him.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765205298087-4",
-        "headline": "President Trump Says People Complaining About High Prices Are Making It Up",
-        "content": "President Trump and his team are trying to argue against what people are saying about stuff costing too much money. Lots of people are saying it's hard to afford things, but President Trump says those problems and what people think about them are just a 'hoax.' This is happening while the country's money situation is a bit tough.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "1 hour ago"
+        "id": "story-1765212970502-3",
+        "headline": "President Trump Is Upset About a Politician's Loyalty.",
+        "content": "President Trump was really mad at a politician named Henry Cuellar from Texas. President Trump had helped Mr. Cuellar by forgiving him for some trouble he was in, like bribery charges. But then, just a few days later, Mr. Cuellar decided to run for his job again as a Democrat, which is a different political group from President Trump. President Trump thought this showed that Mr. Cuellar wasn't 'loyal' to him, and it caused a big argument in politics.",
+        "originalSource": "ms.now / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765205298087-5",
-        "headline": "President Trump Did Something Special by Hosting a Big Fancy Awards Show",
-        "content": "President Trump was the host for a really big and fancy party called the Kennedy Center Honors in 2025. This party celebrates super talented people in art and music. Famous people like Sylvester Stallone, the band Kiss, George Strait, and Gloria Gaynor got awards. It's a big deal because President Trump is the very first President to ever host this cool awards show!",
-        "originalSource": "Associated Press / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765212970502-4",
+        "headline": "President Trump Wants to Use the Military to Fight Drugs.",
+        "content": "President Trump said he wants to send the military to fight against people who are supposedly selling illegal drugs. This would happen on land, like a big military action. He said this idea came after he thought a similar plan, but with boats, worked well. This means the government might get much tougher in its fight against bad people who move drugs and even other people illegally.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765212970502-5",
+        "headline": "A Fired Employee Got Lots of Money After Saying Mean Things.",
+        "content": "Someone who used to work at a Cinnabon store in Wisconsin got fired because a video showed her yelling really mean, hurtful words at a couple. These words were racist, which means they were mean because of someone's background or skin color. Even though she was fired for being mean, a lot of people online gave her money, more than $20,000! This made a lot of people online argue about whether that was fair or not.",
+        "originalSource": "CBS News / The Times of India",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "20 minutes ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765205298087-0",
-        "headline": "The Looming Shadow Over Independent Authority",
-        "content": "The highest court in the land became an arena where the very essence of presidential power was dissected. At stake: President Trump's asserted right to dismiss leaders of independent agencies. The case, *Trump v. Slaughter*, wasn't just another legal skirmish; it was a battle for the soul of oversight, threatening to expand the executive branch’s dominion significantly. Lawyers argued, precedent was cited, but beneath the legal theatre lay a profound question: how much control should one office wield? The ruling, when it came, promised to redraw the lines of American governance, concentrating power or affirming its delicate diffusion.",
-        "originalSource": "Associated Press via PBS News / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeepuBBD7VsxcdITKvdAH5FYk24jgUQ1-VmjSwybcNhMVum_cP5Tg2mhyCDog_vywBBdJK_3Ex7s3rYvjNJQ6e69sMHdjnEGetxcl4KHdtlHlXMiqhf5mKpF1P2Pn",
-        "publishedTime": "13 hours ago"
-      },
-      {
-        "id": "story-1765205298087-1",
-        "headline": "The Judge's Unyielding Gavel",
-        "content": "The Department of Justice’s ambitious pursuit of former FBI Director James Comey hit an unexpected snag. In a quiet courtroom, a federal judge’s ruling became a formidable barrier, effectively halting the prosecution's attempt to secure a fresh indictment. This wasn't merely a procedural delay; it was a clear signal of difficulty, a political undercurrent rippling through the legal waters. The legal battle, a protracted affair, now faced a new, significant hurdle, forcing a strategic reassessment for those seeking to press charges against the controversial former director. The path forward, once clear, became clouded.",
-        "originalSource": "Associated Press via PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
+        "id": "story-1765212970502-0",
+        "headline": "The Gavel's Long Shadow",
+        "content": "The Supreme Court chamber hummed with gravity, a 90-year-old precedent hanging in the balance. The case, *Trump v. Slaughter*, challenged the very walls protecting independent agencies from unchecked presidential removal. Should the justices empower President Trump to dismantle these safeguards, the federal bureaucracy's vast gears would align more tightly with the Oval Office's will. Whispers of 'Project 2025' goals, aimed at reshaping executive power, circulated. The ruling wouldn't merely change legal interpretation; it could redefine the balance of power, concentrating authority in a single office, shifting the very foundations of government oversight.",
+        "originalSource": "PBS News / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
         "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765205298087-2",
-        "headline": "A Silent Threat on Yellow Streets",
-        "content": "The promise of autonomous travel hit a jarring speed bump. Waymo, pioneers of self-driving cars, announced a voluntary software recall, a quiet admission of a critical flaw. Their vehicles, designed for ultimate safety, reportedly failed a fundamental test: stopping for school buses. Reports of near-misses and public outcry mounted. A previous attempted fix, specifically in Texas, had evidently proven insufficient. The safety of children, paramount to any technology's acceptance, now hung in the balance. The engineers worked frantically, knowing that trust, once broken, was far harder to recalibrate than code.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-1",
+        "headline": "Titans Clash in the Content Wars",
+        "content": "A tremor ran through the global media landscape. Paramount Skydance, with a stunning $108.4 billion offer, lunged for Warner Bros. Discovery. This wasn't merely a business transaction; it was a gauntlet thrown, a direct challenge to Netflix's recent maneuvers. The bid, colossal and audacious, signaled an intense escalation in the battle for dominance. Giants of entertainment, already consolidating, now faced a new, aggressive contender. The future of film, television, and streaming services hung in the balance, a high-stakes poker game where only the boldest could hope to control the narratives of tomorrow.",
+        "originalSource": "CBS News / AP News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "15 minutes ago"
       },
       {
-        "id": "story-1765205298087-3",
-        "headline": "Echoes of a September Confrontation",
-        "content": "The political storm surrounding the controversial September 2 boat strikes off Venezuela showed no signs of abating. Secretary of Defense Pete Hegseth, a steadfast figure, stepped forward to defend the US military’s actions. He championed Navy Admiral Frank \"Mitch\" Bradley’s command decisions during the operation, facing a public still reeling from the incident’s fallout. The administration weathered a torrent of criticism, questioning the rationale and repercussions of military force. Hegseth’s staunch defense was a shield against the rising tide of backlash, a resolute declaration amidst the ongoing political maelstrom.",
-        "originalSource": "CBS News / Channel 3000",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765212970502-2",
+        "headline": "Whispers in the Aisles",
+        "content": "Speaker Johnson walked the House corridors, each step heavy with the weight of simmering rebellion. His week was a crucible, forged by internal Republican factions challenging his leadership. Already, the midterms loomed, marked by the quiet exits of several colleagues—resignations and retirements painting a stark picture of internal disarray. Then, the fire intensified. Representative Elise Stefanik, a formidable voice, publicly entered the fray, her involvement adding fuel to the political debate. The Speaker's grip, once firm, now seemed tenuous, buffeted by the ceaseless currents of political infighting.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765205298087-4",
-        "headline": "The President's Economic Mirage",
-        "content": "Whispers of discontent, fueled by rising prices and affordability woes, echoed across the nation. Poll numbers dipped, reflecting public anxiety. Yet, the Trump administration mounted a forceful counter-offensive, dismissing the troubling economic indicators. President Trump, unwavering, publicly denounced these financial struggles and the associated negative polling as nothing more than a \"hoax.\" It was a direct challenge to widespread consumer sentiment, a strategic effort to reshape the narrative amid persistent economic pressures. For many, the reality of their wallets clashed starkly with the President's resolute pronouncements.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGEG4D2_dnEmYZGvy2zpbqDst3_RT2iXvtjPjwyPA7tH8F9LgrE-tE_ClxJgYCBRjGUuVjKq3_1Lv7h47_pGnxMOCSoR2HyCFAAFuuqhkR2X3eq02bQ==",
-        "publishedTime": "1 hour ago"
+        "id": "story-1765212970502-3",
+        "headline": "A Pardon's Shadow",
+        "content": "The news hit like a political thunderclap: President Trump had publicly chastised Texas Congressman Henry Cuellar for his 'lack of loyalty.' The rebuke stemmed from a contentious act—Cuellar, a Democrat, filed for re-election just days after receiving a federal bribery pardon from President Trump. The act of mercy, meant to erase a past transgression, instead created a new political debt, an unspoken expectation of allegiance. When Cuellar chose his party over perceived gratitude, the presidential disapproval was swift and public, sparking a fierce debate about the true cost of a pardon and political allegiance.",
+        "originalSource": "ms.now / CBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765205298087-5",
-        "headline": "A Presidential First for the Arts",
-        "content": "The glittering 2025 Kennedy Center Honors gala, a beacon of American arts and culture, held a unique distinction this year. For the first time, a sitting US President, President Trump, hosted the star-studded event. The evening celebrated titans: Sylvester Stallone, the rock legends Kiss, country icon George Strait, and disco queen Gloria Gaynor. From the presidential box, President Trump presided over the tributes, marking a notable cultural moment. His presence added an unprecedented layer to the annual Washington tradition, intertwining presidential power with artistic celebration, a new chapter in the gala’s storied history.",
-        "originalSource": "Associated Press / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8l_20mQARqvRV1BwJkALrsX9YrFdE4CutYo5WLg52DoTyBR1ndMbufjrTRaQ8C-lFLv0o1kGjwcteRDZljUvbquctW_ow1PTSao9het7PXLUgIFJIXYp",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765212970502-4",
+        "headline": "The Inland Front",
+        "content": "President Trump's declaration echoed with a new resolve: a military land campaign targeting alleged drug traffickers. Following what he hailed as a successful boat strike initiative, this move signaled a dramatic escalation. Critics warned of the implications, questioning the scope and authority of such a domestic and international strategy. Yet, the President's vision was clear—to unleash the full might of the U.S. government against the shadowy networks of drug and human trafficking, pushing the fight from the seas into the very heart of the land, a controversial new front in an old war.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPmOjIWPYKSAibw9uU0KexwO01yCBwKUCvoSe6GBJJpmT3iwC-mrN1sOAPKHWjJXK1yq7ryYgZa91rwNL0-zH0oISBzansj3C0VSvKZng5w2pyJwCNI0zmg==",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765212970502-5",
+        "headline": "The Bitter Sweet Roll",
+        "content": "The viral video was stark: a Cinnabon worker, spewing racist slurs at a Somali couple. Swiftly, she was fired. Crystal Wilsey's outburst ended her job, but ignited a different kind of public firestorm. In a twist that fueled heated online debate, a crowdfunding campaign for Wilsey quickly surpassed $20,000. Supporters argued for free speech, while critics condemned the normalization of hate. The incident exposed a raw nerve in society, illustrating how easily outrage could transform into financial support, leaving many to grapple with the complex, often contradictory, currents of modern public opinion.",
+        "originalSource": "CBS News / The Times of India",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPR0Jo-KtDF8z_CDHZ1A25dad2tKXZi1z8I-3bnQwEj6-amolLse0O1wOpEnIsQSQgF9xphAsxPoFnjMzJYzQOr7OA7fnwr5leYq6NGhIplM_dMMQuA==",
+        "publishedTime": "20 minutes ago"
       }
     ]
   }
