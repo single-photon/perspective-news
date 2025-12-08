@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765177309108,
+  "timestamp": 1765184328308,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765177235439-0",
-        "headline": "Supreme Court Considers President's Power to Undermine Independent Regulatory Agencies",
-        "content": "The Supreme Court is currently debating a pivotal case that scrutinizes President Trump's sweeping claims of authority to unilaterally dismiss officials from independent regulatory bodies like the Federal Trade Commission. This challenge represents a critical examination of unchecked executive power, potentially weakening the very institutions designed to protect consumers and ensure fair markets from political interference and corporate influence.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-presidential-power-ftc-firing/",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1765177235439-1",
-        "headline": "Notre Dame Opts Out, Exposing Systemic Flaws in College Football's Commercialized Playoff Structure",
-        "content": "The Notre Dame Fighting Irish football team's decision to bypass a bowl game following their controversial exclusion from the College Football Playoff shines a spotlight on the inherent inequities within collegiate athletics. This move highlights how a profit-driven system, dominated by a powerful committee, consistently prioritizes established powerhouses and commercial interests over athletic merit, perpetuating a structure that often leaves deserving teams marginalized.",
-        "originalSource": "CBS Sports",
-        "sourceUrl": "https://www.cbssports.com/college-football/news/notre-dame-opts-out-of-bowl-game-following-college-football-playoff-snub/",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765177235439-2",
-        "headline": "President Trump's Politicized Kennedy Center Honors Ceremony Raises Concerns for Cultural Independence",
-        "content": "President Trump's hosting of the annual Kennedy Center Honors at the White House, marked by a distinctly political tone and specific honoree selections, signals a troubling trend of politicizing national cultural institutions. This approach risks eroding the non-partisan integrity of events meant to celebrate artistic achievement universally, instead transforming them into platforms for partisan spectacle and presidential endorsement.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-kennedy-center-honors-2025-4567890",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765177235439-3",
-        "headline": "President Trump's Transactional Pardon Scheme Exposes Dangerous Abuse of Executive Power",
-        "content": "President Trump's public condemnation of Representative Henry Cuellar for not switching political parties after receiving a presidential pardon unveils a deeply concerning pattern of executive overreach. This incident suggests the potential weaponization of pardons as a quid pro quo for political allegiance, undermining the integrity of the justice system and converting acts of clemency into tools for partisan leverage rather than unbiased mercy.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-cuellar-pardon-disloyal-4567890",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765177235439-4",
-        "headline": "Federal Judge Acts as Crucial Check Against Justice Department's Politically Motivated Actions Against Comey",
-        "content": "A federal judge's ruling has significantly impeded the Justice Department's renewed attempts to secure a new indictment against former FBI Director James Comey. This judicial intervention underscores the vital role of an independent judiciary in preventing the executive branch from weaponizing legal processes for political retribution, upholding the rule of law against potential abuses of power.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/judge-sets-back-justice-department-comey-indictment",
+        "id": "story-1765184242604-0",
+        "headline": "Supreme Court's Conservative Majority Poised to Expand President Trump's Unchecked Executive Power",
+        "content": "The Supreme Court is preparing to hear arguments in *Trump v. Slaughter*, a pivotal case that could drastically reshape the balance of power by expanding President Trump's authority to unilaterally fire agency heads. This move by the court's conservative majority raises significant concerns about the erosion of institutional checks and balances, continuing a concerning trend of judicial decisions that consolidate executive power, with potential ramifications for accountability and democratic governance.",
+        "originalSource": "CBS News/Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765177235439-5",
-        "headline": "Alarming Online Surveillance Tactics Revealed in New Orleans Immigration Crackdown Raise Civil Liberties Concerns",
-        "content": "An investigation into records has exposed the extensive use of online surveillance by authorities in a recent New Orleans immigration enforcement operation, leading to numerous arrests. This intrusive practice represents a dangerous expansion of government surveillance into the digital lives of individuals, particularly within vulnerable immigrant communities, raising profound civil liberties questions and highlighting the systemic targeting inherent in current immigration policies.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/new-orleans-immigration-crackdown-records-4567890",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765184242604-1",
+        "headline": "President Trump Proposes Dangerous Militarization of Domestic Drug Enforcement, Ignoring Root Causes of Addiction",
+        "content": "President Trump has unveiled alarming plans for a 'military land campaign' against alleged drug traffickers, escalating a problematic strategy that prioritizes punitive measures over public health solutions. This expansion of military tactics into domestic law enforcement raises grave concerns about potential civil liberties abuses, disproportionate impacts on marginalized communities, and a continued failure to address the systemic socio-economic factors driving drug use and trafficking.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
+      },
+      {
+        "id": "story-1765184242604-2",
+        "headline": "President Trump Attempts to Politicize Pardon Power by Demanding 'Loyalty' from Democrat",
+        "content": "President Trump publicly attacked Democratic Representative Henry Cuellar, labeling him 'disloyal' for not abandoning his party despite having received a presidential pardon from President Trump. This incident starkly reveals how executive clemency can be exploited for political gain, raising serious questions about the ethical use of presidential power and the transactional nature of politics, rather than being solely based on justice or rehabilitation.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-3",
+        "headline": "Horrific Video Reveals Systemic Failures and Lack of Accountability in Deadly US Airstrikes",
+        "content": "Shocking video evidence has emerged, depicting survivors of an initial U.S. airstrike desperately clinging to boat wreckage for an hour before a second, fatal attack. This horrific incident demands immediate and thorough investigation into the rules of engagement and the broader systemic failures that allow such devastating loss of innocent life, highlighting a critical need for greater transparency and accountability within U.S. military operations abroad.",
+        "originalSource": "The Guardian/PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-4",
+        "headline": "Federal Judge Curbs President Trump Administration's Politically Motivated Pursuit of Comey Indictment",
+        "content": "A federal judge has blocked the President Trump Justice Department's attempt to secure a new indictment against former FBI Director James Comey, delivering a significant blow to what many perceive as a politically motivated legal strategy. This decision underscores concerns about the weaponization of judicial processes against perceived political opponents and highlights the critical importance of an independent judiciary in safeguarding against such abuses of power within the administration.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765184242604-5",
+        "headline": "President Trump Administration Erases MLK Day for Personal Celebration, Undermining Civil Rights Legacy",
+        "content": "In a move widely condemned, the President Trump administration has declared a policy change for National Parks, controversially replacing Martin Luther King Jr. Day with President Trump's birthday as a free entry 'patriotic' day. This audacious decision represents a blatant disrespect for the ongoing struggle for civil rights, trivializes the profound legacy of Dr. King, and reflects a disturbing pattern of attempting to rewrite history for personal and political glorification, drawing fierce criticism from civil rights organizations and advocates for social justice.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765177235439-0",
-        "headline": "Supreme Court hears major test of presidential power in case over FTC firing",
-        "content": "The Supreme Court is debating a case that challenges the President's authority to fire officials, specifically an appointee to the Federal Trade Commission, in a significant test of executive power.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-presidential-power-ftc-firing/",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1765177235439-1",
-        "headline": "Notre Dame opts out of bowl game following College Football Playoff snub",
-        "content": "The Notre Dame Fighting Irish football team chose to forgo a bowl game invitation after the College Football Playoff committee controversially excluded them from the four-team tournament in favor of Alabama and Miami.",
-        "originalSource": "CBS Sports",
-        "sourceUrl": "https://www.cbssports.com/college-football/news/notre-dame-opts-out-of-bowl-game-following-college-football-playoff-snub/",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765177235439-2",
-        "headline": "Trump hosts showier, more political Kennedy Center Honors ceremony",
-        "content": "President Trump hosted the annual Kennedy Center Honors at the White House, presenting medals to honorees like Kiss and Sylvester Stallone in a ceremony noted for its political tone and high-profile attendees.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-kennedy-center-honors-2025-4567890",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765177235439-3",
-        "headline": "Trump slams Democratic Rep. Cuellar as 'disloyal' for not switching parties after pardon",
-        "content": "President Trump publicly criticized Representative Henry Cuellar, a Democrat whose sentence he had commuted, for refusing to change his political affiliation to the Republican party after receiving the pardon.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-cuellar-pardon-disloyal-4567890",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765177235439-4",
-        "headline": "Federal judge sets back Justice Department effort to seek new indictment against Comey",
-        "content": "A federal judge has issued a ruling that obstructs the Justice Department's current attempt to file a new indictment against former FBI Director James Comey, complicating the ongoing legal matter.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/judge-sets-back-justice-department-comey-indictment",
+        "id": "story-1765184242604-0",
+        "headline": "Supreme Court to hear major test of presidential power in case over FTC firing",
+        "content": "The Supreme Court is scheduled to hear arguments in the case of *Trump v. Slaughter*, which will test the limits of presidential power concerning the firing of agency heads. The case comes as the court's conservative majority has been steadily moving to increase the executive branch's authority, dating back before the current administration.",
+        "originalSource": "CBS News/Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765177235439-5",
-        "headline": "Records detail online monitoring and arrests in New Orleans immigration crackdown",
-        "content": "An AP review of records uncovered information about a recent immigration enforcement operation in New Orleans, detailing how authorities used online surveillance to monitor and subsequently arrest individuals in the area.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/new-orleans-immigration-crackdown-records-4567890",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765184242604-1",
+        "headline": "Trump vows military land campaign against alleged drug traffickers",
+        "content": "President Donald Trump announced plans to launch a \"military land campaign\" targeting alleged drug traffickers, suggesting a controversial boat strike campaign has been successful. Trump stated the U.S. is \"going to start that same process on land,\" signaling a significant escalation in anti-drug enforcement efforts across the country.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
+      },
+      {
+        "id": "story-1765184242604-2",
+        "headline": "Trump slams Texas Democrat's 'lack of loyalty' after granting him pardon",
+        "content": "Former President Trump publicly criticized Democratic Representative Henry Cuellar, calling him \"disloyal\" for continuing to run as a Democrat despite receiving a pardon from the president. Trump had previously pardoned Cuellar amid a pending investigation, and the ensuing fallout highlights the complex political dynamics surrounding executive clemency.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-3",
+        "headline": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows",
+        "content": "Disturbing video evidence reportedly shows survivors of an initial US airstrike clinging to boat wreckage for approximately one hour before a second, deadly attack occurred. The incident has prompted significant backlash and scrutiny from lawmakers regarding the rules of engagement and accountability for U.S. military actions abroad.",
+        "originalSource": "The Guardian/PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-4",
+        "headline": "Federal judge sets back Justice Department's effort to seek new indictment against Comey",
+        "content": "A federal judge has delivered a setback to the Justice Department's efforts by blocking a bid to seek a new indictment against former FBI Director James Comey. The decision is a blow to the administration's legal strategy and injects further political and legal complications into the ongoing, high-profile case concerning the former director.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765184242604-5",
+        "headline": "MLK Day is replaced by President Trump's birthday at National Parks",
+        "content": "The Trump administration has announced a policy change for National Parks, replacing Martin Luther King Jr. Day with President Trump's birthday as a \"patriotic\" day with free entry. This controversial move redefines the days U.S. residents can enter the parks free of charge, drawing criticism from civil rights groups and political opponents.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765177235439-0",
-        "headline": "Supreme Court Defends Vital Presidential Power in Landmark FTC Case",
-        "content": "The Supreme Court is currently examining a crucial case that directly challenges the President's constitutional authority to remove unelected officials, specifically an appointee to the Federal Trade Commission. This significant legal battle underscores the importance of a strong executive branch capable of ensuring accountability and preventing bureaucratic overreach, thereby safeguarding the foundational principles of American governance.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-presidential-power-ftc-firing/",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1765177235439-1",
-        "headline": "Notre Dame Prioritizes Integrity, Opts Out of Bowl Game After Playoff Snub",
-        "content": "The esteemed Notre Dame Fighting Irish football team has commendably chosen to decline a bowl game invitation, taking a principled stand after the College Football Playoff committee's controversial decision to exclude them. This snub, in favor of teams like Alabama and Miami, highlights a concerning trend of subjective decision-making potentially undermining meritocracy in collegiate sports, and Notre Dame's response upholds traditional values of fairness.",
-        "originalSource": "CBS Sports",
-        "sourceUrl": "https://www.cbssports.com/college-football/news/notre-dame-opts-out-of-bowl-game-following-college-football-playoff-snub/",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765177235439-2",
-        "headline": "President Trump Reinvigorates Kennedy Center Honors with Patriotic American Spirit",
-        "content": "President Trump proudly hosted the annual Kennedy Center Honors at the White House, bestowing well-deserved medals upon American icons such as Kiss and Sylvester Stallone. The ceremony was celebrated for its refreshing and unapologetically patriotic tone, drawing high-profile attendees and shifting the focus to cultural figures who truly represent the hardworking spirit and broad appeal of the American people, rather than elite preferences.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-kennedy-center-honors-2025-4567890",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765177235439-3",
-        "headline": "President Trump Rightfully Calls Out Cuellar's Disloyalty After Pardon",
-        "content": "President Trump publicly expressed strong criticism of Representative Henry Cuellar, a Democrat, after he refused to switch to the Republican party, despite President Trump having previously commuted his sentence. This situation raises important questions about loyalty, gratitude, and the integrity of political actions, with President Trump emphasizing the expectations of those who benefit from executive clemency.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-cuellar-pardon-disloyal-4567890",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765177235439-4",
-        "headline": "Federal Judge's Ruling Hampers Justice Department's Pursuit of Comey Accountability",
-        "content": "A federal judge has issued a problematic ruling that unfortunately obstructs the Justice Department's determined efforts to secure a new indictment against the former FBI Director, James Comey. This judicial intervention complicates the ongoing legal process and raises concerns about potential roadblocks in holding powerful figures accountable for actions that have eroded public trust and national institutions.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/judge-sets-back-justice-department-comey-indictment",
+        "id": "story-1765184242604-0",
+        "headline": "Supreme Court Will Uphold Presidential Authority Over Unelected Bureaucrats",
+        "content": "The Supreme Court prepares to hear *Trump v. Slaughter*, a crucial case that could restore proper presidential authority over bureaucratic agencies. A strong executive is vital for effective governance and accountability, ensuring that the President can direct policy and hold agency heads responsible. This aligns with conservative principles of limited government and checks on an overgrown administrative state.",
+        "originalSource": "CBS News/Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765177235439-5",
-        "headline": "New Orleans Authorities Effectively Use Online Monitoring for Immigration Enforcement",
-        "content": "An in-depth review of records has revealed that law enforcement in New Orleans successfully utilized online surveillance techniques during a recent immigration enforcement operation. This proactive approach allowed authorities to monitor and subsequently apprehend individuals, demonstrating effective measures being taken to uphold the rule of law and secure our communities against illegal immigration, which is vital for national sovereignty.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/new-orleans-immigration-crackdown-records-4567890",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765184242604-1",
+        "headline": "President Trump Promises Decisive Military Action to Combat Drug Traffickers on U.S. Soil",
+        "content": "President Trump has declared a powerful new phase in the war on drugs, announcing a \"military land campaign\" to aggressively target drug traffickers. Following the proven success of naval operations, this bold move demonstrates President Trump's unwavering commitment to securing our borders and communities from the scourge of illicit drugs. This strong leadership protects American families and upholds the rule of law.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
+      },
+      {
+        "id": "story-1765184242604-2",
+        "headline": "President Trump Calls Out Democrat Henry Cuellar's Disloyalty Following Presidential Pardon",
+        "content": "President Trump sharply criticized Democratic Representative Henry Cuellar, labeling his continued affiliation with the Democratic Party as \"disloyal\" despite receiving a full pardon from President Trump. This situation underscores the expectation that those who benefit from presidential clemency should acknowledge the President's authority and perhaps reconsider their political alignment, especially when that clemency was granted to ensure justice.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-3",
+        "headline": "U.S. Military Actions Under Scrutiny Following Allegations of Second Airstrike Incident",
+        "content": "Reports indicate that a U.S. airstrike incident is facing scrutiny after video emerged suggesting survivors of an initial attack may have been present before a subsequent strike. While the full context of military operations in complex environments is often misunderstood, it is imperative that our armed forces are supported and any incidents are thoroughly and fairly investigated. The U.S. military operates under demanding conditions to protect our national interests, and unwarranted criticism can undermine their crucial efforts.",
+        "originalSource": "The Guardian/PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-4",
+        "headline": "Federal Judge Undermines Justice Department's Pursuit of Accountability Against James Comey",
+        "content": "A federal judge has obstructed the Justice Department's attempt to pursue a new indictment against former FBI Director James Comey, a decision that complicates efforts to hold powerful figures accountable. This ruling represents a significant hurdle for an administration committed to rooting out potential corruption and ensuring equal justice under the law, reinforcing concerns about an entrenched bureaucracy resisting necessary reforms.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765184242604-5",
+        "headline": "National Parks Honor President Trump's Birthday with Free Entry, Promoting Patriotism",
+        "content": "The administration has designated President Trump's birthday as a new \"patriotic\" day for free entry to National Parks, aiming to celebrate a significant American figure and encourage national pride. This initiative provides another opportunity for citizens to appreciate our natural heritage, reflecting the President's commitment to public access and national remembrance, despite predictable criticism from political adversaries.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765177235439-0",
-        "headline": "Supreme Court Considers If President Trump Can Fire Anyone Who Doesn't Compliment His Hair",
-        "content": "The nation's highest judicial body convened today, grappling with the thorny question of whether President Trump possesses the absolute authority to fire federal officials, or if they actually need to commit a crime first. Legal scholars are on edge, fearing a ruling that might solidify the presidency as an all-powerful monarchy or, even worse, suggest that civil servants are not automatically indentured to the executive branch's every whim.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-presidential-power-ftc-firing/",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1765177235439-1",
-        "headline": "Notre Dame Opts Out of Bowl Game After Discovering Participation Trophy Was Not Golden",
-        "content": "In a stunning display of principled self-sabotage, the Notre Dame Fighting Irish football team has dramatically withdrawn from all bowl game invitations, citing profound disappointment over their exclusion from the College Football Playoff. Sources close to the team indicate players simply couldn't fathom competing in a game that didn't guarantee immediate, undeniable national championship glory, preferring instead to wallow in existential dread and ponder the unfairness of a world where Alabama and Miami still exist.",
-        "originalSource": "CBS Sports",
-        "sourceUrl": "https://www.cbssports.com/college-football/news/notre-dame-opts-out-of-bowl-game-following-college-football-playoff-snub/",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765177235439-2",
-        "headline": "Kennedy Center Honors Transforms Into Trump Reality Show, Awards Medals For 'Lifetime Achievement In Being Awesome'",
-        "content": "President Trump hosted the annual Kennedy Center Honors at the White House, transforming the traditionally staid event into a glittering, highly politicized spectacle. Honorees like the legendary rock band Kiss and action hero Sylvester Stallone received their medals in a ceremony that critics described as less of a cultural tribute and more of an extended audition tape for a new, top-rated reality television program where America's most 'tremendous' talents are finally recognized.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-kennedy-center-honors-2025-4567890",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765177235439-3",
-        "headline": "President Trump Stunned To Discover Pardons Do Not Include Mandatory Party Loyalty Tattoo",
-        "content": "President Trump, in a move that baffled political scientists and anyone who understands the concept of free will, publicly chastised Democratic Representative Henry Cuellar for his 'shocking disloyalty.' Apparently, President Trump was operating under the impression that his generous commutation of Cuellar's sentence included an unspoken, yet legally binding, clause requiring an immediate and enthusiastic party switch to the GOP. White House insiders hint that future pardons may now include a compulsory 'Team Trump' pledge and possibly a commemorative bumper sticker.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-cuellar-pardon-disloyal-4567890",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765177235439-4",
-        "headline": "Judge In Comey Case Reportedly Just Wants To Go Home, Halts Justice Department's Latest Attempt To Relitigate Everything Since The Dawn Of Time",
-        "content": "In a groundbreaking display of judicial fatigue, a federal judge has once again slammed the brakes on the Justice Department's seemingly endless quest to find something, anything, new to charge former FBI Director James Comey with. Sources inside the courthouse claim the judge, looking visibly weary and clutching a half-eaten sandwich, merely sighed heavily before declaring that the department's latest legal gambit was 'not a valid pursuit of justice' but rather 'a thinly veiled attempt to keep the legal drama going indefinitely until I retire.'",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/judge-sets-back-justice-department-comey-indictment",
+        "id": "story-1765184242604-0",
+        "headline": "Supreme Court Eagerly Anticipates Day It Can Declare President Trump Absolute Monarch, Just 'To See What Happens'",
+        "content": "In a historic case that legal scholars are calling 'the last vestige of judicial modesty,' the Supreme Court is slated to hear *Trump v. Slaughter*, which will finally decide if a President can fire an agency head for simply breathing too loudly. Sources close to the conservative majority admit they're 'chomping at the bit' to further expand executive power, with one justice reportedly muttering, 'We've been building up to this since before President Trump was even born!'",
+        "originalSource": "CBS News/Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765177235439-5",
-        "headline": "New Orleans Authorities Now Tracking Undocumented Residents Via Their Unwitting Participation In Facebook 'Which Gumbo Are You?' Quizzes",
-        "content": "In a stunning, if slightly dystopian, revelation, newly unearthed records confirm that New Orleans immigration authorities have perfected the art of online surveillance, reportedly monitoring individuals' social media activity for clues regarding their immigration status. Reports suggest agents are particularly skilled at identifying persons of interest based on their preferences for certain types of po'boys and their engagement with local jazz memes, leading to a wave of arrests that has left privacy advocates wondering if anyone is truly safe from the all-seeing eye of the internet, especially after liking a picture of a particularly spicy crawfish boil.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/new-orleans-immigration-crackdown-records-4567890",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765184242604-1",
+        "headline": "President Trump Declares War on Potted Plants, Launches 'Ground Invasion' Against Alleged Narcotics Following 'Boat Campaign' Success",
+        "content": "Following the monumental success of his 'boat strike campaign' – which reportedly cleared all oceans of suspiciously buoyant substances – President Trump has announced a bold new 'military land campaign' against alleged drug traffickers. Experts predict suburban lawns will soon be patrolled by tanks, and neighborhood watch groups will be outfitted with precision drones, ensuring no suspicious garden gnome goes uninspected.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
+      },
+      {
+        "id": "story-1765184242604-2",
+        "headline": "President Trump Stunned, Betrayed After Pardon Fails to Magically Transform Democrat Into Loyal Minion",
+        "content": "In a move that shocked exactly no one but President Trump himself, Democratic Representative Henry Cuellar has continued to identify as a Democrat, despite receiving a presidential pardon. President Trump reportedly expressed 'deep disappointment' that the act of executive clemency didn't instantly rewrite the Congressman's party affiliation, calling his continued Democratic status a 'staggering lack of loyalty' and hinting he may start adding a 'political allegiance clause' to future pardons.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-3",
+        "headline": "Pentagon Clarifies 'Double Tap' Protocol: Survivors Must Wait Exactly 60 Minutes Before Re-Engaging With Their Own Doom",
+        "content": "Disturbing new video evidence reveals that survivors of an initial US airstrike were forced to cling to boat wreckage for a meticulously timed 60 minutes before a second, 'more decisive' attack occurred. Pentagon officials clarified that this specific waiting period is 'standard procedure' for allowing personnel to thoroughly assess if any 'unnecessary' human emotion might still be present, ensuring maximum efficiency in subsequent operations.",
+        "originalSource": "The Guardian/PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-4",
+        "headline": "Judge Exhausted After Blocking Justice Department's 37th Attempt to Indict James Comey for 'General Annoyance'",
+        "content": "A federal judge has once again dealt a crushing blow to the Justice Department's relentless, almost poetic, pursuit of former FBI Director James Comey, blocking their latest bid for a new indictment. Sources within the DOJ admit they're running out of legal theories, with one prosecutor reportedly suggesting they try 'Jaywalking in the 1800s' or 'Crimes Against Fashion' as their next charge, much to the exasperation of the weary judicial system.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765184242604-5",
+        "headline": "National Parks Announce New Holiday: 'President Trump's Glorious Day of Self-Admiration,' Replaces Less Important 'Dream Day'",
+        "content": "In a groundbreaking move that redefines 'patriotic holidays,' the Trump administration has officially replaced Martin Luther King Jr. Day with President Trump's birthday as a designated free entry day for National Parks. The move ensures that Americans can now celebrate 'President Trump's Glorious Day of Self-Admiration' by enjoying nature, presumably while reflecting on the unparalleled achievements of President Trump, rather than focusing on something as quaint as civil rights.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765177235439-0",
-        "headline": "The Supreme Court is Deciding About the President's Firing Power",
-        "content": "The Supreme Court, which is like the highest court in the country, is talking about whether the President can fire people he puts into important jobs. It's a big deal because it tests how much power the President really has.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-presidential-power-ftc-firing/",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1765177235439-1",
-        "headline": "Notre Dame Football Team Skips Bowl Game After Not Making Playoffs",
-        "content": "The Notre Dame Fighting Irish football team decided not to play in a special bowl game. This happened because the College Football Playoff committee picked other teams, like Alabama and Miami, instead of them for the big championship tournament.",
-        "originalSource": "CBS Sports",
-        "sourceUrl": "https://www.cbssports.com/college-football/news/notre-dame-opts-out-of-bowl-game-following-college-football-playoff-snub/",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765177235439-2",
-        "headline": "President Trump Hosts a Very Special Awards Show at the White House",
-        "content": "President Trump had the yearly Kennedy Center Honors party at the White House. He gave out medals to famous people like the band Kiss and actor Sylvester Stallone. Lots of important people were there, and the event felt a bit political.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-kennedy-center-honors-2025-4567890",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765177235439-3",
-        "headline": "President Trump Gets Mad at a Lawmaker for Not Joining His Team",
-        "content": "President Trump was upset with a lawmaker named Henry Cuellar. This lawmaker is a Democrat. President Trump had helped him by pardoning him, which means forgiving a punishment. But Mr. Cuellar didn't want to switch and become a Republican, which made President Trump criticize him.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-cuellar-pardon-disloyal-4567890",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765177235439-4",
-        "headline": "A Judge Stops the Government From Trying to Charge Mr. Comey Again",
-        "content": "A judge has said 'no' to the government's Justice Department. They wanted to try and accuse James Comey, who used to be in charge of the FBI, of something new. This makes things tricky for the case.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/judge-sets-back-justice-department-comey-indictment",
+        "id": "story-1765184242604-0",
+        "headline": "The Big Court Will Decide About The President's Power",
+        "content": "The Supreme Court, which is like the biggest court in America, is going to listen to a very important case. This case is all about how much power the President has to fire people who run important government groups. The judges on this court have been giving more power to the President for a while now.",
+        "originalSource": "CBS News/Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765177235439-5",
-        "headline": "Police Used the Internet to Find and Arrest People in New Orleans",
-        "content": "New papers show how police in New Orleans watched people online. They used what they found to help them arrest people in a special operation about immigration.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/new-orleans-immigration-crackdown-records-4567890",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765184242604-1",
+        "headline": "President Trump Wants To Fight Drug Bad Guys On Land",
+        "content": "President Trump said that he wants to start a big plan to use the military to catch people who sell bad drugs. He said that a similar plan where they used boats worked well. So now, the U.S. will start doing the same thing on land all over the country to stop drugs.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
+      },
+      {
+        "id": "story-1765184242604-2",
+        "headline": "President Trump Thinks A Congressman Is Not Loyal Enough",
+        "content": "President Trump got mad at a Congressman named Henry Cuellar. He said Mr. Cuellar was not \"loyal\" because he is still a Democrat, even after President Trump helped him by giving him a special 'get out of jail free' card called a pardon. President Trump had pardoned him when he was in trouble, and now things are getting a bit messy because of it.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-3",
+        "headline": "People Were Attacked Again After Surviving A First Attack",
+        "content": "A really sad video apparently shows people who survived an American air attack. They were holding onto parts of their broken boat for about an hour. Then, another attack happened, and this one killed them. Many important people are now asking tough questions about how the U.S. military does things and who is responsible when bad stuff like this happens in other countries.",
+        "originalSource": "The Guardian/PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-4",
+        "headline": "A Judge Said \"No\" To New Charges Against James Comey",
+        "content": "A judge in a big court stopped the government from trying to bring new charges against James Comey, who used to be in charge of the FBI. This makes things harder for the government's plans and adds more problems to the already complicated case about Mr. Comey.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765184242604-5",
+        "headline": "President Trump's Birthday Replaces MLK Day For Free Park Visits",
+        "content": "The government, under President Trump, has made a new rule for National Parks. Instead of getting in for free on Martin Luther King Jr. Day, now people can get in free on President Trump's birthday! This new rule means the days you can visit parks for free have changed, and some people are not happy about it.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765177235439-0",
-        "headline": "The Scales of Executive Power",
-        "content": "The marble halls echoed with hushed anticipation. A lone figure, draped in black, stood before the nine. The case wasn't about a mere dismissal; it was about the very sinews of governance. Could a president, any president, sever the ties with an appointee, even from the Federal Trade Commission, without recourse? The arguments stretched, each word a careful thread pulled from the fabric of law. This wasn't just a legal skirmish; it was a profound interrogation of the executive branch's reach, a test to define the limits of power in the highest court of the land.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/supreme-court-presidential-power-ftc-firing/",
-        "publishedTime": "18 hours ago"
-      },
-      {
-        "id": "story-1765177235439-1",
-        "headline": "The Ghost of the Gridiron",
-        "content": "The golden dome stood silent, reflecting a sky bruised with disappointment. The Fighting Irish, once roaring with playoff hopes, watched as the committee’s decree echoed across the nation. Alabama and Miami, not them, would chase the championship. A collective sigh, heavy with unfulfilled dreams, settled over the locker room. An invitation to a lesser bowl game arrived, a consolation prize feeling more like an insult. They decided then, as a unit. No. If they couldn't contend for the ultimate glory, they wouldn't play for scraps. The season ended not with a bang, but with a proud, defiant silence.",
-        "originalSource": "CBS Sports",
-        "sourceUrl": "https://www.cbssports.com/college-football/news/notre-dame-opts-out-of-bowl-game-following-college-football-playoff-snub/",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765177235439-2",
-        "headline": "A Night of Stars and Stripes",
-        "content": "The East Room shimmered under chandeliers, a tableau where rock legends met presidential grandeur. President Trump, center stage, bestowed the coveted Kennedy Center Honors. Kiss, with their iconic makeup absent but their aura intact, stood beside Sylvester Stallone, the embodiment of cinematic grit. It was an evening electric with celebrity, yet threaded with an undeniable political hum. The guest list glittered with figures often seen closer to the halls of power than the concert stage. Each medal presented, each handshake, carried an unspoken resonance, blending artistic achievement with the distinct flavor of a White House in full display.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-kennedy-center-honors-2025-4567890",
-        "publishedTime": "12 hours ago"
-      },
-      {
-        "id": "story-1765177235439-3",
-        "headline": "The Unpaid Debt of Loyalty",
-        "content": "The air crackled with presidential displeasure. President Trump had extended a hand, a commutation that freed Representative Henry Cuellar from a looming shadow. It was an act of grace, or so President Trump believed. But the expected reciprocation, a shift from blue to red, never materialized. Cuellar remained steadfast in his Democratic allegiances. President Trump's words, sharp and public, cut deep, accusing the Congressman of \"disloyalty.\" The unspoken contract, perceived by one, ignored by the other, became a political chasm, revealing the complex, often transactional, nature of power and expectation in Washington.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/trump-cuellar-pardon-disloyal-4567890",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765177235439-4",
-        "headline": "The Unyielding Gavel",
-        "content": "The gavel fell, not with a resounding clang, but with a definitive thud that echoed through the Justice Department’s corridors. For weeks, prosecutors had meticulously built their case, aiming for a new indictment against former FBI Director James Comey. They believed they had the pieces, the legal leverage to reignite the contentious battle. But the federal judge, with a stern and unyielding hand, saw otherwise. The ruling was clear: the path they sought was blocked, at least for now. The legal labyrinth surrounding Comey remained, but a significant door had just been decisively shut, leaving their efforts stalled.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/judge-sets-back-justice-department-comey-indictment",
+        "id": "story-1765184242604-0",
+        "headline": "The Unchecked Hand",
+        "content": "The High Court’s chambers buzzed with the weight of an impending decision. *Trump v. Slaughter* was more than a legal battle; it was a grand test of presidential might. Justices, many with a history of broadening the executive branch's reach, would scrutinize President Trump’s power to dismiss agency heads without restraint. The ruling, whispered through Washington, could cement an era where the White House wielded an authority rarely seen, reshaping the balance between branches. A victory for the President would signal an unchecked hand, tightening his grip on the vast machinery of government, altering the landscape of federal power indefinitely.",
+        "originalSource": "CBS News/Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/",
         "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765177235439-5",
-        "headline": "The Digital Shadows of Surveillance",
-        "content": "The humid air of New Orleans carried whispers, not just of jazz, but of unseen eyes. An investigative dive into official records laid bare a chilling truth: a recent immigration crackdown wasn’t merely boots on the ground. Authorities had delved into the digital ether, meticulously monitoring online profiles and social media exchanges. Each post, each connection, became a breadcrumb trail. From the comfort of their screens, agents identified targets, then moved in, transforming digital shadows into physical arrests. The city, vibrant and open, now felt subtly altered, under the quiet, pervasive gaze of surveillance.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://apnews.com/article/new-orleans-immigration-crackdown-records-4567890",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765184242604-1",
+        "headline": "The Iron Fist's Reach",
+        "content": "From the podium, President Trump’s words echoed, painting a vision of relentless pursuit. A successful maritime campaign against drug traffickers, he declared, was merely the prelude. Now, the battlefield would shift. “We are going to start that same process on land,” he announced, the implication clear: a military land campaign, unprecedented in its scope, would target alleged drug networks across the nation. The declaration signaled a stark escalation, transforming domestic anti-drug efforts into a robust, perhaps controversial, military operation. The President’s resolve was firm, promising a new, more aggressive era of enforcement.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
+      },
+      {
+        "id": "story-1765184242604-2",
+        "headline": "The Unrequited Favor",
+        "content": "A political storm brewed as President Trump's ire became public. Democratic Representative Henry Cuellar, once the recipient of a presidential pardon amidst a looming investigation, found himself in the crosshairs. The President had expected, perhaps demanded, allegiance in return for such clemency. Yet, Cuellar remained a Democrat, steadfast in his party affiliation. President Trump publicly denounced the representative's actions as “disloyal.” The pardon, intended as a powerful gesture, now seemed like a forgotten debt, fueling a public feud that laid bare the complex and often unforgiving dynamics of political favors and perceived betrayals.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-3",
+        "headline": "Echoes on the Waves",
+        "content": "The chilling video painted a grim picture. After the initial U.S. airstrike, the vast sea swallowed the debris, but not all life. Survivors, clinging desperately to the shattered remnants of their boat, fought against the relentless waves. For a harrowing hour, their struggle was a testament to the will to live, a silent plea against the indifference of fate. Then, a second shadow fell. The air screamed once more, followed by a deadly impact. The subsequent attack silenced the desperate cries, extinguishing the last flicker of hope and leaving behind only questions of accountability and the brutal calculus of war.",
+        "originalSource": "The Guardian/PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765184242604-4",
+        "headline": "The Gavel's Rebuke",
+        "content": "The Justice Department’s grand ambition to pursue a new indictment against former FBI Director James Comey faced a formidable barrier: a federal judge. In a decisive ruling, the judge blocked the administration’s bid, delivering a significant setback to their legal strategy. The decision reverberated through Washington, casting a shadow over the ongoing, high-profile case. It injected fresh political and legal complications into the already contentious proceedings, forcing the Justice Department to reassess its path forward. The gavel’s firm strike served as a powerful reminder of judicial independence, even in the face of intense political pressure.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765184242604-5",
+        "headline": "A New Day Dawns",
+        "content": "In a controversial stroke, the administration declared a change to National Parks policy. Martin Luther King Jr. Day, a day of remembrance and reflection, was to be replaced. In its stead, President Trump’s birthday would now stand as the designated “patriotic” day, offering free entry to the nation's treasured lands. The announcement, redefining traditions, sparked immediate backlash from civil rights groups and political opponents alike. The shift, seen by many as a reassertion of values, ignited debates about national heritage and who gets to define what constitutes a day of collective significance, ushering in a new era of national observances.",
+        "originalSource": "ms.now",
+        "sourceUrl": "https://ms.now/",
+        "publishedTime": "1d ago"
       }
     ]
   }
