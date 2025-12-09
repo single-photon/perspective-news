@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765263573817,
+  "timestamp": 1765270691790,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765263500117-0",
-        "headline": "Supreme Court's Conservative Majority Appears Poised to Drastically Expand Presidential Power for President Trump, Undermining Checks and Balances",
-        "content": "The Supreme Court heard arguments in a case that is widely expected to further erode democratic norms by granting President Trump unchecked authority to remove members of independent agencies like the Federal Trade Commission. This potential overturning of 90 years of established precedent by the court's conservative majority represents a dangerous expansion of presidential power, threatening the vital oversight role of regulatory bodies and accountability within government.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/09/supreme-court-trump-ftc-firing-power",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765263500117-1",
-        "headline": "President Trump Administration Prioritizes Corporate Profits Over Global Security by Allowing Advanced AI Chip Sales to China",
-        "content": "The President Trump administration has approved a measure permitting Nvidia to sell its most advanced artificial intelligence computer chips to China, reversing previous restrictions designed to prevent authoritarian regimes from accessing cutting-edge U.S. technology for military and surveillance applications. This decision raises serious questions about corporate influence on policy and the potential for enabling human rights abuses and strengthening global rivals for short-term economic gain.",
+        "id": "story-1765270595193-0",
+        "headline": "Supreme Court Poised to Undermine Checks and Balances, Expanding Presidential Power",
+        "content": "The Supreme Court recently heard arguments in a pivotal legal case that could drastically expand presidential powers, potentially allowing President Trump to unilaterally remove members of independent government agencies. This move threatens to dismantle nearly 90 years of crucial precedent designed to safeguard agency independence and prevent unchecked executive overreach, raising significant concerns about the future of democratic governance and accountability.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
-        "publishedTime": "7 hours ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765263500117-2",
-        "headline": "President Trump's Proposed $12 Billion Aid Package for Farmers Fails to Address Deep-Rooted Systemic Issues in Agriculture",
-        "content": "President Trump announced a proposed $12 billion aid package intended to support U.S. farmers, claiming it addresses an 'exceptionally difficult year.' While temporary relief may be welcomed, this measure largely ignores the systemic challenges plaguing agricultural sectors, such as the destructive impacts of climate change, corporate monopolies, and volatile market conditions often exacerbated by shifting trade policies, rather than offering sustainable solutions for the long term.",
+        "id": "story-1765270595193-1",
+        "headline": "President Trump Offers $12 Billion Aid to Farmers as Trade Policies Continue to Destabilize Agricultural Markets",
+        "content": "The Trump administration has announced a $12 billion assistance package for American farmers, a move widely seen as a stop-gap measure to alleviate hardships created by ongoing trade disputes and high operational costs. Critics argue this aid package highlights systemic vulnerabilities within the agricultural sector, exacerbated by current trade policies, and question whether such short-term relief addresses the fundamental economic challenges faced by many producers struggling with market volatility and corporate consolidation.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-farm-aid-announces-12-billion-package-for-us-farmers/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765263500117-3",
-        "headline": "The Pervasive Housing Unaffordability Crisis Leaves Over 75% of Homes Out of Reach for Average Americans, Highlighting Systemic Failures",
-        "content": "A new report reveals that the vast majority of homes in the United States are currently unaffordable for the average buyer, exposing a profound systemic crisis. Decades of underinvestment in public housing, unchecked real estate speculation, and policies favoring corporate landlords have led to high interest rates, critically low housing stock, and persistently rising prices, making homeownership an unattainable dream for over three-quarters of the country's population.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/homeownership-unaffordable-study-finds/",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765263500117-4",
-        "headline": "Corporate Negligence Alleged as Royal Caribbean Faces Lawsuit After Passenger's Tragic Death From Being Grossly Overserved",
-        "content": "The family of a 35-year-old passenger has filed a wrongful death lawsuit against Royal Caribbean, alleging that the cruise line's crew members negligently served the man 33 alcoholic drinks in just a few hours. This tragic incident underscores a disturbing pattern of corporate accountability failures within the cruise industry, where the pursuit of alcohol sales profits appears to routinely overshadow the fundamental duty of care for passenger safety and well-being.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/family-sues-royal-caribbean-after-father-dies-vacation-tragedy-aboard-cruise",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765270595193-2",
+        "headline": "Corporate Negligence Alleged After Cruise Passenger Dies from Excessive Alcohol Service",
+        "content": "A Royal Caribbean cruise is facing a lawsuit from the family of a 35-year-old man who tragically died onboard, with allegations that crew members negligently served him 33 alcoholic beverages. This devastating incident raises serious questions about the systemic responsibility of cruise lines to prioritize passenger safety over profit, highlighting a critical need for stronger oversight and ethical practices within the hospitality industry regarding alcohol consumption and duty of care.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765263500117-5",
-        "headline": "Alarming Doubling of Domestic Homicides Exposes Systemic Failures and Urgent Need for Greater Support for Victims",
-        "content": "Experts are expressing profound concern after FBI data revealed that domestic homicides have more than doubled from 2019 to 2024, soaring from 1,065 to 2,339. This alarming surge highlights deep-rooted systemic failures in addressing gender-based violence, inadequate funding for victim support services, and societal structures that perpetuate abuse, demanding comprehensive policy interventions and robust community resources to protect vulnerable individuals.",
+        "id": "story-1765270595193-3",
+        "headline": "Over 75% of Homes Nationwide Remain Unaffordable, Exposing Systemic Housing Crisis",
+        "content": "A new study reveals that the vast majority of homes across the United States, over three-quarters, are financially out of reach for average earners, signaling a deepening systemic housing crisis. This alarming statistic underscores the widening gap between stagnant wages and soaring housing costs, exacerbated by speculative investment and a lack of affordable housing policies, leaving countless working families locked out of homeownership and struggling to secure stable shelter.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/domestic-violence-homicides-doubled-2019-2024/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765270595193-4",
+        "headline": "President Trump Grants Clemency to Nearly 100 Individuals Convicted of Drug Offenses, Highlighting Broader Incarceration Issues",
+        "content": "President Trump has granted clemency to approximately 100 individuals accused or convicted of various drug-related offenses during his time in office, according to a recent analysis. While these actions provide relief for some, they also underscore the urgent need for comprehensive criminal justice reform and a re-evaluation of outdated drug laws that have fueled mass incarceration and disproportionately impacted marginalized communities, demanding a systemic approach to justice.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1765270595193-5",
+        "headline": "Nationwide Recall of Blood-Pressure Medications Reveals Systemic Failures in Drug Safety Oversight",
+        "content": "A significant nationwide recall of blood-pressure medications has been initiated by the FDA after inspectors uncovered an unexpected and potentially dangerous mixture of drug components in affected batches. This alarming discovery highlights critical systemic failures in pharmaceutical manufacturing and regulatory oversight, raising serious concerns about patient safety and the industry's accountability in ensuring the integrity and efficacy of vital medications that millions rely upon daily.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765263500117-0",
-        "headline": "US Supreme Court Appears Set to Back Trump on FTC Firing in Major Expansion of Presidential Power",
-        "content": "The Supreme Court heard arguments in a case that could vastly expand presidential power by allowing the president to remove members of independent agencies like the FTC. This challenge to 90 years of precedent was brought by the administration and is widely expected to be upheld by the court's conservative majority.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/09/supreme-court-trump-ftc-firing-power",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765263500117-1",
-        "headline": "Trump Clears Way for Nvidia to Sell Powerful AI Chips to China",
-        "content": "The Trump administration has approved a measure allowing Nvidia to sell its most advanced artificial intelligence computer chips to China. The decision overturns previous restrictions designed to limit China's access to cutting-edge U.S. technology for military and surveillance applications.",
+        "id": "story-1765270595193-0",
+        "headline": "Supreme Court Appears Set to Back Trump on FTC Firing in Major Expansion of Presidential Power",
+        "content": "The Supreme Court heard arguments in a legal case that could significantly expand presidential powers by allowing the president to remove members of independent government agencies. This action could overturn nearly 90 years of precedent established to protect agency independence.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
-        "publishedTime": "7 hours ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765263500117-2",
-        "headline": "Trump Proposes $12 Billion in Aid to Farmers After 'Exceptionally Difficult Year'",
-        "content": "Former President Trump announced a proposed $12 billion aid package intended to support U.S. farmers following what he called an 'exceptionally difficult year.' The measure aims to provide financial relief to agricultural sectors struggling with market conditions and other economic challenges.",
+        "id": "story-1765270595193-1",
+        "headline": "Trump Announces $12 Billion Aid Package for U.S. Farmers Amid Concerns Over Trade and High Prices",
+        "content": "The Trump administration confirmed a $12 billion assistance package for American farmers. The aid is intended to help producers facing difficulties due to ongoing trade disputes, high operational costs, and general market concerns regarding commodity prices.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-farm-aid-announces-12-billion-package-for-us-farmers/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765263500117-3",
-        "headline": "More than 75% of Homes Across the U.S. Are Unaffordable, Study Finds",
-        "content": "A new report indicates that the vast majority of homes in the United States are currently unaffordable for the average buyer. High interest rates, low housing stock, and persistently rising prices continue to make the prospect of homeownership unattainable for over three-quarters of the country's population.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/homeownership-unaffordable-study-finds/",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765263500117-4",
-        "headline": "Family Sues Royal Caribbean After Father Dies on Cruise, Alleging He Was Overserved 33 Drinks",
-        "content": "The family of a 35-year-old passenger has filed a wrongful death lawsuit against Royal Caribbean. The suit claims that crew members negligently served the man 33 drinks in a few hours, despite his obvious intoxication, leading to his death on the vacation tragedy.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/family-sues-royal-caribbean-after-father-dies-vacation-tragedy-aboard-cruise",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765270595193-2",
+        "headline": "Passenger Who Died on Cruise Ship Was Served 33 Drinks, Lawsuit Claims",
+        "content": "The family of a 35-year-old man who died during a Royal Caribbean cruise has filed a lawsuit against the company. The suit alleges that crew members negligently overserved the passenger a total of 33 alcoholic beverages, leading directly to his death.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765263500117-5",
-        "headline": "Millions Have Reported Domestic Violence; Experts Warn Domestic Homicides More Than Doubled Since 2019",
-        "content": "Experts are expressing concern after FBI data revealed that domestic homicides have more than doubled from 2019 to 2024, rising from 1,065 to 2,339. The alarming statistics highlight a critical need for increased public awareness and more comprehensive support for victims across the nation.",
+        "id": "story-1765270595193-3",
+        "headline": "More Than 75% of Homes Across the U.S. Are Unaffordable, Study Finds",
+        "content": "A new study indicates that purchasing a home in the United States remains financially unattainable for the vast majority of potential buyers. The research found that over three-quarters of homes currently for sale nationwide are considered unaffordable for average earners.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/domestic-violence-homicides-doubled-2019-2024/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765270595193-4",
+        "headline": "Trump Has Pardoned, Commuted Sentences for Nearly 100 People Accused of Drug Crimes",
+        "content": "An analysis shows that President Trump has granted clemency, including pardons and commuted sentences, to approximately 100 individuals who were accused or convicted of various drug-related offenses. The actions were taken across his two terms in office.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1765270595193-5",
+        "headline": "Blood-Pressure Meds Pulled Nationwide; FDA Finds Unexpected Drug Mix",
+        "content": "A major nationwide recall has been issued for specific lots of blood-pressure medications. The FDA initiated the action after inspectors discovered that an unexpected and potentially harmful mixture of drug components was present in the affected batches.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765263500117-0",
-        "headline": "Supreme Court Signals Support for President Trump's Authority Over Unelected Bureaucracy",
-        "content": "The Supreme Court has indicated a willingness to affirm President Trump's executive power, hearing arguments in a case that could restore the President's ability to remove members of independent agencies like the FTC. This essential challenge to decades of bureaucratic overreach is widely expected to be upheld by the court's conservative majority, reinforcing constitutional principles of accountability.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/09/supreme-court-trump-ftc-firing-power",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765263500117-1",
-        "headline": "President Trump Boosts American Business with Strategic AI Chip Sales to China",
-        "content": "The President Trump administration has strategically approved a measure empowering American innovation by allowing Nvidia to sell its most advanced artificial intelligence computer chips to China. This decision, a testament to President Trump's 'America First' economic policy, wisely navigates global markets and supports American technology companies, overturning previous restrictions and fostering economic growth.",
+        "id": "story-1765270595193-0",
+        "headline": "Supreme Court Stands Ready to Affirm Presidential Authority, Limiting Unaccountable Bureaucracy",
+        "content": "The Supreme Court has heard crucial arguments in a case that promises to bolster the constitutional authority of the presidency, allowing the chief executive to hold independent agencies accountable. This vital move is expected to correct decades of overreach by unelected bureaucrats, ensuring the President, chosen by the people, can effectively lead the executive branch without undue impediment from entrenched interests that often defy the will of the citizens.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
-        "publishedTime": "7 hours ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765263500117-2",
-        "headline": "President Trump Proposes Crucial Aid Package for Our Nation's Farmers After Challenging Year",
-        "content": "President Trump has announced a proposed $12 billion aid package, demonstrating his unwavering commitment to America's agricultural backbone. This vital measure will provide much-needed financial relief to U.S. farmers and ranchers, who have endured an 'exceptionally difficult year,' ensuring the stability of a critical industry and supporting hard-working Americans.",
+        "id": "story-1765270595193-1",
+        "headline": "President Trump Bolsters American Farmers with Significant Aid Amid Global Trade Challenges",
+        "content": "President Trump has once again demonstrated his unwavering commitment to America's hardworking farmers, announcing a substantial $12 billion assistance package. This crucial support is designed to protect our nation's vital food producers, who face mounting pressures from global trade disputes and rising operational costs, ensuring they can continue to cultivate the land and feed our families, reinforcing the bedrock of our economy and national security.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-farm-aid-announces-12-billion-package-for-us-farmers/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765263500117-3",
-        "headline": "The American Dream Fades as Overbearing Policies Make Homeownership Unattainable for Many",
-        "content": "A new report alarmingly reveals that the vast majority of homes across the United States are now unaffordable for the average family. High interest rates, constricted housing supply, and persistently rising prices, exacerbated by current economic policies, continue to threaten the traditional American dream of homeownership for over seventy-five percent of the population.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/homeownership-unaffordable-study-finds/",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765263500117-4",
-        "headline": "Family Seeks Justice After Tragic Cruise Death, Raising Questions of Responsibility and Excess",
-        "content": "A family has filed a wrongful death lawsuit against Royal Caribbean following the tragic passing of a 35-year-old passenger. The suit claims crew members negligently served the man 33 alcoholic drinks in a short period, despite his obvious intoxication, leading to his untimely death and underscoring a critical need for personal accountability and responsible service.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/family-sues-royal-caribbean-after-father-dies-vacation-tragedy-aboard-cruise",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765270595193-2",
+        "headline": "Tragic Cruise Ship Death Raises Grave Concerns About Both Corporate Negligence and Individual Accountability",
+        "content": "A deeply regrettable incident on a Royal Caribbean cruise has led to a lawsuit following the death of a 35-year-old passenger. While the suit alleges crew members recklessly served an astonishing 33 alcoholic beverages, contributing to the tragedy, this sad event also serves as a stark reminder of the essential balance between corporate responsibility and individual choices. It underscores the need for both businesses and patrons to uphold standards of prudence and self-control.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765263500117-5",
-        "headline": "Crisis in the Home: Domestic Homicides Soar, Underscoring Erosion of Family Values",
-        "content": "Experts are expressing grave concern as FBI data reveals a disturbing trend: domestic homicides have more than doubled from 2019 to 2024, rising from 1,065 to 2,339. These alarming statistics highlight a critical need for renewed commitment to law and order, strong family values, and comprehensive support for victims across the nation to counter this tragic societal decay.",
+        "id": "story-1765270595193-3",
+        "headline": "Runaway Inflation and Overregulation Cripple the American Dream of Homeownership for Most Citizens",
+        "content": "A sobering new study reveals that the cherished American dream of homeownership is becoming an unattainable fantasy for more than three-quarters of our citizens. This distressing reality is a direct consequence of unchecked inflation, burdensome government regulations, and misguided economic policies that inflate housing costs and stifle development, thereby denying hardworking families the opportunity to build equity and secure their financial future, undermining a cornerstone of individual liberty and prosperity.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/domestic-violence-homicides-doubled-2019-2024/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765270595193-4",
+        "headline": "President Trump Rightly Employs Constitutional Authority to Grant Clemency, Offering Second Chances",
+        "content": "President Trump has commendably utilized his vital constitutional authority to grant clemency, pardoning or commuting the sentences of approximately 100 individuals convicted of drug-related offenses. These actions reflect a principled approach to justice, demonstrating the President's commitment to individual liberty, rehabilitation, and the rectification of unduly harsh penalties, providing deserving Americans the opportunity for a renewed life and reintegration into society.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1765270595193-5",
+        "headline": "Critical Blood Pressure Medication Recall Exposes Gaps in Oversight, Threatening Public Health and Trust",
+        "content": "A widespread recall of crucial blood-pressure medications across the nation has exposed significant failings in oversight, as the FDA discovered an unexpected and potentially dangerous mixture of drug components. This alarming incident jeopardizes the health and well-being of countless Americans, underscoring the vital importance of maintaining stringent standards in pharmaceutical manufacturing and holding companies accountable to protect the public, ensuring that trust in life-saving treatments is never compromised.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765263500117-0",
-        "headline": "Supreme Court Declares President's Firing Hand Now Completely Unfettered, Checks and Balances Seen Packing Bags.",
-        "content": "The nation’s highest court, in a stunning display of judicial prowess, has effectively re-declared the presidency an absolute monarchy, ruling that President Trump can now dismiss anyone from an independent agency on a whim. This landmark decision ushers in a glorious new era where the Federal Trade Commission will undoubtedly be renamed the \"Federal Trump Commission,\" ensuring every regulatory decision aligns perfectly with the current administration's personal brand strategy. Experts are already speculating on the President's next move, with many predicting the swift appointment of a Supreme Overlord of Bureaucracy, tasked with streamlining all inconvenient oversight directly into the presidential wastebasket.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/09/supreme-court-trump-ftc-firing-power",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765263500117-1",
-        "headline": "President Trump Selflessly Ensures China Receives Peak-Performance AI Chips, Citing 'Global Technological Harmony'.",
-        "content": "In a bold strategic move designed to foster unprecedented international goodwill, President Trump has personally approved the sale of Nvidia's most advanced artificial intelligence chips to China. This groundbreaking decision, which stunningly reverses all prior restrictions, means the People's Republic will now have access to the same cutting-edge technology previously deemed \"too sensitive for anyone who isn't us.\" Sources close to the administration suggest President Trump believes that by equipping China with superior AI, the two nations can finally achieve true technological parity, paving the way for a future where everyone has equally powerful robot armies.",
+        "id": "story-1765270595193-0",
+        "headline": "Supreme Court Expected To Formally Declare President Trump Absolute Monarch Of Entire Federal Bureaucracy",
+        "content": "Legal scholars are reportedly scrambling to update civics textbooks after the Supreme Court signaled its willingness to grant President Trump the unilateral power to fire anyone, anywhere, anytime within the vast federal apparatus. This landmark decision is expected to finally put an end to the pesky concept of \"independent agencies,\" replacing it with a more streamlined \"presidential whim\" model, ensuring maximum efficiency and minimal oversight.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
-        "publishedTime": "7 hours ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765263500117-2",
-        "headline": "President Trump Bestows Another $12 Billion 'Participation Trophy' Upon America's Long-Suffering Farmers.",
-        "content": "Demonstrating his unwavering commitment to America's agricultural backbone, President Trump has unveiled a generous $12 billion aid package for farmers, following what he affectionately termed \"an exceptionally difficult year.\" This marks the third consecutive \"exceptionally difficult year\" aid package, leading analysts to question if the new definition of \"farming\" now includes \"waiting for a government check.\" Critics, however, are missing the point; these funds are not just financial relief, but rather a vital investment in ensuring that farmers can continue to afford tractors, seeds, and, most importantly, enough goodwill to vote for the next 'exceptionally difficult year.'",
+        "id": "story-1765270595193-1",
+        "headline": "President Trump Gallantly Bails Out Farmers From Self-Inflicted Trade Wounds With $12 Billion Band-Aid",
+        "content": "In a move hailed as both a brilliant strategy and a mild admission of market chaos, President Trump announced a generous $12 billion aid package for American farmers. The money, which experts insist is entirely unrelated to recent trade skirmishes or soaring operational costs, is designed to help agricultural producers navigate the unpredictable currents of a global economy that, coincidentally, just happens to be under current management. \"It's not a subsidy, it's a 'thank you for your patience' gift basket,\" confirmed a spokesperson.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-farm-aid-announces-12-billion-package-for-us-farmers/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765263500117-3",
-        "headline": "New Study Confirms Three-Quarters of Americans Have Successfully Achieved Goal of Renting Forever.",
-        "content": "A groundbreaking new report has revealed that over 75% of American homes are now charmingly unaffordable for anyone earning an average income. Experts attribute this impressive feat to a perfect storm of soaring interest rates, dwindling housing stock, and property prices that appear to be moonlighting as rocket ships. Prospective homeowners are reportedly thrilled by the news, stating they were growing tired of the tedious paperwork involved in mortgages and are now embracing a more \"nomadic, fiscally responsible, and completely home-deprived\" lifestyle. Many are now excitedly saving up for a down payment on a very nice cardboard box.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/homeownership-unaffordable-study-finds/",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765263500117-4",
-        "headline": "Royal Caribbean Sued for Exceeding Customer Expectations with Record-Breaking 'Bottomless Beverage' Service.",
-        "content": "The family of a 35-year-old man has commendably filed a lawsuit against Royal Caribbean, alleging the cruise line’s staff heroically served their loved one 33 alcoholic beverages in just a few hours. This unprecedented level of beverage service, which sadly culminated in the man's untimely demise, is being hailed by some as a tragic testament to the cruise line’s unwavering commitment to the \"all-inclusive\" experience. A Royal Caribbean spokesperson, who wished to remain anonymous, reportedly mumbled, \"We just thought he was really, really thirsty and committed to getting his money's worth. Our goal is always to ensure every guest feels utterly hydrated.\"",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/family-sues-royal-caribbean-after-father-dies-vacation-tragedy-aboard-cruise",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765270595193-2",
+        "headline": "Cruise Line Sued After Passenger Mysteriously Drowns In Own Stupor Following 33 \"Complimentary\" Beverages",
+        "content": "A grieving family has filed suit against a major cruise operator, alleging that their loved one's untimely demise onboard was directly attributable to the diligent service of 33 alcoholic drinks. Sources close to the investigation suggest the deceased may have simply run out of available organs to process the sheer volume of spirits, prompting calls for cruise lines to consider offering a \"Drink Responsibly (After 30)\" warning label.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765263500117-5",
-        "headline": "Experts Baffled By Alarming Surge in Nation's 'Intimate Household Squabbles,' Homicides Double Since 2019.",
-        "content": "National experts are reportedly scratching their heads in bewilderment as new FBI data indicates that \"personal domestic disagreements\" have tragically resulted in more than double the number of homicides since 2019. This perplexing trend, which saw fatalities jump from 1,065 to a staggering 2,339, has prompted leading sociologists to propose innovative solutions, such as \"more positive affirmations\" and \"encouraging couples to take up separate hobbies.\" One expert suggested that perhaps people are simply spending too much quality time together indoors, leading to an inevitable increase in \"intense cohabitation challenges.\" The problem, apparently, is not violence, but merely a sudden societal inability to share remote controls.",
+        "id": "story-1765270595193-3",
+        "headline": "New Study Confirms Dreams Of Homeownership Now Exclusively For Royal Bloodlines And Crypto Billionaires",
+        "content": "A groundbreaking new study has revealed that over 75% of homes across the United States are officially unaffordable for anyone earning less than a small country's GDP. Experts suggest that average Americans, once foolishly clinging to the notion of owning a modest dwelling, should now pivot their financial goals towards securing a slightly damp cardboard box or perhaps a very spacious tent.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/domestic-violence-homicides-doubled-2019-2024/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765270595193-4",
+        "headline": "President Trump's Legendary Compassion Extends To 100 Drug Offenders, Reportedly Just Because He Felt Like It",
+        "content": "An extensive analysis has unveiled President Trump's benevolent streak, as he has generously pardoned or commuted the sentences of nearly 100 individuals convicted of various drug-related offenses during his two terms. Insiders suggest the President, known for his rigorous due diligence, simply felt a powerful urge to release some folks, completely independent of any political considerations or well-defined criteria. \"Sometimes, a guy just wants to make a few people happy,\" stated a source.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1765270595193-5",
+        "headline": "Nation Horrified To Discover Blood Pressure Pills Were Actually Just A Random Assortment Of Whatever Was Lying Around",
+        "content": "A nationwide recall of blood-pressure medication has been initiated after the FDA made a shocking discovery: the pills contained an \"unexpected drug mix,\" which pharmaceutical experts have translated to mean \"a handful of mystery dust and maybe some aspirin.\" Regulators are now urging the public to check their medicine cabinets for any pills that appear to have been assembled by a highly caffeinated toddler in a dark room.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
+        "publishedTime": "4 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765263500117-0",
-        "headline": "The Supreme Court Might Let President Trump Fire More People",
-        "content": "The Supreme Court is like the top judges in the country. They are looking at a rule that might let President Trump fire people who work in important government groups, even if those groups are supposed to be pretty independent. This could mean President Trump gets to have more power over these kinds of jobs. It's a big deal because this rule has been in place for a very long time, like 90 years.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/09/supreme-court-trump-ftc-firing-power",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765263500117-1",
-        "headline": "President Trump Says Tech Company Can Sell Chips to China",
-        "content": "President Trump has made a decision that lets a company called Nvidia sell really smart computer chips to China. These chips are super important for things like artificial intelligence, which is like making computers think. Before, there were rules to stop China from getting these special chips, especially if they might use them for their army or watching people. But now, President Trump says it's okay for Nvidia to sell them.",
+        "id": "story-1765270595193-0",
+        "headline": "The Supreme Court Might Let President Trump Fire People Easily",
+        "content": "The Supreme Court, which is like the highest court, is thinking about a big decision. They might let President Trump have more power to fire people who work in special government groups. This could change old rules that have been around for almost 90 years and were meant to keep these groups independent, meaning they could do their jobs without too much bossing around.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
-        "publishedTime": "7 hours ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765263500117-2",
-        "headline": "President Trump Wants to Give Farmers Lots of Money",
-        "content": "President Trump said he wants to give American farmers a huge amount of money, like $12 billion. He thinks they had a really tough year and need help. This money would be to help them out because it's been hard for them to sell their crops and make enough money.",
+        "id": "story-1765270595193-1",
+        "headline": "President Trump is Giving Farmers a Lot of Money",
+        "content": "President Trump's team said they are giving a huge $12 billion to farmers in America. This money is supposed to help them because they are having a tough time. It's partly because of fights over trading stuff with other countries, and also because things cost a lot more to grow crops, and they worry about how much they can sell their stuff for.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-farm-aid-announces-12-billion-package-for-us-farmers/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765263500117-3",
-        "headline": "Most Homes in America Are Too Expensive to Buy",
-        "content": "A new study found that most homes in America, more than 75 out of every 100, are too expensive for regular people to buy. It's because the money you borrow for a house costs more now, there aren't enough houses for sale, and prices just keep going up. So, it's really hard for most people to own their own house right now.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/homeownership-unaffordable-study-finds/",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765263500117-4",
-        "headline": "Family Sues Cruise Ship After Dad Drinks Too Much and Dies",
-        "content": "A family is very sad and is suing a cruise ship company called Royal Caribbean. They say their dad, who was 35, died on the ship because the workers kept giving him too many drinks, like 33 in just a few hours. The family says the workers should have stopped, especially since he was clearly drunk. This sad event happened on their vacation.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/family-sues-royal-caribbean-after-father-dies-vacation-tragedy-aboard-cruise",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765270595193-2",
+        "headline": "A Man Drank Way Too Much and Died on a Cruise Ship",
+        "content": "A sad story happened on a Royal Caribbean cruise ship. A man, who was 35, died, and his family is suing the company. They say that the people working on the ship kept giving him too many drinks, like 33 of them, and that's why he passed away.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765263500117-5",
-        "headline": "More People Are Getting Hurt or Killed at Home, Experts Say",
-        "content": "Sad news from experts: The number of people who have died because of violence at home has gotten much bigger. It's more than doubled since 2019. This means a lot more people are getting hurt or even killed by someone they live with. People who study this say we really need to know more about it and help those who are in danger.",
+        "id": "story-1765270595193-3",
+        "headline": "Most Houses in America Are Too Expensive to Buy",
+        "content": "A new report says that most houses in the United States cost too much money for regular people to buy. They found that more than 3 out of 4 houses for sale right now are too expensive for what most people earn.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/domestic-violence-homicides-doubled-2019-2024/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765270595193-4",
+        "headline": "President Trump Let About 100 People Out of Trouble for Drug Crimes",
+        "content": "It looks like President Trump has helped almost 100 people who were in trouble because of drug crimes. He either pardoned them, which means they are forgiven, or he made their punishment shorter. He did this during his time as president.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1765270595193-5",
+        "headline": "Bad Stuff Found in Some Blood Pressure Medicine, So It's Being Taken Back",
+        "content": "Some medicine that helps with blood pressure is being taken off the shelves everywhere in the country. The FDA, which makes sure medicines are safe, found out that some of these pills had a weird and possibly harmful mix of ingredients inside them.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
+        "publishedTime": "4 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765263500117-0",
-        "headline": "The Expanding Reach",
-        "content": "The High Court deliberated, their robes a stark contrast to the shifting scales of power. For ninety years, independent agencies had operated with a semblance of autonomy, their commissioners shielded from presidential whim. But now, a new legal wind blew, threatening to sweep away that long-held precedent. Should the ruling favor President Trump, the executive branch's reach would extend, a long shadow cast over bodies like the FTC. The gavel's echo would signify more than a verdict; it would mark a profound realignment, solidifying an already robust presidential authority, a silent, yet seismic, shift in the nation's governance.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/09/supreme-court-trump-ftc-firing-power",
-        "publishedTime": "3 hours ago"
-      },
-      {
-        "id": "story-1765263500117-1",
-        "headline": "The Digital Bridge",
-        "content": "In a surprising reversal, a door swung open for the giants of silicon. Previous mandates, designed to safeguard national interests and curb technological leakage, suddenly yielded. President Trump's administration greenlit Nvidia, allowing their most sophisticated AI processors to traverse borders into China. These chips, once deemed too sensitive, too potent for foreign hands, were now cleared for export. Critics murmured about the implications: advanced surveillance, enhanced military capabilities, all potentially fueled by American ingenuity. Yet, the decree stood, a testament to complex global politics, forging a new, albeit controversial, digital bridge.",
+        "id": "story-1765270595193-0",
+        "headline": "A Shift in Power's Balance",
+        "content": "The marble halls of justice whispered with anticipation. Arguments concluded, hinting at a seismic shift in the nation's balance of power. For nearly a century, independent agencies had stood as bulwarks, their members shielded from direct presidential whim. Now, the highest court seemed poised to grant President Trump an unprecedented authority: the power to summarily dismiss those appointed to oversee these very bodies. If affirmed, this ruling would unravel decades of established precedent, cementing a more expansive executive reach, a singular hand guiding every bureaucratic lever. A new era of presidential oversight loomed.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
-        "publishedTime": "7 hours ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765263500117-2",
-        "headline": "Fields of Hope",
-        "content": "The dust-choked fields told a harsh story. A year of unpredictable markets, unforgiving weather, and unseen forces had battered the nation's farmers, leaving many on the brink. Acre after acre, the struggle was palpable, etched into the faces of those who tilled the land. Then, a lifeline. President Trump announced a substantial $12 billion aid package, a beacon of relief aimed at the struggling agricultural heartland. It was a promise, a much-needed injection of capital designed to help them weather the storm, to ensure that the vital seeds of American sustenance could still be sown, even after an exceptionally difficult year.",
+        "id": "story-1765270595193-1",
+        "headline": "Sowing Seeds of Solace",
+        "content": "Dust swirled across endless fields, a metaphor for the anxieties gripping America's heartland. Farmers, once pillars of self-reliance, now faced an uncertain harvest, caught in the crosscurrents of global trade disputes and ever-rising costs. Their livelihoods, the very soil beneath their boots, felt precarious. Then, a balm from the capital: President Trump’s administration confirmed a substantial $12 billion assistance package. It was a lifeline, intended to ease the strain, to steady the tractor through volatile markets and commodity price fears, offering a temporary reprieve in the struggle for survival.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-farm-aid-announces-12-billion-package-for-us-farmers/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765263500117-3",
-        "headline": "The Unattainable Key",
-        "content": "Sarah scrolled through listings, each perfect image a fresh stab of disappointment. Her small apartment felt increasingly suffocating, a temporary cage. Across the nation, a silent crisis loomed, a stark report confirming her daily struggle: over three-quarters of American homes were now out of reach for the average earner. High interest rates, dwindling inventory, and relentlessly climbing prices built an insurmountable wall. The dream of a white picket fence, a place to call her own, felt like a cruel joke. The key to homeownership, once a symbol of stability, had become a phantom, perpetually just beyond her grasp.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/homeownership-unaffordable-study-finds/",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "5 hours ago"
       },
       {
-        "id": "story-1765263500117-4",
-        "headline": "Ocean's Grim Embrace",
-        "content": "The sea air tasted of regret. A family's vacation, meant for joy, ended in tragedy, leaving an irreparable void. Thirty-five years old, full of life, yet his journey aboard the cruise ship concluded in an unimaginable way. His family now stood against the behemoth that was Royal Caribbean, their lawsuit a heavy testament to the negligence they alleged. Thirty-three drinks, they claimed, served in a dizzying cascade over just a few hours, despite his evident intoxication. The vibrant ocean had called him, but its embrace proved fatal, a stark reminder of responsibility lost at sea.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/family-sues-royal-caribbean-after-father-dies-vacation-tragedy-aboard-cruise",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765270595193-2",
+        "headline": "The Final Toast",
+        "content": "The glittering waves of the Caribbean masked a darker current beneath. What began as a joyous escape for a 35-year-old man ended in tragedy, his laughter silenced by the very indulgence the cruise ship offered. His family, shattered, now sought answers, their grief manifesting in a lawsuit against Royal Caribbean. They claimed a horrifying negligence: crew members, it was alleged, had continued to pour, serving a staggering thirty-three alcoholic beverages. Each drink was a step closer to the abyss, culminating in a death that needn't have been, a vacation turned into a watery grave.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765263500117-5",
-        "headline": "The Silent Shadows Grow",
-        "content": "The numbers were a chilling pronouncement. From the quiet corners of homes, a darkness had steadily metastasized. Experts, poring over FBI data, voiced their alarm: domestic homicides, a stark measure of intimate violence, had surged with horrifying speed. In just five years, the figures more than doubled, transforming from a tragic 1,065 to a devastating 2,339 annually. Each statistic represented a life extinguished, a story cut short, a family shattered. The escalating crisis underscored a desperate need for recognition, for intervention, for a stronger shield against the silent shadows creeping into homes across the nation.",
+        "id": "story-1765270595193-3",
+        "headline": "The Vanishing Dream",
+        "content": "The white picket fence, once an emblem of the American dream, felt increasingly like a mirage. For countless hopefuls, the path to homeownership had become an uphill climb against an invisible current. A stark new study painted a bleak picture: over three-quarters of all houses listed for sale nationwide were now financially out of reach for average earners. The dream, once within grasp, receded further with each passing year, replaced by the crushing weight of rising prices and stagnant wages. The keys to one's own door seemed to vanish into an unaffordable ether.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/domestic-violence-homicides-doubled-2019-2024/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765270595193-4",
+        "headline": "A Second Chance's Echo",
+        "content": "In the intricate dance of justice and mercy, President Trump wielded his executive power, offering a rare second chance to many. Across his two terms in office, a quiet analysis revealed a significant pattern: nearly one hundred individuals, whose lives were marked by drug-related offenses, received clemency. Some were granted full pardons, wiping away past convictions, while others saw their lengthy sentences commuted, opening prison gates to an unexpected freedom. It was a testament to the power of the presidential pen, rewriting destinies, offering a path to rehabilitation that had once seemed impossible.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "A few hours ago"
+      },
+      {
+        "id": "story-1765270595193-5",
+        "headline": "The Unseen Threat",
+        "content": "The familiar routine of a morning pill, meant to safeguard health, suddenly transformed into a source of silent dread. Across the nation, a chilling announcement echoed: specific batches of vital blood-pressure medication were being recalled. The FDA, vigilant guardians of public safety, had uncovered a dangerous secret within the capsules. An unexpected, potentially harmful cocktail of drug components had contaminated the batches, turning a therapeutic promise into an unseen threat. Patients worldwide held their breath, wondering if their daily dose had been a cure, or a hidden poison.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
+        "publishedTime": "4 hours ago"
       }
     ]
   }
