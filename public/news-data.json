@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765291884277,
+  "timestamp": 1765299401929,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765291802716-0",
-        "headline": "Supreme Court Considers Granting President Unprecedented Authority Over Independent Agencies",
-        "content": "The Supreme Court has begun hearing arguments in a pivotal case that could dismantle nearly a century of established legal precedent, fundamentally altering the balance of power within the executive branch. This landmark challenge could dramatically expand the President's ability to unilaterally remove leaders of independent government agencies, raising serious concerns about the erosion of institutional checks and balances designed to protect public interests from partisan influence and potential abuses of power.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765299326211-0",
+        "headline": "President Trump's Policies Systematically Undermine US Democratic Institutions, Report Claims",
+        "content": "A recent significant report has downgraded the US's civic health rating, directly attributing this alarming decline to a year of 'restrictive' actions and policies from the President Trump administration. Experts are expressing deep concern that the ongoing political climate and these measures are negatively impacting the nation's democratic institutions and civil liberties, pointing to a systemic erosion of foundational principles.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765291802716-1",
-        "headline": "Massive Media Consolidation Looms as Paramount Pursues Hostile Takeover of Warner Bros. Discovery",
-        "content": "In a troubling sign for media diversity and competition, Paramount has initiated a staggering $108.4 billion hostile takeover bid for Warner Bros. Discovery. This aggressive move threatens to further consolidate an already concentrated media landscape, potentially silencing independent voices and limiting public access to varied information. The looming corporate battle raises critical questions about the impact on media workers, content creators, and the public's right to a diverse and robust media ecosystem, as profit motives once again drive industry giants toward unprecedented monopolies.",
-        "originalSource": "The Guardian / PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4imd6_GvOSZTGs1MCtDW9K3-l7lxfziM8x2MQWJRleF5GwdkGW3VzBDOx_yC9YLjjDPFiIWaZoTx8zPoWDrplPV3bWAKGTXgLsvRhkmEujgLnW-HaW3nMzL1QUmkL",
-        "publishedTime": "Yesterday"
+        "id": "story-1765299326211-1",
+        "headline": "Court Mandates Release of Records, Promising Deeper Revelations in Maxwell-Epstein Sex Trafficking Scandal",
+        "content": "A federal judge has ordered the immediate public release of a large number of documents gathered during the prosecution of Ghislaine Maxwell. These 'voluminous' records, concerning Maxwell who was convicted of helping Jeffrey Epstein in his sex crimes, are expected to reveal new details in the high-profile scandal, potentially exposing more systemic failures and complicity among powerful individuals.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-2",
-        "headline": "Progressive Champion Representative Jasmine Crockett Enters Texas US Senate Race",
-        "content": "In a significant development for Texas progressives, Representative Jasmine Crockett has officially launched her campaign for the U.S. Senate, filing her paperwork just hours before the state deadline. Her entry into the race, following fellow Democrat Colin Allred's withdrawal, immediately positions her as a formidable contender in the highly competitive Democratic primary. Crockett's campaign offers a critical opportunity for Texans to elect a senator dedicated to addressing systemic inequalities and advocating for the needs of working families and marginalized communities.",
+        "id": "story-1765299326211-2",
+        "headline": "Controversial Appointment of President Trump's Attorney to Federal Prosecutor Role Raises Systemic Ethical Questions",
+        "content": "Alina Habba, a private attorney for President Trump who was serving a temporary term as the U.S. Attorney for New Jersey, has resigned following a significant court ruling. Her controversial temporary appointment and quick exit from the federal prosecutor's office have sparked considerable discussion in legal and political circles, highlighting systemic concerns about political interference and the integrity of justice appointments.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "20 hours ago"
       },
       {
-        "id": "story-1765291802716-3",
-        "headline": "President Trump's $12 Billion Farmer Aid Package Critiqued as Temporary Fix for Systemic Trade Failures",
-        "content": "President Trump has unveiled a $12 billion aid package ostensibly aimed at supporting American farmers, who have been severely impacted by his administration's own trade tariffs and a challenging economic climate. Critics argue this substantial bailout serves as a short-term patch rather than a solution to the systemic issues exacerbated by aggressive trade policies, which have destabilized the agricultural sector. The package highlights the urgent need for a more sustainable and equitable approach to international trade that prioritizes long-term stability for farmers over politically motivated tariff disputes.",
-        "originalSource": "PBS NewsHour / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765299326211-3",
+        "headline": "Global Auto Industry Grapples with Systemic Shifts as Competition Intensifies, Raising Concerns for Workers and Sustainable Practices",
+        "content": "The CEO of Ford Motor Company has delivered a stark warning to the automotive industry, claiming that Western car manufacturers are currently in a fundamental 'fight for their lives.' This intense and growing competition from powerful Chinese electric vehicle and technology companies is driving major global concern, prompting questions about fair labor practices, environmental impact, and the systemic pressures on workers in the evolving market.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765291802716-4",
-        "headline": "Controversial Appointment of President Trump's Lawyer to Federal Prosecutor Role Ends",
-        "content": "Alina Habba has resigned from her temporary position as the U.S. Attorney for New Jersey, a decision prompted by a recent court ruling scrutinizing the legality of her appointment. Her brief tenure in the critical federal prosecutor role, following her prior service as a personal lawyer to President Trump, had raised significant concerns about the politicization of the justice system and potential conflicts of interest. This outcome underscores the imperative for independent, non-partisan appointments to uphold the integrity of our legal institutions.",
-        "originalSource": "CBS News / The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "Hours ago (Resignation)"
+        "id": "story-1765299326211-4",
+        "headline": "Honduras Seeks Justice Against Ex-President Despite President Trump's Controversial Pardon, Exposing Systemic Corruption",
+        "content": "Honduran authorities have issued a new arrest warrant for former President Juan Orlando Hernández on serious charges including money laundering and fraud. This action comes despite Hernández receiving a presidential pardon from President Trump after he had already begun serving a 45-year sentence for international drug trafficking, raising systemic concerns about accountability for powerful figures and international justice.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-5",
-        "headline": "Washington D.C. Leads Nation with Groundbreaking Local Child Tax Credit to Combat Poverty",
-        "content": "In a landmark move setting a national precedent, Washington D.C. has become the first locality to establish its own child tax credit, directly addressing systemic child poverty and economic insecurity. Building on the proven success of the temporary federal expansion during the pandemic, this progressive measure provides vital financial relief to families, helping them navigate ongoing economic challenges. This initiative serves as a powerful model for how local governments can proactively combat inequality and uplift communities, demonstrating a commitment to ensuring every child has a fair chance.",
-        "originalSource": "Governing Magazine",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBYcVr7wv302eUq_3NAM_5w7_njPT9s3sVYN5otMAFI7hGRlGwWgK4NYFOnfF8Mxs4XsxKY1n4d3jgFc_JaRxxrIBcz55Mk9NAI31cimsT55ra6dWqACeaiwLt_wje_AMXidU5V5OF21r5bvqH7-5hz0l1DjBaGbF0_rxq9TiPqhMc0c50DLPvlFFrMVvB",
-        "publishedTime": "2025-12-09"
+        "id": "story-1765299326211-5",
+        "headline": "Former FBI Agents Allege Retaliation for Protecting Civil Rights, Exposing Systemic Abuses During President Trump's Tenure",
+        "content": "Two former FBI agents have filed a significant lawsuit seeking reinstatement, alleging they were unlawfully terminated during the President Trump administration's second term. The agents claim their firing was retaliation for their efforts in 2020 to prevent a riot following the murder of George Floyd, and they are suing multiple high-level officials, pointing to a systemic pattern of political interference and suppression of dissenting voices within federal agencies.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "18 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765291802716-0",
-        "headline": "Supreme Court Hears Arguments in Major Case on President's Power to Remove Independent Agency Heads",
-        "content": "The Supreme Court heard arguments in a landmark legal case that challenges 90 years of precedent, which could vastly expand the President's authority. The case centers on whether the President has the power to remove the members of independent government agencies, potentially reshaping the balance of power within the executive branch.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765299326211-0",
+        "headline": "US civic health rating downgraded after year of 'restrictive' Trump actions.",
+        "content": "A significant report has downgraded the US's civic health rating, directly attributing the decline to a year of \"restrictive\" actions and policies from the Trump administration. Experts are expressing deep concern that the ongoing political climate and these measures are negatively impacting the nation's democratic institutions and civil liberties.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765291802716-1",
-        "headline": "Paramount Launches $108.4 Billion Hostile Bid for Warner Bros. Discovery",
-        "content": "In a significant media industry move, Paramount initiated a hostile takeover bid for rival Warner Bros. Discovery. This action sets the stage for a major corporate battle in the competitive media landscape, prompting a bidding war for one of the nation's largest content conglomerates.",
-        "originalSource": "The Guardian / PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4imd6_GvOSZTGs1MCtDW9K3-l7lxfziM8x2MQWJRleF5GwdkGW3VzBDOx_yC9YLjjDPFiIWaZoTx8zPoWDrplPV3bWAKGTXgLsvRhkmEujgLnW-HaW3nMzL1QUmkL",
-        "publishedTime": "Yesterday"
+        "id": "story-1765299326211-1",
+        "headline": "Judge orders release of 'voluminous' records in Ghislaine Maxwell case.",
+        "content": "A federal judge has ordered the immediate public release of a large number of documents that were gathered during the prosecution of Ghislaine Maxwell. Maxwell, who was convicted of helping Jeffrey Epstein in his sex crimes, is the subject of these \"voluminous\" records, which are expected to reveal new details in the high-profile scandal.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-2",
-        "headline": "Texas Democrat Rep. Jasmine Crockett Launches Campaign for US Senate Primary",
-        "content": "Representative Jasmine Crockett filed paperwork to run for the U.S. Senate just hours before the state's deadline. Her campaign announcement comes shortly after fellow Democrat Colin Allred dropped out of the race, repositioning her as a key contender in the competitive Texas Democratic primary.",
+        "id": "story-1765299326211-2",
+        "headline": "Alina Habba resigns from U.S. attorney's office after court ruling.",
+        "content": "Alina Habba, a private attorney for President Trump who was serving a temporary term as the U.S. Attorney for New Jersey, has resigned following a significant court ruling. Her controversial temporary appointment and quick exit from the federal prosecutor's office have sparked considerable discussion in legal and political circles.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "20 hours ago"
       },
       {
-        "id": "story-1765291802716-3",
-        "headline": "President Trump Announces $12 Billion Aid Package for U.S. Farmers",
-        "content": "President Trump announced a new $12 billion aid package intended to support American farmers grappling with the effects of trade tariffs and an 'exceptionally difficult year.' The proposal aims to alleviate financial distress and stabilize the agricultural sector amid ongoing international trade disputes.",
-        "originalSource": "PBS NewsHour / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765299326211-3",
+        "headline": "Western carmakers 'in fight for lives' against Chinese rivals, says Ford boss.",
+        "content": "The CEO of Ford Motor Company has delivered a stark warning to the automotive industry, claiming that Western car manufacturers are currently in a fundamental \"fight for their lives.\" The intense and growing competition from powerful Chinese electric vehicle and technology companies is driving this major global concern.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765291802716-4",
-        "headline": "Ex-Trump Lawyer Alina Habba Resigns as Top Federal Prosecutor in New Jersey After Court Ruling",
-        "content": "Alina Habba resigned from her temporary role as the U.S. Attorney for New Jersey following a court ruling regarding her appointment. She had previously served as a personal lawyer to President Trump before being temporarily tapped for the federal prosecutor role, which she now vacates after a brief tenure.",
-        "originalSource": "CBS News / The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "Hours ago (Resignation)"
+        "id": "story-1765299326211-4",
+        "headline": "Honduras issues arrest warrant for ex-president pardoned by Trump.",
+        "content": "Honduran authorities have issued a new arrest warrant for former President Juan Orlando Hernández on serious charges including money laundering and fraud. The action comes despite Hernández receiving a presidential pardon from Donald Trump after he had already begun serving a 45-year sentence for international drug trafficking.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-5",
-        "headline": "Washington, D.C., Becomes First Locality to Adopt a Local Child Tax Credit",
-        "content": "Washington, D.C., has become the first locality in the nation to create its own child tax credit, building on the success of the temporary federal expansion during the pandemic. The measure is part of a local strategy to significantly fight child poverty and help families weather financial turbulence following recent economic shocks.",
-        "originalSource": "Governing Magazine",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBYcVr7wv302eUq_3NAM_5w7_njPT9s3sVYN5otMAFI7hGRlGwWgK4NYFOnfF8Mxs4XsxKY1n4d3jgFc_JaRxxrIBcz55Mk9NAI31cimsT55ra6dWqACeaiwLt_wje_AMXidU5V5OF21r5bvqH7-5hz0l1DjBaGbF0_rxq9TiPqhMc0c50DLPvlFFrMVvB",
-        "publishedTime": "2025-12-09"
+        "id": "story-1765299326211-5",
+        "headline": "Fired FBI agents file lawsuit against Patel, Bondi, FBI and DOJ.",
+        "content": "Two former FBI agents have filed a significant lawsuit seeking reinstatement, alleging they were unlawfully terminated during the Trump administration's second term. The agents claim their firing was retaliation for their efforts in 2020 to prevent a riot following the murder of George Floyd, and they are suing multiple high-level officials.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "18 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765291802716-0",
-        "headline": "Supreme Court Examines Presidential Authority Over Unaccountable Agencies",
-        "content": "The Supreme Court is hearing critical arguments in a landmark legal case challenging decades of bureaucratic entrenchment, which could restore vital presidential authority. The case centers on the President's constitutional power to remove unelected members of independent government agencies, a move essential for ensuring accountability and executive branch effectiveness.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765299326211-0",
+        "headline": "Questionable Report Attacks President Trump's Stance on American Liberty and Traditional Values",
+        "content": "A biased report attempts to downgrade America's civic health, conveniently blaming President Trump's administration for actions it deems 'restrictive.' True patriots understand that President Trump's policies were aimed at restoring constitutional order, individual liberty, and national sovereignty, pushing back against the very progressive overreach that threatens our democratic institutions and civil liberties.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765291802716-1",
-        "headline": "Free Market Forces Ignite Massive Media Takeover Battle",
-        "content": "In a significant display of free market dynamism, Paramount has launched a hostile takeover bid valued at $108.4 billion for rival Warner Bros. Discovery. This bold action sets the stage for an intense corporate battle within the competitive media landscape, likely triggering a bidding war for one of the nation's premier content conglomerates.",
-        "originalSource": "The Guardian / PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4imd6_GvOSZTGs1MCtDW9K3-l7lxfziM8x2MQWJRleF5GwdkGW3VzBDOx_yC9YLjjDPFiIWaZoTx8zPoWDrplPV3bWAKGTXgLsvRhkmEujgLnW-HaW3nMzL1QUmkL",
-        "publishedTime": "Yesterday"
+        "id": "story-1765299326211-1",
+        "headline": "Justice Demands Transparency: Judge Orders Release of Critical Documents in Ghislaine Maxwell Case",
+        "content": "A federal judge has mandated the immediate public release of a vast cache of documents from the Ghislaine Maxwell prosecution. This decisive action is crucial for exposing the full scope of this horrific scandal and ensuring that all individuals, regardless of their status or connections, are held accountable under the law, upholding true justice and order.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-2",
-        "headline": "Democrat Representative Enters Competitive Texas Senate Primary Race",
-        "content": "Representative Jasmine Crockett has officially entered the U.S. Senate primary race in Texas, filing her paperwork just hours before the state deadline. Her campaign announcement, coming shortly after fellow Democrat Colin Allred exited the contest, positions her as a significant contender within the evolving and competitive Texas Democratic primary.",
+        "id": "story-1765299326211-2",
+        "headline": "Dedicated Attorney Alina Habba Returns to Private Practice Amidst Ongoing Political Attacks",
+        "content": "Alina Habba, a formidable attorney known for defending President Trump, has resigned from her temporary role as U.S. Attorney for New Jersey following a recent court ruling. Her brief tenure and subsequent departure, often targeted by those opposing President Trump, underscore the intense political scrutiny faced by those committed to upholding justice and traditional American values.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "20 hours ago"
       },
       {
-        "id": "story-1765291802716-3",
-        "headline": "President Trump Delivers Essential $12 Billion Aid to American Farmers",
-        "content": "President Trump has announced a vital $12 billion aid package designed to bolster American farmers who are enduring the hardships of international trade tariffs and an exceptionally difficult year. This crucial proposal aims to alleviate financial distress and stabilize the agricultural sector amidst ongoing global trade disputes, demonstrating a commitment to America's foundational industries.",
-        "originalSource": "PBS NewsHour / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765299326211-3",
+        "headline": "American Innovation Threatened: Ford CEO Warns of Fierce Chinese Competition",
+        "content": "The CEO of Ford Motor Company has issued a dire warning, stating that Western car manufacturers are engaged in a critical 'fight for their lives' against aggressive Chinese rivals. This escalating global competition highlights the urgent need for strong national policies that prioritize American industries, safeguard jobs, and ensure fair trade to protect our economic sovereignty and technological leadership.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765291802716-4",
-        "headline": "Alina Habba Concludes Temporary Prosecutor Role Following Court Ruling",
-        "content": "Alina Habba has resigned from her temporary appointment as the U.S. Attorney for New Jersey, following a recent court ruling concerning her designation. Habba had previously served as a personal lawyer to President Trump before temporarily accepting the federal prosecutor position, which she now vacates after a brief tenure.",
-        "originalSource": "CBS News / The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "Hours ago (Resignation)"
+        "id": "story-1765299326211-4",
+        "headline": "Honduran Government Challenges President Trump's Sovereign Pardon with New Warrant",
+        "content": "Honduran authorities have brazenly issued a new arrest warrant for former President Juan Orlando Hernández on charges of money laundering and fraud. This move directly challenges the legitimate presidential pardon granted by President Trump, an act that reaffirmed American sovereignty and influence. The motives behind this foreign government's action against a previously pardoned individual demand serious scrutiny.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-5",
-        "headline": "Washington, D.C., Establishes First Local Child Tax Credit Program",
-        "content": "Washington, D.C., has become the nation's first locality to enact its own child tax credit program, a move that builds upon the temporary federal expansion implemented during the pandemic. This measure is positioned as a local strategy to significantly combat child poverty and offer financial assistance to families navigating economic challenges.",
-        "originalSource": "Governing Magazine",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBYcVr7wv302eUq_3NAM_5w7_njPT9s3sVYN5otMAFI7hGRlGwWgK4NYFOnfF8Mxs4XsxKY1n4d3jgFc_JaRxxrIBcz55Mk9NAI31cimsT55ra6dWqACeaiwLt_wje_AMXidU5V5OF21r5bvqH7-5hz0l1DjBaGbF0_rxq9TiPqhMc0c50DLPvlFFrMVvB",
-        "publishedTime": "2025-12-09"
+        "id": "story-1765299326211-5",
+        "headline": "Deep State Resurgence? Fired FBI Agents Sue President Trump's Allies in Lawsuit",
+        "content": "Two former FBI agents have launched a significant lawsuit seeking reinstatement, alleging improper termination during President Trump's administration. Their claims of retaliation for actions surrounding the 2020 civil unrest, and their targeting of high-level officials like Kash Patel and Pam Bondi, raise serious questions about entrenched bureaucratic resistance to reform efforts aimed at restoring integrity and accountability within our federal agencies.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "18 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765291802716-0",
-        "headline": "Supreme Court Considers Granting President Power to Literally Unplug Annoying Bureaucrats",
-        "content": "In a move that has legal scholars nervously adjusting their monocles, the Supreme Court is currently deliberating a case that could finally give the President the power to simply 'poof' independent agency heads out of existence. Legal experts suggest this groundbreaking decision could end an archaic 90-year tradition of agencies occasionally thinking for themselves, thus streamlining the entire executive branch into a singular, highly efficient, and easily amused entity. Critics are concerned that the President might use this new power to replace all agency heads with trained squirrels, but supporters argue it would make meetings far more entertaining.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765299326211-0",
+        "headline": "Nation's Civic Health Now Requires Daily Dose of 'Pure Compliance' After President Trump's Latest Prescriptions.",
+        "content": "A groundbreaking report has downgraded the US's civic health to 'critically stable,' citing a year of President Trump's 'innovative' policies that apparently cured the nation of its pesky democratic institutions and civil liberties. Experts, previously known for worrying about things, are now expressing deep concern that people might actually start enjoying the newfound societal efficiency.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765291802716-1",
-        "headline": "Paramount Offers Every Last Couch Cushion Dime in Audacious Bid to Finally Own All Existing Content",
-        "content": "In a stunning display of corporate hunger, Paramount has reportedly launched a $108.4 billion hostile takeover bid for Warner Bros. Discovery, seemingly in an effort to finally consolidate every single movie, TV show, and obscure documentary ever created under one roof. Industry analysts are calling it 'the ultimate game of media Monopoly,' where the winner gets to decide if 'The Flintstones' will air before or after 'Top Gun 3.' Sources close to the deal suggest the move is primarily to ensure that no one ever has to scroll through two different streaming apps again, a burden society can no longer bear.",
-        "originalSource": "The Guardian / PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4imd6_GvOSZTGs1MCtDW9K3-l7lxfziM8x2MQWJRleF5GwdkGW3VzBDOx_yC9YLjjDPFiIWaZoTx8zPoWDrplPV3bWAKGTXgLsvRhkmEujgLnW-HaW3nMzL1QUmkL",
-        "publishedTime": "Yesterday"
+        "id": "story-1765299326211-1",
+        "headline": "Judge Unleashes 'Voluminous' Maxwell Files, Guaranteeing Nation's Productivity Plummet for Weeks.",
+        "content": "A federal judge, apparently a fan of chaos, has ordered the immediate public release of an 'unfathomable' quantity of documents from the Ghislaine Maxwell prosecution. These records, which are expected to reveal new details in a scandal everyone thought they'd forgotten, will primarily serve to occupy the internet for the foreseeable future, ensuring no meaningful work gets done.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-2",
-        "headline": "Texas Democrat Rep. Crockett Discovers Senate Race Hole, Immediately Jumps In",
-        "content": "Just moments before the state's filing deadline, Representative Jasmine Crockett heroically leaped into the U.S. Senate primary race, reportedly after noticing an empty slot where fellow Democrat Colin Allred used to be. Eyewitnesses claim she literally dusted off the 'U.S. Senate Candidate' sign and held it aloft, declaring, 'Someone's gotta do it!' Her sudden entry has completely reconfigured the Texas Democratic primary, proving once again that political ambition, much like a good BBQ, is best served hot and at the last possible minute.",
+        "id": "story-1765299326211-2",
+        "headline": "President Trump's Attorney Alina Habba Abruptly Exits U.S. Attorney Post Before Office Furniture Could Even Be Delivered.",
+        "content": "Alina Habba, private attorney to President Trump, has resigned from her temporary stint as U.S. Attorney for New Jersey after a court ruling, presumably just moments before her nameplate was engraved. Her controversial, brief tenure, which legal circles called 'a blink,' has sparked considerable discussion about the true meaning of 'temporary' and 'having a job.'",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "20 hours ago"
       },
       {
-        "id": "story-1765291802716-3",
-        "headline": "President Trump Unveils 'Miracle Money' Plan for Farmers, Guarantees Perfect Harvests and Tariff-Proof Prosperity",
-        "content": "President Trump has grandly announced a $12 billion aid package designed to magically erase all agricultural woes, promising American farmers an era of unprecedented prosperity, free from pesky trade tariffs and 'exceptionally difficult years.' The plan, which sources say involves literally raining cash onto struggling farmlands, is expected to not only stabilize the agricultural sector but also spontaneously generate prize-winning pumpkins and self-milking cows. Farmers, who have spent the past year wondering if their crops were simply 'too patriotic' for the international market, are now reportedly holding out their hats.",
-        "originalSource": "PBS NewsHour / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765299326211-3",
+        "headline": "Ford CEO Declares Western Automakers Now Engaged in Thunderdome-Style Death Match Against Unstoppable Chinese EVs.",
+        "content": "The CEO of Ford Motor Company has delivered a stark, existential warning, claiming Western car manufacturers are currently engaged in a 'fight for their very lives' against a relentless onslaught of Chinese electric vehicles. Apparently, consumers are making the shocking choice to buy cars that are both affordable and actually work, rather than just admiring heritage.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765291802716-4",
-        "headline": "Temporary New Jersey Prosecutor Alina Habba Resigns Just in Time to Update LinkedIn Profile",
-        "content": "Alina Habba, who briefly graced the U.S. Attorney's office in New Jersey with her temporary presence, has reportedly resigned after a court ruling awkwardly pointed out the 'temporary' part. Habba, known for her previous work as President Trump's personal lawyer, is now free to pursue other extremely short-term, high-profile appointments that require minimal furniture re-arranging. Sources indicate her office was barely warm when she packed up her single 'World's Best Prosecutor (Temporary)' mug.",
-        "originalSource": "CBS News / The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "Hours ago (Resignation)"
+        "id": "story-1765299326211-4",
+        "headline": "Honduras Audaciously Ignores President Trump's Pardon, Re-Arrests Ex-President for 'Pardoning While Doing Crime' Offense.",
+        "content": "Honduran authorities have issued a new arrest warrant for former President Juan Orlando Hernández on serious charges, inexplicably disregarding a perfectly valid presidential pardon from President Trump. The audacious move comes after Hernández had already begun serving a 45-year sentence, proving that some countries simply refuse to understand the true spirit of 'get out of jail free' cards.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-5",
-        "headline": "Washington, D.C., Courageously Declares War on Child Poverty with Brand-New, Highly Localized Tax Credit",
-        "content": "In a bold move that has other cities asking 'Why didn't we think of that... after the federal government did it first?', Washington, D.C., has proudly announced it is the very first locality to implement its own child tax credit. Building upon the astonishing success of that temporary federal thing that everyone liked, D.C. plans to single-handedly eradicate child poverty within its highly specific geographic boundaries. Families are reportedly already budgeting for an extra artisanal croissant or maybe even a whole gallon of milk, signaling a new era of unprecedented local prosperity.",
-        "originalSource": "Governing Magazine",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBYcVr7wv302eUq_3NAM_5w7_njPT9s3sVYN5otMAFI7hGRlGwWgK4NYFOnfF8Mxs4XsxKY1n4d3jgFc_JaRxxrIBcz55Mk9NAI31cimsT55ra6dWqACeaiwLt_wje_AMXidU5V5OF21r5bvqH7-5hz0l1DjBaGbF0_rxq9TiPqhMc0c50DLPvlFFrMVvB",
-        "publishedTime": "2025-12-09"
+        "id": "story-1765299326211-5",
+        "headline": "FBI Agents Suing for Reinstatement After Being Fired for Mysteriously Not Wanting More Riots.",
+        "content": "Two former FBI agents have filed a significant lawsuit, desperately seeking reinstatement after being unceremoniously terminated during the President Trump administration's second term. The agents claim their firing was blatant retaliation for their puzzling efforts in 2020 to prevent a riot, an act of public safety apparently deemed highly objectionable by certain high-level officials.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "18 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765291802716-0",
-        "headline": "The Supreme Court is Thinking About Who Gets Fired.",
-        "content": "The highest court in the country, called the Supreme Court, is looking at a really big case. It's about whether President Trump can fire people who work in special government groups whenever he wants. This is a big deal because it could change how much power the president has over these groups that are supposed to be independent. They want to make sure the president doesn't have too much control over everything.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765299326211-0",
+        "headline": "America's Fairness Score Went Down Because of President Trump.",
+        "content": "A new report says that how fair and open things are in America has gotten worse. The report blames some of President Trump's rules and actions for making it harder for people to have a say and for our country's democracy to work properly. Experts are really worried about what this means for the future.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765291802716-1",
-        "headline": "Paramount Wants to Buy Warner Bros. Discovery.",
-        "content": "Imagine if one big movie company, Paramount, suddenly decided it wanted to buy another huge movie company, Warner Bros. Discovery, even if Warner Bros. Discovery didn't want to be bought! That's what's happening. Paramount is trying to buy them for a lot of money, like $108.4 billion. This means there might be a big fight to see who ends up owning Warner Bros. Discovery, which makes lots of movies and TV shows we all love.",
-        "originalSource": "The Guardian / PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4imd6_GvOSZTGs1MCtDW9K3-l7lxfziM8x2MQWJRleF5GwdkGW3VzBDOx_yC9YLjjDPFiIWaZoTx8zPoWDrplPV3bWAKGTXgLsvRhkmEujgLnW-HaW3nMzL1QUmkL",
-        "publishedTime": "Yesterday"
+        "id": "story-1765299326211-1",
+        "headline": "A Judge Wants Lots of Papers About Ghislaine Maxwell Released.",
+        "content": "A judge has said that many, many secret documents about Ghislaine Maxwell must be shown to the public right away. Ghislaine Maxwell was found guilty of helping Jeffrey Epstein do very bad things, and people think these papers might show even more new secrets about the whole situation.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-2",
-        "headline": "Jasmine Crockett is Running for Senate in Texas.",
-        "content": "A lady named Jasmine Crockett, who is a representative from Texas, has decided to run for a really big job called a U.S. Senator. She signed up right before the last day! Another person who was going to run decided not to, so now Jasmine Crockett is a really important person in the race to become the Democratic candidate for Senator in Texas. It's like a big competition to see who gets to represent their team.",
+        "id": "story-1765299326211-2",
+        "headline": "President Trump's Lawyer Quit Her Other Big Job.",
+        "content": "Alina Habba, who is a lawyer for President Trump, had another important job working for the government in New Jersey. But after a judge made a big decision, she quickly quit her government job. Lots of people are talking about her getting that job and then leaving so fast.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "20 hours ago"
       },
       {
-        "id": "story-1765291802716-3",
-        "headline": "President Trump Helps Farmers With $12 Billion.",
-        "content": "President Trump said he is going to give $12 billion to help American farmers. Farmers have been having a really tough time, especially because of some trade problems with other countries. This money will help them pay for things and keep their farms running smoothly during a difficult year. It's like giving them a boost when they need it most.",
-        "originalSource": "PBS NewsHour / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765299326211-3",
+        "headline": "Ford's Boss Thinks Car Companies Are In Big Trouble.",
+        "content": "The main boss of Ford, a really big car company, gave a serious warning. He said that car makers in places like America and Europe are fighting a huge battle just to stay in business. This is because car companies from China are making super cool new electric cars and using lots of new technology, becoming very strong rivals.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765291802716-4",
-        "headline": "Alina Habba Stops Being a Top Lawyer in New Jersey.",
-        "content": "A lawyer named Alina Habba, who used to work for President Trump, was a top lawyer for the government in New Jersey for a little while. But now she has stopped doing that job because a court made a decision about her being appointed. She was only there for a short time and is now leaving that position.",
-        "originalSource": "CBS News / The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "Hours ago (Resignation)"
+        "id": "story-1765299326211-4",
+        "headline": "Honduras Wants Their Old President Arrested Again.",
+        "content": "The country of Honduras wants to arrest their old leader, Juan Orlando Hernández, again. They say he did serious bad things like stealing money and cheating people. This is happening even though President Trump had already said he was forgiven, and Hernández was supposed to go to jail for 45 years for selling drugs around the world.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-5",
-        "headline": "Washington D.C. Helps Families With a New Money Plan.",
-        "content": "Washington D.C. is the very first place in the whole country to make its own special plan to help families with kids get some money back on their taxes. This idea comes from a similar program that helped a lot of families during the time of the pandemic. They want to make sure fewer kids live in poverty and that families can handle tough money times better.",
-        "originalSource": "Governing Magazine",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBYcVr7wv302eUq_3NAM_5w7_njPT9s3sVYN5otMAFI7hGRlGwWgK4NYFOnfF8Mxs4XsxKY1n4d3jgFc_JaRxxrIBcz55Mk9NAI31cimsT55ra6dWqACeaiwLt_wje_AMXidU5V5OF21r5bvqH7-5hz0l1DjBaGbF0_rxq9TiPqhMc0c50DLPvlFFrMVvB",
-        "publishedTime": "2025-12-09"
+        "id": "story-1765299326211-5",
+        "headline": "Two FBI Workers Who Got Fired Are Suing Everyone.",
+        "content": "Two people who used to work for the FBI are suing many important people and government groups. They say they were fired unfairly when President Trump was in charge for his second term. These workers believe they lost their jobs because they tried to stop a big riot from happening after George Floyd was sadly killed.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "18 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765291802716-0",
-        "headline": "The Shifting Sands of Executive Power's Reach",
-        "content": "For ninety years, the invisible lines of presidential authority held steady, a delicate balance within the government's grand design. But today, the highest court in the land began to question those long-held boundaries. Lawyers argued, their voices echoing through the hallowed halls, debating whether the President could, with a mere stroke, remove leaders of independent agencies. This landmark challenge wasn't just about obscure legal texts; it was about the very architecture of power. A decision here could reshape the executive branch, granting a vast, unprecedented expansion of the President's influence, forever altering the scales of governance.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765299326211-0",
+        "headline": "The Fraying Threads of Liberty",
+        "content": "The annual Civic Watch report dropped like a stone, painting America in shades of grey. A year of President Trump's \"restrictive\" policies, the report detailed, had eroded the nation's democratic foundations. Experts, once sanguine, now spoke of a chilling wind blowing through civil liberties, each policy a snip at the fabric of freedom. The very heart of the republic, they warned, pulsed weaker, its institutions groaning under unseen pressures. A quiet alarm rang, unheard by many, but echoing loudly in the chambers where liberty's guardians once stood resolute, now watching the fraying threads.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765291802716-1",
-        "headline": "When Media Titans Clash for Content's Crown",
-        "content": "The digital airwaves trembled, a seismic rumble through the entertainment empire. Paramount, a titan in its own right, unleashed a staggering $108.4 billion hostile bid, a gauntlet thrown at the feet of Warner Bros. Discovery. This wasn't a friendly merger; it was a declaration of war for the soul of content. Boardrooms became battlegrounds, strategists huddled, anticipating the furious bidding war that would inevitably erupt. Control of one of the nation’s largest content conglomerates hung in the balance, a prize coveted by all. The screens of the world awaited the victor, knowing the very landscape of media was about to be irrevocably redrawn.",
-        "originalSource": "The Guardian / PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4imd6_GvOSZTGs1MCtDW9K3-l7lxfziM8x2MQWJRleF5GwdkGW3VzBDOx_yC9YLjjDPFiIWaZoTx8zPoWDrplPV3bWAKGTXgLsvRhkmEujgLnW-HaW3nMzL1QUmkL",
-        "publishedTime": "Yesterday"
+        "id": "story-1765299326211-1",
+        "headline": "Secrets Buried, Now Unearthed",
+        "content": "The judge's gavel fell, echoing a decree across the internet. Ghislaine Maxwell’s shadowed world, woven with Jeffrey Epstein’s depravities, was about to unravel further. \"Voluminous\" records, long sealed away, were now ordered public. Each page promised a fresh wound, a new name, a deeper truth from the high-profile scandal. The air crackled with anticipation; whispers of powerful figures and hidden complicity lingered. The digital floodgates were opening, ready to wash away comfortable fictions and expose the ugly reality of those who enabled the unthinkable. Justice, slowly, was digging up its buried secrets.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-2",
-        "headline": "A Lone Star's Eleventh-Hour Bet for Washington",
-        "content": "The clock ticked, an ominous countdown to the filing deadline. Then, a sudden, determined surge: Representative Jasmine Crockett, her paperwork clutched, declared her intent for the U.S. Senate. Just hours before the final moment, her entry sent ripples through the Texas political landscape. It wasn't merely a last-minute decision; it was a strategic repositioning. Colin Allred's departure had left a void, a sudden opening in the competitive Democratic primary. Now, with a bold step, Crockett emerged, transformed from a hopeful into a formidable contender, ready to vie for a coveted seat in Washington, a new star in the Lone Star State's political firmament.",
+        "id": "story-1765299326211-2",
+        "headline": "The Brief Candle of an Appointment",
+        "content": "The news broke like glass in the hallowed halls of justice. Alina Habba, an attorney for President Trump, had stepped down from her temporary post as U.S. Attorney for New Jersey. Her appointment had been a flashpoint of controversy, a brief, contested tenure now abruptly concluded by a court ruling. Whispers filled the legal and political corridors, questioning the motives behind her rapid ingress and even swifter egress from the federal prosecutor’s office. A legal luminary, some said; a political pawn, others murmured. Her brief candle of power extinguished, leaving a lingering scent of debate.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "20 hours ago"
       },
       {
-        "id": "story-1765291802716-3",
-        "headline": "The President's Hand to the Land in Troubled Times",
-        "content": "Across the vast American heartland, farmers faced a cruel season. Trade tariffs had tightened their grip, and the fields, once promising, yielded only hardship. Then, a beacon of hope emerged from the capital. President Trump announced a substantial $12 billion aid package, a lifeline extended to those who toil the earth. His words acknowledged an 'exceptionally difficult year,' a testament to the struggles endured. This wasn't merely a handout; it was a strategic intervention designed to alleviate acute financial distress and stabilize the vital agricultural sector, ensuring sustenance for the nation amidst ongoing international trade disputes.",
-        "originalSource": "PBS NewsHour / CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpw_ZlN39wNEbB6FNR2s7KgX3ln7JbS68qXjhkMLXO_3nWzlTCFVre8433_W7R1OmPIdU2ElBdeDs-8I7ofckIwAhS8Zo8_Zh_hOVYtP6D95BxfoqfVLCMzJitwZdn",
-        "publishedTime": "15 hours ago"
+        "id": "story-1765299326211-3",
+        "headline": "The Roar of a New Engine",
+        "content": "The titans of Detroit and Stuttgart once ruled, their engines a symphony of power. Now, the Ford CEO’s voice, grim and urgent, cut through the boardroom silence: \"A fight for our lives.\" The challenge wasn't just a new model; it was an existential threat. Chinese electric vehicle giants, nimble and technologically advanced, were surging, their silent motors a stark contrast to the West's roaring legacy. The old guard, accustomed to their dominance, found themselves battling for every market share, every innovation. The global auto arena had shifted, and the roar of a new engine was deafening.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765291802716-4",
-        "headline": "The Prosecutor's Brief Interlude Amidst Legal Tides",
-        "content": "The gavel fell, echoing a finality that shifted the legal landscape. Alina Habba, once a personal lawyer to President Trump, had stepped into the temporary role of U.S. Attorney for New Jersey. Her tenure, though brief, marked a significant pivot. But a recent court ruling cast a shadow over her appointment, deeming it untenable. With a quiet resolve, she resigned, vacating the prestigious federal prosecutor position. The legal world watched as the once prominent figure, whose path had been intertwined with President Trump, made her exit, a temporary chapter closing in the complex narrative of her career, the law’s current flowing onwards.",
-        "originalSource": "CBS News / The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iqGngIfC9Dv_yU5pu-ZgeAmFYpoELdmbyKVNzsoVAmyM8rfpYdKRpua670gYjnlSdtAEmeKjS8M63uR7Qh08OlOjfzeQqeyUGUSkwj-i8IQaj5ktBA==",
-        "publishedTime": "Hours ago (Resignation)"
+        "id": "story-1765299326211-4",
+        "headline": "The Ghost of a Pardon",
+        "content": "In Honduras, the legal winds shifted, stirring dust over old decrees. A new arrest warrant materialized for Juan Orlando Hernández, their former president. Money laundering, fraud – the charges piled high, a grim echo of past convictions. This action defied a powerful shadow: a presidential pardon granted by President Trump, which had ostensibly freed Hernández from a 45-year drug trafficking sentence. The international community watched, a silent jury. Could a sovereign nation simply ignore such a reprieve? The warrant was a stark declaration, proving some ghosts of justice refused to be laid to rest by a simple presidential decree.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "December 9, 2025"
       },
       {
-        "id": "story-1765291802716-5",
-        "headline": "A Capital City's Compassionate Embrace for Its Children",
-        "content": "In a pioneering move, Washington, D.C., charted a new course for its youngest citizens. Building on the temporary successes of a federal pandemic-era expansion, the city proudly unveiled its own local child tax credit. This wasn't just policy; it was a promise. A bold step forward in the relentless fight against child poverty, aiming to lift families from the grip of financial turbulence brought on by recent economic shocks. D.C. became a national trailblazer, a beacon of hope demonstrating a profound commitment to its future. The capital's streets now held the promise of greater stability, a compassionate embrace for every child.",
-        "originalSource": "Governing Magazine",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBYcVr7wv302eUq_3NAM_5w7_njPT9s3sVYN5otMAFI7hGRlGwWgK4NYFOnfF8Mxs4XsxKY1n4d3jgFc_JaRxxrIBcz55Mk9NAI31cimsT55ra6dWqACeaiwLt_wje_AMXidU5V5OF21r5bvqH7-5hz0l1DjBaGbF0_rxq9TiPqhMc0c50DLPvlFFrMVvB",
-        "publishedTime": "2025-12-09"
+        "id": "story-1765299326211-5",
+        "headline": "Echoes of a Different Battle",
+        "content": "The courtroom doors creaked open, admitting a new kind of battle. Two former FBI agents, ghosts of a tumultuous era, filed suit. Their termination during President Trump's second term, they alleged, wasn't just a personnel decision; it was retaliation. They spoke of 2020, of George Floyd’s murder, and their earnest efforts to quell a brewing riot. Now, they sought reinstatement, their claims echoing against the powerful machinery of the FBI and DOJ, and against names like Patel and Bondi. They had fought for order then; now they fought for their professional lives, for justice against what they called a profound betrayal.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "18 hours ago"
       }
     ]
   }
