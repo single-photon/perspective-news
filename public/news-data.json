@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765270691790,
+  "timestamp": 1765277512345,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765270595193-0",
-        "headline": "Supreme Court Poised to Undermine Checks and Balances, Expanding Presidential Power",
-        "content": "The Supreme Court recently heard arguments in a pivotal legal case that could drastically expand presidential powers, potentially allowing President Trump to unilaterally remove members of independent government agencies. This move threatens to dismantle nearly 90 years of crucial precedent designed to safeguard agency independence and prevent unchecked executive overreach, raising significant concerns about the future of democratic governance and accountability.",
+        "id": "story-1765277430256-0",
+        "headline": "Supreme Court Considers Granting President Trump Unchecked Power Over Crucial Independent Agencies",
+        "content": "The Supreme Court has heard arguments in a legal case with profound implications, potentially expanding presidential powers and dismantling decades of established precedent. This challenge threatens the operational independence of vital government bodies like the Federal Trade Commission, raising serious concerns about the integrity of checks and balances and the future of consumer protection under President Trump.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-1",
+        "headline": "President Trump's $12 Billion Farmer Aid Package Fails to Address Systemic Issues Behind Agricultural Crisis",
+        "content": "President Trump has announced a $12 billion aid package for American farmers, presented as relief for an 'exceptionally difficult year.' While the aid is a temporary measure, it ultimately fails to confront the root causes of the agricultural sector's instability, which have been exacerbated by ongoing trade disputes and systemic market failures that disproportionately impact small and medium-sized farms.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765277430256-2",
+        "headline": "Appeals Court Upholds Rule of Law, Leading to Alina Habba's Resignation as New Jersey US Attorney",
+        "content": "Former Trump attorney Alina Habba has resigned from her position as U.S. Attorney for New Jersey following an appeals court decision that disqualified her from serving as the state's top federal prosecutor. This ruling underscores the importance of judicial oversight and accountability, reaffirming that political appointments must adhere to established legal and ethical standards.",
+        "originalSource": "ABC News",
+        "sourceUrl": "https://abcnews.go.com/Politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-3",
+        "headline": "Lawsuit Alleges Corporate Negligence by Royal Caribbean After Passenger's Death from Excessive Alcohol Consumption",
+        "content": "A lawsuit has been filed against Royal Caribbean, alleging severe corporate negligence after a 35-year-old passenger's death was ruled a homicide, reportedly following being served 33 drinks in a few hours. This tragic incident highlights the critical need for heightened corporate responsibility and stricter regulations within the cruise industry to prevent negligent practices that prioritize profit over passenger safety.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765270595193-1",
-        "headline": "President Trump Offers $12 Billion Aid to Farmers as Trade Policies Continue to Destabilize Agricultural Markets",
-        "content": "The Trump administration has announced a $12 billion assistance package for American farmers, a move widely seen as a stop-gap measure to alleviate hardships created by ongoing trade disputes and high operational costs. Critics argue this aid package highlights systemic vulnerabilities within the agricultural sector, exacerbated by current trade policies, and question whether such short-term relief addresses the fundamental economic challenges faced by many producers struggling with market volatility and corporate consolidation.",
+        "id": "story-1765277430256-4",
+        "headline": "Systemic Housing Crisis Deepens as Over 75% of U.S. Homes Become Unaffordable for Average Families",
+        "content": "A new study reveals a stark reality: the majority of the U.S. housing market, more than 75% of homes, is now financially out of reach for average American households. This finding underscores a severe and escalating national housing affordability crisis, driven by systemic issues such as stagnant wages, speculative investment, and a profound lack of accessible, affordable housing policies.",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765270595193-2",
-        "headline": "Corporate Negligence Alleged After Cruise Passenger Dies from Excessive Alcohol Service",
-        "content": "A Royal Caribbean cruise is facing a lawsuit from the family of a 35-year-old man who tragically died onboard, with allegations that crew members negligently served him 33 alcoholic beverages. This devastating incident raises serious questions about the systemic responsibility of cruise lines to prioritize passenger safety over profit, highlighting a critical need for stronger oversight and ethical practices within the hospitality industry regarding alcohol consumption and duty of care.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765270595193-3",
-        "headline": "Over 75% of Homes Nationwide Remain Unaffordable, Exposing Systemic Housing Crisis",
-        "content": "A new study reveals that the vast majority of homes across the United States, over three-quarters, are financially out of reach for average earners, signaling a deepening systemic housing crisis. This alarming statistic underscores the widening gap between stagnant wages and soaring housing costs, exacerbated by speculative investment and a lack of affordable housing policies, leaving countless working families locked out of homeownership and struggling to secure stable shelter.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765270595193-4",
-        "headline": "President Trump Grants Clemency to Nearly 100 Individuals Convicted of Drug Offenses, Highlighting Broader Incarceration Issues",
-        "content": "President Trump has granted clemency to approximately 100 individuals accused or convicted of various drug-related offenses during his time in office, according to a recent analysis. While these actions provide relief for some, they also underscore the urgent need for comprehensive criminal justice reform and a re-evaluation of outdated drug laws that have fueled mass incarceration and disproportionately impacted marginalized communities, demanding a systemic approach to justice.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1765270595193-5",
-        "headline": "Nationwide Recall of Blood-Pressure Medications Reveals Systemic Failures in Drug Safety Oversight",
-        "content": "A significant nationwide recall of blood-pressure medications has been initiated by the FDA after inspectors uncovered an unexpected and potentially dangerous mixture of drug components in affected batches. This alarming discovery highlights critical systemic failures in pharmaceutical manufacturing and regulatory oversight, raising serious concerns about patient safety and the industry's accountability in ensuring the integrity and efficacy of vital medications that millions rely upon daily.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765277430256-5",
+        "headline": "Representative Marc Veasey Prioritizes Local Community Needs by Seeking Tarrant County Judgeship",
+        "content": "U.S. Rep. Marc Veasey, a Democrat representing a Fort Worth-based district, has made a surprising decision to run for Tarrant County judge instead of seeking an eighth term in Congress. This move demonstrates a commitment to direct local service, suggesting a belief that impactful change and community needs can be best addressed through grassroots leadership and direct engagement at the county level.",
+        "originalSource": "The Texas Tribune",
+        "sourceUrl": "https://www.texastribune.org/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765270595193-0",
-        "headline": "Supreme Court Appears Set to Back Trump on FTC Firing in Major Expansion of Presidential Power",
-        "content": "The Supreme Court heard arguments in a legal case that could significantly expand presidential powers by allowing the president to remove members of independent government agencies. This action could overturn nearly 90 years of precedent established to protect agency independence.",
+        "id": "story-1765277430256-0",
+        "headline": "Supreme Court hears arguments on Trump's power over independent agencies",
+        "content": "The Supreme Court heard arguments in a legal case that could vastly expand presidential powers by challenging 90 years of precedent. At stake is the president's ability to remove members of independent government agencies, such as the FTC, which would affect the operational independence of many federal bodies.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-1",
+        "headline": "Trump proposes $12 billion in aid to farmers after 'exceptionally difficult year'",
+        "content": "President Trump announced a new $12 billion aid package intended for American farmers. The package is designed to mitigate financial difficulties caused by ongoing trade disputes and high prices, providing necessary relief to the agricultural sector after what has been an exceptionally challenging year.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765277430256-2",
+        "headline": "Alina Habba resigns as New Jersey US attorney after appeals court defeat",
+        "content": "Former Trump attorney Alina Habba resigned from her position as U.S. Attorney for New Jersey following a court ruling. An appeals court decision had disqualified her from continuing to serve as the state's top federal prosecutor, leading to her immediate departure from the office.",
+        "originalSource": "ABC News",
+        "sourceUrl": "https://abcnews.go.com/Politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-3",
+        "headline": "Royal Caribbean passenger who died on board cruise ship was served 33 drinks, lawsuit claims",
+        "content": "A lawsuit was filed against Royal Caribbean alleging that crew members negligently overserved a 35-year-old passenger 33 drinks in a matter of hours. The passenger's subsequent death was ruled a homicide, and the family is now seeking damages from the cruise line for their alleged negligence.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765270595193-1",
-        "headline": "Trump Announces $12 Billion Aid Package for U.S. Farmers Amid Concerns Over Trade and High Prices",
-        "content": "The Trump administration confirmed a $12 billion assistance package for American farmers. The aid is intended to help producers facing difficulties due to ongoing trade disputes, high operational costs, and general market concerns regarding commodity prices.",
+        "id": "story-1765277430256-4",
+        "headline": "More than 75% of homes across the U.S. are unaffordable, study finds",
+        "content": "A new study indicates that a majority of the housing market is unaffordable for most American families, with more than 75% of homes across the U.S. being outside the financial reach of the average household. The finding highlights a growing, severe national housing affordability crisis.",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765270595193-2",
-        "headline": "Passenger Who Died on Cruise Ship Was Served 33 Drinks, Lawsuit Claims",
-        "content": "The family of a 35-year-old man who died during a Royal Caribbean cruise has filed a lawsuit against the company. The suit alleges that crew members negligently overserved the passenger a total of 33 alcoholic beverages, leading directly to his death.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765270595193-3",
-        "headline": "More Than 75% of Homes Across the U.S. Are Unaffordable, Study Finds",
-        "content": "A new study indicates that purchasing a home in the United States remains financially unattainable for the vast majority of potential buyers. The research found that over three-quarters of homes currently for sale nationwide are considered unaffordable for average earners.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765270595193-4",
-        "headline": "Trump Has Pardoned, Commuted Sentences for Nearly 100 People Accused of Drug Crimes",
-        "content": "An analysis shows that President Trump has granted clemency, including pardons and commuted sentences, to approximately 100 individuals who were accused or convicted of various drug-related offenses. The actions were taken across his two terms in office.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1765270595193-5",
-        "headline": "Blood-Pressure Meds Pulled Nationwide; FDA Finds Unexpected Drug Mix",
-        "content": "A major nationwide recall has been issued for specific lots of blood-pressure medications. The FDA initiated the action after inspectors discovered that an unexpected and potentially harmful mixture of drug components was present in the affected batches.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765277430256-5",
+        "headline": "Democratic Rep. Marc Veasey files for Tarrant County judge, forgoing eighth term in Congress",
+        "content": "U.S. Rep. Marc Veasey, a Democrat representing a Fort Worth-based district, announced a surprise late-minute decision to run for Tarrant County judge instead of seeking an eighth term in Congress. He stated the decision was about where he could best serve the people of his local county.",
+        "originalSource": "The Texas Tribune",
+        "sourceUrl": "https://www.texastribune.org/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765270595193-0",
-        "headline": "Supreme Court Stands Ready to Affirm Presidential Authority, Limiting Unaccountable Bureaucracy",
-        "content": "The Supreme Court has heard crucial arguments in a case that promises to bolster the constitutional authority of the presidency, allowing the chief executive to hold independent agencies accountable. This vital move is expected to correct decades of overreach by unelected bureaucrats, ensuring the President, chosen by the people, can effectively lead the executive branch without undue impediment from entrenched interests that often defy the will of the citizens.",
+        "id": "story-1765277430256-0",
+        "headline": "Supreme Court Considers Restoring Essential Presidential Authority Over Unelected Bureaucracies",
+        "content": "The Supreme Court is currently reviewing critical arguments in a landmark legal battle that could fundamentally reassert constitutional executive power, challenging nearly a century of accumulated bureaucratic overreach. This pivotal case centers on the President's inherent right to remove members of so-called 'independent' government agencies, like the Federal Trade Commission, ensuring that federal bodies remain accountable to the nation's elected leader rather than operating as an unchecked fourth branch of government. This move is vital for restoring proper checks and balances and strengthening presidential accountability.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-1",
+        "headline": "President Trump Champions American Farmers with Essential $12 Billion Aid Package",
+        "content": "President Trump has courageously stepped forward with a crucial $12 billion aid package, directly aimed at bolstering America's hardworking farmers who have faced an exceptionally difficult year. This vital initiative is designed to provide much-needed relief to our agricultural bedrock, ensuring their resilience against the economic headwinds of ongoing trade challenges and inflated costs. President Trump's unwavering commitment to our nation's food producers demonstrates a true dedication to the backbone of our economy and rural communities.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765277430256-2",
+        "headline": "Alina Habba Steps Down as New Jersey US Attorney Following Appeals Court Decision",
+        "content": "Alina Habba, who previously served as an attorney for President Trump, has resigned from her demanding role as U.S. Attorney for New Jersey. This departure follows an appeals court ruling that deemed her disqualified from continuing to serve as the state's principal federal prosecutor, leading to her immediate exit from the esteemed office. The legal system's rulings, while sometimes unexpected, ultimately guide such public service positions.",
+        "originalSource": "ABC News",
+        "sourceUrl": "https://abcnews.go.com/Politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-3",
+        "headline": "Lawsuit Alleges Gross Negligence by Royal Caribbean After Passenger's Tragic Death",
+        "content": "A disturbing lawsuit has been filed against Royal Caribbean, asserting that its crew members displayed egregious negligence by serving a 35-year-old passenger an astounding 33 alcoholic beverages within mere hours. This alleged irresponsible overserving reportedly led to the passenger's untimely death, which authorities have tragically ruled a homicide. The victim's family is now rightly seeking substantial damages from the cruise line, highlighting a serious breakdown in corporate responsibility and the tragic consequences when personal limits are ignored and commercial entities fail in their duty of care.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765270595193-1",
-        "headline": "President Trump Bolsters American Farmers with Significant Aid Amid Global Trade Challenges",
-        "content": "President Trump has once again demonstrated his unwavering commitment to America's hardworking farmers, announcing a substantial $12 billion assistance package. This crucial support is designed to protect our nation's vital food producers, who face mounting pressures from global trade disputes and rising operational costs, ensuring they can continue to cultivate the land and feed our families, reinforcing the bedrock of our economy and national security.",
+        "id": "story-1765277430256-4",
+        "headline": "Staggering Report Reveals American Dream of Homeownership Crushed by Unaffordable Housing",
+        "content": "A troubling new study has starkly revealed that the cherished American dream of homeownership is becoming an unattainable fantasy for most families, with a shocking 75% of homes nationwide now out of financial reach for the average household. This alarming finding underscores a deepening national housing crisis, driven by inflationary pressures, burdensome regulations, and policies that undermine the prosperity of hardworking Americans. Restoring economic liberty and sound fiscal policies is essential to ensure that every American family can once again aspire to own their own piece of this nation.",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765270595193-2",
-        "headline": "Tragic Cruise Ship Death Raises Grave Concerns About Both Corporate Negligence and Individual Accountability",
-        "content": "A deeply regrettable incident on a Royal Caribbean cruise has led to a lawsuit following the death of a 35-year-old passenger. While the suit alleges crew members recklessly served an astonishing 33 alcoholic beverages, contributing to the tragedy, this sad event also serves as a stark reminder of the essential balance between corporate responsibility and individual choices. It underscores the need for both businesses and patrons to uphold standards of prudence and self-control.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765270595193-3",
-        "headline": "Runaway Inflation and Overregulation Cripple the American Dream of Homeownership for Most Citizens",
-        "content": "A sobering new study reveals that the cherished American dream of homeownership is becoming an unattainable fantasy for more than three-quarters of our citizens. This distressing reality is a direct consequence of unchecked inflation, burdensome government regulations, and misguided economic policies that inflate housing costs and stifle development, thereby denying hardworking families the opportunity to build equity and secure their financial future, undermining a cornerstone of individual liberty and prosperity.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765270595193-4",
-        "headline": "President Trump Rightly Employs Constitutional Authority to Grant Clemency, Offering Second Chances",
-        "content": "President Trump has commendably utilized his vital constitutional authority to grant clemency, pardoning or commuting the sentences of approximately 100 individuals convicted of drug-related offenses. These actions reflect a principled approach to justice, demonstrating the President's commitment to individual liberty, rehabilitation, and the rectification of unduly harsh penalties, providing deserving Americans the opportunity for a renewed life and reintegration into society.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1765270595193-5",
-        "headline": "Critical Blood Pressure Medication Recall Exposes Gaps in Oversight, Threatening Public Health and Trust",
-        "content": "A widespread recall of crucial blood-pressure medications across the nation has exposed significant failings in oversight, as the FDA discovered an unexpected and potentially dangerous mixture of drug components. This alarming incident jeopardizes the health and well-being of countless Americans, underscoring the vital importance of maintaining stringent standards in pharmaceutical manufacturing and holding companies accountable to protect the public, ensuring that trust in life-saving treatments is never compromised.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765277430256-5",
+        "headline": "Longtime Democrat Congressman Shifts Focus to Local Tarrant County Judicial Race",
+        "content": "U.S. Representative Marc Veasey, a Democrat from a Fort Worth-based district, has made a rather surprising and last-minute decision: he will now pursue the role of Tarrant County judge, choosing this over seeking an eighth term in the nation's capital. Congressman Veasey indicated his motivation stems from a desire to better serve the people of his local county directly, a sentiment that resonates with the importance of strong local governance over the often distant and ineffective federal bureaucracy.",
+        "originalSource": "The Texas Tribune",
+        "sourceUrl": "https://www.texastribune.org/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765270595193-0",
-        "headline": "Supreme Court Expected To Formally Declare President Trump Absolute Monarch Of Entire Federal Bureaucracy",
-        "content": "Legal scholars are reportedly scrambling to update civics textbooks after the Supreme Court signaled its willingness to grant President Trump the unilateral power to fire anyone, anywhere, anytime within the vast federal apparatus. This landmark decision is expected to finally put an end to the pesky concept of \"independent agencies,\" replacing it with a more streamlined \"presidential whim\" model, ensuring maximum efficiency and minimal oversight.",
+        "id": "story-1765277430256-0",
+        "headline": "Supreme Court Contemplates Granting President Trump Omnipotent Powers Over Anything That Moves, Breaths, Or Bureaucratically Exists",
+        "content": "The Supreme Court, in a move widely applauded by anyone who ever wished their government worked faster (or just exactly how they wanted it to), is currently pondering whether President Trump should have the unilateral power to fire anyone in an \"independent\" agency who dares to think independently. This groundbreaking case, which legal scholars are calling \"the ultimate executive makeover,\" could finally resolve the nagging issue of pesky checks and balances, allowing for a streamlined government where all federal bodies operate with the unquestioning obedience of a well-trained puppy, all while simultaneously challenging 90 years of boring precedent.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-1",
+        "headline": "President Trump Generously Offers Farmers $12 Billion After Personally Orchestrating Their 'Exceptionally Difficult Year'",
+        "content": "In a truly magnanimous gesture, President Trump has unveiled a groundbreaking $12 billion aid package designed to help America's struggling farmers recover from an \"exceptionally difficult year\" — a year coincidentally marked by, among other things, the very trade disputes he initiated. Experts are calling it a brilliant new economic strategy: first, create an economic crisis through bold policy decisions, then heroically ride in with a massive cash injection. Farmers, bewildered but grateful, are reportedly already planning their next bumper crop of gratitude.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765277430256-2",
+        "headline": "Renowned Legal Strategist Alina Habba Gracefully Steps Down After Appeals Court Humbly Reminds Her Of Basic Legal Requirements",
+        "content": "Celebrated legal eagle Alina Habba, a lawyer whose reputation for courtroom prowess precedes her, has magnanimously \"resigned\" from her prestigious role as U.S. Attorney for New Jersey. Her departure, described as entirely voluntary and not at all influenced by an appeals court ruling that rather rudely informed her she was actually disqualified from the job, allows her to pursue other equally important, possibly less litigiously scrutinized, endeavors. Sources close to Habba confirmed she left with her head held high, presumably because it's harder to see the disqualification papers that way.",
+        "originalSource": "ABC News",
+        "sourceUrl": "https://abcnews.go.com/Politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-3",
+        "headline": "Royal Caribbean Sued After \"All-Inclusive\" Package Apparently Included 33 Drinks And An Unscheduled Trip To The Afterlife",
+        "content": "A grieving family has filed a lawsuit against Royal Caribbean, alleging that the cruise line's \"all-inclusive\" policy was taken a tad too literally when a 35-year-old passenger was reportedly served a heroic 33 drinks in mere hours. The family claims this epic feat of liquid consumption, which culminated in the passenger's untimely demise (ruled a homicide by authorities), was the result of negligent overserving, not just an enthusiastic embrace of the vacation spirit. Royal Caribbean has yet to comment on their new policy of competitive drinking.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765270595193-1",
-        "headline": "President Trump Gallantly Bails Out Farmers From Self-Inflicted Trade Wounds With $12 Billion Band-Aid",
-        "content": "In a move hailed as both a brilliant strategy and a mild admission of market chaos, President Trump announced a generous $12 billion aid package for American farmers. The money, which experts insist is entirely unrelated to recent trade skirmishes or soaring operational costs, is designed to help agricultural producers navigate the unpredictable currents of a global economy that, coincidentally, just happens to be under current management. \"It's not a subsidy, it's a 'thank you for your patience' gift basket,\" confirmed a spokesperson.",
+        "id": "story-1765277430256-4",
+        "headline": "Groundbreaking Study Reveals Most Americans Cannot Afford Houses That They Also Cannot Afford",
+        "content": "In a stunning exposé that has shocked precisely no one currently attempting to buy a home, a new study has bravely concluded that over 75% of houses in the U.S. are \"unaffordable\" for the average family. Researchers, after spending countless hours meticulously counting how many zeroes were on mortgage statements versus bank accounts, have declared a \"severe national housing affordability crisis.\" This groundbreaking discovery follows centuries of people simply *knowing* they couldn't afford a house, but it's much more official now that it's in a study.",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765270595193-2",
-        "headline": "Cruise Line Sued After Passenger Mysteriously Drowns In Own Stupor Following 33 \"Complimentary\" Beverages",
-        "content": "A grieving family has filed suit against a major cruise operator, alleging that their loved one's untimely demise onboard was directly attributable to the diligent service of 33 alcoholic drinks. Sources close to the investigation suggest the deceased may have simply run out of available organs to process the sheer volume of spirits, prompting calls for cruise lines to consider offering a \"Drink Responsibly (After 30)\" warning label.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765270595193-3",
-        "headline": "New Study Confirms Dreams Of Homeownership Now Exclusively For Royal Bloodlines And Crypto Billionaires",
-        "content": "A groundbreaking new study has revealed that over 75% of homes across the United States are officially unaffordable for anyone earning less than a small country's GDP. Experts suggest that average Americans, once foolishly clinging to the notion of owning a modest dwelling, should now pivot their financial goals towards securing a slightly damp cardboard box or perhaps a very spacious tent.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765270595193-4",
-        "headline": "President Trump's Legendary Compassion Extends To 100 Drug Offenders, Reportedly Just Because He Felt Like It",
-        "content": "An extensive analysis has unveiled President Trump's benevolent streak, as he has generously pardoned or commuted the sentences of nearly 100 individuals convicted of various drug-related offenses during his two terms. Insiders suggest the President, known for his rigorous due diligence, simply felt a powerful urge to release some folks, completely independent of any political considerations or well-defined criteria. \"Sometimes, a guy just wants to make a few people happy,\" stated a source.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1765270595193-5",
-        "headline": "Nation Horrified To Discover Blood Pressure Pills Were Actually Just A Random Assortment Of Whatever Was Lying Around",
-        "content": "A nationwide recall of blood-pressure medication has been initiated after the FDA made a shocking discovery: the pills contained an \"unexpected drug mix,\" which pharmaceutical experts have translated to mean \"a handful of mystery dust and maybe some aspirin.\" Regulators are now urging the public to check their medicine cabinets for any pills that appear to have been assembled by a highly caffeinated toddler in a dark room.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765277430256-5",
+        "headline": "Congressman Abandons Eighth Congressional Term To Pursue Lofty Goal Of Judging County Fair Pie Bake-Offs",
+        "content": "In a move that has baffled political pundits and delighted local courthouse enthusiasts, Democratic U.S. Rep. Marc Veasey has boldly declared he will forgo an easy eighth term in Congress to instead pursue the significantly more challenging, and arguably more impactful, role of Tarrant County judge. Veasey, who will now bravely tackle issues like property line disputes and parking tickets, stated he believes he can \"best serve the people\" by trading the hallowed halls of Washington D.C. for the equally hallowed, albeit smaller, halls of local justice. His constituents are reportedly thrilled to have him back, assuming he remembers how to navigate outside the Beltway.",
+        "originalSource": "The Texas Tribune",
+        "sourceUrl": "https://www.texastribune.org/",
+        "publishedTime": "1 day ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765270595193-0",
-        "headline": "The Supreme Court Might Let President Trump Fire People Easily",
-        "content": "The Supreme Court, which is like the highest court, is thinking about a big decision. They might let President Trump have more power to fire people who work in special government groups. This could change old rules that have been around for almost 90 years and were meant to keep these groups independent, meaning they could do their jobs without too much bossing around.",
+        "id": "story-1765277430256-0",
+        "headline": "The Supreme Court is Thinking About President Trump's Powers.",
+        "content": "The Supreme Court, which is the highest court in the country, is talking about a big problem. They are trying to figure out if President Trump should have more power over some special government groups. These groups, like the FTC, are usually allowed to make their own choices without too much bossing around. The big question is whether President Trump can fire the people who lead these groups whenever he wants. If he can, it would really change how these groups do their important jobs.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-1",
+        "headline": "President Trump Wants to Help Farmers with Lots of Money.",
+        "content": "President Trump said he wants to give American farmers a lot of money, like $12 billion! Farmers have had a really tough year because of problems with selling their crops to other countries and things costing too much. This money package is meant to help them out so they don't lose their farms and can keep growing food for us.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765277430256-2",
+        "headline": "Alina Habba Leaves Her Big Job After Court Says No.",
+        "content": "Alina Habba, who used to be a lawyer for President Trump, had a big job as the main government lawyer in New Jersey. But a different court said she couldn't do that job anymore. So, she had to leave her position right away.",
+        "originalSource": "ABC News",
+        "sourceUrl": "https://abcnews.go.com/Politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-3",
+        "headline": "A Cruise Ship Passenger Died After Drinking Too Much.",
+        "content": "Someone is suing a cruise ship company called Royal Caribbean. They say that the ship's workers gave a grown-up passenger 33 drinks in just a few hours! That's way too many drinks. Sadly, that person died, and the police said it was like a bad accident someone caused. Now, the person's family wants the cruise company to pay because they think the workers weren't careful enough.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765270595193-1",
-        "headline": "President Trump is Giving Farmers a Lot of Money",
-        "content": "President Trump's team said they are giving a huge $12 billion to farmers in America. This money is supposed to help them because they are having a tough time. It's partly because of fights over trading stuff with other countries, and also because things cost a lot more to grow crops, and they worry about how much they can sell their stuff for.",
+        "id": "story-1765277430256-4",
+        "headline": "Most Homes Are Too Expensive for Regular Families.",
+        "content": "A new report says that most houses in America cost too much money for regular families to buy. More than three out of four homes are just too expensive for people who earn an average amount of money. This means it's getting really hard for families to find a place they can afford to live in.",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765270595193-2",
-        "headline": "A Man Drank Way Too Much and Died on a Cruise Ship",
-        "content": "A sad story happened on a Royal Caribbean cruise ship. A man, who was 35, died, and his family is suing the company. They say that the people working on the ship kept giving him too many drinks, like 33 of them, and that's why he passed away.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765270595193-3",
-        "headline": "Most Houses in America Are Too Expensive to Buy",
-        "content": "A new report says that most houses in the United States cost too much money for regular people to buy. They found that more than 3 out of 4 houses for sale right now are too expensive for what most people earn.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765270595193-4",
-        "headline": "President Trump Let About 100 People Out of Trouble for Drug Crimes",
-        "content": "It looks like President Trump has helped almost 100 people who were in trouble because of drug crimes. He either pardoned them, which means they are forgiven, or he made their punishment shorter. He did this during his time as president.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1765270595193-5",
-        "headline": "Bad Stuff Found in Some Blood Pressure Medicine, So It's Being Taken Back",
-        "content": "Some medicine that helps with blood pressure is being taken off the shelves everywhere in the country. The FDA, which makes sure medicines are safe, found out that some of these pills had a weird and possibly harmful mix of ingredients inside them.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765277430256-5",
+        "headline": "Lawmaker Marc Veasey Wants a Different Job to Help His Town.",
+        "content": "Marc Veasey, who is a lawmaker in Washington D.C., decided to do something different! Instead of trying to get elected to Congress for the eighth time, he wants to become a judge for Tarrant County. He said he thinks he can help the people in his local area better if he has this new job.",
+        "originalSource": "The Texas Tribune",
+        "sourceUrl": "https://www.texastribune.org/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765270595193-0",
-        "headline": "A Shift in Power's Balance",
-        "content": "The marble halls of justice whispered with anticipation. Arguments concluded, hinting at a seismic shift in the nation's balance of power. For nearly a century, independent agencies had stood as bulwarks, their members shielded from direct presidential whim. Now, the highest court seemed poised to grant President Trump an unprecedented authority: the power to summarily dismiss those appointed to oversee these very bodies. If affirmed, this ruling would unravel decades of established precedent, cementing a more expansive executive reach, a singular hand guiding every bureaucratic lever. A new era of presidential oversight loomed.",
+        "id": "story-1765277430256-0",
+        "headline": "The Shifting Sands of Authority",
+        "content": "A profound legal tremor rippled through the nation's capital. Inside the Supreme Court, arguments unfolded that could shatter ninety years of established precedent, drastically expanding presidential authority. The core issue: President Trump’s potential power to unilaterally remove members of independent federal bodies like the Federal Trade Commission. This judicial decision threatens the operational independence of numerous agencies, potentially centralizing immense power within the executive branch. The very architecture of governmental checks and balances hangs in the air, awaiting a verdict that promises to redefine the boundaries of the presidency and reshape how the government functions at its highest levels.",
         "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-1",
+        "headline": "A Harvest of Hope",
+        "content": "The fields had seen better days. Droughts, tariffs, and volatile markets had conspired against American farmers, making the past year an 'exceptionally difficult' one. Amidst the dust and despair, a beacon emerged from Washington. President Trump unveiled a substantial $12 billion aid package, a lifeline extended to the agricultural sector. This financial injection, he declared, was critical to mitigate the severe economic strain caused by ongoing trade disputes and fluctuating prices. For many, it represented a vital promise of relief, a chance to weather the storm and plant seeds of hope for seasons yet to come.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765277430256-2",
+        "headline": "The Judge's Unfurling Scroll",
+        "content": "The legal world watched as the scroll of justice unraveled for Alina Habba. Her tenure as U.S. Attorney for New Jersey came to an abrupt and unexpected end. Following a definitive ruling by an appeals court, she was deemed disqualified from continuing her service as the state's chief federal prosecutor. The decision was final, leaving no room for recourse. The office, once her domain, now stood vacant, awaiting a new occupant. It was a swift departure, a professional chapter closed by the unyielding hand of legal precedent, leaving a void in New Jersey's federal legal landscape.",
+        "originalSource": "ABC News",
+        "sourceUrl": "https://abcnews.go.com/Politics/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765277430256-3",
+        "headline": "The Reckoning Beneath the Waves",
+        "content": "A luxury cruise turned into a tragedy, now the subject of a somber lawsuit. Royal Caribbean faces allegations of gross negligence after a 35-year-old passenger died on board. The lawsuit claims crew members served the individual an astounding 33 drinks within a few hours. The subsequent death was tragically ruled a homicide, prompting the victim's family to seek justice. The deep blue sea, often a symbol of escape and pleasure, became the backdrop for a harrowing tale of excess and alleged oversight, now demanding accountability from the cruise line for their role in the devastating incident.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us/",
         "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765270595193-1",
-        "headline": "Sowing Seeds of Solace",
-        "content": "Dust swirled across endless fields, a metaphor for the anxieties gripping America's heartland. Farmers, once pillars of self-reliance, now faced an uncertain harvest, caught in the crosscurrents of global trade disputes and ever-rising costs. Their livelihoods, the very soil beneath their boots, felt precarious. Then, a balm from the capital: President Trump’s administration confirmed a substantial $12 billion assistance package. It was a lifeline, intended to ease the strain, to steady the tractor through volatile markets and commodity price fears, offering a temporary reprieve in the struggle for survival.",
+        "id": "story-1765277430256-4",
+        "headline": "The Unattainable Key",
+        "content": "The dream of homeownership, once an American cornerstone, now feels like a distant mirage for millions. A new study reveals a stark reality: over 75% of homes across the U.S. are financially out of reach for the average household. The figures paint a grim picture of a deepening national crisis, where rising costs and stagnant wages create an insurmountable barrier for families hoping to secure a place to call their own. The housing market, once a ladder to prosperity, has become a locked door, leaving many to wonder if they'll ever hold the key to their own home.",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765270595193-2",
-        "headline": "The Final Toast",
-        "content": "The glittering waves of the Caribbean masked a darker current beneath. What began as a joyous escape for a 35-year-old man ended in tragedy, his laughter silenced by the very indulgence the cruise ship offered. His family, shattered, now sought answers, their grief manifesting in a lawsuit against Royal Caribbean. They claimed a horrifying negligence: crew members, it was alleged, had continued to pour, serving a staggering thirty-three alcoholic beverages. Each drink was a step closer to the abyss, culminating in a death that needn't have been, a vacation turned into a watery grave.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765270595193-3",
-        "headline": "The Vanishing Dream",
-        "content": "The white picket fence, once an emblem of the American dream, felt increasingly like a mirage. For countless hopefuls, the path to homeownership had become an uphill climb against an invisible current. A stark new study painted a bleak picture: over three-quarters of all houses listed for sale nationwide were now financially out of reach for average earners. The dream, once within grasp, receded further with each passing year, replaced by the crushing weight of rising prices and stagnant wages. The keys to one's own door seemed to vanish into an unaffordable ether.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/",
-        "publishedTime": "8 hours ago"
-      },
-      {
-        "id": "story-1765270595193-4",
-        "headline": "A Second Chance's Echo",
-        "content": "In the intricate dance of justice and mercy, President Trump wielded his executive power, offering a rare second chance to many. Across his two terms in office, a quiet analysis revealed a significant pattern: nearly one hundred individuals, whose lives were marked by drug-related offenses, received clemency. Some were granted full pardons, wiping away past convictions, while others saw their lengthy sentences commuted, opening prison gates to an unexpected freedom. It was a testament to the power of the presidential pen, rewriting destinies, offering a path to rehabilitation that had once seemed impossible.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "A few hours ago"
-      },
-      {
-        "id": "story-1765270595193-5",
-        "headline": "The Unseen Threat",
-        "content": "The familiar routine of a morning pill, meant to safeguard health, suddenly transformed into a source of silent dread. Across the nation, a chilling announcement echoed: specific batches of vital blood-pressure medication were being recalled. The FDA, vigilant guardians of public safety, had uncovered a dangerous secret within the capsules. An unexpected, potentially harmful cocktail of drug components had contaminated the batches, turning a therapeutic promise into an unseen threat. Patients worldwide held their breath, wondering if their daily dose had been a cure, or a hidden poison.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "4 hours ago"
+        "id": "story-1765277430256-5",
+        "headline": "A New Path for Public Service",
+        "content": "From the halls of Congress to the local courthouse, a surprising pivot emerged in Texas politics. U.S. Representative Marc Veasey, a Democrat with a long-standing presence in Washington, announced an unexpected decision. Instead of pursuing an eighth term in Congress, he would instead run for Tarrant County judge. Veasey articulated his choice as a desire to serve his constituents closer to home, believing his impact could be more direct and personal at the local level. It marked a significant shift for the seasoned politician, exchanging national debates for the grounded realities of county-level justice.",
+        "originalSource": "The Texas Tribune",
+        "sourceUrl": "https://www.texastribune.org/",
+        "publishedTime": "1 day ago"
       }
     ]
   }
