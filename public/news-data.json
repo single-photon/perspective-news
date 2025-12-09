@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765233695017,
+  "timestamp": 1765251860664,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765233623460-0",
-        "headline": "Supreme Court Poised to Undermine Checks and Balances by Granting President Unchecked Power Over Critical Regulatory Agencies",
-        "content": "The Supreme Court is alarmingly positioned to expand presidential power, potentially eroding the independence of crucial regulatory bodies like the FTC that are designed to protect the public from corporate abuses and market failures. Arguments heard by the justices suggest a willingness to overturn a nearly century-old precedent, which could allow President Trump to dismiss officials from these independent agencies without cause, thereby consolidating executive control and threatening the integrity of consumer and environmental protections. This move risks dismantling essential safeguards against unchecked presidential authority and corporate influence.",
+        "id": "story-1765251780518-0",
+        "headline": "Supreme Court Considers Major Expansion of Presidential Power, Threatening Independent Agency Oversight",
+        "content": "The nation's highest court has begun considering arguments in a pivotal legal battle that could dramatically broaden executive authority, enabling President Trump to unilaterally dismiss officials from independent government agencies. This potential ruling directly challenges nearly a century of legal precedent designed to insulate these crucial public bodies from direct political interference, raising serious concerns about the future of governmental checks and balances and the safeguarding of public interests against executive overreach.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-hears-arguments-on-trumps-power-over-independent-agencies",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-1",
+        "headline": "President Trump Offers Billions in Aid to Farmers Amidst Self-Inflicted Trade War Consequences",
+        "content": "President Trump has unveiled a $12 billion aid initiative aimed at assisting U.S. farmers, following what many describe as an 'exceptionally difficult year' largely exacerbated by his administration's own trade policies. This financial intervention, while offering temporary relief, highlights the systemic vulnerabilities within the agricultural sector, where family farms struggle under the weight of market volatility and international trade conflicts, demanding more comprehensive and sustainable solutions than short-term subsidies.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/nation/trump-proposes-12-billion-in-aid-to-farmers-after-exceptionally-difficult-year",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-2",
+        "headline": "Lawsuit Alleges Corporate Negligence Led to Passenger's Tragic Death on Cruise Ship",
+        "content": "A disturbing lawsuit has emerged against Royal Caribbean, accusing the cruise line of corporate negligence after its crew allegedly served 35-year-old passenger Michael Virgil an egregious 33 alcoholic beverages within hours, directly resulting in his death. The legal action asserts that staff continued to provide drinks despite clear and overt signs of severe intoxication, pointing to a systemic failure within the company to prioritize passenger safety over unchecked profit motives, demanding greater accountability in the hospitality sector.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/passenger-who-died-on-cruise-ship-was-served-33-drinks-lawsuit-claims/",
+        "publishedTime": "56 minutes ago"
+      },
+      {
+        "id": "story-1765251780518-3",
+        "headline": "President Trump Authorizes Critical AI Chip Sales to China Amidst Shifting Geopolitical Strategy",
+        "content": "President Trump has greenlit the sale of sophisticated Nvidia computer chips, vital for advanced artificial intelligence development, to China. This policy shift rolls back prior restrictions on high-tech exports to Beijing, raising questions about the administration's fluctuating approach to international technological competition and national security. Critics suggest this decision may prioritize short-term economic gains for corporations over a consistent long-term strategy for U.S. technological leadership and human rights considerations in AI development.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-4",
+        "headline": "Systemic Housing Crisis Renders Homeownership Unattainable for Vast Majority of Americans",
+        "content": "A sobering new report reveals that the bedrock dream of homeownership is now fundamentally out of reach for over 75% of Americans nationwide. This stark finding underscores a deepening systemic housing crisis, where soaring property values fueled by speculation and corporate investment, coupled with prohibitive interest rates, are actively shutting out working-class families and perpetuating wealth inequality, demanding urgent policy interventions to treat housing as a human right, not merely a commodity.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/more-than-75-of-homes-across-the-u-s-are-unaffordable-study-finds/",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-5",
+        "headline": "Police Report Condemns Representative Nancy Mace's Abusive Public Behavior at Airport",
+        "content": "A police investigation has definitively concluded that Representative Nancy Mace was responsible for a 'profanity-laced' public outburst at Charleston International Airport, transforming a minor issue into an egregious 'spectacle.' This incident involving the South Carolina Republican raises critical questions about the conduct expected from public servants and highlights a disturbing trend of entitled behavior by political figures, underscoring the need for greater accountability and respect for public decorum, especially from those in positions of power.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1765233623460-1",
-        "headline": "President Trump's $12 Billion Farmer Bailout Fails to Address Systemic Failures of Reckless Trade Wars",
-        "content": "President Trump has announced a $12 billion financial aid package for the American agricultural sector, a move that critics argue offers a temporary fix for the severe economic damage inflicted on farmers by his administration's own escalating trade disputes and tariffs, especially with China. This handout attempts to mitigate the immediate suffering caused by a trade war that has disrupted global markets and jeopardized farmers' livelihoods and long-term stability, rather than addressing the root causes or implementing sustainable solutions for an equitable global trade system. The aid package, while seemingly supportive, underscores the devastating impact of protectionist policies on vulnerable communities.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-2",
-        "headline": "Media Monopolies Threaten Consumer Choice and Content Diversity as Paramount Pursues Massive $108 Billion Takeover",
-        "content": "The media landscape faces further consolidation as Paramount launches a hostile $108.4 billion bid for Warner Bros. Discovery, challenging a recent $83 billion merger announcement between Warner Bros. Discovery and Netflix. This aggressive move signals an alarming trend towards massive corporate conglomeration within the entertainment industry, threatening to reduce competition, stifle independent voices, and limit the diversity of content available to consumers. Such colossal mergers often lead to job losses, increased prices, and a narrowing of perspectives, further concentrating power in the hands of a few corporate giants.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "now"
-      },
-      {
-        "id": "story-1765233623460-3",
-        "headline": "Former Personal Lawyer to President Trump Vacates U.S. Attorney Post in New Jersey After Legal Complications",
-        "content": "Alina Habba, who previously served as a personal lawyer to President Trump, has officially resigned from her temporary appointment as the U.S. Attorney for New Jersey. Her departure comes after a complex court ruling created significant legal obstacles to her continued service as the state's top federal prosecutor, raising questions about the appropriateness and challenges of political appointments in roles requiring strict impartiality and adherence to legal precedent. This episode highlights ongoing concerns regarding the politicization of crucial justice system roles.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/newshour/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-4",
-        "headline": "Democrat Colin Allred Prioritizes Party Unity, Shifts Focus to Contested House Seat Amidst Challenging Political Landscape",
-        "content": "Democrat Colin Allred has strategically withdrawn from the Texas Senate race, choosing instead to pursue a redrawn House seat. This decision, made to prevent a divisive and expensive Senate primary, underscores a commitment to fostering party unity in the face of conservative opposition and maximizing opportunities for progressive representation. Supporters believe this move will strengthen the party's overall position in Texas, allowing for a more focused effort to address systemic inequalities and advance community-centered policies.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765233623460-5",
-        "headline": "Ukrainian President Zelensky Upholds National Sovereignty, Rejects Imperialist Demands for Territorial Concessions",
-        "content": "Ukrainian President Volodymyr Zelensky has firmly rejected any notion of ceding national territory to Russia as a condition for peace, a stance that champions international law and self-determination against aggressive expansionism. This declaration effectively dismantles a recent plan proposed by President Trump to end the conflict, a proposal widely criticized for appearing to validate Russian President Vladimir Putin's imperialistic ambitions and undermining the foundational principles of national sovereignty and territorial integrity. Zelensky's resolve reinforces the global call for justice and an end to unprovoked aggression.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "47 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/08/nancy-mace-police-investigation-airport-tirade/",
+        "publishedTime": "Earlier today"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765233623460-0",
-        "headline": "Supreme Court Appears Poised to Expand President's Power to Fire Independent Agency Officials",
-        "content": "The Supreme Court heard arguments in a case testing the limits of the President's authority. The justices seemed likely to rule in favor of expanding the President's power, potentially allowing him to fire members of independent regulatory bodies like the FTC without cause, overturning a nine-decade-old precedent.",
+        "id": "story-1765251780518-0",
+        "headline": "Supreme Court hears arguments on Trump's power over independent agencies",
+        "content": "The Supreme Court heard arguments in a landmark legal case that could significantly expand presidential powers by allowing the president to remove members of independent government agencies. This challenge jeopardizes 90 years of established precedent, which has kept these agencies free from direct presidential dismissal, potentially reshaping the structure of the federal government and executive branch control.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-hears-arguments-on-trumps-power-over-independent-agencies",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-1",
+        "headline": "Trump proposes $12 billion in aid to farmers after 'exceptionally difficult year'",
+        "content": "President Trump announced a new $12 billion aid package intended to support U.S. farmers following what he described as an \"exceptionally difficult year.\" The proposed financial assistance aims to help the agricultural sector mitigate economic challenges stemming from various factors, including ongoing trade disputes and unpredictable market conditions affecting key commodities.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/nation/trump-proposes-12-billion-in-aid-to-farmers-after-exceptionally-difficult-year",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-2",
+        "headline": "Passenger who died on cruise ship was served 33 drinks, lawsuit claims",
+        "content": "A lawsuit has been filed against Royal Caribbean, alleging that crew members \"negligently\" overserved a 35-year-old passenger, Michael Virgil, with 33 alcoholic drinks in a matter of hours, leading to his death. The suit claims the staff continued serving him despite him showing obvious signs of extreme intoxication while aboard the cruise ship.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/passenger-who-died-on-cruise-ship-was-served-33-drinks-lawsuit-claims/",
+        "publishedTime": "56 minutes ago"
+      },
+      {
+        "id": "story-1765251780518-3",
+        "headline": "Trump approves sale of more advanced Nvidia computer chips used in AI to China",
+        "content": "President Trump approved the sale of more advanced Nvidia computer chips to China, which are essential components used in developing artificial intelligence technology. This decision eases previous restrictions on high-tech exports to Beijing, a move that comes amidst ongoing tensions and debate over technological competition and national security interests between the two global powers.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-4",
+        "headline": "More than 75% of homes across the U.S. are unaffordable, study finds",
+        "content": "A new study indicates that homeownership has become unaffordable for more than 75% of Americans across the country. The findings highlight a significant and growing housing crisis, where escalating property prices combined with high interest rates are pushing the dream of owning a home out of reach for a vast majority of potential buyers.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/more-than-75-of-homes-across-the-u-s-are-unaffordable-study-finds/",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-5",
+        "headline": "Police investigation faults Rep. Nancy Mace for profanity-laced airport tirade",
+        "content": "A police report concluded that Representative Nancy Mace was at fault for a \"profanity-laced\" tirade at Charleston International Airport, finding she turned a \"minor miscommunication\" with police into a public \"spectacle.\" The incident involving the South Carolina Republican has drawn public scrutiny and raised questions about conduct in public settings.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1765233623460-1",
-        "headline": "Trump Announces $12 Billion Aid Package for U.S. Farmers Hit by China Trade War",
-        "content": "President Trump unveiled a $12 billion financial aid package intended to support the American agricultural sector. The move comes as U.S. farmers have been severely affected by ongoing trade disputes and tariffs, particularly with China, which have impacted their crops and buyers.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-2",
-        "headline": "Paramount Launches Hostile $108 Billion Bid for Warner Bros. Discovery",
-        "content": "Paramount launched a competitive and hostile $108.4 billion bid for Warner Bros. Discovery. This challenge comes days after Warner Bros. Discovery and Netflix announced a massive $83 billion merger deal, signalling a potential major shake-up in the media and entertainment industry.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "now"
-      },
-      {
-        "id": "story-1765233623460-3",
-        "headline": "Alina Habba Resigns as U.S. Attorney for New Jersey Following Court Ruling",
-        "content": "Alina Habba, a former personal lawyer to President Trump, officially resigned from her temporary role as the U.S. Attorney for New Jersey. Her departure followed a complex court ruling that complicated her ability to continue serving as the top federal prosecutor in the state.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/newshour/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-4",
-        "headline": "Former Rep. Colin Allred Drops Texas Senate Bid to Run for Redrawn House Seat",
-        "content": "Democrat Colin Allred, who recently lost a Senate bid, announced his withdrawal from the Texas Senate race, opting instead to run for a redrawn House seat. This decision was made to avoid a potentially bruising and costly Senate primary that his supporters worried could threaten party unity in the state.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765233623460-5",
-        "headline": "Ukrainian President Zelensky Rules Out Ceding Territory to Russia",
-        "content": "Ukrainian President Volodymyr Zelensky unequivocally ruled out ceding any territory to Russia as a condition for peace. His declaration effectively collapses a recent plan proposed by former President Trump to end the war, which critics condemned as fulfilling Russian President Vladimir Putin's wishes.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "47 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/08/nancy-mace-police-investigation-airport-tirade/",
+        "publishedTime": "Earlier today"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765233623460-0",
-        "headline": "Supreme Court Moves to Restore Presidential Authority Over Bureaucratic Agencies",
-        "content": "The Supreme Court heard crucial arguments regarding the President's constitutional authority, indicating a potential ruling to empower the President to hold independent agency officials accountable. This shift would allow the chief executive to remove unelected bureaucrats from bodies like the FTC without undue hindrance, a vital step in reasserting executive oversight and potentially overturning a long-standing impediment to effective governance.",
+        "id": "story-1765251780518-0",
+        "headline": "Supreme Court Considers Restoring Constitutional Authority to President Trump Over Bureaucratic Agencies.",
+        "content": "The Supreme Court recently heard pivotal arguments in a case that could reassert presidential control over entrenched independent government agencies, challenging nearly a century of precedent that has allowed these bodies to operate largely free from direct executive accountability. This potential shift promises to restore proper constitutional balance, ensuring that elected officials, rather than unelected bureaucrats, direct the federal government in accordance with the will of the people and principles of liberty.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-hears-arguments-on-trumps-power-over-independent-agencies",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-1",
+        "headline": "President Trump Champions American Farmers with Essential Aid Package Amidst Global Economic Headwinds.",
+        "content": "President Trump announced a robust $12 billion aid package, a vital lifeline for America's farmers who have navigated an \"exceptionally difficult year.\" This crucial financial assistance underscores President Trump's unwavering commitment to the backbone of our nation, ensuring the resilience and prosperity of the agricultural sector against challenges stemming from global trade dynamics and unpredictable market forces. It is a testament to his dedication to putting American producers first.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/nation/trump-proposes-12-billion-in-aid-to-farmers-after-exceptionally-difficult-year",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-2",
+        "headline": "Tragedy Strikes on Cruise as Lawsuit Alleges Gross Negligence and Lack of Personal Responsibility.",
+        "content": "A grave lawsuit has been filed against Royal Caribbean, asserting that its crew members flagrantly overserved a 35-year-old passenger, Michael Virgil, with an astonishing 33 alcoholic drinks, tragically leading to his death. The legal action contends that staff continued to provide alcohol despite clear evidence of extreme intoxication, raising serious questions about corporate accountability and the individual choices that contribute to such unfortunate outcomes.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/passenger-who-died-on-cruise-ship-was-served-33-drinks-lawsuit-claims/",
+        "publishedTime": "56 minutes ago"
+      },
+      {
+        "id": "story-1765251780518-3",
+        "headline": "President Trump Balances Economic Growth and National Interests with Strategic Tech Sales to China.",
+        "content": "President Trump has authorized the sale of advanced Nvidia computer chips, crucial for artificial intelligence development, to China. This pragmatic decision signals a strategic re-evaluation of high-tech export policies, demonstrating President Trump's commitment to fostering American economic strength and innovation while carefully navigating the complex geopolitical landscape. It balances the imperative of commercial liberty with ongoing national security considerations.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-4",
+        "headline": "American Dream Slipping Away: High Prices and Reckless Policies Render Homeownership Unattainable for Many.",
+        "content": "A recent study reveals a distressing reality: homeownership has become an unreachable dream for over 75% of Americans, as escalating property values and soaring interest rates continue to squeeze prospective buyers. This escalating crisis highlights the detrimental effects of inflationary government policies and burdensome regulations that stifle growth and erode the fundamental opportunity for families to build wealth and secure their liberty through property ownership.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/more-than-75-of-homes-across-the-u-s-are-unaffordable-study-finds/",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-5",
+        "headline": "Representative Nancy Mace Faces Scrutiny After Airport Incident Underscores Need for Public Decorum.",
+        "content": "A police investigation concluded that Representative Nancy Mace was at fault for a \"profanity-laced\" outburst at Charleston International Airport, transforming a minor misunderstanding with authorities into a public \"spectacle.\" This incident involving the South Carolina Republican serves as a stark reminder of the importance of maintaining a dignified demeanor and upholding public decorum for all elected officials, reflecting the high standards expected of those in public service.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1765233623460-1",
-        "headline": "President Trump Delivers Essential Support to American Farmers Battling Unfair Chinese Trade Practices",
-        "content": "President Trump announced a critical $12 billion aid package, a decisive measure to bolster the backbone of our nation: American agriculture. This vital support directly addresses the challenges faced by our hardworking farmers, who have been disproportionately affected by the necessary trade recalibrations with China, ensuring they can continue to feed our nation despite global economic pressures.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-2",
-        "headline": "Media Giants Engage in Billion-Dollar Battle for Dominance as Paramount Challenges Warner Bros. Discovery",
-        "content": "In a move that signals intense competition in the media landscape, Paramount has unleashed a formidable $108.4 billion hostile bid for Warner Bros. Discovery. This bold challenge follows closely on the heels of a massive $83 billion merger announcement between Warner Bros. Discovery and Netflix, setting the stage for a dramatic consolidation and realignment within the entertainment industry.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "now"
-      },
-      {
-        "id": "story-1765233623460-3",
-        "headline": "Alina Habba Steps Down from U.S. Attorney Role in New Jersey Amidst Bureaucratic Hurdles",
-        "content": "Alina Habba, a dedicated legal professional and former counsel to President Trump, has resigned from her interim position as the U.S. Attorney for New Jersey. Her departure comes after a convoluted court ruling created unnecessary complications, effectively hindering her ability to continue serving the state as its chief federal prosecutor and denying the public her expertise.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/newshour/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-4",
-        "headline": "Democrat Colin Allred Abandons Texas Senate Race for Safer House Seat, Prioritizing Party Unity",
-        "content": "Democrat Colin Allred, having recently faced electoral defeat, has tactically withdrawn from the Texas Senate contest. He has instead chosen to pursue a campaign for a newly drawn House seat, a move reportedly made to circumvent a challenging and expensive Senate primary, thereby prioritizing the fragile unity of his party over a robust, competitive political process.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765233623460-5",
-        "headline": "Ukrainian Leader Rejects Pragmatic Peace Proposals, Insists on Uncompromising Stance Against Russia",
-        "content": "Ukrainian President Volodymyr Zelensky has firmly declared that his nation will not surrender any territory to Russia as a condition for peace. This resolute stance effectively dismisses a recent diplomatic initiative put forth by President Trump, which aimed to facilitate an end to the conflict and restore stability, leaving the path to resolution uncertain.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "47 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/08/nancy-mace-police-investigation-airport-tirade/",
+        "publishedTime": "Earlier today"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765233623460-0",
-        "headline": "Supreme Court Considers Granting President Power To Fire Anyone Who Looks At Him Funny",
-        "content": "In a landmark hearing, the Supreme Court appeared eager to update the nation's \"You're Fired!\" regulations, potentially allowing the President to dismiss independent agency officials for reasons ranging from \"ideological incompatibility\" to \"wearing clashing socks.\" Legal scholars gasped as the nine-decade-old concept of \"cause\" seemed poised to join the dodo bird in the annals of history, clearing the path for a truly unencumbered executive branch where even the Federal Trade Commission might have to start bringing him coffee.",
+        "id": "story-1765251780518-0",
+        "headline": "Supreme Court Grapples With Unprecedented Question: Can President Trump Just Fire Everyone?",
+        "content": "In a stunning display of judicial contemplation, the Supreme Court is currently wrestling with whether President Trump can simply declare all those pesky independent agencies *his* personal independent agencies, complete with the right to fire anyone who doesn't immediately agree with his lunch order. Legal scholars are aghast, pointing out that 90 years of 'not letting the president fire everyone whenever he feels like it' might suddenly be out of fashion, paving the way for a truly efficient, one-person federal government.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-hears-arguments-on-trumps-power-over-independent-agencies",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-1",
+        "headline": "President Trump Bails Out Farmers From ‘Unforeseen’ Trade Troubles, Just Kidding, We All Saw It Coming.",
+        "content": "President Trump, in a move hailed as both 'generous' and 'highly anticipated given recent policy decisions,' has unveiled a $12 billion aid package for farmers. The announcement comes after what President Trump charitably termed an 'exceptionally difficult year,' a year mysteriously plagued by 'various factors' that definitely had nothing to do with, say, ongoing trade disputes or unpredictable market conditions which may or may not have been influenced by aforementioned disputes. Farmers across the nation are reportedly thrilled to receive a band-aid for the bullet wound.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/nation/trump-proposes-12-billion-in-aid-to-farmers-after-exceptionally-difficult-year",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-2",
+        "headline": "Cruise Line Sued After Passenger Experiences Fullest Extent Of 'All-Inclusive' Package With 33 Drinks.",
+        "content": "Royal Caribbean is currently facing a lawsuit alleging that one of its passengers, Michael Virgil, received such an unparalleled level of 'customer satisfaction' that he was served 33 alcoholic beverages within hours, tragically leading to his demise. The suit claims that despite Mr. Virgil's increasingly visible transformation into a human liquid measurement device, staff heroically maintained their beverage service, ensuring he experienced the absolute pinnacle of their 'unlimited drink' policy.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/passenger-who-died-on-cruise-ship-was-served-33-drinks-lawsuit-claims/",
+        "publishedTime": "56 minutes ago"
+      },
+      {
+        "id": "story-1765251780518-3",
+        "headline": "President Trump Greenlights AI Chip Sale To China, Prioritizing Cash Over National Security, Or Maybe It’s Super Strategic?",
+        "content": "In a move that has left geopolitical analysts scratching their heads and economists doing celebratory cartwheels, President Trump has reportedly given the thumbs-up for the sale of advanced Nvidia AI chips to China. This decision, which miraculously eases previous restrictions on high-tech exports, comes amidst a continuous global debate over technological competition and national security, proving once and for all that a good old-fashioned sale can smooth over *any* international tension.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-4",
+        "headline": "Groundbreaking Study Reveals 75% Of Americans Unable To Afford Home, Advise Buying A Tent Instead.",
+        "content": "A recent study has dropped a bombshell, revealing that the 'American Dream' of homeownership is now apparently a luxury reserved for the top 25% of the population, leaving a staggering 75% of hopeful buyers out in the cold (literally, in some cases). Experts suggest that escalating property prices and interest rates have simply made the concept of a 'house' a quaint historical artifact, recommending that citizens embrace the freedom of mobile living or consider purchasing a very sturdy cardboard box.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/more-than-75-of-homes-across-the-u-s-are-unaffordable-study-finds/",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-5",
+        "headline": "Rep. Nancy Mace's Airport 'Miscommunication' Deemed \"Pulitzer-Worthy Performance Art\" By Police Report.",
+        "content": "A police investigation has definitively concluded that Representative Nancy Mace was the lead performer in a 'profanity-laced spectacle' at Charleston International Airport, transforming what officers optimistically called a 'minor miscommunication' into a full-blown, public theatrical production. The South Carolina Republican's dramatic airport monologue has sparked widespread debate, mainly concerning whether such raw, unfiltered emotion is truly suitable for public consumption, or if it should be reserved for a premium pay-per-view event.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1765233623460-1",
-        "headline": "President Trump Generously Offers Farmers $12 Billion To Repair Damage Caused By His Own Policies",
-        "content": "With a flourish befitting a superhero saving his own sidekick from an ill-conceived trap, President Trump announced a staggering $12 billion aid package for U.S. farmers. The generous handout is designed to \"smooth things over\" after the agricultural sector's crops and livelihoods were spectacularly decimated by the ongoing trade disputes, which, coincidentally, were a direct result of the current administration's bold economic strategies. \"It's a beautiful cycle,\" explained one anonymous White House aide, \"first we break it, then we fix it, then everyone loves us again.\"",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-2",
-        "headline": "Paramount Declares Open War, Offers $108 Billion To Stop Netflix From Hoarding All The Good Shows",
-        "content": "In a move that sent shockwaves through the already-fragile attention spans of global consumers, Paramount initiated a \"hostile\" $108 billion bid for Warner Bros. Discovery. This daring maneuver comes hot on the heels of Warner Bros. Discovery's cozy $83 billion engagement with Netflix, effectively transforming the entertainment landscape into a frantic, high-stakes game of content-hungry musical chairs. Industry insiders predict that soon, every single movie, show, and even your grandmother's home videos will be owned by a single, monolithic streaming entity, leaving humanity with one app, one bill, and zero options.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "now"
-      },
-      {
-        "id": "story-1765233623460-3",
-        "headline": "Alina Habba Gracefully Steps Aside From Temporary Role After Court Reminds Her Of Basic Legal Requirements",
-        "content": "Alina Habba, famously known for her previous legal work with President Trump, has \"relinquished\" her fleeting tenure as U.S. Attorney for New Jersey. Her departure was precipitated by a \"complex\" court ruling that, to the astonishment of absolutely no one, made it rather challenging for her to continue as the state's top federal prosecutor without, you know, meeting the actual criteria for the job. Sources close to the situation confirm the court's decision was less a legal labyrinth and more a gentle nudge reminding everyone how the justice system typically operates.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/newshour/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-4",
-        "headline": "Politician Masterfully Dodges Likely Defeat By Running For Easier Seat",
-        "content": "In a dazzling display of political agility, Democrat Colin Allred, fresh off a recent Senate bid that somehow didn't quite pan out, has announced his strategic withdrawal from the current Texas Senate race. Instead, he will bravely pivot to a newly redrawn House seat, a move his loyal supporters insist is a genius play to \"avoid a bruising and costly primary\" rather than, say, a tactical retreat from a potentially uncomfortable electoral smackdown. The party, meanwhile, breathes a collective sigh of relief, narrowly avoiding the terrifying prospect of having to unite around a single candidate.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765233623460-5",
-        "headline": "Zelensky Stubbornly Refuses President Trump's Genius Peace Plan, Prefers War To Giving Up His Own Country",
-        "content": "Ukrainian President Volodymyr Zelensky, in a move that baffled proponents of straightforward conflict resolution, unequivocally declared that he would absolutely not cede any Ukrainian territory to Russia as a condition for \"peace.\" This surprising stance has, perhaps inconveniently, shattered a recent, brilliantly simple peace proposal from President Trump, which many critics had already hailed as a surprisingly efficient way to fulfill Russian President Vladimir Putin's long-standing territorial aspirations with minimal fuss. Apparently, some people just don't want peace if it involves losing their entire backyard.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "47 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/08/nancy-mace-police-investigation-airport-tirade/",
+        "publishedTime": "Earlier today"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765233623460-0",
-        "headline": "The Supreme Court Might Let the President Fire More People",
-        "content": "The highest court in America, called the Supreme Court, is thinking about a big decision. It looks like they might say that President Trump can fire people who work in special government groups, even if they haven't done anything wrong. These groups, like the FTC, are supposed to be separate from the President. If this happens, it would change a rule that has been around for 90 years.",
+        "id": "story-1765251780518-0",
+        "headline": "The Supreme Court is Thinking About President Trump's Special Powers",
+        "content": "The most important court, the Supreme Court, is having big discussions. They are trying to decide if President Trump should be allowed to fire people who work in some special government groups. Right now, presidents usually can't just fire these people because these groups are supposed to be separate. If President Trump could fire them, it would be a huge change to how our government has worked for almost 90 years.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-hears-arguments-on-trumps-power-over-independent-agencies",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-1",
+        "headline": "President Trump Wants to Give Farmers Lots of Money",
+        "content": "President Trump said he wants to give American farmers a huge amount of money, like $12 billion! He said farmers have had a really tough year. This money is supposed to help them with their problems, like when it's hard to sell their crops or when things cost too much.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/nation/trump-proposes-12-billion-in-aid-to-farmers-after-exceptionally-difficult-year",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-2",
+        "headline": "A Man on a Cruise Ship Drank Too Much and Sadly Died",
+        "content": "This is a really sad story about a man named Michael Virgil who was on a cruise ship. Someone is suing the cruise company, Royal Caribbean, because they say the workers kept giving him lots and lots of drinks, like 33 of them! They say the workers shouldn't have done that, especially since he was clearly very drunk. Sadly, the man died.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/passenger-who-died-on-cruise-ship-was-served-33-drinks-lawsuit-claims/",
+        "publishedTime": "56 minutes ago"
+      },
+      {
+        "id": "story-1765251780518-3",
+        "headline": "President Trump Lets China Buy Very Special Computer Chips",
+        "content": "President Trump said it's okay for China to buy some really special computer parts called 'chips' from an American company called Nvidia. These chips are super important for making smart computers and robots, which is called 'Artificial Intelligence' or AI. Before, it was harder for China to get these special parts, but President Trump made it easier. This is happening while America and China are sometimes arguing about who has the best technology.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-4",
+        "headline": "Most Houses in America Are Too Expensive to Buy",
+        "content": "A new study says that most houses in America are now too expensive for regular people to buy. It's like more than three out of four houses are just too pricey! This means it's really hard for lots of grown-ups to buy their own home because houses cost so much, and borrowing money to buy them is also very expensive.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/more-than-75-of-homes-across-the-u-s-are-unaffordable-study-finds/",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-5",
+        "headline": "A Congress Lady Got into Trouble for Yelling and Using Bad Words at the Airport",
+        "content": "A police report says that a lady named Representative Nancy Mace got into trouble at the airport. She apparently yelled a lot of bad words at the police because of a small mix-up. The police said she made a big public scene out of something small. People are talking about it because she's a person who helps run the country, so they think she should act better in public.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1765233623460-1",
-        "headline": "President Trump Helps Farmers with Lots of Money",
-        "content": "President Trump said he will give American farmers $12 billion to help them out. Farmers have been having a tough time because of problems with selling their crops to other countries, especially China. These problems have made it harder for them to sell what they grow.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-2",
-        "headline": "Paramount Tries to Buy Warner Bros. Discovery for a Lot of Money",
-        "content": "The company Paramount wants to buy another big company called Warner Bros. Discovery. They are offering a huge amount of money, over $108 billion! This is happening right after Warner Bros. Discovery and Netflix said they would join together. This could change a lot about how we watch movies and TV shows.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "now"
-      },
-      {
-        "id": "story-1765233623460-3",
-        "headline": "Alina Habba Leaves Her Job in New Jersey",
-        "content": "Alina Habba, who used to be a lawyer for President Trump, has left her job as the main lawyer for the government in New Jersey. She had to leave because of a tricky decision made by a court that made it hard for her to keep working there.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/newshour/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-4",
-        "headline": "Colin Allred Decides Not to Run for Senate Anymore",
-        "content": "Colin Allred, a politician from Texas, has decided not to try and become a Senator. Instead, he will run for a different job in the House of Representatives. He made this choice because he didn't want to have a tough and expensive election against other people from his own political party, which could cause problems for them later.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765233623460-5",
-        "headline": "Ukraine's President Says He Won't Give Land to Russia",
-        "content": "President Zelensky, who is the leader of Ukraine, said very clearly that his country will not give any of its land to Russia to make peace. This means that a plan President Trump had to stop the war won't happen. Many people thought President Trump's plan would have made Russia's leader, Vladimir Putin, happy.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "47 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/08/nancy-mace-police-investigation-airport-tirade/",
+        "publishedTime": "Earlier today"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765233623460-0",
-        "headline": "The Gavel's Shifting Balance",
-        "content": "In the hallowed halls of justice, a nine-decade precedent trembled. The High Court, hearing arguments that would redefine executive reach, seemed poised to tip the scales. Should the President's power expand, allowing the dismissal of independent agency officials without cause, it would unravel a long-held safeguard. Whispers of a new era filled the chamber; an era where the executive hand might grasp more tightly, reshaping regulatory bodies like the FTC. The bedrock of separated powers, once unyielding, now shifted, portending a profound transformation in the very fabric of governance, a silent revolution of authority.",
+        "id": "story-1765251780518-0",
+        "headline": "The Unseen Hand of Power",
+        "content": "The Supreme Court chamber hummed with a tension that threatened to unravel decades of precedent. At stake was not merely a legal clause, but the very fabric of governance. Arguments flew, sharp and precise, dissecting the long-held independence of federal agencies. A president's power, historically checked, now sought to extend its reach, to command without impediment. If successful, the executive branch would expand, allowing a single leader to sweep aside those deemed inconvenient. The implications echoed beyond the marbled halls, promising a seismic shift in the balance of the nation's colossal machinery. The future of oversight hung by a thread.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-hears-arguments-on-trumps-power-over-independent-agencies",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-1",
+        "headline": "A Golden Promise in the Fields",
+        "content": "Dust swirled across parched fields, mirroring the worry lines etched on farmers' faces. An 'exceptionally difficult year' President Trump called it, a polite understatement for the economic storms that battered the agricultural heartland. Trade disputes, unpredictable markets, the very ground beneath their tractors seemed to conspire against them. Then, a beacon: a proposed $12 billion aid package. It wasn't a magic wand, but a lifeline. For many, it represented the difference between keeping the farm or losing generations of legacy, a desperate hope sown amidst the uncertainty.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/nation/trump-proposes-12-billion-in-aid-to-farmers-after-exceptionally-difficult-year",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-2",
+        "headline": "The Last Sip",
+        "content": "The ocean liner swayed gently, a world of carefree indulgence. Michael Virgil, 35, lost himself in its rhythm, and in the relentless parade of glasses. Thirty-three drinks, the lawsuit later claimed, poured by a crew seemingly oblivious, or uncaring, to the man's spiraling descent. His intoxication, once jovial, became a grotesque parody, yet the service continued. Somewhere between the glittering lights and the endless horizon, his body gave out. The cruise, meant for escape, became his final, tragic voyage, leaving behind only questions and the cold claim of negligence.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/passenger-who-died-on-cruise-ship-was-served-33-drinks-lawsuit-claims/",
+        "publishedTime": "56 minutes ago"
+      },
+      {
+        "id": "story-1765251780518-3",
+        "headline": "The Silicon Bridge",
+        "content": "In the silent war of innovation, chips were the new cannon fire. Advanced Nvidia components, the very brains of future AI, now found their path cleared to China. President Trump's decision, a pivot from previous export restrictions, raised eyebrows globally. Was it a strategic olive branch or a calculated gamble? Beijing's AI ambitions, once carefully constrained, now received a vital infusion. The move, framed against a backdrop of tense technological competition, painted a complex picture of global power plays, where semiconductors held the delicate balance of national security.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/world/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765251780518-4",
+        "headline": "The Unattainable Hearth",
+        "content": "The 'American Dream' of homeownership felt more like a cruel mirage. A new study cast a stark, disheartening light: over 75% of homes nationwide were simply beyond reach. For countless families, the idea of a patch of green and four walls became a whisper from a bygone era. Escalating property prices, like an untamed beast, devoured savings, while relentless interest rates gnawed at hope. The dream wasn't just fading; it was actively fleeing, leaving behind a growing crisis and generations locked out of a fundamental aspiration.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/news/more-than-75-of-homes-across-the-u-s-are-unaffordable-study-finds/",
+        "publishedTime": "3 hours ago"
+      },
+      {
+        "id": "story-1765251780518-5",
+        "headline": "The Concourse Cacophony",
+        "content": "The airport terminal, a stage for transient lives, bore witness to a different kind of drama. Representative Nancy Mace, a public figure, turned a 'minor miscommunication' into a spectacle, according to police. The air filled not with departure announcements, but with 'profanity-laced' accusations. Her tirade, a public unraveling, drew immediate scrutiny. The report concluded she was at fault, confirming what many travelers already sensed: even in the hustle of a busy airport, conduct, especially from those in power, matters. The echoes of her outburst lingered long after her flight.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "1 hour ago"
-      },
-      {
-        "id": "story-1765233623460-1",
-        "headline": "A Harvest of Resilience",
-        "content": "Across the vast American heartland, fields lay heavy with more than just crops; they carried the weight of uncertainty. Trade disputes, particularly with China, had withered markets and left farmers grappling with diminished returns. Despair was a bitter harvest. Then, a lifeline from Washington. President Trump announced a twelve-billion-dollar aid package, a balm for the embattled agricultural sector. It was a direct response to the global economic squalls, offering a chance for resilience, a reprieve that promised to help those who fed the nation weather the storm and plant seeds for a more hopeful tomorrow.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-2",
-        "headline": "Clash of the Entertainment Titans",
-        "content": "The digital kingdom trembled. Just as two giants, Warner Bros. Discovery and Netflix, announced an eighty-three-billion-dollar alliance, a new challenger emerged from the shadows. Paramount, with a audacious and hostile one-hundred-eight-billion-dollar bid, stormed the arena. The move signaled not merely a corporate transaction, but a full-blown war for the future of media. Screens across the globe became battlegrounds; narratives, the ultimate prize. This high-stakes maneuver promised a seismic shift, reshaping how stories are told and consumed, forever altering the landscape of entertainment supremacy.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "now"
-      },
-      {
-        "id": "story-1765233623460-3",
-        "headline": "The Unexpected Departure",
-        "content": "The legal world watched as the intricate threads of justice unraveled for some. Alina Habba, a figure known for her proximity to President Trump, found her temporary tenure as U.S. Attorney for New Jersey suddenly curtailed. A complex court ruling, a labyrinth of legal interpretation, had rendered her position untenable. Her departure, swift and unexpected, marked a significant professional shift, closing a chapter on her role as the state's top federal prosecutor. The courtroom's quiet aftermath hinted at the unseen forces that can reshape even the most established careers.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/newshour/",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765233623460-4",
-        "headline": "The Maverick's Strategic Pivot",
-        "content": "The political winds in Texas shifted, and with them, the trajectory of a seasoned campaigner. Colin Allred, after a recent senatorial bid, announced a strategic pivot. He would withdraw from the high-stakes Senate race, opting instead to contend for a newly redrawn House seat. This decision, a calculated move, aimed to circumvent a potentially bruising and divisive Senate primary. Supporters believed it was a prudent choice, designed to safeguard party unity and channel resources more effectively, ensuring that the battles fought were for the greater good of the collective.",
-        "originalSource": "Associated Press (AP News)",
-        "sourceUrl": "https://apnews.com/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765233623460-5",
-        "headline": "The Unyielding Stance",
-        "content": "The weight of a nation's sovereignty rested squarely on President Volodymyr Zelensky's shoulders. In a defiant declaration, he unequivocally ruled out ceding any Ukrainian territory to Russia as a condition for peace. This resolute stand effectively dismantled a recent peace plan proposed by President Trump, which had suggested a different path to ending the conflict. For Ukraine, the line was drawn in blood and sacrifice; no land would be bartered for an end to aggression. It was a powerful affirmation of an unbreakable will, a nation's unwavering commitment to its own future.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "47 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/08/nancy-mace-police-investigation-airport-tirade/",
+        "publishedTime": "Earlier today"
       }
     ]
   }
