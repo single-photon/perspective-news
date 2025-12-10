@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765349973374,
+  "timestamp": 1765357052143,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765349894506-0",
-        "headline": "Human Rights Groups Demand Transparency on Lethal Caribbean Strikes, Challenging Administration's Secrecy",
-        "content": "The ACLU and other prominent rights organizations have initiated a lawsuit to compel the release of the legal memo justifying recent U.S. military operations in the Caribbean. These controversial strikes, which targeted boats suspected of drug trafficking, have resulted in the tragic loss of life for alleged smugglers. This legal challenge underscores a critical demand for transparency and accountability from the administration, highlighting systemic concerns about unchecked military power and the profound human cost when government actions are shrouded in secrecy.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-1",
-        "headline": "Supreme Court Considers Gutting Campaign Finance Limits, Threatening Democratic Integrity with More Corporate Influence",
-        "content": "The U.S. Supreme Court is currently deliberating a pivotal case that could dismantle existing safeguards on political party spending in coordination with candidates. A decision favoring the petitioners would dramatically erode campaign finance regulations, ushering in an era of even greater coordinated spending. This move risks further concentrating political power in the hands of wealthy donors and corporate interests, exacerbating systemic inequalities and undermining the principle of one person, one vote in our democracy.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-2",
-        "headline": "Federal Judge Orders Unsealing of Ghislaine Maxwell Case Records, Signaling a Step Towards Greater Transparency for Survivors",
-        "content": "A federal judge has approved the Justice Department's plea to unseal grand jury documents and other investigative materials related to the sex trafficking case involving Ghislaine Maxwell, Jeffrey Epstein's associate. While the judge acknowledged these newly public files might not reveal extensive new details, their release is a crucial step towards transparency and accountability. This action is vital for survivors and the public to understand the full scope of this reprehensible system of exploitation and to ensure that justice is pursued relentlessly, especially when powerful individuals are implicated.",
+        "id": "story-1765356981628-0",
+        "headline": "Progressive Champion Eileen Higgins Ends Three-Decade Drought for Miami Democrats by Focusing on Systemic Issues",
+        "content": "Eileen Higgins secured a significant victory in Miami's mayoral runoff election, becoming the first Democrat in over 30 years to lead the city. Her win, with 59% of the vote against former city manager Emilio Gonzalez, signals a crucial shift towards addressing systemic challenges. Higgins' campaign powerfully centered on critical issues like ensuring housing affordability, building genuine climate resilience for all communities, and restoring public trust in local governance, representing a progressive vision for Miami's future.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
-        "publishedTime": "13 hours ago"
+        "sourceUrl": "https://cbsnews.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-3",
-        "headline": "Eileen Higgins' Victory Heralds a New Era for Miami, Prioritizing Affordable Housing and Climate Resilience",
-        "content": "Eileen Higgins has secured a historic victory in Miami's mayoral runoff election, marking the city's first Democratic mayor in nearly three decades. This significant shift in leadership reflects a community eager for change, as Higgins' campaign successfully centered on critical systemic issues like the urgent need for affordable housing, bolstering climate resilience in a vulnerable city, and restoring faith in public institutions. Her win represents a mandate for progressive action to address the root causes of inequality and build a more equitable future for all Miami residents.",
+        "id": "story-1765356981628-1",
+        "headline": "President Trump's 'Affordability Tour' Becomes a Disturbing Mockery of Economic Hardship Facing Working Families",
+        "content": "President Trump commenced his 'affordability tour' in Pennsylvania, ostensibly to connect with Americans struggling under the burden of high prices and stagnant wages. However, the event quickly devolved into a self-congratulatory campaign rally where President Trump dismissively claimed to be 'crushing' inflation and openly mocked the very real economic anxieties the tour was meant to acknowledge. This egregious display underscores a profound disconnect from the systemic financial struggles endured by everyday working families across the nation.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-4",
-        "headline": "Another Life Lost to Systemic Gun Violence at Kentucky State University, Demanding Urgent Action",
-        "content": "Tragedy struck the campus of Kentucky State University on Tuesday, as one person was killed and another critically wounded in a shooting incident. While university officials and campus police have secured the area and launched an investigation, this devastating event is a stark reminder of the pervasive and systemic crisis of gun violence plaguing our nation. It underscores the urgent need for comprehensive solutions that address the root causes of violence and prioritize community safety over the status quo, ensuring no more lives are senselessly lost.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765356981628-2",
+        "headline": "Extreme Weather Events, Fueled by Climate Crisis, Deliver Deluge to US Pacific Northwest, Threatening Vulnerable Communities",
+        "content": "The US Pacific Northwest is currently battling powerful storm systems, dumping unprecedented amounts of heavy rain across the region. This excessive rainfall has led to dangerously swollen rivers and widespread concerns about flooding in numerous communities. These increasingly frequent and intense weather events serve as a stark reminder of the escalating climate crisis and the urgent need for systemic investment in climate resilience and equitable disaster preparedness to protect all residents.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765349894506-5",
-        "headline": "President Trump's Administration Axes Vital Student Loan Repayment Plan, Deepening Economic Hardship for Millions",
-        "content": "President Trump's administration has finalized an agreement to dismantle the previous administration's crucial student loan repayment program. This action, framed as a federal cost-cutting measure, will inflict severe economic consequences on millions of student loan borrowers who rely on the plan. This decision exacerbates the systemic crisis of student debt, disproportionately affecting working-class families and further entrenching economic inequality rather than addressing the root causes of a broken higher education financing system.",
+        "id": "story-1765356981628-3",
+        "headline": "GOP-Led House Panel's Premature End to Controversial Boat Strike Probe Raises Serious Questions About Accountability and Transparency",
+        "content": "The GOP chair of a House panel has announced plans to prematurely conclude the congressional probe into a U.S. military boat strike, an investigation that focused on the highly controversial killing of two alleged drug smugglers who reportedly survived the initial attack. This abrupt termination of scrutiny, despite widespread concerns from lawmakers and national security officials, severely undermines transparency and accountability, potentially shielding systemic failures or misconduct within military operations.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765356981628-4",
+        "headline": "Trump Administration Moves to Gut Student-Loan Repayment Plan, Exacerbating Systemic Debt Crisis for Millions",
+        "content": "Officials within President Trump's administration are actively working to dismantle a crucial student-loan repayment program established under the Biden administration. This regressive move threatens to strip millions of Americans of a more affordable and flexible repayment structure designed to alleviate the crushing burden of student debt. Such actions only serve to entrench a broken system that disproportionately impacts marginalized communities and perpetuates a systemic barrier to economic mobility and equity.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765356981628-5",
+        "headline": "Netflix Faces Class-Action Lawsuit, Highlighting Systemic Corporate Consolidation's Threat to Consumer Rights and Market Fairness",
+        "content": "Streaming giant Netflix is now facing a consumer class-action lawsuit following its massive $72 billion acquisition of Warner Bros. This legal challenge underscores growing concerns about unchecked corporate power and its detrimental impact on consumer rights and market competition. Such colossal mergers often lead to reduced choices, increased prices, and a further erosion of consumer protections, revealing the systemic need for stricter oversight of corporate consolidation.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "Yesterday"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765349894506-0",
-        "headline": "Rights groups sue administration for release of memo justifying Caribbean boat strikes",
-        "content": "The ACLU and other rights organizations have filed a lawsuit demanding the release of the legal justification memo used for recent US military strikes on boats suspected of drug trafficking in the Caribbean. The controversial strikes resulted in the deaths of alleged smugglers, prompting calls for greater transparency on the administration's actions.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-1",
-        "headline": "Supreme Court weighs further loosening campaign finance limits",
-        "content": "The U.S. Supreme Court is considering a significant case that challenges existing limits on how much political parties can spend in coordination with candidates. A ruling in favor of the petitioners could substantially roll back campaign finance regulations, allowing for much greater coordinated spending in future elections.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-2",
-        "headline": "DOJ can unseal Ghislaine Maxwell sex trafficking case records, judge says",
-        "content": "A federal judge has granted the Justice Department's request to make public grand jury documents and other investigative materials from the sex trafficking case against Ghislaine Maxwell, the former associate of Jeffrey Epstein. The judge noted that the newly unsealed files may offer few entirely new details.",
+        "id": "story-1765356981628-0",
+        "headline": "Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought.",
+        "content": "Eileen Higgins secured a victory in Miami's mayoral runoff election, becoming the first Democrat to be elected mayor of the city in over three decades. She defeated former city manager Emilio Gonzalez with 59% of the vote. Higgins' campaign focused on key issues like housing affordability, climate resilience, and restoring public trust.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
-        "publishedTime": "13 hours ago"
+        "sourceUrl": "https://cbsnews.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-3",
-        "headline": "Miami will have its first Democratic mayor in nearly 30 years",
-        "content": "Eileen Higgins won the Miami mayoral runoff election, a victory that breaks a nearly three-decade-long streak of Republican leadership in the city. Her successful campaign focused on addressing local concerns such as affordable housing, climate resilience, and restoring public trust in City Hall.",
+        "id": "story-1765356981628-1",
+        "headline": "At the first stop on his affordability tour, Trump mocks affordability.",
+        "content": "President Trump began his 'affordability tour' in Pennsylvania, an event intended to connect with Americans facing high prices and stagnant wages. However, the event quickly shifted into a campaign speech, where Trump claimed to be 'crushing' inflation and mocked the very concerns the tour was meant to address.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-4",
-        "headline": "Shooting at Kentucky State University kills 1, officials say",
-        "content": "One person was killed and another was critically wounded following a shooting that occurred on the campus of Kentucky State University on Tuesday. University officials and campus police have secured the area, and a full investigation into the fatal incident is currently underway.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765356981628-2",
+        "headline": "Powerful storms dump heavy rain and swell rivers across US Pacific north-west.",
+        "content": "The US Pacific Northwest is experiencing powerful storm systems that have dumped significant amounts of heavy rain across the region. The excessive rainfall has led to rivers swelling above their normal levels, prompting weather alerts and concerns about flooding in various communities throughout the region.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765349894506-5",
-        "headline": "Trump administration strikes deal to end Biden's student loan repayment plan",
-        "content": "The Trump administration has finalized a deal to terminate the previous administration's prominent student loan repayment program. The action is part of a wider effort to cut federal costs, which will directly affect millions of student loan borrowers currently enrolled in the plan.",
+        "id": "story-1765356981628-3",
+        "headline": "House panel plans to end its boat strike probe, GOP chair says.",
+        "content": "The GOP chair of a House panel has announced plans to conclude the congressional probe into a U.S. military boat strike. The investigation focused on the controversial killing of two alleged drug smugglers who reportedly survived the initial attack on their boat. Lawmakers and top national security officials had scrutinized the event.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765356981628-4",
+        "headline": "Trump officials move to scrap Biden student-loan repayment plan.",
+        "content": "Officials within the Trump administration are taking steps to dismantle a key student-loan repayment program implemented under the Biden administration. The plan in question aimed to provide a more affordable and flexible repayment structure for millions of Americans with outstanding student debt.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765356981628-5",
+        "headline": "Netflix faces consumer class-action lawsuit over $72bn Warner Bros deal.",
+        "content": "Streaming giant Netflix is being hit with a consumer class-action lawsuit. The legal action stems from the company's significant $72 billion deal with Warner Bros. The details of the suit are focused on consumer rights and the implications of the massive acquisition on their service and pricing structure.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "Yesterday"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765349894506-0",
-        "headline": "National Security Imperiled by Rights Groups Demanding Sensitive Memo Release",
-        "content": "Radical rights organizations, including the ACLU, are challenging the administration's vital efforts to combat drug trafficking in the Caribbean, demanding the release of a memo justifying recent military actions against vessels suspected of smuggling. These necessary strikes aimed to protect our borders and communities from dangerous drugs, yet these groups prioritize endless litigation over national security, hindering effective law enforcement against those who threaten our nation.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-1",
-        "headline": "Supreme Court Considers Restoring Free Speech in Campaign Finance",
-        "content": "The U.S. Supreme Court is poised to uphold the fundamental right to free speech by examining current restrictions on political parties' coordinated spending with candidates. A decision favoring the petitioners would be a crucial step towards dismantling burdensome campaign finance regulations that stifle legitimate political expression and hinder robust public discourse, allowing more liberty in our electoral process.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-2",
-        "headline": "Justice Department Allowed to Unseal Records in Ghislaine Maxwell Sex Trafficking Case",
-        "content": "A federal judge has rightly permitted the Justice Department to make public crucial grand jury documents and investigative materials from the abhorrent sex trafficking case against Ghislaine Maxwell, Jeffrey Epstein's associate. While the judge cautiously noted that these newly unsealed files might offer limited new revelations, exposing every detail of this deeply disturbing case is essential for true justice and transparency, ensuring accountability for such heinous crimes.",
+        "id": "story-1765356981628-0",
+        "headline": "Miami Elects First Democrat Mayor in Decades, Raises Fiscal Responsibility Questions",
+        "content": "Eileen Higgins secured a significant victory in Miami's mayoral runoff election, becoming the first Democrat to hold the city's top office in over three decades. Her defeat of former city manager Emilio Gonzalez with 59% of the vote signals a notable shift for the city. Higgins' campaign focused on key issues such as housing affordability, climate resilience, and promises to restore public trust, policies that will require careful scrutiny to ensure they align with traditional conservative values of fiscal prudence and individual liberty.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
-        "publishedTime": "13 hours ago"
+        "sourceUrl": "https://cbsnews.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-3",
-        "headline": "Miami Shifts Left as Democrat Eileen Higgins Ends Decades of Republican Rule",
-        "content": "Miami has regrettably elected its first Democratic mayor in nearly three decades, with Eileen Higgins securing a victory that unseats conservative leadership. Her campaign, centered on expansive government programs like \"affordable housing\" and \"climate resilience,\" signals a potential departure from fiscal prudence and limited government that has served the city well for so long, risking new taxes and regulations for Miami's hardworking citizens.",
+        "id": "story-1765356981628-1",
+        "headline": "President Trump Asserts Economic Strength Amidst Affordability Tour",
+        "content": "President Trump commenced his 'affordability tour' in Pennsylvania, an event designed to highlight the economic challenges facing many Americans due to current policies. During the event, President Trump confidently asserted that he is 'crushing' inflation, pivoting the discussion to emphasize his strong economic vision and past successes. His remarks underscored a commitment to economic policies that truly deliver prosperity and stability for all citizens, contrasting with the current administration's struggles.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-4",
-        "headline": "Tragic Shooting Claims Life at Kentucky State University, Prompting Security Concerns",
-        "content": "A senseless act of violence has tragically resulted in one fatality and another critical injury following a shooting incident on the campus of Kentucky State University. While university officials and campus police have secured the area and launched a full investigation, this grim event underscores the urgent need for robust security measures and a commitment to maintaining law and order to protect our students and communities from such devastating occurrences.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765356981628-2",
+        "headline": "Pacific Northwest Battles Severe Weather, Local Communities Prepare for Flooding",
+        "content": "The US Pacific Northwest is currently grappling with powerful storm systems, unleashing significant amounts of heavy rain across the region. This excessive rainfall has caused rivers to swell considerably, leading to numerous weather alerts and heightening concerns about potential flooding in communities throughout the area. Local authorities and residents are demonstrating strong resilience and preparedness in the face of these natural events, highlighting the importance of local self-reliance.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765349894506-5",
-        "headline": "President Trump Administration Ends Wasteful Student Loan Repayment Plan to Restore Fiscal Responsibility",
-        "content": "The President Trump administration has decisively moved to terminate the previous administration's expansive student loan repayment program, a crucial step in reining in excessive federal spending. This action, part of a broader commitment to fiscal discipline, ensures that taxpayers are no longer burdened by unsustainable programs and promotes personal accountability for educational expenses, a principle vital for our nation's economic health.",
+        "id": "story-1765356981628-3",
+        "headline": "GOP-Led House Panel Concludes Probe into Military Boat Strike, Prioritizing National Security",
+        "content": "The esteemed GOP chair of a House panel has announced the conclusion of the congressional investigation into a U.S. military boat strike. The probe examined the controversial incident involving the alleged killing of two drug smugglers who reportedly survived the initial attack on their vessel. This decision allows our lawmakers and national security officials to pivot their focus back to crucial defense matters, ensuring our military can operate effectively without undue political interference in the vital task of protecting our borders.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765356981628-4",
+        "headline": "President Trump's Administration Moves to Restore Fiscal Responsibility, End Costly Student Loan Plan",
+        "content": "Officials within President Trump's administration are taking decisive action to dismantle a key student-loan repayment program initiated under the Biden administration. This plan, which aimed to offer a more 'affordable' and 'flexible' repayment structure for millions, is seen by many conservatives as a fiscally irresponsible handout that burdens taxpayers and undermines personal accountability. President Trump's team is committed to restoring sound financial principles and encouraging individual responsibility in managing one's debts.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765356981628-5",
+        "headline": "Netflix Faces Legal Challenge Over Warner Bros Deal, Market Forces at Play",
+        "content": "Streaming behemoth Netflix is now confronting a consumer class-action lawsuit, stemming from its colossal $72 billion deal with Warner Bros. The legal action scrutinizes the implications of this massive acquisition on consumer rights, service offerings, and pricing structures. This case underscores the complex interplay between large corporate transactions and market forces, reminding us that even in a free market, businesses must adhere to contractual obligations and fair practices as determined by the legal system.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "Yesterday"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765349894506-0",
-        "headline": "ACLU Demands Administration Reveal If 'Because We Said So' Constitutes Valid Legal Justification for Deadly Boat Strikes",
-        "content": "Human rights organizations, clearly suffering from a delusion that the public deserves to know why its government is blowing up boats, have launched a desperate legal bid to uncover the 'secret sauce' memo justifying recent Caribbean naval operations. After all, if our strikes on alleged smugglers resulted in 'alleged deaths,' surely the legal framework must be a masterpiece of ambiguity, perhaps penned on a napkin during a particularly boisterous lunch meeting.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-1",
-        "headline": "Supreme Court Considers Further Empowering Billionaires To Whisper Sweet Nothings Directly Into Candidates' Wallets",
-        "content": "In a groundbreaking move for the sanctity of 'free speech' (provided that speech comes with a hefty price tag), the U.S. Supreme Court is reportedly mulling over a case that could finally unburden political parties from the oppressive shackles of 'spending limits.' Experts suggest this bold step will usher in an unprecedented era of political transparency, where voters will clearly see exactly which special interests are literally funding their chosen representatives, probably with gold bullion. It's not bribery if the Supreme Court says it's dialogue.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-2",
-        "headline": "Judge Generously Allows Public To View Ghislaine Maxwell Records That Will Reveal Absolutely Nothing New, Shocker",
-        "content": "In a stunning display of legal theater, a federal judge has heroically granted the Justice Department permission to unveil grand jury documents and other 'investigative materials' from the Ghislaine Maxwell sex trafficking case. Insiders, who clearly understand how these things work, predict the 'newly unsealed files' will likely confirm that water is wet, the sky is blue, and certain extremely wealthy individuals have always had impeccable timing when flying their private jets.",
+        "id": "story-1765356981628-0",
+        "headline": "Miami Voters Elect Democrat, Immediately Begin Construction on Giant Socialist Art Installation Made Entirely of Recycled Palm Trees.",
+        "content": "After three decades of what many described as a \"critical shortage of blue lawn signs,\" Miami has finally elected a Democrat mayor, Eileen Higgins. Residents are reportedly bracing for an immediate onslaught of sensible urban planning, publicly funded art projects, and an unprecedented return of \"public trust,\" whatever that is. Her campaign's shocking commitment to issues like housing affordability and climate resilience has left long-time residents wondering if the city will soon be overrun with affordable housing and, even worse, perfectly climate-resilient iguanas.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
-        "publishedTime": "13 hours ago"
+        "sourceUrl": "https://cbsnews.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-3",
-        "headline": "Miami Voters Accidentally Elect Democrat After Decades Of Unbroken Republican Rule, City Throws Emergency Shade",
-        "content": "In what can only be described as a glitch in the Matrix, Miami has somehow managed to elect its first Democratic mayor in nearly three decades, sending shockwaves through the city's established order of 'more golf courses' and 'less public transit.' Eileen Higgins, a maverick who dared to campaign on concepts like 'affordable housing' and 'climate resilience'—ideas previously considered utter science fiction in the region—has now taken the reins. Local pundits are already bracing for the impending chaos of public services actually functioning.",
+        "id": "story-1765356981628-1",
+        "headline": "President Trump Kicks Off \"Affordability Tour\" By Wondering Aloud If Poor People Even *Like* Having Money.",
+        "content": "President Trump's much-anticipated \"affordability tour\" launched in Pennsylvania with a groundbreaking moment of self-awareness, as the President questioned why anyone would be concerned about affordability when he is \"crushing\" inflation so thoroughly. Attendees, many of whom arrived by walking past several discount stores, were reportedly left scratching their heads as the tour's stated purpose of addressing high prices morphed into a robust campaign rally celebrating how good everything actually is, despite what their wallets might suggest.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-4",
-        "headline": "Campus Shooting Confirmed To Be 'Very Normal Incident,' Officials Reassure Everyone",
-        "content": "Kentucky State University officials have confirmed that a shooting on campus tragically resulted in one death and one critical injury, an incident they quickly labeled 'a routine Tuesday.' Campus police swiftly 'secured the area,' which reportedly involved putting up a 'business as usual' sign, while a 'full investigation' has been launched to determine precisely how many thoughts and prayers will be needed this time. Students are reminded to keep their head on a swivel, or at least remember where the nearest designated safe space (probably a broom closet) is located.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765356981628-2",
+        "headline": "Pacific Northwest Residents Reportedly Growing Gills As Region Declares Itself \"Officially More Water Than Land\".",
+        "content": "Following an unprecedented deluge, the US Pacific Northwest has officially declared its rivers to be \"beyond mere rivers\" and is now considering rebranding itself as the \"Pacific Northwest Aquatic Zone.\" Local residents, many of whom have not seen dry land in weeks, are reportedly beginning to develop rudimentary gills and webbed feet, adapting surprisingly well to their new, perpetually soggy existence. Weather experts predict that if current trends continue, the region's primary form of transportation will soon be synchronized swimming.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765349894506-5",
-        "headline": "President Trump Administration Bravely Eliminates Student Loan Forgiveness, Freeing Millions To Live With Crushing Debt",
-        "content": "In a stunning move designed to instill fiscal responsibility (or possibly just crippling panic) in the nation's youth, President Trump's administration has proudly announced it has 'struck a deal' to summarily execute the previous administration's 'generous' student loan repayment program. This bold initiative, hailed as a 'major cost-saving measure,' will effectively 'free' millions of borrowers from the burden of *not* being suffocated by monthly payments. Experts predict a surge in creativity as graduates discover innovative ways to pay for rent and ramen simultaneously.",
+        "id": "story-1765356981628-3",
+        "headline": "Congressional Panel Concludes Controversial Boat Strike Probe After Deciding Some Mysteries Are Just \"Too Mysterious\".",
+        "content": "A House panel, under the esteemed leadership of its GOP chair, has bravely announced it will cease investigating the baffling case of two alleged drug smugglers who inconveniently survived a military boat strike before reportedly dying anyway. Sources close to the investigation confirmed that after several arduous meetings involving staring blankly at redacted documents, the panel determined that certain events, especially those involving water and alleged illicit activities, are simply too complex for human comprehension, and therefore, it's best to just move on.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765356981628-4",
+        "headline": "President Trump's Administration Heroically Saves Students From The Horrors Of \"Affordable Loan Repayment\".",
+        "content": "In a bold move hailed by predatory lenders nationwide, President Trump's administration is reportedly working tirelessly to eliminate a student-loan repayment plan from the previous administration, thus rescuing millions of Americans from the crippling burden of *not* being perpetually indebted. Experts suggest that forcing students to pay back every last penny, plus interest, will instill a vital sense of \"character\" and \"the crushing weight of capitalism\" that no flexible repayment plan could ever truly provide.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765356981628-5",
+        "headline": "Netflix Sued By Consumers Who Apparently Didn't Get The Memo That Streaming Is Now Just A Corporate Feudal System.",
+        "content": "Streaming titan Netflix is reportedly facing a class-action lawsuit from a group of consumers who are clearly new to how gigantic, multi-billion-dollar corporate mergers work. The lawsuit claims their $72 billion acquisition of Warner Bros. somehow impacts consumer rights and pricing, which Netflix executives reportedly found hilarious. A spokesperson, speaking from inside a vault overflowing with subscriber fees, stated, \"We thought it was obvious: we buy stuff, you pay more. That's the circle of life in the streaming ecosystem.\"",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "Yesterday"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765349894506-0",
-        "headline": "Groups Want to See Why Boats Were Hit in the Ocean",
-        "content": "Big groups like the ACLU are asking the government to show them a secret paper. This paper explains why US soldiers hit boats in the Caribbean Sea. These boats were thought to be carrying bad drugs. But some people on the boats died, and now everyone wants to know why and if it was okay. They want everything to be open and clear for everyone to understand.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-1",
-        "headline": "The Highest Court Might Let People Spend More Money on Elections",
-        "content": "The big boss court, called the Supreme Court, is looking at a new rule right now. This new rule might let political groups spend a lot more money when they work with people who want to be elected. If the court says 'yes,' it means groups could spend much more money together to help their favorite candidates win future elections.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-2",
-        "headline": "Judge Says Secret Papers About Ghislaine Maxwell Can Now Be Seen",
-        "content": "A judge has said that secret papers about Ghislaine Maxwell can now be shown to everyone. These papers are from her case where she was accused of really bad things, helping someone named Jeffrey Epstein. The judge mentioned that even though the papers will be public, they might not have a lot of brand new information that people don't already know.",
+        "id": "story-1765356981628-0",
+        "headline": "Eileen Higgins Becomes Miami's New Mayor After a Long Time",
+        "content": "A lady named Eileen Higgins just won a super important election in Miami! This means she will be the new mayor, which is like the boss of the city. She is the first person from her political group to win this job in over 30 years, which is a really, really long time. She beat another guy, and she promised to help make homes cheaper, keep the environment safe, and make people trust the government again.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
-        "publishedTime": "13 hours ago"
+        "sourceUrl": "https://cbsnews.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-3",
-        "headline": "Miami Gets a New Kind of Mayor After a Very Long Time",
-        "content": "Eileen Higgins just won the election to be the mayor of Miami! This is a really big deal because it's the first time in almost 30 years that someone from the Democratic party will be the mayor there. She won because she promised to help with important things like making houses cheaper, making the city strong against bad weather, and making people trust the city leaders again.",
+        "id": "story-1765356981628-1",
+        "headline": "President Trump Talks About Money Problems But Then Jokes About Them",
+        "content": "President Trump started a special trip to talk to people about how things cost too much money. It was supposed to help families who are having a hard time paying for things. But during his speech, President Trump started talking about his campaign instead. He said he was doing a great job making prices better and even joked about the money problems he was supposed to be helping with.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-4",
-        "headline": "Someone Was Shot and Died at a College Campus",
-        "content": "A very sad thing happened at Kentucky State University. One person was killed and another person was really badly hurt because of a shooting. The police and school leaders have made the area safe, and they are now trying very hard to figure out exactly what happened.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765356981628-2",
+        "headline": "Big Storms Bring Lots of Rain to the Pacific Northwest",
+        "content": "There are really big and strong storms hitting a part of the United States called the Pacific Northwest. These storms are bringing tons and tons of rain, which is making the rivers get super high. People in the area are getting warnings because there's a chance of flooding in many towns and cities.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765349894506-5",
-        "headline": "President Trump's Team Stops a Student Loan Help Plan",
-        "content": "President Trump's team has made a new plan to stop an old plan that helped students pay back their college money. This is happening because they want to save money for the country. Millions of people who were getting help with their school loans will now be affected by this big change.",
+        "id": "story-1765356981628-3",
+        "headline": "Congress Will Stop Looking Into a Boat Incident",
+        "content": "A group of people in Congress, who are like lawmakers, have decided they will stop investigating something about a boat. This investigation was about when the U.S. military hit a boat, and two people who they thought were bringing drugs died. People in charge and important security officials were trying to figure out exactly what happened.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765356981628-4",
+        "headline": "President Trump's Team Wants to Change a Student Loan Plan",
+        "content": "People who work for President Trump are trying to get rid of a plan that helped students pay back money they borrowed for college. This plan, which was started by a different group, made it easier and cheaper for millions of Americans to pay back their school loans.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765356981628-5",
+        "headline": "Netflix is Getting Sued Over a Really Big Deal",
+        "content": "Netflix, the place where you watch movies and TV shows, is getting into trouble! Some customers are suing them because Netflix made a super huge deal to buy things from another company called Warner Bros for a lot of money. The lawsuit is about what this big deal means for customers and if it will change their service or how much they have to pay.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "Yesterday"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765349894506-0",
-        "headline": "Whispers from the Waves",
-        "content": "The sea had swallowed secrets for too long. Families mourned those lost to the Caribbean's deep, their boats targeted, their lives extinguished. Rights organizations, a chorus of unwavering voices, now demanded an accounting. A lawsuit pressed for the hidden memo, the legal parchment that greenlit the deadly strikes. Transparency was their cry, echoing against the administration's fortified walls. They sought to understand the shadowed justifications for violence on the high seas, for the alleged smugglers silenced forever. The truth, they believed, lay coiled within those sealed documents, waiting to break free.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-1",
-        "headline": "The Golden Floodgates",
-        "content": "A hushed chamber, the Supreme Court, now held the destiny of American campaigns. A case simmered, threatening to dismantle the fragile dams holding back the torrent of political money. If the petitioners succeeded, the floodgates would burst, unleashing unprecedented coordinated spending by parties and candidates. The air thickened with the scent of impending change, a shift that promised to reshape elections, allowing wealth to flow more freely into the political arteries. Critics whispered of undue influence, of a landscape where the loudest voices, fueled by limitless funds, would inevitably prevail.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765349894506-2",
-        "headline": "Secrets in the Archives",
-        "content": "The judge's gavel fell, a decisive sound echoing through the legal corridors. Ghislaine Maxwell's past, entwined with Jeffrey Epstein's dark legacy, would now be partially unveiled. The Justice Department’s plea was granted: grand jury documents and investigative files from her sex trafficking case would be unsealed. Yet, a cynical current ran beneath the news. The judge conceded that these newly public archives might offer few entirely new details. Still, the unburdening of secrets, however familiar, served as a stark reminder of the horrors hidden for so long, now brought into the dim light.",
+        "id": "story-1765356981628-0",
+        "headline": "The Miami Tide Turns",
+        "content": "For three decades, Miami's mayoral office remained elusive to Democrats. Eileen Higgins, however, shattered that political drought, securing a historic victory. Her campaign resonated with voters, championing housing affordability, critical climate resilience, and a fervent promise to restore public trust in governance. Defeating former city manager Emilio Gonzalez with a decisive 59% of the vote, Higgins' win wasn't just a political shift; it was a testament to a city yearning for change, a fresh voice to steer its future. The ballot boxes had spoken, heralding a new era for Miami, a city now poised to navigate its challenges under a newly elected leadership.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
-        "publishedTime": "13 hours ago"
+        "sourceUrl": "https://cbsnews.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-3",
-        "headline": "The Tide Turns in Miami",
-        "content": "Miami, vibrant and sun-drenched, had known Republican leadership for nearly three decades. That streak, a part of the city’s political fabric, was now broken. Eileen Higgins, with a campaign rooted in the city's very pulse, claimed the mayoral victory. Affordable housing, the looming specter of climate change, and the urgent plea to restore public trust in City Hall were her battle cries. Her win wasn't just a political shift; it was a testament to a community yearning for change, for a new voice to navigate its unique challenges, promising a fresh chapter for the Magic City.",
+        "id": "story-1765356981628-1",
+        "headline": "A Tour of Contradictions",
+        "content": "President Trump embarked on his 'affordability tour' in Pennsylvania, a journey ostensibly designed to connect with Americans grappling with high costs and stagnant wages. Yet, the narrative quickly veered from empathy to assertion. The promised dialogue on financial struggles dissolved into a familiar campaign rally, where President Trump proclaimed he was 'crushing' inflation and, ironically, scoffed at the very concerns his tour was meant to address. The intended message of solidarity with struggling citizens was overshadowed by a performance that seemed to mock the economic anxieties it aimed to alleviate, leaving a trail of questions about the tour's true purpose.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765349894506-4",
-        "headline": "Silence on the Quad",
-        "content": "The typical hum of university life at Kentucky State dissolved into a chilling silence. A Tuesday afternoon, marred by the deafening crack of gunfire, left one student dead and another critically wounded. Panic rippled through the campus before officials and police swiftly secured the area, their presence a somber reminder of the tragedy. Investigations began immediately, a grim search for answers in the wake of senseless violence. The vibrant greens of the quad now seemed muted, overshadowed by grief, as the academic community grappled with the brutal intrusion of danger into their sanctuary.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765356981628-2",
+        "headline": "When the Rivers Rise",
+        "content": "The Pacific Northwest braced itself as relentless storm systems unleashed their fury. Deluges of heavy rain cascaded across the region, transforming tranquil landscapes into scenes of impending alarm. Rivers, typically serene, swelled to menacing levels, their currents churning with an unprecedented power. Communities along their banks watched with bated breath as water levels steadily climbed, threatening to breach their confines. Weather alerts blanketed the area, a grim warning of potential flooding. Homes, businesses, and lives hung precariously in the balance, as the very earth beneath them became saturated, yielding to the relentless, powerful onslaught of the storms. The region held its breath.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765349894506-5",
-        "headline": "A Burden Renewed",
-        "content": "The air grew thick with apprehension for millions of student loan borrowers. President Trump’s administration had finalized a deal, quietly dismantling the previous administration’s cornerstone repayment program. This decisive move, framed as a broader effort to trim federal expenses, would ripple outwards, directly impacting those who had relied on the plan for financial reprieve. The echoes of an unpaid debt loomed larger, forcing individuals to recalibrate their futures. The promise of relief, once a comforting thought, now dissolved, replaced by the stark reality of renewed financial burdens.",
+        "id": "story-1765356981628-3",
+        "headline": "Echoes of the High Seas",
+        "content": "The controversial U.S. military boat strike, an incident shrouded in scrutiny, was finally nearing its congressional conclusion. The GOP chair of a House panel declared plans to end the probe, which had meticulously examined the deaths of two alleged drug smugglers. These individuals reportedly survived the initial attack on their vessel, only to perish under circumstances that provoked intense scrutiny from lawmakers and top national security officials. The investigation delved into the intricacies of the event, seeking answers in a sea of questions. Now, with the panel's work drawing to a close, the echoes of that fateful high seas encounter would slowly fade into the annals of congressional history, perhaps without full resolution.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
-        "publishedTime": "1 day ago"
+        "sourceUrl": "https://washingtonpost.com",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765356981628-4",
+        "headline": "The Debt's Shifting Sands",
+        "content": "A significant policy shift was underway as officials within the Trump administration initiated moves to dismantle a key student-loan repayment program. This plan, a cornerstone of the Biden administration's efforts, was designed to alleviate the financial burden on millions of Americans. It promised a more affordable and flexible repayment structure, a lifeline for those burdened by outstanding student debt. The impending removal of the program threatened to alter the financial landscape for countless individuals, potentially reintroducing stricter repayment terms. The sands of student debt repayment were shifting once again, promising uncertainty for those who had relied on the now-threatened relief. Millions braced for the impact.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "9 hours ago"
+      },
+      {
+        "id": "story-1765356981628-5",
+        "headline": "A Viewer's Reckoning",
+        "content": "Streaming giant Netflix found itself ensnared in a consumer class-action lawsuit, a direct consequence of its colossal $72 billion deal with Warner Bros. The legal challenge wasn't merely a corporate skirmish; it was a reckoning for consumer rights, probing the profound implications of such a massive acquisition on service quality and, more critically, pricing structures. Subscribers, once content, now questioned whether their viewing experience and wallets would bear the brunt of this industry-shaking merger. The lawsuit represented a powerful assertion that even the largest entertainment entities are accountable to their users. This legal battle would determine if the viewers, truly held the remote control over their streaming destiny.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://theguardian.com",
+        "publishedTime": "Yesterday"
       }
     ]
   }
