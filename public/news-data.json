@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765342680915,
+  "timestamp": 1765349973374,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765342616352-0",
-        "headline": "President Trump Dismisses Working-Class Struggles While Claiming to Address Affordability Crisis",
-        "content": "During the initial stop of his \"affordability tour\" in Pennsylvania, President Trump notably downplayed and even mocked the very real affordability struggles faced by working families. Despite claiming to be \"crushing\" inflation, his remarks underscore a stark disconnect from the systemic economic challenges that continue to burden communities across the nation. This approach casts doubt on the sincerity of his economic agenda.",
+        "id": "story-1765349894506-0",
+        "headline": "Human Rights Groups Demand Transparency on Lethal Caribbean Strikes, Challenging Administration's Secrecy",
+        "content": "The ACLU and other prominent rights organizations have initiated a lawsuit to compel the release of the legal memo justifying recent U.S. military operations in the Caribbean. These controversial strikes, which targeted boats suspected of drug trafficking, have resulted in the tragic loss of life for alleged smugglers. This legal challenge underscores a critical demand for transparency and accountability from the administration, highlighting systemic concerns about unchecked military power and the profound human cost when government actions are shrouded in secrecy.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "44 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-1",
-        "headline": "Miami Elects Progressive Champion Eileen Higgins, Ending Decades-Long Political Gridlock and Prioritizing Community Needs",
-        "content": "In a significant victory for Miami's progressive movement, Eileen Higgins has been elected mayor, securing 59% of the vote against Emilio Gonzalez and breaking a nearly 30-year Republican stronghold. Her win signals a renewed commitment to addressing critical systemic issues such as the city's severe housing affordability crisis, implementing vital climate resilience strategies, and rebuilding public trust in governance, offering a hopeful path forward for residents.",
+        "id": "story-1765349894506-1",
+        "headline": "Supreme Court Considers Gutting Campaign Finance Limits, Threatening Democratic Integrity with More Corporate Influence",
+        "content": "The U.S. Supreme Court is currently deliberating a pivotal case that could dismantle existing safeguards on political party spending in coordination with candidates. A decision favoring the petitioners would dramatically erode campaign finance regulations, ushering in an era of even greater coordinated spending. This move risks further concentrating political power in the hands of wealthy donors and corporate interests, exacerbating systemic inequalities and undermining the principle of one person, one vote in our democracy.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765349894506-2",
+        "headline": "Federal Judge Orders Unsealing of Ghislaine Maxwell Case Records, Signaling a Step Towards Greater Transparency for Survivors",
+        "content": "A federal judge has approved the Justice Department's plea to unseal grand jury documents and other investigative materials related to the sex trafficking case involving Ghislaine Maxwell, Jeffrey Epstein's associate. While the judge acknowledged these newly public files might not reveal extensive new details, their release is a crucial step towards transparency and accountability. This action is vital for survivors and the public to understand the full scope of this reprehensible system of exploitation and to ensure that justice is pursued relentlessly, especially when powerful individuals are implicated.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
+        "publishedTime": "13 hours ago"
       },
       {
-        "id": "story-1765342616352-2",
-        "headline": "Republican-Led House Panel Prematurely Ends Probe into Lethal Military Boat Strike, Raising Concerns About Accountability and Transparency",
-        "content": "A House panel, under Republican leadership, is set to prematurely conclude its investigation into a U.S. military operation that led to the deaths of two alleged drug smugglers, even after they reportedly survived an initial attack on their vessel. This decision to end the probe, despite lingering questions and calls for thorough oversight from other lawmakers, raises serious concerns about governmental transparency and the potential for a lack of accountability in military operations.",
+        "id": "story-1765349894506-3",
+        "headline": "Eileen Higgins' Victory Heralds a New Era for Miami, Prioritizing Affordable Housing and Climate Resilience",
+        "content": "Eileen Higgins has secured a historic victory in Miami's mayoral runoff election, marking the city's first Democratic mayor in nearly three decades. This significant shift in leadership reflects a community eager for change, as Higgins' campaign successfully centered on critical systemic issues like the urgent need for affordable housing, bolstering climate resilience in a vulnerable city, and restoring faith in public institutions. Her win represents a mandate for progressive action to address the root causes of inequality and build a more equitable future for all Miami residents.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-3",
-        "headline": "Appointment of Election Denier to FEMA Leadership Role Threatens Democratic Integrity and Emergency Preparedness",
-        "content": "Reports indicate that an individual with a documented history of denying legitimate election results has been chosen for a critical leadership position within the Federal Emergency Management Agency (FEMA). This concerning appointment not only undermines the foundational principles of democratic elections but also raises serious questions about the agency's ability to maintain public trust and effectively respond to national crises, potentially jeopardizing the safety and security of communities.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "12 minutes ago"
-      },
-      {
-        "id": "story-1765342616352-4",
-        "headline": "Systemic Failure to Address Gun Violence Leads to Second Fatal Shooting at Kentucky State University in Four Months",
-        "content": "The tragic death of a student in a shooting incident at Kentucky State University marks the second fatal shooting on campus within a mere four months. This devastating pattern highlights a profound systemic failure to adequately address the rampant issue of gun violence, underscoring the urgent need for comprehensive safety reforms and deeper investigations into the underlying causes contributing to such profound insecurity within educational institutions.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "32m ago"
-      },
-      {
-        "id": "story-1765342616352-5",
-        "headline": "ICE Operation Tears Apart Family, Forcing 18-Year-Old Into Caregiver Role Amidst Fear and Systemic Injustice",
-        "content": "An 18-year-old is now the sole guardian for his younger sister, living in constant fear, following the arrest of their mother, Vilma Cruz, by ICE in New Orleans. This incident, part of \"Operation Catahoula Crunch\" by the Department of Homeland Security, exemplifies the devastating human cost of aggressive immigration enforcement policies that routinely separate families and disrupt communities, often without adequate consideration for the profound systemic trauma inflicted upon vulnerable individuals.",
+        "id": "story-1765349894506-4",
+        "headline": "Another Life Lost to Systemic Gun Violence at Kentucky State University, Demanding Urgent Action",
+        "content": "Tragedy struck the campus of Kentucky State University on Tuesday, as one person was killed and another critically wounded in a shooting incident. While university officials and campus police have secured the area and launched an investigation, this devastating event is a stark reminder of the pervasive and systemic crisis of gun violence plaguing our nation. It underscores the urgent need for comprehensive solutions that address the root causes of violence and prioritize community safety over the status quo, ensuring no more lives are senselessly lost.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765349894506-5",
+        "headline": "President Trump's Administration Axes Vital Student Loan Repayment Plan, Deepening Economic Hardship for Millions",
+        "content": "President Trump's administration has finalized an agreement to dismantle the previous administration's crucial student loan repayment program. This action, framed as a federal cost-cutting measure, will inflict severe economic consequences on millions of student loan borrowers who rely on the plan. This decision exacerbates the systemic crisis of student debt, disproportionately affecting working-class families and further entrenching economic inequality rather than addressing the root causes of a broken higher education financing system.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765342616352-0",
-        "headline": "At the first stop on his affordability tour, Trump mocks affordability.",
-        "content": "President Trump spoke about affordability and his economic agenda in the Poconos, in northeastern Pennsylvania, but was noted for mocking affordability concerns, stating he is \"crushing\" inflation. His remarks came during the first stop of his new tour focused on economic issues.",
+        "id": "story-1765349894506-0",
+        "headline": "Rights groups sue administration for release of memo justifying Caribbean boat strikes",
+        "content": "The ACLU and other rights organizations have filed a lawsuit demanding the release of the legal justification memo used for recent US military strikes on boats suspected of drug trafficking in the Caribbean. The controversial strikes resulted in the deaths of alleged smugglers, prompting calls for greater transparency on the administration's actions.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "44 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-1",
-        "headline": "Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought.",
-        "content": "Eileen Higgins defeated former city manager Emilio Gonzalez with 59% of the vote in the Miami mayoral runoff. She becomes the city's first Democratic mayor in nearly 30 years and has pledged to tackle key issues like housing affordability, climate resilience, and restoring trust at City Hall.",
+        "id": "story-1765349894506-1",
+        "headline": "Supreme Court weighs further loosening campaign finance limits",
+        "content": "The U.S. Supreme Court is considering a significant case that challenges existing limits on how much political parties can spend in coordination with candidates. A ruling in favor of the petitioners could substantially roll back campaign finance regulations, allowing for much greater coordinated spending in future elections.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765349894506-2",
+        "headline": "DOJ can unseal Ghislaine Maxwell sex trafficking case records, judge says",
+        "content": "A federal judge has granted the Justice Department's request to make public grand jury documents and other investigative materials from the sex trafficking case against Ghislaine Maxwell, the former associate of Jeffrey Epstein. The judge noted that the newly unsealed files may offer few entirely new details.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
+        "publishedTime": "13 hours ago"
       },
       {
-        "id": "story-1765342616352-2",
-        "headline": "House panel plans to end its boat strike probe, GOP chair says.",
-        "content": "A House panel, led by a Republican chair, plans to conclude its investigation into the U.S. military's operation that resulted in the killing of two alleged drug smugglers who survived an initial attack on their boat, despite ongoing scrutiny from lawmakers.",
+        "id": "story-1765349894506-3",
+        "headline": "Miami will have its first Democratic mayor in nearly 30 years",
+        "content": "Eileen Higgins won the Miami mayoral runoff election, a victory that breaks a nearly three-decade-long streak of Republican leadership in the city. Her successful campaign focused on addressing local concerns such as affordable housing, climate resilience, and restoring public trust in City Hall.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-3",
-        "headline": "Election denier tapped for FEMA leadership role.",
-        "content": "A candidate with a history of denying election results has reportedly been selected for a significant leadership position within the Federal Emergency Management Agency (FEMA), a development which was updated in news reports just minutes before the search.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "12 minutes ago"
-      },
-      {
-        "id": "story-1765342616352-4",
-        "headline": "Student killed in second shooting at Kentucky State University in four months.",
-        "content": "A shooting incident on the campus of Kentucky State University has resulted in the death of a student. This tragic event is the second fatal shooting to occur at the university in a span of only four months, raising concerns about campus safety.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "32m ago"
-      },
-      {
-        "id": "story-1765342616352-5",
-        "headline": "After mom's ICE arrest, 18-year-old now caring for his sister in fear.",
-        "content": "An 18-year-old is now the sole caretaker for his younger sister after their mother, Vilma Cruz, was arrested by ICE in the New Orleans area. The arrest occurred during \"Operation Catahoula Crunch,\" a Department of Homeland Security effort targeting \"criminal illegal aliens.\"",
+        "id": "story-1765349894506-4",
+        "headline": "Shooting at Kentucky State University kills 1, officials say",
+        "content": "One person was killed and another was critically wounded following a shooting that occurred on the campus of Kentucky State University on Tuesday. University officials and campus police have secured the area, and a full investigation into the fatal incident is currently underway.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765349894506-5",
+        "headline": "Trump administration strikes deal to end Biden's student loan repayment plan",
+        "content": "The Trump administration has finalized a deal to terminate the previous administration's prominent student loan repayment program. The action is part of a wider effort to cut federal costs, which will directly affect millions of student loan borrowers currently enrolled in the plan.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765342616352-0",
-        "headline": "President Trump Touts Economic Strength, Assuring Americans He Will Restore Prosperity.",
-        "content": "President Trump, during his economic agenda tour in Pennsylvania, boldly asserted his commitment to restoring American prosperity and \"crushing\" the inflation that burdens hardworking families. He articulated a vision for economic growth, emphasizing how his policies will ensure affordability, a stark contrast to current economic anxieties.",
+        "id": "story-1765349894506-0",
+        "headline": "National Security Imperiled by Rights Groups Demanding Sensitive Memo Release",
+        "content": "Radical rights organizations, including the ACLU, are challenging the administration's vital efforts to combat drug trafficking in the Caribbean, demanding the release of a memo justifying recent military actions against vessels suspected of smuggling. These necessary strikes aimed to protect our borders and communities from dangerous drugs, yet these groups prioritize endless litigation over national security, hindering effective law enforcement against those who threaten our nation.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "44 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-1",
-        "headline": "Miami Elects Democrat Mayor, Ending Three Decades of Traditional Leadership.",
-        "content": "Miami voters have elected Eileen Higgins as mayor, concluding nearly thirty years of non-Democratic leadership in the city. Higgins, who secured 59% of the vote, has promised to address issues such as housing affordability and climate resilience, potentially ushering in a new era of governance that will test the city's long-standing conservative traditions.",
+        "id": "story-1765349894506-1",
+        "headline": "Supreme Court Considers Restoring Free Speech in Campaign Finance",
+        "content": "The U.S. Supreme Court is poised to uphold the fundamental right to free speech by examining current restrictions on political parties' coordinated spending with candidates. A decision favoring the petitioners would be a crucial step towards dismantling burdensome campaign finance regulations that stifle legitimate political expression and hinder robust public discourse, allowing more liberty in our electoral process.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765349894506-2",
+        "headline": "Justice Department Allowed to Unseal Records in Ghislaine Maxwell Sex Trafficking Case",
+        "content": "A federal judge has rightly permitted the Justice Department to make public crucial grand jury documents and investigative materials from the abhorrent sex trafficking case against Ghislaine Maxwell, Jeffrey Epstein's associate. While the judge cautiously noted that these newly unsealed files might offer limited new revelations, exposing every detail of this deeply disturbing case is essential for true justice and transparency, ensuring accountability for such heinous crimes.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
+        "publishedTime": "13 hours ago"
       },
       {
-        "id": "story-1765342616352-2",
-        "headline": "House Panel Concludes Vital Probe into Military Operation Against Drug Smugglers.",
-        "content": "A Republican-led House panel has announced its intention to conclude its investigation into a U.S. military operation where alleged drug smugglers were apprehended after their boat was engaged. This decision underscores a commitment to supporting our armed forces and ensuring they can effectively counter criminal enterprises without undue, politicized scrutiny from certain lawmakers.",
+        "id": "story-1765349894506-3",
+        "headline": "Miami Shifts Left as Democrat Eileen Higgins Ends Decades of Republican Rule",
+        "content": "Miami has regrettably elected its first Democratic mayor in nearly three decades, with Eileen Higgins securing a victory that unseats conservative leadership. Her campaign, centered on expansive government programs like \"affordable housing\" and \"climate resilience,\" signals a potential departure from fiscal prudence and limited government that has served the city well for so long, risking new taxes and regulations for Miami's hardworking citizens.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-3",
-        "headline": "FEMA Considers Leader Focused on Election Integrity for Key Role.",
-        "content": "Reports indicate that a candidate known for raising important questions about election integrity is under consideration for a crucial leadership position within the Federal Emergency Management Agency (FEMA). This development suggests a potential focus on ensuring the foundational principles of trust and accountability are upheld even in critical government functions.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "12 minutes ago"
-      },
-      {
-        "id": "story-1765342616352-4",
-        "headline": "Tragic Violence Continues at Kentucky State University, Highlighting Safety Concerns.",
-        "content": "Another tragic shooting has claimed the life of a student at Kentucky State University, marking the second such fatality in a mere four months. This escalating pattern of violence on campus demands immediate and decisive action, prompting a serious re-evaluation of security protocols and the need to restore a culture of safety and order where students can learn without fear.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "32m ago"
-      },
-      {
-        "id": "story-1765342616352-5",
-        "headline": "ICE Enforcement Action Leads to Arrest of Criminal Illegal Alien Mother.",
-        "content": "An 18-year-old is reportedly now caring for his sister after their mother, Vilma Cruz, an illegal alien, was apprehended by Immigration and Customs Enforcement (ICE) in New Orleans. The arrest was part of \"Operation Catahoula Crunch,\" a Department of Homeland Security initiative specifically targeting criminal illegal aliens, underscoring the vital importance of upholding our nation's immigration laws for the safety and security of all citizens.",
+        "id": "story-1765349894506-4",
+        "headline": "Tragic Shooting Claims Life at Kentucky State University, Prompting Security Concerns",
+        "content": "A senseless act of violence has tragically resulted in one fatality and another critical injury following a shooting incident on the campus of Kentucky State University. While university officials and campus police have secured the area and launched a full investigation, this grim event underscores the urgent need for robust security measures and a commitment to maintaining law and order to protect our students and communities from such devastating occurrences.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765349894506-5",
+        "headline": "President Trump Administration Ends Wasteful Student Loan Repayment Plan to Restore Fiscal Responsibility",
+        "content": "The President Trump administration has decisively moved to terminate the previous administration's expansive student loan repayment program, a crucial step in reining in excessive federal spending. This action, part of a broader commitment to fiscal discipline, ensures that taxpayers are no longer burdened by unsustainable programs and promotes personal accountability for educational expenses, a principle vital for our nation's economic health.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765342616352-0",
-        "headline": "President Trump Unveils \"Affordability\" Tour by Declaring Affordability Itself a Pathetic Myth.",
-        "content": "President Trump kicked off his highly anticipated \"Affordability Tour\" by immediately dismissing the very concept of affordability as a quaint, bygone-era delusion. Speaking to a baffled crowd in the Poconos, President Trump proudly proclaimed he was \"crushing\" inflation, apparently with the sheer force of his own indifference. Experts now predict the tour will dramatically improve economic outlooks by convincing everyone that wanting things to be affordable is simply an unpatriotic sign of weakness.",
+        "id": "story-1765349894506-0",
+        "headline": "ACLU Demands Administration Reveal If 'Because We Said So' Constitutes Valid Legal Justification for Deadly Boat Strikes",
+        "content": "Human rights organizations, clearly suffering from a delusion that the public deserves to know why its government is blowing up boats, have launched a desperate legal bid to uncover the 'secret sauce' memo justifying recent Caribbean naval operations. After all, if our strikes on alleged smugglers resulted in 'alleged deaths,' surely the legal framework must be a masterpiece of ambiguity, perhaps penned on a napkin during a particularly boisterous lunch meeting.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "44 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-1",
-        "headline": "Miami Breaks 30-Year Democratic Curse with Arrival of Miraculous Eileen Higgins.",
-        "content": "Miami, long believed to be trapped in a mystical, three-decade-long Democratic drought, has finally been blessed with the anointing of Eileen Higgins as its new mayor. Higgins, who secured a stunning 59% of the vote against former city manager Emilio Gonzalez, has promised to tackle housing affordability, climate resilience, and the monumental task of restoring trust at City Hall – issues the city apparently just noticed existed this morning. Celebrations included weeping, spontaneous parades, and the burning of old Republican campaign signs in effigy.",
+        "id": "story-1765349894506-1",
+        "headline": "Supreme Court Considers Further Empowering Billionaires To Whisper Sweet Nothings Directly Into Candidates' Wallets",
+        "content": "In a groundbreaking move for the sanctity of 'free speech' (provided that speech comes with a hefty price tag), the U.S. Supreme Court is reportedly mulling over a case that could finally unburden political parties from the oppressive shackles of 'spending limits.' Experts suggest this bold step will usher in an unprecedented era of political transparency, where voters will clearly see exactly which special interests are literally funding their chosen representatives, probably with gold bullion. It's not bribery if the Supreme Court says it's dialogue.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765349894506-2",
+        "headline": "Judge Generously Allows Public To View Ghislaine Maxwell Records That Will Reveal Absolutely Nothing New, Shocker",
+        "content": "In a stunning display of legal theater, a federal judge has heroically granted the Justice Department permission to unveil grand jury documents and other 'investigative materials' from the Ghislaine Maxwell sex trafficking case. Insiders, who clearly understand how these things work, predict the 'newly unsealed files' will likely confirm that water is wet, the sky is blue, and certain extremely wealthy individuals have always had impeccable timing when flying their private jets.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
+        "publishedTime": "13 hours ago"
       },
       {
-        "id": "story-1765342616352-2",
-        "headline": "House Panel Heroically Concludes Boat Strike Probe Just Before Anyone Could Ask Too Many Questions.",
-        "content": "A diligent House panel, under the steadfast leadership of its Republican chair, has announced its triumphant conclusion to the investigation into the U.S. military’s highly effective operation that resulted in two alleged drug smugglers meeting their untimely demise – *after* inexplicably surviving the initial attack on their boat. Despite what some pesky lawmakers termed \"ongoing scrutiny,\" the panel bravely declared itself satisfied, presumably after confirming that all loose ends were tied securely in a very opaque knot. The official report is expected to read, \"Nothing to see here, folks, move along.\"",
+        "id": "story-1765349894506-3",
+        "headline": "Miami Voters Accidentally Elect Democrat After Decades Of Unbroken Republican Rule, City Throws Emergency Shade",
+        "content": "In what can only be described as a glitch in the Matrix, Miami has somehow managed to elect its first Democratic mayor in nearly three decades, sending shockwaves through the city's established order of 'more golf courses' and 'less public transit.' Eileen Higgins, a maverick who dared to campaign on concepts like 'affordable housing' and 'climate resilience'—ideas previously considered utter science fiction in the region—has now taken the reins. Local pundits are already bracing for the impending chaos of public services actually functioning.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-3",
-        "headline": "FEMA Taps Reality-Optional Leader, Promises Agency Will Now Tackle \"Figments of Disasters.\"",
-        "content": "In a bold move towards existential crisis management, the Federal Emergency Management Agency (FEMA) has reportedly selected a candidate with a sterling record of denying verifiable facts for a crucial leadership role. This visionary pick, updated just moments before the official announcement, signals FEMA’s exciting new direction: responding only to emergencies that *feel* like they happened, or that a significant portion of the population refuses to acknowledge. Experts anticipate a surge in declarations for \"alternative facts\" hurricanes and \"phantom floods.\"",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "12 minutes ago"
-      },
-      {
-        "id": "story-1765342616352-4",
-        "headline": "Kentucky State University Declares Itself \"Statistically Significant\" After Second Student Shooting in Four Months.",
-        "content": "Kentucky State University officials, in a groundbreaking act of administrative pragmatism, have proudly announced the campus is now \"statistically significant\" following the tragic death of a student in the second fatal shooting incident in just four months. The university assured concerned parties that this pattern of violence is merely a \"data point\" and that future safety measures will include enhanced statistical analysis and perhaps a highly trained squirrel with a tiny clipboard. Students are reminded to keep their heads down, both metaphorically and literally.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "32m ago"
-      },
-      {
-        "id": "story-1765342616352-5",
-        "headline": "Teenager Promoted to Instant Parent as \"Operation Catahoula Crunch\" Achieves Peak Family Separation.",
-        "content": "An 18-year-old in the New Orleans area has bravely stepped into the role of sole caretaker for his younger sister, thanks to the wildly successful Department of Homeland Security initiative, \"Operation Catahoula Crunch.\" The operation, designed to target \"criminal illegal aliens\" like their mother, Vilma Cruz, has been lauded for its efficiency in instantly redesigning family structures without the cumbersome need for due process or a clear understanding of parental responsibility. The siblings are reportedly \"thriving\" under their new arrangement, mostly by trying not to think about it.",
+        "id": "story-1765349894506-4",
+        "headline": "Campus Shooting Confirmed To Be 'Very Normal Incident,' Officials Reassure Everyone",
+        "content": "Kentucky State University officials have confirmed that a shooting on campus tragically resulted in one death and one critical injury, an incident they quickly labeled 'a routine Tuesday.' Campus police swiftly 'secured the area,' which reportedly involved putting up a 'business as usual' sign, while a 'full investigation' has been launched to determine precisely how many thoughts and prayers will be needed this time. Students are reminded to keep their head on a swivel, or at least remember where the nearest designated safe space (probably a broom closet) is located.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765349894506-5",
+        "headline": "President Trump Administration Bravely Eliminates Student Loan Forgiveness, Freeing Millions To Live With Crushing Debt",
+        "content": "In a stunning move designed to instill fiscal responsibility (or possibly just crippling panic) in the nation's youth, President Trump's administration has proudly announced it has 'struck a deal' to summarily execute the previous administration's 'generous' student loan repayment program. This bold initiative, hailed as a 'major cost-saving measure,' will effectively 'free' millions of borrowers from the burden of *not* being suffocated by monthly payments. Experts predict a surge in creativity as graduates discover innovative ways to pay for rent and ramen simultaneously.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
+        "publishedTime": "1 day ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765342616352-0",
-        "headline": "President Trump Makes Fun of Prices on His Tour",
-        "content": "President Trump started his new trip to talk about how things cost too much money. He was in a place called the Poconos in Pennsylvania. But then, he joked about how much things cost and said he was making prices go down a lot. This was the first time he talked about money stuff on his trip.",
+        "id": "story-1765349894506-0",
+        "headline": "Groups Want to See Why Boats Were Hit in the Ocean",
+        "content": "Big groups like the ACLU are asking the government to show them a secret paper. This paper explains why US soldiers hit boats in the Caribbean Sea. These boats were thought to be carrying bad drugs. But some people on the boats died, and now everyone wants to know why and if it was okay. They want everything to be open and clear for everyone to understand.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "44 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-1",
-        "headline": "Eileen Higgins Is Miami's New Mayor After Many Years",
-        "content": "A woman named Eileen Higgins won the big election to become the mayor of Miami! She beat another person named Emilio Gonzalez. She got 59% of all the votes. This is a really big deal because she's the first mayor from the Democratic party in Miami in almost 30 years! She promised to fix things like homes being too expensive, helping the city with bad weather, and making people trust the city government again.",
+        "id": "story-1765349894506-1",
+        "headline": "The Highest Court Might Let People Spend More Money on Elections",
+        "content": "The big boss court, called the Supreme Court, is looking at a new rule right now. This new rule might let political groups spend a lot more money when they work with people who want to be elected. If the court says 'yes,' it means groups could spend much more money together to help their favorite candidates win future elections.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765349894506-2",
+        "headline": "Judge Says Secret Papers About Ghislaine Maxwell Can Now Be Seen",
+        "content": "A judge has said that secret papers about Ghislaine Maxwell can now be shown to everyone. These papers are from her case where she was accused of really bad things, helping someone named Jeffrey Epstein. The judge mentioned that even though the papers will be public, they might not have a lot of brand new information that people don't already know.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
+        "publishedTime": "13 hours ago"
       },
       {
-        "id": "story-1765342616352-2",
-        "headline": "House Group Will Stop Looking Into Boat Incident",
-        "content": "A special group in the government, led by a Republican, says they are going to stop looking into something the U.S. military did. The military was chasing a boat and shot at it. Two people who were thought to be drug smugglers got hurt but were still alive after the first shots. Then, they were killed. Some other lawmakers still want to know more, but this group is done with their investigation.",
+        "id": "story-1765349894506-3",
+        "headline": "Miami Gets a New Kind of Mayor After a Very Long Time",
+        "content": "Eileen Higgins just won the election to be the mayor of Miami! This is a really big deal because it's the first time in almost 30 years that someone from the Democratic party will be the mayor there. She won because she promised to help with important things like making houses cheaper, making the city strong against bad weather, and making people trust the city leaders again.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-3",
-        "headline": "Person Who Said Elections Were Fake Gets Big Job",
-        "content": "Someone who has said in the past that election results were not real has been chosen for an important job. This job is at a place called FEMA, which helps people when there are big emergencies like hurricanes or floods. News reports found this out just a little while ago.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "12 minutes ago"
-      },
-      {
-        "id": "story-1765342616352-4",
-        "headline": "Student Dies After Shooting at University Again",
-        "content": "Something very sad happened at Kentucky State University. A student died because of a shooting. This is the second time someone has died from a shooting at this school in just four months. People are now worried about how safe the school is for students.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "32m ago"
-      },
-      {
-        "id": "story-1765342616352-5",
-        "headline": "Teenager Now Takes Care of Sister After Mom Is Arrested",
-        "content": "An 18-year-old boy is now the only one taking care of his little sister. This happened because their mom, Vilma Cruz, was arrested by a group called ICE in New Orleans. ICE helps with immigration rules. They arrested her during something called \"Operation Catahoula Crunch,\" which is when the government tries to find people who are not supposed to be in the country and have done bad things.",
+        "id": "story-1765349894506-4",
+        "headline": "Someone Was Shot and Died at a College Campus",
+        "content": "A very sad thing happened at Kentucky State University. One person was killed and another person was really badly hurt because of a shooting. The police and school leaders have made the area safe, and they are now trying very hard to figure out exactly what happened.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765349894506-5",
+        "headline": "President Trump's Team Stops a Student Loan Help Plan",
+        "content": "President Trump's team has made a new plan to stop an old plan that helped students pay back their college money. This is happening because they want to save money for the country. Millions of people who were getting help with their school loans will now be affected by this big change.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765342616352-0",
-        "headline": "The Illusion of Abundance",
-        "content": "President Trump stepped onto the stage in the Poconos, his voice echoing with promises of a booming economy. He spoke of an \"affordability tour,\" yet a smirk played on his lips as he dismissed concerns, declaring he was \"crushing\" inflation. The crowd cheered, some nodding, others exchanging uneasy glances. Was the rising cost of groceries, the endless struggle for rent, merely a phantom he could dispel with a wave of his hand? As his rally ended, the mountains stood silent witnesses, their shadows long, while the economic reality for many remained stubbornly unyielding, a stark contrast to the triumphant boasts.",
+        "id": "story-1765349894506-0",
+        "headline": "Whispers from the Waves",
+        "content": "The sea had swallowed secrets for too long. Families mourned those lost to the Caribbean's deep, their boats targeted, their lives extinguished. Rights organizations, a chorus of unwavering voices, now demanded an accounting. A lawsuit pressed for the hidden memo, the legal parchment that greenlit the deadly strikes. Transparency was their cry, echoing against the administration's fortified walls. They sought to understand the shadowed justifications for violence on the high seas, for the alleged smugglers silenced forever. The truth, they believed, lay coiled within those sealed documents, waiting to break free.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "44 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/rights-groups-sue-boat-strike-memo/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-1",
-        "headline": "Miami's Shifting Currents",
-        "content": "A new chapter began in Miami as Eileen Higgins claimed victory in the mayoral runoff, securing 59% of the vote against Emilio Gonzalez. The city, accustomed to a three-decade Democratic drought, now embraced change. Higgins, a beacon of fresh hope, pledged to navigate the complex waters of housing affordability, promising tangible relief to struggling families. Her vision extended to fortifying Miami against the relentless march of climate change and rebuilding shattered trust within City Hall. The cheers that erupted were not just for a winner, but for the promise of a city rediscovering its voice, ready to face its future anew.",
+        "id": "story-1765349894506-1",
+        "headline": "The Golden Floodgates",
+        "content": "A hushed chamber, the Supreme Court, now held the destiny of American campaigns. A case simmered, threatening to dismantle the fragile dams holding back the torrent of political money. If the petitioners succeeded, the floodgates would burst, unleashing unprecedented coordinated spending by parties and candidates. The air thickened with the scent of impending change, a shift that promised to reshape elections, allowing wealth to flow more freely into the political arteries. Critics whispered of undue influence, of a landscape where the loudest voices, fueled by limitless funds, would inevitably prevail.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/supreme-court-campaign-finance-case/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765349894506-2",
+        "headline": "Secrets in the Archives",
+        "content": "The judge's gavel fell, a decisive sound echoing through the legal corridors. Ghislaine Maxwell's past, entwined with Jeffrey Epstein's dark legacy, would now be partially unveiled. The Justice Department’s plea was granted: grand jury documents and investigative files from her sex trafficking case would be unsealed. Yet, a cynical current ran beneath the news. The judge conceded that these newly public archives might offer few entirely new details. Still, the unburdening of secrets, however familiar, served as a stark reminder of the horrors hidden for so long, now brought into the dim light.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/ghislaine-maxwell-epstein-documents-unsealed-judge-ruling/",
+        "publishedTime": "13 hours ago"
       },
       {
-        "id": "story-1765342616352-2",
-        "headline": "Silence on the Horizon",
-        "content": "The House panel, under the stern gaze of its Republican chair, prepared to close its books. The subject: a U.S. military operation that ended two lives, alleged drug smugglers who had somehow survived the initial volley on their boat. Despite the lingering questions, the whispers of unfinished justice, the inquiry was deemed complete. Lawmakers, some with furrowed brows, had scrutinized, questioned, and pressed, but their efforts had seemingly met a wall. The truth, or at least the official version, would soon be sealed, leaving the families of the deceased and the public to wonder what depths remained unexplored beneath the silent waves.",
+        "id": "story-1765349894506-3",
+        "headline": "The Tide Turns in Miami",
+        "content": "Miami, vibrant and sun-drenched, had known Republican leadership for nearly three decades. That streak, a part of the city’s political fabric, was now broken. Eileen Higgins, with a campaign rooted in the city's very pulse, claimed the mayoral victory. Affordable housing, the looming specter of climate change, and the urgent plea to restore public trust in City Hall were her battle cries. Her win wasn't just a political shift; it was a testament to a community yearning for change, for a new voice to navigate its unique challenges, promising a fresh chapter for the Magic City.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/09/miami-mayoral-election-higgins-win/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765342616352-3",
-        "headline": "The Architect of Doubt",
-        "content": "Whispers turned to shouts as news broke, minutes before it became official: an individual known for questioning the very bedrock of democratic elections had been chosen for a pivotal leadership role at the Federal Emergency Management Agency. FEMA, the nation's shield against natural and man-made disasters, would now be guided by someone who sowed seeds of doubt. The irony was stark: an agency built on trust, on the unwavering belief in clear facts during crises, might soon be steered by a figure whose past was clouded by skepticism. A new storm, perhaps of a different kind, appeared on the horizon.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "12 minutes ago"
-      },
-      {
-        "id": "story-1765342616352-4",
-        "headline": "Echoes in the Quad",
-        "content": "The Kentucky State University campus, once a vibrant hub of learning, now carried a heavy pall. Another student, another life extinguished by violence. This wasn't the first time; merely four months prior, a similar tragedy had unfolded, leaving behind shattered dreams and grieving families. The constant siren calls and flashing lights had become an unwelcome, terrifying norm. Parents clutched their children tighter, students walked with heightened vigilance, and faculty pondered solutions. The university, a sanctuary for knowledge, struggled to protect its own, haunted by the recurring echoes of gunshots, each one a stark reminder of fading safety.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us",
-        "publishedTime": "32m ago"
-      },
-      {
-        "id": "story-1765342616352-5",
-        "headline": "Brother's Burden",
-        "content": "The world had fractured for the 18-year-old, his adolescence abruptly replaced by the crushing weight of responsibility. His mother, Vilma Cruz, had been swept away by ICE in the New Orleans area, vanished into \"Operation Catahoula Crunch,\" a Department of Homeland Security sweep targeting alleged \"criminal illegal aliens.\" Now, he was the sole guardian of his younger sister, their small apartment filled with a silence that screamed of absence. Every knock on the door, every unfamiliar car, sent a jolt of ice through his veins. He cooked, cleaned, and comforted, but sleep offered little respite, haunted by the fear of their family’s future, untethered and alone.",
+        "id": "story-1765349894506-4",
+        "headline": "Silence on the Quad",
+        "content": "The typical hum of university life at Kentucky State dissolved into a chilling silence. A Tuesday afternoon, marred by the deafening crack of gunfire, left one student dead and another critically wounded. Panic rippled through the campus before officials and police swiftly secured the area, their presence a somber reminder of the tragedy. Investigations began immediately, a grim search for answers in the wake of senseless violence. The vibrant greens of the quad now seemed muted, overshadowed by grief, as the academic community grappled with the brutal intrusion of danger into their sanctuary.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "Less than 24 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/kentucky-state-university-shooting-one-dead/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765349894506-5",
+        "headline": "A Burden Renewed",
+        "content": "The air grew thick with apprehension for millions of student loan borrowers. President Trump’s administration had finalized a deal, quietly dismantling the previous administration’s cornerstone repayment program. This decisive move, framed as a broader effort to trim federal expenses, would ripple outwards, directly impacting those who had relied on the plan for financial reprieve. The echoes of an unpaid debt loomed larger, forcing individuals to recalibrate their futures. The promise of relief, once a comforting thought, now dissolved, replaced by the stark reality of renewed financial burdens.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/business/2025/12/09/trump-ends-biden-student-loan-repayment/",
+        "publishedTime": "1 day ago"
       }
     ]
   }
