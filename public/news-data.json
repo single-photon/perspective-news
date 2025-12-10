@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765393017935,
+  "timestamp": 1765399776865,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765392947447-0",
-        "headline": "President Trump's Administration Threatens Economic Stability for Millions by Dismantling Student Loan Relief",
-        "content": "President Trump's administration has initiated moves to terminate the crucial SAVE student loan repayment plan, a decision that will force millions of borrowers to transition to a new program within an arbitrary \"limited time\" and recommence repayments under the Department of Education's directives. This regressive action not only exacerbates the financial burden on countless individuals but also underscores a concerning pattern of governmental policy undermining economic justice and access to education for working families.",
+        "id": "story-1765399696681-0",
+        "headline": "Federal Reserve's Interest Rate Cuts Further Entrench Systemic Economic Inequality, Ignoring Root Causes",
+        "content": "The Federal Reserve's third consecutive interest rate reduction, bringing the federal funds rate to a three-year low, is presented as a measure to spur economic growth. However, this approach largely benefits corporations and financial institutions, doing little to address the systemic issues of stagnating wages, precarious labor conditions, and wealth disparity that plague working-class families. The central bank's limited projected reductions for the coming year further highlight a shortsighted strategy that fails to confront the deep-seated economic inequities faced by ordinary people.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1765392947447-1",
-        "headline": "Federal Judge Upholds Civilian Authority, Halting President Trump's Attempted Militarization of Los Angeles",
-        "content": "A U.S. district judge has commendably intervened, blocking President Trump's administration from deploying the California National Guard in Los Angeles, a move many saw as a potential federal overreach. The ruling unequivocally reinstates control and authority over the Guard to Governor Gavin Newsom, affirming the critical principle of local governance and civilian oversight against attempts to federalize state resources without due process or justification.",
+        "id": "story-1765399696681-1",
+        "headline": "Military Families Face Systemic Disregard as Crucial IVF Benefits Are Stripped from Defense Bill Again",
+        "content": "In a disheartening setback for those who serve, a vital provision to expand TRICARE coverage for in vitro fertilization (IVF) for all active-duty service members has been stripped from the final defense policy bill for the second time. This legislative betrayal, widely attributed to House Speaker Mike Johnson, demonstrates a systemic neglect of military families' fundamental healthcare needs. While vast sums are allocated to military hardware, the human cost of service, including the right to build a family, is consistently undermined by lawmakers' misplaced priorities, leaving countless families disappointed and struggling.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765399696681-2",
+        "headline": "Federal Judge Blocks President Trump Administration's Authoritarian Overreach, Safeguarding Civil Liberties in California",
+        "content": "A federal judge in California, Charles Breyer, delivered a critical blow to President Trump administration's attempt to centralize power, blocking the deployment of the federalized California National Guard in Los Angeles and returning control to Governor Gavin Newsom. The judge's decisive ruling rightfully criticized the administration for its dangerous overreach, warning against the 'effectively creating a national police force.' This ruling serves as a crucial check on executive power, protecting local governance and civil liberties from the increasing militarization of domestic law enforcement.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765392947447-2",
-        "headline": "Unsealing of Epstein Records Demands Full Accountability for Those Who Perpetuated Systemic Abuse",
-        "content": "In a significant step toward transparency and justice, a New York federal judge has approved the Justice Department's plea to unseal further records pertaining to convicted sex offender Jeffrey Epstein's 2019 sex trafficking case. This decision promises to shed more light on the pervasive scope of his crimes and, crucially, to identify all participants and enablers, pushing for long-overdue accountability for the powerful individuals involved in such egregious systemic exploitation.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/politics",
-        "publishedTime": "3 hours ago"
+        "id": "story-1765399696681-3",
+        "headline": "Department of Homeland Security Wastes $140 Million on Deportation Fleet, Further Militarizing Immigration Enforcement",
+        "content": "The Department of Homeland Security has signed a nearly $140 million contract to acquire six Boeing 737 jets, ostensibly to make U.S. Immigration and Customs Enforcement deportations 'more cost-effective.' This massive expenditure, funded by a substantial increase in congressional allocation for immigration enforcement, represents a grave misdirection of public funds. Instead of investing in humane asylum processing, community integration programs, or addressing the root causes of migration, the government is prioritizing the militarization of its borders and the dehumanization of immigrants, further expanding a costly and morally questionable deportation machine.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765392947447-3",
-        "headline": "Miami's Election of a Democratic Mayor Reflects a Growing Demand for Progressive Change Beyond a Mere Rejection of President Trump",
-        "content": "The recent election of a new Democratic mayor in Miami is being widely interpreted by political analysts as far more than just a backlash against President Trump. This victory signifies a potentially profound \"seismic shift\" in the region's political landscape, indicating a broader public appetite for policies that address systemic inequalities and champion progressive values, rather than simply a reaction to a single political figure.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news",
-        "publishedTime": "51 minutes ago"
+        "id": "story-1765399696681-4",
+        "headline": "President Trump Administration Proposes Massive Expansion of Surveillance, Demanding Years of Social Media History from Tourists",
+        "content": "In an alarming expansion of government surveillance, President Trump administration has unveiled a controversial proposal requiring foreign visitors from visa-waiver countries to submit up to five years of their social media history and other personal data for entry. While Customs and Border Protection claims this mandatory disclosure is for identity verification and risk assessment, critics rightly identify it as an unprecedented invasion of privacy and a dangerous precedent for digital rights. This policy risks alienating international visitors and normalizing broad state-sponsored data collection, eroding fundamental civil liberties under the guise of security.",
+        "originalSource": "Newser",
+        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765392947447-4",
-        "headline": "Long-Denied Justice: Lumbee Tribe Nears Federal Recognition, Acknowledging Decades of Struggle",
-        "content": "After a prolonged and arduous battle for their inherent rights, the Lumbee Tribe is finally poised to achieve full federal recognition through a crucial provision embedded within the pending defense bill under Senate review. This monumental step begins to rectify a generations-long historical injustice, affirming the tribe's sovereignty and self-determination and marking a vital moment in the ongoing fight for Indigenous rights and recognition.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765392947447-5",
-        "headline": "President Trump's Aggressive Deportation Policies Exacerbate a National Child Care Crisis, Endangering Essential Workers and Families",
-        "content": "President Trump's administration's escalating emphasis on mass deportations is not merely an immigration issue; it is actively inflicting severe, systemic damage upon the vital child care industry. This punitive approach is dramatically worsening pre-existing staffing shortages, creating immense instability for countless families and placing numerous non-citizen essential workers at risk of removal, all while undermining a critical social infrastructure.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765399696681-5",
+        "headline": "Eileen Higgins' Historic Victory Elects First Democratic Mayor in Miami in Three Decades, Signaling Progressive Shift",
+        "content": "In a significant moment for inclusive representation and progressive politics, former Miami-Dade County Commissioner Eileen Higgins has secured a decisive victory in the Miami mayoral runoff election, garnering 59% of the vote against Republican Emilio González. Her win is historic on multiple fronts: she is not only the first Democrat to be elected mayor of Miami in nearly three decades, but also the first woman to lead the city. This triumph signals a clear shift in Miami's political landscape, demonstrating a community ready to embrace more diverse leadership and prioritize policies that address systemic issues from a progressive perspective.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
+        "publishedTime": "12 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765392947447-0",
-        "headline": "Trump admin moves to end SAVE plan for millions of student borrowers",
-        "content": "The Trump administration announced it is moving to end the SAVE student loan repayment plan, requiring millions of current borrowers to switch to a new plan within a \"limited time\" and begin making repayments as directed by the Education Department.",
+        "id": "story-1765399696681-0",
+        "headline": "Fed Cuts Interest Rates by 0.25 Percentage Points in Third Consecutive Reduction",
+        "content": "The Federal Reserve on Wednesday reduced its benchmark interest rate by a quarter of a percentage point, bringing the federal funds rate to its lowest level in more than three years. This third consecutive cut aims to spur economic growth amid a slowing labor market, but the central bank also projected fewer reductions in the coming year.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1765392947447-1",
-        "headline": "Judge blocks Trump admin. from deploying California National Guard in L.A.",
-        "content": "A U.S. district judge issued a block on the Trump administration's attempt to deploy the California National Guard in Los Angeles. The ruling mandates that the control and authority over the Guard must be returned immediately to Governor Gavin Newsom.",
+        "id": "story-1765399696681-1",
+        "headline": "New IVF Benefits for Military Families Cut from Defense Bill Again",
+        "content": "A provision to expand TRICARE coverage for in vitro fertilization (IVF) to all active-duty service members was stripped from the final defense policy bill, the second time the measure was axed. Lawmakers accuse House Speaker Mike Johnson of removing the benefits, disappointing military families who hoped for coverage expansion.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765399696681-2",
+        "headline": "Judge Blocks Trump Administration from Deploying California National Guard in Los Angeles",
+        "content": "A federal judge in California, Charles Breyer, blocked the Trump administration from using the federalized California National Guard in Los Angeles and directed that control be returned to Gov. Gavin Newsom. The judge's decision criticized the administration for overreaching its authority and 'effectively creating a national police force.'",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765392947447-2",
-        "headline": "Judge says Justice Department can unseal records from Epstein's 2019 sex trafficking case",
-        "content": "A federal judge in New York granted the Justice Department's request to unseal additional records related to convicted sex offender Jeffrey Epstein's 2019 sex trafficking case. This decision is expected to release more details about the case's scope and participants.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/politics",
-        "publishedTime": "3 hours ago"
+        "id": "story-1765399696681-3",
+        "headline": "DHS Inks $140 Million Contract to Create Its Own Fleet of 737 Jets for Deportations",
+        "content": "The Department of Homeland Security signed a contract worth nearly $140 million to acquire six Boeing 737 planes, allowing the agency to operate its own fleet for deportations. The move, funded by a massive increase in immigration enforcement funds from Congress, aims to make U.S. Immigration and Customs Enforcement operations more cost-effective.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765392947447-3",
-        "headline": "Miami's new Democratic mayor signals not just a backlash to Trump, but a seismic shift",
-        "content": "The recent election of a new Democratic mayor in Miami is being interpreted by analysts as more than just a rejection of Donald Trump. It is seen as a potentially significant and \"seismic shift\" in the political leanings of the region.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news",
-        "publishedTime": "51 minutes ago"
+        "id": "story-1765399696681-4",
+        "headline": "US Proposes Mandatory 5 Years of Social Media History for Visa-Waiver Tourists",
+        "content": "The Trump administration announced a controversial proposal requiring foreign visitors from visa-waiver countries to submit up to five years of their social media history and other personal data for entry. Customs and Border Protection claims the mandatory disclosure, which critics say invades privacy, is intended to verify identity and assess risk.",
+        "originalSource": "Newser",
+        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765392947447-4",
-        "headline": "Lumbee Tribe poised to gain federal recognition through defense bill",
-        "content": "The Lumbee Tribe is now poised to finally receive full federal recognition through a provision included in the latest defense bill under Senate review. This move addresses the tribe's long-standing push for this legal status.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765392947447-5",
-        "headline": "Trump's push for mass deportation hits child care workers, who are already facing shortages",
-        "content": "The Trump administration's increased focus on mass deportations is causing unintended collateral damage to the child care industry. The action is worsening existing staffing shortages in the sector, as many non-citizen workers face removal risks.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765399696681-5",
+        "headline": "Eileen Higgins Wins Miami Mayoral Runoff, Becomes City's First Democratic Mayor in 30 Years",
+        "content": "Former Miami-Dade County Commissioner Eileen Higgins secured 59% of the vote to win the Miami mayoral runoff election, defeating Republican Emilio González. Her victory marks the first time a Democrat has been elected mayor of Miami in nearly three decades and she is also the first woman to lead the city.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
+        "publishedTime": "12 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765392947447-0",
-        "headline": "President Trump Reasserts Fiscal Discipline by Ending Costly Student Loan Entitlement Program",
-        "content": "The President Trump administration has moved decisively to terminate the problematic SAVE student loan repayment plan, ensuring millions of borrowers transition to a responsible new framework. This action by the Education Department underscores a commitment to fiscal prudence and encourages individual accountability, thereby alleviating the burden on hardworking taxpayers.",
+        "id": "story-1765399696681-0",
+        "headline": "Federal Reserve's Third Rate Cut Raises Concerns About Economic Strength and Central Bank Overreach",
+        "content": "The Federal Reserve recently reduced its benchmark interest rate by a quarter of a percentage point, marking the third consecutive cut to stimulate economic growth. While the central bank states this move aims to bolster a slowing labor market, critics question if these interventions truly reflect a healthy economy or merely mask underlying issues. Such actions from a centralized authority raise traditional concerns about market distortion and the true liberty of economic forces.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1765392947447-1",
-        "headline": "Judicial Overreach Undermines President Trump's Authority to Secure Los Angeles",
-        "content": "A U.S. district judge has unfortunately obstructed President Trump's vital effort to deploy the California National Guard in Los Angeles. This ruling, which mandates immediate control be returned to Governor Gavin Newsom, raises serious concerns about judicial activism and the impedance of the executive branch's capacity to ensure public safety and order.",
+        "id": "story-1765399696681-1",
+        "headline": "Fiscal Responsibility Prioritized as IVF Expansion for Military Families Withdrawn from Defense Bill",
+        "content": "A provision to expand TRICARE coverage for in vitro fertilization (IVF) to all active-duty service members was once again removed from the final defense policy bill. While many support military families, the decision reflects a necessary focus on fiscal prudence and core defense priorities amid complex budgetary constraints, rather than expanding government-funded benefits without clear sustainability. Lawmakers grapple with difficult choices to ensure our nation's security remains paramount.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765399696681-2",
+        "headline": "California Judge Undermines President Trump's Authority in National Guard Deployment",
+        "content": "A federal judge in California, Charles Breyer, issued a ruling blocking the President Trump administration from utilizing the federalized California National Guard in Los Angeles, demanding control be returned to Governor Gavin Newsom. The judge's decision, criticizing the administration for alleged overreach and 'effectively creating a national police force,' represents a concerning instance of judicial activism attempting to handcuff the President's executive authority in matters of national security and public order.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765392947447-2",
-        "headline": "Justice Prevails as Judge Orders Unsealing of Epstein Sex Trafficking Records",
-        "content": "A federal judge in New York has commendably granted the Justice Department's plea to unseal additional records pertinent to the heinous 2019 sex trafficking case involving convicted predator Jeffrey Epstein. This crucial decision promises to bring much-needed transparency, exposing the full extent of this depravity and ensuring accountability for all involved parties.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/politics",
-        "publishedTime": "3 hours ago"
+        "id": "story-1765399696681-3",
+        "headline": "President Trump's DHS Secures Own Fleet for Deportations, Enhancing National Security and Efficiency",
+        "content": "The Department of Homeland Security, under President Trump, has signed a substantial contract worth nearly $140 million to acquire six Boeing 737 aircraft. This strategic move enables the agency to operate its own dedicated fleet for deportations, significantly boosting U.S. Immigration and Customs Enforcement operations. This initiative, backed by a robust increase in immigration enforcement funding from Congress, underscores a firm commitment to national sovereignty, secure borders, and the cost-effective enforcement of immigration laws.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765392947447-3",
-        "headline": "Miami's New Progressive Mayor Raises Concerns for City's Future and Traditional Values",
-        "content": "The recent election of a new Democratic mayor in Miami is being framed by some analysts as a significant shift. However, a closer look suggests this local outcome might reflect specific municipal dynamics rather than a broad repudiation of President Trump's conservative principles, though it certainly sparks worry for the city's commitment to traditional values and economic liberty.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news",
-        "publishedTime": "51 minutes ago"
+        "id": "story-1765399696681-4",
+        "headline": "President Trump's Administration Bolsters National Security with Proposal for Social Media Vetting of Foreign Visitors",
+        "content": "The President Trump administration has unveiled a crucial proposal requiring foreign visitors from visa-waiver countries to submit up to five years of their social media history and other personal data for entry into the United States. Customs and Border Protection asserts this mandatory disclosure is vital for verifying identity and assessing potential risks. While some critics raise privacy concerns, the administration prioritizes national security and the protection of American citizens above all else, ensuring only those who pose no threat are welcomed.",
+        "originalSource": "Newser",
+        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765392947447-4",
-        "headline": "Long-Awaited Justice for Lumbee Tribe Nears with Federal Recognition in Defense Bill",
-        "content": "The Lumbee Tribe is finally poised to achieve full federal recognition, a long-sought objective, through a significant provision thoughtfully included in the latest defense bill currently under Senate review. This legislative action represents a principled step towards rectifying historical oversights and affirming the tribe's inherent sovereignty and cultural heritage.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765392947447-5",
-        "headline": "President Trump's Immigration Enforcement Upholds Rule of Law and National Sovereignty",
-        "content": "President Trump's steadfast commitment to securing our nation's borders and upholding the rule of law through robust immigration enforcement is paramount for national integrity. While some sectors, like child care, may experience adjustments, ensuring legal immigration and national security remains the administration's top priority, reinforcing the principle that all must abide by the laws of the land.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765399696681-5",
+        "headline": "Miami Elects First Democrat Mayor in Decades, Raising Questions About City's Future Direction",
+        "content": "Former Miami-Dade County Commissioner Eileen Higgins secured victory in the Miami mayoral runoff election, defeating Republican Emilio González with 59% of the vote. Her win marks the first time a Democrat will lead the city in nearly three decades and she is also the first woman to hold the office. This shift in leadership raises significant questions regarding the future direction of Miami, departing from a long-standing tradition of conservative governance and potentially impacting the city's policies and fiscal health.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
+        "publishedTime": "12 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765392947447-0",
-        "headline": "President Trump Courageously Eliminates 'SAVE' Plan, Replaces It With Revolutionary 'Spend More Now' Initiative for Struggling Students",
-        "content": "In a move hailed by no one with student loans, the Trump administration has valiantly declared an end to the 'SAVE' student loan repayment plan, explaining that its name was simply too misleading. Millions of borrowers will now be swiftly transitioned to the groundbreaking 'Spend More Now' initiative, which sources say will require them to pay back their loans within a 'limited time' – specifically, before they can even process the change – as mandated by the newly rebranded Department of Education's 'Just Pay It' division. Experts predict this will finally teach students the true value of money, which is, apparently, giving it all to loan servicers.",
+        "id": "story-1765399696681-0",
+        "headline": "Federal Reserve Desperately Lowers Interest Rates Again, Hopes Someone Eventually Notices",
+        "content": "In a move financial experts called \"mildly amusing,\" the Federal Reserve once again trimmed its benchmark interest rate by a modest 0.25 percentage points, bringing the federal funds rate to a level so low it's practically whispering sweet nothings into the ears of borrowers. This marks the third consecutive reduction, as the central bank heroically attempts to \"spur economic growth\" by making borrowing money slightly less expensive for the three people still willing to take out a loan. Sources inside the Fed confirmed they're now considering offering a free toaster oven with every mortgage, though future cuts are optimistically projected to be \"fewer, because we're running out of room.\"",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1765392947447-1",
-        "headline": "Federal Judge Crushes President Trump's Dreams of Personal L.A. National Guard Parade, Returns Toys to Governor",
-        "content": "A U.S. district judge, apparently unaware of President Trump's pressing need for a personalized military escort through Los Angeles, has rudely blocked the administration's attempt to commandeer the California National Guard. The ruling, which some are calling 'basic civics,' demands that control and authority over the Guard be immediately returned to Governor Gavin Newsom, dashing President Trump's alleged plans to use them for a grand ribbon-cutting ceremony at a new Trump Tower fountain or perhaps just to guard his favorite golf course divots.",
+        "id": "story-1765399696681-1",
+        "headline": "Lawmakers Heroically Protect Defense Budget From Threat of Military Babies",
+        "content": "In a stunning display of fiscal responsibility, the highly anticipated defense policy bill was once again purged of a pesky provision that would have allowed active-duty service members to access IVF benefits through TRICARE. This marks the second time the measure has been ruthlessly excised, reportedly by House Speaker Mike Johnson himself, leaving military families to wonder if their desire for children somehow threatens national security. Experts suggest the move ensures funds can be better allocated to essential defense needs, such as developing a new, slightly shinier tank, rather than enabling the creation of future civilians who might eventually pay taxes.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765399696681-2",
+        "headline": "Federal Judge Heroically Saves Los Angeles From Being Governed By A National Guard Unit",
+        "content": "In a landmark decision that undoubtedly sent ripples through the fabric of federal authority, Judge Charles Breyer heroically intervened, blocking the President Trump administration's audacious plan to deploy the federalized California National Guard in Los Angeles. The judge, apparently allergic to \"effectively creating a national police force,\" swiftly returned control of the troops to the bewildered Governor Gavin Newsom, who reportedly had just finished re-organizing his sock drawer. Legal scholars are now debating whether the administration simply misunderstood the concept of \"California\" or genuinely believed federalizing guacamole would be next.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765392947447-2",
-        "headline": "Justice System Stuns Nation By Announcing It Might Actually Tell Us Things About Epstein Case",
-        "content": "In a breathtaking display of transparency, a federal judge in New York has heroically declared that the Justice Department is now permitted to unseal additional records from convicted sex offender Jeffrey Epstein's 2019 sex trafficking case. This groundbreaking decision is expected to finally reveal more details about the case's scope and participants, possibly confirming suspicions that water is wet and that extremely wealthy individuals occasionally engage in unsavory activities. The public is advised to brace themselves for revelations that could range from 'he owned a private island' to 'powerful people knew him'.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/politics",
-        "publishedTime": "3 hours ago"
+        "id": "story-1765399696681-3",
+        "headline": "DHS Launches Exclusive New Airline for Unaccompanied Tours, Promises \"Streamlined\" One-Way Service",
+        "content": "The Department of Homeland Security has proudly announced its groundbreaking entry into the aviation industry, inking a nearly $140 million contract for six Boeing 737 jets to form its very own, highly exclusive airline. Christened \"ICE Air,\" the new fleet promises unparalleled \"cost-effectiveness\" in the delicate art of deportations, a process now rebranded as \"mandatory luxury travel\" for select individuals. Congress, ever eager to provide ample funding for innovative transportation solutions, ensures that taxpayers can rest easy knowing their dollars are literally flying high to make immigration enforcement as efficient as a budget airline with a perpetually delayed schedule.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765392947447-3",
-        "headline": "Miami's New Democratic Mayor Causes Literal Groundshake, Scientists Blame Politics for Geological Unrest",
-        "content": "The recent election of a Democratic mayor in Miami has sent shockwaves through the political landscape, and apparently, the actual landscape too. Analysts are now declaring this outcome to be more than just a rejection of President Trump; it's being labeled a 'seismic shift,' with local seismologists reporting minor tremors throughout the city, apparently caused by the sheer weight of changing political affiliations. Geologists warn that if this trend continues, Miami might literally detach from the mainland, floating away on a sea of newfound liberalism.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news",
-        "publishedTime": "51 minutes ago"
+        "id": "story-1765399696681-4",
+        "headline": "President Trump Administration Demands Tourist's Entire Online Soul for Entry, Cites \"Risk of Having Bad Taste in Memes\"",
+        "content": "In a bold move to truly get to know its visitors, the President Trump administration has unveiled a visionary proposal requiring tourists from visa-waiver countries to submit a mandatory five years' worth of their social media history, along with any other personal data that might reveal their true feelings about cats. Customs and Border Protection assured critics, whose privacy concerns were clearly misplaced, that this invasive data mining is merely a sophisticated \"identity verification\" and \"risk assessment\" tool, designed to weed out anyone who might post slightly-too-sarcastic vacation photos. Future travelers are encouraged to start curating their digital footprint now, ensuring their last five years are entirely composed of bland photos of toast.",
+        "originalSource": "Newser",
+        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765392947447-4",
-        "headline": "Lumbee Tribe Finally Recognized by U.S. Government After Decades of Waiting, Thanks to a Clause Hidden in a New Missile Budget",
-        "content": "After an astonishingly brief period of only several centuries, the Lumbee Tribe is finally on the verge of receiving full federal recognition, thanks to a tiny, almost imperceptible provision artfully tucked away inside the latest defense bill. Apparently, the only way to acknowledge the tribe's long-standing push for legal status was to embed it deep within legislation funding new aircraft carriers and advanced weaponry. Sources say the tribe is just thrilled to finally be considered a distinct entity, even if it took a strategic arms deal to get the government's attention.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765392947447-5",
-        "headline": "President Trump's Brilliant Deportation Plan Accidentally Makes It Even Harder to Find Someone to Watch Your Kids, Shocks Nobody",
-        "content": "In a move that absolutely no one saw coming, the Trump administration's ramped-up mass deportation efforts are reportedly causing 'unintended collateral damage' to the child care industry. Apparently, removing non-citizen workers who fill crucial roles in the sector is exacerbating already critical staffing shortages, leading to a nationwide scramble for qualified babysitters. Experts are now warning that without immediate action, parents might be forced to *gasp* actually spend more time with their own children, a crisis President Trump could surely resolve with another executive order.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765399696681-5",
+        "headline": "Miami Experiences Unprecedented Shift As Democrat Actually Wins Local Election, City Rushes To Check Thermostat",
+        "content": "In an event so shocking it sent local iguanas scurrying for cover, Eileen Higgins, a self-proclaimed Democrat, clinched the Miami mayoral runoff election with a decisive 59% of the vote, utterly baffling political pundits and 30 years of historical precedent. Her victory over Republican Emilio González marks the first time a Democrat has managed to penetrate the city's deeply ingrained Republican-only policy for a mayor, prompting many residents to question if the very fabric of reality had somehow frayed. Higgins will also bravely navigate the uncharted waters of being the first woman to lead the city, a challenge her predecessors apparently considered too strenuous without a Y chromosome.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
+        "publishedTime": "12 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765392947447-0",
-        "headline": "President Trump Wants to Change How People Pay Back Student Loans",
-        "content": "President Trump's government said they want to stop a plan called SAVE that helps people pay back money they borrowed for college. This means lots of people who got help from SAVE will have to switch to a new way to pay back their loans very soon. The government's Education Department will tell them what to do next.",
+        "id": "story-1765399696681-0",
+        "headline": "The Grown-Ups Made Borrowing Money a Little Cheaper",
+        "content": "The grown-ups at the Federal Reserve, who are like the money managers for the whole country, decided to make borrowing money a tiny bit cheaper. They cut something called the interest rate, which is the extra money you pay when you borrow, by a small amount. This is the third time they've done it in a row! They hope that by making money cheaper to borrow, people will buy more things and companies will hire more people, which helps the country's economy.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1765392947447-1",
-        "headline": "A Judge Stopped President Trump from Sending Soldiers to Los Angeles",
-        "content": "A judge in the U.S. said 'no' to President Trump's government trying to send the California National Guard, which are like local soldiers, into Los Angeles. The judge said that Governor Gavin Newsom must be in charge of these soldiers right away, not President Trump's government.",
+        "id": "story-1765399696681-1",
+        "headline": "Help for Military Families to Have Babies Was Taken Away Again",
+        "content": "Sometimes, military families need special help to have babies, like a special treatment called IVF. There was a plan to make sure their health insurance, called TRICARE, would pay for this help for all soldiers. But guess what? That plan got taken out of a really important law about our country's military, for the second time! This makes many military families very sad and disappointed. Some grown-ups are saying it was House Speaker Mike Johnson's fault.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765399696681-2",
+        "headline": "A Judge Told President Trump He Couldn't Control California's Soldiers",
+        "content": "A really important judge in California, named Charles Breyer, said that President Trump couldn't use the special soldiers called the California National Guard in Los Angeles. The judge said that the state's governor, Gavin Newsom, should be the one in charge of them. The judge thought that President Trump was trying to have too much power and was trying to make the National Guard like a big police force for the whole country, which is not what they are supposed to be.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765392947447-2",
-        "headline": "A Judge Says More Secrets Can Come Out About Jeffrey Epstein's Case",
-        "content": "A judge in New York said that the Justice Department can open up more secret papers about Jeffrey Epstein's case. Jeffrey Epstein was a bad guy who was found guilty of sex trafficking. This means we might learn even more details about what happened and who was involved in his case.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/politics",
-        "publishedTime": "3 hours ago"
+        "id": "story-1765399696681-3",
+        "headline": "Our Government Bought Airplanes to Send People Back Home",
+        "content": "A part of our government that helps keep us safe, called the Department of Homeland Security, spent a lot of money, almost $140 million, to buy six big airplanes, like the ones you fly on for vacation! They bought these airplanes so they can fly people who are not supposed to be in our country back to their homes. They used to rent planes, but now they think having their own planes will be cheaper and better for sending people away.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765392947447-3",
-        "headline": "Miami Voting for a New Mayor Might Mean Big Changes",
-        "content": "People who watch politics say that Miami picking a new mayor from the Democratic party isn't just about people not liking President Trump. They think it's a really big, important change in how people in that area think about politics and who they vote for.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news",
-        "publishedTime": "51 minutes ago"
+        "id": "story-1765399696681-4",
+        "headline": "President Trump Wants to See Visitors' Old Social Media Posts",
+        "content": "President Trump's team has a new idea for people visiting America from certain countries. Usually, these visitors don't need a special permission paper, but now, the government wants them to show up to five years of their social media history! That means looking at all their old posts and pictures on places like Instagram or Facebook. The government says this helps them make sure visitors are who they say they are and that they aren't dangerous. But some people think it's like spying and not fair.",
+        "originalSource": "Newser",
+        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765392947447-4",
-        "headline": "The Lumbee Tribe Might Soon Be Officially Recognized by the Government",
-        "content": "The Lumbee Tribe might finally get special official recognition from the U.S. government. This is happening because of a special part in a new bill about defense that the Senate is looking at. The tribe has been trying to get this important legal status for a very long time.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765392947447-5",
-        "headline": "President Trump's Plan to Send People Away is Hurting Child Care",
-        "content": "President Trump's government wants to send many people who aren't citizens out of the country. This plan is accidentally making it harder to find enough people to work in places like daycares, because many of the workers who take care of kids might be sent away. There weren't enough workers already, and this makes it worse.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765399696681-5",
+        "headline": "Eileen Higgins Is Miami's New Mayor, and She's the First Woman!",
+        "content": "A lady named Eileen Higgins just won a big election and is now the new mayor of Miami! She got a lot of votes, more than half of them, to beat another guy. This is super exciting because she's the very first woman ever to be the boss of Miami. And it's also a big deal because she's the first person from the Democratic Party to be mayor there in almost 30 years! Go Eileen!",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
+        "publishedTime": "12 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765392947447-0",
-        "headline": "The Shifting Sands of Debt Repayment",
-        "content": "A sudden directive from President Trump's administration sent tremors through the financial lives of millions. The popular SAVE student loan repayment plan, a vital lifeline for many, was slated for termination. Borrowers now faced a tight deadline to switch to an undisclosed new plan, with repayments set to resume immediately, as dictated by the Education Department. The unexpected policy shift left countless individuals scrambling, their carefully balanced budgets thrown into disarray by the impending changes, creating widespread uncertainty about their financial futures in a rapidly evolving landscape of debt.",
+        "id": "story-1765399696681-0",
+        "headline": "A Gentle Nudge Downward for the Economy",
+        "content": "The Federal Reserve, with a practiced hand, delicately lowered its benchmark interest rate by a quarter of a percentage point. This was the third such adjustment, placing the federal funds rate at its lowest in over three years. The quiet maneuver aimed to breathe life into a slowing labor market, a hopeful whisper for economic growth. Yet, the central bank’s future gaze held a hint of restraint, projecting fewer cuts in the year to come. A complex dance of hope and caution, balancing immediate relief against future uncertainties in the nation's financial pulse.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
+        "publishedTime": "9 hours ago"
       },
       {
-        "id": "story-1765392947447-1",
-        "headline": "A Judge's Order in the Golden State",
-        "content": "In a decisive legal maneuver, a U.S. district judge halted President Trump's administration from deploying the California National Guard in Los Angeles. The ruling emphatically declared that control and authority over the Guard must instantly revert to Governor Gavin Newsom. This judicial intervention underscored the delicate balance of power, affirming the Governor's prerogative over state forces. The administration's attempt to mobilize the Guard was met with a swift and firm judicial hand, ensuring that the state's military resources remained under local command, averting a potential constitutional clash.",
+        "id": "story-1765399696681-1",
+        "headline": "A Promise Unfulfilled for Military Families",
+        "content": "The dream of expanding TRICARE coverage for in vitro fertilization, a beacon of hope for countless active-duty service members, was once again extinguished. A crucial provision, intended to offer military families the chance at parenthood, was stripped from the final defense policy bill. Whispers turned to accusations, with lawmakers pointing fingers at House Speaker Mike Johnson. This repeated denial left a bitter taste, disappointing families who had clung to the hope of this vital benefit. Their aspirations for growth, for family, again deferred by political machinations.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765399696681-2",
+        "headline": "The Governor's Stand Against Overreach",
+        "content": "In a decisive moment, a federal judge in California, Charles Breyer, asserted the balance of power. He decisively blocked President Trump's administration from deploying the federalized California National Guard within Los Angeles, firmly returning control to Governor Gavin Newsom. The judge's words resonated with gravity, criticizing the administration for exceeding its authority. His ruling drew a clear line, preventing the effective creation of what he called 'a national police force.' A significant check, reaffirming the boundaries of federal power and state sovereignty.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news",
-        "publishedTime": "Today"
+        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
+        "publishedTime": "6 hours ago"
       },
       {
-        "id": "story-1765392947447-2",
-        "headline": "The Unveiling of Hidden Truths",
-        "content": "A federal judge in New York opened the door to long-awaited revelations. Granting the Justice Department's petition, the court ordered the unsealing of additional records connected to Jeffrey Epstein's 2019 sex trafficking case. This pivotal decision promises to cast a wider, brighter light on the dark corners of the convicted offender's illicit network. Anticipation mounted as the public braced for the release of more comprehensive details, potentially exposing the full scope of the enterprise and identifying further participants, ensuring that justice, though delayed, might finally reveal its full magnitude.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/politics",
-        "publishedTime": "3 hours ago"
+        "id": "story-1765399696681-3",
+        "headline": "Wings of Enforcement Take to the Sky",
+        "content": "The Department of Homeland Security secured a significant contract, nearly $140 million, to acquire a formidable fleet of six Boeing 737 aircraft. This substantial investment, fueled by a surge in immigration enforcement funds from Congress, will establish the agency's own aerial operations. The purpose is clear: to streamline and enhance deportation efforts. With these new wings, U.S. Immigration and Customs Enforcement aims for greater cost-effectiveness and control. The skies will soon carry a new, powerful symbol of the nation's commitment to enforcement, precise and efficient.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765392947447-3",
-        "headline": "Miami's New Political Horizon Dawns",
-        "content": "The recent mayoral election in Miami sent a clear, reverberating message through the political landscape. Analysts swiftly interpreted the victory of the new Democratic mayor as far more than mere dissent against President Trump. It signaled a profound, 'seismic shift' in the region's political pulse, suggesting a deeper realignment of voter sentiment. The outcome suggested a burgeoning transformation in the city's political identity, reflecting evolving demographics and priorities that transcended immediate national dynamics, ushering in what many believed to be a new era for the vibrant South Florida metropolis.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news",
-        "publishedTime": "51 minutes ago"
+        "id": "story-1765399696681-4",
+        "headline": "Digital Footprints at the Nation's Border",
+        "content": "President Trump's administration unveiled a new, controversial proposal, stretching the boundaries of entry requirements. Foreign visitors from visa-waiver countries now face the prospect of submitting up to five years of their social media history, alongside other personal data. Customs and Border Protection argues this mandatory disclosure is essential for verifying identity and assessing potential risks. However, critics swiftly condemned the move, decrying it as a profound invasion of privacy. A digital magnifying glass at the border, scrutinizing the past lives of those seeking entry to the nation.",
+        "originalSource": "Newser",
+        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765392947447-4",
-        "headline": "Generations Await the Light of Recognition",
-        "content": "After decades of unwavering advocacy, the Lumbee Tribe stood on the precipice of a monumental triumph. A crucial provision embedded within the latest defense bill, now under Senate review, promised to finally grant them full federal recognition. This legislative step represented the culmination of a long, arduous journey—a testament to the tribe's enduring spirit and relentless pursuit of their rightful legal status. The recognition would acknowledge their inherent sovereignty and cultural identity, rectifying historical injustices and opening doors to vital resources, marking a new chapter in their proud heritage.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765392947447-5",
-        "headline": "The Ripple Effect in Care Services",
-        "content": "President Trump's administration's intensified focus on mass deportations inadvertently created significant collateral damage for the nation's child care industry. Already grappling with severe staffing shortages, the sector found itself further imperiled as many non-citizen workers, crucial to its operations, faced imminent removal risks. The crackdown exacerbated an already precarious situation, threatening to leave more families without adequate care options for their children. This policy, intended for broader immigration enforcement, unwittingly unraveled a vital social safety net, leaving a gaping void in the provision of essential community services.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/nation",
-        "publishedTime": "2 hours ago"
+        "id": "story-1765399696681-5",
+        "headline": "A New Dawn for the City of Miami",
+        "content": "The Miami mayoral runoff concluded, painting a historic new chapter for the vibrant city. Eileen Higgins, with a commanding 59% of the vote, emerged victorious over Republican Emilio González. Her win was a double milestone: the first time a Democrat had secured the mayoralty in nearly three decades, and the first woman ever to lead the city. Miami, known for its dynamic pulse, had clearly spoken. A shift in the political landscape, signaling a new era of leadership and representation for the diverse metropolis.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
+        "publishedTime": "12 hours ago"
       }
     ]
   }
