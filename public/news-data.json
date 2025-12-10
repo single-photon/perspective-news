@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765399776865,
+  "timestamp": 1765406585036,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765399696681-0",
-        "headline": "Federal Reserve's Interest Rate Cuts Further Entrench Systemic Economic Inequality, Ignoring Root Causes",
-        "content": "The Federal Reserve's third consecutive interest rate reduction, bringing the federal funds rate to a three-year low, is presented as a measure to spur economic growth. However, this approach largely benefits corporations and financial institutions, doing little to address the systemic issues of stagnating wages, precarious labor conditions, and wealth disparity that plague working-class families. The central bank's limited projected reductions for the coming year further highlight a shortsighted strategy that fails to confront the deep-seated economic inequities faced by ordinary people.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765399696681-1",
-        "headline": "Military Families Face Systemic Disregard as Crucial IVF Benefits Are Stripped from Defense Bill Again",
-        "content": "In a disheartening setback for those who serve, a vital provision to expand TRICARE coverage for in vitro fertilization (IVF) for all active-duty service members has been stripped from the final defense policy bill for the second time. This legislative betrayal, widely attributed to House Speaker Mike Johnson, demonstrates a systemic neglect of military families' fundamental healthcare needs. While vast sums are allocated to military hardware, the human cost of service, including the right to build a family, is consistently undermined by lawmakers' misplaced priorities, leaving countless families disappointed and struggling.",
+        "id": "story-1765406509705-0",
+        "headline": "Federal Reserve Acknowledges Softening Labor Market with Third Rate Cut, Workers Remain Vulnerable.",
+        "content": "For the third time this year, the Federal Reserve has lowered its benchmark interest rate, now ranging from 3.5-3.75%, in an attempt to address a weakening labor market. This move comes as Chair Jerome Powell warns of 'significant downside risks' for workers, highlighting systemic vulnerabilities in the economy that disproportionately affect ordinary citizens. The central bank's persistent struggle to balance inflation with employment stability underscores the urgent need for policies prioritizing worker security and economic equity.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
-        "publishedTime": "5 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
+        "publishedTime": "22 minutes ago"
       },
       {
-        "id": "story-1765399696681-2",
-        "headline": "Federal Judge Blocks President Trump Administration's Authoritarian Overreach, Safeguarding Civil Liberties in California",
-        "content": "A federal judge in California, Charles Breyer, delivered a critical blow to President Trump administration's attempt to centralize power, blocking the deployment of the federalized California National Guard in Los Angeles and returning control to Governor Gavin Newsom. The judge's decisive ruling rightfully criticized the administration for its dangerous overreach, warning against the 'effectively creating a national police force.' This ruling serves as a crucial check on executive power, protecting local governance and civil liberties from the increasing militarization of domestic law enforcement.",
+        "id": "story-1765406509705-1",
+        "headline": "President Trump Confirms Unilateral Seizure of Venezuelan Oil Tanker, Escalating Regional Tensions.",
+        "content": "President Trump confirmed that the U.S. military has seized a 'very large' oil tanker off the Venezuelan coast, justifying the action as 'for a very good reason.' This unilateral move, which significantly escalates already heightened tensions with President Nicolás Maduro, is presented as part of a broader U.S. campaign against suspected drug trafficking. Critics, however, are raising concerns about the implications for international law, national sovereignty, and the potential for further destabilization in the region, questioning the underlying motivations behind such assertive foreign policy.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-3",
-        "headline": "Department of Homeland Security Wastes $140 Million on Deportation Fleet, Further Militarizing Immigration Enforcement",
-        "content": "The Department of Homeland Security has signed a nearly $140 million contract to acquire six Boeing 737 jets, ostensibly to make U.S. Immigration and Customs Enforcement deportations 'more cost-effective.' This massive expenditure, funded by a substantial increase in congressional allocation for immigration enforcement, represents a grave misdirection of public funds. Instead of investing in humane asylum processing, community integration programs, or addressing the root causes of migration, the government is prioritizing the militarization of its borders and the dehumanization of immigrants, further expanding a costly and morally questionable deportation machine.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765406509705-2",
+        "headline": "President Trump's Administration Proposes Broad Social Media Surveillance for International Travelers, Raising Privacy Alarms.",
+        "content": "In a concerning move, President Trump's administration has unveiled a proposal demanding that visitors from 42 visa-exempt countries disclose five years of their social media history as part of their Electronic System for Travel Authorization (ESTA) application. This measure, framed as enhancing security, is widely seen as an alarming expansion of government surveillance and a component of a broader crackdown on immigration. Critics argue that such extensive data collection infringes on privacy rights and fosters an environment of xenophobia, creating systemic barriers for international visitors.",
+        "originalSource": "People.com",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-4",
-        "headline": "President Trump Administration Proposes Massive Expansion of Surveillance, Demanding Years of Social Media History from Tourists",
-        "content": "In an alarming expansion of government surveillance, President Trump administration has unveiled a controversial proposal requiring foreign visitors from visa-waiver countries to submit up to five years of their social media history and other personal data for entry. While Customs and Border Protection claims this mandatory disclosure is for identity verification and risk assessment, critics rightly identify it as an unprecedented invasion of privacy and a dangerous precedent for digital rights. This policy risks alienating international visitors and normalizing broad state-sponsored data collection, eroding fundamental civil liberties under the guise of security.",
-        "originalSource": "Newser",
-        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765406509705-3",
+        "headline": "A'ja Wilson's Dominance on the Court Earns AP Female Athlete of the Year, Highlighting WNBA's Growing Impact.",
+        "content": "WNBA superstar A'ja Wilson has rightfully been named The Associated Press Female Athlete of the Year, following an extraordinary season where she secured an unprecedented fourth MVP award. Leading the Las Vegas Aces to their third championship in four seasons, Wilson's achievement as only the fifth basketball player to receive this prestigious AP honor further underscores the immense talent and growing influence of women's basketball. This recognition is a vital step in acknowledging the systemic inequities in sports media and investment, celebrating the excellence that has long been overlooked in the WNBA.",
+        "originalSource": "San Francisco Chronicle",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
+        "publishedTime": "4:05 a.m. Dec 10, 2025"
       },
       {
-        "id": "story-1765399696681-5",
-        "headline": "Eileen Higgins' Historic Victory Elects First Democratic Mayor in Miami in Three Decades, Signaling Progressive Shift",
-        "content": "In a significant moment for inclusive representation and progressive politics, former Miami-Dade County Commissioner Eileen Higgins has secured a decisive victory in the Miami mayoral runoff election, garnering 59% of the vote against Republican Emilio González. Her win is historic on multiple fronts: she is not only the first Democrat to be elected mayor of Miami in nearly three decades, but also the first woman to lead the city. This triumph signals a clear shift in Miami's political landscape, demonstrating a community ready to embrace more diverse leadership and prioritize policies that address systemic issues from a progressive perspective.",
+        "id": "story-1765406509705-4",
+        "headline": "House Republicans' Inaction on Healthcare Threatens Millions as ACA Tax Credits Face Expiration.",
+        "content": "Millions of Americans face the looming threat of skyrocketing healthcare costs as enhanced Affordable Care Act (ACA) tax credits are set to expire, revealing a concerning lack of consensus among House Republican leaders on a sustainable healthcare policy. While Democrats advocate for a crucial three-year extension to protect families, Republicans remain resistant without 'major reforms,' a stance that critics argue prioritizes ideological purity over the immediate well-being and economic security of working-class families. This ongoing struggle highlights the systemic failures to guarantee universal, affordable healthcare access as a fundamental right.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
+        "publishedTime": "December 10, 2025"
+      },
+      {
+        "id": "story-1765406509705-5",
+        "headline": "Evidence of Disdain for Healthcare System Emerges in Trial of UnitedHealthcare CEO's Alleged Killer.",
+        "content": "During recent court proceedings, it was revealed that the discovery of a loaded gun magazine in Luigi Mangione's backpack was key in identifying him as the suspect in the murder of a UnitedHealthcare CEO. Mangione's defense is now vigorously challenging the inclusion of this evidence, alongside a notebook allegedly detailing his profound disdain for health insurers. This legal battle brings to light the underlying tensions and frustrations within a healthcare system that often prioritizes corporate profits over patient well-being, issues that resonate with many experiencing systemic challenges in accessing affordable care.",
+        "originalSource": "Los Angeles Times",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
+        "publishedTime": "December 8, 2025"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765399696681-0",
-        "headline": "Fed Cuts Interest Rates by 0.25 Percentage Points in Third Consecutive Reduction",
-        "content": "The Federal Reserve on Wednesday reduced its benchmark interest rate by a quarter of a percentage point, bringing the federal funds rate to its lowest level in more than three years. This third consecutive cut aims to spur economic growth amid a slowing labor market, but the central bank also projected fewer reductions in the coming year.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765399696681-1",
-        "headline": "New IVF Benefits for Military Families Cut from Defense Bill Again",
-        "content": "A provision to expand TRICARE coverage for in vitro fertilization (IVF) to all active-duty service members was stripped from the final defense policy bill, the second time the measure was axed. Lawmakers accuse House Speaker Mike Johnson of removing the benefits, disappointing military families who hoped for coverage expansion.",
+        "id": "story-1765406509705-0",
+        "headline": "Fed lowers interest rates by a quarter point for the third time this year.",
+        "content": "The Federal Reserve cut its benchmark rate to a 3.5-3.75% range for the third consecutive time on Wednesday, aiming to shore up a softening labor market. Chair Jerome Powell noted the labor market faces \"significant downside risks\" as the central bank remains divided over responding to persistent inflation.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
-        "publishedTime": "5 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
+        "publishedTime": "22 minutes ago"
       },
       {
-        "id": "story-1765399696681-2",
-        "headline": "Judge Blocks Trump Administration from Deploying California National Guard in Los Angeles",
-        "content": "A federal judge in California, Charles Breyer, blocked the Trump administration from using the federalized California National Guard in Los Angeles and directed that control be returned to Gov. Gavin Newsom. The judge's decision criticized the administration for overreaching its authority and 'effectively creating a national police force.'",
+        "id": "story-1765406509705-1",
+        "headline": "Trump confirms U.S. military seized large oil tanker off Venezuela's coast.",
+        "content": "President Trump confirmed the U.S. seized a \"very large\" oil tanker near the Venezuelan coast, saying it was \"for a very good reason.\" The move, which escalates tensions with President Nicolás Maduro, is part of a broader campaign by American forces against suspected drug trafficking vessels in the region.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-3",
-        "headline": "DHS Inks $140 Million Contract to Create Its Own Fleet of 737 Jets for Deportations",
-        "content": "The Department of Homeland Security signed a contract worth nearly $140 million to acquire six Boeing 737 planes, allowing the agency to operate its own fleet for deportations. The move, funded by a massive increase in immigration enforcement funds from Congress, aims to make U.S. Immigration and Customs Enforcement operations more cost-effective.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765406509705-2",
+        "headline": "US plans to order foreign tourists to disclose five years of social media histories.",
+        "content": "The Trump administration announced a proposal requiring visitors from 42 visa-exempt countries to submit their social media history from the last five years as part of their Electronic System for Travel Authorization (ESTA) application. The measure is part of a broader crackdown on immigration and aims to enhance security screening.",
+        "originalSource": "People.com",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-4",
-        "headline": "US Proposes Mandatory 5 Years of Social Media History for Visa-Waiver Tourists",
-        "content": "The Trump administration announced a controversial proposal requiring foreign visitors from visa-waiver countries to submit up to five years of their social media history and other personal data for entry. Customs and Border Protection claims the mandatory disclosure, which critics say invades privacy, is intended to verify identity and assess risk.",
-        "originalSource": "Newser",
-        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765406509705-3",
+        "headline": "A'ja Wilson wins AP Female Athlete of the Year following historic 4th WNBA MVP.",
+        "content": "WNBA superstar A'ja Wilson earned The Associated Press Female Athlete of the Year after an unparalleled season that saw her win an unprecedented fourth MVP award. Wilson led the Las Vegas Aces to their third championship in four seasons, becoming only the fifth basketball player to receive the prestigious AP honor.",
+        "originalSource": "San Francisco Chronicle",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
+        "publishedTime": "4:05 a.m. Dec 10, 2025"
       },
       {
-        "id": "story-1765399696681-5",
-        "headline": "Eileen Higgins Wins Miami Mayoral Runoff, Becomes City's First Democratic Mayor in 30 Years",
-        "content": "Former Miami-Dade County Commissioner Eileen Higgins secured 59% of the vote to win the Miami mayoral runoff election, defeating Republican Emilio González. Her victory marks the first time a Democrat has been elected mayor of Miami in nearly three decades and she is also the first woman to lead the city.",
+        "id": "story-1765406509705-4",
+        "headline": "House GOP struggles to craft health care plan as ACA tax credit deadline approaches.",
+        "content": "House Republican leaders are struggling to find consensus on a health care policy as enhanced Affordable Care Act tax credits are set to expire at the end of the year, threatening skyrocketing costs for millions. Democrats are pushing for a three-year extension, which Republicans oppose without major reforms.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
+        "publishedTime": "December 10, 2025"
+      },
+      {
+        "id": "story-1765406509705-5",
+        "headline": "Bullets in Luigi Mangione's bag convinced police he was suspect in UnitedHealthcare CEO's killing.",
+        "content": "Court proceedings revealed that the discovery of a loaded gun magazine in Luigi Mangione's backpack was the pivotal evidence convincing Pennsylvania police he was the suspect in the UnitedHealthcare CEO's murder. Mangione's defense is fighting to exclude this evidence and a notebook detailing his disdain for health insurers from his trial.",
+        "originalSource": "Los Angeles Times",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
+        "publishedTime": "December 8, 2025"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765399696681-0",
-        "headline": "Federal Reserve's Third Rate Cut Raises Concerns About Economic Strength and Central Bank Overreach",
-        "content": "The Federal Reserve recently reduced its benchmark interest rate by a quarter of a percentage point, marking the third consecutive cut to stimulate economic growth. While the central bank states this move aims to bolster a slowing labor market, critics question if these interventions truly reflect a healthy economy or merely mask underlying issues. Such actions from a centralized authority raise traditional concerns about market distortion and the true liberty of economic forces.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765399696681-1",
-        "headline": "Fiscal Responsibility Prioritized as IVF Expansion for Military Families Withdrawn from Defense Bill",
-        "content": "A provision to expand TRICARE coverage for in vitro fertilization (IVF) to all active-duty service members was once again removed from the final defense policy bill. While many support military families, the decision reflects a necessary focus on fiscal prudence and core defense priorities amid complex budgetary constraints, rather than expanding government-funded benefits without clear sustainability. Lawmakers grapple with difficult choices to ensure our nation's security remains paramount.",
+        "id": "story-1765406509705-0",
+        "headline": "Federal Reserve Actions Raise Concerns About Inflation and Economic Stability",
+        "content": "The Federal Reserve, despite ongoing inflationary pressures, has once again cut its benchmark interest rate, a move that prompts serious questions about the central bank's commitment to fiscal discipline and the long-term health of our economy. While some claim this is to prop up a \"softening labor market,\" many liberty-minded citizens understand that such interventions can devalue hard-earned savings and distort natural market forces, ultimately jeopardizing our nation's prosperity. Chairman Powell's acknowledgment of \"significant downside risks\" feels like an understatement given the persistent inflation eroding the purchasing power of everyday Americans.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
-        "publishedTime": "5 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
+        "publishedTime": "22 minutes ago"
       },
       {
-        "id": "story-1765399696681-2",
-        "headline": "California Judge Undermines President Trump's Authority in National Guard Deployment",
-        "content": "A federal judge in California, Charles Breyer, issued a ruling blocking the President Trump administration from utilizing the federalized California National Guard in Los Angeles, demanding control be returned to Governor Gavin Newsom. The judge's decision, criticizing the administration for alleged overreach and 'effectively creating a national police force,' represents a concerning instance of judicial activism attempting to handcuff the President's executive authority in matters of national security and public order.",
+        "id": "story-1765406509705-1",
+        "headline": "President Trump Takes Decisive Action Against Illicit Operations Off Venezuela's Coast",
+        "content": "President Trump has confirmed the United States military's commendable seizure of a significant oil tanker operating near Venezuela's coast, stating it was for \"a very good reason.\" This decisive move underscores President Trump's unwavering commitment to national security and his administration's vigorous campaign to dismantle criminal networks involved in drug trafficking, which threaten American communities. While some may decry \"escalating tensions,\" true patriots understand that firm action against hostile regimes and illicit activities is essential to safeguard our liberty and protect our borders from dangerous influences.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-3",
-        "headline": "President Trump's DHS Secures Own Fleet for Deportations, Enhancing National Security and Efficiency",
-        "content": "The Department of Homeland Security, under President Trump, has signed a substantial contract worth nearly $140 million to acquire six Boeing 737 aircraft. This strategic move enables the agency to operate its own dedicated fleet for deportations, significantly boosting U.S. Immigration and Customs Enforcement operations. This initiative, backed by a robust increase in immigration enforcement funding from Congress, underscores a firm commitment to national sovereignty, secure borders, and the cost-effective enforcement of immigration laws.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765406509705-2",
+        "headline": "President Trump's Administration Enhances Security Measures for Nation's Borders",
+        "content": "In a move prioritizing the safety and security of American citizens, President Trump's administration has proposed requiring visitors from 42 visa-exempt nations to submit five years of their social media history with their travel applications. This common-sense measure is a vital component of President Trump's broader strategy to secure our nation and ensure that those entering our country do not pose a threat. It is a testament to his administration's commitment to robust security screening and a clear message that our national security will always come first.",
+        "originalSource": "People.com",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-4",
-        "headline": "President Trump's Administration Bolsters National Security with Proposal for Social Media Vetting of Foreign Visitors",
-        "content": "The President Trump administration has unveiled a crucial proposal requiring foreign visitors from visa-waiver countries to submit up to five years of their social media history and other personal data for entry into the United States. Customs and Border Protection asserts this mandatory disclosure is vital for verifying identity and assessing potential risks. While some critics raise privacy concerns, the administration prioritizes national security and the protection of American citizens above all else, ensuring only those who pose no threat are welcomed.",
-        "originalSource": "Newser",
-        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765406509705-3",
+        "headline": "A'ja Wilson's Dominance on the Court Earns Well-Deserved Recognition",
+        "content": "WNBA standout A'ja Wilson has rightfully been named The Associated Press Female Athlete of the Year, a testament to her extraordinary talent and unwavering dedication. Her remarkable season, culminating in an unprecedented fourth MVP award and leading the Las Vegas Aces to their third championship in four seasons, showcases the power of individual excellence through hard work and determination. This achievement is a shining example of what can be accomplished when talent is combined with a relentless pursuit of greatness, a truly American value.",
+        "originalSource": "San Francisco Chronicle",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
+        "publishedTime": "4:05 a.m. Dec 10, 2025"
       },
       {
-        "id": "story-1765399696681-5",
-        "headline": "Miami Elects First Democrat Mayor in Decades, Raising Questions About City's Future Direction",
-        "content": "Former Miami-Dade County Commissioner Eileen Higgins secured victory in the Miami mayoral runoff election, defeating Republican Emilio González with 59% of the vote. Her win marks the first time a Democrat will lead the city in nearly three decades and she is also the first woman to hold the office. This shift in leadership raises significant questions regarding the future direction of Miami, departing from a long-standing tradition of conservative governance and potentially impacting the city's policies and fiscal health.",
+        "id": "story-1765406509705-4",
+        "headline": "House Republicans Grapple with Repealing and Replacing Failed Obamacare Policies",
+        "content": "House Republican leaders are actively seeking a true market-based solution for healthcare as the enhanced tax credits of the Affordable Care Act (ACA), a failed big-government experiment, approach their expiration. While Democrats clamor for a fiscally irresponsible three-year extension of these subsidies, Republicans rightly insist on fundamental reforms that empower individuals and promote genuine competition, rather than perpetuating the government's unsustainable overreach into healthcare. It is imperative that we restore liberty and individual choice to healthcare, moving away from the costly and inefficient mandates of Obamacare.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
+        "publishedTime": "December 10, 2025"
+      },
+      {
+        "id": "story-1765406509705-5",
+        "headline": "Crucial Evidence Links Suspect to High-Profile CEO Murder Case",
+        "content": "During recent court proceedings, it was unequivocally revealed that the discovery of a loaded gun magazine in Luigi Mangione's backpack provided the critical evidence linking him to the tragic murder of the UnitedHealthcare CEO. Despite the defense's efforts to exclude this and other compelling evidence, such as a notebook outlining his clear animosity towards health insurers, law enforcement's diligent work in securing such pivotal items demonstrates a commitment to justice. This type of common-sense evidence is crucial for ensuring that those who commit heinous crimes are held accountable under the law.",
+        "originalSource": "Los Angeles Times",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
+        "publishedTime": "December 8, 2025"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765399696681-0",
-        "headline": "Federal Reserve Desperately Lowers Interest Rates Again, Hopes Someone Eventually Notices",
-        "content": "In a move financial experts called \"mildly amusing,\" the Federal Reserve once again trimmed its benchmark interest rate by a modest 0.25 percentage points, bringing the federal funds rate to a level so low it's practically whispering sweet nothings into the ears of borrowers. This marks the third consecutive reduction, as the central bank heroically attempts to \"spur economic growth\" by making borrowing money slightly less expensive for the three people still willing to take out a loan. Sources inside the Fed confirmed they're now considering offering a free toaster oven with every mortgage, though future cuts are optimistically projected to be \"fewer, because we're running out of room.\"",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765399696681-1",
-        "headline": "Lawmakers Heroically Protect Defense Budget From Threat of Military Babies",
-        "content": "In a stunning display of fiscal responsibility, the highly anticipated defense policy bill was once again purged of a pesky provision that would have allowed active-duty service members to access IVF benefits through TRICARE. This marks the second time the measure has been ruthlessly excised, reportedly by House Speaker Mike Johnson himself, leaving military families to wonder if their desire for children somehow threatens national security. Experts suggest the move ensures funds can be better allocated to essential defense needs, such as developing a new, slightly shinier tank, rather than enabling the creation of future civilians who might eventually pay taxes.",
+        "id": "story-1765406509705-0",
+        "headline": "Federal Reserve bravely lowers interest rates again, bravely hoping this time it might actually do something.",
+        "content": "In a stunning display of economic courage, the Federal Reserve once again trimmed its benchmark rate, marking the third such heroic effort this year. Chair Jerome Powell, perhaps sensing the economy's deep desire for another quarter-point reduction, declared the labor market faces \"significant downside risks,\" which, translated, means \"we have no idea what's happening, but maybe this will help.\" Economists across the nation applauded the move, primarily because it gives them more to argue about over brunch.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
-        "publishedTime": "5 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
+        "publishedTime": "22 minutes ago"
       },
       {
-        "id": "story-1765399696681-2",
-        "headline": "Federal Judge Heroically Saves Los Angeles From Being Governed By A National Guard Unit",
-        "content": "In a landmark decision that undoubtedly sent ripples through the fabric of federal authority, Judge Charles Breyer heroically intervened, blocking the President Trump administration's audacious plan to deploy the federalized California National Guard in Los Angeles. The judge, apparently allergic to \"effectively creating a national police force,\" swiftly returned control of the troops to the bewildered Governor Gavin Newsom, who reportedly had just finished re-organizing his sock drawer. Legal scholars are now debating whether the administration simply misunderstood the concept of \"California\" or genuinely believed federalizing guacamole would be next.",
+        "id": "story-1765406509705-1",
+        "headline": "President Trump confirms U.S. military seized \"very large\" oil tanker for \"very good reason\" that only he understands.",
+        "content": "President Trump, ever the master of strategic communication, proudly announced the U.S. military had successfully liberated a \"very large\" oil tanker near Venezuela's coast. When pressed for details, the President clarified the seizure was \"for a very good reason,\" leaving international relations experts scrambling to decipher precisely which good reason outweighed global oil market stability. Sources close to the situation speculate the \"very good reason\" might involve a sudden shortage of boat-sized bathtubs for his golf courses, or perhaps a new reality TV show concept.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-3",
-        "headline": "DHS Launches Exclusive New Airline for Unaccompanied Tours, Promises \"Streamlined\" One-Way Service",
-        "content": "The Department of Homeland Security has proudly announced its groundbreaking entry into the aviation industry, inking a nearly $140 million contract for six Boeing 737 jets to form its very own, highly exclusive airline. Christened \"ICE Air,\" the new fleet promises unparalleled \"cost-effectiveness\" in the delicate art of deportations, a process now rebranded as \"mandatory luxury travel\" for select individuals. Congress, ever eager to provide ample funding for innovative transportation solutions, ensures that taxpayers can rest easy knowing their dollars are literally flying high to make immigration enforcement as efficient as a budget airline with a perpetually delayed schedule.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765406509705-2",
+        "headline": "U.S. now requires tourists to divulge embarrassing five years of social media to ensure they are sufficiently boring.",
+        "content": "In a bold new initiative to safeguard national security, the Trump administration has unveiled plans to compel foreign tourists from 42 visa-exempt nations to surrender five years of their most cringe-worthy social media posts. The measure, dubbed \"Operation Overshare,\" aims to weed out potential threats by identifying individuals who might post too many cat videos or engage in politically incorrect memes, thereby proving they are either too dangerous or too annoying to enter. Critics warn the plan may unintentionally boost tourism to countries that don't demand photographic evidence of your questionable fashion choices from 2019.",
+        "originalSource": "People.com",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-4",
-        "headline": "President Trump Administration Demands Tourist's Entire Online Soul for Entry, Cites \"Risk of Having Bad Taste in Memes\"",
-        "content": "In a bold move to truly get to know its visitors, the President Trump administration has unveiled a visionary proposal requiring tourists from visa-waiver countries to submit a mandatory five years' worth of their social media history, along with any other personal data that might reveal their true feelings about cats. Customs and Border Protection assured critics, whose privacy concerns were clearly misplaced, that this invasive data mining is merely a sophisticated \"identity verification\" and \"risk assessment\" tool, designed to weed out anyone who might post slightly-too-sarcastic vacation photos. Future travelers are encouraged to start curating their digital footprint now, ensuring their last five years are entirely composed of bland photos of toast.",
-        "originalSource": "Newser",
-        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765406509705-3",
+        "headline": "A'ja Wilson wins another award, prompting sportswriters to wonder if anyone else even bothers to play.",
+        "content": "In news that shocked absolutely no one, WNBA titan A'ja Wilson once again dominated the competition by securing The Associated Press Female Athlete of the Year award, just weeks after nabbing her unprecedented fourth MVP. Wilson, who reportedly spends her off-season perfecting new ways to demoralize opponents, led the Las Vegas Aces to their third championship in four seasons, causing many to question if other teams are even trying anymore. League officials are reportedly considering mandatory participation trophies for other players to maintain morale.",
+        "originalSource": "San Francisco Chronicle",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
+        "publishedTime": "4:05 a.m. Dec 10, 2025"
       },
       {
-        "id": "story-1765399696681-5",
-        "headline": "Miami Experiences Unprecedented Shift As Democrat Actually Wins Local Election, City Rushes To Check Thermostat",
-        "content": "In an event so shocking it sent local iguanas scurrying for cover, Eileen Higgins, a self-proclaimed Democrat, clinched the Miami mayoral runoff election with a decisive 59% of the vote, utterly baffling political pundits and 30 years of historical precedent. Her victory over Republican Emilio González marks the first time a Democrat has managed to penetrate the city's deeply ingrained Republican-only policy for a mayor, prompting many residents to question if the very fabric of reality had somehow frayed. Higgins will also bravely navigate the uncharted waters of being the first woman to lead the city, a challenge her predecessors apparently considered too strenuous without a Y chromosome.",
+        "id": "story-1765406509705-4",
+        "headline": "House GOP bravely admits it's still \"brainstorming\" health care plan as millions face financial ruin.",
+        "content": "With the precision of a broken clock, House Republican leaders are reportedly still \"working tirelessly\" to craft a cohesive health care plan, as the enhanced Affordable Care Act tax credits prepare to vanish like a New Year's resolution. As millions face the thrilling prospect of skyrocketing medical bills, Republicans remain steadfast in their opposition to Democratic proposals for a three-year extension, preferring instead to champion \"major reforms\" that have yet to materialize in any recognizable form. Sources confirm the latest GOP strategy involves staring intently at a whiteboard filled with buzzwords, hoping a solution will spontaneously appear.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
+        "publishedTime": "December 10, 2025"
+      },
+      {
+        "id": "story-1765406509705-5",
+        "headline": "Local police finally convinced suspect with bullets in bag might be involved in CEO shooting.",
+        "content": "In a stunning display of deductive reasoning, court proceedings have revealed that Pennsylvania police were finally swayed to consider Luigi Mangione a suspect in the UnitedHealthcare CEO's murder after discovering a loaded gun magazine in his backpack. Mangione's legal team, clearly prioritizing subtlety, is now vigorously arguing that the discovery of incriminating projectiles and a notebook passionately detailing his absolute loathing for health insurers are merely \"unfortunate coincidences\" and should not be allowed to spoil an otherwise perfectly good trial. The prosecution is reportedly preparing to argue that \"gun + bullets + motive = suspect\" is a generally accepted equation.",
+        "originalSource": "Los Angeles Times",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
+        "publishedTime": "December 8, 2025"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765399696681-0",
-        "headline": "The Grown-Ups Made Borrowing Money a Little Cheaper",
-        "content": "The grown-ups at the Federal Reserve, who are like the money managers for the whole country, decided to make borrowing money a tiny bit cheaper. They cut something called the interest rate, which is the extra money you pay when you borrow, by a small amount. This is the third time they've done it in a row! They hope that by making money cheaper to borrow, people will buy more things and companies will hire more people, which helps the country's economy.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765399696681-1",
-        "headline": "Help for Military Families to Have Babies Was Taken Away Again",
-        "content": "Sometimes, military families need special help to have babies, like a special treatment called IVF. There was a plan to make sure their health insurance, called TRICARE, would pay for this help for all soldiers. But guess what? That plan got taken out of a really important law about our country's military, for the second time! This makes many military families very sad and disappointed. Some grown-ups are saying it was House Speaker Mike Johnson's fault.",
+        "id": "story-1765406509705-0",
+        "headline": "The Federal Reserve made borrowing money a little cheaper.",
+        "content": "The Federal Reserve is like the country's main bank. They decided to make it a little cheaper to borrow money, which means things like getting a loan for a house or a car might cost less. They did this because they think it might help people find more jobs, even though some people in charge are worried about prices going up too much.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
-        "publishedTime": "5 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
+        "publishedTime": "22 minutes ago"
       },
       {
-        "id": "story-1765399696681-2",
-        "headline": "A Judge Told President Trump He Couldn't Control California's Soldiers",
-        "content": "A really important judge in California, named Charles Breyer, said that President Trump couldn't use the special soldiers called the California National Guard in Los Angeles. The judge said that the state's governor, Gavin Newsom, should be the one in charge of them. The judge thought that President Trump was trying to have too much power and was trying to make the National Guard like a big police force for the whole country, which is not what they are supposed to be.",
+        "id": "story-1765406509705-1",
+        "headline": "President Trump says America took a big ship near another country.",
+        "content": "President Trump said that the American military took control of a really big ship that carries oil. It was near a country called Venezuela. He said they did it for a 'very good reason.' This happened because America is trying to stop ships that they think might be carrying illegal drugs.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-3",
-        "headline": "Our Government Bought Airplanes to Send People Back Home",
-        "content": "A part of our government that helps keep us safe, called the Department of Homeland Security, spent a lot of money, almost $140 million, to buy six big airplanes, like the ones you fly on for vacation! They bought these airplanes so they can fly people who are not supposed to be in our country back to their homes. They used to rent planes, but now they think having their own planes will be cheaper and better for sending people away.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765406509705-2",
+        "headline": "People visiting America might have to share their past internet posts.",
+        "content": "The government, while President Trump was in charge, thought about asking people from other countries who visit America to show their social media posts from the last five years. This means things like their Facebook or Instagram history. They wanted to do this to make sure everyone coming into the country is safe.",
+        "originalSource": "People.com",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-4",
-        "headline": "President Trump Wants to See Visitors' Old Social Media Posts",
-        "content": "President Trump's team has a new idea for people visiting America from certain countries. Usually, these visitors don't need a special permission paper, but now, the government wants them to show up to five years of their social media history! That means looking at all their old posts and pictures on places like Instagram or Facebook. The government says this helps them make sure visitors are who they say they are and that they aren't dangerous. But some people think it's like spying and not fair.",
-        "originalSource": "Newser",
-        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765406509705-3",
+        "headline": "A'ja Wilson is named best girl athlete after amazing basketball year.",
+        "content": "A'ja Wilson, who is a really awesome basketball player in the WNBA, just won a big award called 'The Associated Press Female Athlete of the Year.' She had an incredible year, winning the best player award (MVP) for the fourth time, which is super rare! She also helped her team, the Las Vegas Aces, win their championship for the third time in four years.",
+        "originalSource": "San Francisco Chronicle",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
+        "publishedTime": "4:05 a.m. Dec 10, 2025"
       },
       {
-        "id": "story-1765399696681-5",
-        "headline": "Eileen Higgins Is Miami's New Mayor, and She's the First Woman!",
-        "content": "A lady named Eileen Higgins just won a big election and is now the new mayor of Miami! She got a lot of votes, more than half of them, to beat another guy. This is super exciting because she's the very first woman ever to be the boss of Miami. And it's also a big deal because she's the first person from the Democratic Party to be mayor there in almost 30 years! Go Eileen!",
+        "id": "story-1765406509705-4",
+        "headline": "Lawmakers are having a hard time agreeing on health care help.",
+        "content": "Some lawmakers in the government, called Republicans, are having trouble agreeing on how to help people pay for their doctors and medicine. Soon, some special money help that makes health care cheaper for many people will run out. If they don't do anything, it could make health care much more expensive for lots of families. The other group, the Democrats, want to keep the help going longer, but the Republicans want to change things first.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
+        "publishedTime": "December 10, 2025"
+      },
+      {
+        "id": "story-1765406509705-5",
+        "headline": "Police thought a man was a bad guy because of bullets in his bag.",
+        "content": "During a court case, it came out that police thought a man named Luigi Mangione was involved in the killing of a big boss from a health insurance company. Why? Because they found a clip full of bullets for a gun in his backpack. His lawyers are trying to keep this information, and a notebook where he wrote angry things about health insurance companies, out of his trial.",
+        "originalSource": "Los Angeles Times",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
+        "publishedTime": "December 8, 2025"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765399696681-0",
-        "headline": "A Gentle Nudge Downward for the Economy",
-        "content": "The Federal Reserve, with a practiced hand, delicately lowered its benchmark interest rate by a quarter of a percentage point. This was the third such adjustment, placing the federal funds rate at its lowest in over three years. The quiet maneuver aimed to breathe life into a slowing labor market, a hopeful whisper for economic growth. Yet, the central bank’s future gaze held a hint of restraint, projecting fewer cuts in the year to come. A complex dance of hope and caution, balancing immediate relief against future uncertainties in the nation's financial pulse.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/federal-reserve-lowers-interest-rate-by-0-25-percentage-points-in-third-straight-cut-2025-12-10/",
-        "publishedTime": "9 hours ago"
-      },
-      {
-        "id": "story-1765399696681-1",
-        "headline": "A Promise Unfulfilled for Military Families",
-        "content": "The dream of expanding TRICARE coverage for in vitro fertilization, a beacon of hope for countless active-duty service members, was once again extinguished. A crucial provision, intended to offer military families the chance at parenthood, was stripped from the final defense policy bill. Whispers turned to accusations, with lawmakers pointing fingers at House Speaker Mike Johnson. This repeated denial left a bitter taste, disappointing families who had clung to the hope of this vital benefit. Their aspirations for growth, for family, again deferred by political machinations.",
+        "id": "story-1765406509705-0",
+        "headline": "The Central Bank's Three Soft Taps on the Economy",
+        "content": "The market held its breath as the Federal Reserve, for the third time this year, gently nudged interest rates lower. This quarter-point cut, settling the benchmark to a 3.5-3.75% range, aimed to soothe a restless labor market. Chair Jerome Powell's voice carried a cautious tone, acknowledging \"significant downside risks\" that loomed. Yet, within the hallowed halls, division lingered, a quiet discord over the specter of persistent inflation. Millions of livelihoods hinged on these delicate calibrations, a hope that the subtle adjustments might steer the economy clear of deeper turbulence, a silent prayer for stability.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/politics/2025/12/10/ivf-military-families-defense-bill-cut-ndaa/",
-        "publishedTime": "5 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
+        "publishedTime": "22 minutes ago"
       },
       {
-        "id": "story-1765399696681-2",
-        "headline": "The Governor's Stand Against Overreach",
-        "content": "In a decisive moment, a federal judge in California, Charles Breyer, asserted the balance of power. He decisively blocked President Trump's administration from deploying the federalized California National Guard within Los Angeles, firmly returning control to Governor Gavin Newsom. The judge's words resonated with gravity, criticizing the administration for exceeding its authority. His ruling drew a clear line, preventing the effective creation of what he called 'a national police force.' A significant check, reaffirming the boundaries of federal power and state sovereignty.",
+        "id": "story-1765406509705-1",
+        "headline": "The Cargo of Secrets on the Sapphire Sea",
+        "content": "A colossal shadow moved across the Caribbean expanse. Near the Venezuelan coast, American forces executed a covert operation. President Trump confirmed the U.S. seizure of a \"very large\" oil tanker, asserting it was \"for a very good reason.\" The act, a calculated escalation of tensions with President Nicolás Maduro, underscored a broader campaign. This wasn't merely about oil; it was a decisive strike against suspected drug trafficking vessels that plied these waters. The tanker, once a symbol of trade, now represented a strategic victory, its secrets unveiled under the watchful eyes of a determined nation.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/judge-blocks-trump-administration-from-deploying-california-national-guard-members-in-los-angeles-2025-12-10/",
-        "publishedTime": "6 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-3",
-        "headline": "Wings of Enforcement Take to the Sky",
-        "content": "The Department of Homeland Security secured a significant contract, nearly $140 million, to acquire a formidable fleet of six Boeing 737 aircraft. This substantial investment, fueled by a surge in immigration enforcement funds from Congress, will establish the agency's own aerial operations. The purpose is clear: to streamline and enhance deportation efforts. With these new wings, U.S. Immigration and Customs Enforcement aims for greater cost-effectiveness and control. The skies will soon carry a new, powerful symbol of the nation's commitment to enforcement, precise and efficient.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/national-security/2025/12/10/dhs-737-jets-deportations-contract-ice/",
-        "publishedTime": "8 hours ago"
+        "id": "story-1765406509705-2",
+        "headline": "The Digital Footprints Across Five Years of Memory",
+        "content": "A new digital shadow fell upon travelers. The Trump administration unveiled a proposal demanding visitors from 42 visa-exempt nations surrender their last five years of social media history. This unprecedented requirement, integrated into the Electronic System for Travel Authorization (ESTA) application, signaled a profound shift. It was a calculated move within a broader crackdown on immigration, a meticulous effort to enhance security screening by scrutinizing online lives. Every post, every like, every fleeting digital interaction now formed a part of one's journey to America, a silent testament to past connections.",
+        "originalSource": "People.com",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
+        "publishedTime": "December 10, 2025"
       },
       {
-        "id": "story-1765399696681-4",
-        "headline": "Digital Footprints at the Nation's Border",
-        "content": "President Trump's administration unveiled a new, controversial proposal, stretching the boundaries of entry requirements. Foreign visitors from visa-waiver countries now face the prospect of submitting up to five years of their social media history, alongside other personal data. Customs and Border Protection argues this mandatory disclosure is essential for verifying identity and assessing potential risks. However, critics swiftly condemned the move, decrying it as a profound invasion of privacy. A digital magnifying glass at the border, scrutinizing the past lives of those seeking entry to the nation.",
-        "originalSource": "Newser",
-        "sourceUrl": "https://www.newser.com/story/357173/foreign-tourists-may-need-to-pass-social-media-inspection.html",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765406509705-3",
+        "headline": "The Reign of the Aces' Queen on the Hardwood",
+        "content": "A'ja Wilson etched her name deeper into basketball's annals. The WNBA superstar earned The Associated Press Female Athlete of the Year, a testament to an unparalleled season. She secured an unprecedented fourth MVP award, a feat that solidified her dominance. Leading the Las Vegas Aces to their third championship in four seasons, Wilson cemented her legacy. This prestigious AP honor, shared by only four other basketball players in history, marked her as a true icon. Her reign on the hardwood was undeniable, a powerful display of skill, leadership, and unwavering athletic prowess.",
+        "originalSource": "San Francisco Chronicle",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
+        "publishedTime": "4:05 a.m. Dec 10, 2025"
       },
       {
-        "id": "story-1765399696681-5",
-        "headline": "A New Dawn for the City of Miami",
-        "content": "The Miami mayoral runoff concluded, painting a historic new chapter for the vibrant city. Eileen Higgins, with a commanding 59% of the vote, emerged victorious over Republican Emilio González. Her win was a double milestone: the first time a Democrat had secured the mayoralty in nearly three decades, and the first woman ever to lead the city. Miami, known for its dynamic pulse, had clearly spoken. A shift in the political landscape, signaling a new era of leadership and representation for the diverse metropolis.",
+        "id": "story-1765406509705-4",
+        "headline": "The Unraveling Threads of Healthcare Consensus",
+        "content": "A deepening chasm divided the House Republican leaders, their efforts to forge a coherent healthcare policy faltering. The approaching deadline loomed large: enhanced Affordable Care Act tax credits were set to vanish by year's end. This impending expiration threatened to unleash skyrocketing costs upon millions of vulnerable citizens. Democrats, sensing the urgency, pushed for a three-year extension, a lifeline for many. Republicans, however, remained resolute in their opposition, unwilling to concede without substantial, sweeping reforms. The debate raged, leaving the fate of healthcare in a precarious, uncertain balance.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought-2025-12-10/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
+        "publishedTime": "December 10, 2025"
+      },
+      {
+        "id": "story-1765406509705-5",
+        "headline": "A Backpack's Silent Conviction in a High-Stakes Trial",
+        "content": "The courtroom held its breath as a pivotal detail emerged: a loaded gun magazine discovered within Luigi Mangione’s backpack. This evidence, court proceedings revealed, was the crucial factor that convinced Pennsylvania police of his culpability in the UnitedHealthcare CEO’s murder. Mangione’s defense team now fought fiercely, attempting to exclude this incriminating find from the trial. Compounding their challenge, a notebook detailing Mangione’s profound disdain for health insurers also threatened to surface. The contents of a simple bag and a few handwritten words now held the power to decide his fate, painting a damning picture.",
+        "originalSource": "Los Angeles Times",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
+        "publishedTime": "December 8, 2025"
       }
     ]
   }
