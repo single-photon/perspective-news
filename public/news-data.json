@@ -1,11 +1,305 @@
 {
-  "timestamp": 1765378370045,
+  "timestamp": 1765385883720,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1765385803997-0",
+        "headline": "Transparency Demanded as Judge Orders Unsealing of Records in Epstein Sex Trafficking Case",
+        "content": "A federal judge has ruled that the Justice Department is permitted to unseal certain records related to Jeffrey Epstein's 2019 sex trafficking indictment, bringing long-overdue transparency to a case that highlights systemic failures to protect victims. This decision, following a new law passed by Congress last month overriding typical grand jury secrecy, promises to expose more about the network that enabled Epstein's crimes, demanding accountability for all involved.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "21 mins ago"
+      },
+      {
+        "id": "story-1765385803997-1",
+        "headline": "Constitutional Protections Upheld as Judge Halts President Trump's National Guard Deployment in Los Angeles",
+        "content": "A judge has issued an order requiring President Trump to cease the controversial deployment of National Guard troops in Los Angeles, firmly rejecting the use of federal military forces for domestic law enforcement purposes. This critical ruling upholds constitutional principles and protects civil liberties, curbing executive overreach and preventing the militarization of civilian spaces.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "32 mins ago"
+      },
+      {
+        "id": "story-1765385803997-2",
+        "headline": "Congressional Oversight Undermined as GOP Chairman Ends Significant Boat Strike Investigation",
+        "content": "The Republican chairman of a House panel has abruptly announced the termination of a crucial investigation into the Caribbean boat strike incident, raising serious concerns about a lack of accountability. This unexpected decision casts doubt on the integrity of congressional oversight, potentially shielding powerful figures and hindering transparency regarding the most significant oversight effort during Defense Secretary Pete Hegseth's tenure.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-3",
+        "headline": "Disdain for the Struggling: President Trump Mocks Affordability Amidst Public Economic Concerns",
+        "content": "At the inaugural event of his new 'affordability tour,' President Trump used his platform to openly ridicule the very concept of economic affordability, exposing a profound disconnect from the realities faced by working families. His comments at the rally sparked criticism and debate, as he seemingly dismissed voters' legitimate concerns about the rising cost of living, further highlighting the chasm between the elite and those struggling with systemic economic pressures.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-4",
+        "headline": "Systemic Vulnerabilities Exposed as Fears Mount Over Potential Chinese Cyber Threat to U.S. Power Grid",
+        "content": "Concerns are escalating among security experts regarding a Chinese-made technological device suspected of having the capability to remotely disrupt American power infrastructure. This alarming development underscores profound systemic vulnerabilities in critical national systems, raising new alarms about foreign interference and the urgent need for robust public investment in securing essential services against cyber threats.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-5",
+        "headline": "Miami Embraces Progressive Leadership as Democrat Eileen Higgins Secures Landmark Mayoral Victory",
+        "content": "Democrat Eileen Higgins has secured a historic victory in the Miami mayoral race, becoming not only the city's first-ever female mayor but also the first Democrat to win the office in nearly three decades. Her landmark win signifies a major progressive shift in the city's leadership, reflecting a growing demand for inclusive governance and breaking entrenched political barriers in a historically Republican-leaning area.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "45 mins ago"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1765385803997-0",
+        "headline": "Judge says Justice Department can unseal records from Epstein's 2019 sex trafficking case",
+        "content": "A federal judge has ruled that the Justice Department is permitted to unseal certain records related to Jeffrey Epstein's 2019 sex trafficking indictment. This decision comes after a law was passed by Congress last month that overrides the typical secrecy of grand jury proceedings, bringing new materials to light for public scrutiny.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "21 mins ago"
+      },
+      {
+        "id": "story-1765385803997-1",
+        "headline": "Judge orders Trump to end National Guard troop deployment in Los Angeles",
+        "content": "A judge has issued an order requiring President Trump to cease the deployment of National Guard troops in Los Angeles, citing a constitutional clash over the use of federal military forces for domestic law enforcement purposes. The ruling forces an end to the controversial presence of the Guard in the city.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "32 mins ago"
+      },
+      {
+        "id": "story-1765385803997-2",
+        "headline": "House panel plans to end its boat strike probe, GOP chair says",
+        "content": "The Republican chairman of a House panel announced an abrupt plan to end the ongoing investigation into the Caribbean boat strike incident. The unexpected decision casts serious doubt over the future of what has been the most significant oversight effort from Congress during Defense Secretary Pete Hegseth's tenure.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-3",
+        "headline": "At the first stop on his affordability tour, Trump mocks affordability",
+        "content": "At the inaugural event of his new \"affordability tour,\" former President Trump used his platform to ridicule the very concept of economic affordability. His comments at the rally sparked criticism and debate, as he addressed voters' concerns about the rising cost of living while seemingly dismissing them.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-4",
+        "headline": "Fears grow that Chinese gadget could be used to trigger U.S. blackouts",
+        "content": "Concerns are escalating among security experts regarding a Chinese-made technological device that is suspected of having the capability to remotely disrupt American power infrastructure. The gadget's potential use to trigger widespread U.S. blackouts raises new alarms about foreign interference and national security vulnerabilities in critical systems.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-5",
+        "headline": "A Democrat wins Miami mayor's race for the first time in nearly 30 years",
+        "content": "Democrat Eileen Higgins has secured a historic victory in the Miami mayoral race, becoming the city's first-ever female mayor and the first Democrat to win the office in nearly three decades. Her win signifies a major political shift in the historically Republican-leaning city's leadership.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "45 mins ago"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1765385803997-0",
+        "headline": "Federal Judge Upholds Transparency, Allows Unsealing of Epstein Sex Trafficking Records",
+        "content": "A federal judge has rightly ruled that the Justice Department may unseal vital records from Jeffrey Epstein's 2019 sex trafficking indictment. This decision, following a recent congressional act to override typical grand jury secrecy, marks a crucial step toward accountability and brings much-needed transparency to a case of immense public importance, exposing new materials for thorough scrutiny.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "21 mins ago"
+      },
+      {
+        "id": "story-1765385803997-1",
+        "headline": "Judicial Overreach: Judge Halts President Trump's National Guard Deployment in Los Angeles",
+        "content": "A judge has issued an order demanding President Trump cease the deployment of National Guard troops in Los Angeles, citing an alleged constitutional conflict over federal military forces in domestic law enforcement. This ruling forces an end to the Guard's presence, potentially undermining efforts to maintain law and order and questioning the executive's authority to ensure public safety in times of crisis.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "32 mins ago"
+      },
+      {
+        "id": "story-1765385803997-2",
+        "headline": "House GOP Chairman Wisely Concludes Boat Strike Probe, Prioritizing Real Issues",
+        "content": "The Republican chairman of a House panel has announced a decisive plan to conclude the ongoing investigation into the Caribbean boat strike incident. This unexpected but prudent decision allows Congress to refocus its efforts on more pressing national concerns, bringing an end to what some considered a drawn-out oversight effort during Defense Secretary Pete Hegseth's tenure.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-3",
+        "headline": "President Trump Challenges Progressive Narratives on Affordability, Demanding Real Solutions for Americans",
+        "content": "At the inaugural event of his new 'affordability tour,' President Trump used his platform to incisively critique the failures of policies that have led to the current economic crisis. His direct comments at the rally sparked important debate, as he addressed voters' legitimate concerns about the rising cost of living by exposing the root causes rather than dismissing them, demanding genuine solutions.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-4",
+        "headline": "Grave National Security Threat: Chinese Device Poses Blackout Risk to U.S. Infrastructure",
+        "content": "Concerns are rapidly escalating among security experts regarding a Chinese-made technological device suspected of possessing the capability to remotely disrupt American power infrastructure. The gadget's potential to trigger widespread U.S. blackouts raises severe new alarms about foreign interference and critical national security vulnerabilities, underscoring the urgent need to protect our vital systems.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-5",
+        "headline": "After Decades of Conservative Governance, Miami Elects Democrat Mayor, Raising Concerns for the City's Future",
+        "content": "Democrat Eileen Higgins has secured a victory in the Miami mayoral race, becoming the city's first female mayor and the first Democrat to win the office in nearly three decades. Her win signifies a notable political shift in the historically Republican-leaning city's leadership, prompting questions about the future direction of Miami's governance and traditional values.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "45 mins ago"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1765385803997-0",
+        "headline": "Nation Stunned As Legal System Accidentally Discovers Concept Of Transparency Regarding Epstein Case",
+        "content": "In a development that has sent shockwaves of mild confusion across the legal landscape, a federal judge has bravely decreed that certain documents from the Jeffrey Epstein sex trafficking saga may, astonishingly, see the light of day. Apparently, a newly minted congressional law, designed to prevent the universe from imploding due to excessive secrecy, has somehow allowed these records to escape their ancient, dusty confines, forcing the public to confront the horrifying possibility of knowing things.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "21 mins ago"
+      },
+      {
+        "id": "story-1765385803997-1",
+        "headline": "Judge Cruelly Interrupts President Trump's Elaborate Los Angeles National Guard Parade",
+        "content": "A heartless federal judge has reportedly issued a devastating blow to President Trump's architectural vision for downtown Los Angeles, ordering him to cease the rather conspicuous deployment of National Guard troops. Citing some obscure constitutional 'clash' over the use of federal military forces for what citizens assumed were simply very intense urban landscaping projects, the ruling now forces an abrupt end to the Guard's much-debated, heavily-armed presence, leaving Angelenos to wonder who will now direct traffic with such stern authority.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "32 mins ago"
+      },
+      {
+        "id": "story-1765385803997-2",
+        "headline": "Congress Declares Caribbean Boat Strike Incident Officially Solved By Not Looking At It Anymore",
+        "content": "In a stunning display of legislative efficiency, the Republican chairman of a House panel has proudly announced that the exhaustive, meticulously planned, and entirely non-embarrassing investigation into the Caribbean boat strike incident will be abruptly ceasing. This bold, unforeseen maneuver, which definitely has nothing to do with avoiding uncomfortable truths, casts only the slightest shadow of doubt over what was undoubtedly the most rigorous oversight effort during Defense Secretary Pete Hegseth's famously transparent tenure. Citizens can now sleep soundly, knowing that whatever happened on that boat will remain a truly invigorating mystery.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-3",
+        "headline": "President Trump Kicks Off 'Affordability Tour' By Proclaiming Money 'Simply Doesn't Matter'",
+        "content": "In a dazzling display of rhetorical acrobatics, President Trump inaugurated his highly anticipated 'affordability tour' by bravely confronting the very notion of economic affordability, thoroughly ridiculing it as a quaint, irrelevant concept. Speaking to an audience eager for solutions to rising costs, President Trump’s groundbreaking insight that 'true wealth is not caring about the price tag' has been hailed by critics as either deeply unhelpful or incredibly honest, depending on one's net worth.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-4",
+        "headline": "Nation Panics Over Suspicion That Tiny Chinese LED Christmas Light Might Be Trojan Horse For Total Grid Collapse",
+        "content": "A wave of existential dread has reportedly swept across the nation's security experts, as fears escalate regarding a mysterious, likely very innocent-looking Chinese technological device. Experts now gravely suspect this benign-seeming gadget could, in fact, possess the sinister capability to remotely plunge entire American cities into delightful, candlelight blackouts, raising new, absolutely unprecedented alarms about foreign interference and the shocking vulnerability of critical systems to things you can buy on Amazon for $9.99.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-5",
+        "headline": "Miami Residents Stunned As Local Election Results Indicate They May Have Accidentally Voted Democrat",
+        "content": "In a political earthquake that has rattled Miami's very foundations, Democrat Eileen Higgins has inexplicably secured the mayoral seat, becoming not only the city's first-ever female mayor but also, in a truly bewildering turn of events, the first Democrat to win the office in nearly three decades. Local pundits are struggling to explain this 'major political shift' in the historically Republican-leaning metropolis, with many residents reportedly checking their ballots for misspellings, or perhaps signs of extraterrestrial interference.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "45 mins ago"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1765385803997-0",
+        "headline": "A judge said that secret papers about Jeffrey Epstein can now be seen by everyone.",
+        "content": "Jeffrey Epstein was a person who did very bad things, like hurting people, and he was in trouble for it in 2019. Normally, some important papers from these kinds of cases are kept secret. But a judge has now made a rule that some of those secret papers can be shown to everyone. This happened because our country's lawmakers in Congress passed a new law. So now, people can finally learn more about what really happened.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "21 mins ago"
+      },
+      {
+        "id": "story-1765385803997-1",
+        "headline": "A judge told President Trump to stop sending soldiers to Los Angeles.",
+        "content": "President Trump had sent soldiers, called the National Guard, to help out in the city of Los Angeles. But a judge said that President Trump had to stop these soldiers from being there. The judge explained that it didn't follow the special rules of our country, called the Constitution, about when soldiers can act like police in our own cities. So, the National Guard troops who were in Los Angeles now have to go home.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "32 mins ago"
+      },
+      {
+        "id": "story-1765385803997-2",
+        "headline": "A group in Congress will stop looking into a boat accident.",
+        "content": "A special group in Congress, which is like a big team of lawmakers, was looking into a boat accident that happened in the Caribbean Sea. But the person in charge of that group, who is a Republican, suddenly said they are going to stop their investigation. This makes people wonder if we will ever really find out what happened with the boat, and it's a big surprise because this was an important job they were doing.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-3",
+        "headline": "President Trump made fun of how much things cost on his new trip.",
+        "content": "President Trump started a special trip where he was supposed to talk about making things cheaper for everyone. But at the very first meeting on this trip, he actually made jokes and fun of the idea of 'affordability,' which means making things easy to buy. A lot of people got upset and started talking about what he said. He was supposed to be listening to people who worry about prices going up, but it seemed like he didn't care much.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-4",
+        "headline": "People worry a Chinese device could turn off all the lights in the U.S.",
+        "content": "Experts who work to keep our country safe are getting very worried. They are thinking about a special machine that was made in China. They believe this machine might be able to turn off all the electricity in America, even from very far away! If that happened, it would cause huge power outages, where all the lights go out everywhere. This makes everyone super concerned about other countries trying to cause problems for us and if our most important systems are safe.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-5",
+        "headline": "A Democrat lady won the top job in Miami for the first time in almost 30 years.",
+        "content": "A lady named Eileen Higgins, who is from the Democrat party, won a very important election to become the mayor of Miami. This is a super big deal because she is the very first woman ever to be the mayor of that city! Also, it's been almost 30 years since someone from the Democrat party won that job in Miami. Usually, the city chooses leaders from the Republican party, so her winning means a really big change for who is in charge.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "45 mins ago"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1765385803997-0",
+        "headline": "The Unveiling of Shadows",
+        "content": "The gavel fell, echoing a promise of revelation. A federal judge’s decree allowed the Justice Department to finally unseal a trove of documents from Jeffrey Epstein’s 2019 sex trafficking indictment. For years, the grand jury’s veil of secrecy protected these files, but a recent Congressional law sliced through that obscurity. Now, the dormant papers stir, ready to shed light on forgotten names and chilling truths. The public, long hungry for answers, awaits the unsettling details. This decision promises not just exposure, but a potential reckoning, pulling long-hidden threads from the dark tapestry of a scandalous past into the harsh glare of public scrutiny, demanding justice from the shadows.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "21 mins ago"
+      },
+      {
+        "id": "story-1765385803997-1",
+        "headline": "The City's Uneasy Peace",
+        "content": "The streets of Los Angeles had buzzed with the unusual hum of military vehicles, an uneasy presence imposed by President Trump. But then, a solitary gavel struck, and a judge’s order rippled through the city. Citing a profound constitutional conflict over using federal troops for domestic policing, the ruling demanded an immediate end to the National Guard's deployment. The uniformed figures, a symbol of federal power, were to retreat. This decision marked a significant stand against the intertwining of military and civilian law enforcement, forcing the controversial presence to dissipate, restoring a fragile, if uncertain, civilian peace to the sprawling metropolis.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "32 mins ago"
+      },
+      {
+        "id": "story-1765385803997-2",
+        "headline": "Shadows on the Waves",
+        "content": "A sudden silence fell over the House panel, a stark contrast to the months of intense inquiry. The Republican chairman declared it: the investigation into the mysterious Caribbean boat strike incident would abruptly end. This unforeseen decision cast a long, unsettling shadow over what many considered the most crucial oversight effort of Defense Secretary Pete Hegseth’s controversial tenure. Questions hung heavy in the air, unanswered, like the lingering mist after a storm. The probe, once a beacon of congressional scrutiny, now faded into an inconclusive memory, leaving behind a wake of doubt about accountability and hidden truths concerning the maritime incident.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-3",
+        "headline": "A Costly Jest",
+        "content": "The 'affordability tour' was supposed to be about the people, about the rising cost of living pinching every household. Yet, on its inaugural stage, President Trump’s words cut differently. He addressed the crowd, not with empathy for their struggles, but with a sharp, derisive wit aimed directly at the very idea of affordability. His remarks, a cascade of mocking dismissals, echoed through the hall, sparking a wave of criticism and debate. Critics wondered how a leader could so casually brush aside the financial anxieties of his constituents, turning a genuine concern into a punchline. The tour began, not with solutions, but with a provocative jester's laugh, leaving voters to ponder the true cost of their leader's jest.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-4",
+        "headline": "The Silent Switch",
+        "content": "A chill ran through the grid of the nation. Whispers of a Chinese-made gadget, a seemingly innocuous device, were turning into a roar of alarm among security experts. This technological phantom, they warned, held the terrifying potential to remotely sever America's power lines, plunging vast regions into darkness. The prospect of widespread U.S. blackouts, triggered by an unseen hand across the globe, elevated national security fears to a fever pitch. New vulnerabilities in critical infrastructure were laid bare, painting a stark picture of foreign interference and the silent, digital threats that now loom over the very lights we take for granted.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "2025-12-10"
+      },
+      {
+        "id": "story-1765385803997-5",
+        "headline": "Tide Turning in the Tropics",
+        "content": "Miami, a city long etched in the political hues of conservatism, felt a seismic shift. Eileen Higgins, a name now echoing with history, claimed a monumental victory in the mayoral race. For the first time, a woman would wield the city's highest office, her triumph shattering a gender barrier. More profoundly, Higgins marked the first Democrat to win Miami's mayoral seat in nearly three decades, signaling a dramatic realignment in the historically Republican-leaning stronghold. Her win was not just a personal achievement; it was a potent symbol of change, a new political dawn breaking over the vibrant, sun-drenched metropolis.",
+        "originalSource": "PBS News/Associated Press",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "45 mins ago"
+      }
+    ]
   }
 }
