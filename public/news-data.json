@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765436538638,
+  "timestamp": 1765443471081,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765436462035-0",
-        "headline": "U.S. Assertions of Power Threaten Regional Stability by Seizing Venezuelan Oil Tanker",
-        "content": "The U.S. military's recent seizure of an oil tanker off Venezuela's coast, explicitly confirmed by President Trump, represents a dangerous escalation of unilateral American power, targeting sanctioned oil from both Venezuela and Iran. This aggressive act follows a concerning U.S. military buildup in the Caribbean, raising serious questions about the international law and the humanitarian consequences of such interventions.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765443392717-0",
+        "headline": "House Endorses Massive Defense Budget Prioritizing Weapons Over Social Needs",
+        "content": "The House of Representatives' approval of the annual defense bill, while including a modest pay raise for troops, fundamentally perpetuates a system that prioritizes excessive weapons procurement. This bipartisan vote, despite alleged friction between Congress and President Trump, continues to channel vast public resources into the military-industrial complex rather than addressing pressing domestic social and economic crises, highlighting a critical misallocation of national priorities.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-1",
-        "headline": "Congress Approves Massive Defense Bill While Social Needs Go Unmet",
-        "content": "The House of Representatives recently passed its annual defense bill with a commanding 312-112 vote, including a modest pay raise for troops and an extensive overhaul of weapons procurement. While ostensibly benefiting service members, critics argue this massive allocation of resources to the military-industrial complex further diverts crucial funds from vital social programs, perpetuating a cycle where corporate interests in defense profit while systemic societal needs remain unaddressed.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765436462035-2",
-        "headline": "Federal Reserve Rate Cut Fails to Address Systemic Economic Inequality",
-        "content": "The Federal Reserve's third consecutive interest rate cut, a 0.25 percentage point reduction, signals the central bank's ongoing struggle to manage an economy plagued by persistent inflation and a decelerating labor market. While framed as balancing the economy, such actions often fail to address the systemic wealth inequality, disproportionately benefiting financial institutions and corporations while ordinary working people continue to face stagnating wages and rising costs.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765436462035-3",
-        "headline": "Bipartisan Push Emerges to Protect Healthcare Access for Millions",
-        "content": "A bipartisan coalition, spearheaded by moderate House Republicans including Rep. Brian Fitzpatrick, has initiated a crucial discharge petition against Speaker Johnson, aiming to force a floor vote on extending the Affordable Care Act's premium tax credits for two years. This bold move highlights the ongoing struggle to ensure affordable healthcare remains accessible to millions, pushing back against party leadership's resistance to policies that protect a fundamental human right.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765436462035-4",
-        "headline": "President Trump's Administration Moves to Dismantle Vital Student Debt Relief Program",
-        "content": "The President Trump administration has finalized a controversial agreement to terminate the student loan repayment plan initiated under the Biden presidency, an action that will negatively impact millions of federal loan borrowers. This move is a critical blow in the ongoing battle for meaningful student debt relief, intensifying a systemic financial burden on individuals and perpetuating barriers to equitable access to higher education.",
+        "id": "story-1765443392717-1",
+        "headline": "U.S. Unilaterally Seizes Venezuelan Oil Tanker, Intensifying Imperialist Pressure",
+        "content": "President Trump's administration has executed a provocative seizure of an oil tanker off Venezuela's coast, a move that unequivocally escalates U.S. intervention in a sovereign nation. This action, framed as part of a 'pressure campaign,' primarily targets Venezuela's vital oil-dependent economy, threatening the livelihood of its citizens and fueling regional instability. Such unilateral aggressions reflect a troubling pattern of U.S. foreign policy prioritizing resource control and regime change over international law and self-determination.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "December 11, 2025"
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-5",
-        "headline": "University Power Dynamics Under Scrutiny Following Coach's Abrupt Firing and Arrest",
-        "content": "Former University of Michigan football coach Sherrone Moore was summarily fired and subsequently jailed just hours later, ending his two-season tenure amidst allegations of an 'inappropriate relationship.' This shocking development brings renewed scrutiny to the systemic power dynamics within collegiate athletics and the urgent need for robust accountability mechanisms to protect all members of the university community from exploitation.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "December 11, 2025"
+        "id": "story-1765443392717-2",
+        "headline": "Federal Reserve's Latest Rate Cut Fails to Address Systemic Economic Inequality",
+        "content": "The Federal Reserve's third consecutive quarter-point interest rate cut, ostensibly to 'balance economic pressures,' largely serves to prop up financial markets while doing little to alleviate the systemic burdens on working-class families. While some might hail it as a solution to inflation and a cooling labor market, these actions often disproportionately benefit large corporations and investors, exacerbating wealth disparities rather than truly stabilizing the economy for everyone. The fundamental issues of stagnant wages and corporate profiteering remain untouched by these traditional monetary policy adjustments.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765443392717-3",
+        "headline": "Healthcare Access Hangs Precariously as Republican Moderates Challenge Party Leadership to Extend Critical Subsidies",
+        "content": "As vital Affordable Care Act premium tax credits face expiration, a cohort of moderate House Republicans has been compelled to challenge Speaker Johnson, initiating a discharge petition to force a vote. This desperate maneuver underscores the precarious state of healthcare access in a nation where basic medical coverage remains a political battleground rather than a guaranteed right. The impending loss of these subsidies would disproportionately harm millions, highlighting the systemic failure to enshrine universal healthcare and the constant threat to existing, insufficient provisions.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765443392717-4",
+        "headline": "President Trump's Administration Dismantles Student Loan Relief, Deepening Systemic Debt Crisis",
+        "content": "President Trump's administration has finalized a deal to terminate the previous student loan repayment program, plunging millions of federal borrowers into immediate financial uncertainty. This regressive decision exacerbates a burgeoning systemic student debt crisis, directly undermining efforts to alleviate an oppressive burden that disproportionately affects marginalized communities and hinders economic mobility. Rather than offering comprehensive solutions to the predatory cost of education, this action demonstrates a disregard for the financial well-being of a generation saddled with unmanageable debt.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765443392717-5",
+        "headline": "Federal Judge Halts National Guard Deployment, Challenging Militarization of Domestic Policing",
+        "content": "A federal judge has delivered a crucial ruling, immediately halting the deployment of National Guard troops in Los Angeles, effectively reining in the alarming militarization of domestic law enforcement. This decision is a vital check on state power, pushing back against the dangerous precedent of using military personnel to suppress dissent or manage security within U.S. cities, a practice that disproportionately targets marginalized communities and erodes civil liberties. The ruling underscores the imperative to address root causes of social unrest through community-based solutions, not military intervention.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/us-news",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765436462035-0",
-        "headline": "U.S. seizes oil tanker off the coast of Venezuela, escalating tensions with Maduro",
-        "content": "The U.S. military seized an oil tanker off the coast of Venezuela, an action President Trump confirmed was for transporting sanctioned oil from both Venezuela and Iran. This marks a major escalation in tensions and follows a continuous U.S. military buildup in the Caribbean region.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765436462035-1",
+        "id": "story-1765443392717-0",
         "headline": "House passes annual defense bill to raise troop pay and overhaul weapons purchases",
-        "content": "The House of Representatives passed the annual defense bill on a 312-112 vote, which mandates a pay raise for troops and an overhaul of weapons purchasing. The bill's passage comes amid a period of increasing friction between the Republican-controlled Congress and the Trump administration.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "6 hours ago"
+        "content": "The House of Representatives approved the annual defense bill, which includes a pay raise for troops and significant changes to weapons acquisition. The passage, on a 312-112 vote, highlights growing friction between the Republican-controlled Congress and the Trump administration over military management and spending priorities. (49 words)",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-2",
-        "headline": "Federal Reserve cuts interest rates amid mixed economic data and divisions in its ranks",
-        "content": "The Federal Reserve executed its third consecutive interest rate cut, reducing rates by 0.25 percentage points. The decision reflects the central bank's efforts to balance the economy amidst persistent higher inflation and a labor market that is showing signs of slowing down, reflecting internal divisions.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765443392717-1",
+        "headline": "U.S. seizes oil tanker off Venezuelan coast, escalating tensions with Maduro",
+        "content": "The U.S. seized a large oil tanker near Venezuela's coast, a move confirmed by President Trump and described as a significant escalation. The action is part of the ongoing pressure campaign against Venezuelan President Nicolás Maduro and his nation's crucial, oil-dependent economy amidst rising geopolitical tensions. (49 words)",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-3",
-        "headline": "House GOP moderates revolt against Johnson on health care subsidies",
-        "content": "Moderate House Republicans, led by Rep. Brian Fitzpatrick, initiated a revolt against Speaker Johnson by filing a discharge petition. The action aims to force a floor vote on a bill that would extend the Affordable Care Act's premium tax credits for two years, a measure that faces resistance from the party's leadership.",
+        "id": "story-1765443392717-2",
+        "headline": "Fed lowers interest rates by 0.25 percentage points in third straight cut",
+        "content": "The Federal Reserve announced a 0.25 percentage point cut to its benchmark interest rate, marking the third successive reduction. This decision reflects the central bank's efforts to balance economic pressures, particularly concerning persistent higher inflation and a noticeable cooling in the nation's labor market. (47 words)",
         "originalSource": "CBS News",
         "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "5 hours ago"
+        "publishedTime": "11 hours ago"
       },
       {
-        "id": "story-1765436462035-4",
+        "id": "story-1765443392717-3",
+        "headline": "House GOP moderates revolt against Johnson on health care as tax credits set to expire",
+        "content": "A group of moderate House Republicans introduced a discharge petition to force a floor vote on extending Affordable Care Act premium tax credits for two years. This move, led by Rep. Brian Fitzpatrick, is seen as a direct revolt against Speaker Johnson as time runs out on the expiring critical health care subsidies. (50 words)",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765443392717-4",
         "headline": "Trump administration strikes deal to end Biden's student loan repayment plan",
-        "content": "The Trump administration has reached an agreement to terminate the student loan repayment plan established during the Biden presidency. The deal affects millions of federal loan borrowers, and its terms are part of a larger ongoing legal and policy battle over student debt relief in the U.S.",
+        "content": "The Trump administration has finalized a deal that will terminate the student loan repayment program that was originally established under the Biden administration. The decision creates immediate uncertainty for millions of federal student loan borrowers, with details on the replacement or transitional policy still anticipated by the public. (48 words)",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "December 11, 2025"
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "10 hours ago"
       },
       {
-        "id": "story-1765436462035-5",
-        "headline": "Michigan coach lands in jail hours after firing over 'inappropriate relationship'",
-        "content": "Former University of Michigan football coach Sherrone Moore was fired and subsequently detained by police and jailed just hours later. The abrupt end to his two-season tenure was reportedly due to an alleged inappropriate relationship, stunning the college sports community.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "December 11, 2025"
+        "id": "story-1765443392717-5",
+        "headline": "Judge halts National Guard deployments in Los Angeles following executive order",
+        "content": "A federal judge issued an order to immediately halt the deployment of National Guard troops within Los Angeles. The ruling directly impacts the current security situation and is a key legal development concerning the use of military personnel for domestic law enforcement duties within a major American city. (49 words)",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/us-news",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765436462035-0",
-        "headline": "President Trump's Administration Takes Decisive Action Against Illicit Oil Shipments, Upholding Sanctions.",
-        "content": "In a clear display of American strength and resolve, the U.S. military, under the steadfast leadership of President Trump, successfully intercepted an oil tanker off the coast of Venezuela. President Trump personally confirmed this vital operation targeted vessels transporting sanctioned oil from the rogue regimes of Venezuela and Iran. This move sends an unmistakable message to despots and adversaries worldwide, demonstrating President Trump's unwavering commitment to national security and enforcing international law against those who threaten global stability and American interests, building on a robust U.S. military presence in the Caribbean.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765443392717-0",
+        "headline": "Congress Upholds Sacred Duty by Boosting Troop Pay and Reforming Defense Spending",
+        "content": "The House of Representatives has commendably passed the annual defense bill, ensuring a much-deserved pay raise for our brave troops and implementing vital overhauls to weapons acquisition. This critical action, despite some friction between Republican-controlled Congress and President Trump's administration, reinforces our nation's commitment to a strong military and responsible stewardship of taxpayer funds in defense management.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-1",
-        "headline": "House Approves Essential Defense Bill to Boost Military Pay and Modernize Procurement, Amidst Intra-Party Squabbles.",
-        "content": "The House of Representatives, in a significant bipartisan vote of 312-112, has passed the annual defense bill, ensuring our brave service members receive a well-deserved pay raise and initiating crucial reforms to weapons purchasing. While this vital legislation strengthens our national defense and supports the men and women who protect our liberties, its passage highlights concerning friction within the Republican-controlled Congress, particularly regarding its relationship with President Trump's administration. True conservatives must prioritize unity and national security above political maneuvering.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765436462035-2",
-        "headline": "Federal Reserve's Latest Rate Cut Raises Concerns Amidst Lingering Inflation and Economic Uncertainty.",
-        "content": "The Federal Reserve has once again intervened in the free market, implementing its third consecutive interest rate cut by 0.25 percentage points. This decision, purportedly an effort to \"balance\" the economy, comes despite persistent higher inflation that erodes the purchasing power of hardworking Americans and a labor market showing concerning signs of a slowdown. Such actions by an unelected central bank, marked by internal divisions, only highlight the dangers of government overreach in economic matters, potentially undermining long-term stability and true prosperity.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765436462035-3",
-        "headline": "So-Called \"Moderate\" Republicans Undermine Leadership, Pushing for Expansion of Costly Obamacare Subsidies.",
-        "content": "A contingent of so-called \"moderate\" House Republicans, spearheaded by Rep. Brian Fitzpatrick, has regrettably chosen to challenge Speaker Johnson's leadership by filing a discharge petition. Their aim is to force a vote on a bill that would extend the Affordable Care Act's premium tax credits for two more years. This move is a disappointing betrayal of fiscal responsibility and conservative principles, seeking to prop up a failing government-controlled healthcare scheme that has proven to be expensive and inefficient, rather than pursuing true market-based healthcare reforms that empower individuals.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765436462035-4",
-        "headline": "President Trump's Administration Acts Decisively to End Biden's Irresponsible Student Loan Repayment Scheme, Restoring Fiscal Sanity.",
-        "content": "In a victory for fiscal sanity and individual responsibility, President Trump's administration has successfully forged an agreement to terminate the misguided student loan repayment plan initiated by the Biden presidency. This decisive action, affecting millions of federal loan borrowers, marks a crucial step in reversing policies that encourage dependency and saddle taxpayers with the debts of others. President Trump continues to lead the charge against the endless expansion of government handouts, ensuring that the principles of accountability and financial prudence are upheld for all Americans.",
+        "id": "story-1765443392717-1",
+        "headline": "President Trump Takes Decisive Action Against Maduro Regime's Illicit Operations",
+        "content": "President Trump confirmed the U.S. seizure of a large oil tanker near Venezuela's coast, a bold and necessary move against the socialist Nicolás Maduro regime. This decisive action is a critical part of the ongoing pressure campaign to confront tyranny and protect American interests, directly targeting the illicit oil trade that props up an oppressive government amidst rising geopolitical tensions.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "December 11, 2025"
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-5",
-        "headline": "Michigan Coach Fired and Jailed Amidst Allegations of Immorality, Highlighting Decline in Institutional Standards.",
-        "content": "The once-respected University of Michigan football program has been rocked by scandal as former coach Sherrone Moore was not only fired but also swiftly jailed just hours later. The abrupt termination of his two-season tenure stems from gravely serious allegations of an inappropriate relationship, sending shockwaves through the college sports community. This regrettable incident underscores a concerning erosion of moral standards and personal accountability within prominent institutions, demanding a return to traditional values and ethical conduct to restore integrity.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "December 11, 2025"
+        "id": "story-1765443392717-2",
+        "headline": "Federal Reserve's Third Rate Cut Signals Growing Economic Uncertainties Amidst Inflation Fears",
+        "content": "The Federal Reserve has once again lowered its benchmark interest rate by 0.25 percentage points, marking the third consecutive reduction. While intended to balance economic pressures, this repeated intervention raises concerns about underlying economic fragility, persistent inflation, and a cooling labor market, prompting questions about the central bank's long-term strategy for a truly free and robust economy.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765443392717-3",
+        "headline": "Fiscal Conservatives Stand Firm as Some Republicans Seek More Government Healthcare Spending",
+        "content": "A contingent of moderate House Republicans has regrettably introduced a discharge petition to force a floor vote on extending Affordable Care Act premium tax credits for two years. Led by Rep. Brian Fitzpatrick, this move challenges Speaker Johnson and underscores the ongoing debate over fiscal responsibility versus expanding costly government subsidies as critical healthcare provisions approach their expiration.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765443392717-4",
+        "headline": "President Trump Ends Costly Biden Student Loan Program, Restoring Fiscal Responsibility",
+        "content": "The Trump administration has commendably finalized a deal to terminate the fiscally irresponsible student loan repayment program established under the Biden administration. This decision by President Trump prioritizes personal accountability and taxpayer fairness, ending a program that created immediate uncertainty for millions of federal student loan borrowers, with details on a more responsible transitional policy still anticipated by the public.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765443392717-5",
+        "headline": "Judicial Overreach Undermines Law and Order, Halting Essential National Guard Deployment in Los Angeles",
+        "content": "A federal judge has regrettably issued an order to immediately halt the deployment of National Guard troops within Los Angeles. This ruling represents a concerning instance of judicial overreach, directly impacting public safety and impeding necessary executive action to maintain law and order, especially concerning the critical use of military personnel for domestic protection in a major American city.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/us-news",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765436462035-0",
-        "headline": "In Daring Move, U.S. Military Seizes Tanker So President Trump Can Finally Get That Oil Painting He Always Wanted",
-        "content": "The U.S. military, apparently running low on compelling international drama, successfully \"liberated\" an oil tanker off the Venezuelan coast. President Trump, ever the astute negotiator, personally confirmed the vessel was carrying \"the bad kind of oil\" from Venezuela and Iran, which he plans to use for a truly magnificent, gold-leaf-encrusted portrait of himself. Experts believe this move, coupled with the U.S.'s ongoing \"Caribbean Vacation\" military buildup, will surely bring peace, or at least a very shiny painting, to the region.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765443392717-0",
+        "headline": "Congress Votes to Purchase New, Shinier Tanks That Definitely Won't Break Down Immediately",
+        "content": "In a stunning display of bipartisan agreement on how to spend vast sums of money, the House of Representatives overwhelmingly approved an annual defense bill. The legislation includes a minuscule pay raise for troops, presumably to cover the cost of their new, mandatory \"morale-boosting\" hats, and promises \"significant changes\" to weapons acquisition, which sources confirm translates to \"buying more of whatever the military-industrial complex has on sale.\" The vote, 312-112, reportedly left President Trump wondering if anyone had actually read the part about his pet project, \"Laser Squirrels for Homeland Security.\"",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-1",
-        "headline": "House Unanimously Agrees Troops Deserve Pay Raise Just Big Enough to Afford Next-Gen Coffee Makers for New Tanks",
-        "content": "In a stunning display of legislative prowess and minimal bickering, the House of Representatives passed its annual defense bill, ensuring our brave troops receive a pay raise that will undoubtedly cover their extra avocado toast. The bill also promises a sweeping \"overhaul\" of weapons purchasing, which sources close to the Pentagon confirm means they'll now order weapons through an intuitive new app with one-click purchasing, rather than the old, inefficient 1-800 number. This bipartisan moment of harmony comes despite the usual congressional-presidential \"lighthearted disagreement\" over who gets to press the \"buy now\" button on the new weapons.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765436462035-2",
-        "headline": "Federal Reserve Cuts Rates Again, Hopes Nobody Notices They’re Just Flipping a Coin Now",
-        "content": "The Federal Reserve, after extensive deliberation (and possibly a short game of Rock, Paper, Scissors), announced its third consecutive interest rate cut of 0.25 percentage points. \"We're just trying to keep things... balanced,\" explained a visibly flustered Fed official, while simultaneously trying to juggle a bowling ball and a feather. The move comes as the economy continues to send \"mixed signals,\" like a teenager who says they're fine but also just spent an hour staring at a wall. Insiders report the decision was preceded by intense debate over whether to use the \"happy face\" or \"sad face\" emoji to represent current economic conditions, highlighting deep divisions within the central bank.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765436462035-3",
-        "headline": "House Moderates Stage Daring \"Revolt\" Against Speaker Johnson, Mostly Just Filing Some Paperwork",
-        "content": "In a move described as \"utterly audacious\" by people who enjoy hyperbole, moderate House Republicans, led by Rep. Brian Fitzpatrick, launched a full-scale \"revolt\" against Speaker Johnson. Their weapon of choice? A discharge petition. The goal of this dramatic act of defiance is to force a vote on extending health care subsidies, a concept so radical it involves helping people afford things. Leadership, reportedly still recovering from the shock of having to read a petition, remains firmly against anything that sounds remotely like a compromise.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765436462035-4",
-        "headline": "President Trump Administration Magnanimously Ends Student Loan Plan, Suggests Borrowers Try \"Just Not Having Debt\"",
-        "content": "In a move hailed as \"financially invigorating\" by collection agencies nationwide, President Trump's administration has heroically struck a deal to terminate the student loan repayment plan established during the Biden presidency. Millions of federal loan borrowers are now expected to embrace the spirit of self-reliance, perhaps by inventing a time machine or simply ceasing to be poor. This decisive action is merely the latest chapter in the never-ending American saga of determining whether students should pay back money they borrowed for an education or if we should just, you know, educate them.",
+        "id": "story-1765443392717-1",
+        "headline": "U.S. Seizes Venezuelan Oil Tanker for Impolite Parking, President Trump Confirms",
+        "content": "Geopolitical tensions reached new heights after the U.S. Navy, under the direct orders of President Trump, \"repossessed\" a massive oil tanker off the Venezuelan coast. President Trump proudly announced the seizure, citing the tanker's \"egregious violation of maritime etiquette\" and its refusal to use a turn signal. This \"significant escalation\" is part of an ongoing, highly effective pressure campaign to convince President Nicolás Maduro that Venezuela would be much better off if it just sold its oil to us at a discount and stopped being so darn oil-dependent.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "December 11, 2025"
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-5",
-        "headline": "Michigan Coach Fired, Jailed, And Possibly Erased From History Books All Before Lunch Break",
-        "content": "In a record-breaking display of administrative efficiency, University of Michigan football coach Sherrone Moore was not only fired, but also apprehended and processed into the local correctional facility, all within what felt like a commercial break. His swift departure from coaching and freedom was reportedly due to an \"inappropriate relationship,\" which the college sports community is \"stunned\" by, primarily because they thought \"inappropriate relationship\" was a prerequisite for coaching at that level. The whole saga unfolded quicker than a botched extra point.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "December 11, 2025"
+        "id": "story-1765443392717-2",
+        "headline": "Federal Reserve Lowers Interest Rates Again, Hopes Someone Notices This Time",
+        "content": "In a bold move that financial analysts are calling \"the third time's the charm,\" the Federal Reserve announced another 0.25 percentage point cut to its benchmark interest rate. The central bank stated the decision was made to \"rebalance economic pressures,\" which roughly translates to \"we're throwing darts at a board labeled 'inflation' and 'labor market cooling' and hoping for the best.\" Experts believe this latest cut might finally convince reluctant consumers to purchase that slightly-less-expensive yacht they've been eyeing.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765443392717-3",
+        "headline": "House GOP Moderates Stage Full-Blown \"Revolt\" by Politely Asking for a Vote on Healthcare",
+        "content": "A courageous band of House Republican moderates, known for their fiery spirit and penchant for incremental change, has reportedly launched a \"direct revolt\" against Speaker Johnson. Their weapon of choice? A discharge petition, designed to force a floor vote on extending Affordable Care Act premium tax credits for a whopping two years. Rep. Brian Fitzpatrick, leading the charge with a sternly worded memo, insists this daring move will save critical healthcare subsidies before they vanish into the ether, leaving millions to ponder the philosophical implications of expired tax credits.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765443392717-4",
+        "headline": "Trump Administration Heroically Ends Student Loan Plan, Replaces It With \"Vague Hope\"",
+        "content": "In a decisive stroke of policy genius, the Trump administration has finalized a deal to mercifully terminate the student loan repayment program initially conceived by the Biden administration. Millions of federal student loan borrowers were immediately plunged into a thrilling new era of \"total uncertainty,\" with the administration promising that details on a replacement or transitional policy would be \"anticipated at some point, maybe.\" President Trump declared the move a victory for fiscal responsibility and the inherent character-building benefits of financial anxiety.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765443392717-5",
+        "headline": "Judge Rules Los Angeles National Guard Deployments Are \"Too Many Humans in Uniform,\" Must Stop Immediately",
+        "content": "A federal judge, citing an obscure municipal ordinance against \"excessive displays of coordinated khaki,\" issued a groundbreaking order to immediately halt the deployment of National Guard troops within the city of Los Angeles. The ruling, which legal scholars are calling \"remarkably specific,\" directly impacts the city's current security situation by ensuring there are now demonstrably fewer soldiers standing around looking important. President Trump, who issued the original executive order, reportedly responded by asking if the judge also had strong opinions on tactical fanny packs.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/us-news",
+        "publishedTime": "9 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765436462035-0",
-        "headline": "The United States Took an Oil Ship Near Venezuela Because of Rules.",
-        "content": "The United States military took a very big boat that carries oil from near a country called Venezuela. President Trump said they took the ship because it was carrying oil from Venezuela and Iran, and that's not allowed. This makes the disagreements between the U.S. and Venezuela much bigger. The U.S. has also been putting more military ships and planes in that area.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765443392717-0",
+        "headline": "Lawmakers in the House Voted to Give Soldiers More Money.",
+        "content": "The people in the House of Representatives, which is a big part of our government, said \"yes\" to a plan about our country's army and navy. This plan will give our soldiers a pay raise, which means they get more money for their hard work. It also changes how the military buys its big weapons and gear. Some people in charge, especially President Trump's team, are not totally happy about how the army is run and how much money it spends, causing some disagreements.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-1",
-        "headline": "Our Government Voted to Give Soldiers More Money and Better Stuff.",
-        "content": "A big group in our government, called the House of Representatives, voted to approve a yearly plan for our military. This plan says that soldiers will get more money, and the government will buy army stuff in a better way. This vote happened even when some people in the government and President Trump were having disagreements.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765436462035-2",
-        "headline": "The Big Bank Group Made it Cheaper to Borrow Money.",
-        "content": "The Federal Reserve, which is a very important bank for our country, decided to make it a little cheaper to borrow money. This is the third time they've done this in a row. They are trying to help the economy because prices are still going up a lot, and it seems like fewer people are finding jobs. Some people inside the Federal Reserve don't all agree on what the best plan is.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765436462035-3",
-        "headline": "Some Republicans Are Trying to Help People Pay for Health Insurance.",
-        "content": "Some Republicans in the House of Representatives, led by a guy named Brian Fitzpatrick, are going against what their leader, Speaker Johnson, wants. They want to make sure everyone gets a chance to vote on a plan that would keep helping people pay for health insurance for two more years. But the main leaders of their party are saying no to this idea.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765436462035-4",
-        "headline": "President Trump's Team Made a Deal to Stop Student Loan Help.",
-        "content": "President Trump's government team has made a deal to stop a plan that helped people pay back their school loans. This plan was started when President Biden was in charge. This change will affect many, many people who borrowed money for college. This is also part of a bigger argument happening right now about helping people with their student debt in America.",
+        "id": "story-1765443392717-1",
+        "headline": "America Took a Big Oil Ship Near Venezuela's Coast.",
+        "content": "The United States took control of a really big ship full of oil that was close to Venezuela's land. President Trump said this happened and it's a big deal. America is trying to put a lot of pressure on Venezuela's leader, Nicolás Maduro. Venezuela needs oil to make money, and this action is making things more tense between the countries.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "December 11, 2025"
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-5",
-        "headline": "A Football Coach Went to Jail After Getting Fired for Something Bad.",
-        "content": "The football coach for the University of Michigan, Sherrone Moore, got fired from his job and then went to jail just a few hours later! He was only the coach for two years. People are saying he was fired because he had a relationship that was not allowed. This news really surprised everyone who follows college sports.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "December 11, 2025"
+        "id": "story-1765443392717-2",
+        "headline": "The Government's Bank Made Borrowing Money a Bit Cheaper.",
+        "content": "The Federal Reserve, which is like the country's main bank, decided to make it a little cheaper to borrow money. This is the third time they've done this in a row! They are trying to help the economy because things like prices for stuff are going up (that's inflation), and it's getting a bit harder for people to find jobs.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765443392717-3",
+        "headline": "Some Republicans Are Upset About Health Care Plans.",
+        "content": "Some Republicans in the House, who are called 'moderates' because they're not super strict, are trying to make a big change. They want to keep a special kind of help for health insurance going for two more years. This help, called 'tax credits,' makes health insurance cheaper for many people. Their leader, Brian Fitzpatrick, is doing this even though their main boss, Speaker Johnson, might not like it because the help is about to run out.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765443392717-4",
+        "headline": "President Trump's Team Will Stop a Student Loan Program.",
+        "content": "President Trump's team has made a plan to stop a way people pay back their student loans, which was started by the Biden administration. This means a lot of people who borrowed money for college don't know what will happen next. Everyone is waiting to hear what new rules or help will be put in place.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765443392717-5",
+        "headline": "A Judge Said No More Soldiers in Los Angeles For Now.",
+        "content": "A special judge decided that soldiers from the National Guard can't be sent out in Los Angeles right now. This order instantly changes how safe things are there. It's a big decision about whether military people can act like police officers in a big city in America.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/us-news",
+        "publishedTime": "9 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765436462035-0",
-        "headline": "Crimson Tide Rising in the Caribbean",
-        "content": "The sleek tanker, laden with the dark bounty of defiance, cut through the cerulean waves off Venezuela's coast. Suddenly, the U.S. military moved, a swift, decisive strike. President Trump later confirmed the capture, revealing the vessel's cargo as sanctioned oil from both Venezuela and Iran. This wasn't merely a seizure; it was a thunderclap across the waters, a stark escalation in tensions with Maduro's regime. In the Caribbean, the constant hum of American military buildup had finally crescendoed into action, a clear message echoing across international boundaries. The sea held its breath, awaiting the next ripple.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "7 hours ago"
+        "id": "story-1765443392717-0",
+        "headline": "The Soldier's Share and the Capitol's Divide",
+        "content": "The digital clock on the House floor glowed, marking the approval. A pay raise for every soldier, a promise whispered from distant battlefields to homefronts, finally secured. Yet, beneath the celebration, a deep fissure ran through the Republican-controlled Congress. Weapons contracts, redesigned and scrutinized, sparked a silent war of wills. President Trump’s administration, known for its decisive command, found itself challenged by legislative pens. The bill passed, a victory for the troops, but a stark reminder that even within shared goals, the struggle for control over military management and national spending waged on, unseen yet potent.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/us-news",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-1",
-        "headline": "Capitol's Calculated Gift to the Soldiers",
-        "content": "Beneath the gilded dome, the House of Representatives delivered a verdict for the nation's protectors. A decisive 312-112 vote saw the annual defense bill through, a mandate for a much-anticipated pay raise for every soldier. Beyond the immediate relief for troops, the legislation also promised a radical overhaul of weapons purchasing, aiming for efficiency and advanced capabilities. This legislative victory, however, was not without its shadows. It emerged from a period of growing friction, a quiet battleground between the Republican-controlled Congress and the administration of President Trump, highlighting the complex dance of power in Washington.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765436462035-2",
-        "headline": "Whispers in the Boardroom of Numbers",
-        "content": "For the third time, the Federal Reserve's gavel fell, reducing interest rates by a quarter-point. The decision, a delicate tightrope walk, aimed to coax a wary economy forward. Inflation, a persistent specter, lingered, while the gears of the labor market showed signs of slowing, hinting at broader vulnerabilities. This was not a unanimous decree; the central bank's inner chambers buzzed with division, a testament to the conflicting data and differing philosophies on how best to steer the national economic ship. The ripple effect would touch every household, every business, as the Fed grappled with an uncertain future.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/tag/the-latest",
-        "publishedTime": "7 hours ago"
-      },
-      {
-        "id": "story-1765436462035-3",
-        "headline": "The Rebel's Gambit on Health Care",
-        "content": "A tremor ran through the House GOP as moderate Republicans, spearheaded by Rep. Brian Fitzpatrick, mounted a calculated challenge. They unfurled a discharge petition, a rarely used legislative weapon, aimed squarely at Speaker Johnson. Their objective: to force a floor vote on a bill extending the Affordable Care Act's premium tax credits for two crucial years. It was a direct affront to party leadership, a public declaration that the needs of their constituents, particularly those struggling with healthcare costs, superseded party lines. The gauntlet had been thrown, setting the stage for a tense showdown within the Republican ranks.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765436462035-4",
-        "headline": "The Unraveling Promise for Students",
-        "content": "A shadow fell over millions of federal loan borrowers as the administration of President Trump finalized an agreement. The deal was stark: it would terminate the student loan repayment plan that had been established during the Biden presidency. This wasn't merely a policy shift; it was a seismic jolt in the ongoing, deeply contentious legal and political battle over student debt relief across the United States. The terms of this agreement, poised to reshape the financial landscape for many, added another complex layer to a debate that continues to divide lawmakers and citizens alike, leaving many to wonder about their financial futures.",
+        "id": "story-1765443392717-1",
+        "headline": "Crimson Tide on the Horizon",
+        "content": "The vast ocean shimmered under the stern gaze of the U.S. Navy. A hulking oil tanker, laden with Venezuela's black gold, became a ghost on the waves. Its seizure, a swift, deliberate move, echoed across global channels, confirmed by President Trump himself. This wasn't merely a ship; it was a chess piece in a high-stakes game. The pressure campaign against Venezuelan President Nicolás Maduro intensified, cutting at the economic lifeblood of his nation. The air crackled with unspoken threats, the tanker a symbol of escalating tensions, its capture a stark warning of powers colliding.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://www.washingtonpost.com/",
-        "publishedTime": "December 11, 2025"
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "8 hours ago"
       },
       {
-        "id": "story-1765436462035-5",
-        "headline": "Fall From the Sidelines: A Coach's Swift Descen",
-        "content": "The roaring stadium lights dimmed on Sherrone Moore's career. Hours after his abrupt firing as the University of Michigan's football coach, the news spiraled into disbelief: he was detained by police, then jailed. His two-season tenure, once filled with promise, ended in disgrace, reportedly due to an alleged inappropriate relationship. The college sports world, a realm often defined by its fierce loyalty and public spectacle, reeled. A celebrated figure, once leading from the sidelines, now faced a starkly different kind of confinement, his fall from grace as swift as it was shocking, leaving a stunned community in its wake.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "December 11, 2025"
+        "id": "story-1765443392717-2",
+        "headline": "The Whispers of the Market's Heartbeat",
+        "content": "The Federal Reserve’s pronouncement rippled through boardrooms and kitchen tables alike. Another quarter-point descent for interest rates, the third in a steady cadence, a gentle hand guiding the nation's economic pulse. Outside the hallowed halls, families worried over mounting inflation, their grocery bills stretching ever thinner. Businesses watched the cooling labor market, wondering about growth. The bankers, with their intricate charts and careful calculations, sought a delicate balance, a way to soothe the anxieties without igniting new fires. It was a subtle shift, yet its reach was profound, touching every wallet and every dream of prosperity.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "11 hours ago"
+      },
+      {
+        "id": "story-1765443392717-3",
+        "headline": "A Rift in the House of Stone",
+        "content": "The Affordable Care Act’s lifeline for millions, the premium tax credits, blinked like a dying ember. Across the aisle, a band of moderate House Republicans, led by Representative Fitzpatrick, felt the heat. They moved, not with shouts, but with a quiet, rebellious document: a discharge petition. This was a challenge, a direct affront to Speaker Johnson, whose leadership now faced an internal tremor. The clock ticked, healthcare subsidies poised to vanish, leaving countless families vulnerable. The Capitol, usually a fortress of party lines, now showed cracks, the moderates choosing conscience over rigid alignment, demanding a vote before time ran out.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "8 hours ago"
+      },
+      {
+        "id": "story-1765443392717-4",
+        "headline": "The Shifting Sands of Debt's Promise",
+        "content": "The news broke like a sudden storm, shaking the foundations of countless futures. President Trump’s administration had finalized the agreement: the student loan repayment program, a lifeline born under the Biden era, was now officially terminated. Millions of federal borrowers, who had charted their financial lives around its tenets, suddenly found themselves adrift. Uncertainty became their new companion. Would there be a replacement? A transition? The details remained shrouded, leaving a vast sea of students and graduates staring at an uncharted horizon, their financial maps suddenly obsolete, awaiting new directives in the wake of the political tides.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://www.washingtonpost.com/us-news/",
+        "publishedTime": "10 hours ago"
+      },
+      {
+        "id": "story-1765443392717-5",
+        "headline": "Beneath the Golden Gate, A Judicial Hand",
+        "content": "The streets of Los Angeles, accustomed to a certain hum of activity, watched as a different kind of order unfolded. A federal judge’s decree, swift and authoritative, halted the National Guard deployments. Boots that had been on the ground, uniforms that had mingled with the city's pulse, now stood down. This wasn't just a legal maneuver; it was a redefinition of boundaries. The use of military personnel in domestic law enforcement, a contentious line, was pulled back, at least for now. The city breathed, its security situation subtly altered, a testament to the quiet power of a judge's pen, shaping the visible and invisible forces.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/us-news",
+        "publishedTime": "9 hours ago"
       }
     ]
   }
