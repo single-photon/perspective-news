@@ -1,11 +1,305 @@
 {
-  "timestamp": 1765472496889,
+  "timestamp": 1765479586027,
   "stories": {
-    "Left Wing": [],
-    "Neutral": [],
-    "Right Wing": [],
-    "Satire": [],
-    "12-Year-Old": [],
-    "Micro Fiction": []
+    "Left Wing": [
+      {
+        "id": "story-1765479447926-0",
+        "headline": "Systemic Vulnerabilities Revealed as Unemployment Claims Rise, Highlighting Persistent Economic Insecurity for Workers",
+        "content": "The recent increase in Americans filing for unemployment benefits to 236,000 underscores the ongoing fragility of the labor market and the precarious economic reality faced by many working families. While some may point to historical ranges, these figures signal deeper systemic issues that leave individuals vulnerable to economic downturns and demand stronger social safety nets.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "23 mins ago"
+      },
+      {
+        "id": "story-1765479447926-1",
+        "headline": "President Trump's Administration Inflicts Profound Trauma by Systematically Separating Thousands of Migrant Families",
+        "content": "A new, devastating report confirms that President Trump's administration enacted a cruel and inhumane policy, resulting in the forced separation of thousands of migrant families in the U.S. This practice, widely condemned by human rights advocates, represents a profound moral failure and a blatant disregard for international human rights, leaving lasting psychological scars on countless children and parents.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1765479447926-2",
+        "headline": "Climate Crisis Intensifies as Extreme Weather Triggers Devastating Floods and Mudslides Across Washington State",
+        "content": "Heavy, continuous rainfall has unleashed catastrophic flooding and mudslides across significant portions of Washington state, forcing numerous evacuations due to dangerous conditions and extensive property damage. This escalating pattern of extreme weather events is a stark reminder of the urgent need to address the climate crisis and invest in resilient infrastructure, especially for vulnerable communities.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-3",
+        "headline": "Senate Fails Millions by Rejecting ACA Subsidy Extensions, Ensuring Steep Premium Hikes and Undermining Healthcare Access",
+        "content": "The Senate's rejection of two competing proposals to extend Affordable Care Act subsidies is a deeply troubling development, all but guaranteeing a significant increase in health insurance premiums for millions of Americans next year. This political inaction further exposes the systemic flaws in our healthcare system and the urgent need for a commitment to healthcare as a fundamental human right, not a commodity.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-4",
+        "headline": "President Trump's Administration Escalates International Tensions by Seizing Oil Tanker Near Venezuela, Raising Humanitarian Concerns",
+        "content": "President Trump announced that the U.S. seized an oil tanker near Venezuela, with the Attorney General alleging violations of international sanctions against Venezuela and Iran. This unilateral action by the U.S. risks further escalating geopolitical tensions and raises serious questions about the broader humanitarian impact of such sanctions on the ordinary citizens of these nations.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Within 3 hours ago"
+      },
+      {
+        "id": "story-1765479447926-5",
+        "headline": "Federal Judge's Order for Kilmar Abrego Garcia's Release Highlights Enduring Injustices Within Immigration Detention System",
+        "content": "A federal judge's mandate for the immediate release of Kilmar Abrego Garcia from immigration detention marks a crucial victory against the backdrop of a deeply flawed and often unjust immigration system. This high-profile case underscores the tireless efforts of legal advocates and human rights organizations fighting to challenge the legality and humanity of prolonged confinement within detention centers.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "story-1765479447926-0",
+        "headline": "Weekly unemployment benefit applications rise to 236,000 as labor market concerns persist",
+        "content": "The number of Americans applying for unemployment benefits increased last week to 236,000, signaling continued concern about the health of the labor market, although the figures remain in a historically healthy range.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "23 mins ago"
+      },
+      {
+        "id": "story-1765479447926-1",
+        "headline": "Trump administration separates thousands of migrant families in the U.S.",
+        "content": "A new report detailing the administration's controversial policy reveals that thousands of migrant families were separated in the U.S., a practice that continues to draw significant national attention and criticism.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1765479447926-2",
+        "headline": "Torrential rain triggers floods, mudslides and evacuations in Washington state",
+        "content": "Heavy, continuous rainfall has caused significant flooding and mudslides across parts of Washington state, prompting officials to issue evacuation orders for numerous areas due to dangerous conditions and property damage.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-3",
+        "headline": "Senate rejects both bills on ACA subsidies, all but ensuring premium hike in 2026",
+        "content": "The Senate voted down two competing proposals to extend Affordable Care Act subsidies, a move that is expected to result in a significant increase in health insurance premiums for millions of Americans next year.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-4",
+        "headline": "U.S. seizes oil tanker off the coast of Venezuela",
+        "content": "President Trump announced that the U.S. seized an oil tanker near Venezuela, which the Attorney General stated was being used to transport oil violating international sanctions against Venezuela and Iran.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Within 3 hours ago"
+      },
+      {
+        "id": "story-1765479447926-5",
+        "headline": "Judge orders Kilmar Abrego Garcia to be immediately released from immigration detention",
+        "content": "A federal judge issued an order for the immediate release of Kilmar Abrego Garcia from immigration detention, marking a notable legal victory in a high-profile case challenging the legality of his confinement.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      }
+    ],
+    "Right Wing": [
+      {
+        "id": "story-1765479447926-0",
+        "headline": "Jobless Claims Tick Up, Reminding Us of Economic Vigilance Amidst Uncertainty",
+        "content": "A recent uptick in weekly unemployment benefit applications to 236,000 serves as a crucial reminder that economic stability requires constant vigilance. While these numbers remain within a historically reasonable range, they underscore the importance of policies that foster true job growth and individual initiative, rather than simply expanding the safety net. A robust economy, built on conservative principles, empowers Americans to find meaningful work and reduces reliance on government assistance.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "23 mins ago"
+      },
+      {
+        "id": "story-1765479447926-1",
+        "headline": "Border Security Measures Under President Trump Prioritized National Sovereignty",
+        "content": "A recent report highlighted the measures taken under President Trump's administration to secure our nation's borders, including the separation of migrant families. These actions, while generating political debate, were implemented in an effort to uphold the rule of law and deter illegal crossings, ensuring national sovereignty and the safety of our citizens. It is imperative that our borders remain secure, and policies reflect the necessary commitment to national security and legal immigration pathways.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1765479447926-2",
+        "headline": "Washington State Confronts Nature's Fury with Local Preparedness Amidst Heavy Rains",
+        "content": "Washington state communities are currently grappling with severe flooding and destructive mudslides, brought on by relentless rainfall. Officials have wisely issued evacuation orders for affected regions, prioritizing the safety and property of citizens. This unfortunate natural event underscores the enduring importance of local preparedness, resilient infrastructure, and strong community bonds in facing and overcoming such challenges, without unnecessary politicization.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-3",
+        "headline": "Senate Rejection of ACA Subsidies Signals Opportunity for Real Healthcare Reform",
+        "content": "The Senate's recent decision to reject proposals to extend Affordable Care Act subsidies, which could lead to increased premiums in 2026, highlights the fundamental flaws of the ACA. This development underscores the urgent need for genuine healthcare reform rooted in free-market principles, individual choice, and reduced government bureaucracy. True conservative solutions prioritize competition and personal responsibility to lower costs and improve access for all Americans, rather than relying on unsustainable government handouts that distort the market.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-4",
+        "headline": "President Trump Demonstrates American Strength by Seizing Illegally Operated Oil Tanker",
+        "content": "President Trump's administration has once again affirmed America's commitment to upholding international law and confronting hostile regimes with the seizure of an oil tanker near Venezuela. As the Attorney General confirmed, this vessel was engaged in illicit activities, transporting oil in violation of crucial sanctions against Venezuela and Iran. This decisive action by President Trump sends a clear message that the United States will not tolerate those who undermine global security and destabilize free markets.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Within 3 hours ago"
+      },
+      {
+        "id": "story-1765479447926-5",
+        "headline": "Judicial Order to Release Detainee Raises Concerns for Immigration Enforcement",
+        "content": "A federal judge's order for the immediate release of Kilmar Abrego Garcia from immigration detention, while presented as a legal victory, prompts serious questions about the ongoing challenges in maintaining secure borders and enforcing immigration laws. Such judicial interventions, often in high-profile cases, can undermine the critical efforts of border patrol and immigration authorities to protect national security and uphold the rule of law, creating complexities for an already strained system.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      }
+    ],
+    "Satire": [
+      {
+        "id": "story-1765479447926-0",
+        "headline": "Nation's Labor Market So Healthy It Can Barely Stand, Demands More Unemployment",
+        "content": "In a stunning display of economic robustness, the number of Americans enthusiastically opting for unemployment benefits surged to 236,000 last week. Experts assure the public that this 'historically healthy' trend merely indicates the labor market is so incredibly fit, it's decided to take an extended vacation, leaving everyone else to pick up the slack, or perhaps join them.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "23 mins ago"
+      },
+      {
+        "id": "story-1765479447926-1",
+        "headline": "President Trump's Administration Revolutionizes Family Bonding with 'Strategic Dispersal Program'",
+        "content": "A groundbreaking report confirms President Trump's administration successfully pioneered a revolutionary approach to family dynamics, strategically 'dispersing' thousands of migrant families across the U.S. Officials laud the controversial policy as an innovative method to 'strengthen individual resilience' and 'explore new geographical perspectives,' proving once and for all that absence truly does make the heart grow fonder, or at least significantly more confused.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1765479447926-2",
+        "headline": "Washington State Drowns Itself in Existential Crisis, Offers Free Swim Lessons for Residents",
+        "content": "Parts of Washington state have bravely committed to a fully aquatic lifestyle this week, as torrential rainfall transformed neighborhoods into thriving new wetland habitats. Officials, thrilled by the sudden boom in property values for amphibious real estate, have issued mandatory evacuation orders, gently nudging residents to embrace their inner fish and consider the convenience of mudslide-assisted commutes.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-3",
+        "headline": "Senate Unanimously Agrees Americans Need More 'Skin in the Game,' Votes to Make Healthcare Unaffordable for Everyone",
+        "content": "In a bipartisan display of fiscal ingenuity, the Senate nobly rejected two proposals to extend Affordable Care Act subsidies, effectively guaranteeing a heartwarming surge in health insurance premiums for millions of Americans by 2026. Lawmakers optimistically declared that this bold move would 'inspire greater personal responsibility' among the populace, presumably by forcing them to choose between life-saving medication and an extra avocado toast.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-4",
+        "headline": "President Trump Personally Intercepts Rogue Oil Tanker in Thrilling High-Seas Blockbuster",
+        "content": "In a move that solidified his status as a maritime action hero, President Trump proudly declared the U.S. had seized an 'extremely bad' oil tanker off Venezuela's coast. The Attorney General confirmed the vessel was brazenly attempting to deliver oil in flagrant defiance of international sanctions, prompting President Trump's swift, decisive, and presumably very cinematic intervention to restore global order, one tanker at a time.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Within 3 hours ago"
+      },
+      {
+        "id": "story-1765479447926-5",
+        "headline": "Local Judge Shocks Bureaucracy, Suggests Legally Detained Man Should Be, You Know, Free",
+        "content": "In a stunning display of judicial audacity, a federal judge threw a wrench into the finely tuned gears of immigration detention by ordering the immediate release of Kilmar Abrego Garcia. This unprecedented act of applying existing law in a high-profile case has reportedly sent shockwaves through the system, as officials scramble to understand why a person deemed illegally confined shouldn't, in fact, remain confined for an indefinite period.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      }
+    ],
+    "12-Year-Old": [
+      {
+        "id": "story-1765479447926-0",
+        "headline": "More People Are Asking For Help To Find Jobs",
+        "content": "Last week, more people in America asked for money because they lost their jobs. About 236,000 people did this. It makes some grown-ups a little worried about how many jobs there are, even though things are still mostly okay with jobs.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "23 mins ago"
+      },
+      {
+        "id": "story-1765479447926-1",
+        "headline": "President Trump's Plan Split Up Many Families",
+        "content": "A new report says that President Trump's government separated thousands of families who came to America from other countries. This was a really big deal and many people were upset about it.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1765479447926-2",
+        "headline": "Lots of Rain Causes Big Floods in Washington",
+        "content": "It rained super, super hard in Washington state for a long time. All that rain made big floods and mudslides, which is when dirt and rocks slide down hills. Because it was dangerous, many people had to leave their homes quickly.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-3",
+        "headline": "Senators Say No to Helping Pay for Health Insurance",
+        "content": "The people in the Senate said 'no' to two plans that would have helped people pay for their health insurance. This means that next year, millions of Americans will probably have to pay a lot more money for their health insurance.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-4",
+        "headline": "President Trump Says U.S. Took Oil Ship",
+        "content": "President Trump announced that America took control of a big ship that carries oil near Venezuela. The grown-ups in charge said the ship was moving oil against the rules that other countries had made for Venezuela and Iran.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Within 3 hours ago"
+      },
+      {
+        "id": "story-1765479447926-5",
+        "headline": "Judge Says Kilmar Abrego Garcia Can Go Home Now",
+        "content": "A judge made a decision that Kilmar Abrego Garcia should be let out of jail right away. This was a big win for him in a very important case where people were saying it wasn't fair to keep him locked up.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      }
+    ],
+    "Micro Fiction": [
+      {
+        "id": "story-1765479447926-0",
+        "headline": "A Shifting Tide of Hope",
+        "content": "Sarah adjusted the collar of her worn sweater, the news ticker a blur of numbers. 236,000 new claims for unemployment benefits flashed across the screen. Each digit represented a person, a family, a sudden tremor in the ground beneath their feet. Though the analysts spoke of 'historically healthy ranges,' the air felt thick with a quiet anxiety, a collective holding of breath. The labor market, once a sturdy oak, now swayed in an unseen wind, its branches rustling with uncertainty. Sarah clutched her coffee, a silent prayer forming for those waiting for their call, for a tide that would lift all boats once more.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "23 mins ago"
+      },
+      {
+        "id": "story-1765479447926-1",
+        "headline": "Echoes in the Borderland",
+        "content": "The scent of dry earth and unspoken fears hung heavy in the air. A new report laid bare the heartbreaking truth: thousands of migrant families torn apart under President Trump's administration. Children, parents, futures fractured at the border, a policy that carved deep, invisible scars. The cries, once distant, now echoed in the national conscience, a relentless drumbeat of criticism. For those separated, the days stretched into an unbearable eternity, each sunrise a stark reminder of what was lost. The world watched, debating the morality of a decision that forever altered countless lives, leaving a legacy of profound sorrow in its wake.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "1 hour ago"
+      },
+      {
+        "id": "story-1765479447926-2",
+        "headline": "When the Sky Wept Relentlessly",
+        "content": "The rain hammered Washington state, a relentless, weeping sky. What began as a steady drizzle quickly escalated into a watery onslaught, turning placid rivers into raging torrents. Homes became islands, then succumbed to the surge. Mudslides, thick as molasses, devoured roads and trees, reshaping the very landscape. Evacuation orders sliced through the night, a desperate plea for safety as the water climbed higher. Families abandoned cherished belongings, fleeing the dangerous embrace of the floods. The state, usually lush and vibrant, now bore the soggy, scarred face of a land overcome by nature's unyielding power.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-3",
+        "headline": "The Unaffordable Tomorrow",
+        "content": "Across America, millions held their breath, waiting for a decision that would reshape their futures. In the Senate, the gavel fell, a somber sound sealing the fate of Affordable Care Act subsidies. Both proposals, meant to cushion the blow of healthcare costs, were rejected. The immediate consequence loomed large: a significant hike in health insurance premiums for 2026. For countless families, this wasn't just a number; it was a choice between medicine and rent, between wellness and survival. The vote cast a long, cold shadow, promising an unaffordable tomorrow for those most reliant on accessible care.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      },
+      {
+        "id": "story-1765479447926-4",
+        "headline": "Whispers of Contraband on the Waves",
+        "content": "The vast expanse of the open sea held a new secret. Off the Venezuelan coast, a hulking oil tanker became the focus of international tension. President Trump declared the U.S. had seized the vessel. The Attorney General confirmed suspicions: it had been navigating a treacherous path, laden with oil destined to violate stringent international sanctions against Venezuela and Iran. The capture was a clear message, a tightening of the economic noose, a strategic chess move played out on the global stage. The waves whispered tales of contraband, of power plays, and the enduring reach of a nation's resolve.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Within 3 hours ago"
+      },
+      {
+        "id": "story-1765479447926-5",
+        "headline": "The Glimmer of the Gate",
+        "content": "The cold, sterile walls of the detention center had been Kilmar Abrego Garcia’s world. Days bled into weeks, weeks into months, a suffocating wait for justice. Then, a federal judge’s order sliced through the stillness: immediate release. It was a legal triumph, a crack in the formidable wall of confinement that had held him. The news rippled through the legal community, a beacon for those fighting similar battles. For Kilmar, it meant more than just freedom; it was the return of his name, his identity, a chance to step beyond the barred windows and into the shimmering, uncertain light of a new beginning.",
+        "originalSource": "Associated Press (via PBS News)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "2 hours ago"
+      }
+    ]
   }
 }
