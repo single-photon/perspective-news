@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765406585036,
+  "timestamp": 1765425087452,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765406509705-0",
-        "headline": "Federal Reserve Acknowledges Softening Labor Market with Third Rate Cut, Workers Remain Vulnerable.",
-        "content": "For the third time this year, the Federal Reserve has lowered its benchmark interest rate, now ranging from 3.5-3.75%, in an attempt to address a weakening labor market. This move comes as Chair Jerome Powell warns of 'significant downside risks' for workers, highlighting systemic vulnerabilities in the economy that disproportionately affect ordinary citizens. The central bank's persistent struggle to balance inflation with employment stability underscores the urgent need for policies prioritizing worker security and economic equity.",
+        "id": "story-1765425001155-0",
+        "headline": "House Approves $900 Billion Military Budget, Diverting Funds From Pressing Domestic Needs",
+        "content": "The US House of Representatives has authorized a colossal $900 billion for military programs, a decision that redirects vast public funds away from critical domestic investments. While presented as bolstering 'defense capabilities' in Europe, this immense allocation raises serious questions about the nation's priorities, particularly when social services, infrastructure, and climate initiatives remain severely underfunded. This expenditure, seen by some as a rebuke to the administration's foreign policy, continues to fuel a system that prioritizes military spending over the well-being of its citizens, with lawmakers confident President Trump will sign this measure into law.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765425001155-1",
+        "headline": "Federal Reserve Rate Cut Offers Little Relief for Working Families Facing Systemic Economic Challenges",
+        "content": "The Federal Reserve's third consecutive interest rate cut of 0.25 percentage points provides only marginal relief for ordinary working families grappling with persistent economic injustices. While the FOMC statement acknowledges its 'dual mandate' and concerns over inflation and a slowing labor market, these incremental adjustments fail to address the systemic issues contributing to economic precarity, such as corporate profiteering and stagnant wages. Such policies often serve to stabilize markets for the wealthy while offering little meaningful change for those most impacted by economic hardship.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765425001155-2",
+        "headline": "US Escalates Interventionism, Seizing Venezuelan Oil Tanker Under Guise of Sanctions",
+        "content": "In a concerning escalation of US interventionist foreign policy, American forces have seized a 'very large' oil tanker off the Venezuelan coast. The administration justifies this act by citing the vessel's alleged transport of sanctioned oil from Venezuela and Iran, yet the Venezuelan government immediately condemned it as an 'act of international piracy.' This aggressive move represents a dangerous escalation in the US pressure campaign against the Nicolás Maduro regime, threatening international law and potentially exacerbating humanitarian conditions for the Venezuelan people under a heavy regime of sanctions.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
-        "publishedTime": "22 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765406509705-1",
-        "headline": "President Trump Confirms Unilateral Seizure of Venezuelan Oil Tanker, Escalating Regional Tensions.",
-        "content": "President Trump confirmed that the U.S. military has seized a 'very large' oil tanker off the Venezuelan coast, justifying the action as 'for a very good reason.' This unilateral move, which significantly escalates already heightened tensions with President Nicolás Maduro, is presented as part of a broader U.S. campaign against suspected drug trafficking. Critics, however, are raising concerns about the implications for international law, national sovereignty, and the potential for further destabilization in the region, questioning the underlying motivations behind such assertive foreign policy.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-3",
+        "headline": "House Republicans' Inability to Agree on Healthcare Harms Millions as Essential Subsidies Loom",
+        "content": "Millions of Americans face dire consequences as House Republicans continue to struggle to find consensus on a healthcare plan, with the expiration of the Affordable Care Act's premium tax credits looming. This political gridlock threatens to strip vital healthcare access from countless individuals and families. While Democrats advocate for a simple three-year extension without reforms, the internal divisions and a revolt by GOP moderates highlight a systemic failure to prioritize universal healthcare, leaving essential human needs subject to political maneuvering instead of comprehensive, equitable solutions.",
+        "originalSource": "Politico",
+        "sourceUrl": "https://www.politico.com/news/us",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765406509705-2",
-        "headline": "President Trump's Administration Proposes Broad Social Media Surveillance for International Travelers, Raising Privacy Alarms.",
-        "content": "In a concerning move, President Trump's administration has unveiled a proposal demanding that visitors from 42 visa-exempt countries disclose five years of their social media history as part of their Electronic System for Travel Authorization (ESTA) application. This measure, framed as enhancing security, is widely seen as an alarming expansion of government surveillance and a component of a broader crackdown on immigration. Critics argue that such extensive data collection infringes on privacy rights and fosters an environment of xenophobia, creating systemic barriers for international visitors.",
-        "originalSource": "People.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-4",
+        "headline": "Climate Crisis Intensifies: Washington State Declares Emergency Due to Unprecedented Flooding",
+        "content": "Washington state's governor has declared an emergency as heavy rains and widespread flooding devastate the region, a stark reminder of the escalating climate crisis. This declaration mobilizes state resources and aid, but these reactive measures underscore the urgent need for proactive, systemic climate action. The unprecedented nature of these events demands a robust response that addresses the root causes of climate change, invests in resilient infrastructure, and ensures equitable support for all affected communities, especially the most vulnerable, who disproportionately bear the brunt of environmental disasters.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765406509705-3",
-        "headline": "A'ja Wilson's Dominance on the Court Earns AP Female Athlete of the Year, Highlighting WNBA's Growing Impact.",
-        "content": "WNBA superstar A'ja Wilson has rightfully been named The Associated Press Female Athlete of the Year, following an extraordinary season where she secured an unprecedented fourth MVP award. Leading the Las Vegas Aces to their third championship in four seasons, Wilson's achievement as only the fifth basketball player to receive this prestigious AP honor further underscores the immense talent and growing influence of women's basketball. This recognition is a vital step in acknowledging the systemic inequities in sports media and investment, celebrating the excellence that has long been overlooked in the WNBA.",
-        "originalSource": "San Francisco Chronicle",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
-        "publishedTime": "4:05 a.m. Dec 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-4",
-        "headline": "House Republicans' Inaction on Healthcare Threatens Millions as ACA Tax Credits Face Expiration.",
-        "content": "Millions of Americans face the looming threat of skyrocketing healthcare costs as enhanced Affordable Care Act (ACA) tax credits are set to expire, revealing a concerning lack of consensus among House Republican leaders on a sustainable healthcare policy. While Democrats advocate for a crucial three-year extension to protect families, Republicans remain resistant without 'major reforms,' a stance that critics argue prioritizes ideological purity over the immediate well-being and economic security of working-class families. This ongoing struggle highlights the systemic failures to guarantee universal, affordable healthcare access as a fundamental right.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
-        "publishedTime": "December 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-5",
-        "headline": "Evidence of Disdain for Healthcare System Emerges in Trial of UnitedHealthcare CEO's Alleged Killer.",
-        "content": "During recent court proceedings, it was revealed that the discovery of a loaded gun magazine in Luigi Mangione's backpack was key in identifying him as the suspect in the murder of a UnitedHealthcare CEO. Mangione's defense is now vigorously challenging the inclusion of this evidence, alongside a notebook allegedly detailing his profound disdain for health insurers. This legal battle brings to light the underlying tensions and frustrations within a healthcare system that often prioritizes corporate profits over patient well-being, issues that resonate with many experiencing systemic challenges in accessing affordable care.",
-        "originalSource": "Los Angeles Times",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
-        "publishedTime": "December 8, 2025"
+        "id": "story-1765425001155-5",
+        "headline": "Federal Judge Mandates President Trump End National Guard Deployment, Upholding Civilian Control",
+        "content": "A federal judge has issued a crucial ruling, ordering President Trump's administration to immediately end the controversial deployment of National Guard troops in Los Angeles. This decision follows a legal challenge concerning the use of federal troops within the city, reaffirming the importance of judicial oversight and civilian control over military forces in domestic contexts. The ruling serves as a vital check on executive power, protecting civil liberties and pushing back against the dangerous militarization of public spaces, though the White House has yet to comment on its plan for compliance.",
+        "originalSource": "The New York Times",
+        "sourceUrl": "https://www.nytimes.com/section/us",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765406509705-0",
-        "headline": "Fed lowers interest rates by a quarter point for the third time this year.",
-        "content": "The Federal Reserve cut its benchmark rate to a 3.5-3.75% range for the third consecutive time on Wednesday, aiming to shore up a softening labor market. Chair Jerome Powell noted the labor market faces \"significant downside risks\" as the central bank remains divided over responding to persistent inflation.",
+        "id": "story-1765425001155-0",
+        "headline": "US House Passes Bill Authorizing $900 Billion for Military Programs",
+        "content": "The US House of Representatives passed a significant bill to authorize $900 billion for military programs. This defense measure includes provisions to bolster Europe's defense capabilities and is seen by some as a rebuke to the administration's foreign policy stances. Lawmakers are reportedly confident the President will sign the measure into law in the coming days.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765425001155-1",
+        "headline": "Federal Reserve Lowers Interest Rates by 0.25 Percentage Points in Third Straight Cut",
+        "content": "The Federal Reserve announced its third consecutive interest rate cut, reducing the benchmark rate by 0.25 percentage points. The FOMC statement noted the committee is \"attentive to the risks to both sides of its dual mandate\" while grappling with persistent economic issues, including higher inflation and a slowing labor market, which influenced the decision.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765425001155-2",
+        "headline": "US Seizes Oil Tanker Off Venezuelan Coast, Marking Significant Escalation",
+        "content": "American forces seized a \"very large\" oil tanker off the coast of Venezuela, an action the administration stated was due to the vessel being used to transport sanctioned oil from Venezuela and Iran. This seizure, which the Venezuelan government immediately called an \"act of international piracy,\" represents a major escalation in the U.S. pressure campaign against the Nicolás Maduro regime.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
-        "publishedTime": "22 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765406509705-1",
-        "headline": "Trump confirms U.S. military seized large oil tanker off Venezuela's coast.",
-        "content": "President Trump confirmed the U.S. seized a \"very large\" oil tanker near the Venezuelan coast, saying it was \"for a very good reason.\" The move, which escalates tensions with President Nicolás Maduro, is part of a broader campaign by American forces against suspected drug trafficking vessels in the region.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-3",
+        "headline": "House GOP Struggling to Craft Health Care Plan as ACA Tax Credits Deadline Nears",
+        "content": "House Republicans are struggling to build consensus around a health care plan to replace the Affordable Care Act's premium tax credits, which are set to expire. Democrats are pushing for a three-year extension without reforms. Meanwhile, a revolt by GOP moderates has sparked a discharge petition in an effort to bring a bill extending the subsidies by two years to a floor vote.",
+        "originalSource": "Politico",
+        "sourceUrl": "https://www.politico.com/news/us",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765406509705-2",
-        "headline": "US plans to order foreign tourists to disclose five years of social media histories.",
-        "content": "The Trump administration announced a proposal requiring visitors from 42 visa-exempt countries to submit their social media history from the last five years as part of their Electronic System for Travel Authorization (ESTA) application. The measure is part of a broader crackdown on immigration and aims to enhance security screening.",
-        "originalSource": "People.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-4",
+        "headline": "Washington State Governor Declares Emergency Amid Heavy Rains and Flooding",
+        "content": "The governor of Washington state declared an emergency as the region experienced heavy rains and widespread flooding. The declaration immediately mobilizes state resources and aid to address the damage and ensure public safety, allowing for faster coordination and response efforts. Local authorities are urging residents in affected areas to follow all evacuation orders and take necessary precautions.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765406509705-3",
-        "headline": "A'ja Wilson wins AP Female Athlete of the Year following historic 4th WNBA MVP.",
-        "content": "WNBA superstar A'ja Wilson earned The Associated Press Female Athlete of the Year after an unparalleled season that saw her win an unprecedented fourth MVP award. Wilson led the Las Vegas Aces to their third championship in four seasons, becoming only the fifth basketball player to receive the prestigious AP honor.",
-        "originalSource": "San Francisco Chronicle",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
-        "publishedTime": "4:05 a.m. Dec 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-4",
-        "headline": "House GOP struggles to craft health care plan as ACA tax credit deadline approaches.",
-        "content": "House Republican leaders are struggling to find consensus on a health care policy as enhanced Affordable Care Act tax credits are set to expire at the end of the year, threatening skyrocketing costs for millions. Democrats are pushing for a three-year extension, which Republicans oppose without major reforms.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
-        "publishedTime": "December 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-5",
-        "headline": "Bullets in Luigi Mangione's bag convinced police he was suspect in UnitedHealthcare CEO's killing.",
-        "content": "Court proceedings revealed that the discovery of a loaded gun magazine in Luigi Mangione's backpack was the pivotal evidence convincing Pennsylvania police he was the suspect in the UnitedHealthcare CEO's murder. Mangione's defense is fighting to exclude this evidence and a notebook detailing his disdain for health insurers from his trial.",
-        "originalSource": "Los Angeles Times",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
-        "publishedTime": "December 8, 2025"
+        "id": "story-1765425001155-5",
+        "headline": "Federal Judge Rules Trump Must End National Guard Deployment in Los Angeles",
+        "content": "A federal judge issued a ruling requiring the administration to immediately end the deployment of the National Guard troops in Los Angeles. The decision follows an unspecified legal challenge concerning the use of the federal troops within the city. The ruling requires the White House to stand down the troops, though a comment on its plan for compliance has not yet been issued.",
+        "originalSource": "The New York Times",
+        "sourceUrl": "https://www.nytimes.com/section/us",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765406509705-0",
-        "headline": "Federal Reserve Actions Raise Concerns About Inflation and Economic Stability",
-        "content": "The Federal Reserve, despite ongoing inflationary pressures, has once again cut its benchmark interest rate, a move that prompts serious questions about the central bank's commitment to fiscal discipline and the long-term health of our economy. While some claim this is to prop up a \"softening labor market,\" many liberty-minded citizens understand that such interventions can devalue hard-earned savings and distort natural market forces, ultimately jeopardizing our nation's prosperity. Chairman Powell's acknowledgment of \"significant downside risks\" feels like an understatement given the persistent inflation eroding the purchasing power of everyday Americans.",
+        "id": "story-1765425001155-0",
+        "headline": "House of Representatives Bolsters National Defense with Historic $900 Billion Military Authorization.",
+        "content": "In a decisive move to secure American interests and project strength abroad, the U.S. House of Representatives has authorized a robust $900 billion for vital military programs. This crucial defense measure, widely supported by those committed to liberty, includes essential provisions to reinforce Europe's defenses, serving as a much-needed correction to current foreign policy approaches. Lawmakers express confidence that this critical bill will soon be signed into law by President Trump, ensuring our nation remains secure and respected.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765425001155-1",
+        "headline": "Federal Reserve Continues Rate Cuts Amidst Growing Concerns Over Economic Stability.",
+        "content": "The Federal Reserve has once again reduced benchmark interest rates by 0.25 percentage points, marking the third consecutive cut in a climate of persistent economic uncertainty. While the FOMC states it is \"attentive to the risks,\" many concerned citizens question the long-term impact of such interventions when grappling with the very real issues of higher inflation and a decelerating labor market. These decisions, often driven by government pressures, risk further devaluing our currency and undermining the free market principles essential for genuine prosperity.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765425001155-2",
+        "headline": "American Forces Uphold Sanctions by Seizing Rogue Oil Tanker Off Venezuelan Shores.",
+        "content": "In a decisive demonstration of American resolve, U.S. forces have successfully seized a substantial oil tanker off the Venezuelan coast. This critical action was taken because the vessel was illicitly transporting sanctioned oil from the tyrannical regimes of Venezuela and Iran, directly undermining international stability and liberty. While the Nicolás Maduro regime predictably decries this as \"international piracy,\" patriotic Americans understand it as a necessary escalation in the ongoing campaign to pressure oppressive governments and protect free nations from their illicit activities.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
-        "publishedTime": "22 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765406509705-1",
-        "headline": "President Trump Takes Decisive Action Against Illicit Operations Off Venezuela's Coast",
-        "content": "President Trump has confirmed the United States military's commendable seizure of a significant oil tanker operating near Venezuela's coast, stating it was for \"a very good reason.\" This decisive move underscores President Trump's unwavering commitment to national security and his administration's vigorous campaign to dismantle criminal networks involved in drug trafficking, which threaten American communities. While some may decry \"escalating tensions,\" true patriots understand that firm action against hostile regimes and illicit activities is essential to safeguard our liberty and protect our borders from dangerous influences.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-3",
+        "headline": "House Republicans Face Uphill Battle to Replace Failed ACA Mandates with Liberty-Focused Healthcare.",
+        "content": "House Republicans are currently facing significant challenges in uniting around a comprehensive healthcare plan designed to replace the burdensome premium tax credits of the Affordable Care Act, which are rapidly approaching their expiration. While Democrats are advocating for an irresponsible three-year extension without any meaningful reforms, a regrettable rebellion by some GOP moderates threatens to dilute efforts to restore free-market principles. True conservatives must stand firm in crafting a solution that empowers individuals and respects liberty, rather than perpetuating government overreach in our healthcare system.",
+        "originalSource": "Politico",
+        "sourceUrl": "https://www.politico.com/news/us",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765406509705-2",
-        "headline": "President Trump's Administration Enhances Security Measures for Nation's Borders",
-        "content": "In a move prioritizing the safety and security of American citizens, President Trump's administration has proposed requiring visitors from 42 visa-exempt nations to submit five years of their social media history with their travel applications. This common-sense measure is a vital component of President Trump's broader strategy to secure our nation and ensure that those entering our country do not pose a threat. It is a testament to his administration's commitment to robust security screening and a clear message that our national security will always come first.",
-        "originalSource": "People.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-4",
+        "headline": "Washington State Governor Mobilizes Resources to Aid Citizens Battling Severe Flooding.",
+        "content": "The Governor of Washington state has commendably declared an emergency, swiftly mobilizing state resources and aid as heavy rains have led to widespread flooding across the region. This prompt action is crucial for addressing damage and ensuring public safety, facilitating efficient coordination and response efforts. Local authorities are appropriately urging all residents in affected areas to adhere to evacuation orders and exercise personal responsibility by taking necessary precautions to protect their families and property.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765406509705-3",
-        "headline": "A'ja Wilson's Dominance on the Court Earns Well-Deserved Recognition",
-        "content": "WNBA standout A'ja Wilson has rightfully been named The Associated Press Female Athlete of the Year, a testament to her extraordinary talent and unwavering dedication. Her remarkable season, culminating in an unprecedented fourth MVP award and leading the Las Vegas Aces to their third championship in four seasons, showcases the power of individual excellence through hard work and determination. This achievement is a shining example of what can be accomplished when talent is combined with a relentless pursuit of greatness, a truly American value.",
-        "originalSource": "San Francisco Chronicle",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
-        "publishedTime": "4:05 a.m. Dec 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-4",
-        "headline": "House Republicans Grapple with Repealing and Replacing Failed Obamacare Policies",
-        "content": "House Republican leaders are actively seeking a true market-based solution for healthcare as the enhanced tax credits of the Affordable Care Act (ACA), a failed big-government experiment, approach their expiration. While Democrats clamor for a fiscally irresponsible three-year extension of these subsidies, Republicans rightly insist on fundamental reforms that empower individuals and promote genuine competition, rather than perpetuating the government's unsustainable overreach into healthcare. It is imperative that we restore liberty and individual choice to healthcare, moving away from the costly and inefficient mandates of Obamacare.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
-        "publishedTime": "December 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-5",
-        "headline": "Crucial Evidence Links Suspect to High-Profile CEO Murder Case",
-        "content": "During recent court proceedings, it was unequivocally revealed that the discovery of a loaded gun magazine in Luigi Mangione's backpack provided the critical evidence linking him to the tragic murder of the UnitedHealthcare CEO. Despite the defense's efforts to exclude this and other compelling evidence, such as a notebook outlining his clear animosity towards health insurers, law enforcement's diligent work in securing such pivotal items demonstrates a commitment to justice. This type of common-sense evidence is crucial for ensuring that those who commit heinous crimes are held accountable under the law.",
-        "originalSource": "Los Angeles Times",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
-        "publishedTime": "December 8, 2025"
+        "id": "story-1765425001155-5",
+        "headline": "Federal Judge Undermines Public Safety by Ordering President Trump to Withdraw National Guard from Los Angeles.",
+        "content": "In a concerning display of judicial overreach, a federal judge has controversially ruled that President Trump's administration must immediately cease the vital deployment of National Guard troops in Los Angeles. This decision, stemming from an undisclosed legal challenge regarding the use of federal forces within the city, directly impedes efforts to maintain law and order. The ruling demands the White House stand down these essential troops, raising serious questions about the judiciary's role in public safety decisions and President Trump's inherent authority to protect American citizens.",
+        "originalSource": "The New York Times",
+        "sourceUrl": "https://www.nytimes.com/section/us",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765406509705-0",
-        "headline": "Federal Reserve bravely lowers interest rates again, bravely hoping this time it might actually do something.",
-        "content": "In a stunning display of economic courage, the Federal Reserve once again trimmed its benchmark rate, marking the third such heroic effort this year. Chair Jerome Powell, perhaps sensing the economy's deep desire for another quarter-point reduction, declared the labor market faces \"significant downside risks,\" which, translated, means \"we have no idea what's happening, but maybe this will help.\" Economists across the nation applauded the move, primarily because it gives them more to argue about over brunch.",
+        "id": "story-1765425001155-0",
+        "headline": "Congress Magically Discovers Another $900 Billion for Military, Because Why Not?",
+        "content": "The US House of Representatives, in a stunning display of fiscal ingenuity, successfully authorized an additional $900 billion for military programs. This hefty defense measure, which also happens to be a totally playful jab at President Trump's foreign policy (he'll sign it anyway), is expected to immediately solve all of Europe's defense problems, mainly by making America's defense contractors incredibly wealthy. Lawmakers expressed confidence that President Trump, who reportedly loves big numbers and even bigger weapons, will undoubtedly sign this entirely necessary expenditure into law before anyone has a chance to ask 'But from where?'",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765425001155-1",
+        "headline": "Federal Reserve Nervously Cuts Interest Rates Again, Hopes Third Time's the Charm for the Economy",
+        "content": "The Federal Reserve, in a bold move of 'we're doing something,' announced its third consecutive interest rate cut, bravely reducing the benchmark rate by a microscopic 0.25 percentage points. The esteemed Federal Open Market Committee, reportedly grappling with existential questions like 'Are we actually helping?' and 'What *is* a dual mandate, really?', confirmed its attentiveness to risks, which apparently include both persistent inflation and a labor market that's slowing down faster than a teenager on a Monday morning. Economists are now holding their breath, waiting for this latest nudge to magically fix everything.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765425001155-2",
+        "headline": "US Heroically Seizes Tanker in International Waters, Calls It 'Not Piracy' When We Do It",
+        "content": "American forces, in a daring act of what the Venezuelan government immediately labeled 'international piracy' (how rude!), seized a 'very large' oil tanker off the coast of Venezuela. The administration swiftly clarified that this wasn't piracy at all, but rather a noble act of 'asset recovery' from a vessel allegedly transporting sanctioned oil for Venezuela and Iran. This significant escalation in the US pressure campaign against the Nicolás Maduro regime is expected to be incredibly effective, especially after the tanker is presumably repurposed into a floating monument to American exceptionalism.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
-        "publishedTime": "22 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765406509705-1",
-        "headline": "President Trump confirms U.S. military seized \"very large\" oil tanker for \"very good reason\" that only he understands.",
-        "content": "President Trump, ever the master of strategic communication, proudly announced the U.S. military had successfully liberated a \"very large\" oil tanker near Venezuela's coast. When pressed for details, the President clarified the seizure was \"for a very good reason,\" leaving international relations experts scrambling to decipher precisely which good reason outweighed global oil market stability. Sources close to the situation speculate the \"very good reason\" might involve a sudden shortage of boat-sized bathtubs for his golf courses, or perhaps a new reality TV show concept.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-3",
+        "headline": "House Republicans Unveil 'Hope and Prayers' Health Care Plan as ACA Deadline Looms",
+        "content": "House Republicans are reportedly still engaged in a spirited debate over how to spell 'consensus' while struggling to craft a health care plan to replace the Affordable Care Act's premium tax credits, which are rapidly approaching their expiration date. Democrats, ever the killjoys, are advocating for a simple three-year extension without any dramatic 'reforms' that would confuse everyone. Meanwhile, a courageous revolt by GOP moderates has sparked a 'discharge petition,' a legislative Hail Mary pass to get a bill extending subsidies for two whole years to a floor vote, proving that unity is just a concept they occasionally remember.",
+        "originalSource": "Politico",
+        "sourceUrl": "https://www.politico.com/news/us",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765406509705-2",
-        "headline": "U.S. now requires tourists to divulge embarrassing five years of social media to ensure they are sufficiently boring.",
-        "content": "In a bold new initiative to safeguard national security, the Trump administration has unveiled plans to compel foreign tourists from 42 visa-exempt nations to surrender five years of their most cringe-worthy social media posts. The measure, dubbed \"Operation Overshare,\" aims to weed out potential threats by identifying individuals who might post too many cat videos or engage in politically incorrect memes, thereby proving they are either too dangerous or too annoying to enter. Critics warn the plan may unintentionally boost tourism to countries that don't demand photographic evidence of your questionable fashion choices from 2019.",
-        "originalSource": "People.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-4",
+        "headline": "Washington Governor Declares Emergency, Confirms Water Is Indeed Wet During Flood Crisis",
+        "content": "The governor of Washington state, in a profound declaration of the obvious, announced an emergency as the region experienced widespread flooding and truly excessive amounts of water falling from the sky. This crucial declaration immediately mobilizes state resources and aid to address the damage, ensuring public safety and allowing for faster coordination and response efforts, primarily to remind residents that yes, the water is still there. Local authorities are urging residents to follow all evacuation orders and take necessary precautions, like remembering to bring a towel.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765406509705-3",
-        "headline": "A'ja Wilson wins another award, prompting sportswriters to wonder if anyone else even bothers to play.",
-        "content": "In news that shocked absolutely no one, WNBA titan A'ja Wilson once again dominated the competition by securing The Associated Press Female Athlete of the Year award, just weeks after nabbing her unprecedented fourth MVP. Wilson, who reportedly spends her off-season perfecting new ways to demoralize opponents, led the Las Vegas Aces to their third championship in four seasons, causing many to question if other teams are even trying anymore. League officials are reportedly considering mandatory participation trophies for other players to maintain morale.",
-        "originalSource": "San Francisco Chronicle",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
-        "publishedTime": "4:05 a.m. Dec 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-4",
-        "headline": "House GOP bravely admits it's still \"brainstorming\" health care plan as millions face financial ruin.",
-        "content": "With the precision of a broken clock, House Republican leaders are reportedly still \"working tirelessly\" to craft a cohesive health care plan, as the enhanced Affordable Care Act tax credits prepare to vanish like a New Year's resolution. As millions face the thrilling prospect of skyrocketing medical bills, Republicans remain steadfast in their opposition to Democratic proposals for a three-year extension, preferring instead to champion \"major reforms\" that have yet to materialize in any recognizable form. Sources confirm the latest GOP strategy involves staring intently at a whiteboard filled with buzzwords, hoping a solution will spontaneously appear.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
-        "publishedTime": "December 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-5",
-        "headline": "Local police finally convinced suspect with bullets in bag might be involved in CEO shooting.",
-        "content": "In a stunning display of deductive reasoning, court proceedings have revealed that Pennsylvania police were finally swayed to consider Luigi Mangione a suspect in the UnitedHealthcare CEO's murder after discovering a loaded gun magazine in his backpack. Mangione's legal team, clearly prioritizing subtlety, is now vigorously arguing that the discovery of incriminating projectiles and a notebook passionately detailing his absolute loathing for health insurers are merely \"unfortunate coincidences\" and should not be allowed to spoil an otherwise perfectly good trial. The prosecution is reportedly preparing to argue that \"gun + bullets + motive = suspect\" is a generally accepted equation.",
-        "originalSource": "Los Angeles Times",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
-        "publishedTime": "December 8, 2025"
+        "id": "story-1765425001155-5",
+        "headline": "Federal Judge Reminds President Trump That National Guard Is Not a Personal Chess Set",
+        "content": "A federal judge, apparently under the mistaken impression that courts have power over the executive branch, issued a ruling requiring President Trump to immediately end the deployment of National Guard troops in Los Angeles. The decision follows an unspecified legal challenge concerning the use of the federal troops within the city, suggesting someone actually dared to question President Trump's judgment. The ruling requires the White House to stand down the troops, though a comment on its plan for compliance has not yet been issued, possibly because President Trump is busy figuring out how to deploy them to a state where judges are less... opinionated.",
+        "originalSource": "The New York Times",
+        "sourceUrl": "https://www.nytimes.com/section/us",
+        "publishedTime": "1 hour ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765406509705-0",
-        "headline": "The Federal Reserve made borrowing money a little cheaper.",
-        "content": "The Federal Reserve is like the country's main bank. They decided to make it a little cheaper to borrow money, which means things like getting a loan for a house or a car might cost less. They did this because they think it might help people find more jobs, even though some people in charge are worried about prices going up too much.",
+        "id": "story-1765425001155-0",
+        "headline": "Our Country's Leaders Approved a Lot of Money for Our Military",
+        "content": "The people in charge of our country, called the House of Representatives, said it's okay to spend a super lot of money, like $900 billion, on things for our military. This big plan will also help countries in Europe stay safe. Some people think this plan is like saying they don't agree with how the leaders are handling things with other countries. The people who made the law think President Trump will sign it into law very soon.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765425001155-1",
+        "headline": "The Big Bank Made Borrowing Money a Little Cheaper",
+        "content": "The big bank that helps run the country's money, called the Federal Reserve, made it a little cheaper to borrow money for the third time in a row. They did this by a tiny bit, like a quarter of a percent. The people at the bank said they are watching out for problems with two main goals. They made this choice because they are worried about prices going up too fast and not enough jobs being available.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765425001155-2",
+        "headline": "America Took a Giant Oil Ship Near Venezuela",
+        "content": "America's military took a really big ship full of oil near Venezuela's beach. The government said this happened because the ship was moving oil that America said no one should buy from Venezuela and Iran. Venezuela's leaders got super mad and immediately said it was like pirates stealing their ship. This means America is getting even tougher on Venezuela's leader, Nicolás Maduro.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
-        "publishedTime": "22 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765406509705-1",
-        "headline": "President Trump says America took a big ship near another country.",
-        "content": "President Trump said that the American military took control of a really big ship that carries oil. It was near a country called Venezuela. He said they did it for a 'very good reason.' This happened because America is trying to stop ships that they think might be carrying illegal drugs.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-3",
+        "headline": "Republicans Are Having a Hard Time Agreeing on Health Care Help",
+        "content": "The Republican lawmakers in our country are finding it hard to agree on a new plan to help people pay for doctors and medicine. This is because the money help for health insurance from an old law is almost running out. The Democrats want to keep the money help going for three more years, exactly as it is. But some Republicans who aren't super strict are trying to make a special vote happen so they can vote to keep the money help for two more years.",
+        "originalSource": "Politico",
+        "sourceUrl": "https://www.politico.com/news/us",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765406509705-2",
-        "headline": "People visiting America might have to share their past internet posts.",
-        "content": "The government, while President Trump was in charge, thought about asking people from other countries who visit America to show their social media posts from the last five years. This means things like their Facebook or Instagram history. They wanted to do this to make sure everyone coming into the country is safe.",
-        "originalSource": "People.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-4",
+        "headline": "Washington State Is Having a Big Rain Problem",
+        "content": "The boss of Washington state said it was an emergency because it rained a lot and caused huge floods everywhere. This means they can quickly get help and things like police and rescue workers to fix stuff and make sure everyone is safe. It allows them to work together faster to help. People in charge are telling everyone in the flooded places to leave if they are told to and be careful.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765406509705-3",
-        "headline": "A'ja Wilson is named best girl athlete after amazing basketball year.",
-        "content": "A'ja Wilson, who is a really awesome basketball player in the WNBA, just won a big award called 'The Associated Press Female Athlete of the Year.' She had an incredible year, winning the best player award (MVP) for the fourth time, which is super rare! She also helped her team, the Las Vegas Aces, win their championship for the third time in four years.",
-        "originalSource": "San Francisco Chronicle",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
-        "publishedTime": "4:05 a.m. Dec 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-4",
-        "headline": "Lawmakers are having a hard time agreeing on health care help.",
-        "content": "Some lawmakers in the government, called Republicans, are having trouble agreeing on how to help people pay for their doctors and medicine. Soon, some special money help that makes health care cheaper for many people will run out. If they don't do anything, it could make health care much more expensive for lots of families. The other group, the Democrats, want to keep the help going longer, but the Republicans want to change things first.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
-        "publishedTime": "December 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-5",
-        "headline": "Police thought a man was a bad guy because of bullets in his bag.",
-        "content": "During a court case, it came out that police thought a man named Luigi Mangione was involved in the killing of a big boss from a health insurance company. Why? Because they found a clip full of bullets for a gun in his backpack. His lawyers are trying to keep this information, and a notebook where he wrote angry things about health insurance companies, out of his trial.",
-        "originalSource": "Los Angeles Times",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
-        "publishedTime": "December 8, 2025"
+        "id": "story-1765425001155-5",
+        "headline": "A Judge Told President Trump to Bring Soldiers Home from Los Angeles",
+        "content": "A judge from a big court said that President Trump has to send the special soldiers, called the National Guard, home from Los Angeles right away. This happened because someone sued about having those soldiers in the city. The judge's order means President Trump's office has to tell the soldiers to stop their work, but they haven't said yet how they will do it.",
+        "originalSource": "The New York Times",
+        "sourceUrl": "https://www.nytimes.com/section/us",
+        "publishedTime": "1 hour ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765406509705-0",
-        "headline": "The Central Bank's Three Soft Taps on the Economy",
-        "content": "The market held its breath as the Federal Reserve, for the third time this year, gently nudged interest rates lower. This quarter-point cut, settling the benchmark to a 3.5-3.75% range, aimed to soothe a restless labor market. Chair Jerome Powell's voice carried a cautious tone, acknowledging \"significant downside risks\" that loomed. Yet, within the hallowed halls, division lingered, a quiet discord over the specter of persistent inflation. Millions of livelihoods hinged on these delicate calibrations, a hope that the subtle adjustments might steer the economy clear of deeper turbulence, a silent prayer for stability.",
+        "id": "story-1765425001155-0",
+        "headline": "The Ironclad Consensus",
+        "content": "The House chamber buzzed, a monumental decision forged. Nine hundred billion, earmarked for national defense, sailed through, a robust affirmation of strength. This vast sum wasn't merely about fortifying borders; it was a clear signal, bolstering Europe's defenses and subtly challenging prevailing foreign policy. Lawmakers exchanged confident glances. President Trump, they knew, would surely endorse this vital measure in the coming days, his signature cementing a future where the nation's shield remained formidable, its global reach undeniable. The world watched, understanding the gravity of such unified resolve.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "now"
+      },
+      {
+        "id": "story-1765425001155-1",
+        "headline": "The Market's Gentle Whisper",
+        "content": "For the third time, the Federal Reserve acted, a delicate touch on the economy's reins. A quarter-point cut, easing the benchmark rate, announced the committee’s vigilance. Their statement spoke of careful attention to \"risks to both sides of its dual mandate,\" acknowledging the tightrope walk between inflation's warmth and a slowing labor market's chill. It was a calculated maneuver, a complex attempt to guide the vast financial currents, seeking stability. Each reduction was a testament to the persistent economic challenges, a whisper of intervention in a turbulent financial landscape.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "6 hours ago"
+      },
+      {
+        "id": "story-1765425001155-2",
+        "headline": "A Shadow Across the Gulf",
+        "content": "Beneath a relentless sun, American forces intercepted a colossal oil tanker off Venezuela's coast. The administration's message was stark: this vessel, laden with contraband, transported sanctioned oil from both Venezuela and Iran. Caracas erupted, branding the act \"international piracy.\" This wasn't a mere interdiction; it marked a sharp, dangerous escalation in the relentless pressure campaign against Nicolás Maduro's regime. The waves themselves seemed to ripple with geopolitical tension, as the seized vessel became a silent, floating testament to a world where black gold fueled more than just engines, but also deepening international divides.",
         "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0UxbtD4nQI1TvXbLbbaNZeUAyv0hJYxcw0ngtKFALvIR02RzKh_EL3Dv6kuChgF5xsjMnf30fJEQ0CzJbw1o1saHU6l--nr3TgEKtW3Nz_ZF4QkElbLyR8y9JBo-tNPtd4gj-gzW0IkDvVoWZ_KKbWGU0uFJ6F_z4gLsyR-eWBY-acQYrFSXVgdhLcEXrD8a9o=",
-        "publishedTime": "22 minutes ago"
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "Yesterday"
       },
       {
-        "id": "story-1765406509705-1",
-        "headline": "The Cargo of Secrets on the Sapphire Sea",
-        "content": "A colossal shadow moved across the Caribbean expanse. Near the Venezuelan coast, American forces executed a covert operation. President Trump confirmed the U.S. seizure of a \"very large\" oil tanker, asserting it was \"for a very good reason.\" The act, a calculated escalation of tensions with President Nicolás Maduro, underscored a broader campaign. This wasn't merely about oil; it was a decisive strike against suspected drug trafficking vessels that plied these waters. The tanker, once a symbol of trade, now represented a strategic victory, its secrets unveiled under the watchful eyes of a determined nation.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KSUNeoHQUMnDmMiEOzKyGFenplAZ5j_fpdQaPNy1yUJZlZ3ipFQ1rrRMHTihvGTeXWvHc1l2Iq9NTdeXfarzyu3NAPOrOEBQOzohwKBk5zdmwRAPIPVOUd-7uh6TlBh_RbwxvzpLKLRLCeoe75EZjLrAbsoElWMkwQ6whHKHP9pu6CrT6RPWpRddmqOx0mjkE4x",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-3",
+        "headline": "The Unfolding Gridlock of Care",
+        "content": "Capitol Hill, a labyrinth of debate, echoed with Republican frustrations. The deadline for the Affordable Care Act's premium tax credits loomed, yet consensus on a replacement health plan remained elusive. Democrats pushed for a simple, three-year extension, unburdened by reforms. Meanwhile, a rebellion brewed within the GOP's moderate ranks. Tired of the stalemate, they initiated a discharge petition, a bold move to force a two-year extension of the subsidies to a floor vote. The future of millions, their access to affordable healthcare, teetered precariously, caught in the relentless grip of partisan gridlock.",
+        "originalSource": "Politico",
+        "sourceUrl": "https://www.politico.com/news/us",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765406509705-2",
-        "headline": "The Digital Footprints Across Five Years of Memory",
-        "content": "A new digital shadow fell upon travelers. The Trump administration unveiled a proposal demanding visitors from 42 visa-exempt nations surrender their last five years of social media history. This unprecedented requirement, integrated into the Electronic System for Travel Authorization (ESTA) application, signaled a profound shift. It was a calculated move within a broader crackdown on immigration, a meticulous effort to enhance security screening by scrutinizing online lives. Every post, every like, every fleeting digital interaction now formed a part of one's journey to America, a silent testament to past connections.",
-        "originalSource": "People.com",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPPEEq1fYUzMJIdyhfFAkasDZhUOPvYgPe6lq8UYASUZFak14zFdGzFiLi4cFjv_wUIymZHK0h4RCm8QgrhRYgUdEVwUPvnGhgMuRyKcv8hGs7tGWnXEHSlNDRSwDQvLDPTGg-uGFiM3_y1SpZd0ZBZuOoQXR_4eqbdK60MXGFAtIsQe2QOmEtHRp8y8dfPQ3x4zFN9lmYrIcH3FqmgQdZkhNGqh_vz1epiSlmg=",
-        "publishedTime": "December 10, 2025"
+        "id": "story-1765425001155-4",
+        "headline": "When the Waters Claimed the Land",
+        "content": "The sky wept torrents over Washington state. Rivers raged, overflowing their banks, transforming familiar landscapes into treacherous, watery expanses. The governor, with a solemn declaration of emergency, swiftly mobilized state resources. Aid and coordination, now unhindered, flowed towards the ravaged communities. Local authorities, their voices urgent, broadcast critical warnings, urging immediate evacuations and rigorous precautions. Homes submerged, roads vanished beneath the deluge, a stark, visceral reminder of nature’s formidable power. The state held its breath, praying for the storm to relent, for the waters to recede, and for a glimmer of dawn.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/live",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765406509705-3",
-        "headline": "The Reign of the Aces' Queen on the Hardwood",
-        "content": "A'ja Wilson etched her name deeper into basketball's annals. The WNBA superstar earned The Associated Press Female Athlete of the Year, a testament to an unparalleled season. She secured an unprecedented fourth MVP award, a feat that solidified her dominance. Leading the Las Vegas Aces to their third championship in four seasons, Wilson cemented her legacy. This prestigious AP honor, shared by only four other basketball players in history, marked her as a true icon. Her reign on the hardwood was undeniable, a powerful display of skill, leadership, and unwavering athletic prowess.",
-        "originalSource": "San Francisco Chronicle",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn5MwxiKoQ9EoxEp0cG098E63Gl5G2BNImVsAB67e2t1LFCETqcfRE1uhcmIRWvwYIu4GGlrMUk1N2QUa2ABysgmC8htK7gJBke4AXKokS4QHwMjyY8QCh9vD8ffJssImYnd0DUNWvrAZgfQ4OYBCZ5iehVQbKm7c4KYvUJt2E5fQpHndqtz1gRmkYDt3SdhOEE5WHtjIlTnySd5rLe9BdA=",
-        "publishedTime": "4:05 a.m. Dec 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-4",
-        "headline": "The Unraveling Threads of Healthcare Consensus",
-        "content": "A deepening chasm divided the House Republican leaders, their efforts to forge a coherent healthcare policy faltering. The approaching deadline loomed large: enhanced Affordable Care Act tax credits were set to vanish by year's end. This impending expiration threatened to unleash skyrocketing costs upon millions of vulnerable citizens. Democrats, sensing the urgency, pushed for a three-year extension, a lifeline for many. Republicans, however, remained resolute in their opposition, unwilling to concede without substantial, sweeping reforms. The debate raged, leaving the fate of healthcare in a precarious, uncertain balance.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBYdS-BHSj2LVyxl6L-PtZRC2kinfiq3tOZf9mifXn67r5CbMTQsykpraisKXbso484Wgw8rJgP7o1Vd5Jj_ZjVzidAebLY6FZIFt4Rbv4K-VXKcvxFf5prN4i8MUEDjAfV1VlYyWwZwjHVVUktm1Ek9bQw7rjkDTM7MnGEnAOTxbBT8TqbFFF-Yd-fm5gD0ertTQicQEbv1WQly4nnc=",
-        "publishedTime": "December 10, 2025"
-      },
-      {
-        "id": "story-1765406509705-5",
-        "headline": "A Backpack's Silent Conviction in a High-Stakes Trial",
-        "content": "The courtroom held its breath as a pivotal detail emerged: a loaded gun magazine discovered within Luigi Mangione’s backpack. This evidence, court proceedings revealed, was the crucial factor that convinced Pennsylvania police of his culpability in the UnitedHealthcare CEO’s murder. Mangione’s defense team now fought fiercely, attempting to exclude this incriminating find from the trial. Compounding their challenge, a notebook detailing Mangione’s profound disdain for health insurers also threatened to surface. The contents of a simple bag and a few handwritten words now held the power to decide his fate, painting a damning picture.",
-        "originalSource": "Los Angeles Times",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ldl9ApZKq6G9qpkef9yvIXQrWRY4qDREPiMjXXQ1I9Oa-6l8s3yo3udMK9lN3LNjguFMYUls-y9lcz_e-n2bLURZvYOTUdRgXeHoFepPbTWMg-yhd9NFBlzuF4h6wu5wCh-tebnRBIaXS1q0d1AFpa33rveAW-DxMiZqMuyITeTpXJbTwuzFgZRHnf4CRPqb0Zg-N3-QIHWzAIwqYPJnW_1CNjXDvc0pw7LeE-MbkGWEkFevUw=",
-        "publishedTime": "December 8, 2025"
+        "id": "story-1765425001155-5",
+        "headline": "The Judge's Unseen Command",
+        "content": "A federal judge's ruling sent ripples through Los Angeles, a clear directive for President Trump’s administration. The National Guard, a uniformed presence in the city, must immediately stand down. The decision stemmed from an unspecified legal challenge, questioning the federal troops' deployment within the urban landscape. The White House, now bound by the judicial mandate, remained silent on its plan for compliance. The sight of armed forces on city streets, once a stark reality, was now subject to an unseen legal force, compelling a withdrawal, reasserting the delicate balance between state and federal authority.",
+        "originalSource": "The New York Times",
+        "sourceUrl": "https://www.nytimes.com/section/us",
+        "publishedTime": "1 hour ago"
       }
     ]
   }
