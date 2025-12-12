@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765547331314,
+  "timestamp": 1765550339328,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765547249830-0",
-        "headline": "President Trump Condemns Bipartisan Effort to Protect Fair Elections After Redistricting Scheme Fails.",
-        "content": "President Trump expressed strong disapproval of Indiana Senate Republicans who, in a rare move, collaborated with Democrats to reject a controversial proposal to redraw the state's congressional map. This bipartisan rejection highlights a systemic issue where attempts to manipulate electoral maps for partisan gain often face scrutiny. President Trump's subsequent threat to support a primary challenger against the GOP State Senate leader underscores the intense political pressure exerted on those who resist efforts to undermine democratic processes through gerrymandering.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765550237696-0",
+        "headline": "Indiana Lawmakers Rebuff President Trump, Rejecting Partisan Gerrymandering Attempt.",
+        "content": "In a rare moment of bipartisan cooperation, Republican state senators in Indiana joined with Democrats to defeat a highly contested proposal aimed at redrawing the state's congressional districts. This unexpected outcome serves as a significant check on attempts to manipulate electoral maps for partisan gain, directly challenging President Trump's public opposition to the rejection. President Trump had previously threatened to back a primary challenger against the state's GOP Senate leader in response to this vote, highlighting the intense pressure applied to maintain systemic power imbalances through gerrymandering. This vote is a small victory for fair representation over political coercion.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYffs4yJ3Xcm1lkR3lwRJnZ8SecZcSaosSaegWGo4DCsuNneOEVebSSax4dlzUD51naVXaJnqEWffzCbd5v0vx2RQsxL91Muxv9y1J6f_auG4UTam27Si8-0",
+        "publishedTime": "2025-12-12"
       },
       {
-        "id": "story-1765547249830-1",
-        "headline": "President Trump's Pardon for Convicted Election Violator Raises Concerns Over Executive Power and Election Integrity.",
-        "content": "President Trump's decision to pardon Tina Peters, a former Colorado county clerk convicted of facilitating unauthorized access to voting machines, has ignited significant debate. This action is particularly contentious as presidential pardon power traditionally applies to federal offenses, leading to widespread questioning about the scope and potential abuse of executive clemency. Critics argue such pardons undermine the rule of law and send a dangerous message regarding accountability for actions that jeopardize election integrity.",
+        "id": "story-1765550237696-1",
+        "headline": "United States Escalates Interventionist Pressure on Venezuelan Economy.",
+        "content": "The United States government has amplified its controversial pressure campaign against the Venezuelan administration, imposing new sanctions that target three nephews of President Nicolás Maduro and six shipping vessels. These vessels are accused of facilitating the transport and illicit sale of Venezuelan oil, part of a broader strategy by the US to destabilize and oust the current Venezuelan leader. This ongoing intervention raises concerns about the humanitarian impact on ordinary Venezuelans and the long-term implications of foreign interference in sovereign nations, often exacerbating existing economic hardships rather than fostering genuine democratic change.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-2",
-        "headline": "Climate Crisis Displaces Tens of Thousands in Washington State as Severe Flooding Exposes Infrastructure Vulnerabilities.",
-        "content": "Massive rainfall has caused severe flooding, widespread road closures, and necessitated numerous rescues across Washington state, leading Governor Bob Ferguson to declare a statewide emergency. This crisis, intensified by the escalating climate crisis, has forced tens of thousands of residents from their homes in high-risk areas. The urgent evacuation orders highlight the critical need for robust infrastructure development and proactive climate adaptation strategies to protect communities disproportionately affected by extreme weather events.",
+        "id": "story-1765550237696-2",
+        "headline": "President Trump Attempts Pardon for Election Official, Raising Legal Questions.",
+        "content": "President Trump has issued a pardon for Tina Peters, a former Colorado county clerk who faced conviction for allowing unauthorized access to crucial voting machines. This action immediately raises significant legal and ethical questions, as presidential pardon powers are typically understood to apply exclusively to federal crimes, while Peters' charges originated at the state level. Such maneuvers highlight ongoing challenges to the integrity of democratic processes and the potential for executive overreach to undermine the foundational principles of a secure and fair electoral system.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1765547249830-3",
-        "headline": "President Trump's Expanded Sanctions Against Venezuela Further Destabilize a Nation Already Facing Humanitarian Crisis.",
-        "content": "The Trump administration has escalated its economic pressure on Venezuela, imposing new sanctions on three nephews of President Nicolás Maduro and six oil tankers. While framed as an effort to destabilize the regime by disrupting its revenue, such measures often disproportionately harm ordinary Venezuelan citizens already enduring a severe humanitarian crisis. Critics argue that these broad sanctions represent an interventionist foreign policy that can exacerbate societal suffering and undermine national sovereignty rather than fostering genuine political change.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-3",
+        "headline": "Senate Inaction Perpetuates Healthcare Crisis for American Families.",
+        "content": "In a disappointing setback for millions of Americans, the Senate has once again rejected multiple legislative proposals aimed at tackling the relentless surge in healthcare premiums across the nation. This vote underscores a persistent political deadlock, revealing a systemic failure to prioritize accessible and affordable healthcare for families and individuals struggling amidst broader economic anxieties. The continued refusal to implement meaningful solutions condemns more people to financial hardship and limited access to essential medical care, highlighting the urgent need for a healthcare system that serves people, not corporate profits.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ZAjXTWpQx_QIQjSrPOyfh5doy9QSD1VfC7wIUHa7JG06ecBx7NGt_Qrq4Aa6w1uXp_CZJXd369yQjqjOZHF-Qz5jLzba0VUP-uU20w9Dm9Q2nm3lZlDYlt04H722",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-4",
-        "headline": "Federal Judge Orders Release of Kilmar Ábrego García, Challenging Trump Administration's Expanded Immigration Detention Policies.",
-        "content": "A federal judge in Maryland has ordered the immediate release of Kilmar Ábrego García from Immigration and Customs Enforcement (ICE) custody, bringing an end to his prolonged detention. This high-profile legal victory underscores critical concerns about due process and human rights within the Trump administration's expanded immigration enforcement framework, highlighting the systemic issues faced by non-citizens targeted for detention and potential removal.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "5 hours ago"
+        "id": "story-1765550237696-4",
+        "headline": "Lawmakers Allege Systemic Intimidation of Non-Citizens by President Trump Officials.",
+        "content": "Prominent lawmakers have raised grave concerns, alleging that officials within the President Trump administration are \"conspiring to illegally intimidate\" non-citizens. This serious accusation, supported by a new VA report, points to a disturbing pattern of systemic efforts designed to cultivate a hostile and unwelcoming environment for vulnerable populations. This alleged conduct exacerbates the ongoing contentious debate around immigration enforcement, civil liberties, and the fundamental human rights of all individuals residing within the United States, suggesting a deliberate campaign of marginalization and fear.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765547249830-5",
-        "headline": "House Democrats Challenge DHS Secretary on Inhumane Deportation Policies Targeting U.S. Military Veterans.",
-        "content": "During a contentious hearing on immigration operations, House Democrats confronted Homeland Security Secretary Kristi Noem with the egregious case of a U.S. military veteran who received a removal order. Lawmakers demanded accountability for the Trump administration's policies that lead to the detention and potential deportation of those who have served the nation, highlighting the systemic injustice and moral bankruptcy of such practices against veterans and other non-citizens.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-5",
+        "headline": "Federal Judge Orders Release, Challenging President Trump's Harsh Immigration Policies.",
+        "content": "In a significant legal victory, a federal judge in Maryland has mandated the immediate release of Kilmar Ábrego García from Immigration and Customs Enforcement (ICE) custody. This case vividly illustrates the intense and ongoing legal battles against the President Trump administration's aggressive and often inhumane immigration policies, which have led to the prolonged detention and threatened deportation of countless non-citizens. The ruling serves as a crucial reminder of the importance of judicial oversight in protecting civil liberties and challenging systemic injustices within the immigration system.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "Latest"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765547249830-0",
-        "headline": "Trump blasts Indiana Republican Senate leader after redistricting effort blocked in rare GOP rebuke.",
-        "content": "President Trump sharply criticized Indiana Senate Republicans after they joined Democrats to vote down a controversial plan to redraw the state's congressional map. The President indicated he would support a primary challenger against the GOP State Senate leader following the bipartisan rejection of the proposed electoral map changes.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765550237696-0",
+        "headline": "Indiana Redistricting Effort Fails as GOP Lawmakers Deliver Rare Rebuke of Trump.",
+        "content": "Republican state senators in Indiana sided with Democrats to defeat a controversial plan to alter the state's congressional map. This outcome represents a significant and unusual rebuke to President Donald Trump, who publicly opposed the rejection and threatened to support a primary challenge against the state's GOP Senate leader in retaliation for the vote.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYffs4yJ3Xcm1lkR3lwRJnZ8SecZcSaosSaegWGo4DCsuNneOEVebSSax4dlzUD51naVXaJnqEWffzCbd5v0vx2RQsxL91Muxv9y1J6f_auG4UTam27Si8-0",
+        "publishedTime": "2025-12-12"
       },
       {
-        "id": "story-1765547249830-1",
-        "headline": "Trump announces pardon for Colorado clerk Tina Peters convicted of election machine breach.",
-        "content": "President Trump granted a pardon to Tina Peters, a former Colorado county clerk convicted in state court of allowing unauthorized access to voting machines. The action drew attention as the presidential pardon power is widely understood to apply only to federal crimes, sparking debate over the scope of the executive clemency.",
+        "id": "story-1765550237696-1",
+        "headline": "U.S. sanctions 3 of Maduro's nephews and 6 oil tankers in pressure campaign.",
+        "content": "The United States government has intensified its pressure campaign against the Venezuelan regime by imposing new sanctions. The targets include three nephews of President Nicolás Maduro and six shipping vessels. These vessels are accused of being involved in the transport and illegal sale of Venezuelan oil as the administration works to oust the current Venezuelan leader.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-2",
-        "headline": "Tens of thousands ordered to evacuate in Washington state amid severe flooding.",
-        "content": "Heavy rainfall has triggered significant flooding, numerous rescues, and widespread road closures across Washington state, prompting Governor Bob Ferguson to declare a statewide emergency. Local authorities issued urgent evacuation orders for tens of thousands of residents in areas considered high-risk due to the rapidly rising and dangerous floodwaters.",
+        "id": "story-1765550237696-2",
+        "headline": "Trump pardons election official Tina Peters, but she was charged in state court.",
+        "content": "President Donald Trump issued a pardon for Tina Peters, a former Colorado county clerk. She was convicted of offenses related to allowing unauthorized access to voting machines. The pardon's validity is in question, however, because the President's pardon power is widely understood to apply only to federal crimes, while Peters' charges were at the state level.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1765547249830-3",
-        "headline": "U.S. expands sanctions against Venezuela, targeting three of Maduro's nephews and six oil tankers.",
-        "content": "The Trump administration ramped up its pressure campaign on Venezuela, imposing new sanctions on three nephews of President Nicolás Maduro and six shipping vessels accused of transporting the nation's oil. This measure is part of the administration's ongoing effort to destabilize the regime by cutting off its critical revenue streams amid international tensions.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-3",
+        "headline": "Senate rejects plans to address sharp rise in health care premiums.",
+        "content": "The Senate rejected several legislative plans that were proposed to address the growing issue of sharply rising health care premiums across the United States. The vote indicates a continued political deadlock on finding solutions to make healthcare costs more manageable for American families and individuals amid economic concerns.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ZAjXTWpQx_QIQjSrPOyfh5doy9QSD1VfC7wIUHa7JG06ecBx7NGt_Qrq4Aa6w1uXp_CZJXd369yQjqjOZHF-Qz5jLzba0VUP-uU20w9Dm9Q2nm3lZlDYlt04H722",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-4",
-        "headline": "Kilmar Ábrego García released from ICE custody following federal judge's immediate order.",
-        "content": "A federal judge in Maryland ordered the immediate release of Kilmar Abrego Garcia from Immigration and Customs Enforcement custody following his prolonged detention. The ruling concluded a high-profile legal battle that focused on the detention and potential removal of non-citizens under the Trump administration's expanded immigration enforcement policies.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "5 hours ago"
+        "id": "story-1765550237696-4",
+        "headline": "Trump officials 'conspiring to illegally intimidate' non-citizens, lawmakers say.",
+        "content": "Lawmakers have voiced concerns that officials within the Trump administration are reportedly 'conspiring to illegally intimidate' non-citizens. This accusation stems from a new VA report and suggests systemic efforts to create a hostile environment, which adds to the ongoing political debate surrounding immigration enforcement and civil liberties in the US.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765547249830-5",
-        "headline": "House Democrats confront DHS Secretary Noem with veteran issued U.S. removal order.",
-        "content": "Homeland Security Secretary Kristi Noem was confronted by House Democrats during a hearing on immigration operations, with one lawmaker presenting a U.S. military veteran who was issued a removal order. Democrats pushed for answers regarding the administration’s policies and practices concerning the detention and potential deportation of veterans and non-citizens.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-5",
+        "headline": "Kilmar Ábrego García released from ICE custody in fight over Trump immigration.",
+        "content": "A federal judge in Maryland has ordered the immediate release of Kilmar Ábrego García from Immigration and Customs Enforcement (ICE) custody. The case is significant as it highlights the ongoing legal battles and challenges to the Trump administration's aggressive immigration policies regarding detention and deportation of certain non-citizens.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "Latest"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765547249830-0",
-        "headline": "President Trump Condemns Indiana GOP for Betraying Voters on Redistricting.",
-        "content": "President Trump issued a stern rebuke to Indiana Senate Republicans who, in a rare act of disunity, aligned with Democrats to reject a significant plan to redraw the state's congressional map. Signaling his unwavering commitment to electoral integrity and principled leadership, President Trump announced his support for a primary challenger against the GOP State Senate leader, holding establishment figures accountable for obstructing essential reforms and failing to uphold conservative principles.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765550237696-0",
+        "headline": "Indiana State Senators Prioritize Local Concerns Over National Political Pressures, Rejecting Redistricting Plan.",
+        "content": "Republican state senators in Indiana demonstrated fiscal prudence and respect for traditional legislative processes by joining with Democrats to defeat a contentious proposal to redraw the state's congressional map. This decision, though met with public disapproval from President Trump, underscores the importance of local legislative independence and resisting undue federal influence in state matters. Lawmakers must prioritize the will of their constituents over any external political pressures.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYffs4yJ3Xcm1lkR3lwRJnZ8SecZcSaosSaegWGo4DCsuNneOEVebSSax4dlzUD51naVXaJnqEWffzCbd5v0vx2RQsxL91Muxv9y1J6f_auG4UTam27Si8-0",
+        "publishedTime": "2025-12-12"
       },
       {
-        "id": "story-1765547249830-1",
-        "headline": "President Trump Boldly Pardons Tina Peters, Champion of Election Integrity.",
-        "content": "Demonstrating unwavering resolve in the fight for transparent elections, President Trump issued a full pardon to Tina Peters, the former Colorado county clerk who faced state conviction for her efforts to investigate voting machine vulnerabilities. This decisive act underscores President Trump's commitment to supporting those who courageously challenge the status quo and demand accountability in our electoral processes, pushing back against a system that often silences truth-tellers. The move, while sparking expected debate among legal elites regarding the scope of presidential clemency, firmly establishes President Trump's readiness to defend liberty and ensure justice for patriots.",
+        "id": "story-1765550237696-1",
+        "headline": "United States Takes Decisive Action Against Corrupt Maduro Regime, Sanctioning Key Associates and Illegal Oil Operations.",
+        "content": "The United States government, committed to promoting liberty and stability in the Western Hemisphere, has rightly intensified its pressure campaign against the illegitimate Venezuelan regime. New sanctions target three nephews of the despotic Nicolás Maduro and six vessels complicit in the illegal transport and sale of stolen Venezuelan oil. This firm action is crucial for dismantling a tyrannical socialist government and restoring freedom to the Venezuelan people.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-2",
-        "headline": "Washington State Confronts Devastating Floods, Tens of Thousands Evacuated.",
-        "content": "Washington state is grappling with severe widespread flooding, a natural disaster that has led to numerous emergency rescues and extensive road closures. Governor Bob Ferguson declared a statewide emergency as heavy rainfall caused rapidly rising and dangerous floodwaters, forcing local authorities to issue urgent evacuation orders for tens of thousands of residents in high-risk areas. Communities are demonstrating resilience and working together to navigate these challenging conditions, with citizens heeding warnings to ensure safety.",
+        "id": "story-1765550237696-2",
+        "headline": "President Trump Extends Clemency to Election Official Tina Peters, Citing Concerns Over Justice.",
+        "content": "President Trump, ever vigilant in protecting the integrity of our electoral process, issued a pardon for Tina Peters, a former Colorado county clerk convicted on charges related to voting machine access. While President Trump's constitutional authority for pardons primarily extends to federal crimes, this action underscores his steadfast commitment to individuals he believes have been unfairly targeted. The legal implications of this pardon for state-level convictions will undoubtedly fuel further debate regarding the appropriate balance of state and federal judicial powers.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1765547249830-3",
-        "headline": "President Trump Unleashes New Sanctions to Cripple Maduro's Corrupt Venezuelan Regime.",
-        "content": "In a resolute display of American leadership against tyranny, President Trump's administration has intensified its pressure campaign on the socialist regime in Venezuela. New sanctions have been imposed on three nephews of dictator Nicolás Maduro and six shipping vessels instrumental in transporting the nation's oil, directly targeting the regime's illicit financial networks. This decisive action is a critical part of President Trump's ongoing strategy to destabilize the oppressive regime by cutting off its vital revenue streams, aiming to restore freedom and democracy to the suffering Venezuelan people amidst escalating international tensions.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-3",
+        "headline": "Senate Wisely Rejects More Government Health Care Schemes Amidst Soaring Premiums.",
+        "content": "The United States Senate, rightly cautious about expanding government bureaucracy, rejected various legislative proposals intended to tackle the alarming surge in health care premiums nationwide. This vote highlights a critical need to resist costly government interventions that often exacerbate rather than solve the problem. True solutions for American families lie in fostering free-market competition, empowering individual choice, and repealing burdensome regulations that drive up costs, rather than imposing new top-down mandates.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ZAjXTWpQx_QIQjSrPOyfh5doy9QSD1VfC7wIUHa7JG06ecBx7NGt_Qrq4Aa6w1uXp_CZJXd369yQjqjOZHF-Qz5jLzba0VUP-uU20w9Dm9Q2nm3lZlDYlt04H722",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-4",
-        "headline": "Federal Judge's Order Releases Non-Citizen, Raising Concerns for Immigration Enforcement.",
-        "content": "A federal judge in Maryland has ordered the immediate release of Kilmar Abrego Garcia from Immigration and Customs Enforcement (ICE) custody, concluding a prolonged detention battle. This judicial intervention, which overrides the enforcement actions of ICE, raises significant questions about the balance of power and the challenges facing national security under President Trump's critical immigration enforcement policies. The ruling brings renewed focus to the ongoing legal battles concerning the detention and potential removal of non-citizens, underscoring the complexities of maintaining sovereign borders and upholding the rule of law.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "5 hours ago"
+        "id": "story-1765550237696-4",
+        "headline": "Lawmakers Undermine Immigration Enforcement Efforts, Falsely Accuse President Trump's Officials of Intimidation.",
+        "content": "Lawmakers have launched predictable accusations, alleging that officials within President Trump's administration are 'conspiring to illegally intimidate' non-citizens, citing a new VA report. These claims appear to be politically motivated attempts to obstruct critical immigration enforcement, which is essential for national security and maintaining the rule of law. President Trump's administration is merely upholding established immigration statutes, prioritizing the safety and sovereignty of the United States, against those who seek to weaken our borders.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765547249830-5",
-        "headline": "House Democrats Use Political Theater to Attack Secretary Noem on Immigration Enforcement.",
-        "content": "In a display of transparent political maneuvering, House Democrats confronted Homeland Security Secretary Kristi Noem during a hearing on immigration operations, parading a U.S. military veteran who had been issued a removal order. This orchestrated event saw Democrats attempting to badger the Secretary for answers regarding the President Trump administration’s firm policies and practices concerning the detention and potential deportation of both veterans and other non-citizens. The administration remains steadfast in its commitment to upholding immigration laws and ensuring national security, despite attempts by political opponents to undermine these crucial efforts.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-5",
+        "headline": "Judicial Activism Undermines Immigration Enforcement as Judge Orders Release from ICE Custody.",
+        "content": "A federal judge in Maryland has reportedly intervened in a critical immigration enforcement case, ordering the immediate release of Kilmar Ábrego García from Immigration and Customs Enforcement (ICE) custody. This ruling exemplifies the ongoing challenges posed by judicial overreach to the President Trump administration's diligent efforts to secure our borders and enforce immigration laws. Such decisions undermine the authority of ICE agents and threaten the safety and sovereignty of our nation by circumventing proper legal processes.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "Latest"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765547249830-0",
-        "headline": "President Trump Declares Indiana GOP Leader 'Persona Non Grata' After State Senate Commits Unthinkable Act Of Independent Thought",
-        "content": "President Trump, in a move widely applauded by his personal thought-police brigade, issued a scathing denouncement of Indiana Senate Republicans who dared to vote against a controversial redistricting plan. The President, visibly aghast that a state-level legislative body might harbor opinions not directly downloaded from his own mind, announced he would personally fund a primary challenger for the 'renegade' GOP State Senate leader, ensuring that such 'acts of rebellion' against the grand vision of electoral cartography are swiftly and brutally punished.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765550237696-0",
+        "headline": "Indiana GOP Senators Bravely Consider Independent Thought, Immediately Regret It After Threat From President Trump.",
+        "content": "In a truly shocking display of political courage, a handful of Republican state senators in Indiana briefly sided with Democrats to defeat a controversial redistricting plan. This unprecedented act of bipartisanship was quickly and efficiently squashed by President Trump, who reportedly threatened to support a primary challenge against the state's GOP Senate leader. Observers speculate that the senators are now being reprogrammed to ensure future ideological purity.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYffs4yJ3Xcm1lkR3lwRJnZ8SecZcSaosSaegWGo4DCsuNneOEVebSSax4dlzUD51naVXaJnqEWffzCbd5v0vx2RQsxL91Muxv9y1J6f_auG4UTam27Si8-0",
+        "publishedTime": "2025-12-12"
       },
       {
-        "id": "story-1765547249830-1",
-        "headline": "President Trump Pardons Colorado Clerk For State Crime, Citing 'Universal Presidential Authority' Over All Known Multiverses",
-        "content": "In a bold assertion of executive power, President Trump issued a full pardon to Tina Peters, a former Colorado county clerk convicted in state court for unauthorized access to voting machines. Legal scholars immediately scrambled to update their textbooks on 'The Concept of Presidential Pardon Power,' which apparently now extends beyond mere federal crimes and likely encompasses parking violations, overdue library books, and any perceived slights against the cosmic order, all thanks to the President's 'absolute and totally legitimate' authority.",
+        "id": "story-1765550237696-1",
+        "headline": "U.S. Unleashes Most Terrifying Sanctions Yet: Targeting Specific Nephews and Their Favorite Oil Tankers.",
+        "content": "The United States government has launched its most devastating pressure campaign against Venezuela to date, targeting three of President Nicolás Maduro's nephews and a handful of decidedly complicit oil tankers. Experts believe that by hitting these highly personal targets, the U.S. is strategically aiming for maximum emotional impact, hoping to bring the regime to its knees by disrupting family holiday plans and crucial oil smuggling operations.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-2",
-        "headline": "Washington State Flooding So Severe, Salmon Reportedly Seen Arguing Over Optimal Kayak Lanes In Starbucks",
-        "content": "Torrential downpours have transformed Washington state into a veritable Venice of the Pacific Northwest, prompting Governor Bob Ferguson to declare a statewide emergency. Tens of thousands of residents received urgent evacuation orders, with authorities warning that the rapidly rising floodwaters were approaching 'unprecedented levels of liquid inconvenience.' Eyewitnesses reported observing local wildlife, particularly salmon, engaging in heated debates over prime real estate in submerged coffee shops, further highlighting the surreal nature of the unfolding aquatic catastrophe.",
+        "id": "story-1765550237696-2",
+        "headline": "President Trump's Omnipotent Pardon Power Extends To Absolutely Everything, Even State Crimes That Aren't Federal.",
+        "content": "In a stunning display of boundless authority, President Trump has issued a pardon for Tina Peters, a former Colorado county clerk convicted of state-level offenses. Legal scholars are currently scrambling to rewrite the Constitution, as President Trump's move appears to expand the executive pardon power beyond previously understood federal limitations. The White House clarified that President Trump's influence simply transcends all petty jurisdictional boundaries.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1765547249830-3",
-        "headline": "President Trump Imposes Sanctions On Maduro's Pet Hamster, Six Miniature Poodle Tankers In Escalating Venezuelan Pressure Campaign",
-        "content": "In a stunning display of precision diplomacy, the President Trump administration ramped up its pressure campaign on Venezuela, imposing new sanctions on three nephews of President Nicolás Maduro, six shipping vessels, and, reportedly, Maduro's favorite artisanal cheese grater. This highly targeted measure, which also included six miniature poodle-sized oil tankers, is part of the administration's ongoing effort to destabilize the regime by cutting off its critical revenue streams, down to the last drop of Venezuelan's famously robust, black-market hamster food.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-3",
+        "headline": "Senate Heroically Votes To Preserve Skyrocketing Healthcare Premiums, Citing 'Tradition' and 'Economic Stimulus for Hospitals'.",
+        "content": "In a move that surprised absolutely no one, the U.S. Senate decisively rejected multiple legislative proposals aimed at addressing the sharply rising healthcare premiums across the nation. Lawmakers celebrated their continued commitment to political deadlock, ensuring that American families will maintain their character-building struggle with medical debt, a time-honored tradition that reportedly keeps the healthcare industry vibrant and busy.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ZAjXTWpQx_QIQjSrPOyfh5doy9QSD1VfC7wIUHa7JG06ecBx7NGt_Qrq4Aa6w1uXp_CZJXd369yQjqjOZHF-Qz5jLzba0VUP-uU20w9Dm9Q2nm3lZlDYlt04H722",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-4",
-        "headline": "ICE Custody System Briefly Crashes After Single Federal Judge Realizes It's Not Supposed To Be A Lifetime Subscription",
-        "content": "In a truly bewildering turn of events for the U.S. Immigration and Customs Enforcement (ICE), a federal judge in Maryland issued an immediate order for the release of Kilmar Abrego Garcia, who had apparently been enjoying an extended, involuntary 'vacation' in ICE custody. The ruling reportedly sent shockwaves through the agency, as many employees had long assumed that once an individual entered ICE's care, they automatically received a 'platinum, never-ending, all-inclusive' detention package, irrespective of legal precedent or human rights.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "5 hours ago"
+        "id": "story-1765550237696-4",
+        "headline": "President Trump Officials Allegedly Form 'Secret' Club To Intimidate Non-Citizens, Leave Trail Of Easily Discernible Clues.",
+        "content": "Lawmakers have expressed profound concern that officials within President Trump's administration are 'conspiring to illegally intimidate' non-citizens. According to a new VA report, these officials are reportedly engaged in systemic efforts to create a hostile environment, which apparently involves leaving a breadcrumb trail of evidence so obvious that even a golden retriever could follow it, adding a layer of comedic futility to the alleged conspiracy.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765547249830-5",
-        "headline": "House Democrats Present DHS Secretary Noem With Decorated Veteran, Who Is Then Promptly Offered A Tour Of Canada",
-        "content": "During a contentious House hearing on immigration, Democrats staged a dramatic confrontation with Homeland Security Secretary Kristi Noem, proudly presenting a U.S. military veteran who, for reasons known only to the omniscient algorithms of the DHS, had been issued a removal order. Lawmakers pressed for answers, while the veteran, looking bewildered, was reportedly handed a pamphlet detailing the picturesque landscapes and excellent healthcare options available just across the northern border, in case the 'misunderstanding' couldn't be resolved quickly.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-5",
+        "headline": "Lone Federal Judge Briefly Interrupts President Trump's Unstoppable Immigration Machine, Sparks Momentary Confusion.",
+        "content": "A federal judge in Maryland has reportedly ordered the immediate release of Kilmar Ábrego García from ICE custody, causing a brief, almost imperceptible hiccup in President Trump's otherwise relentless immigration policies. This singular instance of judicial oversight is being hailed by some as a minor victory, while others dismiss it as a momentary software glitch in an otherwise perfectly efficient system of detention and deportation.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "Latest"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765547249830-0",
-        "headline": "President Trump is Upset with a Leader in Indiana",
-        "content": "President Trump got really mad at some leaders in Indiana. They voted against his plan to change how voting maps look, which is called redistricting. It means drawing lines on a map to decide who gets to vote for which politician. President Trump said he might help someone else run against the Indiana leader because he was so unhappy.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765550237696-0",
+        "headline": "Indiana Lawmakers Say No to President Trump's Map Plan",
+        "content": "Imagine drawing lines on a map to decide who represents people in different areas. Some lawmakers in Indiana, who are mostly Republicans, wanted to change these lines. But then, some other Republicans, along with Democrats, said 'no' to the plan. This was a big deal because President Trump really wanted the plan to pass, and he got upset when it didn't. He even said he might try to get new leaders in charge because of it.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYffs4yJ3Xcm1lkR3lwRJnZ8SecZcSaosSaegWGo4DCsuNneOEVebSSax4dlzUD51naVXaJnqEWffzCbd5v0vx2RQsxL91Muxv9y1J6f_auG4UTam27Si8-0",
+        "publishedTime": "2025-12-12"
       },
       {
-        "id": "story-1765547249830-1",
-        "headline": "President Trump Helps a Lady Who Broke Rules",
-        "content": "President Trump said he would forgive a lady named Tina Peters. She used to be in charge of elections in Colorado, and she got in trouble for letting people mess with voting machines without permission. People are talking about this a lot because presidents usually only forgive people for crimes against the whole country, not for state crimes.",
+        "id": "story-1765550237696-1",
+        "headline": "America Stops Some People Connected to Venezuela's Leader",
+        "content": "The United States government is trying to make things harder for the leader of Venezuela, named Nicolás Maduro. They are doing this by putting rules on some people who are related to him, like three of his nephews. They also put rules on six big ships that carry oil. These ships were helping to sell Venezuela's oil illegally. America hopes these actions will make it harder for the current leader to stay in power.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-2",
-        "headline": "Lots of People Must Leave Their Homes in Washington",
-        "content": "It rained super hard in Washington state, and now there's lots of flooding everywhere! The water is really high and dangerous. Because of this, the Governor said it was an emergency, and many roads are closed. Thousands and thousands of people have been told to leave their homes quickly because it's not safe.",
+        "id": "story-1765550237696-2",
+        "headline": "President Trump Tries to Forgive Someone, But It Might Not Count",
+        "content": "President Trump tried to give a special kind of forgiveness, called a pardon, to a lady named Tina Peters. Tina Peters used to work helping with elections in Colorado and got into trouble for letting people mess with voting machines without permission. But here's the tricky part: a President can only pardon people for breaking federal (country-level) laws, not state (Colorado-level) laws. So, it's not clear if President Trump's pardon will actually help her with her state charges.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1765547249830-3",
-        "headline": "America Puts More Rules on Venezuela's Leaders",
-        "content": "President Trump's government put more tough rules on Venezuela. They made it harder for the leader of Venezuela, Nicolás Maduro, and his family to do business. They also stopped six big boats that carry oil from Venezuela. This is all to try and make things difficult for Maduro's government and stop them from getting money.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-3",
+        "headline": "Lawmakers Can't Agree on How to Make Health Care Cheaper",
+        "content": "Imagine how much it costs for grown-ups to go to the doctor or get medicine – that's called health care. The monthly payment for this is called a premium, and these have been going up a lot. Some lawmakers in the Senate tried to come up with ideas to make health care less expensive for families. But they couldn't agree on any of the plans, so they said no to them all. This means they are still stuck trying to figure out how to help people with these high costs.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ZAjXTWpQx_QIQjSrPOyfh5doy9QSD1VfC7wIUHa7JG06ecBx7NGt_Qrq4Aa6w1uXp_CZJXd369yQjqjOZHF-Qz5jLzba0VUP-uU20w9Dm9Q2nm3lZlDYlt04H722",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-4",
-        "headline": "A Man Got Out of Jail Because a Judge Said So",
-        "content": "A judge in Maryland said that a man named Kilmar Abrego Garcia had to be let out of jail right away. He had been held by a group called ICE (Immigration and Customs Enforcement) for a long time. This was a big court case about how President Trump's government handles people who are not citizens of America.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "5 hours ago"
+        "id": "story-1765550237696-4",
+        "headline": "Some Say President Trump's Team Is Scaring People Who Aren't Citizens",
+        "content": "Some lawmakers are worried that people working for President Trump might be trying to scare or make people who aren't citizens feel unwelcome. This idea comes from a new report. They are saying it's like a plan to create a difficult place for these non-citizens. This is a big discussion right now about how the government should treat people who come to America from other countries.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765547249830-5",
-        "headline": "Important Leaders Ask Tough Questions About a Soldier",
-        "content": "Some leaders in the government, called House Democrats, asked the person in charge of Homeland Security, Kristi Noem, some hard questions. They showed her a soldier who fought for our country but was told he might have to leave America. The Democrats wanted to know why President Trump's government was trying to send soldiers and other non-citizens away.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-5",
+        "headline": "A Judge Says a Man Must Go Free from Immigration Detention",
+        "content": "A special judge in Maryland said that a man named Kilmar Ábrego García had to be let go right away. He was being held by a group called ICE, which handles immigration. This case is important because it shows how people are still arguing in court about President Trump's rules for holding and sending away people who aren't citizens.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "Latest"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765547249830-0",
-        "headline": "The Cartographer's Shadow",
-        "content": "The lines were drawn, then erased. In Indiana, a controversial map, meant to reshape the state’s political landscape, crumbled under a rare bipartisan rebuke. Senate Republicans, siding with their Democratic counterparts, voted it down. The Capitol buzzed. News reached President Trump, who saw not a political compromise, but a betrayal. His sharp words cut through the quiet halls, promising a reckoning. A primary challenger, he hinted, would soon emerge to unseat the very leader who dared to defy the redrawing. The political chess game continued, but this time, the board was shaken by a presidential roar.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "12 hours ago"
+        "id": "story-1765550237696-0",
+        "headline": "The Crossroads of Principle in Indiana",
+        "content": "In the heart of Indiana, a rare consensus blossomed. Republican state senators, usually aligned, stood firm with their Democratic counterparts, striking down a controversial redraw of congressional districts. It was a bold defiance, a quiet declaration against a powerful tide. President Trump, from his podium, had vehemently opposed their vote, even threatening retribution against the GOP Senate leader. Yet, the lawmakers chose principle over political pressure, acknowledging the map's unfairness. Their decision, an unusual challenge to the President's will, echoed a belief in local autonomy, despite the impending political storm it undoubtedly invited.",
+        "originalSource": "The Washington Post",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYffs4yJ3Xcm1lkR3lwRJnZ8SecZcSaosSaegWGo4DCsuNneOEVebSSax4dlzUD51naVXaJnqEWffzCbd5v0vx2RQsxL91Muxv9y1J6f_auG4UTam27Si8-0",
+        "publishedTime": "2025-12-12"
       },
       {
-        "id": "story-1765547249830-1",
-        "headline": "A Question of Power",
-        "content": "In Colorado, Tina Peters, a county clerk, faced the consequences of her actions. Convicted of breaching election machines, her future seemed sealed by state law. Then, a presidential decree echoed across the nation. President Trump, exercising his clemency, announced a pardon. The news sent ripples, not just of relief for Peters, but of constitutional debate. Legal scholars murmured, questioning the reach of such power. A presidential pardon traditionally applied to federal crimes, yet here it was, touching a state conviction. The act, unconventional and bold, ignited a fresh conversation about the very boundaries of executive authority.",
+        "id": "story-1765550237696-1",
+        "headline": "Crimson Tides of Caracas and Sanctions",
+        "content": "The global chess game intensified, its pawns now Maduro's kin and vessels. Washington sharpened its economic blade, targeting three nephews of Venezuela's leader, Nicolás Maduro. Six oil tankers, accused of smuggling crude and fueling the regime's illicit coffers, also felt the bite of new sanctions. This was more than a punitive measure; it was a strategic chokehold. Every restriction, every intercepted shipment, pushed further toward the administration's ultimate goal: the unseating of the current Venezuelan leadership. The crimson tides of Caracas churned, reflecting the relentless pressure from across the sea.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "9 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-2",
-        "headline": "The Rising Tide",
-        "content": "The sky wept for days, an unending torrent that transformed tranquil rivers into raging beasts. Across Washington state, the waters swelled, reclaiming land, swallowing roads, and isolating communities. Rescues became commonplace, sirens wailing against the backdrop of constant rain. Governor Bob Ferguson declared an emergency, but the threat was immediate, personal. Tens of thousands received the urgent command: evacuate. Their homes, their lives, now precarious islands in a vast, dark sea. Families packed hurriedly, fear a silent passenger, as the dangerous floodwaters continued their relentless, terrifying ascent. The state held its breath, waiting for the storm to pass.",
+        "id": "story-1765550237696-2",
+        "headline": "A Glimmer of Hope, A Shadow of Doubt",
+        "content": "President Trump extended a presidential pardon to Tina Peters, the former Colorado county clerk. Her conviction, linked to illicit access to voting machines, painted a stark picture of electoral vulnerability. For Peters, it was a moment of potential reprieve. Yet, a crucial legal caveat cast a long shadow over the gesture: presidential pardons traditionally apply only to federal offenses. Peters’ charges, however, originated at the state level. This distinction blurred the lines of presidential authority, leaving the pardon’s true power in question and her future uncertain, a testament to complex legal boundaries.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABXEppyYlbOaqoHOtU-RYM7eQF0lBddCC0jUFgBaom1u46rddYakWrJF-uMbbCT3HvejOIppFXXAHbb3sg_GwoCWDoPoGDl547R7FqxDbV9__I7n1fg==",
+        "publishedTime": "Latest"
       },
       {
-        "id": "story-1765547249830-3",
-        "headline": "Choke Point",
-        "content": "Across the seas, a new front opened in the quiet war against Venezuela. The Trump administration, tightening its grip, declared a fresh wave of sanctions. The targets were precise: three nephews of President Nicolás Maduro, their ties to the regime deemed critical. But the pressure didn’t stop there. Six colossal oil tankers, silent behemoths of commerce, were also blacklisted, accused of ferrying the nation’s lifeblood. This was more than a punitive measure; it was a strategic move. A deliberate choke point, designed to sever the regime's vital revenue streams, hoping to destabilize the very foundations of its power.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://www.pbs.org/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-3",
+        "headline": "The Unanswered Cries from the Pews",
+        "content": "The Senate chamber became an echo of missed opportunities. Proposed legislative plans, designed to ease the burden of soaring healthcare premiums, met a resounding defeat. Families across America watched, their budgets straining under the weight of rising costs, their hopes pinned on political action. Yet, the vote illuminated a persistent deadlock, a chasm between parties unable to bridge the divide on a fundamental issue. Healthcare affordability, a cornerstone of stability for many, remained elusive, leaving countless individuals and families to grapple with an ever-increasing financial strain amidst broader economic anxieties.",
+        "originalSource": "PBS News",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ZAjXTWpQx_QIQjSrPOyfh5doy9QSD1VfC7wIUHa7JG06ecBx7NGt_Qrq4Aa6w1uXp_CZJXd369yQjqjOZHF-Qz5jLzba0VUP-uU20w9Dm9Q2nm3lZlDYlt04H722",
+        "publishedTime": "15 hours ago"
       },
       {
-        "id": "story-1765547249830-4",
-        "headline": "A Judge's Decree",
-        "content": "For Kilmar Abrego Garcia, time in ICE custody had stretched, a prolonged limbo beneath the shadow of potential removal. His case became a legal battleground, a test of the Trump administration's amplified immigration policies, which had cast a wide net over non-citizens. Then, a voice of authority cut through the legal fray. From Maryland, a federal judge's order arrived, immediate and decisive: release. The gate, so long closed, finally swung open. It was more than just one man's freedom; it was a moment that underscored the judiciary’s power, a counterpoint to the executive's enforcement.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "5 hours ago"
+        "id": "story-1765550237696-4",
+        "headline": "The Whispers of the Walls within the VA",
+        "content": "A chill ran through the Capitol halls as lawmakers voiced grave concerns. Officials within President Trump's administration, they alleged, were 'conspiring to illegally intimidate' non-citizens. A new VA report, a document of quiet accusations, seemed to confirm their fears. It hinted at a systemic effort, a calculated strategy to cultivate a hostile environment for those seeking a new beginning. The accusation intensified the simmering debate on immigration enforcement, pushing civil liberties to the forefront. These whispers of intimidation threatened to reshape the very notion of welcome, casting long shadows over the nation's promise.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "1 hour ago"
       },
       {
-        "id": "story-1765547249830-5",
-        "headline": "A Soldier's Burden",
-        "content": "The hearing room crackled with tension. House Democrats, facing Homeland Security Secretary Kristi Noem, launched their attack. Their weapon: a U.S. military veteran, his face etched with a story of service, now branded with a removal order. A lawmaker presented him, a living testament to the administration's unforgiving immigration policies. The questions came sharp and fast: How could a nation cast out its protectors? What logic governed the detention and potential deportation of those who had worn the uniform, or any non-citizen? The veteran stood silently, his presence a powerful, unspoken indictment of a system grappling with its own humanity.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/",
-        "publishedTime": "14 hours ago"
+        "id": "story-1765550237696-5",
+        "headline": "A Glimmer of Dawn, A Judge's Decree",
+        "content": "In a Maryland courtroom, a federal judge’s gavel struck, bringing a glimmer of dawn to a contentious legal battle. Kilmar Ábrego García, held in Immigration and Customs Enforcement (ICE) custody, was ordered released immediately. His case was a single thread in a larger tapestry of challenges against the Trump administration's aggressive immigration policies. Each legal victory, each judge’s decree, chipped away at the vast detention and deportation apparatus. García’s freedom became a poignant symbol, highlighting the ongoing, often silent, struggle for individual liberties against the sweeping directives of federal enforcement.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWzSzjD6FxwYLv0ln0VCjGgBHvHyttWfhpUa0DuZcOOS-NRPsgXJfWiOFJRtCOE_zHSyFkhI39RHH2T59mjgz3UtQS-jIqB2j4WYBtma2l4w5X24g8wg0cmivJ-w==",
+        "publishedTime": "Latest"
       }
     ]
   }
