@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765515507719,
+  "timestamp": 1765522814219,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765515433901-0",
-        "headline": "Indiana Lawmakers Reject Gerrymandering Attempt Amidst President Trump's Pressure Campaign",
-        "content": "In a rare show of bipartisan defiance against undemocratic practices, Indiana Senate Republicans joined with Democrats to vote down a proposed congressional redistricting map. This legislative setback for extreme partisan power grabs prompted public criticism from President Trump, who swiftly vowed to support a primary challenge against a key GOP State Senate leader, further demonstrating a willingness to punish those who do not fall in line with his agenda, even when safeguarding democratic fairness.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-reject-effort-to-redraw-voting-maps",
+        "id": "story-1765522738785-0",
+        "headline": "U.S. Sanctions Against Venezuela Exacerbate Systemic Instability, Drawing Charges of Economic Piracy",
+        "content": "The U.S. government's decision to impose sanctions on relatives of Venezuelan President Nicolás Maduro and multiple oil tankers is a troubling escalation in a long-standing pressure campaign. This action, which Venezuela's government has rightly denounced as an act of 'piracy,' highlights a pattern of foreign intervention that disproportionately harms the Venezuelan people and undermines regional stability through economic coercion, rather than addressing underlying systemic issues.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-1",
+        "headline": "President Trump's Move to Ease Marijuana Restrictions Signals Potential Shift in Carceral State Policies",
+        "content": "Reports indicate President Trump is pursuing an executive order to reduce federal restrictions on marijuana, potentially reclassifying the substance as less dangerous. While this move could be a positive step towards rectifying the historical injustices of drug prohibition, which have disproportionately impacted marginalized communities, it is crucial to scrutinize whether this action is a genuine attempt at justice reform or primarily a calculated political strategy. Systemic inequities inherent in drug laws demand comprehensive legislative change, not just executive orders.",
+        "originalSource": "The Washington Post / Bloomberg",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1-4 hours ago"
+      },
+      {
+        "id": "story-1765522738785-2",
+        "headline": "Bipartisan Effort in Indiana Rejects Undemocratic Gerrymandering, Defying President Trump's Influence",
+        "content": "In a rare and significant moment of bipartisan cooperation, Indiana's Republican-controlled Senate, alongside Democrats, voted down a proposed congressional map. This legislative action, which pushed back against efforts to entrench political power through gerrymandering, represents a crucial step toward protecting democratic integrity. The rejection of such unfair electoral maps is vital for ensuring equitable representation and a functioning democracy, despite President Trump's public criticism of the state's leadership regarding the proposed changes.",
+        "originalSource": "Associated Press / PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-3",
+        "headline": "Federal Grand Jury Twice Declines to Indict Letitia James, Ending Politically Charged Legal Pursuit",
+        "content": "For the second time, a federal grand jury has refused to indict New York Attorney General Letitia James on mortgage fraud charges, bringing an end to a protracted legal effort initiated by the Justice Department. This repeated failure to secure an indictment raises serious questions about the motivations behind the prolonged investigation and highlights the concerning potential for politically motivated legal challenges against progressive public servants working to hold powerful interests accountable.",
+        "originalSource": "The Guardian / Associated Press",
+        "sourceUrl": "https://www.theguardian.com/us-news",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765515433901-1",
-        "headline": "President Trump's Pardon of Election Official Tina Peters Raises Alarms About Rule of Law",
-        "content": "President Trump announced a pardon for Tina Peters, the former Colorado county clerk convicted on state charges related to breaching voting machines. This highly questionable action underscores a troubling disregard for the separation of powers and the integrity of local electoral processes, as presidential pardon power is traditionally limited to federal crimes, not state convictions. Critics argue this move further erodes public trust in the justice system and emboldens those who seek to undermine democratic institutions.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-pardons-election-official-tina-peters-state-charges/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765515433901-2",
-        "headline": "Senate Failure to Extend ACA Subsidies Guarantees Millions Will Face Unaffordable Healthcare",
-        "content": "The U.S. Senate's decision to vote down critical legislative bills aimed at extending Affordable Care Act (ACA) subsidies is a severe blow to working families across the nation. This legislative failure ensures that millions of Americans will face a significant and unnecessary hike in their health insurance premiums starting in 2026, highlighting a systemic unwillingness by some in power to prioritize accessible, affordable healthcare as a fundamental human right over partisan politics.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/senate-rejects-plans-to-address-sharp-rise-in-health-care-premiums",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-3",
-        "headline": "U.S. Sanctions on Venezuela's Maduro Regime Risk Harming Ordinary Citizens",
-        "content": "The United States government has intensified its pressure campaign against the Venezuelan regime, imposing sanctions on three nephews of President Nicolás Maduro and six shipping vessels. While ostensibly targeting the regime, such broad economic measures often disproportionately affect the country's most vulnerable populations, raising significant concerns about the humanitarian impact and the ethics of foreign policy interventions that exacerbate systemic challenges for ordinary Venezuelans.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/world/news/us-sanctions-3-maduros-nephews-6-oil-tankers-venezuela/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765515433901-4",
-        "headline": "Court Appearance for Charlie Kirk Murder Accused Spotlights Media Influence Concerns",
-        "content": "The individual accused in the high-profile killing of Charlie Kirk made their initial court appearance on Thursday, immediately bringing to light critical discussions around media access and its potential impact on due process. The presiding judge addressed concerns regarding the extent of media presence, underscoring the imperative to ensure a fair trial uninfluenced by sensationalism and public pressure, a cornerstone of an equitable justice system.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/nation/man-accused-of-killing-charlie-kirk-makes-1st-court-appearance",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-5",
-        "headline": "Tragic Pickleball Accident Highlights Urgent Need for Enhanced Public Safety Protocols",
-        "content": "A tragic incident, where a man fatally fell multiple stories while attempting to retrieve a pickleball that went over a safety railing, serves as a grim reminder of the need for robust public safety measures. Captured on video surveillance, this preventable death underscores systemic deficiencies in safety infrastructure and the crucial importance of clear, enforced public safety warnings to prevent similar incidents in hazardous areas.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/deadly-plunge-caught-camera-man-climbs-over-railing-retrieve-pickleball",
+        "id": "story-1765522738785-4",
+        "headline": "Major Convenience Store Closures Reveal Systemic Economic Failures and Threaten Community Lifelines",
+        "content": "A prominent national convenience store chain's announcement to close approximately 500 retail locations across the U.S. is a stark reminder of systemic economic shifts and their human cost. Citing changing consumer habits and market dynamics, the company's decision will inevitably lead to widespread job losses and create significant gaps in essential services for countless communities, underscoring the urgent need for policies that prioritize worker protection and community stability over corporate profits.",
+        "originalSource": "Google News / Business Reports",
+        "sourceUrl": "https://news.google.com/",
         "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765522738785-5",
+        "headline": "Catastrophic Flooding in Washington State Demands Urgent Climate Action and Systemic Resilience",
+        "content": "Washington State is currently enduring 'catastrophic' and life-threatening floods, a devastating manifestation of the escalating climate crisis. As extreme weather events become more frequent and severe, with massive amounts of debris choking swollen rivers, these disasters disproportionately impact vulnerable communities. This situation serves as an urgent call for robust governmental action to combat climate change, invest in sustainable infrastructure, and address the systemic inequities that leave some populations more exposed to environmental catastrophe.",
+        "originalSource": "Sky News / US Weather Reports",
+        "sourceUrl": "https://news.sky.com/us",
+        "publishedTime": "Yesterday"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765515433901-0",
+        "id": "story-1765522738785-0",
+        "headline": "US sanctions 3 of Maduro's nephews, 6 oil tankers amid pressure campaign on Venezuela",
+        "content": "The U.S. imposed sanctions on relatives of Venezuelan President Nicolás Maduro and several vessels transporting oil, an escalation which Venezuela's government has denounced as an act of 'piracy.' This action is part of a broader pressure campaign.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-1",
+        "headline": "Trump seeks to cut restrictions on marijuana through planned executive order",
+        "content": "Reports indicate that President Trump is planning to issue an executive order to reduce restrictions on marijuana, which would likely involve reclassifying the drug as less dangerous under federal law. This move comes amid speculation over his political strategy.",
+        "originalSource": "The Washington Post / Bloomberg",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1-4 hours ago"
+      },
+      {
+        "id": "story-1765522738785-2",
         "headline": "Indiana Republicans reject effort to redraw voting maps in rare rebuke to Trump",
-        "content": "Indiana Senate Republicans joined with Democrats to vote down a proposed congressional redistricting map, a rare bipartisan move that prompted public criticism from Donald Trump. The former President vowed to support a primary against a key GOP State Senate leader following the legislative defeat.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-reject-effort-to-redraw-voting-maps",
+        "content": "Indiana's Republican-controlled Senate voted with Democrats to defeat a proposed congressional map, a significant and unusual legislative rebuff to former President Donald Trump, who publicly criticized the state's Republican leadership.",
+        "originalSource": "Associated Press / PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-3",
+        "headline": "Grand jury again declines to indict Letitia James on mortgage fraud charges",
+        "content": "A federal grand jury has failed for a second time to secure an indictment against New York Attorney General Letitia James on mortgage fraud charges, ending a legal effort that had been pursued by the Justice Department.",
+        "originalSource": "The Guardian / Associated Press",
+        "sourceUrl": "https://www.theguardian.com/us-news",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765515433901-1",
-        "headline": "Trump pardons election official Tina Peters despite state-level charges",
-        "content": "Former President Trump announced a pardon for Tina Peters, the former Colorado county clerk convicted on state charges related to breaching voting machines. The action raises constitutional questions as presidential pardon power is traditionally limited to federal crimes, not state convictions.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-pardons-election-official-tina-peters-state-charges/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765515433901-2",
-        "headline": "Senate rejects plans to address sharp rise in health care premiums",
-        "content": "The U.S. Senate voted down both legislative bills aimed at extending Affordable Care Act (ACA) subsidies, which were designed to keep insurance costs down. This legislative failure all but ensures that millions of Americans will face a significant hike in their health insurance premiums starting in 2026.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/senate-rejects-plans-to-address-sharp-rise-in-health-care-premiums",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-3",
-        "headline": "U.S. sanctions three of Maduro's nephews and six oil tankers",
-        "content": "The United States government has ramped up its pressure campaign against the Venezuelan regime by imposing sanctions on three nephews of President Nicolás Maduro. The sanctions also targeted six shipping vessels accused of transporting Venezuelan oil, aiming to disrupt the country's energy exports.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/world/news/us-sanctions-3-maduros-nephews-6-oil-tankers-venezuela/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765515433901-4",
-        "headline": "Man accused of killing Charlie Kirk makes 1st court appearance",
-        "content": "The man accused of the killing of Charlie Kirk, a high-profile case, made his initial court appearance on Thursday. During the hearing, the presiding judge addressed and considered issues regarding the extent of media access allowed to the courtroom proceedings.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/nation/man-accused-of-killing-charlie-kirk-makes-1st-court-appearance",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-5",
-        "headline": "Deadly plunge caught on camera as man climbs over railing to retrieve pickleball",
-        "content": "A man tragically died after falling multiple stories from a high location while attempting to recover a pickleball that had gone over a safety railing. Authorities confirmed the fatal incident was captured on video surveillance, prompting a public safety warning regarding retrieving items in hazardous areas.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/deadly-plunge-caught-camera-man-climbs-over-railing-retrieve-pickleball",
+        "id": "story-1765522738785-4",
+        "headline": "Major convenience store chain closing 500 stores amid market shift",
+        "content": "A prominent national convenience store operator announced plans to close approximately 500 of its retail locations across the US. The company cited a shift in consumer habits and market dynamics as the primary reasons for the large-scale restructuring.",
+        "originalSource": "Google News / Business Reports",
+        "sourceUrl": "https://news.google.com/",
         "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765522738785-5",
+        "headline": "'Catastrophic,' life-threatening floods hitting Washington State, USA",
+        "content": "Washington State is grappling with severe, 'catastrophic' flooding that authorities have warned is life-threatening. The extreme weather event has led to dangerous conditions, with footage showing massive amounts of debris moving through swollen rivers.",
+        "originalSource": "Sky News / US Weather Reports",
+        "sourceUrl": "https://news.sky.com/us",
+        "publishedTime": "Yesterday"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765515433901-0",
-        "headline": "Indiana Republicans Stand Against Questionable Redistricting Effort, Drawing Criticism from President Trump",
-        "content": "Indiana Senate Republicans, in a rare bipartisan move, chose to vote down a proposed congressional redistricting map. This principled stand, which saw them join with Democrats, garnered public criticism from President Trump, who subsequently vowed to support a primary challenge against a key GOP State Senate leader. The move highlights a commitment to local governance and careful consideration of electoral maps, even when facing pressure.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-reject-effort-to-redraw-voting-maps",
+        "id": "story-1765522738785-0",
+        "headline": "America Upholds Liberty by Sanctioning Maduro's Corrupt Regime and Its Oil Lifeline",
+        "content": "The U.S. has justly imposed sanctions on relatives of Venezuela's dictator Nicolás Maduro and several vessels transporting illicit oil, a necessary escalation in the broader campaign to restore freedom. While the socialist Venezuelan government predictably denounces this action as 'piracy,' it is clearly a principled stand against tyranny.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-1",
+        "headline": "President Trump to Empower States, Reduce Federal Overreach by Reclassifying Marijuana",
+        "content": "Reports indicate that President Trump plans to issue an executive order aimed at reducing federal restrictions on marijuana. This move, likely to reclassify the drug as less dangerous under federal law, underscores a commitment to individual liberty and states' rights by limiting excessive federal intervention.",
+        "originalSource": "The Washington Post / Bloomberg",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1-4 hours ago"
+      },
+      {
+        "id": "story-1765522738785-2",
+        "headline": "Indiana GOP Prioritizes Legislative Prerogative, Defeats Congressional Map Despite President Trump's Critique",
+        "content": "Indiana's Republican-controlled Senate, exercising its independent legislative authority, voted with Democrats to defeat a proposed congressional map. This decision, an unusual legislative action, occurred despite public criticism from President Trump regarding the state's Republican leadership, demonstrating the commitment to legislative autonomy.",
+        "originalSource": "Associated Press / PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-3",
+        "headline": "Federal Grand Jury Fails Twice to Indict Letitia James Amid Mortgage Fraud Allegations",
+        "content": "For a second time, a federal grand jury has failed to secure an indictment against New York Attorney General Letitia James on mortgage fraud charges, effectively ending the legal effort pursued by the Justice Department. This repeated failure raises questions about the basis of the allegations.",
+        "originalSource": "The Guardian / Associated Press",
+        "sourceUrl": "https://www.theguardian.com/us-news",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765515433901-1",
-        "headline": "President Trump Pardons Election Integrity Advocate Tina Peters Amidst State Prosecution Concerns",
-        "content": "President Trump announced a full pardon for Tina Peters, the former Colorado county clerk who faced conviction on state charges related to alleged breaches of voting machines. This decisive action by President Trump, championing justice for an individual focused on election integrity, directly challenges the state-level prosecution and underscores a commitment to addressing concerns over election processes, despite some raising traditional interpretations of presidential pardon powers.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-pardons-election-official-tina-peters-state-charges/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765515433901-2",
-        "headline": "Senate Rejects More Flawed ACA Subsidies, Exposing True Costs of Government Healthcare",
-        "content": "The U.S. Senate voted down both legislative bills that aimed to extend Affordable Care Act (ACA) subsidies, which have artificially propped up insurance costs. This legislative failure ensures that millions of Americans will now face a significant hike in their health insurance premiums starting in 2026, a clear consequence of the ACA's inherent flaws and the unsustainable nature of government-controlled healthcare interventions.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/senate-rejects-plans-to-address-sharp-rise-in-health-care-premiums",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-3",
-        "headline": "United States Takes Decisive Action Against Maduro Regime, Targeting Corrupt Nephews and Illicit Oil Trade",
-        "content": "The United States government has intensified its pressure campaign against the oppressive Venezuelan regime by imposing sanctions on three nephews of dictator Nicolás Maduro. These critical sanctions also targeted six shipping vessels accused of illegally transporting Venezuelan oil, a firm step aimed at disrupting the country's illicit energy exports and holding the corrupt socialist leadership accountable for its abuses.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/world/news/us-sanctions-3-maduros-nephews-6-oil-tankers-venezuela/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765515433901-4",
-        "headline": "Accused Killer of Prominent Figure Charlie Kirk Appears in Court as Nation Demands Justice",
-        "content": "The individual accused of the heinous killing of Charlie Kirk, a case that has captured national attention, made his initial court appearance on Thursday. During the hearing, the presiding judge addressed and considered crucial issues regarding the extent of media access to the courtroom proceedings, ensuring that the pursuit of justice for the victim remains the paramount focus despite external distractions.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/nation/man-accused-of-killing-charlie-kirk-makes-1st-court-appearance",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-5",
-        "headline": "Tragic Death Highlights Personal Responsibility After Man Ignores Safety Warnings for Pickleball",
-        "content": "A tragic incident saw a man fall multiple stories to his death while attempting to retrieve a pickleball that had gone over a safety railing. Authorities confirmed this fatal plunge was captured on video surveillance, serving as a stark reminder of individual accountability and the critical importance of exercising personal responsibility and common sense when confronted with hazardous situations, rather than relying solely on external warnings.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/deadly-plunge-caught-camera-man-climbs-over-railing-retrieve-pickleball",
+        "id": "story-1765522738785-4",
+        "headline": "Convenience Store Giant Adapts to Evolving Market Demands by Closing 500 Locations",
+        "content": "A prominent national convenience store operator has announced plans to close approximately 500 of its retail locations across the U.S. The company cited a significant shift in consumer habits and evolving market dynamics, demonstrating the necessary adaptation within a free-market economy.",
+        "originalSource": "Google News / Business Reports",
+        "sourceUrl": "https://news.google.com/",
         "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765522738785-5",
+        "headline": "Washington State Confronts Devastating Floods, Local Communities Respond to Natural Disaster",
+        "content": "Washington State is currently grappling with severe, 'catastrophic' and life-threatening floods. Authorities have warned of dangerous conditions, with footage revealing massive amounts of debris moving through swollen rivers, underscoring the resilience required from local communities in the face of natural events.",
+        "originalSource": "Sky News / US Weather Reports",
+        "sourceUrl": "https://news.sky.com/us",
+        "publishedTime": "Yesterday"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765515433901-0",
-        "headline": "Indiana Republicans Stunned After Accidentally Doing The Right Thing, Enraging President Trump",
-        "content": "In a truly bewildering turn of events, a coalition of Indiana Senate Republicans and Democrats united this week to reject a proposed congressional redistricting map, leaving pundits and the public alike questioning if pigs had finally achieved flight. The shocking display of bipartisanship immediately drew the ire of President Trump, who reportedly vowed to personally primary every single Republican who dared to prioritize anything over his explicit desires, even if it meant a momentary lapse into good governance.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-reject-effort-to-redraw-voting-maps",
+        "id": "story-1765522738785-0",
+        "headline": "In Daring Move, U.S. Declares War On Maduro's Unsuspecting Nephews And Their Beloved Oil Tankers",
+        "content": "The U.S. government, in a bold and arguably petty escalation, has imposed sanctions on the immediate family of Venezuelan President Nicolás Maduro and several vessels, prompting Venezuela to cry 'piracy!' This unprecedented move is part of a broader, increasingly theatrical pressure campaign, leaving many to wonder if President Maduro's nephews even knew they were part of such a high-stakes geopolitical chess match until their yachts were suddenly off-limits.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-1",
+        "headline": "President Trump To Personally Reclassify Marijuana As 'Less Dangerous Than Being Bored,' Sources Say",
+        "content": "President Trump is reportedly gearing up to issue an executive order that would drastically reduce restrictions on marijuana, potentially reclassifying the herb as something akin to a mild annoyance rather than a Schedule I menace. Political pundits are scrambling to understand this surprising pivot, with some speculating President Trump simply wants to ensure everyone has a more 'mellow' experience while watching cable news, or perhaps he just really likes the color green.",
+        "originalSource": "The Washington Post / Bloomberg",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1-4 hours ago"
+      },
+      {
+        "id": "story-1765522738785-2",
+        "headline": "Indiana Republicans Unanimously Agree To Disagree With President Trump, Immediately Regret Bold Decision",
+        "content": "In an unprecedented act of collective defiance that will surely be studied by future political scientists, Indiana's Republican-controlled Senate joined forces with Democrats to spectacularly torpedo a proposed congressional map. This rare legislative rebuke to President Trump, who had publicly voiced his displeasure with the state's GOP leadership, left many Indiana Republicans reportedly questioning their life choices and wondering if they accidentally joined a different political party for a brief, glorious moment of independent thought.",
+        "originalSource": "Associated Press / PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-3",
+        "headline": "Grand Jury, Tired Of Seeing Letitia James's Face, Declines Indictment For Second Time",
+        "content": "A federal grand jury, reportedly suffering from severe eye-rolling fatigue, has for a second time refused to indict New York Attorney General Letitia James on mortgage fraud charges. The Justice Department, clearly a glutton for punishment, had diligently pursued these charges, only to be met with another collective shrug and a 'not enough evidence, again' from the increasingly exasperated jury. Sources close to the grand jury hinted they might just start giving out participation trophies at this point.",
+        "originalSource": "The Guardian / Associated Press",
+        "sourceUrl": "https://www.theguardian.com/us-news",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765515433901-1",
-        "headline": "President Trump Declares Self Supreme Ruler Of All Legal Systems, Pardons State Criminal",
-        "content": "In a stunning display of constitutional agility, President Trump has once again broadened the boundaries of presidential power by issuing a pardon to Tina Peters, a Colorado county clerk convicted on state charges for breaching voting machines. Legal scholars worldwide are currently experiencing collective brain hemorrhages, as traditional interpretations suggest presidential pardons apply exclusively to federal crimes. Sources close to the President indicate he may next offer pardons for overdue library books, poorly parked cars, and 'being generally annoying' under state statutes.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-pardons-election-official-tina-peters-state-charges/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765515433901-2",
-        "headline": "U.S. Senate Gallantly Ensures Americans Get More 'Character-Building' Healthcare Bills",
-        "content": "In a move lauded by masochists and fiscal conservatives alike, the U.S. Senate has bravely voted down two legislative bills that would have extended Affordable Care Act (ACA) subsidies. This courageous legislative failure guarantees millions of Americans will soon experience the exhilarating rush of significantly higher health insurance premiums starting in 2026. Senate leaders suggested the impending financial squeeze would foster 'greater personal responsibility' and 'a renewed appreciation for emergency room waiting rooms'.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/senate-rejects-plans-to-address-sharp-rise-in-health-care-premiums",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-3",
-        "headline": "U.S. Unleashes Fury On Maduro's Nephews' Allowance, Targets Emotionally Vulnerable Oil Tankers",
-        "content": "The United States government has escalated its war on Venezuelan kleptocracy by imposing devastating sanctions on three of President Nicolás Maduro's nephews and, in a remarkably specific move, six entirely innocent shipping vessels. Insiders report the nephews are now unable to afford their daily gold-flaked lattes, while the targeted oil tankers are said to be in 'deep emotional distress,' struggling with identity crises after being labeled 'vessels of ill repute.' Experts predict this bold strategy will definitely, absolutely work this time.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/world/news/us-sanctions-3-maduros-nephews-6-oil-tankers-venezuela/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765515433901-4",
-        "headline": "High-Profile Court Case For Charlie Kirk's Alleged Killer Generates Buzz, Reality TV Pitches",
-        "content": "The individual accused in the high-profile demise of conservative personality Charlie Kirk made their initial court appearance today, prompting an unprecedented media scrum and several unsolicited pitches for a new true-crime reality series. The presiding judge, clearly accustomed to the subdued atmosphere of such proceedings, bravely addressed concerns about media access, reportedly considering whether to install a red carpet for future celebrity witness arrivals. Sources confirm popcorn sales outside the courthouse are already through the roof.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/nation/man-accused-of-killing-charlie-kirk-makes-1st-court-appearance",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-5",
-        "headline": "Man Tragically Discovers Gravity Still Works While Attempting Pickleball Rescue",
-        "content": "In a shocking display of dedication to recreational sports, a man tragically plummeted to his death after scaling a safety railing to retrieve a stray pickleball. Authorities, baffled by the incident, confirmed the entire heroic, albeit fatal, rescue attempt was captured on surveillance video. In response, public safety officials have issued an urgent warning reminding citizens that gravity remains a constant force and that 'pickleball, while fun, is generally not worth dying for,' a statement many assumed was self-evident until now.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/deadly-plunge-caught-camera-man-climbs-over-railing-retrieve-pickleball",
+        "id": "story-1765522738785-4",
+        "headline": "Beloved Convenience Store Chain Shuts Down 500 Locations After Realizing Nobody Wants To Pay $7 For A Soda Anymore",
+        "content": "A prominent national convenience store operator has announced plans to shutter approximately 500 of its retail outposts across the US, citing a 'shift in consumer habits' and 'market dynamics.' Industry analysts suggest the real 'shift' is that people finally noticed they were paying premium prices for lukewarm hot dogs and stale coffee, opting instead for literally any other food source. The company expects loyal customers to mourn the loss of overpriced snacks and the uniquely depressing fluorescent lighting.",
+        "originalSource": "Google News / Business Reports",
+        "sourceUrl": "https://news.google.com/",
         "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765522738785-5",
+        "headline": "Washington State Officials Announce New State Motto: 'Just Add Water... Lots And Lots Of Water'",
+        "content": "Washington State is currently grappling with 'catastrophic' and 'life-threatening' floods, prompting authorities to issue dire warnings and residents to start building arks out of old garden sheds. The extreme weather has transformed once-quaint rivers into raging torrents of debris and existential dread, leading many to wonder if the state is attempting a dramatic, aquatic rebranding. Local geese are reportedly charging exorbitant fees for guided tours.",
+        "originalSource": "Sky News / US Weather Reports",
+        "sourceUrl": "https://news.sky.com/us",
+        "publishedTime": "Yesterday"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765515433901-0",
-        "headline": "Indiana Republicans Said No to New Voting Maps and President Trump Was Not Happy",
-        "content": "Some Republicans in Indiana's Senate worked with Democrats to say no to a new plan for voting areas. This doesn't happen very often, and it made President Trump quite mad. President Trump even said he would help someone else try to take away a top Republican leader's job because of it.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-reject-effort-to-redraw-voting-maps",
+        "id": "story-1765522738785-0",
+        "headline": "America is Punishing People Connected to Venezuela's Leader",
+        "content": "The United States is getting tough on Venezuela. They put punishments on some of President Nicolás Maduro's family members and on big ships that carry oil. Venezuela's government says this is like stealing. America is doing this to put more pressure on Venezuela.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-1",
+        "headline": "President Trump Might Make Marijuana Rules Less Strict Soon",
+        "content": "It looks like President Trump wants to make rules about marijuana a little easier. He might sign a special order that says marijuana isn't as dangerous as it's currently listed. People are guessing why he's doing this now.",
+        "originalSource": "The Washington Post / Bloomberg",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1-4 hours ago"
+      },
+      {
+        "id": "story-1765522738785-2",
+        "headline": "Indiana Lawmakers Said No to a Voting Map President Trump Didn't Like",
+        "content": "Something a little surprising happened in Indiana. The lawmakers there, even the Republicans, said 'no' to new voting maps. This was a big deal because President Trump had complained about the state's Republican leaders, but they still went against what he seemed to want.",
+        "originalSource": "Associated Press / PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-3",
+        "headline": "New York's Top Lawyer Will Not Face Mortgage Fraud Charges",
+        "content": "A special group of citizens, called a grand jury, decided for a second time not to say that New York's top lawyer, Letitia James, should be charged with cheating on mortgages. This means the legal effort by the government to charge her is now over.",
+        "originalSource": "The Guardian / Associated Press",
+        "sourceUrl": "https://www.theguardian.com/us-news",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765515433901-1",
-        "headline": "President Trump Forgives Election Worker Even Though She Broke State Laws",
-        "content": "President Trump said he forgave Tina Peters, who was a worker in Colorado. She got in trouble for messing with voting machines and broke state laws. People are wondering if President Trump is allowed to do that because, usually, presidents can only forgive people for breaking federal laws, not state laws.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-pardons-election-official-tina-peters-state-charges/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765515433901-2",
-        "headline": "Senators Said No to Plans That Could Make Health Care Cost More",
-        "content": "The U.S. Senate said no to two plans that would have helped people pay for their health insurance and make it cheaper. Because they said no, it means for sure that millions of people in America will have to pay a big jump in how much their health insurance costs starting in 2026.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/senate-rejects-plans-to-address-sharp-rise-in-health-care-premiums",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-3",
-        "headline": "USA Puts Rules on Maduro's Family and Oil Ships to Stop Venezuela's Oil Trade",
-        "content": "The United States government is trying harder to put pressure on the government of Venezuela. They put special rules on three nephews of Nicolás Maduro, who is the leader of Venezuela. They also put rules on six big boats that carry oil from Venezuela, trying to stop Venezuela from selling its oil to other countries.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/world/news/us-sanctions-3-maduros-nephews-6-oil-tankers-venezuela/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765515433901-4",
-        "headline": "Man Accused of Hurting Charlie Kirk a Lot Showed Up in Court",
-        "content": "The man who people say hurt Charlie Kirk badly, in a very famous case, went to court for the first time on Thursday. At the court meeting, the judge talked about how much the news cameras and reporters would be allowed in the room.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/nation/man-accused-of-killing-charlie-kirk-makes-1st-court-appearance",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-5",
-        "headline": "Man Falls to His Death Trying to Get Pickleball, Police Say Be Careful",
-        "content": "A man sadly died after falling from a very high place. He was trying to get a pickleball that had fallen over a fence. The police said a camera caught the whole thing. Now, everyone is being told to be super careful when getting things from dangerous spots.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/deadly-plunge-caught-camera-man-climbs-over-railing-retrieve-pickleball",
+        "id": "story-1765522738785-4",
+        "headline": "A Big Convenience Store Chain is Closing Many of Its Shops",
+        "content": "A really big store that sells snacks and gas is going to close about 500 of its shops all over America. The company said that people are shopping differently now, and that's why they are making these big changes.",
+        "originalSource": "Google News / Business Reports",
+        "sourceUrl": "https://news.google.com/",
         "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765522738785-5",
+        "headline": "Really Bad Floods Are Happening in Washington State Right Now",
+        "content": "Washington State is having some really, really bad floods. People in charge say these floods are super dangerous and could hurt people. There's tons of stuff floating in the rivers, making everything messy and unsafe.",
+        "originalSource": "Sky News / US Weather Reports",
+        "sourceUrl": "https://news.sky.com/us",
+        "publishedTime": "Yesterday"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765515433901-0",
-        "headline": "The Unseen Lines",
-        "content": "Indiana’s capitol buzzed, not with usual partisan rancor, but a rare alliance. Republicans, hand-in-hand with Democrats, struck down the proposed voting map. The audacious defiance echoed far, reaching the highest office. President Trump, enraged by the unexpected unity, vowed immediate political retribution. A key GOP state senator found himself a sudden target, the looming threat of a primary challenge now shadowing his future. The lines on the map were invisible, but the divisions they created, and the unexpected bridges built, were stark. A simple vote shifted more than district boundaries; it drew battle lines within the party itself.",
-        "originalSource": "The Guardian",
-        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-reject-effort-to-redraw-voting-maps",
+        "id": "story-1765522738785-0",
+        "headline": "The Viper's Embrace on the Caribbean Shore",
+        "content": "The economic vice tightened around the Caribbean nation. Washington’s decree landed, striking at the very roots of power. Three nephews of the defiant President Nicolás Maduro found their assets frozen, their names whispered in financial warnings. Six oil tankers, once silent giants of commerce, were now branded as pariahs, their journeys halted. Caracas roared, labeling the U.S. move an act of \"piracy,\" a blatant violation of sovereignty. Yet, the pressure campaign escalated, a relentless, quiet war waged with sanctions, aiming to starve the regime of its lifeline. The global chessboard shifted, pawn by pawn.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/us-news/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-1",
+        "headline": "The Green Tide of Executive Power",
+        "content": "Whispers grew into a roar in the Capitol halls. President Trump, ever the strategist, was reportedly preparing an executive order that could rewrite federal drug policy. The target: marijuana. Sources suggested a reclassification, lifting the long-held stigma and deeming the plant less dangerous under federal law. It was a move that promised to shake up industries, appease advocates, and undoubtedly ignite political debate. The decision, shrouded in speculation, hinted at a bold stroke, perhaps to galvanize a new wave of support, painting a surprising shade of green on his campaign canvas.",
+        "originalSource": "The Washington Post / Bloomberg",
+        "sourceUrl": "https://www.washingtonpost.com/",
+        "publishedTime": "1-4 hours ago"
+      },
+      {
+        "id": "story-1765522738785-2",
+        "headline": "The Unyielding Voice of the Hoosier State",
+        "content": "In Indiana, a political tremor ran through the Republican-controlled Senate. When a new congressional map was presented, intended to reshape the state's electoral future, a surprising alliance formed. Republicans, in a rare act of defiance, joined forces with Democrats, casting a collective \"nay.\" The rejection was a legislative thunderclap, echoing a public rebuke of President Trump, who had openly scorned the state's Republican leaders for their initial map proposals. It was a stark reminder that even within the party, there were lines that, once crossed, could provoke an unexpected stand.",
+        "originalSource": "Associated Press / PBS News",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "Dec 11"
+      },
+      {
+        "id": "story-1765522738785-3",
+        "headline": "The Grand Jury's Unseen Shield",
+        "content": "For New York Attorney General Letitia James, a legal shadow finally lifted. A federal grand jury, after rigorous deliberation, had once again declined to issue an indictment against her. The charges, stemming from alleged mortgage fraud, had been a persistent legal cloud, a target of the Justice Department's determined pursuit. Yet, for the second time, the process found no sufficient grounds to proceed. The grand jury's silent verdict marked the end of a protracted legal battle, allowing James to emerge, her name cleared of the accusations that had hung heavy in the air.",
+        "originalSource": "The Guardian / Associated Press",
+        "sourceUrl": "https://www.theguardian.com/us-news",
         "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765515433901-1",
-        "headline": "The Sovereign's Reach",
-        "content": "Tina Peters, a Colorado county clerk, faced state charges for breaching voting machines—a grave offense. Yet, a presidential decree descended, a pardon from President Trump himself. The announcement, a surprising act of clemency, sent ripples through legal circles. Traditionally, a president’s power extends to federal crimes, leaving state convictions untouched. This unusual intervention sparked constitutional debate: just how far did the sovereign’s reach truly extend? Peters walked free, but the legal precedent, and the questions it raised about the separation of powers, lingered long after the ink dried on the pardon.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us/news/trump-pardons-election-official-tina-peters-state-charges/",
-        "publishedTime": "6 hours ago"
-      },
-      {
-        "id": "story-1765515433901-2",
-        "headline": "The Looming Bill",
-        "content": "A sigh of collective despair swept through the Senate chambers. Two critical bills, designed to extend Affordable Care Act subsidies and shield millions from spiraling health costs, had fallen. The votes were cast, the outcome decided: no extension. As the legislative dust settled, a stark reality emerged. Without these protections, an undeniable truth solidified: come 2026, millions of Americans would face substantial increases in their health insurance premiums. The cost of medical security, once within reach for many, now threatened to become a luxury once more, a heavy burden descending upon countless households.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/politics/senate-rejects-plans-to-address-sharp-rise-in-health-care-premiums",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-3",
-        "headline": "Oil and Kin",
-        "content": "The long arm of American policy tightened its grip on Venezuela. A new wave of sanctions targeted three of President Nicolás Maduro’s nephews, striking close to the regime’s heart. Simultaneously, six massive shipping vessels, their hulls laden with Venezuelan crude, were blacklisted. The message was clear, delivered with economic force: disrupt the flow of oil, cripple the state’s revenue, and amplify the pressure on the embattled South American nation. The international chess match continued, now with specific family members and vital transport links as pawns, each move calculated to destabilize a regime.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/world/news/us-sanctions-3-maduros-nephews-6-oil-tankers-venezuela/",
-        "publishedTime": "5 hours ago"
-      },
-      {
-        "id": "story-1765515433901-4",
-        "headline": "Shadows in the Dock",
-        "content": "The courtroom hushed as the accused, a figure at the center of a high-profile case, made his first public appearance. This was the man charged with the killing of Charlie Kirk, a name that resonated with tragedy and public interest. The judge, presiding over the initial hearing, grappled not just with legalities, but with the omnipresent eye of the media. Discussions turned to the delicate balance: public right to know versus the sanctity of the trial. Outside, cameras flashed; inside, the wheels of justice began their slow, deliberate turn, watched by many.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://www.pbs.org/newshour/nation/man-accused-of-killing-charlie-kirk-makes-1st-court-appearance",
-        "publishedTime": "4 hours ago"
-      },
-      {
-        "id": "story-1765515433901-5",
-        "headline": "A Costly Retrieval",
-        "content": "The rogue pickleball bounced, a playful escape over the safety railing. In a fleeting moment of impulse, a man climbed, stretching for the errant sphere, oblivious to the void beneath. Then, a sickening lurch, a fatal slip. He plummeted multiple stories, the tragic descent captured by unblinking surveillance cameras. His body lay still, the innocent game ball a silent witness to the ultimate price paid for a trivial retrieval. Authorities, grim-faced, later issued a stark warning: no item, however small, was worth the perilous risk of defying safety barriers.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/us/deadly-plunge-caught-camera-man-climbs-over-railing-retrieve-pickleball",
+        "id": "story-1765522738785-4",
+        "headline": "The Fading Glow of Midnight Lights",
+        "content": "The familiar beacon of the corner store was dimming across America. A national convenience store giant announced a stark change: 500 locations, once bustling hubs of late-night snacks and quick stops, would close their doors forever. The company, facing the cold reality of evolving commerce, cited a profound shift in consumer habits. Online shopping, delivery services, and changing daily routines had reshaped the market, rendering brick-and-mortar operations unsustainable for hundreds of outlets. The landscape of convenience was being redrawn, leaving empty shelves and quiet parking lots in its wake.",
+        "originalSource": "Google News / Business Reports",
+        "sourceUrl": "https://news.google.com/",
         "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765522738785-5",
+        "headline": "When the Rivers Roared in Washington",
+        "content": "Washington State braced against nature’s wrath. Rain-swollen rivers, once serene veins of the landscape, transformed into roaring torrents, carrying trees and homes in their relentless surge. Authorities issued dire warnings: \"catastrophic\" and \"life-threatening\" floods were upon them. Roads vanished, communities isolated, and the sheer volume of water overwhelmed everything in its path. Footage captured the terrifying power of the current, a churning soup of debris and sediment, a stark testament to the extreme weather event. The state held its breath, praying for the skies to clear and the waters to recede.",
+        "originalSource": "Sky News / US Weather Reports",
+        "sourceUrl": "https://news.sky.com/us",
+        "publishedTime": "Yesterday"
       }
     ]
   }
