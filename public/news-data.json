@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765579294638,
+  "timestamp": 1765597347796,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765579208576-0",
-        "headline": "Historic Preservation Group Challenges President Trump's East Wing Demolition Plan, Citing Disregard for Public Heritage",
-        "content": "The National Trust for Historic Preservation has initiated legal action against President Trump's proposed White House ballroom project, which shockingly involves razing the historic East Wing. This move raises serious concerns about the administration's blatant disregard for established preservation protocols and environmental assessments. Critics argue that such a unilateral decision undermines the integrity of public heritage and demonstrates a troubling pattern of prioritizing private vanity over responsible stewardship of national treasures.",
+        "id": "story-1765597266282-0",
+        "headline": "Republican Infighting Reveals Systemic Dysfunction, Hindering National Progress",
+        "content": "Deep-seated divisions within the House Republican majority continue to paralyze legislative efforts, as members openly defy Speaker Mike Johnson's leadership. This persistent internal strife is not merely a political spat but a symptom of a larger systemic dysfunction within the conservative movement, preventing the government from addressing critical national challenges and serving the public interest.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-1",
+        "headline": "Expiring ACA Credits Threaten Healthcare Access for Millions, Exposing Systemic Vulnerabilities",
+        "content": "Millions of American families face a looming healthcare crisis as expanded Affordable Care Act (ACA) tax credits are set to expire, threatening to double monthly premiums. This legislative inaction underscores a systemic failure to guarantee affordable healthcare as a fundamental right, exacerbating existing inequalities and creating immense financial hardship for those who rely on these vital subsidies.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-2",
+        "headline": "Allegations Against Former Coach Highlight Systemic Issues of Power and Gender-Based Violence",
+        "content": "The formal charges against former University of Michigan football coach Sherrone Moore, including home invasion and stalking, bring to light critical systemic issues surrounding power dynamics and gender-based violence. This incident serves as a stark reminder of the urgent need for robust accountability mechanisms within prominent institutions, ensuring that individuals in positions of authority cannot abuse their power or evade justice for harmful actions.",
+        "originalSource": "AP News",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765597266282-3",
+        "headline": "Epstein Photo Release Renews Demands for Accountability Among Powerful Elites in Systemic Exploitation",
+        "content": "Newly released photos from Jeffrey Epstein's network, featuring President Trump, Bill Clinton, and other prominent figures, reignite crucial public scrutiny into the systemic exploitation enabled by powerful elites. This development underscores the imperative for a thorough, transparent investigation and full accountability for all individuals involved, irrespective of their political or social standing, to dismantle the networks that protect the ultra-wealthy from justice.",
         "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "38 mins ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765579208576-1",
-        "headline": "Republican Infighting Continues to Paralyze House Function Under Speaker Johnson's Wavering Leadership",
-        "content": "Persistent internal dissent among House Republicans is further eroding Speaker Mike Johnson's already fragile control over the chamber. This ongoing ideological fracturing within the party highlights a systemic inability to govern effectively, leading to significant frustrations that impede crucial legislative progress. The constant internal battles threaten the House's operational capacity and its ability to address pressing national issues, underscoring the deep-seated dysfunction within conservative leadership.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
+        "id": "story-1765597266282-4",
+        "headline": "U.S. Seizure of Oil Tanker Escalates Intervention in Venezuela, Raising Humanitarian Concerns",
+        "content": "President Trump's administration has intensified its campaign against Venezuela by seizing an oil tanker, escalating efforts to choke off vital oil revenues. This aggressive intervention, targeting the 'shadow fleet' circumventing sanctions, raises serious concerns about its potential humanitarian impact on ordinary Venezuelan citizens and its broader implications for geopolitical stability, questioning the efficacy and ethics of such unilateral coercive measures.",
+        "originalSource": "Associated Press (via PBS NewsHour)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765579208576-2",
-        "headline": "Healthcare Access for Millions is Threatened as Critical ACA Subsidies Are Allowed to Expire",
-        "content": "Millions of working-class Americans are facing a devastating blow to their healthcare access as the vital Affordable Care Act subsidies are set to vanish, potentially doubling their monthly insurance costs. This impending crisis, where some individuals could pay an additional $1,100 per month, reveals a systemic failure to prioritize the health and economic stability of the most vulnerable. It underscores the urgent need for a robust, universal healthcare system that guarantees affordability and access for all, rather than leaving millions at the mercy of expiring provisions.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-3",
-        "headline": "New Epstein Photos Expose Disturbing Links Between Powerful Elites and Alleged Sex Trafficking Network",
-        "content": "House Democrats have unveiled photographs from Jeffrey Epstein's personal collection, revealing troubling associations with prominent figures like President Trump, Steve Bannon, and Bill Clinton. This disclosure intensifies scrutiny on the shadowy network of influence that allegedly enabled Epstein's heinous crimes. It reinforces the urgent demand for comprehensive investigations into how powerful individuals across political and social spectrums may have benefited from or been complicit in a system of abuse, demanding accountability regardless of status.",
+        "id": "story-1765597266282-5",
+        "headline": "Mass Lawsuit Exposes Systemic Failure to Protect Patients in Military Healthcare System",
+        "content": "Eighty-one women have filed a civil lawsuit against a former U.S. Army gynecologist, alleging widespread abuse and misconduct over many years. This collective action highlights a grave systemic failure within the military's healthcare system to adequately protect vulnerable patients, demanding comprehensive institutional reforms and accountability beyond the individual perpetrator to ensure patient safety and justice.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCO0okVFfLxGoU8Cek5uRnzTwGf8mMegY14yoiH1XSUKdr_lpzICRiueZDsYGO8PGkKc5o0aldgQgn8RByDilRFVsL4ySPg-zJnfxDau9jMrIWS6dI6o0GCjGbLQ==",
-        "publishedTime": "53m ago"
-      },
-      {
-        "id": "story-1765579208576-4",
-        "headline": "President Trump's Executive Order Seeks to Consolidate AI Regulation, Potentially Undermining State Protections",
-        "content": "President Trump has issued an executive order aimed at preempting state-level artificial intelligence regulations, centralizing control over this critical emerging technology. This move raises significant concerns about a potential power grab that could diminish the ability of states to implement tailored protections and ethical guidelines. Critics argue that a standardized federal approach, potentially driven by corporate lobbying, risks neglecting diverse community needs and local control, paving the way for unchecked technological power without adequate public oversight.",
-        "originalSource": "Associated Press (via PBS News)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-5",
-        "headline": "Lack of Transparency Surrounds Secret FBI Meetings with Ukraine Amid Troubling Calls for Ceding Territory",
-        "content": "Reports of confidential meetings between FBI Director Kash Patel, his deputy Dan Bongino, and Ukraine's chief delegate have ignited serious concerns about governmental transparency and ethical diplomatic practices. These covert discussions are unfolding amidst an aggressive U.S. campaign pressuring Kyiv to consider territorial concessions for 'peace,' raising profound questions about the U.S. government's private strategies. Such clandestine maneuvers, devoid of public oversight, risk undermining democratic accountability and potentially push policies that do not align with broader international principles or long-term justice.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yoyrP14Hbncf979MpWcGUB4IVgOlh5PHW-yKIbOIypvSQhBXP22BctinaY07lUr4SH3D31X1_p1ElKzqN8_lsolrOAB7d_tNYH4NiHgqD5l2fpqHytzZ_1U=",
-        "publishedTime": "Within 24 hours"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765579208576-0",
-        "headline": "National Trust sues to stop Trump's White House ballroom construction",
-        "content": "The National Trust for Historic Preservation, a privately funded group, filed a lawsuit asking the U.S. District Court to block President Trump's White House ballroom project. The suit argues the renovation, which involved razing the East Wing, must first go through comprehensive design reviews and environmental assessments before proceeding further.",
-        "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "38 mins ago"
-      },
-      {
-        "id": "story-1765579208576-1",
+        "id": "story-1765597266282-0",
         "headline": "Johnson's grip on the House slips as Republicans defy leadership",
-        "content": "House Republicans have repeatedly defied Speaker Mike Johnson's leadership, contributing to a growing sense of frustration within the party. This dissent indicates Johnson's control over the fractured Republican majority is slipping, posing internal challenges for the House's operations and agenda setting.",
+        "content": "House Republicans have repeatedly defied Speaker Mike Johnson's leadership amid growing frustration over his handling of the fractious majority. The internal struggles indicate a weakening hold on his position, with some members openly rejecting his direction on key votes and legislative strategy, further complicating the GOP's efforts to govern.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
-        "publishedTime": "2 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
       },
       {
-        "id": "story-1765579208576-2",
+        "id": "story-1765597266282-1",
         "headline": "Millions of Americans could see health plan costs double as ACA credits vanish",
-        "content": "Millions of Americans face the possibility of their health insurance costs doubling because the Affordable Care Act subsidies, or ACA credits, are set to expire. Some individuals with ACA plans report they will face an additional cost of over $1,100 per month starting in January, raising significant concerns about affordability.",
+        "content": "Millions of Americans who rely on the Affordable Care Act (ACA) for subsidized healthcare are facing a potential crisis as expanded tax credits are set to expire. Without a legislative extension, many will see their monthly premiums double starting in January, leading to financial hardship and uncertainty for families across the country.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-2",
+        "headline": "Former Michigan coach Sherrone Moore charged with home invasion, stalking",
+        "content": "Former University of Michigan football coach Sherrone Moore, 39, was formally charged with a third-degree felony of home invasion, along with misdemeanor counts of stalking and breaking and entering. He was fired from his position and is accused of illegally entering the home of a woman he was allegedly romantically involved with, appearing remotely from jail for the arraignment.",
+        "originalSource": "AP News",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765597266282-3",
+        "headline": "House Democrats release photos of Trump, Clinton, and others from Epstein's estate",
+        "content": "House Democrats released never-before-seen photos from Jeffrey Epstein's personal collection, which include images of Donald Trump, Bill Clinton, Steve Bannon, and other notable figures. The release is part of an ongoing investigation into the late financier's network and has reignited public scrutiny over the high-profile individuals associated with his disgraced operation.",
+        "originalSource": "PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "4 hours ago"
+      },
+      {
+        "id": "story-1765597266282-4",
+        "headline": "Seizure of rogue oil tanker off Venezuela signals new U.S. crackdown on shadow fleet",
+        "content": "The U.S. government dramatically escalated its campaign against Venezuelan leader Nicolás Maduro by seizing an oil tanker known as Skipper off the country's coast. This action is part of President Trump's efforts to choke off Maduro's access to vital oil revenues and signals a new crackdown targeting the 'shadow fleet' of vessels used to circumvent international sanctions.",
+        "originalSource": "Associated Press (via PBS NewsHour)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765579208576-3",
-        "headline": "House Democrats release Epstein photos with Trump, Bannon, Clinton and others",
-        "content": "House Democrats released photographs from the personal collection of Jeffrey Epstein that reportedly feature prominent figures including Donald Trump, Steve Bannon, and Bill Clinton. The release adds a new layer to the ongoing public and legal scrutiny surrounding Epstein's connections and the extent of his social and political network.",
+        "id": "story-1765597266282-5",
+        "headline": "81 women file civil suit against army gynecologist already charged criminally",
+        "content": "Eighty-one women have filed a civil lawsuit against a former U.S. Army gynecologist, who is already facing criminal charges related to patient sexual assault and misconduct. The lawsuit alleges a pattern of abuse during medical examinations and highlights a systemic failure within the military's healthcare system to protect patients from a doctor who had been operating for years.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCO0okVFfLxGoU8Cek5uRnzTwGf8mMegY14yoiH1XSUKdr_lpzICRiueZDsYGO8PGkKc5o0aldgQgn8RByDilRFVsL4ySPg-zJnfxDau9jMrIWS6dI6o0GCjGbLQ==",
-        "publishedTime": "53m ago"
-      },
-      {
-        "id": "story-1765579208576-4",
-        "headline": "Trump signs executive order to override AI regulations by states",
-        "content": "President Trump signed an executive order intended to preempt state-level regulations on artificial intelligence technology. The order signals a move towards federal standardization of AI governance, which has triggered debate among policymakers over the division of authority in regulating emerging and complex technologies across the nation.",
-        "originalSource": "Associated Press (via PBS News)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-5",
-        "headline": "Secret meetings between FBI and Ukraine negotiator spark concern",
-        "content": "Concerns have emerged following reports of confidential meetings between FBI Director Kash Patel, his deputy, Dan Bongino, and Ukraine's chief delegate. The meetings are occurring amid an aggressive U.S. campaign to press Kyiv to consider ceding territory for peace, prompting questions about the U.S. government's private diplomatic strategies.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yoyrP14Hbncf979MpWcGUB4IVgOlh5PHW-yKIbOIypvSQhBXP22BctinaY07lUr4SH3D31X1_p1ElKzqN8_lsolrOAB7d_tNYH4NiHgqD5l2fpqHytzZ_1U=",
-        "publishedTime": "Within 24 hours"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765579208576-0",
-        "headline": "Elite Preservation Group Attempts to Undermine President Trump's White House Improvements",
-        "content": "A privately funded, unelected organization, the National Trust for Historic Preservation, has launched a baseless lawsuit aimed at halting President Trump's vital White House ballroom construction project. This move, challenging the President's vision for enhancing the Executive Mansion, demands unnecessary design reviews and environmental assessments, needlessly delaying crucial upgrades and undermining the President's authority to modernize and maintain this iconic symbol of American liberty.",
+        "id": "story-1765597266282-0",
+        "headline": "House Republicans Demand Stronger Leadership Amidst Internal Divisions",
+        "content": "A growing number of principled House Republicans are openly challenging Speaker Mike Johnson's leadership, expressing deep frustration over his perceived handling of the conservative agenda within the fractious majority. These internal struggles highlight the critical need for a strong, unified front to advance traditional American values and effectively govern, lest the GOP succumb to internal discord at a time when robust leadership is paramount for liberty.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-1",
+        "headline": "Obamacare's Flaws Exposed as Government Subsidies Threaten Healthcare Costs",
+        "content": "Millions of Americans face a harsh reality as expanded tax credits under the deeply flawed Affordable Care Act (ACA) are set to expire, potentially doubling monthly premiums for many. This looming crisis underscores the inherent unsustainability of government-centric healthcare models and their reliance on taxpayer-funded subsidies, which distort markets and ultimately burden families. True reform demands a return to free-market principles and individual choice, not more government overreach.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-2",
+        "headline": "Law and Order Prevails: Ex-Coach Faces Charges for Egregious Crimes",
+        "content": "Former University of Michigan football coach Sherrone Moore, 39, now faces serious felony charges including home invasion, along with misdemeanor counts of stalking and breaking and entering. This case serves as a stark reminder that no individual, regardless of public stature, is above the law. Justice demands full accountability for such egregious violations of personal safety and property rights, upholding the foundational principles of a secure and ordered society.",
+        "originalSource": "AP News",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765597266282-3",
+        "headline": "Justice Demanded: Epstein's Network of Powerful Elites Under Renewed Scrutiny",
+        "content": "House Democrats have released various photos from Jeffrey Epstein's private collection, featuring prominent individuals including President Trump, Bill Clinton, and Steve Bannon. This release reignites vital public scrutiny into Epstein's vile network, underscoring the imperative for a complete and unbiased investigation. All those associated with Epstein's abhorrent crimes must be held fully accountable, regardless of their political affiliation or societal status, ensuring justice for victims and upholding moral standards.",
         "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "38 mins ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765579208576-1",
-        "headline": "Principled House Republicans Challenge Leadership, Seeking Stronger Conservative Stance",
-        "content": "A discernible tension is emerging within the House Republican conference as dedicated conservatives prioritize fundamental principles over party unity, presenting challenges to Speaker Mike Johnson's leadership. This internal debate reflects a healthy commitment to core conservative values and a desire for decisive action, signaling a necessary re-evaluation of the party's direction and agenda to truly represent the will of the people.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
+        "id": "story-1765597266282-4",
+        "headline": "President Trump's Decisive Action Curbs Maduro's Illicit Oil Operations",
+        "content": "The U.S. government, under President Trump's resolute leadership, has significantly intensified its campaign against Venezuela's illegitimate Nicolás Maduro regime by seizing the oil tanker Skipper. This decisive action is a critical component of President Trump's unwavering commitment to choke off Maduro's vital oil revenues and dismantle the 'shadow fleet' enabling sanctions evasion, thereby asserting American strength and upholding international law against dictatorial aggression.",
+        "originalSource": "Associated Press (via PBS NewsHour)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765579208576-2",
-        "headline": "Obamacare's Unraveling: Millions Face Crippling Costs as Unsustainable Subsidies Expire",
-        "content": "Millions of hard-working Americans are on the precipice of seeing their health insurance expenses skyrocket, potentially doubling, as the flawed Affordable Care Act subsidies, or 'ACA credits,' are set to vanish. This looming crisis vividly exposes the unsustainable nature and fundamental failures of government-mandated healthcare, with some individuals facing an additional $1,100 or more per month, underscoring the urgent need for market-driven solutions that prioritize individual liberty and true affordability over bureaucratic overreach.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-3",
-        "headline": "Democrats Play Politics with Epstein Scandal, Releasing Photos to Distract from Key Connections",
-        "content": "In a transparently political maneuver, House Democrats have released photographs from Jeffrey Epstein's private collection, featuring various prominent figures including President Trump, Steve Bannon, and Bill Clinton. This selective release, clearly timed to create a media spectacle, adds another dimension to the ongoing public examination of Epstein's unsavory network, with many questioning why Democrats are so eager to highlight certain individuals while potentially deflecting from the deeper, more problematic connections that have long been discussed.",
+        "id": "story-1765597266282-5",
+        "headline": "Upholding Standards: Victims Seek Justice Against Abusive Army Gynecologist",
+        "content": "Eighty-one women have bravely filed a civil lawsuit against a former U.S. Army gynecologist, already facing criminal charges for alleged sexual assault and misconduct. This horrifying situation exposes a profound betrayal of trust within the military's healthcare system and demands full accountability not only for the alleged perpetrator but also for any systemic failures that allowed such abuses to persist, ensuring justice for victims and restoring faith in our institutions.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCO0okVFfLxGoU8Cek5uRnzTwGf8mMegY14yoiH1XSUKdr_lpzICRiueZDsYGO8PGkKc5o0aldgQgn8RByDilRFVsL4ySPg-zJnfxDau9jMrIWS6dI6o0GCjGbLQ==",
-        "publishedTime": "53m ago"
-      },
-      {
-        "id": "story-1765579208576-4",
-        "headline": "President Trump Unleashes American Innovation, Standardizing AI Regulation to Prevent State Obstruction",
-        "content": "President Trump has taken decisive action, signing an executive order to preempt a confusing and stifling patchwork of state-level regulations on artificial intelligence technology. This bold move asserts federal leadership, ensuring American ingenuity remains at the forefront of global AI development by fostering a unified regulatory environment that champions economic liberty, streamlines progress, and prevents bureaucratic overreach from hindering critical technological advancement across the nation.",
-        "originalSource": "Associated Press (via PBS News)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-5",
-        "headline": "Strategic Diplomacy Advances Peace: FBI Officials Engage Ukraine Amid Critical U.S. Push",
-        "content": "Reports of confidential meetings involving key figures like FBI Director Kash Patel and his deputy, Dan Bongino, with Ukraine's chief delegate highlight robust and necessary back-channel diplomacy. These discussions are integral to a determined U.S. campaign to press Kyiv towards a pragmatic peace, potentially involving territorial considerations. Such strategic engagements, while often conducted discreetly for effectiveness, are vital for advancing American foreign policy interests and navigating complex international landscapes, despite predictable attempts to sow unwarranted concern.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yoyrP14Hbncf979MpWcGUB4IVgOlh5PHW-yKIbOIypvSQhBXP22BctinaY07lUr4SH3D31X1_p1ElKzqN8_lsolrOAB7d_tNYH4NiHgqD5l2fpqHytzZ_1U=",
-        "publishedTime": "Within 24 hours"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765579208576-0",
-        "headline": "National Trust Heroically Intervenes to Save White House From Becoming 'Too Fun' After President Trump's Ballroom Plan Unveiled",
-        "content": "A valiant, privately funded collective of history enthusiasts, the National Trust for Historic Preservation, has bravely filed a lawsuit to halt President Trump's audacious plan to convert the entire East Wing of the White House into a ballroom. The group's legal eagles argue that such an egregious act of fun, which would involve merely razing a few \"historic\" walls for optimal dance floor real estate, must first undergo rigorous aesthetic approval and a groundbreaking environmental impact study on potential glitter runoff. Sources close to the Trust suggest they're primarily concerned that the sheer volume of \"yuge\" parties might upset the ghosts of former presidents, who are notoriously averse to good times.",
+        "id": "story-1765597266282-0",
+        "headline": "Speaker Johnson Discovers House Republicans Have Been Operating Autonomously for Months",
+        "content": "A visibly perplexed Speaker Mike Johnson reportedly stumbled upon a shocking revelation this week: his Republican colleagues in the House have been, for all intents and purposes, running themselves. Sources close to the Speaker confirmed he was under the impression he was 'leading' the party, only to find out many members were openly defying his directives and crafting legislative strategies entirely independent of his oversight. 'It's like I'm the designated driver, but everyone else brought their own car and drove off hours ago,' a bewildered Johnson reportedly quipped, while frantically Googling 'What does a Speaker of the House actually do?'",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-1",
+        "headline": "Americans Faced With Difficult Choice: Healthcare or Three Quarters of a Fancy Coffee Every Day",
+        "content": "Millions of Americans are bracing for a tough financial decision as expanded Affordable Care Act tax credits prepare for a dramatic vanishing act. Experts predict that starting in January, many families will see their monthly health insurance premiums double, forcing them to re-evaluate their priorities. 'Do I really *need* that daily latte, or can I survive on just 75% of one so I can afford to not die?' pondered one concerned citizen, while calculating if they could barter their avocado toast for a single aspirin. The looming crisis is expected to usher in a new era of 'premium budgeting,' where vital medical care competes directly with minor, daily indulgences.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-2",
+        "headline": "Former Coach Moore Allegedly Used Highly-Regarded Michigan Playbook for 'Home Invasion' Strategy",
+        "content": "Former University of Michigan football coach Sherrone Moore, 39, has been formally charged with an array of offenses including third-degree felony home invasion, prompting speculation that he may have applied his formidable coaching skills to an entirely new 'game plan.' Prosecutors allege Moore meticulously scouted the residence of a woman he was romantically involved with, employing tactics usually reserved for outsmarting rival Big Ten defenses. Legal analysts suggest his defense team might argue he was merely 'extending a full-court press' or 'executing a daring end-around' to gain entry, though the charges ultimately stand as rather un-sporting conduct.",
+        "originalSource": "AP News",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765597266282-3",
+        "headline": "Nation Stunned to Discover Powerful Men Attended Parties With Other Powerful Men",
+        "content": "In a bombshell exposé that absolutely nobody could have seen coming, House Democrats have released a series of never-before-seen photos from Jeffrey Epstein's estate, revealing the shocking presence of powerful men at social gatherings. The images, which include President Trump, Bill Clinton, and Steve Bannon, reportedly depict individuals 'engaging in the shocking act of standing in close proximity to one another.' While the public had previously assumed Epstein's entire network was comprised exclusively of low-ranking interns and sentient garden gnomes, the new evidence confirms that influential figures did indeed, on occasion, attend events in the same physical space. Investigators are reportedly baffled by this unprecedented convergence of human beings.",
         "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "38 mins ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765579208576-1",
-        "headline": "Speaker Johnson's Leadership Reduced to Enthusiastically Clapping at His Own Ideas While House Republicans Do Literally Anything Else",
-        "content": "Sources deep within the Capitol's labyrinthine halls report that Speaker Mike Johnson's once-iron-clad grip on the House has officially devolved into a gentle caress, then an absentminded pat, and now, perhaps, just a hopeful wave from across the room. Republican members, seemingly operating on an advanced form of political telepathy that excludes their leader, have continued to defy his directives with such consistency that many are questioning if Johnson is even aware he's in charge. Insiders claim the Speaker now spends most of his days practicing motivational speeches in front of a mirror, occasionally wondering if the echo counts as \"bipartisan support.\"",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
+        "id": "story-1765597266282-4",
+        "headline": "U.S. Navy Successfully Intercepts Venezuela's 'Ghost Ship' Full Of Clearly Labeled Sanctioned Oil",
+        "content": "In a dramatic display of maritime enforcement, the U.S. government announced the heroic seizure of the rogue oil tanker 'Skipper' off the coast of Venezuela, effectively thwarting Nicolás Maduro's desperate attempt to move 'definitely sanctioned, very illegal oil' using a vessel that was 'definitely a shadow ship' and 'not at all just a regular tanker with a slightly grimy hull.' President Trump declared the move a pivotal blow against Maduro's 'shadow fleet,' which apparently consists of highly conspicuous ships that look suspiciously like regular ships, but simply prefer to operate under the cover of a 'shadow of plausible deniability' before getting very publicly caught.",
+        "originalSource": "Associated Press (via PBS NewsHour)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765579208576-2",
-        "headline": "Nation Braces for Exciting New 'Choose Between Insulin and Rent' Game Show as ACA Credits Mysteriously Vanish",
-        "content": "Millions of Americans are reportedly on the cusp of experiencing an exhilarating new financial challenge, as Affordable Care Act subsidies prepare to spectacularly evaporate, effectively doubling health insurance costs overnight. Many jubilant citizens, facing an additional $1,100 per month starting in January, are already eagerly planning their new budget: \"Do I buy groceries or pay for the life-saving medication? What a fun dilemma!\" The nation's healthcare system, renowned for its innovative approaches to fiscal responsibility, assures everyone this is merely a creative way to encourage personal sacrifice and a deeper appreciation for the concept of \"being wealthy.\"",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-3",
-        "headline": "Previously Unseen Epstein Photos Reveal Nation's Elite Attending 'World's Most Awkward Potluck'",
-        "content": "House Democrats have heroically unearthed a trove of never-before-seen photographs from the private collection of Jeffrey Epstein, reportedly featuring a who's who of global influence, including President Trump, Steve Bannon, and Bill Clinton. The images, described as having the visual quality of a Bigfoot sighting but with far more recognizable faces, reportedly show these luminaries engaging in what appears to be a series of incredibly uncomfortable social interactions. Experts believe the release adds a thrilling new chapter to the ongoing saga of \"everyone was apparently friends with Epstein,\" further cementing his legacy as the most socially connected person on Earth, just behind that guy who always brings the fancy dip to parties.",
+        "id": "story-1765597266282-5",
+        "headline": "Army 'Shocked' That Doctor Already Charged With Criminal Misconduct Is Also Facing Civil Lawsuits From 81 Women",
+        "content": "The U.S. Army announced today that it was 'absolutely flabbergasted' to learn that a former gynecologist, already facing criminal charges for patient sexual assault and misconduct, is now the target of a civil lawsuit filed by 81 additional women. 'We had no idea that a doctor accused of such heinous crimes might also have a pattern of behavior that would lead to further legal action,' stated an Army spokesperson, blinking slowly. The lawsuit alleges a systemic failure within the military's healthcare system, which officials have promised to address by implementing a new, more stringent 'please don't commit crimes' policy for all medical staff, effective immediately.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCO0okVFfLxGoU8Cek5uRnzTwGf8mMegY14yoiH1XSUKdr_lpzICRiueZDsYGO8PGkKc5o0aldgQgn8RByDilRFVsL4ySPg-zJnfxDau9jMrIWS6dI6o0GCjGbLQ==",
-        "publishedTime": "53m ago"
-      },
-      {
-        "id": "story-1765579208576-4",
-        "headline": "President Trump Magically Consolidates All AI Wisdom Into Single Executive Order, States Ordered to Cease Inventing Their Own Robots",
-        "content": "In a move hailed by sentient toasters everywhere, President Trump has boldly signed an executive order designed to unify the nation's scattered and utterly confusing state-level artificial intelligence regulations. The order, which reportedly dictates that all AI must now \"be smart, but not *too* smart,\" aims to prevent states from imposing their own wildly divergent rules, such as California's \"AI must feel empathy\" law or Texas's \"AI must be able to ride a horse.\" Policymakers are now vigorously debating whether a single federal decree can truly encompass the entirety of humanity's robot-governing needs, or if we should just let the robots figure it out themselves.",
-        "originalSource": "Associated Press (via PBS News)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-5",
-        "headline": "FBI Directors Mysteriously Vanish Into Secret Ukrainian Basements to \"Negotiate Peace\" With \"Totally Not Spying\" Intentions",
-        "content": "Eyebrows across Washington have achieved new heights following whispers of clandestine meetings between FBI Director Kash Patel, his trusty deputy Dan Bongino, and Ukraine's chief delegate, held in what sources describe as \"undisclosed locations that smell vaguely of borscht and classified documents.\" These top-secret pow-wows are reportedly occurring amid an aggressive U.S. \"persuasion campaign\" to convince Kyiv to perhaps \"misplace\" some territory in the name of peace, prompting observers to wonder if the FBI's new role is less about law enforcement and more about high-stakes international real estate deals conducted in hushed tones, preferably without anyone knowing.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yoyrP14Hbncf979MpWcGUB4IVgOlh5PHW-yKIbOIypvSQhBXP22BctinaY07lUr4SH3D31X1_p1ElKzqN8_lsolrOAB7d_tNYH4NiHgqD5l2fpqHytzZ_1U=",
-        "publishedTime": "Within 24 hours"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765579208576-0",
-        "headline": "A group is suing President Trump over his White House party room.",
-        "content": "A group called the National Trust, which is all about keeping old places safe, is suing President Trump. They want to stop him from building a big new party room at the White House. They say he needs to get special checks done first to make sure it's okay for the old building and the environment, before he can tear down part of the East Wing.",
+        "id": "story-1765597266282-0",
+        "headline": "Speaker Johnson is having trouble getting his team to listen to him.",
+        "content": "Imagine a class president who can't get their classmates to agree on things. That's a bit like what's happening with Mike Johnson, who is in charge of the Republican team in the House of Representatives. Some members of his own team are getting annoyed and not following his plans. This makes it hard for them to work together and get things done, like passing new rules or laws. It looks like he's losing some control over his team.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-1",
+        "headline": "Lots of people might have to pay double for their doctor visits and medicine.",
+        "content": "Imagine your parents get help paying for your doctor visits and medicine, like a special discount. Well, millions of families get this help from something called the Affordable Care Act (ACA). But this special discount is going to stop soon. If new rules aren't made, these families might have to pay twice as much for their health insurance every month starting next year. That would make it really hard for many families to afford to go to the doctor or get the medicine they need.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-2",
+        "headline": "A former football coach is in very big trouble for some serious things.",
+        "content": "A football coach who used to work at the University of Michigan, named Sherrone Moore, is in really big trouble with the law. He's been accused of doing some very serious things, like breaking into someone's house when he wasn't allowed, and also following a woman in a creepy way. He lost his job because of this, and he even had to talk to the judge from jail. These are very serious accusations.",
+        "originalSource": "AP News",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765597266282-3",
+        "headline": "New pictures show famous people at a very bad person's house.",
+        "content": "Imagine finding old photos of famous people at a place owned by someone who did very bad things, like Jeffrey Epstein. That's what happened when some politicians called House Democrats showed new pictures. These photos included President Trump, Bill Clinton, and other well-known people. They released these pictures because they are still trying to figure out what happened with Jeffrey Epstein and all the important people he knew. This makes everyone talk again about why these famous people were connected to him.",
         "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "38 mins ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765579208576-1",
-        "headline": "Speaker Johnson's team is not always listening to him.",
-        "content": "Mike Johnson is like the captain of the Republican team in the House of Representatives. But lately, a lot of the players on his own team aren't doing what he says. This is making it hard for him to lead and get things done, and everyone is getting a bit annoyed.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
+        "id": "story-1765597266282-4",
+        "headline": "The U.S. stopped a sneaky oil ship from helping Venezuela's leader.",
+        "content": "The United States government just took a big step to stop the leader of Venezuela, Nicolás Maduro. They grabbed an oil ship called Skipper off the coast of Venezuela. President Trump wants to stop Maduro from making money by selling oil, because Maduro isn't a good leader for his country. This means the U.S. is going to be even tougher on these 'secret' ships that try to break international rules to help Maduro sell oil.",
+        "originalSource": "Associated Press (via PBS NewsHour)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765579208576-2",
-        "headline": "Many people's health insurance might get much more expensive soon.",
-        "content": "Lots of people in America could have to pay twice as much for their health insurance very soon. This is because some special help money, called ACA credits, is going away. Some people might have to pay over $1,100 extra every month starting in January, which is a lot of money and makes it hard for them to afford getting sick.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-3",
-        "headline": "New photos of famous people with Jeffrey Epstein are out.",
-        "content": "Some politicians called House Democrats have shown new pictures from Jeffrey Epstein's private collection. These photos reportedly show President Trump, Steve Bannon, and Bill Clinton with him. This makes people wonder even more about who Epstein knew and how many important friends he had.",
+        "id": "story-1765597266282-5",
+        "headline": "Lots of women are suing a bad army doctor for hurting them.",
+        "content": "Imagine going to the doctor and instead of getting help, the doctor hurts you. That's what many women are saying happened with an army doctor. Eighty-one women have now joined together to sue this doctor, who is already in trouble with the law for doing really bad things to his patients during check-ups. They are saying that the army should have stopped this doctor a long time ago and didn't protect the women he was supposed to care for.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCO0okVFfLxGoU8Cek5uRnzTwGf8mMegY14yoiH1XSUKdr_lpzICRiueZDsYGO8PGkKc5o0aldgQgn8RByDilRFVsL4ySPg-zJnfxDau9jMrIWS6dI6o0GCjGbLQ==",
-        "publishedTime": "53m ago"
-      },
-      {
-        "id": "story-1765579208576-4",
-        "headline": "President Trump wants one big rule for how we use smart robots.",
-        "content": "President Trump signed a special paper that says the national government will make the rules for really smart computer stuff, called Artificial Intelligence or AI. This means states can't make their own different rules anymore. People are now talking about whether the national government or the states should be in charge of new technologies.",
-        "originalSource": "Associated Press (via PBS News)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-5",
-        "headline": "People are worried about secret meetings with Ukraine.",
-        "content": "Some people are getting worried because the head of the FBI, Kash Patel, and his helper, Dan Bongino, have been having secret meetings with a main person from Ukraine. These meetings are happening while America is trying very hard to convince Ukraine to give up some land so there can be peace. This makes people wonder what secret plans the U.S. government is making.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yoyrP14Hbncf979MpWcGUB4IVgOlh5PHW-yKIbOIypvSQhBXP22BctinaY07lUr4SH3D31X1_p1ElKzqN8_lsolrOAB7d_tNYH4NiHgqD5l2fpqHytzZ_1U=",
-        "publishedTime": "Within 24 hours"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765579208576-0",
-        "headline": "The Echoes of Eras Past Speak in Stone",
-        "content": "The National Trust, a silent sentinel of history, raised its voice against a modern ambition. A lawsuit landed in the District Court, a parchment challenging the sweeping vision for a new White House ballroom. To construct it, the historic East Wing faced demolition, a contentious act that stirred the ghosts of architects past. The Trust argued for meticulous process, for comprehensive design reviews, for rigorous environmental scrutiny—a chorus of checks and balances before any foundation stone could be disturbed. President Trump's grand project, it seemed, would first face the judgment of history, echoing through legal chambers and demanding a pause to reflect on what is lost and what is gained.",
+        "id": "story-1765597266282-0",
+        "headline": "The Crumbling Gavel: A House Divided",
+        "content": "The polished gavel felt heavy, yet powerless, in Speaker Johnson's hand. Each legislative skirmish became an internal war, his own party fracturing into defiant factions. Whispers of discontent had escalated to public rejections of his directives, dissolving any semblance of control over the fractious House majority. Key votes, vital strategies—all became battlegrounds where his leadership was openly challenged. The grand ambition of governing dissolved into a daily struggle for internal cohesion. He watched, helpless, as the foundations of his authority crumbled, brick by agonizing brick, leaving the Republican efforts to lead in perilous disarray. The Capitol echoed with the sound of a house divided.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-1",
+        "headline": "January's Cold Reckoning for Many Families",
+        "content": "The calendar page for January felt like a guillotine. Maria traced the numbers, her stomach churning. The letter confirmed it: her monthly health insurance premium, once manageable with the Affordable Care Act's subsidy, would now double. The expanded tax credits, a vital shield, were dissolving, leaving millions like her exposed. She imagined the impossible choices ahead – medicine or groceries, doctor visits or rent. Her children’s laughter, usually a balm, now sounded like a distant echo of a secure life. The promise of healthcare had become a looming financial storm, casting a long shadow of hardship and uncertainty over countless families across the nation.",
+        "originalSource": "CBS News",
+        "sourceUrl": "https://www.cbsnews.com/",
+        "publishedTime": "7 hours ago"
+      },
+      {
+        "id": "story-1765597266282-2",
+        "headline": "Sideline to Cell: A Coach's Fall From Grace",
+        "content": "The roar of the stadium felt a lifetime away. Sherrone Moore, once a revered football coach, now saw his reflection in the cold, unyielding screen of a remote arraignment, the bars of his jail cell just out of frame. The judge’s words were stark: third-degree felony home invasion, alongside misdemeanor stalking and breaking and entering. His name, once synonymous with victory, was now stained by accusations of illegally entering a woman’s home, a woman he had allegedly been romantically involved with. The university had swiftly cut ties. His career, his reputation, all crumbled under the weight of an alleged obsession that had crossed a dangerous line, trading the playbook for a police report.",
+        "originalSource": "AP News",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765597266282-3",
+        "headline": "The Unveiling of Shadows from a Ghastly Archive",
+        "content": "The digital projector hummed, casting a ghastly light on the committee room walls. Frame after frame revealed the unthinkable: never-before-seen photos from Jeffrey Epstein’s private collection. Faces of power, now etched with a chilling new context. President Trump. Bill Clinton. Steve Bannon. Other notable figures. House Democrats, in their ongoing investigation, had opened a dark window into the late financier’s network. Each image was a silent accusation, reigniting public scrutiny over the high-profile individuals entangled in his disgraced operation. The carefully constructed façades of power began to crack, as the shadows of a buried past resurfaced, demanding an overdue reckoning.",
         "originalSource": "PBS NewsHour",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "38 mins ago"
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "4 hours ago"
       },
       {
-        "id": "story-1765579208576-1",
-        "headline": "The Shifting Sands of the Speaker's Chair",
-        "content": "A subtle tremor ran through the House, not of earth, but of authority. Speaker Mike Johnson, once a firm hand, found his grip loosening, dissolving like sand through fingers. His own Republican majority, once a unified front, now fractured, repeatedly defying his calls and questioning his directives. Frustration simmered, a quiet rebellion brewing behind closed doors and on the floor. Each act of defiance chipped away at his control, leaving the House adrift. The grand agenda faltered, lost in the squabble, as the Speaker's chair became less a seat of power and more a precarious perch on the edge of chaos.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
+        "id": "story-1765597266282-4",
+        "headline": "Crimson Tide: A Seaborne Standoff",
+        "content": "The turquoise waters off Venezuela concealed a secret. The oil tanker \"Skipper,\" a ghost in the vast \"shadow fleet,\" navigated international sanctions, funneling illicit revenues to Nicolás Maduro. But the phantom had been caught. In a dramatic escalation, the U.S. government, under President Trump's relentless campaign, moved to seize the rogue vessel. This wasn't merely a capture; it was a potent signal. The goal: to sever Maduro’s vital oil lifelines, strangling his regime's financial arteries. The high seas had transformed into a new frontier in a global power struggle, where every seized ship marked another tightening knot in the net of international pressure.",
+        "originalSource": "Associated Press (via PBS NewsHour)",
+        "sourceUrl": "https://www.pbs.org/newshour/",
         "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765579208576-2",
-        "headline": "Winter's Chill on the Horizon of Health",
-        "content": "A cold front loomed, threatening to double a burden already heavy. Millions of Americans faced a chilling prospect: health insurance costs soaring, not due to illness, but the vanishing of vital ACA credits. The lifeline, stretched thin for so many, was set to snap. January whispered of an additional $1,100 per month for some, a sum that could shatter budgets and force impossible choices. The promise of care, once within reach, receded into an unaffordable distance. Winter’s financial chill promised to bite deep, leaving a wake of anxiety and an uncertain future for countless families.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWnneHxWo73dHMjvdo85zqDFFcPJ3aCqi2_B9Fe9TniH6jTzCALKL281yiRGXwygHATfu56yULgXe90p39RXqbBIVQ_DafH_EsvyPB-GWc0rrAEpjqQ==",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-3",
-        "headline": "The Silent Frames of a Sinister Past",
-        "content": "The House chambers, usually echoing with debate, now held the hush of a stark revelation. Democrats unfurled a collection of photographs, silent frames from Jeffrey Epstein's private world. Among the faces, recognizable and unsettling, were those of President Trump, Steve Bannon, and Bill Clinton, captured in moments now scrutinized under a harsh, public light. Each image added another thread to the tangled web of Epstein’s connections, deepening the shadows around his notorious social and political network. The past, long buried, resurfaced, demanding renewed questions, forever etching its grim connections into public consciousness.",
+        "id": "story-1765597266282-5",
+        "headline": "Echoes in the Clinic: The Broken Oath",
+        "content": "The white walls of the military clinic, once symbols of care, now held chilling memories for eighty-one women. A former U.S. Army gynecologist, already facing criminal charges for sexual assault and misconduct, was now the focus of a massive civil lawsuit. Each plaintiff, a survivor, spoke of medical examinations that had become violations, alleging a horrifying pattern of abuse spanning years. Their collective action wasn’t just against a single doctor; it was a searing indictment of a systemic failure. The military's healthcare system, entrusted with their well-being, had tragically failed to protect its patients, leaving an indelible scar of betrayal.",
         "originalSource": "The Guardian",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCO0okVFfLxGoU8Cek5uRnzTwGf8mMegY14yoiH1XSUKdr_lpzICRiueZDsYGO8PGkKc5o0aldgQgn8RByDilRFVsL4ySPg-zJnfxDau9jMrIWS6dI6o0GCjGbLQ==",
-        "publishedTime": "53m ago"
-      },
-      {
-        "id": "story-1765579208576-4",
-        "headline": "The Iron Hand of Centralized Cognition",
-        "content": "The digital frontier, once a patchwork of state-level ambitions, now faced a singular command. President Trump signed an executive order, a declaration meant to preempt the disparate regulations on artificial intelligence. The message was clear: a federal standard would guide this emerging, complex technology. This move sparked immediate debate, a clash over authority, as states questioned the centralized grasp on an innovation still in its infancy. The order sought to streamline, to unify, yet it also ignited a fervent discussion on who truly held the reins of the future’s most powerful tool.",
-        "originalSource": "Associated Press (via PBS News)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAoKlm50aroGBrrB8IOBKi2QI8jHSIg9X8Ge-qJ_tNyls6KdjWc7Eb0q5KmdgKrSdHCS2qQkYDWLo5c4bhI2h_wySAX0gxHhgq8ch6EaLD38s4ncnlBKMropkFr3Sr",
-        "publishedTime": "2 hours ago"
-      },
-      {
-        "id": "story-1765579208576-5",
-        "headline": "Whispers in the Shadows of Diplomacy",
-        "content": "A cloak of secrecy descended upon diplomatic corridors. Whispers spoke of clandestine meetings: FBI Director Kash Patel and his deputy, Dan Bongino, engaging Ukraine’s chief delegate. These weren't routine consultations, but discussions shrouded in an aggressive U.S. campaign, pressing Kyiv to consider ceding territory for peace. The very air thickened with unanswered questions about America's private strategies, a shadow play unsettling to many. The pursuit of peace, it seemed, wore an unusual disguise, its motives and methods prompting unease about the hidden currents shaping global destinies.",
-        "originalSource": "The Washington Post",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yoyrP14Hbncf979MpWcGUB4IVgOlh5PHW-yKIbOIypvSQhBXP22BctinaY07lUr4SH3D31X1_p1ElKzqN8_lsolrOAB7d_tNYH4NiHgqD5l2fpqHytzZ_1U=",
-        "publishedTime": "Within 24 hours"
+        "sourceUrl": "https://www.theguardian.com/us-news",
+        "publishedTime": "3 hours ago"
       }
     ]
   }
