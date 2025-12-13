@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765658286471,
+  "timestamp": 1765665526464,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765658214109-0",
-        "headline": "Tragic Loss of US Lives in Syria Underscores Unending Cycle of Violence",
-        "content": "Two U.S. service members and one American civilian interpreter tragically lost their lives, with three others wounded, in a Saturday ambush by an Islamic State gunman near Palmyra, Syria. This marks the first attack resulting in U.S. fatalities in the country since the fall of President Bashar Assad a year ago, highlighting the persistent and often unseen human cost of ongoing military engagements. While U.S. Central Command reported the gunman was killed, the incident prompts critical questions about long-term strategies and the safety of personnel in a perpetually unstable region, demanding a deeper investigation into the systemic conditions that allow such tragedies to persist.",
-        "originalSource": "AP News / U.S. Central Command",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzi0MMrtHBWUQRRTOjyEVLg8DXd2GS-pljbEy4HYuPXR4ZmJdXwK3xvPcXikLAzzuq9XaBVsMjvYe6m9FCsfjK8slblZLqy_3OUwzUSqtXY5dmv3c3ggQ-aZS1nKCM7rjy_yGiYa9DAcqwBBRQeKQ-f1ac6AIOZv_2qhmvQ0TMwkJ8vfC2IqO0KuzBMkCUzKkaDBWH17BLPhTukQWWq-6evJOh7mA=",
+        "id": "story-1765665451732-0",
+        "headline": "Continued U.S. Engagement in Syria Leads to More Avoidable Casualties, Prompting Calls for Re-evaluation",
+        "content": "The tragic deaths of two U.S. service members and an American civilian, along with three wounded, in a Syrian ambush by an individual affiliated with the Islamic State group, highlight the devastating human cost of ongoing military interventions abroad. While President Trump has promised \"very serious retaliation,\" a progressive perspective urges a deeper examination into the systemic issues perpetuating conflict and the effectiveness of prolonged U.S. military presence in the region, rather than solely focusing on punitive measures that often escalate violence. This profound loss of life demands a re-evaluation of strategies that place American personnel in harm's way without clear, sustainable pathways to peace.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765665451732-1",
+        "headline": "President Trump's Retaliatory Rhetoric Risks Further Escalation in Syria After Tragic Ambush",
+        "content": "In the wake of a fatal ambush on U.S. personnel in Syria, President Trump's immediate vow of \"very serious retaliation\" on Truth Social, branding the incident an \"ISIS attack,\" raises concerns about a potentially escalatory response. A progressive lens suggests that while the gravity of the attack on American forces is undeniable, focusing solely on punitive measures often fails to address the complex geopolitical factors and systemic instabilities fueling such conflicts. A more constructive approach would involve exploring diplomatic solutions, humanitarian aid, and addressing the root causes of extremism, rather than relying on military reprisals that can deepen cycles of violence.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
         "publishedTime": "Hours ago"
       },
       {
-        "id": "story-1765658214109-1",
-        "headline": "Democrats Demand Full Transparency as Epstein Photos Expose Elite Connections to Systemic Abuse",
-        "content": "Democrats on the House Oversight Committee have released an initial selection of 19 photos from Jeffrey Epstein's vast estate, prominently featuring President Trump, Bill Clinton, and Prince Andrew. This carefully chosen release, from a trove of over 95,000 images, is a strategic move to pressure the current Republican administration into making the full Epstein files public before a looming deadline. The presence of such powerful figures, even without immediate context or suggestion of wrongdoing, serves as a stark reminder of the systemic impunity enjoyed by the wealthy and connected, demanding full disclosure and accountability in the face of alleged widespread exploitation.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXOVsWGW0CNpoJXMvF5OIW3ubDhDb7WVJDHL1sNUztXgj_zUYNT1es7IJWGDg7wP9OEYF_1i6O2j0Qi-4EPfhkBOuOF6Oxg3scKSeVZ6m4TYtpiJPYBLawdmDncK9WhZHkZzeD_Pl4pcnci3PFGZQnr8eiM0a1cyPDiYMlW9rcgb7eOfS8qu7ddEdRA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-2",
+        "headline": "Washington State Flooding Exposes Urgent Need for Robust Climate Action and Infrastructure Investment",
+        "content": "While floodwaters in Washington state are finally receding after days of intense rainfall, prompting extensive rescue operations and evacuations, the historic damage to homes and stranded families serves as a stark reminder of our escalating climate crisis. A progressive viewpoint emphasizes that these extreme weather events are not isolated incidents but symptoms of systemic environmental neglect. Beyond the immediate cleanup, this disaster underscores the urgent need for comprehensive climate action, investment in resilient infrastructure, and policies that protect the most vulnerable communities from the disproportionate impacts of a rapidly changing planet.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765658214109-2",
-        "headline": "Federal Government Threatens New York Over License Issue, Highlighting Inconsistent Immigration Policies",
-        "content": "U.S. Transportation Secretary Sean Duffy announced New York is the eighth state found to be issuing commercial driver's licenses (CDLs) to immigrants that remain valid beyond their legal residency. Duffy's immediate threat to withhold $73 million in highway funds unless the state corrects the system and revokes these licenses highlights a federal approach that often punishes states for bureaucratic inconsistencies rather than addressing the root causes of complex immigration and licensing challenges. This federal audit follows a fatal crash involving an unauthorized truck driver in Florida, raising concerns that the response disproportionately targets immigrant populations and potentially exacerbates economic precarity rather than fostering systemic solutions for all drivers.",
-        "originalSource": "San Francisco Chronicle (AP)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1pzE4g8Lzve4karYE_3KlKQGeB-lqYBF96h9cgMgu72FheXk66SH05GwSzEGRvAskYhfyDlG1UgcgEaI8tDBNiE6j5YNdKQktPJ07rG2TcRGrVj0C7oXr45b76aj5k0S9n_ymfX0EPLEJi1hMMvrOWQWEuRP9EqQmlVVKQ_BxOVVRcyg2yyoMlftZIhOnwymYlNBKQ681FWYgw37xR6isPhqk4rzBCA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-3",
+        "headline": "Community Mourns Loss of Esteemed Character Actor Peter Greene as Investigation Continues",
+        "content": "The Hollywood community and fans are mourning the passing of character actor Peter Greene, renowned for his memorable roles in films such as *Pulp Fiction*, *The Mask*, and *Training Day*, who was found deceased in his New York City apartment. As local authorities investigate the circumstances and cause of his death, this tragic news serves as a somber reminder of the vulnerabilities faced by individuals, even those in the public eye. A compassionate perspective calls for reflection on the importance of support systems and mental well-being for all, particularly within industries that often demand immense personal sacrifice.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765658214109-3",
-        "headline": "Questions Linger as Man's Tragic Death on Universal Roller Coaster Raises Concerns About Systemic Safety",
-        "content": "The tragic death of 32-year-old Kevin Rodriguez Zavala on the Stardust Racers coaster at Universal Orlando's Epic Universe has been ruled an accident due to blunt-impact injuries. While a sheriff's office report stated that park workers followed procedures, the death of Zavala, who used a wheelchair and had spinal rods from a prior surgery, compels a deeper examination of systemic safety protocols, accessibility standards, and the adequacy of corporate oversight. This incident demands a critical review to ensure that amusement parks prioritize the safety and well-being of all guests, particularly those with disabilities, beyond merely adhering to minimum procedures.",
-        "originalSource": "AP News (via WBOC)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x0_aVABuD-2agg9v8x1MwaP3XlJex912CdfEPgHpLmonOCB0KnYlmL6zkYcF4jaxIfW_AN2WLeSuGSAphyHCjRqvurSZkLXiLiKtIThT8LdqKyJiTRs-gp60lXXYe3hMK7-9W7FMnaOxokGEA0mWP0m4cRsqWVYTj5mUNZoyMSCa2j1kpJRoGIL0nR5sa7S_9oe8ft-FRjSiXbT0Oqk9xo1AAn16otaXJKC6cLP80uG11SAD23tlZ6VqxrUb4-7KnyvPXJI6ryZcHE2zjIDYRBlckFgrB52NX1qZiw==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-4",
+        "headline": "Human Rights Triumph in Belarus as Diplomatic Efforts Secure Release of Political Prisoners",
+        "content": "In a significant human rights development, Belarus has released 123 political prisoners, including Nobel Peace Prize laureate Ales Bialiatski, following the U.S. decision to lift sanctions on the country's potash exports. This diplomatic exchange, a result of talks between the U.S. and Belarusian President Alexander Lukashenko, demonstrates the potential for engagement to yield tangible human rights improvements. From a progressive standpoint, this outcome underscores the critical importance of prioritizing human lives and freedoms in international relations, advocating for approaches that strategically leverage diplomacy and economic measures to achieve positive change, rather than relying solely on isolationist policies that can inadvertently harm civilian populations.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765658214109-4",
-        "headline": "President Trump Administration's Stance on ASL Services Deemed Discriminatory, Undermining Accessibility Rights",
-        "content": "In a legal filing, the President Trump administration has controversially argued that requiring real-time American Sign Language (ASL) interpretation for White House briefings would 'severely intrude on the President's prerogative to control the image he presents to the public.' This stance, part of its appeal against a federal judge's order stemming from a lawsuit by the National Association of the Deaf, prioritizes political image over fundamental civil rights and universal accessibility. Such an argument not only marginalizes the deaf community but also reflects a troubling pattern of governmental resistance to ensuring equitable access to crucial public information, challenging the very principles of inclusivity and democratic participation.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixlvV1H9p5muPbfiXvatqtUN3iFV9aEnFyhPD5OhlI0AELkyyJxoDxVkZWpDCOwxD_rJ7q7Y6qg_tEMXsMW2_OwJjaeuJKhSpXBb9GTaGu_dxQfyylQCx6Y_HMxjG6NFD1MeFOZL_1Ac5suCeMtrAy8pavt163RPU1H5TrxNJFF-hrfPuFMIvkkSfomptCayozG1POBQgqfLC2wn_VJROwTHjQDtgINJIL6iIyjon7GPpb1WUI8Ju2w==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765658214109-5",
-        "headline": "Multi-Million Dollar Settlement Highlights Catastrophic Systemic Failures Leading to Child's Tragic Death",
-        "content": "A significant $31.5 million settlement has been awarded in a lawsuit filed on behalf of the two younger sisters of Arabella McCormack, an 11-year-old who tragically died from horrific torture and starvation in 2022. This substantial settlement holds multiple powerful parties—including the city, county, a school, and a church—accountable for a catastrophic systemic failure to intervene and report the severe child abuse. The case serves as a heartbreaking indictment of institutional neglect and the urgent need for profound reforms across all levels of child protection services, social safety nets, and community oversight to prevent such preventable tragedies from recurring.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LDsuiZbkboNf0wqtHL7b4Skure7IglVwGj4cCw-0XWsPvCY1Zp7Mqz5hpCTUAc98cfvJO6kI6lnYwA2BXcJlFZjxVTQEBwdYMYK8TIBdGF_WzXHjdLTMk3eP7UQnen6e3FX_67f2mTbjCFpxKMc4yJCy9D7N2w3e-PBkM1FGxN7SD3mChdpUNba23JUba7EjFxM=",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-5",
+        "headline": "Economic Insecurity Dims Holiday Spirit for Many Americans, Highlighting Systemic Financial Struggles",
+        "content": "A new AP-NORC poll paints a somber picture for the holiday season, revealing widespread consumer pessimism driven by persistent economic concerns. The findings, which show many families cutting back on non-essential spending to prioritize basic needs, underscore a pervasive financial strain across the nation. From a progressive viewpoint, this widespread economic anxiety is not merely a temporary blip but a symptom of deeper systemic issues, including stagnant wages, escalating corporate profits, and an inadequate social safety net. It reinforces the urgent need for policies that address wealth inequality, ensure living wages, and provide robust support for working families to secure economic dignity for all, rather than leaving many to face a less joyful end to the year.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765658214109-0",
-        "headline": "Two US troops, civilian interpreter killed in ambush by IS gunman in central Syria",
-        "content": "Two U.S. service members and one American civilian interpreter were killed, and three others wounded, in a Saturday ambush by a lone Islamic State gunman near Palmyra, Syria. This is the first attack to inflict US fatalities in the country since the fall of President Bashar Assad a year ago. US Central Command reported the gunman was killed, and the attack is under investigation.",
-        "originalSource": "AP News / U.S. Central Command",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzi0MMrtHBWUQRRTOjyEVLg8DXd2GS-pljbEy4HYuPXR4ZmJdXwK3xvPcXikLAzzuq9XaBVsMjvYe6m9FCsfjK8slblZLqy_3OUwzUSqtXY5dmv3c3ggQ-aZS1nKCM7rjy_yGiYa9DAcqwBBRQeKQ-f1ac6AIOZv_2qhmvQ0TMwkJ8vfC2IqO0KuzBMkCUzKkaDBWH17BLPhTukQWWq-6evJOh7mA=",
+        "id": "story-1765665451732-0",
+        "headline": "Two U.S. service members, 1 civilian killed in ambush in Syria, Central Command says",
+        "content": "Two U.S. service members and an American civilian were killed, with three others wounded, in a Saturday ambush in central Syria by a lone member of the Islamic State group, according to the U.S. military's Central Command. This deadly incident has prompted immediate vows of 'very serious retaliation' from former President Trump. The attack marks a major loss of life for American personnel in the region.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765665451732-1",
+        "headline": "Trump warns of 'serious retaliation' after deadly ambush kills US troops in Syria",
+        "content": "Following the fatal ambush on U.S. personnel in Syria, former President Trump posted on Truth Social that the attack was an 'ISIS attack' against the U.S. and Syria and vowed that there will be 'very serious retaliation' in response. This political reaction underscores the gravity of the attack on American forces and the strong response from U.S. leaders.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
         "publishedTime": "Hours ago"
       },
       {
-        "id": "story-1765658214109-1",
-        "headline": "House Democrats release photos of Trump, Clinton, and Andrew from Epstein's estate",
-        "content": "Democrats on the House Oversight Committee released a selection of 19 photos from Jeffrey Epstein's estate, which prominently feature Donald Trump, Bill Clinton, and Prince Andrew. This initial release from a trove of over 95,000 images is intended to pressure the Republican administration to make the full Epstein files public before a looming deadline. No context or suggestion of wrongdoing accompanies the images.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXOVsWGW0CNpoJXMvF5OIW3ubDhDb7WVJDHL1sNUztXgj_zUYNT1es7IJWGDg7wP9OEYF_1i6O2j0Qi-4EPfhkBOuOF6Oxg3scKSeVZ6m4TYtpiJPYBLawdmDncK9WhZHkZzeD_Pl4pcnci3PFGZQnr8eiM0a1cyPDiYMlW9rcgb7eOfS8qu7ddEdRA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-2",
+        "headline": "Washington state flood waters receding after days of rescues and evacuations",
+        "content": "Flood waters across Washington state are beginning to recede following several days of intense rainfall that prompted numerous rescue operations and widespread resident evacuations. Historic flooding has washed away homes and stranded families across affected regions, leading to a massive cleanup effort. The situation has stabilized but recovery is expected to be lengthy.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765658214109-2",
-        "headline": "New York is the 8th state found to have improperly issued commercial driver's licenses to immigrants",
-        "content": "U.S. Transportation Secretary Sean Duffy announced New York is the eighth state caught issuing CDLs to immigrants that remain valid after their legal residency expires. Duffy threatened to withhold $73 million in highway funds unless the state corrects the system and revokes the flawed licenses. The federal audit follows a fatal crash involving an unauthorized truck driver in Florida.",
-        "originalSource": "San Francisco Chronicle (AP)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1pzE4g8Lzve4karYE_3KlKQGeB-lqYBF96h9cgMgu72FheXk66SH05GwSzEGRvAskYhfyDlG1UgcgEaI8tDBNiE6j5YNdKQktPJ07rG2TcRGrVj0C7oXr45b76aj5k0S9n_ymfX0EPLEJi1hMMvrOWQWEuRP9EqQmlVVKQ_BxOVVRcyg2yyoMlftZIhOnwymYlNBKQ681FWYgw37xR6isPhqk4rzBCA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-3",
+        "headline": "'Pulp Fiction' actor Peter Greene found dead in New York apartment",
+        "content": "Character actor Peter Greene, known for memorable roles in films including *Pulp Fiction*, *The Mask*, and *Training Day*, was found deceased in his New York City apartment. The circumstances and cause of death are currently under investigation by local authorities. The news has sent shockwaves through the Hollywood community and his fans.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765658214109-3",
-        "headline": "Man's death on roller coaster at Universal Orlando Resort ruled accidental",
-        "content": "The death of a 32-year-old man, Kevin Rodriguez Zavala, on the Stardust Racers coaster at Universal Orlando's Epic Universe was ruled an accident from blunt-impact injuries. A sheriff's office report detailed he was found slumped over with severe facial trauma but concluded park workers followed procedures. Zavala, who used a wheelchair, had spinal rods from a prior surgery.",
-        "originalSource": "AP News (via WBOC)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x0_aVABuD-2agg9v8x1MwaP3XlJex912CdfEPgHpLmonOCB0KnYlmL6zkYcF4jaxIfW_AN2WLeSuGSAphyHCjRqvurSZkLXiLiKtIThT8LdqKyJiTRs-gp60lXXYe3hMK7-9W7FMnaOxokGEA0mWP0m4cRsqWVYTj5mUNZoyMSCa2j1kpJRoGIL0nR5sa7S_9oe8ft-FRjSiXbT0Oqk9xo1AAn16otaXJKC6cLP80uG11SAD23tlZ6VqxrUb4-7KnyvPXJI6ryZcHE2zjIDYRBlckFgrB52NX1qZiw==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-4",
+        "headline": "Belarus frees prominent political prisoners as U.S. lifts sanctions on country's potash exports",
+        "content": "Belarus has released 123 political prisoners, including Nobel Peace Prize laureate Ales Bialiatski, after the U.S. lifted sanctions on the country's potash exports. The move follows diplomatic talks between the U.S. and Belarusian President Alexander Lukashenko, signaling a significant diplomatic exchange and a potential shift in U.S.-Belarus relations.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765658214109-4",
-        "headline": "Trump administration says sign language services 'intrude' on Trump's ability to control his image",
-        "content": "In a legal filing, the Trump administration argued that requiring real-time American Sign Language interpretation for White House briefings would 'severely intrude on the President's prerogative to control the image he presents to the public.' This controversial stance is part of its appeal against a federal judge's order stemming from a lawsuit filed by the National Association of the Deaf.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixlvV1H9p5muPbfiXvatqtUN3iFV9aEnFyhPD5OhlI0AELkyyJxoDxVkZWpDCOwxD_rJ7q7Y6qg_tEMXsMW2_OwJjaeuJKhSpXBb9GTaGu_dxQfyylQCx6Y_HMxjG6NFD1MeFOZL_1Ac5suCeMtrAy8pavt163RPU1H5TrxNJFF-hrfPuFMIvkkSfomptCayozG1POBQgqfLC2wn_VJROwTHjQDtgINJIL6iIyjon7GPpb1WUI8Ju2w==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765658214109-5",
-        "headline": "$31.5 million settlement reached in lawsuit over California girl's starvation death",
-        "content": "A $31.5 million settlement was awarded in a lawsuit filed on behalf of the two younger sisters of Arabella McCormack, an 11-year-old who died from torture and starvation in 2022. The settlement holds multiple parties—including the city, county, a school, and a church—accountable for a systematic failure to intervene and report the horrific child abuse.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LDsuiZbkboNf0wqtHL7b4Skure7IglVwGj4cCw-0XWsPvCY1Zp7Mqz5hpCTUAc98cfvJO6kI6lnYwA2BXcJlFZjxVTQEBwdYMYK8TIBdGF_WzXHjdLTMk3eP7UQnen6e3FX_67f2mTbjCFpxKMc4yJCy9D7N2w3e-PBkM1FGxN7SD3mChdpUNba23JUba7EjFxM=",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-5",
+        "headline": "Consumers aren't having a very merry holiday season, AP-NORC poll finds",
+        "content": "A new AP-NORC poll reveals that American consumers are pessimistic about the holiday season due to ongoing economic concerns. The survey indicates that many families are cutting back on non-essential spending and prioritizing basic purchases, suggesting a widespread financial strain and a less festive outlook for the end of the year.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765658214109-0",
-        "headline": "Radical Islamic Terrorists Ambush and Kill Brave American Servicemen in Syria",
-        "content": "The tragic loss of two courageous U.S. service members and an American civilian interpreter in a Saturday ambush by a lone Islamic State gunman near Palmyra, Syria, underscores the enduring threat of radical Islamic terrorism. This heinous act marks the first U.S. fatalities in the region since President Bashar Assad’s fall, a stark reminder of the sacrifices our military makes to protect our freedoms. U.S. Central Command confirmed the gunman was neutralized, and an investigation is underway into this assault on our national security.",
-        "originalSource": "AP News / U.S. Central Command",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzi0MMrtHBWUQRRTOjyEVLg8DXd2GS-pljbEy4HYuPXR4ZmJdXwK3xvPcXikLAzzuq9XaBVsMjvYe6m9FCsfjK8slblZLqy_3OUwzUSqtXY5dmv3c3ggQ-aZS1nKCM7rjy_yGiYa9DAcqwBBRQeKQ-f1ac6AIOZv_2qhmvQ0TMwkJ8vfC2IqO0KuzBMkCUzKkaDBWH17BLPhTukQWWq-6evJOh7mA=",
+        "id": "story-1765665451732-0",
+        "headline": "American Heroes Fall to ISIS Terror in Syria; President Trump Vows Strong Retaliation",
+        "content": "Tragic news from Syria confirms two courageous U.S. service members and an American civilian were ambushed and killed by a lone Islamic State group terrorist, with three others wounded. This horrific act of war demands a powerful response. President Trump swiftly condemned the attack, pledging 'very serious retaliation' against those who dare target American lives, signaling a clear intent to protect our national interests and honor our fallen.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765665451732-1",
+        "headline": "President Trump Demands Swift Justice After Cowardly ISIS Attack on American Forces",
+        "content": "Following the unconscionable ambush on American personnel in Syria, President Trump wasted no time, taking to Truth Social to label it an 'ISIS attack' against both the U.S. and Syria. He unequivocally vowed 'very serious retaliation,' demonstrating the decisive leadership required to confront terrorism and safeguard American lives. This strong, immediate reaction from President Trump underscores his commitment to national security and protecting our brave men and women in uniform.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
         "publishedTime": "Hours ago"
       },
       {
-        "id": "story-1765658214109-1",
-        "headline": "Democrats Politicize Epstein Files, Release Context-Free Photos of Prominent Figures",
-        "content": "In a transparent attempt to politicize serious matters, House Democrats on the Oversight Committee have released a selection of just 19 photos from Jeffrey Epstein's estate, conspicuously featuring President Trump, Bill Clinton, and Prince Andrew. This selective leak from over 95,000 images is clearly designed to pressure the administration to release the full Epstein files, yet it completely lacks any context or suggestion of wrongdoing, serving merely as political fodder rather than genuine transparency.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXOVsWGW0CNpoJXMvF5OIW3ubDhDb7WVJDHL1sNUztXgj_zUYNT1es7IJWGDg7wP9OEYF_1i6O2j0Qi-4EPfhkBOuOF6Oxg3scKSeVZ6m4TYtpiJPYBLawdmDncK9WhZHkZzeD_Pl4pcnci3PFGZQnr8eiM0a1cyPDiYMlW9rcgb7eOfS8qu7ddEdRA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-2",
+        "headline": "Washington State Communities Begin Resilient Recovery as Floodwaters Recede",
+        "content": "After relentless rainfall caused historic flooding across Washington state, prompting numerous rescues and evacuations, the floodwaters are finally receding. While many homes were tragically lost and families displaced, the indomitable spirit of local communities is already shining through as they begin the monumental task of cleanup and rebuilding. This period of recovery will be lengthy, but American grit and resilience will ultimately prevail.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765658214109-2",
-        "headline": "New York Endangers Public Safety, Illegally Issues Driver's Licenses to Undocumented Individuals",
-        "content": "U.S. Transportation Secretary Sean Duffy has rightly called out New York as the eighth state to be caught improperly issuing commercial driver's licenses to individuals whose legal residency has expired, a blatant disregard for the rule of law and public safety. Duffy has sternly warned that $73 million in vital highway funds will be withheld unless the state immediately rectifies this system and revokes these flawed licenses. This federal audit rightly follows a tragic fatal crash involving an unauthorized truck driver, highlighting the critical need to enforce our laws and protect American citizens.",
-        "originalSource": "San Francisco Chronicle (AP)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1pzE4g8Lzve4karYE_3KlKQGeB-lqYBF96h9cgMgu72FheXk66SH05GwSzEGRvAskYhfyDlG1UgcgEaI8tDBNiE6j5YNdKQktPJ07rG2TcRGrVj0C7oXr45b76aj5k0S9n_ymfX0EPLEJi1hMMvrOWQWEuRP9EqQmlVVKQ_BxOVVRcyg2yyoMlftZIhOnwymYlNBKQ681FWYgw37xR6isPhqk4rzBCA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-3",
+        "headline": "Prominent Character Actor Peter Greene Passes Away; Investigation Underway",
+        "content": "Peter Greene, a recognizable character actor known for his roles in acclaimed films such as *Pulp Fiction*, *The Mask*, and *Training Day*, has been found deceased in his New York City apartment. Local authorities have commenced an investigation into the circumstances and cause of his death. The news has been met with sadness across the entertainment community.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765658214109-3",
-        "headline": "Universal Orlando Roller Coaster Death Ruled Tragic Accident, Park Protocols Followed",
-        "content": "The tragic death of 32-year-old Kevin Rodriguez Zavala on the Stardust Racers coaster at Universal Orlando's Epic Universe has been officially ruled an accident, resulting from blunt-impact injuries. A thorough sheriff's office report confirmed that park workers diligently followed all established procedures, concluding that this was a heartbreaking individual incident. Zavala, who utilized a wheelchair, had previously undergone surgery for spinal rods, underscoring the complexities involved in such personal circumstances.",
-        "originalSource": "AP News (via WBOC)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x0_aVABuD-2agg9v8x1MwaP3XlJex912CdfEPgHpLmonOCB0KnYlmL6zkYcF4jaxIfW_AN2WLeSuGSAphyHCjRqvurSZkLXiLiKtIThT8LdqKyJiTRs-gp60lXXYe3hMK7-9W7FMnaOxokGEA0mWP0m4cRsqWVYTj5mUNZoyMSCa2j1kpJRoGIL0nR5sa7S_9oe8ft-FRjSiXbT0Oqk9xo1AAn16otaXJKC6cLP80uG11SAD23tlZ6VqxrUb4-7KnyvPXJI6ryZcHE2zjIDYRBlckFgrB52NX1qZiw==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-4",
+        "headline": "Strategic U.S. Sanctions Relief Secures Release of Political Prisoners in Belarus",
+        "content": "In a calculated diplomatic move, the United States has lifted sanctions on Belarus's potash exports, leading to the release of 123 political prisoners, including Nobel Peace Prize laureate Ales Bialiatski. This decision follows targeted discussions between U.S. officials and Belarusian President Alexander Lukashenko, demonstrating that strategic engagement, rather than mere capitulation, can achieve tangible results in advancing liberty abroad while serving American interests.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765658214109-4",
-        "headline": "President Trump's Administration Defends Executive Prerogative in White House Briefings",
-        "content": "In a significant legal filing, President Trump's administration has asserted that mandatory real-time American Sign Language interpretation for White House briefings would \"severely intrude on the President's prerogative to control the image he presents to the public.\" This principled stance is part of the administration’s appeal against a federal judge's order, stemming from a lawsuit, upholding the President’s inherent right to manage official communications effectively and without undue burden.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixlvV1H9p5muPbfiXvatqtUN3iFV9aEnFyhPD5OhlI0AELkyyJxoDxVkZWpDCOwxD_rJ7q7Y6qg_tEMXsMW2_OwJjaeuJKhSpXBb9GTaGu_dxQfyylQCx6Y_HMxjG6NFD1MeFOZL_1Ac5suCeMtrAy8pavt163RPU1H5TrxNJFF-hrfPuFMIvkkSfomptCayozG1POBQgqfLC2wn_VJROwTHjQDtgINJIL6iIyjon7GPpb1WUI8Ju2w==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765658214109-5",
-        "headline": "Justice Achieved for Starved California Girl as $31.5 Million Settlement Holds Negligent Parties Accountable",
-        "content": "A substantial $31.5 million settlement has been secured in a lawsuit filed on behalf of the two younger sisters of Arabella McCormack, an 11-year-old who tragically succumbed to unspeakable torture and starvation in 2022. This crucial settlement holds multiple entities – including the city, county, a school, and a church – rightly accountable for a systematic and catastrophic failure to intervene and report the horrific child abuse, a stark reminder of the need for vigilant protection of our most vulnerable.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LDsuiZbkboNf0wqtHL7b4Skure7IglVwGj4cCw-0XWsPvCY1Zp7Mqz5hpCTUAc98cfvJO6kI6lnYwA2BXcJlFZjxVTQEBwdYMYK8TIBdGF_WzXHjdLTMk3eP7UQnen6e3FX_67f2mTbjCFpxKMc4yJCy9D7N2w3e-PBkM1FGxN7SD3mChdpUNba23JUba7EjFxM=",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-5",
+        "headline": "Economic Woes Dampen Holiday Spirit for American Families, Poll Reveals",
+        "content": "A recent AP-NORC poll confirms what many American families already know: economic concerns are casting a shadow over the holiday season. The survey indicates a widespread financial strain, with consumers cutting back on non-essential spending and prioritizing basic necessities. This clear evidence of a less festive outlook underscores the urgent need for sound economic policies that foster prosperity and allow hardworking Americans to enjoy the fruits of their labor, rather than struggle under financial burdens.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765658214109-0",
-        "headline": "Local Man Single-Handedly Resets Geopolitical Stability Clock in Syria With Surprise Ambush",
-        "content": "A highly motivated individual, armed with what intelligence officials are now calling \"a very determined attitude,\" managed to successfully interrupt a year-long streak of *not* losing American lives in Syria. The Pentagon has launched an urgent investigation into how one person could be so incredibly impactful, suspecting a possible breach in the \"everyone else is busy\" protocol, as two US troops and an American civilian interpreter were tragically killed.",
-        "originalSource": "AP News / U.S. Central Command",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzi0MMrtHBWUQRRTOjyEVLg8DXd2GS-pljbEy4HYuPXR4ZmJdXwK3xvPcXikLAzzuq9XaBVsMjvYe6m9FCsfjK8slblZLqy_3OUwzUSqtXY5dmv3c3ggQ-aZS1nKCM7rjy_yGiYa9DAcqwBBRQeKQ-f1ac6AIOZv_2qhmvQ0TMwkJ8vfC2IqO0KuzBMkCUzKkaDBWH17BLPhTukQWWq-6evJOh7mA=",
+        "id": "story-1765665451732-0",
+        "headline": "Single ISIS Member Successfully Ambushes U.S. Forces, Prompts President Trump to Threaten 'Very Serious Retaliation' From Golf Course",
+        "content": "In a stunning display of strategic brilliance and/or sheer luck, a solitary member of the Islamic State group managed to ambush U.S. service members and an American civilian in central Syria, killing three and wounding three others. The Pentagon is reportedly reviewing its entire 'lone extremist' threat assessment, wondering how one person could be so darn effective. President Trump, from the comfort of Mar-a-Lago, immediately declared that such insolence would be met with 'very serious retaliation,' promising to unleash a strongly worded tweet storm and possibly reconsider his stance on international brunch. Sources indicate that the entire U.S. military is now on high alert for rogue individuals carrying particularly convincing camouflage.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765665451732-1",
+        "headline": "President Trump Vows 'Very Serious Retaliation' on Truth Social, Military Awaits Further Instructions Via Hashtag",
+        "content": "Following a tragic ambush in Syria, President Trump took to Truth Social, declaring the incident an 'ISIS attack' and promising 'very serious retaliation.' Defense officials are reportedly scrambling to translate the exact meaning of 'very serious' into actionable military strategy, with one general overheard asking, 'Does this mean we bomb them with strongly worded memes, or actual bombs?' The immediate response from the White House is expected to include a comprehensive review of character limits on social media platforms and perhaps a highly publicized golf tournament dedicated to freedom.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
         "publishedTime": "Hours ago"
       },
       {
-        "id": "story-1765658214109-1",
-        "headline": "Democrats Shockingly Unveil Photos of Famous People Existing in Same Room as Other Famous People",
-        "content": "In a move that absolutely nobody saw coming, House Democrats released a highly curated collection of 19 photographs, proving conclusively that prominent figures like President Trump, Bill Clinton, and Prince Andrew once occupied the same general airspace as Jeffrey Epstein. With an additional 94,981 images still awaiting public scrutiny, sources suggest future releases might reveal politicians attending charity galas or even, gasp, dining in restaurants. The committee assures the public that while these photos exist, they contain absolutely no context whatsoever, which is somehow even more unsettling.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXOVsWGW0CNpoJXMvF5OIW3ubDhDb7WVJDHL1sNUztXgj_zUYNT1es7IJWGDg7wP9OEYF_1i6O2j0Qi-4EPfhkBOuOF6Oxg3scKSeVZ6m4TYtpiJPYBLawdmDncK9WhZHkZzeD_Pl4pcnci3PFGZQnr8eiM0a1cyPDiYMlW9rcgb7eOfS8qu7ddEdRA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-2",
+        "headline": "Washington State Floods Politely Begin Retreating After Having 'Quite Enough Fun' Destroying Everything",
+        "content": "After several days of enthusiastically rearranging Washington state's geography, the historic floodwaters have, much to the surprise of everyone, decided to recede. Residents, who spent days being airlifted from their rooftops like particularly soggy VIPs, are now being assured that the water is merely 'taking a break.' Cleanup efforts are expected to involve an entirely new state map, several dozen industrial-sized sponges, and a collective therapy session for everyone who just had their front yard become a new river delta. Officials warn that while the situation has 'stabilized,' 'recovery' might involve inventing gills.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765658214109-2",
-        "headline": "New York Joins Elite Club of States That Apparently Don't Understand Expiration Dates",
-        "content": "New York has proudly become the eighth state to discover that, much like a carton of milk, some legal residencies eventually expire, yet their commercial driver's licenses mysteriously do not. U.S. Transportation Secretary Sean Duffy, visibly exasperated, promised to hold the state's highway funds hostage for $73 million unless they quickly learn the fundamental concept of \"revoking things that are no longer valid.\" Critics wonder if the next federal audit will focus on states issuing driver's licenses to enthusiastic but unlicensed squirrels.",
-        "originalSource": "San Francisco Chronicle (AP)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1pzE4g8Lzve4karYE_3KlKQGeB-lqYBF96h9cgMgu72FheXk66SH05GwSzEGRvAskYhfyDlG1UgcgEaI8tDBNiE6j5YNdKQktPJ07rG2TcRGrVj0C7oXr45b76aj5k0S9n_ymfX0EPLEJi1hMMvrOWQWEuRP9EqQmlVVKQ_BxOVVRcyg2yyoMlftZIhOnwymYlNBKQ681FWYgw37xR6isPhqk4rzBCA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-3",
+        "headline": "Hollywood Shaken to Core as Character Actor Peter Greene Discovered to Be, In Fact, Mortal",
+        "content": "In news that has sent precisely the expected amount of 'shockwaves' through the Hollywood community, acclaimed character actor Peter Greene, whose face was instantly recognizable even if his name wasn't always on the tip of your tongue, was found deceased in his New York apartment. Known for brilliantly portraying villains you loved to hate in films like *Pulp Fiction* and *The Mask*, Greene's passing is now subject to the most exhaustive investigation local authorities can muster, likely involving a thorough search for any remaining snacks in his fridge. Fans are encouraged to rewatch his iconic performances and then, presumably, move on with their lives.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765658214109-3",
-        "headline": "Thrill-Seeker Accidentally Experiences More Thrills Than Intended on \"Stardust Racers\"",
-        "content": "Universal Orlando's \"Stardust Racers\" coaster provided one 32-year-old man, Kevin Rodriguez Zavala, with a truly unforgettable experience, culminating in an accidental, yet remarkably severe, case of \"blunt-impact injuries.\" While investigators noted the man was found in a \"slumped over\" position with \"severe facial trauma,\" they were quick to confirm that park workers had meticulously followed every single procedure, right up until the moment an actual human died. The park assures guests that future rides will continue to adhere to all safety protocols, even if those protocols currently include 'sometimes people die, but it's an accident.'",
-        "originalSource": "AP News (via WBOC)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x0_aVABuD-2agg9v8x1MwaP3XlJex912CdfEPgHpLmonOCB0KnYlmL6zkYcF4jaxIfW_AN2WLeSuGSAphyHCjRqvurSZkLXiLiKtIThT8LdqKyJiTRs-gp60lXXYe3hMK7-9W7FMnaOxokGEA0mWP0m4cRsqWVYTj5mUNZoyMSCa2j1kpJRoGIL0nR5sa7S_9oe8ft-FRjSiXbT0Oqk9xo1AAn16otaXJKC6cLP80uG11SAD23tlZ6VqxrUb4-7KnyvPXJI6ryZcHE2zjIDYRBlckFgrB52NX1qZiw==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-4",
+        "headline": "Belarus Trades 123 Political Prisoners for Potash, Proving Freedom Has a Price Tag (and It's Fertilizer)",
+        "content": "In a groundbreaking diplomatic exchange that has redefined the concept of 'human rights,' Belarus has generously 'freed' 123 of its most prominent political prisoners, including a Nobel Peace Prize laureate, in direct response to the U.S. lifting sanctions on its lucrative potash exports. President Alexander Lukashenko reportedly called the deal a 'win-win,' noting, 'We get to fertilize our fields, and they get to... well, not be in jail. Everyone's happy!' Diplomatic analysts are now predicting a new era of international relations where global trade is conducted exclusively in political prisoners and various agricultural commodities.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765658214109-4",
-        "headline": "White House: Sign Language Interpreters Threaten President Trump's Carefully Curated Aura of Spontaneous Brilliance",
-        "content": "The Trump administration has dramatically clarified its position on White House briefings, stating that the presence of real-time American Sign Language interpreters would \"severely intrude\" upon President Trump's undeniable ability to control the very specific, highly nuanced, and often improvisational image he projects to the public. Officials worry that silent hand gestures might accidentally convey an alternate message, or worse, distract from the President's signature verbal flourishes, thus diluting the pure, unadulterated essence of his messaging.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixlvV1H9p5muPbfiXvatqtUN3iFV9aEnFyhPD5OhlI0AELkyyJxoDxVkZWpDCOwxD_rJ7q7Y6qg_tEMXsMW2_OwJjaeuJKhSpXBb9GTaGu_dxQfyylQCx6Y_HMxjG6NFD1MeFOZL_1Ac5suCeMtrAy8pavt163RPU1H5TrxNJFF-hrfPuFMIvkkSfomptCayozG1POBQgqfLC2wn_VJROwTHjQDtgINJIL6iIyjon7GPpb1WUI8Ju2w==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765658214109-5",
-        "headline": "Bureaucracy Achieves Posthumous Victory: Child's Death Now Officially Worth $31.5 Million",
-        "content": "In a landmark legal decision that proves money can, in fact, rectify anything, a California court has determined that the tragic, preventable death of 11-year-old Arabella McCormack was precisely worth $31.5 million. The hefty sum, intended for her surviving sisters, serves as a stark reminder to countless failing institutions—including a city, a county, a school, and even a church—that while they utterly failed to save a child, they are now admirably accountable with a checkbook.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LDsuiZbkboNf0wqtHL7b4Skure7IglVwGj4cCw-0XWsPvCY1Zp7Mqz5hpCTUAc98cfvJO6kI6lnYwA2BXcJlFZjxVTQEBwdYMYK8TIBdGF_WzXHjdLTMk3eP7UQnen6e3FX_67f2mTbjCFpxKMc4yJCy9D7N2w3e-PBkM1FGxN7SD3mChdpUNba23JUba7EjFxM=",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-5",
+        "headline": "Nation's Consumers Reportedly Opting for 'Existential Dread' Instead of Festive Cheer This Holiday Season",
+        "content": "A recent AP-NORC poll has confirmed the shocking news that American consumers are actively choosing 'economic anxiety' over 'holiday joy' this year, leading to a nationwide shortage of merriment. Families are reportedly swapping lavish gifts for practical items like 'a slightly less leaky roof' and 'enough ramen to last through January.' Experts suggest that instead of caroling, many households will be participating in competitive coupon clipping, and Santa Claus might be asked to provide proof of income before dropping off any 'non-essential' coal. The festive outlook for the end of the year is now officially 'grim but fiscally responsible.'",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765658214109-0",
-        "headline": "Some Brave American Soldiers and a Helper Died in a Fight Far Away in Syria",
-        "content": "Two American soldiers and a grown-up who helps them talk to people sadly died when a bad guy from a group called Islamic State attacked them in a place called Syria. Three other people got hurt too. This was the first time American people died there in a whole year. The bad guy was also killed, and grown-ups are trying to figure out exactly what happened.",
-        "originalSource": "AP News / U.S. Central Command",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzi0MMrtHBWUQRRTOjyEVLg8DXd2GS-pljbEy4HYuPXR4ZmJdXwK3xvPcXikLAzzuq9XaBVsMjvYe6m9FCsfjK8slblZLqy_3OUwzUSqtXY5dmv3c3ggQ-aZS1nKCM7rjy_yGiYa9DAcqwBBRQeKQ-f1ac6AIOZv_2qhmvQ0TMwkJ8vfC2IqO0KuzBMkCUzKkaDBWH17BLPhTukQWWq-6evJOh7mA=",
+        "id": "story-1765665451732-0",
+        "headline": "Some American Heroes Died in a Fight in Syria.",
+        "content": "Some American soldiers and one regular person got hurt really badly in a surprise attack in Syria. A bad guy from a group called ISIS did it. Three other people got hurt too. President Trump said he would make sure the bad guys pay for this. It's a very sad thing that happened to our people.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765665451732-1",
+        "headline": "President Trump Says We Will Fight Back After Attack.",
+        "content": "After American soldiers were hurt in Syria, President Trump wrote online that it was an attack from ISIS. He promised that the United States would hit back very hard. This shows how serious the attack was and how upset our leaders are about it.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
         "publishedTime": "Hours ago"
       },
       {
-        "id": "story-1765658214109-1",
-        "headline": "Lawmakers Show Pictures of President Trump, Mr. Clinton, and Prince Andrew",
-        "content": "Some lawmakers called Democrats showed everyone 19 pictures from a very rich person's house named Jeffrey Epstein. In these pictures, you can see President Trump, a past president named Bill Clinton, and Prince Andrew from England. They showed these pictures because they want the government to let everyone see all the other thousands of pictures and papers from Epstein's house. The lawmakers didn't say that anyone did anything wrong in the pictures, they just showed them.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXOVsWGW0CNpoJXMvF5OIW3ubDhDb7WVJDHL1sNUztXgj_zUYNT1es7IJWGDg7wP9OEYF_1i6O2j0Qi-4EPfhkBOuOF6Oxg3scKSeVZ6m4TYtpiJPYBLawdmDncK9WhZHkZzeD_Pl4pcnci3PFGZQnr8eiM0a1cyPDiYMlW9rcgb7eOfS8qu7ddEdRA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-2",
+        "headline": "Big Floods in Washington State Are Finally Getting Smaller.",
+        "content": "The really big floods in Washington state are finally going down. It rained super hard for many days, and people had to be saved from their homes, and lots of families had to leave. The water even washed away some houses! Now things are calmer, but it will take a very long time to clean everything up and fix what was broken.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765658214109-2",
-        "headline": "New York Gave Driver's Licenses Wrongly to Some People",
-        "content": "The boss of all the roads and cars, Mr. Sean Duffy, said that New York is the eighth state that gave big truck driver's licenses (CDLs) to people who weren't supposed to have them anymore after their papers ran out. He said that if New York doesn't fix this problem and take back those licenses, they won't get $73 million for their roads. This all started because a truck driver who wasn't supposed to be driving caused a really bad accident in Florida.",
-        "originalSource": "San Francisco Chronicle (AP)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1pzE4g8Lzve4karYE_3KlKQGeB-lqYBF96h9cgMgu72FheXk66SH05GwSzEGRvAskYhfyDlG1UgcgEaI8tDBNiE6j5YNdKQktPJ07rG2TcRGrVj0C7oXr45b76aj5k0S9n_ymfX0EPLEJi1hMMvrOWQWEuRP9EqQmlVVKQ_BxOVVRcyg2yyoMlftZIhOnwymYlNBKQ681FWYgw37xR6isPhqk4rzBCA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-3",
+        "headline": "Actor Peter Greene from Cool Movies Has Died.",
+        "content": "Peter Greene, who was an actor in famous movies like 'Pulp Fiction' and 'The Mask,' was found dead in his apartment in New York. The police are trying to figure out how and why he died. Many people in Hollywood and his fans are very sad about this.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765658214109-3",
-        "headline": "A Man's Sad Death on a Roller Coaster Was an Accident",
-        "content": "A grown-up named Kevin Rodriguez Zavala, who was 32 years old, sadly died on a roller coaster called Stardust Racers at Universal Orlando's Epic Universe. People said it was an accident because he got hurt really bad. A police report said he was found hurt, but the people who worked at the park did everything right. Kevin used a wheelchair and had metal rods in his back from an old operation.",
-        "originalSource": "AP News (via WBOC)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x0_aVABuD-2agg9v8x1MwaP3XlJex912CdfEPgHpLmonOCB0KnYlmL6zkYcF4jaxIfW_AN2WLeSuGSAphyHCjRqvurSZkLXiLiKtIThT8LdqKyJiTRs-gp60lXXYe3hMK7-9W7FMnaOxokGEA0mWP0m4cRsqWVYTj5mUNZoyMSCa2j1kpJRoGIL0nR5sa7S_9oe8ft-FRjSiXbT0Oqk9xo1AAn16otaXJKC6cLP80uG11SAD23tlZ6VqxrUb4-7KnyvPXJI6ryZcHE2zjIDYRBlckFgrB52NX1qZiw==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-4",
+        "headline": "Belarus Lets People Go After America Stops a Trade Ban.",
+        "content": "The country of Belarus let 123 people go free who were in jail for political reasons, like a very important person named Ales Bialiatski who won a Nobel Peace Prize. This happened after America said it would stop blocking Belarus from selling a special dirt called potash to other countries. America and Belarus talked about this, and it might mean they will get along better now.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765658214109-4",
-        "headline": "President Trump's Team Thinks Sign Language Might Change His Message",
-        "content": "President Trump's team said in a paper that having someone use sign language to explain what he says during White House meetings would 'get in the way' of President Trump showing himself the way he wants to. This idea is part of why they are fighting against what a judge said they should do. A group called the National Association of the Deaf wanted the sign language helpers there.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixlvV1H9p5muPbfiXvatqtUN3iFV9aEnFyhPD5OhlI0AELkyyJxoDxVkZWpDCOwxD_rJ7q7Y6qg_tEMXsMW2_OwJjaeuJKhSpXBb9GTaGu_dxQfyylQCx6Y_HMxjG6NFD1MeFOZL_1Ac5suCeMtrAy8pavt163RPU1H5TrxNJFF-hrfPuFMIvkkSfomptCayozG1POBQgqfLC2wn_VJROwTHjQDtgINJIL6iIyjon7GPpb1WUI8Ju2w==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765658214109-5",
-        "headline": "Lots of Money Will Go to Sisters After a Girl Died from Not Getting Food",
-        "content": "Two younger sisters of a girl named Arabella McCormack, who was 11 and sadly died because she was hurt very badly and didn't get enough food, will get $31.5 million. This big money payment means that many grown-ups and places, like the city, the county, a school, and even a church, are being held responsible. They didn't do enough to help Arabella when she was being treated so terribly.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LDsuiZbkboNf0wqtHL7b4Skure7IglVwGj4cCw-0XWsPvCY1Zp7Mqz5hpCTUAc98cfvJO6kI6lnYwA2BXcJlFZjxVTQEBwdYMYK8TIBdGF_WzXHjdLTMk3eP7UQnen6e3FX_67f2mTbjCFpxKMc4yJCy9D7N2w3e-PBkM1FGxN7SD3mChdpUNba23JUba7EjFxM=",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-5",
+        "headline": "People Are Not Feeling Happy About Holiday Shopping This Year.",
+        "content": "A new survey found that people in America are not very excited about the holidays this year. This is because they are worried about money. Many families are buying less fun stuff and only getting what they really need. It seems like lots of people are having a tough time with money, so the end of the year might not feel as cheerful.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765658214109-0",
-        "headline": "Echoes in Palmyra",
-        "content": "The Syrian desert stretched endlessly, holding its breath. A routine patrol, a shared joke, then the world exploded. A lone gunman, a ghost of a fading conflict, rose from the dust. Two American service members, their hopes and futures stolen, fell. Beside them, an interpreter, a bridge between worlds, silenced forever. Three more wounded, the air thick with the acrid scent of gunpowder and grief. The investigation would follow, the gunman dead, but the void left by their sacrifice near Palmyra would echo in the vast, unforgiving landscape.",
-        "originalSource": "AP News / U.S. Central Command",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzi0MMrtHBWUQRRTOjyEVLg8DXd2GS-pljbEy4HYuPXR4ZmJdXwK3xvPcXikLAzzuq9XaBVsMjvYe6m9FCsfjK8slblZLqy_3OUwzUSqtXY5dmv3c3ggQ-aZS1nKCM7rjy_yGiYa9DAcqwBBRQeKQ-f1ac6AIOZv_2qhmvQ0TMwkJ8vfC2IqO0KuzBMkCUzKkaDBWH17BLPhTukQWWq-6evJOh7mA=",
+        "id": "story-1765665451732-0",
+        "headline": "A Saturday's Cruel Dawn in the Desert",
+        "content": "The Syrian desert shimmered, concealing a lethal secret. Two U.S. service members and an American civilian fell that Saturday, ambushed by a lone Islamic State figure. Three more were wounded, their lives forever marked. The U.S. Central Command confirmed the devastating loss, a somber echo across the sands. News reached home, stirring a swift, grave response. President Trump vowed \"very serious retaliation,\" a promise hanging heavy in the air, underscoring the profound cost paid by American personnel in a land far from home. The desert claimed its toll, demanding a reckoning.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://www.pbs.org/newshour/",
+        "publishedTime": "5 hours ago"
+      },
+      {
+        "id": "story-1765665451732-1",
+        "headline": "The Digital Pulpit's Resounding Call",
+        "content": "Across digital waves, President Trump's message cut through the somber news from Syria. On Truth Social, he labeled the ambush a direct \"ISIS attack\" on both the U.S. and Syria. His words were a swift, unwavering promise: \"very serious retaliation\" would follow. This declaration, issued in the wake of American casualties, underscored the deep gravity of the situation. It was a clear, strong political reaction, reflecting the resolve of U.S. leadership to respond forcefully to attacks on its forces. The world watched, awaiting the execution of his stern warning.",
+        "originalSource": "Fox News",
+        "sourceUrl": "https://www.foxnews.com/",
         "publishedTime": "Hours ago"
       },
       {
-        "id": "story-1765658214109-1",
-        "headline": "Shadows on the Island",
-        "content": "The congressional committee unveiled a sliver of a hidden world, nineteen images plucked from ninety-five thousand. There, smiling or solemn, stood President Trump, Bill Clinton, and Prince Andrew, faces of power caught in the gilded cages of Jeffrey Epstein’s infamous estate. This initial release was a tactical maneuver, a calculated pressure on the Republican administration, urging them to expose the full truth before the deadline loomed. No context accompanied the stark photographs, yet the whispers of untold stories and unanswered questions hung heavy in the air, a persistent hum of intrigue.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXOVsWGW0CNpoJXMvF5OIW3ubDhDb7WVJDHL1sNUztXgj_zUYNT1es7IJWGDg7wP9OEYF_1i6O2j0Qi-4EPfhkBOuOF6Oxg3scKSeVZ6m4TYtpiJPYBLawdmDncK9WhZHkZzeD_Pl4pcnci3PFGZQnr8eiM0a1cyPDiYMlW9rcgb7eOfS8qu7ddEdRA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-2",
+        "headline": "When the Rivers Claimed Washington Homes",
+        "content": "After days of relentless deluge, Washington's angry waters began their slow retreat. But the land they left behind bore scars: homes vanished, families marooned, lives upended. Rescue boats navigated through newly formed lakes where streets once lay, plucking the stranded to safety. Evacuation centers buzzed with bewildered faces, clutching what little they had saved. The immediate crisis of historic flooding had stabilized, yet the true test lay ahead. A massive cleanup loomed, a testament to nature's raw power, promising a lengthy and arduous journey towards recovery for the ravaged communities.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "3 hours ago"
       },
       {
-        "id": "story-1765658214109-2",
-        "headline": "Expired Journeys",
-        "content": "New York became the eighth domino to fall, caught in a federal audit's unforgiving spotlight. Commercial driver's licenses, critical gateways to employment, had been improperly issued to immigrants, remaining valid long after legal residency expired. Secretary Sean Duffy's ultimatum was swift: fix the flawed system, revoke the illicit licenses, or lose $73 million in highway funds. The stakes were tragically high; a recent audit in Florida, prompted by a fatal crash involving an unauthorized truck driver, served as a stark reminder of the potential consequences. The roads ahead demanded accountability.",
-        "originalSource": "San Francisco Chronicle (AP)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1pzE4g8Lzve4karYE_3KlKQGeB-lqYBF96h9cgMgu72FheXk66SH05GwSzEGRvAskYhfyDlG1UgcgEaI8tDBNiE6j5YNdKQktPJ07rG2TcRGrVj0C7oXr45b76aj5k0S9n_ymfX0EPLEJi1hMMvrOWQWEuRP9EqQmlVVKQ_BxOVVRcyg2yyoMlftZIhOnwymYlNBKQ681FWYgw37xR6isPhqk4rzBCA==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-3",
+        "headline": "Curtain Call for a Familiar Face",
+        "content": "In a quiet New York apartment, a chapter closed for Hollywood. Peter Greene, the character actor whose unforgettable presence graced films like *Pulp Fiction*, *The Mask*, and *Training Day*, was found deceased. The news rippled through the industry, a sudden silence where his powerful portrayals once roared. Local authorities began their meticulous investigation, seeking answers behind the curtain's final drop. Fans remembered his chilling intensity, his ability to craft memorable villains and troubled souls. A talent extinguished, leaving behind a legacy etched in cinematic history, but a profound quiet in his wake.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us",
+        "publishedTime": "2 hours ago"
       },
       {
-        "id": "story-1765658214109-3",
-        "headline": "Starlight's End",
-        "content": "The Stardust Racers coaster promised exhilaration, a fleeting escape into a universe of thrills. For Kevin Rodriguez Zavala, 32, it became his final journey. Found slumped, severe facial trauma hinting at a violent end, his death was ruled accidental, attributed to blunt-impact injuries. He, who navigated life with a wheelchair and spinal rods from a prior surgery, had sought a moment of weightless joy. The sheriff's report concluded park workers followed every procedure, a cold comfort against the backdrop of shattered dreams at Universal Orlando’s Epic Universe.",
-        "originalSource": "AP News (via WBOC)",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x0_aVABuD-2agg9v8x1MwaP3XlJex912CdfEPgHpLmonOCB0KnYlmL6zkYcF4jaxIfW_AN2WLeSuGSAphyHCjRqvurSZkLXiLiKtIThT8LdqKyJiTRs-gp60lXXYe3hMK7-9W7FMnaOxokGEA0mWP0m4cRsqWVYTj5mUNZoyMSCa2j1kpJRoGIL0nR5sa7S_9oe8ft-FRjSiXbT0Oqk9xo1AAn16otaXJKC6cLP80uG11SAD23tlZ6VqxrUb4-7KnyvPXJI6ryZcHE2zjIDYRBlckFgrB52NX1qZiw==",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-4",
+        "headline": "A Strategic Bargain for Belarusian Souls",
+        "content": "Hope flickered across Belarus as 123 political prisoners, including the revered Nobel Peace Prize laureate Ales Bialiatski, walked free. Their release was no random act, but a direct consequence of a delicate diplomatic dance. The United States, in a significant exchange, had lifted sanctions on Belarus's lucrative potash exports. This strategic move, born from talks with Belarusian President Alexander Lukashenko, hinted at a thaw, a potential re-calibration of U.S.-Belarus relations. It was a calculated risk, trading economic leverage for human freedom, marking a pivotal moment in international diplomacy.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       },
       {
-        "id": "story-1765658214109-4",
-        "headline": "A Voice Unheard",
-        "content": "The legal brief landed with a controversial thud. The Trump administration argued that mandatory real-time American Sign Language interpretation during White House briefings would \"severely intrude on the President's prerogative to control the image he presents to the public.\" This stance, part of an appeal against a federal judge's order, ignited a fresh debate. The National Association of the Deaf had sued, seeking equal access to information. Yet, the administration prioritized its curated narrative, risking a chasm of understanding for a community yearning for clear, direct communication from their leader.",
-        "originalSource": "PBS News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixlvV1H9p5muPbfiXvatqtUN3iFV9aEnFyhPD5OhlI0AELkyyJxoDxVkZWpDCOwxD_rJ7q7Y6qg_tEMXsMW2_OwJjaeuJKhSpXBb9GTaGu_dxQfyylQCx6Y_HMxjG6NFD1MeFOZL_1Ac5suCeMtrAy8pavt163RPU1H5TrxNJFF-hrfPuFMIvkkSfomptCayozG1POBQgqfLC2wn_VJROwTHjQDtgINJIL6iIyjon7GPpb1WUI8Ju2w==",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765658214109-5",
-        "headline": "The Weight of Neglect",
-        "content": "The $31.5 million settlement was a grim acknowledgment, a price paid for a life stolen by unimaginable cruelty. Arabella McCormack, just eleven, had endured torture and starvation, a silent tragedy ending in 2022. Her two younger sisters, survivors of the same nightmare, would now bear the weight of this monetary justice. The city, county, a school, and a church—a network of supposed protectors—were held accountable. Each had failed, their collective inaction forming a systematic breach, allowing a child to suffer and die. The settlement closed a chapter, but the scars remained.",
-        "originalSource": "AP News",
-        "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LDsuiZbkboNf0wqtHL7b4Skure7IglVwGj4cCw-0XWsPvCY1Zp7Mqz5hpCTUAc98cfvJO6kI6lnYwA2BXcJlFZjxVTQEBwdYMYK8TIBdGF_WzXHjdLTMk3eP7UQnen6e3FX_67f2mTbjCFpxKMc4yJCy9D7N2w3e-PBkM1FGxN7SD3mChdpUNba23JUba7EjFxM=",
-        "publishedTime": "Less than 24 hours ago"
+        "id": "story-1765665451732-5",
+        "headline": "Silent Bells and Leaner Holiday Festivities",
+        "content": "The usual festive cheer felt muted this holiday season. An AP-NORC poll confirmed the widespread sentiment: American consumers were gripped by pessimism. Economic anxieties cast a long shadow, forcing families to reassess their holiday traditions. Lavish gifts and extravagant feasts gave way to careful budgets. Non-essential spending was curtailed, replaced by a focus on basic necessities. The survey painted a picture of financial strain, a collective sigh instead of celebratory carols. It wasn't the merry holiday season many hoped for, but a somber reflection of enduring economic pressures, dimming the year-end glow.",
+        "originalSource": "Associated Press / PBS NewsHour",
+        "sourceUrl": "https://apnews.com/",
+        "publishedTime": "21 hours ago"
       }
     ]
   }
