@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765636662846,
+  "timestamp": 1765644382301,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765636589565-0",
-        "headline": "Expiration of ACA Subsidies Threatens to Worsen Healthcare Crisis for Millions of Vulnerable Americans",
-        "content": "The looming expiration of enhanced Affordable Care Act premium tax credits on December 31 represents a profound failure to prioritize the health and economic stability of 22 million Americans. This impending policy lapse, which could force an average 114% increase in out-of-pocket costs, is not merely a financial inconvenience but a systemic threat that risks pushing four million people, particularly the self-employed, out of essential health coverage. This highlights the urgent need for a more equitable healthcare system that guarantees access for all, rather than leaving millions to face devastating medical debt or forego care entirely.",
+        "id": "story-1765644303171-0",
+        "headline": "President Trump's Executive Order Prioritizes Corporate AI Profits Over Public Safety and State Autonomy",
+        "content": "President Trump has signed an executive order aiming to prevent individual states from enacting their own AI regulations, a move lauded by major tech companies but raising alarm among advocates for public protection. The order establishes a new task force to monitor and challenge existing state AI laws, threatening to restrict federal funding to states with 'onerous' rules. This action, framed as promoting innovation, effectively centralizes power in the hands of corporations and the federal government, stifling democratic efforts at the state level to implement vital safeguards against potential harms of unregulated artificial intelligence, such as algorithmic bias, job displacement, and widespread surveillance, thus exacerbating systemic inequalities.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-excessive-state-ai-regulations/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-1",
+        "headline": "House Democrats' Release of Epstein Estate Photos Highlights Enduring Concerns About Elite Impunity",
+        "content": "House Democrats on the Oversight Committee have released a selection of photos from Jeffrey Epstein's personal estate, which include images of President Trump, Bill Clinton, and Prince Andrew. This disclosure, part of an ongoing investigation into the late financier's network, underscores a disturbing pattern of powerful individuals associating with alleged traffickers. The White House's accusation that Democrats are 'cherry-picking' images attempts to deflect from the broader systemic issue of how wealth and influence can shield individuals from scrutiny and accountability, demanding a thorough, unbiased investigation into all who facilitated or benefited from Epstein's illicit activities.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.chron.com/news/article/house-democrats-release-photos-of-trump-clinton-19967205.php",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1765644303171-2",
+        "headline": "President Trump's Escalating Venezuela Pressure Raises Concerns About Sovereignty and Regional Stability",
+        "content": "U.S. commandos seized the oil tanker 'Skipper' off the coast of Venezuela, marking a dramatic escalation in President Trump's campaign to pressure Nicolás Maduro by restricting access to illicit oil revenues. The tanker was part of a shadowy fleet used to smuggle crude oil for nations facing stiff sanctions, including Venezuela, Russia, and Iran. This intervention, while aimed at challenging 'illicit' activities, risks further destabilizing the region and harming the Venezuelan populace, highlighting a pattern of unilateral U.S. actions that prioritize geopolitical leverage over diplomatic solutions and the well-being of ordinary citizens.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.newsday.com/news/world/us-seizure-of-rogue-oil-tanker-off-venezuela-signals-new-crackdown-on-shadow-fleet-t60580",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-3",
+        "headline": "Unexpected Departure of Admiral Signals Deeper Concerns About Legality of U.S. Military Operations",
+        "content": "Admiral Alvin Holsey, commander of U.S. Southern Command, retired on Friday in an unexpected move less than a year into his term. This abrupt departure follows reports of policy clashes with the Defense Secretary, particularly concerning the legality and operational tempo of U.S. military strikes against suspected drug boats in the Caribbean Sea. Holsey's early exit raises serious questions about accountability within the military command structure, the justification of these often-covert operations, and their potential impact on international law and human rights, rather than merely reflecting internal policy disputes.",
+        "originalSource": "CBS News / CNN",
+        "sourceUrl": "https://www.cbs58.com/news/commander-in-charge-of-us-military-operations-in-the-caribbean-retires-after-clashes-with-hegseth-over-boat-strikes",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-4",
+        "headline": "Potential Supreme Court Rejection of President Trump Tariffs Highlights Costly Corporate Burden",
+        "content": "A potential Supreme Court ruling against the emergency levies imposed by President Trump's administration on imports could obligate the federal government to refund businesses an estimated $168 billion in tariff revenue. This financial exposure, based on analysis by the Penn Wharton Budget Model, underscores how arbitrary trade policies, often presented as protectionist measures, ultimately impose significant financial burdens on corporations and frequently pass costs onto working-class consumers. This situation highlights a systemic issue where policy decisions create market instability and require massive payouts, questioning who truly benefits from such economic gambles.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "sourceUrl": "https://www.cbsnews.com/moneywatch/news/us-could-owe-businesses-168b-if-supreme-court-rejects-trump-tariffs/",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-1",
-        "headline": "Democrats Intensify Pressure for Full Transparency on Epstein Files, Revealing Connections to Powerful Figures",
-        "content": "House Democrats on the Oversight Committee have strategically released a selection of images from Jeffrey Epstein's estate, featuring President Trump, Bill Clinton, and Prince Andrew, to demand full transparency and accountability. This move is a critical step in pressing the administration to release all outstanding documents from the late financier's extensive files, underscoring the systemic nature of power and privilege that often shields influential individuals from scrutiny. While no accusations of wrongdoing have been made in the context of these specific photos, the ongoing investigation into Epstein's network is vital for uncovering the full extent of complicity and ensuring justice for his victims.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-2",
-        "headline": "President Trump's Administration Escalates Aggression Against Venezuela, Raising Concerns Over Regional Stability and Sanctions' Human Cost",
-        "content": "In a concerning escalation of President Trump’s foreign policy, U.S. forces dramatically seized the oil tanker *Skipper* off Venezuela's coast, ostensibly over its involvement in illicit oil trade. This aggressive act, involving commandos and a warrant, is part of a broader campaign to destabilize Nicolás Maduro’s sanctioned government by cutting off vital oil revenues. Critics argue that such unilateral actions often exacerbate humanitarian crises and further impoverish ordinary citizens under the guise of geopolitical maneuvering, rather than addressing the root causes of regional instability or supporting democratic processes through diplomatic means.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765636589565-3",
-        "headline": "President Trump's Administration Fights Against Accessibility, Calling ASL Services an 'Intrusion' on Public Image",
-        "content": "The President Trump administration is actively appealing a federal court mandate to provide real-time American Sign Language interpretation for White House events, revealing a troubling stance on accessibility and civil rights. Department of Justice attorneys argued that providing this essential service for the deaf and hard-of-hearing community 'would severely intrude on the President's prerogative to control the image he presents to the public.' This position underscores a systemic failure to ensure equitable access to public information for all citizens, effectively marginalizing a significant portion of the population and prioritizing a curated image over fundamental inclusivity.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-4",
-        "headline": "Former Michigan Coach Charged with Felony Domestic Violence, Exposing Systemic Issues in Institutional Accountability",
-        "content": "Following his dismissal, former University of Michigan football coach Sherrone Moore now faces serious charges including felony home invasion, stalking, and misdemeanor breaking and entering, shedding light on the pervasive issue of intimate partner violence. Prosecutors allege Moore violently entered his former partner's apartment, making intimidating statements and threatening self-harm after she reported their relationship to the university. This case highlights the critical need for institutions to robustly address and prevent such abuses of power and ensure the safety of individuals, challenging a culture that often enables such behavior and fails to hold perpetrators accountable.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-5",
-        "headline": "Speaker Johnson's Obstructionist Leadership Faces Backlash as Bipartisan Efforts Emerge to Protect Critical Healthcare Access",
-        "content": "House Speaker Mike Johnson's authority is demonstrably weakening as a coalition of moderate Republicans and Democrats unite to circumvent his leadership, prioritizing critical legislation over partisan obstruction. This defiance was evident in their successful procedural move to force a floor vote on extending the expiring Affordable Care Act premium tax credits, a vital measure that Johnson's leadership has actively resisted. This development underscores the systemic challenges within the legislative body, where progressive initiatives aimed at strengthening social safety nets and ensuring healthcare access for millions are often stifled by leadership more focused on partisan control than public welfare.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
-        "publishedTime": "1 day ago"
+        "id": "story-1765644303171-5",
+        "headline": "Pundits Note Striking Similarities in Rhetoric Between President Trump and Joe Biden, Obscuring Deeper Issues",
+        "content": "Despite President Trump's sustained focus on attacking his political rival, Joe Biden, political commentators are pointing out the striking similarities between the two men's political styles. Both are seen as using familiar, highly-charged rhetoric and similar campaign tactics as the race for the presidency intensifies. This observation is not merely about personality but highlights a systemic issue within mainstream political discourse, where superficial attacks and 'horse race' narratives often obscure substantive discussions about critical challenges such as economic inequality, climate change, or healthcare access, ultimately failing to offer distinct visions for progressive change.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/13/trump-biden-presidential-parallels",
+        "publishedTime": "2 hours ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765636589565-0",
-        "headline": "With ACA subsidies set to lapse, millions of Americans face a painful spike in health plan costs",
-        "content": "The enhanced ACA premium tax credits are set to expire on December 31, threatening a painful spike in health insurance premiums for about 22 million Americans. Out-of-pocket costs are projected to rise by an average of 114% for enrollees, prompting fears that around four million people, many of whom are self-employed, will be forced to drop their coverage.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "id": "story-1765644303171-0",
+        "headline": "Trump signs order to block \"excessive\" state AI regulations",
+        "content": "President Trump signed an executive order aiming to prevent individual states from creating their own AI regulations, arguing a fragmented system would stifle innovation and hinder the U.S. in global competition. The order establishes a new task force to monitor and challenge existing state AI laws and potentially restrict federal funding to states with 'onerous' rules. The move was welcomed by major tech companies.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-excessive-state-ai-regulations/",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-1",
+        "id": "story-1765644303171-1",
         "headline": "House Democrats release photos of Trump, Clinton and Andrew from Epstein's estate",
-        "content": "House Democrats on the Oversight Committee released a selection of photos from the trove of images recovered from Jeffrey Epstein’s estate, which include images of Donald Trump, Bill Clinton, and Prince Andrew. The release is a strategic move to pressure the administration to release all remaining documents from the late financier's files. Neither former president has been accused of wrongdoing in the photo context.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "content": "House Democrats on the Oversight Committee released a selection of photos from Jeffrey Epstein's personal estate, which included images of Donald Trump, Bill Clinton, and former Prince Andrew. The release of the photos, part of an ongoing investigation, prompted the White House to accuse Democrats of \"cherry-picking\" images to create a false, political narrative.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.chron.com/news/article/house-democrats-release-photos-of-trump-clinton-19967205.php",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1765644303171-2",
+        "headline": "US seizure of rogue oil tanker off Venezuela signals new crackdown on shadow fleet",
+        "content": "U.S. commandos seized the oil tanker 'Skipper' off the coast of Venezuela, a dramatic escalation in President Trump's campaign to pressure Nicolás Maduro by restricting access to illicit oil revenues. The tanker was part of a shadowy fleet used to smuggle crude oil for nations facing stiff sanctions, including Venezuela, Russia, and Iran.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.newsday.com/news/world/us-seizure-of-rogue-oil-tanker-off-venezuela-signals-new-crackdown-on-shadow-fleet-t60580",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-2",
-        "headline": "U.S. seizes oil tanker off Venezuela in a dramatic escalation against Maduro's regime",
-        "content": "U.S. forces, including commandos fast-roping from helicopters, seized the oil tanker *Skipper* off the coast of Venezuela. The operation, which involved a warrant for the vessel’s involvement in illicit oil trade, is a significant escalation of President Trump’s campaign to cut off oil revenues that have been a vital source of funding for Nicolás Maduro’s sanctioned government.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765636589565-3",
-        "headline": "Trump administration argues that sign language services 'intrude' on President's public image",
-        "content": "The Trump administration is appealing a federal court order requiring it to provide real-time American Sign Language interpretation for White House press briefings and other events. Department of Justice attorneys argued in a court filing that requiring the service 'would severely intrude on the President's prerogative to control the image he presents to the public' and its messaging.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "id": "story-1765644303171-3",
+        "headline": "Commander overseeing U.S. military forces in Caribbean relinquishes command early",
+        "content": "Admiral Alvin Holsey, commander of U.S. Southern Command, retired on Friday in an unexpected move less than a year into his term. The departure follows reports of policy clashes with the Defense Secretary, particularly concerning the legality and operational tempo of U.S. military strikes against suspected drug boats in the Caribbean Sea.",
+        "originalSource": "CBS News / CNN",
+        "sourceUrl": "https://www.cbs58.com/news/commander-in-charge-of-us-military-operations-in-the-caribbean-retires-after-clashes-with-hegseth-over-boat-strikes",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-4",
-        "headline": "Fired Michigan coach Sherrone Moore charged with felony home invasion and stalking",
-        "content": "Former University of Michigan football coach Sherrone Moore was charged with felony home invasion, stalking, and misdemeanor breaking and entering following his firing. Prosecutors allege Moore barged into the former partner's apartment and threatened to harm himself, making intimidating statements after she reported their relationship to the university, which led to his abrupt dismissal.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-5",
-        "headline": "Speaker Mike Johnson’s grip on the House slips as Republicans defy leadership",
-        "content": "House Speaker Mike Johnson is facing significant challenges to his authority as a group of moderate Republicans join Democrats to bypass his leadership. The dissent was evident when Republicans supported a procedural move to force a floor vote on a bipartisan bill to extend the expiring Affordable Care Act premium tax credits, a measure Johnson's leadership is actively resisting.",
+        "id": "story-1765644303171-4",
+        "headline": "U.S. could owe businesses $168B if Supreme Court rejects Trump tariffs",
+        "content": "A potential Supreme Court ruling against the emergency levies imposed by the Trump administration on imports could obligate the federal government to refund businesses an estimated $168 billion in tariff revenue. The financial exposure is based on analysis by the Penn Wharton Budget Model, highlighting the economic stakes of the legal battle.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "sourceUrl": "https://www.cbsnews.com/moneywatch/news/us-could-owe-businesses-168b-if-supreme-court-rejects-trump-tariffs/",
         "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-5",
+        "headline": "Trump attacks old foe Biden – but presidential parallels hard to avoid",
+        "content": "Despite President Trump's sustained focus on attacking his political rival, Joe Biden, political commentators are pointing out the striking similarities between the two men's political styles. Both are seen as using familiar, highly-charged rhetoric and similar campaign tactics as the race for the presidency intensifies.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/13/trump-biden-presidential-parallels",
+        "publishedTime": "2 hours ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765636589565-0",
-        "headline": "Failed Government Healthcare Mandates Burden American Taxpayers as ACA Subsidies End",
-        "content": "The expiring Affordable Care Act (ACA) premium tax credits, which were never truly sustainable, are exposing the fundamental flaws of government-controlled healthcare. As these costly subsidies end on December 31, approximately 22 million hard-working Americans face a drastic 114% increase in health insurance premiums. This regrettable outcome highlights how government intervention distorts the market, ultimately leading to higher costs and fewer choices. Up to four million individuals, particularly self-employed entrepreneurs, may now be forced to abandon their coverage, demonstrating the unsustainable nature of such federal programs and the need for free-market solutions.",
+        "id": "story-1765644303171-0",
+        "headline": "President Trump Acts Decisively to Safeguard American Innovation from State Overreach.",
+        "content": "President Trump has issued a crucial executive order to prevent states from imposing burdensome and disjointed artificial intelligence regulations. This decisive action underscores his administration's commitment to fostering technological innovation and ensuring America's global leadership. Fragmented state-level rules would undoubtedly stifle progress and disadvantage our nation in the international arena. The order establishes a vital task force to scrutinize existing state AI laws and could wisely limit federal funding for states that enact overly restrictive policies, a move praised by leading technology firms who understand the importance of freedom in enterprise.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-excessive-state-ai-regulations/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-1",
+        "headline": "Democrats Engage in Partisan Smear Tactics, Release Select Epstein Photos.",
+        "content": "In a transparently desperate attempt to distract from their own failures, House Democrats on the Oversight Committee have sensationally released a curated selection of photos from Jeffrey Epstein's estate. These images, which include President Trump, Bill Clinton, and former Prince Andrew, appear to be a cynical effort to create a false, politically motivated narrative. The White House rightly condemned this partisan charade, highlighting how Democrats are \"cherry-picking\" images in a clear abuse of their investigative powers, prioritizing political theater over genuine accountability.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.chron.com/news/article/house-democrats-release-photos-of-trump-clinton-19967205.php",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1765644303171-2",
+        "headline": "President Trump's Firm Hand Seizes Illicit Oil Tanker, Crushing Rogue Regimes' Funding.",
+        "content": "American commandos have executed a decisive operation off the Venezuelan coast, seizing the rogue oil tanker 'Skipper.' This bold move represents a significant escalation in President Trump's unwavering commitment to isolating tyrannical regimes like Nicolás Maduro's by cutting off their illegal oil revenues. The 'Skipper' was a key asset in a clandestine fleet, enabling the smuggling of crude for nations defiant of global sanctions, including Venezuela, Russia, and Iran. This action powerfully demonstrates President Trump's resolve to protect American interests and uphold international law.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.newsday.com/news/world/us-seizure-of-rogue-oil-tanker-off-venezuela-signals-new-crackdown-on-shadow-fleet-t60580",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-3",
+        "headline": "U.S. Southern Command Sees Unexpected Departure Amidst Policy Disagreements.",
+        "content": "Admiral Alvin Holsey, who commanded U.S. Southern Command, has unexpectedly retired on Friday, less than a year into his tenure. This abrupt departure follows persistent reports of significant policy clashes with the Defense Secretary, particularly regarding the crucial legality and vigorous operational pace of American military interdictions against suspected drug trafficking vessels in the vital Caribbean Sea. Americans expect unwavering resolve in the face of such threats.",
+        "originalSource": "CBS News / CNN",
+        "sourceUrl": "https://www.cbs58.com/news/commander-in-charge-of-us-military-operations-in-the-caribbean-retires-after-clashes-with-hegseth-over-boat-strikes",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-4",
+        "headline": "Supreme Court Ruling Against President Trump's Tariffs Threatens Massive Taxpayer Burden.",
+        "content": "A looming Supreme Court decision challenging the vital emergency levies enacted by President Trump's administration on imports could unleash a staggering $168 billion financial obligation for the federal government, requiring refunds to businesses. This immense potential exposure, as quantified by the Penn Wharton Budget Model, dramatically underscores the significant economic stakes involved in this legal challenge, potentially undermining executive authority crucial for national economic security.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "sourceUrl": "https://www.cbsnews.com/moneywatch/news/us-could-owe-businesses-168b-if-supreme-court-rejects-trump-tariffs/",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-1",
-        "headline": "Democrats Politicize Epstein Files, Releasing Photos to Distract and Attack",
-        "content": "In a transparent political maneuver, House Democrats on the Oversight Committee have selectively released images from Jeffrey Epstein's estate, attempting to stir controversy. These photos include President Trump, Bill Clinton, and Prince Andrew. This appears to be a calculated effort to pressure the current administration to release all remaining documents from the late financier's files, despite no accusations of wrongdoing against President Trump or Mr. Clinton in the context of these images. The American people deserve full transparency, not partisan distractions from pressing national issues.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-2",
-        "headline": "President Trump's Administration Takes Decisive Action Against Maduro's Illicit Regime",
-        "content": "In a bold demonstration of American resolve and commitment to liberty, U.S. forces, including courageous commandos, successfully seized the oil tanker Skipper off Venezuela's coast. This crucial operation, executed with a legitimate warrant targeting illicit oil trade, represents a significant and necessary escalation of President Trump's robust campaign to dismantle the financial lifeline of Nicolás Maduro's tyrannical and sanctioned government. Cutting off these oil revenues is vital for upholding international law and promoting stability in the region, directly challenging regimes that undermine freedom.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765636589565-3",
-        "headline": "President Trump's Administration Defends Executive Prerogative Against Judicial Overreach",
-        "content": "The Trump administration is rightly appealing a federal court's mandate demanding real-time American Sign Language interpretation for White House press briefings. Department of Justice attorneys have articulated that such a requirement 'would severely intrude on the President's prerogative to control the image he presents to the public' and the vital messaging emanating from the Executive Branch. This action underscores the principle that the President must retain the essential constitutional authority to manage official communications without undue judicial interference, ensuring clarity and consistency in conveying the administration's message to the nation.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-4",
-        "headline": "Former Michigan Coach Faces Serious Felony Charges for Disturbing Domestic Incident",
-        "content": "Former University of Michigan football coach Sherrone Moore now faces serious charges including felony home invasion, stalking, and misdemeanor breaking and entering, a stark reminder of personal accountability. Prosecutors assert that Moore forcibly entered his former partner's residence, made alarming threats of self-harm, and uttered intimidating statements after she reported their relationship to the university, directly leading to his dismissal. These allegations highlight a severe breach of personal safety and the law, demanding proper legal consequence.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-5",
-        "headline": "Conservative Leadership Challenged as Moderates Undermine Speaker Johnson on Spending",
-        "content": "House Speaker Mike Johnson's leadership is encountering significant resistance as a faction of so-called 'moderate' Republicans have aligned with Democrats, seeking to bypass the established conservative agenda. This troubling dissent was starkly evident in their support for a procedural maneuver to force a vote on extending the expiring Affordable Care Act premium tax credits—a costly, government-expanding measure that Speaker Johnson's leadership is steadfastly working to resist. This internal defiance undermines conservative principles and fiscal responsibility, making the Speaker's efforts to control government spending more difficult.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
-        "publishedTime": "1 day ago"
+        "id": "story-1765644303171-5",
+        "headline": "President Trump Sharply Distinguishes Himself from Rival Biden Amidst Media Comparisons.",
+        "content": "While President Trump continues his necessary and direct engagement against his political rival, Joe Biden, certain political commentators curiously attempt to draw parallels between their styles. Such observations often overlook the fundamental distinctions, focusing instead on superficial similarities like \"highly-charged rhetoric\" and campaign tactics as the crucial race for the presidency intensifies. President Trump’s unique America First vision clearly sets him apart.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/13/trump-biden-presidential-parallels",
+        "publishedTime": "2 hours ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765636589565-0",
-        "headline": "Nation's Health System Achieves Peak 'Affordability' As Millions Prepare To Finally Enjoy Not Having Health Insurance",
-        "content": "Sources confirm that the nation's 22 million 'Affordable Care Act' enrollees are about to experience a truly liberating financial event as their premium tax credits evaporate on December 31st. With out-of-pocket costs projected to surge by a mere 114%, experts predict a refreshing wave of financial clarity for those who've been needlessly paying for health coverage. Approximately four million Americans, largely self-employed go-getters, are expected to finally achieve their dream of self-reliance by opting out of the costly charade entirely, presumably relying on positive thinking and robust immune systems to manage their health.",
+        "id": "story-1765644303171-0",
+        "headline": "President Trump Courageously Prevents States From Regulating Skynet's Toaster Settings.",
+        "content": "In a bold move to ensure America's technological future remains unfettered by quaint human concerns, President Trump today signed an executive order effectively telling states to put down their tiny AI rulebooks. \"We can't have Massachusetts trying to regulate an algorithm's feelings, or Florida trying to license a self-driving car's tan,\" President Trump declared, adding that a fragmented system would surely stifle innovation and prevent the U.S. from winning the global robot butler race. The order creates a crack team of experts tasked with ensuring no state accidentally bans sentient microwaves or restricts federal funding to any state daring to ask ChatGPT for its birth certificate. Major tech companies, reportedly fearing a future where every toaster needs a permit, cheered the decisive action.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-excessive-state-ai-regulations/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-1",
+        "headline": "Democrats Accused Of \"Cherry-Picking\" Most Embarrassing Possible Photos From Epstein Estate, Ignoring Hundreds Of Perfectly Normal Tax Forms.",
+        "content": "House Democrats on the Oversight Committee have unleashed a visual onslaught from Jeffrey Epstein's estate, featuring President Trump, Bill Clinton, and former Prince Andrew in a series of images the White House swiftly denounced as \"egregious cherry-picking.\" \"They completely ignored the photos of President Trump discussing trade deals, or Mr. Clinton reading a thrilling biography of Benjamin Franklin,\" fumed a White House spokesperson, adding that the released images depicting... well, whatever they depicted, were clearly designed to create a false political narrative. Critics suggest Democrats deliberately overlooked hundreds of photos featuring Epstein's meticulous tax records and extensive stamp collection, instead opting for anything that might cause a collective gasp.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.chron.com/news/article/house-democrats-release-photos-of-trump-clinton-19967205.php",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1765644303171-2",
+        "headline": "US Commandos Intercept Evil 'Skipper' Tanker, Foil Global Plot To Smuggle World's Nastiest Oil.",
+        "content": "In a high-seas drama reminiscent of a B-movie blockbuster, U.S. commandos have reportedly \"liberated\" the nefarious oil tanker 'Skipper' off the Venezuelan coast, effectively foiling a global conspiracy to traffic the planet's least desirable crude. This bold move is seen as a dramatic escalation in President Trump's ongoing quest to ensure Nicolás Maduro's illicit oil revenues are replaced with... well, less illicit oil revenues. The 'Skipper,' part of a rumored \"shadowy fleet\" that includes ships named 'Darkness II' and 'The Sneaker,' was allegedly delivering oil to nations like Venezuela, Russia, and Iran, presumably to fuel their sinister plans of... having fuel.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.newsday.com/news/world/us-seizure-of-rogue-oil-tanker-off-venezuela-signals-new-crackdown-on-shadow-fleet-t60580",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-3",
+        "headline": "Admiral Abruptly Retires After Heated Debate Over Legality Of Giving Suspected Drug Boats \"Time-Outs.\"",
+        "content": "Admiral Alvin Holsey, commander of U.S. Southern Command, has made a dramatic exit from his post less than a year in, sparking rumors of an epic policy clash with the Defense Secretary over what constitutes \"appropriate\" military action. Sources close to the situation suggest the admiral's early retirement stems from a fundamental disagreement on the legality and operational tempo of U.S. military strikes against suspected drug boats in the Caribbean. \"The Admiral just couldn't stomach another debate about whether we were allowed to give them stern warnings before, you know, intervening,\" explained an anonymous insider, adding that the Defense Secretary was reportedly pushing for \"more aggressive hug-based diplomacy.\"",
+        "originalSource": "CBS News / CNN",
+        "sourceUrl": "https://www.cbs58.com/news/commander-in-charge-of-us-military-operations-in-the-caribbean-retires-after-clashes-with-hegseth-over-boat-strikes",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-4",
+        "headline": "Supreme Court Ruling Could Force U.S. To Pay Businesses Back Entire National 'Oops, We Taxed You Wrong' Fund.",
+        "content": "The U.S. federal government faces the daunting prospect of having to refund an estimated $168 billion to businesses, should the Supreme Court decide that President Trump's \"emergency\" import tariffs were, in fact, not so emergency-like after all. Financial experts from the Penn Wharton Budget Model predict this massive payout could entirely deplete the nation's \"Oops, We Taxed You Wrong\" fund, forcing the Treasury to start a GoFundMe. The looming decision highlights the economic stakes of the legal battle, leaving many to wonder if future tariffs will come with a tiny, pre-approved credit card for instant refunds.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "sourceUrl": "https://www.cbsnews.com/moneywatch/news/us-could-owe-businesses-168b-if-supreme-court-rejects-trump-tariffs/",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-1",
-        "headline": "Democrats Unveil Shocking Epstein Photos Revealing President Trump, Clinton, And Andrew Engaged In Perfectly Normal, Unremarkable Activities",
-        "content": "In a dramatic reveal designed to keep everyone on their toes, House Democrats on the Oversight Committee have unleashed a curated selection of photos from the infamous Jeffrey Epstein estate. The images, which feature President Trump, Bill Clinton, and Prince Andrew, are described by congressional sources as 'absolutely compelling' for their depiction of high-profile individuals existing in space and time. Despite widespread speculation, officials confirm the photos only show the men partaking in entirely innocent, perhaps even boring, activities. The release is part of a bold strategy to encourage the administration to finally release the *really* boring documents from the late financier's files, ensuring maximum public disinterest.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-2",
-        "headline": "Elite U.S. Commandos Bravely Rescue Oil From Venezuela, Liberating It From The Tyranny Of Its Own Existence",
-        "content": "In a bold, cinematic display of international law enforcement, U.S. forces, featuring highly trained commandos fast-roping with maximum dramatic effect, successfully 'liberated' the oil tanker *Skipper* from the tyrannical grip of the Venezuelan coast. The vessel, apparently guilty of the heinous crime of illicit oil trade, was seized under a warrant, marking a significant escalation in President Trump’s noble quest to ensure Nicolás Maduro's sanctioned government has absolutely no access to anything that might remotely fund a government. Experts believe this crucial step will finally starve the regime into compliance, or at least force them to start a particularly aggressive bake sale.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765636589565-3",
-        "headline": "President Trump Administration Declares American Sign Language 'Visual Noise,' Demands Pure, Uninterrupted Presidential Image",
-        "content": "In a groundbreaking legal maneuver, President Trump's administration is appealing a federal court order that dared to suggest providing real-time American Sign Language interpretation at White House press briefings. Department of Justice attorneys, with straight faces, argued that such a service 'would severely intrude on the President's prerogative to control the image he presents to the public,' implying that an ASL interpreter might somehow detract from the sheer, unadulterated power of the presidential presence. Critics fear that soon, even blinking might be deemed an intrusion on the carefully curated presidential aesthetic, leaving the public to simply interpret the President’s pure, unadulterated aura.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-4",
-        "headline": "Former Michigan Coach Mistakenly Applies Aggressive 'Blitz' Strategy To Personal Relationship, Faces Felony Charges",
-        "content": "In a surprising turn of events, former University of Michigan football coach Sherrone Moore, renowned for his intense 'game day' mentality, has reportedly brought that same winning spirit to his personal life, earning him charges of felony home invasion, stalking, and misdemeanor breaking and entering. Prosecutors allege Moore, fresh off his abrupt dismissal, executed a flawless 'surprise entry' into his former partner's apartment, where he then employed a highly motivational (and legally actionable) strategy of self-harm threats and intimidating statements, all apparently in response to her reporting their relationship to the university. Clearly, some coaching philosophies are best left on the field.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-5",
-        "headline": "House Speaker Mike Johnson Discovers His Job Description Includes Actually Leading, Expresses Mild Confusion",
-        "content": "Reports from Capitol Hill indicate that House Speaker Mike Johnson’s firm, invisible grip on the legislative body is experiencing what analysts are calling 'a slight loss of traction.' A band of intrepid moderate Republicans, apparently under the mistaken impression that they are there to legislate, have bravely sided with Democrats to bypass their own party's leadership. The shocking display of independent thought occurred when these renegades supported a procedural move to force a vote on extending the Affordable Care Act premium tax credits—a measure Speaker Johnson has been courageously resisting by doing nothing. Observers are now wondering if Speaker Johnson will be issued a small, brightly colored bell to help guide his flock, or perhaps a stronger leash.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
-        "publishedTime": "1 day ago"
+        "id": "story-1765644303171-5",
+        "headline": "President Trump Vigorously Attacks Biden, Unaware He's Basically Yelling At His Own Reflection.",
+        "content": "In a display of political rivalry that has commentators scratching their heads, President Trump has continued his relentless assault on political foe Joe Biden, even as uncanny parallels between the two men's political styles become increasingly difficult to ignore. Analysts note both leaders employ remarkably similar, highly-charged rhetoric and campaign tactics, leading some to speculate if they aren't, in fact, just two different versions of the same perpetually campaigning algorithm. \"It's like watching two identical twins argue over who copied whose homework,\" remarked one pundit, \"except the homework is the presidency, and neither remembers doing it.\" The uncanny resemblance is only expected to intensify as the race for the presidency barrels towards a conclusion, leaving voters to decide which identical, familiar, highly-charged rhetorical style they prefer.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/13/trump-biden-presidential-parallels",
+        "publishedTime": "2 hours ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765636589565-0",
-        "headline": "Healthcare Help Might Go Away Soon for Many People",
-        "content": "Imagine if you got some money to help pay for something important, like your health insurance. Well, that extra help, called ACA premium tax credits, might stop on December 31st. If it does, about 22 million people might have to pay a lot more for their health insurance, maybe even twice as much! Because of this, about four million people, including many who work for themselves, might not be able to afford their health insurance anymore and have to stop having it.",
+        "id": "story-1765644303171-0",
+        "headline": "President Trump Stops States From Making Too Many AI Rules",
+        "content": "President Trump signed a paper saying that different states can't make too many of their own rules about something called AI (which is like smart computers). He said that if every state made different rules, it would make it harder for new cool computer stuff to be invented in America. He wants America to be the best at this new computer stuff in the whole world. He also made a new team to watch out for state rules that are too hard and might even stop giving money to states with those tough rules. Big computer companies liked this idea.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-excessive-state-ai-regulations/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-1",
+        "headline": "Lawmakers Show Pictures of Famous People From Epstein's House",
+        "content": "Some people in Congress, who are called Democrats, showed some pictures they found from Jeffrey Epstein's big house. These pictures had famous people like President Trump, Bill Clinton, and Prince Andrew in them. They showed these pictures because they are still trying to figure out what happened with Epstein. But the White House said that the Democrats just picked out certain pictures to make things look bad and make up a story for politics.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.chron.com/news/article/house-democrats-release-photos-of-trump-clinton-19967205.php",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1765644303171-2",
+        "headline": "America Takes a Ship Carrying Secret Oil Near Venezuela",
+        "content": "Special American soldiers took control of a big oil ship called 'Skipper' near the country of Venezuela. This happened because President Trump wants to stop the leader of Venezuela, Nicolás Maduro, from making money by selling oil secretly. This ship was part of a secret group of ships that helps countries that aren't allowed to sell oil to get around the rules, like Venezuela, Russia, and Iran.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.newsday.com/news/world/us-seizure-of-rogue-oil-tanker-off-venezuela-signals-new-crackdown-on-shadow-fleet-t60580",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-3",
+        "headline": "Important Navy Leader Leaves His Job Sooner Than Expected",
+        "content": "Admiral Alvin Holsey, who was a really important leader for the American military in places like the Caribbean, stopped his job on Friday. This was a surprise because he was supposed to be in charge for longer. People are saying he left because he didn't agree with another important government person, the Defense Secretary, about how much the military should go after boats that might be carrying drugs in the Caribbean Sea.",
+        "originalSource": "CBS News / CNN",
+        "sourceUrl": "https://www.cbs58.com/news/commander-in-charge-of-us-military-operations-in-the-caribbean-retires-after-clashes-with-hegseth-over-boat-strikes",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-4",
+        "headline": "America Might Have to Pay Back Lots of Money for President Trump's Taxes",
+        "content": "If a very important court, called the Supreme Court, decides that some extra taxes President Trump put on things brought into America were wrong, then the government might have to pay back a huge amount of money to businesses. It could be around $168 billion! Smart people who study money say this shows how important this court decision is for the country's money.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "sourceUrl": "https://www.cbsnews.com/moneywatch/news/us-could-owe-businesses-168b-if-supreme-court-rejects-trump-tariffs/",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-1",
-        "headline": "Pictures of Important People Found at Epstein's House Are Shared",
-        "content": "Some politicians, called House Democrats, shared some photos that were found at the house of a rich man named Jeffrey Epstein. In these pictures, you can see people like President Trump, Bill Clinton, and Prince Andrew. The Democrats shared these pictures because they want the government to show all the other papers and documents from Epstein. Just because someone is in a picture doesn't mean they did anything wrong, and nobody has said President Trump or Bill Clinton did anything wrong because of these photos.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-2",
-        "headline": "America Takes Control of an Oil Ship Near Venezuela",
-        "content": "Soldiers from the U.S. military, even some who swung down from helicopters, took over a big oil ship called the Skipper near a country called Venezuela. They had a special paper, like a permission slip, because the ship was supposedly helping to illegally sell oil. This action is a big step in President Trump's plan to stop money from going to Nicolás Maduro's government, which the U.S. doesn't like.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765636589565-3",
-        "headline": "President Trump's Team Doesn't Want Sign Language at Meetings",
-        "content": "A judge said that the White House should have someone who can do sign language at their news meetings so people who can't hear can understand. But President Trump's team is saying 'no.' Lawyers for the government said that having sign language might mess with how President Trump wants to show himself to everyone and what he wants to say.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-4",
-        "headline": "Ex-Football Coach Accused of Breaking Into Someone's Home",
-        "content": "A football coach from the University of Michigan, named Sherrone Moore, was fired and now faces serious charges. They say he broke into his former girlfriend's apartment, scared her, and even said he would hurt himself. This all happened after she told the university about their relationship, which made him lose his job.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-5",
-        "headline": "Speaker Johnson Is Having Trouble Leading His Team in Congress",
-        "content": "The leader of a group of politicians called the House, Speaker Mike Johnson, is having a tough time. Some politicians from his own team, called Republicans, are working with the other team, the Democrats, instead of listening to him. For example, they all voted to make sure a bill to help people pay for health insurance gets voted on, even though Speaker Johnson didn't want it to.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
-        "publishedTime": "1 day ago"
+        "id": "story-1765644303171-5",
+        "headline": "President Trump and Biden Fight, But Are Kinda Like Each Other",
+        "content": "President Trump keeps talking badly about the person who wants to be president too, Joe Biden. But some people who watch politics say that even though they fight a lot, President Trump and Joe Biden are actually pretty similar in how they talk and try to win the election. They both use strong words and similar ways to get people to vote for them as the big race for president gets more exciting.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/13/trump-biden-presidential-parallels",
+        "publishedTime": "2 hours ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765636589565-0",
-        "headline": "The Uninsured Dawn",
-        "content": "December’s cold breath brought a looming dread. For twenty-two million Americans, a ticking clock signaled the end of vital health subsidies. Come January, an average 114% surge in premiums would hit, a crushing blow for families, freelancers, and small business owners. The choice loomed stark: pay exorbitant rates or join the ranks of the uninsured. Four million were projected to fall into this abyss, their security shattered, their futures uncertain. The promise of affordable care faded, replaced by the bitter reality of a system leaving many behind in its wake.",
+        "id": "story-1765644303171-0",
+        "headline": "The Central Brain",
+        "content": "The quill scratched, sealing the fate of silicon. President Trump’s executive order descended, a firm hand against the burgeoning chaos of state-level AI laws. A fragmented patchwork, he argued, would only shackle innovation, leaving America floundering in the global tech race. The decree birthed a new task force, its mandate clear: monitor, challenge, and, if necessary, starve states of federal funds should their AI rules prove \"onerous.\" Major tech giants, their algorithms already stretching across the nation, breathed a collective sigh of digital relief. A single, guiding intelligence, they seemed to agree, was the only way forward.",
+        "originalSource": "CBS News / Associated Press",
+        "sourceUrl": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-excessive-state-ai-regulations/",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-1",
+        "headline": "Echoes from the Island",
+        "content": "The committee room air grew thick with unspoken narratives as House Democrats unveiled their exhibit. From Jeffrey Epstein’s opulent estate, a collection of photographs flashed across screens: candid moments featuring President Trump, Bill Clinton, and former Prince Andrew. Each image, a silent witness from a past shrouded in infamy, was now thrust into the glaring light of public scrutiny. The White House, quick to parry, countered with accusations of partisan maneuvering, claiming the Democrats had \"cherry-picked\" these frames, weaving a fabricated political narrative designed to mislead. The silent images, however, continued to speak volumes.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.chron.com/news/article/house-democrats-release-photos-of-trump-clinton-19967205.php",
+        "publishedTime": "18 hours ago"
+      },
+      {
+        "id": "story-1765644303171-2",
+        "headline": "The Ghost Ship's End",
+        "content": "Under the cloak of pre-dawn darkness, U.S. commandos descended upon the 'Skipper' off Venezuela's coast. The seizure wasn't just a mission; it was President Trump's stark message to Nicolás Maduro, a tightening noose around the illicit oil revenues sustaining his regime. The tanker, a phantom vessel among a shadowy fleet, had long crisscrossed international waters, a silent conduit for crude destined for sanctioned nations: Venezuela itself, Russia, and Iran. Now, its journey was abruptly over, a stark signal that the game of global hide-and-seek was shifting, its rules suddenly rewritten.",
+        "originalSource": "Associated Press",
+        "sourceUrl": "https://www.newsday.com/news/world/us-seizure-of-rogue-oil-tanker-off-venezuela-signals-new-crackdown-on-shadow-fleet-t60580",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-3",
+        "headline": "Caribbean Crossroads",
+        "content": "Admiral Alvin Holsey, the resolute commander of U.S. Southern Command, vanished from the bridge with an unexpected farewell. Less than a year into his tenure, his early retirement on Friday echoed whispers of discord. The official explanation was terse, but rumors swirled of sharp policy clashes with the Defense Secretary. At the heart of the friction lay the treacherous waters of the Caribbean, specifically the legality and relentless pace of military strikes targeting suspected drug boats. The admiral, it seemed, had chosen a different course, leaving his command at a critical juncture.",
+        "originalSource": "CBS News / CNN",
+        "sourceUrl": "https://www.cbs58.com/news/commander-in-charge-of-us-military-operations-in-the-caribbean-retires-after-clashes-with-hegseth-over-boat-strikes",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765644303171-4",
+        "headline": "The Tariff's Tally",
+        "content": "A quiet storm brewed in the Supreme Court, its impending verdict poised to unleash a financial torrent. Should the justices invalidate the emergency levies imposed by President Trump on imports, the federal coffers would face a staggering obligation: an estimated $168 billion, owed back to businesses. The Penn Wharton Budget Model’s cold calculations painted a stark picture of the economic stakes, transforming a legal challenge into a potential fiscal earthquake. The nation held its breath, awaiting a decision that could rewrite balance sheets and ripple through every corner of the market.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "sourceUrl": "https://www.cbsnews.com/moneywatch/news/us-could-owe-businesses-168b-if-supreme-court-rejects-trump-tariffs/",
         "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765636589565-1",
-        "headline": "Shadows of the Island",
-        "content": "A digital whisper turned into a roar. House Democrats, in a calculated move, unveiled a selection of haunting photographs from Jeffrey Epstein's estate. Among the spectral images: President Trump, Bill Clinton, and Prince Andrew. The release wasn’t an accusation but a lever, a strategic prod to unearth the remaining secrets held within the late financier’s files. The photos, a silent testament to powerful connections, offered a glimpse into a world shrouded in mystery, intensifying the pressure for full transparency and leaving countless questions in their wake.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-2",
-        "headline": "The Caribbean Interception",
-        "content": "The Caribbean night erupted with the roar of rotors. U.S. commandos, dark silhouettes against the moon, fast-roped from helicopters onto the deck of the oil tanker *Skipper* off the Venezuelan coast. It was a swift, decisive operation, armed with a warrant for illicit oil trade. This wasn't merely a seizure; it was a potent escalation of President Trump’s relentless campaign to choke the financial lifelines of Nicolás Maduro’s sanctioned regime. The *Skipper*, now a symbol of defiance, drifted silently in its wake, the oil flowing no more.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
-        "publishedTime": "2 days ago"
-      },
-      {
-        "id": "story-1765636589565-3",
-        "headline": "A Visible Voice Denied",
-        "content": "The administration argued, through legal filings, that a visual voice would disrupt the carefully curated image. A federal court had mandated real-time American Sign Language interpretation for White House press briefings, a move for accessibility. Yet, President Trump’s administration appealed, asserting such a requirement would 'severely intrude on the President's prerogative to control the image he presents to the public' and his crucial messaging. The fight wasn't just about interpretation; it was about the power of presentation, the boundaries of public access, and who ultimately controlled the narrative.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-4",
-        "headline": "Beneath the Stadium Lights",
-        "content": "The heroics on the football field faded, replaced by a chilling scene. Sherrone Moore, once a revered Michigan coach, now faced felony charges: home invasion, stalking, and misdemeanor breaking and entering. Prosecutors painted a disturbing picture: barging into his former partner's apartment, uttering threats of self-harm, and intimidating statements after she reported their turbulent relationship. His abrupt dismissal from the university now had a grim backdrop, revealing a private turmoil that eclipsed any public glory, casting a long, dark shadow over his once-promising career.",
-        "originalSource": "Associated Press (AP)",
-        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
-        "publishedTime": "1 day ago"
-      },
-      {
-        "id": "story-1765636589565-5",
-        "headline": "The Speaker's Shaky Throne",
-        "content": "The gavel’s authority wavered, its ring less assured. House Speaker Mike Johnson felt his grip on power loosening as a coalition of moderate Republicans aligned with Democrats. They defied his leadership, pushing through a procedural maneuver to force a floor vote. The target: a bipartisan bill extending the Affordable Care Act premium tax credits, a measure Johnson staunchly resisted. The rebellion was clear, a chasm opening within his own party. The Speaker’s command was challenged, his legislative agenda threatened by the very members he was meant to lead.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
-        "publishedTime": "1 day ago"
+        "id": "story-1765644303171-5",
+        "headline": "The Echo Chamber",
+        "content": "The campaign trail vibrated with President Trump's familiar thunder, his rhetoric squarely aimed at his long-standing rival, Joe Biden. Yet, beneath the bluster and fervent attacks, seasoned political commentators observed a curious mirroring. Despite their outward animosity, both leaders, they noted, deployed strikingly similar political styles. The same highly-charged language, the familiar tactical maneuvers, the relentless pursuit of narrative dominance—each echo found its counterpart. As the presidential race intensified, the two formidable figures, locked in battle, seemed less like adversaries and more like reflections.",
+        "originalSource": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/us-news/2025/dec/13/trump-biden-presidential-parallels",
+        "publishedTime": "2 hours ago"
       }
     ]
   }
