@@ -1,304 +1,304 @@
 {
-  "timestamp": 1765632004977,
+  "timestamp": 1765636662846,
   "stories": {
     "Left Wing": [
       {
-        "id": "story-1765631932080-0",
-        "headline": "Republican Leadership Failures Jeopardize Affordable Healthcare for Millions of Americans",
-        "content": "House Republicans have repeatedly undermined Speaker Mike Johnson's leadership, creating political dysfunction that directly threatens the well-being of millions. This internal strife comes at a critical time when the potential expiration of Affordable Care Act premium tax credits could force millions of families to face significantly higher health plan costs starting in January, highlighting a systemic failure to protect public health.",
+        "id": "story-1765636589565-0",
+        "headline": "Expiration of ACA Subsidies Threatens to Worsen Healthcare Crisis for Millions of Vulnerable Americans",
+        "content": "The looming expiration of enhanced Affordable Care Act premium tax credits on December 31 represents a profound failure to prioritize the health and economic stability of 22 million Americans. This impending policy lapse, which could force an average 114% increase in out-of-pocket costs, is not merely a financial inconvenience but a systemic threat that risks pushing four million people, particularly the self-employed, out of essential health coverage. This highlights the urgent need for a more equitable healthcare system that guarantees access for all, rather than leaving millions to face devastating medical debt or forego care entirely.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "16 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-1",
-        "headline": "President Trump's Administration Intensifies Sanctions on Venezuela, Sparking Debate Over Impact on Civilians",
-        "content": "The U.S. seizure of an oil tanker off Venezuela's coast marks a significant escalation in President Trump's campaign to restrict leader Nicolás Maduro's access to oil revenues. This intensified focus on countering the 'shadow fleet' used to circumvent sanctions raises critical questions about the efficacy and humanitarian impact of such aggressive interventions, potentially exacerbating economic hardship for ordinary Venezuelans.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "11 hours ago"
+        "id": "story-1765636589565-1",
+        "headline": "Democrats Intensify Pressure for Full Transparency on Epstein Files, Revealing Connections to Powerful Figures",
+        "content": "House Democrats on the Oversight Committee have strategically released a selection of images from Jeffrey Epstein's estate, featuring President Trump, Bill Clinton, and Prince Andrew, to demand full transparency and accountability. This move is a critical step in pressing the administration to release all outstanding documents from the late financier's extensive files, underscoring the systemic nature of power and privilege that often shields influential individuals from scrutiny. While no accusations of wrongdoing have been made in the context of these specific photos, the ongoing investigation into Epstein's network is vital for uncovering the full extent of complicity and ensuring justice for his victims.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-2",
-        "headline": "The Supreme Court Could Force a Massive Payout to Corporations Over President Trump's Emergency Tariffs",
-        "content": "A potential Supreme Court ruling that strikes down the emergency tariffs imposed under President Trump's administration could obligate the federal government to return an estimated $168 billion to businesses. This looming financial obligation highlights how policy decisions can create massive financial shifts favoring corporate entities, with questions remaining about the broader economic impact on consumers and public services.",
+        "id": "story-1765636589565-2",
+        "headline": "President Trump's Administration Escalates Aggression Against Venezuela, Raising Concerns Over Regional Stability and Sanctions' Human Cost",
+        "content": "In a concerning escalation of President Trump’s foreign policy, U.S. forces dramatically seized the oil tanker *Skipper* off Venezuela's coast, ostensibly over its involvement in illicit oil trade. This aggressive act, involving commandos and a warrant, is part of a broader campaign to destabilize Nicolás Maduro’s sanctioned government by cutting off vital oil revenues. Critics argue that such unilateral actions often exacerbate humanitarian crises and further impoverish ordinary citizens under the guise of geopolitical maneuvering, rather than addressing the root causes of regional instability or supporting democratic processes through diplomatic means.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
+        "publishedTime": "2 days ago"
+      },
+      {
+        "id": "story-1765636589565-3",
+        "headline": "President Trump's Administration Fights Against Accessibility, Calling ASL Services an 'Intrusion' on Public Image",
+        "content": "The President Trump administration is actively appealing a federal court mandate to provide real-time American Sign Language interpretation for White House events, revealing a troubling stance on accessibility and civil rights. Department of Justice attorneys argued that providing this essential service for the deaf and hard-of-hearing community 'would severely intrude on the President's prerogative to control the image he presents to the public.' This position underscores a systemic failure to ensure equitable access to public information for all citizens, effectively marginalizing a significant portion of the population and prioritizing a curated image over fundamental inclusivity.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-4",
+        "headline": "Former Michigan Coach Charged with Felony Domestic Violence, Exposing Systemic Issues in Institutional Accountability",
+        "content": "Following his dismissal, former University of Michigan football coach Sherrone Moore now faces serious charges including felony home invasion, stalking, and misdemeanor breaking and entering, shedding light on the pervasive issue of intimate partner violence. Prosecutors allege Moore violently entered his former partner's apartment, making intimidating statements and threatening self-harm after she reported their relationship to the university. This case highlights the critical need for institutions to robustly address and prevent such abuses of power and ensure the safety of individuals, challenging a culture that often enables such behavior and fails to hold perpetrators accountable.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-5",
+        "headline": "Speaker Johnson's Obstructionist Leadership Faces Backlash as Bipartisan Efforts Emerge to Protect Critical Healthcare Access",
+        "content": "House Speaker Mike Johnson's authority is demonstrably weakening as a coalition of moderate Republicans and Democrats unite to circumvent his leadership, prioritizing critical legislation over partisan obstruction. This defiance was evident in their successful procedural move to force a floor vote on extending the expiring Affordable Care Act premium tax credits, a vital measure that Johnson's leadership has actively resisted. This development underscores the systemic challenges within the legislative body, where progressive initiatives aimed at strengthening social safety nets and ensuring healthcare access for millions are often stifled by leadership more focused on partisan control than public welfare.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-3",
-        "headline": "Leadership Change at U.S. Southern Command Raises Concerns Over Escalating Military Posture in the Region",
-        "content": "Adm. Alvin Holsey's early relinquishment of command of U.S. Southern Command, overseeing forces in the Caribbean and Latin America, occurs amidst a significant U.S. military buildup and increased scrutiny over operations off Venezuela's coast. This shift in leadership raises concerns about an escalating militarization of the region and the implications for sovereignty and stability, diverting resources from crucial domestic needs.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-4",
-        "headline": "Tragic Incident Highlights Critical Gaps in Our Mental Health and Public Safety Systems",
-        "content": "The man suspected of a high-profile stabbing at Macy's was reportedly released from a psychiatric hospital just hours before the attack, immediately highlighting profound systemic failures. This tragic incident demands scrutiny regarding the inadequate procedures and communication within our underfunded mental health and public safety systems, underscoring the urgent need for comprehensive support and reform rather than punitive measures.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765631932080-5",
-        "headline": "New Epstein Evidence Demands Full Accountability for Those Who Aided and Abetted Systemic Child Exploitation",
-        "content": "Democrats released a new tranche of evidence, including photos, related to the Jeffrey Epstein case, reigniting scrutiny over the high-profile investigation. This release sheds more light on the powerful individuals involved and intensifies public discussion about the systemic nature of the alleged crimes, demanding full accountability for those who enabled and profited from this network of exploitation.",
-        "originalSource": "PBS News / The Guardian",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Neutral": [
       {
-        "id": "story-1765631932080-0",
-        "headline": "Johnson's grip on the House slips as Republicans defy leadership; Millions of Americans could see health plan costs double as ACA credits vanish",
-        "content": "House Republicans have repeatedly defied Speaker Mike Johnson's leadership, causing frustration and weakening his control. This comes as millions face the possible expiration of Affordable Care Act premium tax credits, which could significantly increase their health plan costs starting in January.",
+        "id": "story-1765636589565-0",
+        "headline": "With ACA subsidies set to lapse, millions of Americans face a painful spike in health plan costs",
+        "content": "The enhanced ACA premium tax credits are set to expire on December 31, threatening a painful spike in health insurance premiums for about 22 million Americans. Out-of-pocket costs are projected to rise by an average of 114% for enrollees, prompting fears that around four million people, many of whom are self-employed, will be forced to drop their coverage.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "16 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-1",
-        "headline": "Seizure of rogue oil tanker off Venezuela signals new U.S. crackdown on shadow fleet",
-        "content": "The U.S. seizure of the oil tanker 'Skipper' off Venezuela's coast marks a dramatic escalation of President Donald Trump's campaign to choke off leader Nicolás Maduro's access to oil revenues. This move signals an intensified focus on countering the shadow fleet used to circumvent sanctions.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "11 hours ago"
+        "id": "story-1765636589565-1",
+        "headline": "House Democrats release photos of Trump, Clinton and Andrew from Epstein's estate",
+        "content": "House Democrats on the Oversight Committee released a selection of photos from the trove of images recovered from Jeffrey Epstein’s estate, which include images of Donald Trump, Bill Clinton, and Prince Andrew. The release is a strategic move to pressure the administration to release all remaining documents from the late financier's files. Neither former president has been accused of wrongdoing in the photo context.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-2",
-        "headline": "U.S. could owe businesses $168B if Supreme Court rejects Trump tariffs",
-        "content": "A potential Supreme Court ruling that strikes down the emergency tariffs imposed under the Trump administration could force the federal government to return most of the collected tariff revenue. According to one estimate, this debt to businesses could total up to $168 billion.",
+        "id": "story-1765636589565-2",
+        "headline": "U.S. seizes oil tanker off Venezuela in a dramatic escalation against Maduro's regime",
+        "content": "U.S. forces, including commandos fast-roping from helicopters, seized the oil tanker *Skipper* off the coast of Venezuela. The operation, which involved a warrant for the vessel’s involvement in illicit oil trade, is a significant escalation of President Trump’s campaign to cut off oil revenues that have been a vital source of funding for Nicolás Maduro’s sanctioned government.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
+        "publishedTime": "2 days ago"
+      },
+      {
+        "id": "story-1765636589565-3",
+        "headline": "Trump administration argues that sign language services 'intrude' on President's public image",
+        "content": "The Trump administration is appealing a federal court order requiring it to provide real-time American Sign Language interpretation for White House press briefings and other events. Department of Justice attorneys argued in a court filing that requiring the service 'would severely intrude on the President's prerogative to control the image he presents to the public' and its messaging.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-4",
+        "headline": "Fired Michigan coach Sherrone Moore charged with felony home invasion and stalking",
+        "content": "Former University of Michigan football coach Sherrone Moore was charged with felony home invasion, stalking, and misdemeanor breaking and entering following his firing. Prosecutors allege Moore barged into the former partner's apartment and threatened to harm himself, making intimidating statements after she reported their relationship to the university, which led to his abrupt dismissal.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-5",
+        "headline": "Speaker Mike Johnson’s grip on the House slips as Republicans defy leadership",
+        "content": "House Speaker Mike Johnson is facing significant challenges to his authority as a group of moderate Republicans join Democrats to bypass his leadership. The dissent was evident when Republicans supported a procedural move to force a floor vote on a bipartisan bill to extend the expiring Affordable Care Act premium tax credits, a measure Johnson's leadership is actively resisting.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-3",
-        "headline": "Commander overseeing U.S. military forces in Caribbean relinquishes command early",
-        "content": "Adm. Alvin Holsey relinquished command of U.S. Southern Command, overseeing forces in the Caribbean and Latin America, in an early retirement ceremony on Friday. This change in leadership comes amid a significant U.S. military buildup and increased scrutiny over operations off the coast of Venezuela.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-4",
-        "headline": "Macy's stabbing suspect was released from psychiatric hospital hours before attack",
-        "content": "The man suspected of a high-profile stabbing at Macy's was reportedly released from a psychiatric hospital just hours before the attack took place. This disclosure immediately raises questions and demands scrutiny regarding the procedures and communication within the mental health and public safety systems.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765631932080-5",
-        "headline": "What we know about the Epstein photos released by Democrats",
-        "content": "Democrats released a new tranche of evidence, including photos, related to the Jeffrey Epstein case, reigniting scrutiny over the high-profile investigation. The release sheds more light on the individuals involved and continues to fuel public discussion about the scope of the alleged crimes.",
-        "originalSource": "PBS News / The Guardian",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Right Wing": [
       {
-        "id": "story-1765631932080-0",
-        "headline": "Principled Republicans Challenge Leadership, Highlighting Unsustainable Government Healthcare Burdens on American Families",
-        "content": "Frustration is mounting as House Republicans assert their conservative principles, repeatedly challenging Speaker Mike Johnson's leadership. This internal push for accountability coincides with the looming expiration of the Affordable Care Act's premium tax credits, which threatens to double healthcare costs for millions of Americans starting in January. This situation underscores the critical need for market-based solutions and true healthcare liberty, rather than reliance on government programs that ultimately burden citizens.",
+        "id": "story-1765636589565-0",
+        "headline": "Failed Government Healthcare Mandates Burden American Taxpayers as ACA Subsidies End",
+        "content": "The expiring Affordable Care Act (ACA) premium tax credits, which were never truly sustainable, are exposing the fundamental flaws of government-controlled healthcare. As these costly subsidies end on December 31, approximately 22 million hard-working Americans face a drastic 114% increase in health insurance premiums. This regrettable outcome highlights how government intervention distorts the market, ultimately leading to higher costs and fewer choices. Up to four million individuals, particularly self-employed entrepreneurs, may now be forced to abandon their coverage, demonstrating the unsustainable nature of such federal programs and the need for free-market solutions.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "16 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-1",
-        "headline": "President Trump's Decisive Action Thwarts Venezuelan Tyranny, Safeguarding American Interests Abroad",
-        "content": "In a bold move asserting American strength, the U.S. has seized the oil tanker 'Skipper' off Venezuela's coast, dramatically escalating President Trump's campaign to cut off dictator Nicolás Maduro's illicit oil revenues. This decisive action signals an intensified focus on dismantling the shadow fleet used by rogue regimes to circumvent international sanctions, reaffirming America's commitment to freedom and stability against oppressive forces.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "11 hours ago"
+        "id": "story-1765636589565-1",
+        "headline": "Democrats Politicize Epstein Files, Releasing Photos to Distract and Attack",
+        "content": "In a transparent political maneuver, House Democrats on the Oversight Committee have selectively released images from Jeffrey Epstein's estate, attempting to stir controversy. These photos include President Trump, Bill Clinton, and Prince Andrew. This appears to be a calculated effort to pressure the current administration to release all remaining documents from the late financier's files, despite no accusations of wrongdoing against President Trump or Mr. Clinton in the context of these images. The American people deserve full transparency, not partisan distractions from pressing national issues.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-2",
-        "headline": "Judicial Scrutiny on President Trump's Tariffs Raises Billions in Potential Government Debt to American Businesses",
-        "content": "The U.S. government could face a staggering $168 billion debt to businesses if the Supreme Court chooses to strike down emergency tariffs imposed under President Trump's administration. This potential ruling would force the return of collected revenue, sparking concerns about judicial overreach into vital economic policy and the fiscal consequences of undermining presidential authority to protect American industry and national interests.",
+        "id": "story-1765636589565-2",
+        "headline": "President Trump's Administration Takes Decisive Action Against Maduro's Illicit Regime",
+        "content": "In a bold demonstration of American resolve and commitment to liberty, U.S. forces, including courageous commandos, successfully seized the oil tanker Skipper off Venezuela's coast. This crucial operation, executed with a legitimate warrant targeting illicit oil trade, represents a significant and necessary escalation of President Trump's robust campaign to dismantle the financial lifeline of Nicolás Maduro's tyrannical and sanctioned government. Cutting off these oil revenues is vital for upholding international law and promoting stability in the region, directly challenging regimes that undermine freedom.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
+        "publishedTime": "2 days ago"
+      },
+      {
+        "id": "story-1765636589565-3",
+        "headline": "President Trump's Administration Defends Executive Prerogative Against Judicial Overreach",
+        "content": "The Trump administration is rightly appealing a federal court's mandate demanding real-time American Sign Language interpretation for White House press briefings. Department of Justice attorneys have articulated that such a requirement 'would severely intrude on the President's prerogative to control the image he presents to the public' and the vital messaging emanating from the Executive Branch. This action underscores the principle that the President must retain the essential constitutional authority to manage official communications without undue judicial interference, ensuring clarity and consistency in conveying the administration's message to the nation.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-4",
+        "headline": "Former Michigan Coach Faces Serious Felony Charges for Disturbing Domestic Incident",
+        "content": "Former University of Michigan football coach Sherrone Moore now faces serious charges including felony home invasion, stalking, and misdemeanor breaking and entering, a stark reminder of personal accountability. Prosecutors assert that Moore forcibly entered his former partner's residence, made alarming threats of self-harm, and uttered intimidating statements after she reported their relationship to the university, directly leading to his dismissal. These allegations highlight a severe breach of personal safety and the law, demanding proper legal consequence.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-5",
+        "headline": "Conservative Leadership Challenged as Moderates Undermine Speaker Johnson on Spending",
+        "content": "House Speaker Mike Johnson's leadership is encountering significant resistance as a faction of so-called 'moderate' Republicans have aligned with Democrats, seeking to bypass the established conservative agenda. This troubling dissent was starkly evident in their support for a procedural maneuver to force a vote on extending the expiring Affordable Care Act premium tax credits—a costly, government-expanding measure that Speaker Johnson's leadership is steadfastly working to resist. This internal defiance undermines conservative principles and fiscal responsibility, making the Speaker's efforts to control government spending more difficult.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-3",
-        "headline": "Strategic Command Leadership Change Occurs Amid Heightened Scrutiny Over Caribbean Security Operations",
-        "content": "Adm. Alvin Holsey has prematurely relinquished command of U.S. Southern Command, responsible for forces in the Caribbean and Latin America, in an early retirement ceremony. This significant leadership transition comes at a critical time, amidst a substantial U.S. military buildup and increased scrutiny regarding operations, particularly off the coast of Venezuela, underscoring the imperative for stable and resolute command in safeguarding regional security.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-4",
-        "headline": "Systemic Breakdown: Macy's Stabbing Suspect Released From Psychiatric Hospital Hours Before Attack, Demanding Immediate Accountability",
-        "content": "Public safety has been severely compromised as it's revealed the individual suspected of a high-profile stabbing at Macy's was released from a psychiatric hospital just hours prior to the horrific attack. This alarming disclosure demands immediate and thorough scrutiny into the procedures and communication failures within our mental health and public safety systems, holding those responsible accountable for endangering innocent citizens.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765631932080-5",
-        "headline": "Epstein Files Resurface: New Evidence Demands Full Transparency and Justice for Victims, Beyond Political Posturing",
-        "content": "A new tranche of evidence, including photographs, related to the Jeffrey Epstein case has been released, reigniting critical scrutiny over the high-profile investigation. This release sheds further light on individuals involved, fueling public discussion and demanding full accountability for all implicated in these heinous crimes, ensuring justice for victims irrespective of power or political affiliation.",
-        "originalSource": "PBS News / The Guardian",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Satire": [
       {
-        "id": "story-1765631932080-0",
-        "headline": "Speaker Johnson's 'Leadership' Proves So Elusive, Even He Can't Find It; Nation Braces For Double-Priced Healthcare As Congress Perfects The Art Of Doing Nothing",
-        "content": "House Republicans, fresh off another session of enthusiastically ignoring Speaker Mike Johnson, have reportedly achieved peak defiance, rendering his 'leadership' little more than a suggestion whispered into the congressional void. This unprecedented level of legislative autonomy coincides perfectly with the impending expiration of Affordable Care Act credits, promising millions of Americans the exciting new challenge of deciding between rent and a kidney, all while Congress continues to bravely tackle the tough issues, like what's for lunch.",
+        "id": "story-1765636589565-0",
+        "headline": "Nation's Health System Achieves Peak 'Affordability' As Millions Prepare To Finally Enjoy Not Having Health Insurance",
+        "content": "Sources confirm that the nation's 22 million 'Affordable Care Act' enrollees are about to experience a truly liberating financial event as their premium tax credits evaporate on December 31st. With out-of-pocket costs projected to surge by a mere 114%, experts predict a refreshing wave of financial clarity for those who've been needlessly paying for health coverage. Approximately four million Americans, largely self-employed go-getters, are expected to finally achieve their dream of self-reliance by opting out of the costly charade entirely, presumably relying on positive thinking and robust immune systems to manage their health.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "16 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-1",
-        "headline": "U.S. Navy Captures Elusive 'Skipper' in High-Seas Blockbuster, President Trump Declares War on All Shadows (Especially the Oily Kind)",
-        "content": "In a move reminiscent of a Hollywood spy thriller, President Trump's administration dramatically seized the rogue oil tanker 'Skipper' off Venezuela's coast, declaring open season on the entire 'shadow fleet' that has dared to operate outside the spotlight. Experts believe this bold maneuver will definitely, finally, absolutely cut off leader Nicolás Maduro's oil revenues, unless he happens to find another shadow, which, let's be honest, he probably will.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "11 hours ago"
+        "id": "story-1765636589565-1",
+        "headline": "Democrats Unveil Shocking Epstein Photos Revealing President Trump, Clinton, And Andrew Engaged In Perfectly Normal, Unremarkable Activities",
+        "content": "In a dramatic reveal designed to keep everyone on their toes, House Democrats on the Oversight Committee have unleashed a curated selection of photos from the infamous Jeffrey Epstein estate. The images, which feature President Trump, Bill Clinton, and Prince Andrew, are described by congressional sources as 'absolutely compelling' for their depiction of high-profile individuals existing in space and time. Despite widespread speculation, officials confirm the photos only show the men partaking in entirely innocent, perhaps even boring, activities. The release is part of a bold strategy to encourage the administration to finally release the *really* boring documents from the late financier's files, ensuring maximum public disinterest.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-2",
-        "headline": "Supreme Court Mulls Forcing U.S. Government To Return Trillions (Give Or Take $168 Billion) To Businesses After Tariff 'Experiment'",
-        "content": "The Supreme Court is currently contemplating whether to unleash a fiscal nightmare on the federal government, potentially requiring it to return a staggering $168 billion in collected tariff revenue to businesses. Economists are now frantically calculating how many bake sales the government would need to hold to cover such an unforeseen expense, while businesses eagerly await their potential windfalls, perhaps finally able to afford that solid gold stapler they've always wanted.",
+        "id": "story-1765636589565-2",
+        "headline": "Elite U.S. Commandos Bravely Rescue Oil From Venezuela, Liberating It From The Tyranny Of Its Own Existence",
+        "content": "In a bold, cinematic display of international law enforcement, U.S. forces, featuring highly trained commandos fast-roping with maximum dramatic effect, successfully 'liberated' the oil tanker *Skipper* from the tyrannical grip of the Venezuelan coast. The vessel, apparently guilty of the heinous crime of illicit oil trade, was seized under a warrant, marking a significant escalation in President Trump’s noble quest to ensure Nicolás Maduro's sanctioned government has absolutely no access to anything that might remotely fund a government. Experts believe this crucial step will finally starve the regime into compliance, or at least force them to start a particularly aggressive bake sale.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
+        "publishedTime": "2 days ago"
+      },
+      {
+        "id": "story-1765636589565-3",
+        "headline": "President Trump Administration Declares American Sign Language 'Visual Noise,' Demands Pure, Uninterrupted Presidential Image",
+        "content": "In a groundbreaking legal maneuver, President Trump's administration is appealing a federal court order that dared to suggest providing real-time American Sign Language interpretation at White House press briefings. Department of Justice attorneys, with straight faces, argued that such a service 'would severely intrude on the President's prerogative to control the image he presents to the public,' implying that an ASL interpreter might somehow detract from the sheer, unadulterated power of the presidential presence. Critics fear that soon, even blinking might be deemed an intrusion on the carefully curated presidential aesthetic, leaving the public to simply interpret the President’s pure, unadulterated aura.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-4",
+        "headline": "Former Michigan Coach Mistakenly Applies Aggressive 'Blitz' Strategy To Personal Relationship, Faces Felony Charges",
+        "content": "In a surprising turn of events, former University of Michigan football coach Sherrone Moore, renowned for his intense 'game day' mentality, has reportedly brought that same winning spirit to his personal life, earning him charges of felony home invasion, stalking, and misdemeanor breaking and entering. Prosecutors allege Moore, fresh off his abrupt dismissal, executed a flawless 'surprise entry' into his former partner's apartment, where he then employed a highly motivational (and legally actionable) strategy of self-harm threats and intimidating statements, all apparently in response to her reporting their relationship to the university. Clearly, some coaching philosophies are best left on the field.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-5",
+        "headline": "House Speaker Mike Johnson Discovers His Job Description Includes Actually Leading, Expresses Mild Confusion",
+        "content": "Reports from Capitol Hill indicate that House Speaker Mike Johnson’s firm, invisible grip on the legislative body is experiencing what analysts are calling 'a slight loss of traction.' A band of intrepid moderate Republicans, apparently under the mistaken impression that they are there to legislate, have bravely sided with Democrats to bypass their own party's leadership. The shocking display of independent thought occurred when these renegades supported a procedural move to force a vote on extending the Affordable Care Act premium tax credits—a measure Speaker Johnson has been courageously resisting by doing nothing. Observers are now wondering if Speaker Johnson will be issued a small, brightly colored bell to help guide his flock, or perhaps a stronger leash.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-3",
-        "headline": "Admiral 'Nope' Holsey Declares Mission Accomplished, Peacefully Retreats As Caribbean Tensions Reach Peak 'Awkward Family Dinner' Levels",
-        "content": "Adm. Alvin Holsey, commander of U.S. Southern Command, has gracefully exited the stage in an early retirement ceremony, just as the Caribbean and Latin America are heating up to a geopolitical boil. Sources close to the situation say the Admiral simply decided he'd seen enough 'significant U.S. military buildup' for one career, opting instead for a quieter life away from all the increased scrutiny and Venezuelan coastlines.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-4",
-        "headline": "Nation Wonders If Psychiatric Hospital Has 'Express Lane' For Immediate Release Before High-Profile Crimes",
-        "content": "In a stunning display of administrative efficiency, the suspect in the recent high-profile Macy's stabbing was reportedly released from a psychiatric hospital mere hours before the incident, leading many to question if the facility offers a 'pre-emptive chaos' program. Mental health and public safety systems are now scrambling to explain how someone could transition from 'in need of care' to 'person of interest' faster than you can say 'systemic failure.'",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765631932080-5",
-        "headline": "Democrats Release More Epstein Photos, Confirming What Everyone Already Suspected: He Was Still Creepy",
-        "content": "In a groundbreaking move, Democrats have released another batch of evidence, including photos, from the Jeffrey Epstein case, effectively 'reigniting scrutiny' that, frankly, had never quite died down. The new images reportedly offer even more tantalizing glimpses into the lives of individuals who probably don't want to be seen in these particular photos, ensuring public discussion about the seemingly endless scope of the alleged crimes will continue for at least another decade.",
-        "originalSource": "PBS News / The Guardian",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "publishedTime": "1 day ago"
       }
     ],
     "12-Year-Old": [
       {
-        "id": "story-1765631932080-0",
-        "headline": "Speaker Johnson is having a tough time leading his group and health costs might double.",
-        "content": "Some Republicans in the House of Representatives are not listening to their leader, Speaker Mike Johnson. This makes it hard for him to be in charge. Also, a lot of people might have to pay twice as much for their health insurance starting next year because of a rule that could go away.",
+        "id": "story-1765636589565-0",
+        "headline": "Healthcare Help Might Go Away Soon for Many People",
+        "content": "Imagine if you got some money to help pay for something important, like your health insurance. Well, that extra help, called ACA premium tax credits, might stop on December 31st. If it does, about 22 million people might have to pay a lot more for their health insurance, maybe even twice as much! Because of this, about four million people, including many who work for themselves, might not be able to afford their health insurance anymore and have to stop having it.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "16 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-1",
-        "headline": "The U.S. took a sneaky oil ship to stop money from going to Venezuela.",
-        "content": "The United States government just took an oil ship called 'Skipper' near Venezuela. This is part of President Trump's plan to stop the leader of Venezuela, Nicolás Maduro, from getting money from selling oil. It means the U.S. is trying even harder to stop secret ships that help get around rules.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "11 hours ago"
+        "id": "story-1765636589565-1",
+        "headline": "Pictures of Important People Found at Epstein's House Are Shared",
+        "content": "Some politicians, called House Democrats, shared some photos that were found at the house of a rich man named Jeffrey Epstein. In these pictures, you can see people like President Trump, Bill Clinton, and Prince Andrew. The Democrats shared these pictures because they want the government to show all the other papers and documents from Epstein. Just because someone is in a picture doesn't mean they did anything wrong, and nobody has said President Trump or Bill Clinton did anything wrong because of these photos.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-2",
-        "headline": "The U.S. government might owe a lot of money to businesses very soon.",
-        "content": "The Supreme Court might decide that some special taxes, called tariffs, that President Trump put in place are not allowed. If that happens, the government might have to give back a huge amount of money, like $168 billion, to businesses that paid those taxes.",
+        "id": "story-1765636589565-2",
+        "headline": "America Takes Control of an Oil Ship Near Venezuela",
+        "content": "Soldiers from the U.S. military, even some who swung down from helicopters, took over a big oil ship called the Skipper near a country called Venezuela. They had a special paper, like a permission slip, because the ship was supposedly helping to illegally sell oil. This action is a big step in President Trump's plan to stop money from going to Nicolás Maduro's government, which the U.S. doesn't like.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
+        "publishedTime": "2 days ago"
+      },
+      {
+        "id": "story-1765636589565-3",
+        "headline": "President Trump's Team Doesn't Want Sign Language at Meetings",
+        "content": "A judge said that the White House should have someone who can do sign language at their news meetings so people who can't hear can understand. But President Trump's team is saying 'no.' Lawyers for the government said that having sign language might mess with how President Trump wants to show himself to everyone and what he wants to say.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-4",
+        "headline": "Ex-Football Coach Accused of Breaking Into Someone's Home",
+        "content": "A football coach from the University of Michigan, named Sherrone Moore, was fired and now faces serious charges. They say he broke into his former girlfriend's apartment, scared her, and even said he would hurt himself. This all happened after she told the university about their relationship, which made him lose his job.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-5",
+        "headline": "Speaker Johnson Is Having Trouble Leading His Team in Congress",
+        "content": "The leader of a group of politicians called the House, Speaker Mike Johnson, is having a tough time. Some politicians from his own team, called Republicans, are working with the other team, the Democrats, instead of listening to him. For example, they all voted to make sure a bill to help people pay for health insurance gets voted on, even though Speaker Johnson didn't want it to.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-3",
-        "headline": "A big boss in the U.S. military is leaving his job early.",
-        "content": "Admiral Alvin Holsey, who was in charge of U.S. military groups in places like the Caribbean, retired from his job earlier than expected. This happened while the U.S. military is getting bigger and more people are watching what they are doing near Venezuela.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-4",
-        "headline": "The man who stabbed someone at Macy's left a mental hospital just before.",
-        "content": "A man who is thought to have stabbed someone at a Macy's store was let out of a special hospital for people with mental health issues only a few hours before the attack. This makes people wonder why he was let go and if the hospitals and police talk to each other enough.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765631932080-5",
-        "headline": "New pictures about the Jeffrey Epstein case are out now.",
-        "content": "Some politicians, called Democrats, have shown new pictures and information about the Jeffrey Epstein case. This means people are looking closely at the investigation again. These new things help everyone understand more about the people involved and what they are accused of doing wrong.",
-        "originalSource": "PBS News / The Guardian",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "publishedTime": "1 day ago"
       }
     ],
     "Micro Fiction": [
       {
-        "id": "story-1765631932080-0",
-        "headline": "The Frayed Thread of Power",
-        "content": "The Speaker watched his authority unravel, a silk thread fraying under the constant tug of dissent. Each defiant vote chipped away at his control, leaving a vacuum where once lay a firm hand. Meanwhile, an unseen clock ticked down for millions. January loomed, a cold promise of doubled premiums for families already stretched thin. The intricate web of healthcare credits, once a safety net, now threatened to dissolve, leaving countless vulnerable to the financial winds. The political battles within the Capitol echoed with the silent anxieties of everyday Americans, their well-being hanging precariously in the balance.",
+        "id": "story-1765636589565-0",
+        "headline": "The Uninsured Dawn",
+        "content": "December’s cold breath brought a looming dread. For twenty-two million Americans, a ticking clock signaled the end of vital health subsidies. Come January, an average 114% surge in premiums would hit, a crushing blow for families, freelancers, and small business owners. The choice loomed stark: pay exorbitant rates or join the ranks of the uninsured. Four million were projected to fall into this abyss, their security shattered, their futures uncertain. The promise of affordable care faded, replaced by the bitter reality of a system leaving many behind in its wake.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "16 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/aca-subsidies-health-plan-costs-double-expire/",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-1",
-        "headline": "Oil and Shadows on the Horizon",
-        "content": "The 'Skipper' cut through the dark waters, a ghost in the night, until the American patrol closed in. Its seizure off Venezuela was a stark declaration. President Trump’s resolve to choke off a regime's lifeline had intensified, turning the vast ocean into a new battleground. The vessel, once a phantom carrying illicit cargo, now stood as a symbol. A new chapter began in the covert war against a shadow fleet, one where every ripple and every distant ship was scrutinized, signaling a relentless pursuit to sever the threads of an illegal oil trade.",
-        "originalSource": "PBS News / Associated Press",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "11 hours ago"
+        "id": "story-1765636589565-1",
+        "headline": "Shadows of the Island",
+        "content": "A digital whisper turned into a roar. House Democrats, in a calculated move, unveiled a selection of haunting photographs from Jeffrey Epstein's estate. Among the spectral images: President Trump, Bill Clinton, and Prince Andrew. The release wasn’t an accusation but a lever, a strategic prod to unearth the remaining secrets held within the late financier’s files. The photos, a silent testament to powerful connections, offered a glimpse into a world shrouded in mystery, intensifying the pressure for full transparency and leaving countless questions in their wake.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/epstein-trump-clinton-photos-estate-release-471239c063c4566c1e5503e404b341f3",
+        "publishedTime": "1 day ago"
       },
       {
-        "id": "story-1765631932080-2",
-        "headline": "When the Gavel Falls",
-        "content": "The Supreme Court’s decision loomed, a potential earthquake in the nation's ledgers. Should the justices invalidate the emergency tariffs set forth by President Trump, an unforeseen debt would ripple through the economy. Experts whispered of a staggering $168 billion, a colossal sum owed back to businesses across the country. The tariffs, once a shield, now threatened to become a financial boomerang. Boardrooms across America held their breath, waiting for the gavel's echo, a sound that could either solidify fortunes or demand a massive, unprecedented payback from the federal coffers.",
+        "id": "story-1765636589565-2",
+        "headline": "The Caribbean Interception",
+        "content": "The Caribbean night erupted with the roar of rotors. U.S. commandos, dark silhouettes against the moon, fast-roped from helicopters onto the deck of the oil tanker *Skipper* off the Venezuelan coast. It was a swift, decisive operation, armed with a warrant for illicit oil trade. This wasn't merely a seizure; it was a potent escalation of President Trump’s relentless campaign to choke the financial lifelines of Nicolás Maduro’s sanctioned regime. The *Skipper*, now a symbol of defiance, drifted silently in its wake, the oil flowing no more.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/us-seizes-oil-tanker-venezuela-maduro-sanctions-d64c000302b1464e8e89456561271175",
+        "publishedTime": "2 days ago"
+      },
+      {
+        "id": "story-1765636589565-3",
+        "headline": "A Visible Voice Denied",
+        "content": "The administration argued, through legal filings, that a visual voice would disrupt the carefully curated image. A federal court had mandated real-time American Sign Language interpretation for White House press briefings, a move for accessibility. Yet, President Trump’s administration appealed, asserting such a requirement would 'severely intrude on the President's prerogative to control the image he presents to the public' and his crucial messaging. The fight wasn't just about interpretation; it was about the power of presentation, the boundaries of public access, and who ultimately controlled the narrative.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/trump-sign-language-interpreter-white-house-lawsuit-49e0c7a523a5477c8e9b0680a6b5a371",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-4",
+        "headline": "Beneath the Stadium Lights",
+        "content": "The heroics on the football field faded, replaced by a chilling scene. Sherrone Moore, once a revered Michigan coach, now faced felony charges: home invasion, stalking, and misdemeanor breaking and entering. Prosecutors painted a disturbing picture: barging into his former partner's apartment, uttering threats of self-harm, and intimidating statements after she reported their turbulent relationship. His abrupt dismissal from the university now had a grim backdrop, revealing a private turmoil that eclipsed any public glory, casting a long, dark shadow over his once-promising career.",
+        "originalSource": "Associated Press (AP)",
+        "sourceUrl": "https://apnews.com/article/sherrone-moore-charged-michigan-football-home-invasion-stalking-f89762145b8535352c3c126435c2b291",
+        "publishedTime": "1 day ago"
+      },
+      {
+        "id": "story-1765636589565-5",
+        "headline": "The Speaker's Shaky Throne",
+        "content": "The gavel’s authority wavered, its ring less assured. House Speaker Mike Johnson felt his grip on power loosening as a coalition of moderate Republicans aligned with Democrats. They defied his leadership, pushing through a procedural maneuver to force a floor vote. The target: a bipartisan bill extending the Affordable Care Act premium tax credits, a measure Johnson staunchly resisted. The rebellion was clear, a chasm opening within his own party. The Speaker’s command was challenged, his legislative agenda threatened by the very members he was meant to lead.",
         "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-3",
-        "headline": "The Watchman's Early Exit",
-        "content": "The command change was sudden, an unexpected shift in the winds of military leadership. Admiral Holsey, the seasoned watchman of the Caribbean and Latin America, stepped down from U.S. Southern Command prematurely. His early departure resonated with the increased scrutiny shadowing operations off the Venezuelan coast. Forces were building, a silent, strategic expansion in a volatile region. Amidst the heightened tension and quiet maneuvers, a new hand was now needed to guide the complex chess game, taking the helm as the currents of geopolitical strategy deepened and accelerated.",
-        "originalSource": "CBS News",
-        "sourceUrl": "https://www.cbsnews.com/us-news/",
-        "publishedTime": "19 hours ago"
-      },
-      {
-        "id": "story-1765631932080-4",
-        "headline": "The Clock's Cruel Twist",
-        "content": "The city’s heartbeat paused, a collective gasp echoing through Macy’s bustling aisles. A stabbing. The attacker, captured, revealed a chilling timeline: released from a psychiatric hospital mere hours before the brutal act. The clock's cruel twist exposed a gaping fissure in the systems designed to protect. Questions swirled like autumn leaves, sharp and relentless, aimed at the blurred lines between mental health care and public safety. A man deemed ready for freedom had, instead, unleashed chaos, leaving behind a stark, unsettling reminder of unseen vulnerabilities within the very fabric of society.",
-        "originalSource": "Fox News",
-        "sourceUrl": "https://www.foxnews.com/",
-        "publishedTime": "Less than 24 hours ago"
-      },
-      {
-        "id": "story-1765631932080-5",
-        "headline": "Unmasking the Shadows",
-        "content": "The photographs were finally unveiled, a stark, unsettling tableau from the Epstein archives. Democrats had released them, fresh evidence peeling back layers of a scandal thought by some to be fading. Each image, a silent testament, rekindled the dormant embers of public outrage and scrutiny. The faces within those frames, some known, some newly exposed, ignited a fresh wave of public discussion. The release wasn't just evidence; it was a reawakening, forcing the world to confront the sprawling, dark narrative of the alleged crimes once more, demanding accountability.",
-        "originalSource": "PBS News / The Guardian",
-        "sourceUrl": "https://www.pbs.org/newshour/latest",
-        "publishedTime": "12 hours ago"
+        "sourceUrl": "https://www.cbsnews.com/news/mike-johnson-house-gop-defy-leadership-slipping-grip/",
+        "publishedTime": "1 day ago"
       }
     ]
   }
